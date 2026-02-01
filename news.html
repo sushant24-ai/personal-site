@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Daily AI News - Stay updated with the latest AI, ML, and LLM news curated from top sources.">
+    <meta name="description" content="Daily AI News - Top 5 curated AI stories every day, updated at 7 AM IST.">
     <title>AI News - Sushant Sikare</title>
 
     <!-- Google Fonts -->
@@ -18,10 +17,32 @@
     <!-- Styles -->
     <link rel="stylesheet" href="css/style.css">
     <style>
+        .news-date-header {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin: 2rem 0 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .news-date-header .date-icon {
+            font-size: 1.25rem;
+        }
+
+        .news-date-badge {
+            background: var(--accent);
+            color: #fff;
+            font-size: 0.75rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-weight: 500;
+        }
+
         .news-grid {
             display: grid;
             gap: 1rem;
-            margin-top: 2rem;
         }
 
         .news-card {
@@ -32,7 +53,9 @@
             transition: all 0.2s ease;
             text-decoration: none;
             color: inherit;
-            display: block;
+            display: flex;
+            gap: 1rem;
+            align-items: flex-start;
         }
 
         .news-card:hover {
@@ -41,8 +64,20 @@
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         }
 
+        .news-rank {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent);
+            min-width: 2rem;
+            text-align: center;
+        }
+
+        .news-content {
+            flex: 1;
+        }
+
         .news-title {
-            font-size: 1.1rem;
+            font-size: 1.05rem;
             font-weight: 600;
             color: var(--text-primary);
             margin-bottom: 0.5rem;
@@ -99,7 +134,21 @@
             align-items: center;
             flex-wrap: wrap;
             gap: 1rem;
-            margin-bottom: 1rem;
+            margin-bottom: 0.5rem;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            border: 1px solid var(--border);
+        }
+
+        .update-info {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        .update-time {
+            color: var(--accent);
+            font-weight: 500;
         }
 
         .refresh-btn {
@@ -111,15 +160,13 @@
             cursor: pointer;
             font-size: 0.9rem;
             transition: opacity 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
         }
 
         .refresh-btn:hover {
             opacity: 0.9;
-        }
-
-        .last-updated {
-            font-size: 0.85rem;
-            color: var(--text-secondary);
         }
 
         .error-message {
@@ -130,28 +177,21 @@
             text-align: center;
         }
 
-        .filter-tabs {
-            display: flex;
-            gap: 0.5rem;
-            margin-bottom: 1.5rem;
-            flex-wrap: wrap;
-        }
-
-        .filter-tab {
-            background: var(--bg-secondary);
-            border: 1px solid var(--border);
-            padding: 0.5rem 1rem;
-            border-radius: 20px;
-            cursor: pointer;
-            font-size: 0.9rem;
-            transition: all 0.2s;
-        }
-
-        .filter-tab:hover,
-        .filter-tab.active {
-            background: var(--accent);
+        .algo-badge {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: #fff;
-            border-color: var(--accent);
+            font-size: 0.7rem;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            margin-left: 0.5rem;
+        }
+
+        .hero-subtitle {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
         }
     </style>
 </head>
@@ -176,28 +216,27 @@
         <div class="container">
             <section class="hero">
                 <h1>🤖 AI Daily News</h1>
-                <p class="hero-subtitle">Top AI, ML & LLM stories from Hacker News, updated in real-time</p>
+                <p class="hero-subtitle">
+                    Top 5 AI stories curated daily
+                    <span class="algo-badge">Smart Ranking</span>
+                </p>
             </section>
 
             <div class="news-header">
-                <div class="filter-tabs">
-                    <button class="filter-tab active" data-filter="all">All</button>
-                    <button class="filter-tab" data-filter="ai">AI</button>
-                    <button class="filter-tab" data-filter="llm">LLM</button>
-                    <button class="filter-tab" data-filter="ml">ML</button>
-                    <button class="filter-tab" data-filter="gpt">GPT</button>
-                    <button class="filter-tab" data-filter="openai">OpenAI</button>
+                <div class="update-info">
+                    📅 Daily updates at <span class="update-time">7:00 AM IST</span>
+                    <br>
+                    <span id="lastUpdated" style="font-size: 0.8rem;"></span>
                 </div>
-                <div>
-                    <span class="last-updated" id="lastUpdated"></span>
-                    <button class="refresh-btn" onclick="fetchNews()">↻ Refresh</button>
-                </div>
+                <button class="refresh-btn" onclick="fetchNews()">
+                    ↻ Refresh Now
+                </button>
             </div>
 
-            <div id="newsContainer" class="news-grid">
+            <div id="newsContainer">
                 <div class="loading">
                     <div class="loading-spinner"></div>
-                    <p>Loading AI news...</p>
+                    <p>Curating top AI stories...</p>
                 </div>
             </div>
         </div>
@@ -220,52 +259,112 @@
 
     <script src="js/main.js"></script>
     <script>
-        // AI-related keywords to filter stories
+        // AI-related keywords (all consolidated into one AI category)
         const AI_KEYWORDS = [
             'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
             'neural network', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'claude',
             'gemini', 'transformer', 'nlp', 'computer vision', 'langchain', 'rag',
             'vector database', 'embedding', 'fine-tuning', 'hugging face', 'diffusion',
             'stable diffusion', 'midjourney', 'dall-e', 'llama', 'mistral', 'copilot',
-            'agent', 'agentic', 'model', 'nvidia', 'cuda', 'pytorch', 'tensorflow',
-            'prompt', 'inference', 'training', 'benchmark', 'mcp', 'reasoning'
+            'agent', 'agentic', 'nvidia', 'cuda', 'pytorch', 'tensorflow',
+            'prompt', 'inference', 'training', 'benchmark', 'mcp', 'reasoning',
+            'sora', 'deepseek', 'perplexity', 'cursor', 'windsurf', 'v0'
         ];
 
-        let allStories = [];
-        let currentFilter = 'all';
+        // High-value keywords get bonus scores
+        const HIGH_VALUE_KEYWORDS = {
+            'openai': 3, 'gpt-5': 5, 'gpt': 2, 'claude': 3, 'gemini': 3,
+            'llama': 2, 'mistral': 2, 'anthropic': 3, 'deepseek': 3,
+            'sora': 3, 'agent': 2, 'agentic': 2, 'reasoning': 2
+        };
+
+        /**
+         * Smart ranking algorithm:
+         * Score = (HN points × recency_factor × keyword_bonus) / sqrt(hours_old + 2)
+         */
+        function calculateScore(story) {
+            const hoursOld = (Date.now() - story.time * 1000) / (1000 * 60 * 60);
+            const titleLower = story.title.toLowerCase();
+
+            // Base score from HN points
+            let score = story.score || 0;
+
+            // Keyword bonus
+            let keywordBonus = 1;
+            for (const [keyword, bonus] of Object.entries(HIGH_VALUE_KEYWORDS)) {
+                if (titleLower.includes(keyword)) {
+                    keywordBonus += bonus * 0.1;
+                }
+            }
+
+            // Recency factor (newer = higher)
+            const recencyFactor = Math.max(0.5, 1 - (hoursOld / 48));
+
+            // Comments engagement bonus
+            const commentsBonus = Math.log10((story.descendants || 0) + 1) * 0.2 + 1;
+
+            // Final score with time decay
+            return (score * recencyFactor * keywordBonus * commentsBonus) / Math.sqrt(hoursOld + 2);
+        }
 
         async function fetchNews() {
             const container = document.getElementById('newsContainer');
             container.innerHTML = `
                 <div class="loading">
                     <div class="loading-spinner"></div>
-                    <p>Loading AI news...</p>
+                    <p>Curating top AI stories...</p>
                 </div>
             `;
 
             try {
-                // Fetch top stories from Hacker News
-                const topStoriesRes = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
-                const topStoryIds = await topStoriesRes.json();
+                // Fetch top and new stories from Hacker News
+                const [topRes, newRes] = await Promise.all([
+                    fetch('https://hacker-news.firebaseio.com/v0/topstories.json'),
+                    fetch('https://hacker-news.firebaseio.com/v0/newstories.json')
+                ]);
 
-                // Fetch details for top 100 stories
-                const storyPromises = topStoryIds.slice(0, 100).map(id =>
+                const topIds = await topRes.json();
+                const newIds = await newRes.json();
+
+                // Combine and deduplicate
+                const allIds = [...new Set([...topIds.slice(0, 100), ...newIds.slice(0, 50)])];
+
+                // Fetch story details
+                const storyPromises = allIds.map(id =>
                     fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`).then(r => r.json())
                 );
                 const stories = await Promise.all(storyPromises);
 
                 // Filter for AI-related stories
-                allStories = stories.filter(story => {
+                const aiStories = stories.filter(story => {
                     if (!story || !story.title) return false;
                     const titleLower = story.title.toLowerCase();
                     return AI_KEYWORDS.some(keyword => titleLower.includes(keyword));
                 });
 
-                // Update last updated time
-                document.getElementById('lastUpdated').textContent =
-                    `Updated: ${new Date().toLocaleTimeString()}`;
+                // Score and sort stories
+                const scoredStories = aiStories.map(story => ({
+                    ...story,
+                    smartScore: calculateScore(story)
+                })).sort((a, b) => b.smartScore - a.smartScore);
 
-                renderNews();
+                // Get top 5
+                const top5 = scoredStories.slice(0, 5);
+
+                // Update last updated time
+                const now = new Date();
+                document.getElementById('lastUpdated').textContent =
+                    `Last refreshed: ${now.toLocaleDateString('en-IN', {
+                        weekday: 'long',
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        timeZone: 'Asia/Kolkata'
+                    })} IST`;
+
+                renderNews(top5, now);
 
             } catch (error) {
                 container.innerHTML = `
@@ -277,43 +376,61 @@
             }
         }
 
-        function renderNews() {
+        function renderNews(stories, date) {
             const container = document.getElementById('newsContainer');
 
-            let filtered = allStories;
-            if (currentFilter !== 'all') {
-                filtered = allStories.filter(story =>
-                    story.title.toLowerCase().includes(currentFilter)
-                );
-            }
-
-            if (filtered.length === 0) {
+            if (stories.length === 0) {
                 container.innerHTML = `
                     <div class="loading">
-                        <p>No ${currentFilter.toUpperCase()} stories found. Try another filter or refresh.</p>
+                        <p>No AI stories found. Try refreshing later.</p>
                     </div>
                 `;
                 return;
             }
 
-            container.innerHTML = filtered.slice(0, 20).map(story => {
-                const domain = story.url ? new URL(story.url).hostname.replace('www.', '') : 'news.ycombinator.com';
+            const dateStr = date.toLocaleDateString('en-IN', {
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                timeZone: 'Asia/Kolkata'
+            });
+
+            let html = `
+                <div class="news-date-header">
+                    <span class="date-icon">📰</span>
+                    ${dateStr}
+                    <span class="news-date-badge">Top 5</span>
+                </div>
+                <div class="news-grid">
+            `;
+
+            stories.forEach((story, index) => {
+                const domain = story.url
+                    ? new URL(story.url).hostname.replace('www.', '')
+                    : 'news.ycombinator.com';
                 const timeAgo = getTimeAgo(story.time * 1000);
 
-                return `
+                html += `
                     <a href="${story.url || `https://news.ycombinator.com/item?id=${story.id}`}" 
                        target="_blank" 
                        class="news-card">
-                        <h3 class="news-title">${story.title}</h3>
-                        <div class="news-meta">
-                            <span class="news-source">${domain}</span>
-                            <span class="news-points">⬆ ${story.score} points</span>
-                            <span>💬 ${story.descendants || 0} comments</span>
-                            <span>🕐 ${timeAgo}</span>
+                        <span class="news-rank">#${index + 1}</span>
+                        <div class="news-content">
+                            <h3 class="news-title">${story.title}</h3>
+                            <div class="news-meta">
+                                <span class="news-source">${domain}</span>
+                                <span class="news-points">⬆ ${story.score} points</span>
+                                <span>💬 ${story.descendants || 0}</span>
+                                <span>🕐 ${timeAgo}</span>
+                            </div>
                         </div>
                     </a>
                 `;
-            }).join('');
+            });
+
+            html += '</div>';
+            container.innerHTML = html;
         }
 
         function getTimeAgo(timestamp) {
@@ -324,21 +441,11 @@
             return `${Math.floor(seconds / 86400)}d ago`;
         }
 
-        // Filter tab functionality
-        document.querySelectorAll('.filter-tab').forEach(tab => {
-            tab.addEventListener('click', () => {
-                document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
-                tab.classList.add('active');
-                currentFilter = tab.dataset.filter;
-                renderNews();
-            });
-        });
-
         // Initial load
         fetchNews();
 
-        // Auto-refresh every 5 minutes
-        setInterval(fetchNews, 5 * 60 * 1000);
+        // Auto-refresh every 30 minutes
+        setInterval(fetchNews, 30 * 60 * 1000);
     </script>
 </body>
 
