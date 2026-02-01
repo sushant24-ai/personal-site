@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="A beginner's guide to SQL and NoSQL databases. Learn the key differences, when to use each, and how to choose the right database for your application.">
+    <title>SQL vs NoSQL: A Beginner's Guide - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>A Beginner's Guide to SQL vs NoSQL</h1>
+                <div class="post-meta">
+                    July 10, 2022
+                    <span class="post-tags">
+                        <span class="tag">Database</span>
+                        <span class="tag">SQL</span>
+                        <span class="tag">NoSQL</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    Choosing the right database is one of the most important architectural decisions you'll make.
+                    In this guide, we'll explore SQL and NoSQL databases, their differences, and when to use each.
+                </p>
+
+                <h2>➊ What is a Database?</h2>
+
+                <p>
+                    A database is an <em>"organized collection of data"</em> stored in a computer system so that it can
+                    be
+                    easily accessed and managed. In the early days of computing, data was stored in flat files. As
+                    applications
+                    grew more complex, we needed better ways to organize and query our data.
+                </p>
+
+                <h2>➋ What is a Relational Database?</h2>
+
+                <p>
+                    A relational database organizes data into <strong>tables</strong> (also called relations) with
+                    <strong>rows</strong> and <strong>columns</strong>. Tables can be linked together using keys,
+                    creating relationships between data.
+                </p>
+
+                <div class="mermaid">
+                    erDiagram
+                    USERS ||--o{ ORDERS : places
+                    USERS {
+                    int id PK
+                    string name
+                    string email
+                    }
+                    ORDERS ||--|{ ORDER_ITEMS : contains
+                    ORDERS {
+                    int id PK
+                    int user_id FK
+                    date created_at
+                    }
+                    ORDER_ITEMS {
+                    int id PK
+                    int order_id FK
+                    int product_id FK
+                    int quantity
+                    }
+                    PRODUCTS ||--o{ ORDER_ITEMS : "ordered in"
+                    PRODUCTS {
+                    int id PK
+                    string name
+                    float price
+                    }
+                </div>
+
+                <h2>➌ What is SQL?</h2>
+
+                <p>
+                    <strong>SQL (Structured Query Language)</strong> is the standard language for interacting with
+                    relational databases.
+                    It allows you to:
+                </p>
+
+                <ul>
+                    <li>Create and modify database structures (DDL)</li>
+                    <li>Insert, update, and delete data (DML)</li>
+                    <li>Query and retrieve data</li>
+                    <li>Control access permissions (DCL)</li>
+                </ul>
+
+                <pre><code>-- Example SQL query
+SELECT users.name, COUNT(orders.id) as order_count
+FROM users
+LEFT JOIN orders ON users.id = orders.user_id
+GROUP BY users.id
+HAVING order_count > 5;</code></pre>
+
+                <p><strong>Popular SQL databases:</strong> PostgreSQL, MySQL, SQLite, Oracle, SQL Server</p>
+
+                <h2>➍ What is NoSQL?</h2>
+
+                <p>
+                    <strong>NoSQL</strong> stands for "Not Only SQL" and refers to databases that don't follow the
+                    traditional
+                    relational model. They're designed for:
+                </p>
+
+                <ul>
+                    <li>Flexible, schema-less data models</li>
+                    <li>Horizontal scalability (scale out)</li>
+                    <li>High performance for specific use cases</li>
+                    <li>Handling unstructured or semi-structured data</li>
+                </ul>
+
+                <h2>➎ Types of NoSQL Databases</h2>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph NoSQL["NoSQL Database Types"]
+                    DOC[Document Stores<br />MongoDB, CouchDB]
+                    KV[Key-Value Stores<br />Redis, DynamoDB]
+                    COL[Column Family<br />Cassandra, HBase]
+                    GRAPH[Graph Databases<br />Neo4j, ArangoDB]
+                    end
+
+                    style DOC fill:#3b82f6,color:#fff
+                    style KV fill:#10b981,color:#fff
+                    style COL fill:#f59e0b,color:#000
+                    style GRAPH fill:#8b5cf6,color:#fff
+                </div>
+
+                <ul>
+                    <li><strong>Document Stores</strong> — Store data as JSON-like documents (MongoDB, CouchDB)</li>
+                    <li><strong>Key-Value Stores</strong> — Simple key-value pairs, great for caching (Redis, DynamoDB)
+                    </li>
+                    <li><strong>Column Family</strong> — Optimized for queries over large datasets (Cassandra, HBase)
+                    </li>
+                    <li><strong>Graph Databases</strong> — Store relationships between data (Neo4j, ArangoDB)</li>
+                </ul>
+
+                <h2>➏ SQL vs NoSQL Comparison</h2>
+
+                <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0;">
+                    <thead>
+                        <tr style="background: var(--bg-secondary);">
+                            <th style="padding: 0.75rem; border: 1px solid var(--border); text-align: left;">Aspect</th>
+                            <th style="padding: 0.75rem; border: 1px solid var(--border); text-align: left;">SQL</th>
+                            <th style="padding: 0.75rem; border: 1px solid var(--border); text-align: left;">NoSQL</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Schema</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Fixed, predefined schema</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Dynamic, flexible schema</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Scaling</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Vertical (scale up)</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Horizontal (scale out)</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">ACID</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Strong ACID compliance</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Eventual consistency
+                                (usually)</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Best For</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Complex queries, transactions
+                            </td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">High volume, flexible data
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h2>➐ Which One Should You Use?</h2>
+
+                <h3>Choose SQL when:</h3>
+                <ul>
+                    <li>Your data has a clear, consistent structure</li>
+                    <li>You need complex joins and queries</li>
+                    <li>ACID transactions are critical (banking, e-commerce)</li>
+                    <li>Data integrity is a top priority</li>
+                </ul>
+
+                <h3>Choose NoSQL when:</h3>
+                <ul>
+                    <li>Your data structure may change frequently</li>
+                    <li>You need to scale horizontally quickly</li>
+                    <li>You're dealing with large volumes of unstructured data</li>
+                    <li>Performance and availability matter more than strict consistency</li>
+                </ul>
+
+                <blockquote>
+                    <strong>Pro Tip:</strong> Many modern applications use both! SQL for core business data that needs
+                    strong consistency, and NoSQL for caching, logging, or storing flexible data.
+                </blockquote>
+
+                <h2>📝 Final Words</h2>
+
+                <ul>
+                    <li><strong>SQL</strong> is the language used to manage data in relational databases</li>
+                    <li><strong>NoSQL</strong> is an umbrella term for databases that follow the CAP theorem</li>
+                    <li>Both are popular and have their use cases — choose based on your requirements</li>
+                </ul>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

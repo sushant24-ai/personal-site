@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Beyond basic RAG - advanced architectures for enterprise AI applications including hybrid search, reranking, and query routing.">
+    <title>RAG Architectures for Enterprise: Beyond the Basics - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>RAG Architectures for Enterprise: Beyond the Basics</h1>
+                <div class="post-meta">
+                    November 10, 2025
+                    <span class="post-tags">
+                        <span class="tag">RAG</span>
+                        <span class="tag">Architecture</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    Everyone knows the basic RAG pattern: embed documents, store in a vector database, retrieve similar
+                    chunks,
+                    pass to an LLM. But when you're building for enterprise scale, the basics aren't enough. Here's what
+                    I've learned building production RAG systems.
+                </p>
+
+                <h2>🔍 The Basic RAG Pattern</h2>
+
+                <p>Let's start with what most tutorials teach:</p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    DOC[Documents] --> CHUNK[Chunking]
+                    CHUNK --> EMBED[Embedding]
+                    EMBED --> VECTOR[(Vector DB)]
+
+                    QUERY[User Query] --> QEMBED[Query Embedding]
+                    QEMBED --> SEARCH[Similarity Search]
+                    VECTOR --> SEARCH
+                    SEARCH --> CONTEXT[Retrieved Context]
+                    CONTEXT --> LLM[LLM]
+                    QUERY --> LLM
+                    LLM --> ANSWER[Answer]
+
+                    style VECTOR fill:#3b82f6,color:#fff
+                    style LLM fill:#10b981,color:#fff
+                </div>
+
+                <p>
+                    This works for demos. In production, you'll quickly hit limitations around accuracy,
+                    latency, and cost.
+                </p>
+
+                <h2>🚀 Level Up #1: Hybrid Search</h2>
+
+                <p>
+                    Vector similarity isn't always enough. Sometimes users search for exact terms, product codes,
+                    or specific phrases. <strong>Hybrid search</strong> combines:
+                </p>
+
+                <ul>
+                    <li><strong>Vector search</strong> — Semantic understanding</li>
+                    <li><strong>Keyword search</strong> — Exact matching (BM25)</li>
+                </ul>
+
+                <div class="mermaid">
+                    flowchart TB
+                    QUERY[User Query] --> VECTOR[Vector Search<br />Semantic]
+                    QUERY --> BM25[BM25 Search<br />Keywords]
+
+                    VECTOR --> RRF[Reciprocal Rank Fusion]
+                    BM25 --> RRF
+
+                    RRF --> RESULTS[Merged Results]
+
+                    style VECTOR fill:#3b82f6,color:#fff
+                    style BM25 fill:#f59e0b,color:#000
+                    style RRF fill:#10b981,color:#fff
+                </div>
+
+                <p>
+                    <strong>Reciprocal Rank Fusion (RRF)</strong> is a simple but effective way to merge rankings
+                    from both search methods:
+                </p>
+
+                <pre><code>def rrf_score(rank, k=60):
+    return 1 / (k + rank)
+
+# Merge scores from both searches
+final_score = rrf_score(vector_rank) + rrf_score(bm25_rank)</code></pre>
+
+                <h2>📊 Level Up #2: Reranking</h2>
+
+                <p>
+                    Initial retrieval is fast but imprecise. Reranking adds a second pass with a more powerful model:
+                </p>
+
+                <ol>
+                    <li>Retrieve top-50 candidates (fast, cheap)</li>
+                    <li>Rerank with a cross-encoder to get top-5 (slower, more accurate)</li>
+                </ol>
+
+                <div class="mermaid">
+                    flowchart LR
+                    QUERY[Query] --> RETRIEVE[Fast Retrieval<br />Top 50]
+                    RETRIEVE --> RERANK[Cross-Encoder<br />Rerank]
+                    RERANK --> TOP[Top 5 Results]
+
+                    style RETRIEVE fill:#f59e0b,color:#000
+                    style RERANK fill:#10b981,color:#fff
+                </div>
+
+                <p>
+                    Cross-encoders like <code>cross-encoder/ms-marco-MiniLM-L-6-v2</code> are trained specifically
+                    for relevance ranking and significantly improve accuracy.
+                </p>
+
+                <h2>🔀 Level Up #3: Query Routing</h2>
+
+                <p>
+                    Not all queries are the same. Some need document search, others need database queries,
+                    and some might need external APIs. A <strong>query router</strong> analyzes the query and
+                    sends it to the right pipeline:
+                </p>
+
+                <div class="mermaid">
+                    flowchart TB
+                    QUERY[User Query] --> ROUTER[Query Router<br />LLM Classifier]
+
+                    ROUTER -->|Documents| RAG[RAG Pipeline]
+                    ROUTER -->|Structured Data| SQL[SQL Query]
+                    ROUTER -->|Real-time| API[External API]
+                    ROUTER -->|Simple| DIRECT[Direct LLM]
+
+                    RAG --> MERGE[Response Merger]
+                    SQL --> MERGE
+                    API --> MERGE
+                    DIRECT --> MERGE
+
+                    MERGE --> ANSWER[Final Answer]
+
+                    style ROUTER fill:#8b5cf6,color:#fff
+                    style MERGE fill:#10b981,color:#fff
+                </div>
+
+                <h2>📝 Level Up #4: Better Chunking</h2>
+
+                <p>
+                    Fixed-size chunking loses context. Consider these alternatives:
+                </p>
+
+                <ul>
+                    <li><strong>Semantic chunking</strong> — Split on topic boundaries</li>
+                    <li><strong>Recursive chunking</strong> — Respect document structure (headers, paragraphs)</li>
+                    <li><strong>Sliding window with overlap</strong> — Preserve context at boundaries</li>
+                    <li><strong>Parent document retrieval</strong> — Retrieve small chunks, return larger context</li>
+                </ul>
+
+                <h2>🎯 Level Up #5: Evaluation Pipeline</h2>
+
+                <p>
+                    You can't improve what you can't measure. Build an evaluation pipeline that tests:
+                </p>
+
+                <ul>
+                    <li><strong>Retrieval quality</strong> — Are we finding the right documents?</li>
+                    <li><strong>Answer accuracy</strong> — Is the LLM giving correct answers?</li>
+                    <li><strong>Faithfulness</strong> — Is the answer grounded in the retrieved context?</li>
+                </ul>
+
+                <pre><code># Example evaluation metrics
+def evaluate_rag(test_cases):
+    metrics = {
+        'retrieval_precision': [],
+        'retrieval_recall': [],
+        'answer_correctness': [],
+        'faithfulness': []
+    }
+    
+    for case in test_cases:
+        retrieved = retriever.get(case.query)
+        answer = rag_chain.run(case.query)
+        
+        # Calculate metrics
+        metrics['retrieval_precision'].append(
+            precision(retrieved, case.relevant_docs)
+        )
+        # ... more metrics
+    
+    return aggregate_metrics(metrics)</code></pre>
+
+                <h2>🎯 Key Takeaways</h2>
+
+                <ol>
+                    <li><strong>Hybrid search</strong> beats pure vector search for most real-world queries</li>
+                    <li><strong>Reranking</strong> is worth the latency cost for accuracy</li>
+                    <li><strong>Query routing</strong> lets you handle diverse query types efficiently</li>
+                    <li><strong>Chunking strategy</strong> has a huge impact on retrieval quality</li>
+                    <li><strong>Evaluation</strong> is essential — build it into your pipeline from day one</li>
+                </ol>
+
+                <p>
+                    Enterprise RAG is about stacking these improvements to get accuracy that users can trust.
+                    Start with the basics, measure everything, and iterate.
+                </p>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Lessons learned running ML workloads on Kubernetes - GPU scheduling, resource management, and best practices for production ML infrastructure.">
+    <title>Kubernetes for ML Workloads: Lessons Learned - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>Kubernetes for ML Workloads: Lessons Learned</h1>
+                <div class="post-meta">
+                    December 15, 2025
+                    <span class="post-tags">
+                        <span class="tag">Kubernetes</span>
+                        <span class="tag">ML Ops</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    After spending the past year running machine learning workloads on Kubernetes in production, I've
+                    learned
+                    quite a bit about what works and what doesn't. Here are my key takeaways for anyone looking to run
+                    ML
+                    infrastructure on K8s.
+                </p>
+
+                <h2>🎯 The Challenge</h2>
+
+                <p>
+                    Running ML workloads on Kubernetes is different from typical web services. You're dealing with:
+                </p>
+
+                <ul>
+                    <li><strong>GPU scheduling</strong> — GPUs are expensive and scarce</li>
+                    <li><strong>Long-running jobs</strong> — Training can take hours or days</li>
+                    <li><strong>Large data</strong> — Models and datasets are often many gigabytes</li>
+                    <li><strong>Bursty resource needs</strong> — Inference scales differently than training</li>
+                </ul>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph Challenges["ML on K8s Challenges"]
+                    GPU[GPU Scheduling]
+                    DATA[Data Management]
+                    SCALE[Auto-scaling]
+                    COST[Cost Optimization]
+                    end
+
+                    subgraph Solutions["Solutions"]
+                    SCHED[Custom Schedulers]
+                    PV[Persistent Volumes]
+                    HPA[HPA + KEDA]
+                    SPOT[Spot Instances]
+                    end
+
+                    GPU --> SCHED
+                    DATA --> PV
+                    SCALE --> HPA
+                    COST --> SPOT
+
+                    style GPU fill:#ef4444,color:#fff
+                    style SCHED fill:#10b981,color:#fff
+                </div>
+
+                <h2>📊 Lesson 1: GPU Scheduling is Hard</h2>
+
+                <p>
+                    Out of the box, Kubernetes treats GPUs as a simple resource like CPU or memory. But GPUs are
+                    different:
+                </p>
+
+                <ul>
+                    <li>They can't be shared between pods (usually)</li>
+                    <li>Different GPU types have vastly different capabilities</li>
+                    <li>GPU memory matters as much as count</li>
+                </ul>
+
+                <p><strong>What we did:</strong></p>
+
+                <pre><code>resources:
+  limits:
+    nvidia.com/gpu: 1
+  requests:
+    nvidia.com/gpu: 1
+nodeSelector:
+  gpu-type: a100
+  gpu-memory: 80gb</code></pre>
+
+                <p>
+                    We use node labels to ensure workloads land on the right GPU type. We also implemented
+                    <strong>time-slicing</strong> for inference workloads that don't need a full GPU.
+                </p>
+
+                <h2>💾 Lesson 2: Data Locality Matters</h2>
+
+                <p>
+                    Pulling a 50GB model from object storage every time a pod starts is a recipe for slow cold starts
+                    and high egress costs.
+                </p>
+
+                <p><strong>Our approach:</strong></p>
+
+                <ul>
+                    <li>Use <strong>persistent volumes</strong> with ReadWriteMany access mode for shared model storage
+                    </li>
+                    <li>Cache models on node-local SSDs using init containers</li>
+                    <li>Pre-pull images with model weights baked in for critical services</li>
+                </ul>
+
+                <div class="mermaid">
+                    flowchart LR
+                    subgraph Storage["Storage Hierarchy"]
+                    S3[Object Storage<br />Cold]
+                    NFS[NFS PV<br />Warm]
+                    LOCAL[Node SSD<br />Hot]
+                    end
+
+                    S3 -->|Initial Load| NFS
+                    NFS -->|Cache| LOCAL
+                    LOCAL -->|Fast Access| POD[ML Pod]
+
+                    style S3 fill:#3b82f6,color:#fff
+                    style NFS fill:#f59e0b,color:#000
+                    style LOCAL fill:#10b981,color:#fff
+                </div>
+
+                <h2>📈 Lesson 3: Autoscaling Needs Tuning</h2>
+
+                <p>
+                    The default Horizontal Pod Autoscaler (HPA) uses CPU metrics, which is useless for GPU workloads.
+                    Inference services need custom metrics based on:
+                </p>
+
+                <ul>
+                    <li>Request queue depth</li>
+                    <li>GPU utilization</li>
+                    <li>Request latency</li>
+                </ul>
+
+                <p><strong>We use KEDA</strong> (Kubernetes Event-Driven Autoscaling) with custom metrics from our
+                    inference servers:</p>
+
+                <pre><code>apiVersion: keda.sh/v1alpha1
+kind: ScaledObject
+metadata:
+  name: inference-scaler
+spec:
+  scaleTargetRef:
+    name: inference-deployment
+  triggers:
+    - type: prometheus
+      metadata:
+        query: avg(inference_queue_depth{service="model-a"})</code></pre>
+
+                <h2>💰 Lesson 4: Cost Optimization is Critical</h2>
+
+                <p>
+                    GPU nodes are expensive. A single A100 node can cost $15,000+/month. We saved significant money by:
+                </p>
+
+                <ul>
+                    <li><strong>Using spot instances</strong> for training jobs (with checkpointing)</li>
+                    <li><strong>Right-sizing GPU types</strong> — not every workload needs an A100</li>
+                    <li><strong>Implementing scale-to-zero</strong> for dev/staging environments</li>
+                    <li><strong>Bin-packing multiple small models</strong> on shared GPUs</li>
+                </ul>
+
+                <h2>🔧 Lesson 5: Observability is Non-Negotiable</h2>
+
+                <p>
+                    When a training job fails after 6 hours, you need to know why. We instrument everything:
+                </p>
+
+                <ul>
+                    <li><strong>GPU metrics</strong> — utilization, memory, temperature</li>
+                    <li><strong>Training metrics</strong> — loss, accuracy, throughput</li>
+                    <li><strong>Infrastructure metrics</strong> — node health, network I/O</li>
+                </ul>
+
+                <p>
+                    We use DCGM Exporter for GPU metrics and push them to Prometheus. Grafana dashboards give us
+                    visibility into the entire ML infrastructure.
+                </p>
+
+                <h2>🎯 Key Takeaways</h2>
+
+                <ol>
+                    <li><strong>Plan for GPU scarcity</strong> — implement proper scheduling and quotas</li>
+                    <li><strong>Optimize data access</strong> — cold starts kill user experience</li>
+                    <li><strong>Custom metrics for autoscaling</strong> — CPU metrics are useless for ML</li>
+                    <li><strong>Control costs aggressively</strong> — GPU bills can spiral quickly</li>
+                    <li><strong>Invest in observability</strong> — you can't optimize what you can't measure</li>
+                </ol>
+
+                <p>
+                    Running ML on Kubernetes is challenging but rewarding. The flexibility to scale training jobs
+                    and inference services independently is powerful. Just be prepared for the learning curve.
+                </p>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

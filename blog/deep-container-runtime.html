@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Deep dive into container runtimes - understanding high-level and low-level runtimes, containerd, runc, and how Docker fits into the picture.">
+    <title>🎯 Deep into Container Runtime - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>🎯 Deep into Container — Deep into Container Runtime</h1>
+                <div class="post-meta">
+                    November 22, 2022
+                    <span class="post-tags">
+                        <span class="tag">Containers</span>
+                        <span class="tag">Docker</span>
+                        <span class="tag">DevOps</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    <em>Continuing from the previous post, we learned about the two main components of building
+                        containers —
+                        Linux Namespaces and Cgroups. In this post, we're going to explore container runtimes and
+                        understand their role
+                        in the container ecosystem.</em>
+                </p>
+
+                <p>
+                    Container runtimes are the software responsible for running containers. But here's what many people
+                    don't realize:
+                    there are actually <strong>two levels</strong> of container runtimes, each with different
+                    responsibilities.
+                </p>
+
+                <h2>📌 Low-Level Container Runtime</h2>
+
+                <p>
+                    The low-level container runtime is the component closest to the operating system. Its primary job is
+                    to:
+                </p>
+
+                <ul>
+                    <li>Create and configure namespaces</li>
+                    <li>Set up cgroups</li>
+                    <li>Actually start and stop container processes</li>
+                </ul>
+
+                <p>
+                    The most common low-level runtime is <strong>runc</strong>, which is the reference implementation of
+                    the
+                    OCI (Open Container Initiative) runtime specification.
+                </p>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph LowLevel["Low-Level Runtime (runc)"]
+                    NS[Create Namespaces]
+                    CG[Configure Cgroups]
+                    FS[Set Up Filesystem]
+                    EXEC[Execute Process]
+                    end
+
+                    NS --> CG --> FS --> EXEC
+
+                    style NS fill:#3b82f6,color:#fff
+                    style CG fill:#3b82f6,color:#fff
+                    style FS fill:#3b82f6,color:#fff
+                    style EXEC fill:#10b981,color:#fff
+                </div>
+
+                <h2>📌 High-Level Container Runtime</h2>
+
+                <p>
+                    While the low-level container runtime focuses on <strong>creating and deleting containers</strong>,
+                    the high-level container runtime handles the bigger picture:
+                </p>
+
+                <ul>
+                    <li>Downloading container images from registries</li>
+                    <li>Managing container images locally</li>
+                    <li>Running containers from images</li>
+                    <li>Managing the lifecycle of multiple containers</li>
+                    <li>Loading and unpacking container images for the low-level runtime</li>
+                </ul>
+
+                <p>
+                    <strong>Containerd</strong> is the most common high-level container runtime. It provides features
+                    like:
+                </p>
+
+                <ul>
+                    <li>Pulling images from container registries (Docker Hub, GCR, etc.)</li>
+                    <li>Image management and storage</li>
+                    <li>Container execution via low-level runtimes</li>
+                    <li>Container supervision and management</li>
+                </ul>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph HighLevel["High-Level Runtime (containerd)"]
+                    PULL[Pull Images]
+                    STORE[Store/Manage Images]
+                    UNPACK[Unpack Images]
+                    end
+
+                    subgraph LowLevel["Low-Level Runtime (runc)"]
+                    CREATE[Create Container]
+                    RUN[Run Process]
+                    end
+
+                    PULL --> STORE --> UNPACK --> CREATE --> RUN
+
+                    style PULL fill:#8b5cf6,color:#fff
+                    style STORE fill:#8b5cf6,color:#fff
+                    style UNPACK fill:#8b5cf6,color:#fff
+                    style CREATE fill:#3b82f6,color:#fff
+                    style RUN fill:#10b981,color:#fff
+                </div>
+
+                <blockquote>
+                    <strong>Note:</strong> Although containerd can run containers, it doesn't help you build container
+                    images
+                    and doesn't provide a user-friendly interface. That's where tools like Docker come in.
+                </blockquote>
+
+                <h2>📌 Docker</h2>
+
+                <p>
+                    Docker was one of the first tools to provide a <strong>complete container experience</strong>.
+                    It adds a user-friendly layer on top of the container runtime ecosystem:
+                </p>
+
+                <ul>
+                    <li><strong>Image build</strong> — Dockerfile and <code>docker build</code></li>
+                    <li><strong>Image management</strong> — <code>docker images</code>, <code>docker pull</code></li>
+                    <li><strong>Container management</strong> — <code>docker run</code>, <code>docker ps</code>,
+                        <code>docker rm</code></li>
+                    <li><strong>Image sharing</strong> — <code>docker push</code></li>
+                    <li><strong>User interface</strong> — Docker Desktop, CLI</li>
+                </ul>
+
+                <p>
+                    Under the hood, Docker uses its own components that map to the runtime hierarchy:
+                </p>
+
+                <div class="mermaid">
+                    flowchart TB
+                    USER[User/CLI]
+
+                    subgraph Docker["Docker Ecosystem"]
+                    DOCKERD[dockerd<br />Docker Daemon]
+                    DCONTAINERD[docker-containerd<br />High-Level Runtime]
+                    DRUNC[docker-runc<br />Low-Level Runtime]
+                    end
+
+                    USER --> DOCKERD --> DCONTAINERD --> DRUNC
+
+                    style DOCKERD fill:#2496ed,color:#fff
+                    style DCONTAINERD fill:#3b82f6,color:#fff
+                    style DRUNC fill:#10b981,color:#fff
+                </div>
+
+                <ul>
+                    <li><strong>dockerd</strong> — The Docker daemon that provides the API and build features</li>
+                    <li><strong>docker-containerd</strong> — Similar to containerd, manages images and containers</li>
+                    <li><strong>docker-runc</strong> — Similar to runc, actually creates and runs containers</li>
+                </ul>
+
+                <h2>📌 Conclusion</h2>
+
+                <p>
+                    Understanding container runtimes helps you appreciate what's happening behind the scenes when you
+                    run
+                    <code>docker run</code>. Let's summarize:
+                </p>
+
+                <ul>
+                    <li><strong>Low-level runtimes</strong> (like runc) are responsible for creating and deleting
+                        containers</li>
+                    <li><strong>High-level runtimes</strong> (like containerd) manage container images and container
+                        lifecycle</li>
+                    <li><strong>Docker</strong> is a complete tool that wraps these runtimes with build capabilities and
+                        a user-friendly interface</li>
+                </ul>
+
+                <p>
+                    In the next post, we'll explore how Kubernetes works with these container runtimes. Stay tuned!
+                </p>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="LangChain introduction - Learn about LLMs, Transformers, and how LangChain helps build AI applications. Part 1 of the LangChain series.">
+    <title>LangChain #1: An Introduction - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>LangChain #1: An Introduction</h1>
+                <div class="post-meta">
+                    December 15, 2023
+                    <span class="post-tags">
+                        <span class="tag">LangChain</span>
+                        <span class="tag">LLM</span>
+                        <span class="tag">AI</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    <em>This is the first part of a series about LangChain. I'll introduce its core concepts and help
+                        you
+                        understand how it fits into the AI application landscape.</em>
+                </p>
+
+                <p>
+                    Before diving into LangChain, let's understand what we're working with — Large Language Models.
+                </p>
+
+                <h2>🧠 What is an LLM?</h2>
+
+                <p>
+                    <strong>LLM</strong> stands for "Large Language Model" — a type of artificial intelligence model
+                    designed
+                    to understand, generate, and interact with human language at a large scale. These models are trained
+                    on
+                    vast amounts of text data and can perform a wide range of language-related tasks.
+                </p>
+
+                <p>
+                    The training process typically happens in two phases:
+                </p>
+
+                <ol>
+                    <li><strong>Pre-training:</strong> The model learns foundational understanding by identifying
+                        relationships
+                        between words and concepts from massive text datasets</li>
+                    <li><strong>Fine-tuning:</strong> The model is refined with targeted data and specific feedback to
+                        improve
+                        accuracy for particular use cases</li>
+                </ol>
+
+                <div class="mermaid">
+                    flowchart LR
+                    DATA[Training Data] --> PRETRAIN[Pre-training]
+                    PRETRAIN --> BASE[Base Model]
+                    BASE --> FINETUNE[Fine-tuning]
+                    FEEDBACK[Human Feedback] --> FINETUNE
+                    FINETUNE --> PROD[Production Model]
+
+                    style PRETRAIN fill:#3b82f6,color:#fff
+                    style FINETUNE fill:#10b981,color:#fff
+                    style PROD fill:#8b5cf6,color:#fff
+                </div>
+
+                <h2>⚡ The Transformer Architecture</h2>
+
+                <p>
+                    Training data is processed through a specialized neural network architecture known as a
+                    <strong>Transformer</strong>.
+                    This is the breakthrough that made modern LLMs possible.
+                </p>
+
+                <p>
+                    At a high level, a Transformer has two main components:
+                </p>
+
+                <ul>
+                    <li><strong>Encoder:</strong> Processes input data (like a sentence) and compresses it into a
+                        context vector</li>
+                    <li><strong>Decoder:</strong> Takes the context vector and generates output (like a translation or
+                        response)</li>
+                </ul>
+
+                <p>
+                    The magic happens through <strong>self-attention</strong> — a mechanism that allows the model to
+                    weigh the
+                    importance of different parts of the input differently. For each word, the model assesses how
+                    relevant
+                    all other words in the sentence are to it.
+                </p>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph Transformer["Transformer Architecture"]
+                    INPUT[Input Sequence]
+                    subgraph Encoder["Encoder"]
+                    SA1[Self-Attention]
+                    FF1[Feed Forward]
+                    end
+                    subgraph Decoder["Decoder"]
+                    SA2[Masked Self-Attention]
+                    CA[Cross-Attention]
+                    FF2[Feed Forward]
+                    end
+                    OUTPUT[Output Sequence]
+                    end
+
+                    INPUT --> SA1 --> FF1 --> CA
+                    SA2 --> CA --> FF2 --> OUTPUT
+
+                    style SA1 fill:#3b82f6,color:#fff
+                    style CA fill:#10b981,color:#fff
+                    style SA2 fill:#f59e0b,color:#000
+                </div>
+
+                <h2>📊 Types of LLMs</h2>
+
+                <h3>1. Proprietary Models</h3>
+                <p>
+                    These are AI models developed and controlled by companies like OpenAI, Google, and Anthropic. They
+                    often
+                    offer high performance and are backed by substantial resources. However:
+                </p>
+                <ul>
+                    <li>Can be expensive to use</li>
+                    <li>May have restrictive licenses</li>
+                    <li>Internal workings are not transparent (closed-source)</li>
+                </ul>
+                <p><strong>Examples:</strong> GPT-4, Claude, Gemini</p>
+
+                <h3>2. Open-Source Models</h3>
+                <p>
+                    These models are freely available for anyone to use, modify, and distribute. They promote
+                    collaboration
+                    and offer greater flexibility:
+                </p>
+                <ul>
+                    <li>Free to use and modify</li>
+                    <li>Community-driven improvements</li>
+                    <li>Full transparency into how they work</li>
+                    <li>Can be self-hosted for privacy</li>
+                </ul>
+                <p><strong>Examples:</strong> LLaMA, Mistral, Falcon</p>
+
+                <h2>🔗 What is LangChain?</h2>
+
+                <p>
+                    Now that we understand LLMs, let's talk about <strong>LangChain</strong>.
+                </p>
+
+                <p>
+                    LangChain is a framework that makes it easier to build applications powered by LLMs. It provides:
+                </p>
+
+                <ul>
+                    <li><strong>Unified API:</strong> Work with different LLM providers using the same interface</li>
+                    <li><strong>Data Integration:</strong> Connect your LLM to databases, APIs, and documents</li>
+                    <li><strong>Chains:</strong> Combine multiple LLM calls and tools into complex workflows</li>
+                    <li><strong>Memory:</strong> Give your applications the ability to remember context</li>
+                    <li><strong>Agents:</strong> Build autonomous AI that can use tools and make decisions</li>
+                </ul>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph LangChain["LangChain Framework"]
+                    LLM[LLM Integration]
+                    CHAIN[Chains]
+                    MEM[Memory]
+                    AGENT[Agents]
+                    TOOLS[Tools]
+                    end
+
+                    subgraph External["External Resources"]
+                    DB[(Databases)]
+                    API[APIs]
+                    DOCS[Documents]
+                    end
+
+                    LLM --> CHAIN
+                    MEM --> CHAIN
+                    CHAIN --> AGENT
+                    TOOLS --> AGENT
+
+                    DB --> LangChain
+                    API --> LangChain
+                    DOCS --> LangChain
+
+                    style LLM fill:#3b82f6,color:#fff
+                    style CHAIN fill:#10b981,color:#fff
+                    style AGENT fill:#8b5cf6,color:#fff
+                </div>
+
+                <h2>🧩 Core Components</h2>
+
+                <ul>
+                    <li><strong>Models:</strong> Wrappers around LLMs (OpenAI, Hugging Face, etc.)</li>
+                    <li><strong>Prompts:</strong> Templates for constructing inputs to LLMs</li>
+                    <li><strong>Chains:</strong> Sequences of calls to LLMs or utilities</li>
+                    <li><strong>Vector Stores:</strong> Storage for embeddings used in semantic search</li>
+                    <li><strong>Agents:</strong> LLMs that can decide which tools to use</li>
+                </ul>
+
+                <h2>🎯 Next Steps</h2>
+
+                <p>
+                    In the next part of this series, we'll get hands-on with LangChain — setting it up and making our
+                    first
+                    queries to OpenAI, Hugging Face, and Gemini. Stay tuned!
+                </p>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

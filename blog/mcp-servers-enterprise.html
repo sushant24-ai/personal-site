@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="MCP Servers in Enterprise - Patterns, best practices, and real-world implementation strategies for Model Context Protocol servers.">
+    <title>MCP Servers in Enterprise: Patterns and Best Practices - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>MCP Servers in Enterprise: Patterns and Best Practices</h1>
+                <div class="post-meta">
+                    January 28, 2026
+                    <span class="post-tags">
+                        <span class="tag">MCP</span>
+                        <span class="tag">Enterprise</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    The Model Context Protocol (MCP) is quickly becoming the standard for connecting AI applications
+                    to external data sources and tools. After implementing MCP servers in production environments,
+                    I've gathered some patterns and best practices worth sharing.
+                </p>
+
+                <h2>🔍 What is MCP?</h2>
+
+                <p>
+                    MCP is an open protocol developed by Anthropic that allows AI assistants to securely connect
+                    to various data sources. Think of it as a standard interface between LLMs and the tools or
+                    data they need to access.
+                </p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    subgraph Client["AI Application"]
+                    LLM[LLM / Agent]
+                    end
+
+                    subgraph MCP["MCP Protocol"]
+                    CONN[Connection]
+                    end
+
+                    subgraph Servers["MCP Servers"]
+                    DB[(Database Server)]
+                    API[API Server]
+                    FILE[File System Server]
+                    end
+
+                    LLM --> CONN
+                    CONN --> DB
+                    CONN --> API
+                    CONN --> FILE
+
+                    style LLM fill:#8b5cf6,color:#fff
+                    style CONN fill:#3b82f6,color:#fff
+                </div>
+
+                <h2>🏗️ Architecture Patterns</h2>
+
+                <h3>Pattern 1: Gateway MCP Server</h3>
+
+                <p>
+                    Instead of exposing multiple MCP servers directly, create a single gateway server that
+                    routes requests to appropriate backend services:
+                </p>
+
+                <ul>
+                    <li>Centralized authentication and authorization</li>
+                    <li>Request logging and auditing</li>
+                    <li>Rate limiting and quota management</li>
+                    <li>Simplified client configuration</li>
+                </ul>
+
+                <div class="mermaid">
+                    flowchart TB
+                    CLIENT[AI Client] --> GATEWAY[MCP Gateway]
+
+                    GATEWAY --> AUTH[Auth Service]
+                    GATEWAY --> SVC1[Internal API 1]
+                    GATEWAY --> SVC2[Internal API 2]
+                    GATEWAY --> SVC3[Database]
+
+                    style GATEWAY fill:#10b981,color:#fff
+                </div>
+
+                <h3>Pattern 2: Domain-Specific Servers</h3>
+
+                <p>
+                    Organize MCP servers by business domain rather than technical capability:
+                </p>
+
+                <ul>
+                    <li><strong>mcp-sales</strong> — CRM data, pipeline, forecasts</li>
+                    <li><strong>mcp-engineering</strong> — Repos, CI/CD, deployments</li>
+                    <li><strong>mcp-finance</strong> — Invoices, budgets, reports</li>
+                </ul>
+
+                <h2>🔒 Security Best Practices</h2>
+
+                <h3>1. Principle of Least Privilege</h3>
+                <p>
+                    Each MCP server should only expose the minimum necessary capabilities. Use tool-level
+                    permissions where possible.
+                </p>
+
+                <h3>2. Token-Based Authentication</h3>
+                <p>
+                    Always use short-lived tokens with proper scoping. Never embed credentials in MCP server code.
+                </p>
+
+                <pre><code># Good: Environment-based configuration
+api_key = os.environ.get("API_KEY")
+
+# Bad: Hardcoded credentials
+api_key = "sk-12345..."</code></pre>
+
+                <h3>3. Audit Logging</h3>
+                <p>
+                    Log all tool invocations with context. Include:
+                </p>
+
+                <ul>
+                    <li>Timestamp</li>
+                    <li>User/session identifier</li>
+                    <li>Tool name and parameters</li>
+                    <li>Result status</li>
+                </ul>
+
+                <h2>⚡ Performance Tips</h2>
+
+                <ul>
+                    <li><strong>Cache aggressively</strong> — MCP tools are often called repeatedly with similar inputs
+                    </li>
+                    <li><strong>Use async operations</strong> — Don't block on slow I/O operations</li>
+                    <li><strong>Batch requests</strong> — Group multiple operations when possible</li>
+                    <li><strong>Set timeouts</strong> — Fail fast rather than hanging indefinitely</li>
+                </ul>
+
+                <h2>📊 Monitoring</h2>
+
+                <p>Key metrics to track for MCP servers:</p>
+
+                <ul>
+                    <li><strong>Tool invocation count</strong> — By tool, by user</li>
+                    <li><strong>Latency percentiles</strong> — P50, P95, P99</li>
+                    <li><strong>Error rates</strong> — By error type</li>
+                    <li><strong>Token usage</strong> — For quota management</li>
+                </ul>
+
+                <h2>🎯 Key Takeaways</h2>
+
+                <ol>
+                    <li>Use gateway patterns for centralized control</li>
+                    <li>Organize by business domain, not technical capability</li>
+                    <li>Security is non-negotiable — least privilege, proper auth, audit logs</li>
+                    <li>Performance matters — cache, async, batch</li>
+                    <li>Monitor everything for visibility into usage patterns</li>
+                </ol>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

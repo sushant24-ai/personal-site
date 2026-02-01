@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Deep dive into how Kubernetes works with container runtimes like Docker, Containerd, and CRI-O. Learn about the CRI interface and why Docker was removed in K8s 1.24.">
+    <title>🤔 How Kubernetes Works with Container Runtime - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>🤔 Deep into Container — How Kubernetes Works with Container Runtime</h1>
+                <div class="post-meta">
+                    November 23, 2022
+                    <span class="post-tags">
+                        <span class="tag">Kubernetes</span>
+                        <span class="tag">Container Runtime</span>
+                        <span class="tag">Docker</span>
+                        <span class="tag">DevOps</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    <em>Continuing the previous post, we learned about the Container Runtime. In this post, we are going
+                        to learn about
+                        a rather exciting topic — how Kubernetes uses the Container Runtime to manage containers at
+                        scale.</em>
+                </p>
+
+                <p>
+                    If you've ever wondered what happens under the hood when you run <code>kubectl run</code>, you're in
+                    the right place.
+                    Let's dive deep into the relationship between Kubernetes and container runtimes.
+                </p>
+
+                <h2>🔔 How Kubernetes Works with Container Runtime</h2>
+
+                <p>
+                    Kubernetes doesn't directly create containers. Instead, it delegates this work to a container
+                    runtime through
+                    a standardized interface called <strong>CRI (Container Runtime Interface)</strong>. This abstraction
+                    allows
+                    Kubernetes to work with different container runtimes without being tightly coupled to any specific
+                    one.
+                </p>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph K8s["Kubernetes"]
+                    API[API Server]
+                    SCHED[Scheduler]
+                    KUBELET[Kubelet]
+                    end
+
+                    subgraph CRI["Container Runtime Interface"]
+                    CRIAPI[CRI API]
+                    end
+
+                    subgraph Runtimes["Container Runtimes"]
+                    CONTAINERD[Containerd]
+                    CRIO[CRI-O]
+                    end
+
+                    subgraph LowLevel["Low-Level Runtime"]
+                    RUNC[runc]
+                    end
+
+                    API --> SCHED
+                    SCHED --> KUBELET
+                    KUBELET --> CRIAPI
+                    CRIAPI --> CONTAINERD
+                    CRIAPI --> CRIO
+                    CONTAINERD --> RUNC
+                    CRIO --> RUNC
+
+                    style KUBELET fill:#3b82f6,color:#fff
+                    style CRIAPI fill:#10b981,color:#fff
+                    style RUNC fill:#f59e0b,color:#000
+                </div>
+
+                <p>Here's the flow when you create a Pod:</p>
+
+                <ol>
+                    <li>You submit a Pod spec to the <strong>API Server</strong></li>
+                    <li>The <strong>Scheduler</strong> assigns the Pod to a Node</li>
+                    <li>The <strong>Kubelet</strong> on that Node receives the Pod spec</li>
+                    <li>Kubelet calls the container runtime via <strong>CRI</strong></li>
+                    <li>The runtime executes commands to create the container</li>
+                </ol>
+
+                <h2>📢 Docker</h2>
+
+                <p>
+                    Docker was the first container runtime that Kubernetes used, but <strong>in version 1.24 it was
+                        removed</strong>
+                    and is no longer supported.
+                </p>
+
+                <p>
+                    Kubernetes used to interact with Docker through a component called <strong>dockershim</strong>. The
+                    problem?
+                    It was too cumbersome. Docker is a complete container solution with many features that Kubernetes
+                    doesn't need,
+                    adding unnecessary overhead.
+                </p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    KUBELET[Kubelet] --> SHIM[dockershim<br />DEPRECATED]
+                    SHIM --> DOCKERD[dockerd]
+                    DOCKERD --> CONTAINERD[containerd]
+                    CONTAINERD --> RUNC[runc]
+
+                    style SHIM fill:#ef4444,color:#fff
+                    style KUBELET fill:#3b82f6,color:#fff
+                </div>
+
+                <blockquote>
+                    <strong>⚠️ Important:</strong> If you're upgrading Kubernetes to version 1.24 or later, you'll need
+                    to migrate
+                    away from Docker to another container runtime like containerd or CRI-O.
+                </blockquote>
+
+                <h2>📢 Containerd</h2>
+
+                <p>
+                    Containerd is a simpler and less cumbersome container runtime than Docker. It's actually what Docker
+                    uses
+                    under the hood!
+                </p>
+
+                <p>
+                    From version 1.1, containerd has a <strong>built-in CRI plugin</strong>. The kubelet can interact
+                    directly
+                    with this plugin — no shim layer needed. This is much more efficient.
+                </p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    KUBELET[Kubelet] --> CRI[CRI Plugin]
+                    subgraph CONTAINERD["containerd"]
+                    CRI --> CORE[Core]
+                    end
+                    CORE --> RUNC[runc]
+
+                    style KUBELET fill:#3b82f6,color:#fff
+                    style CRI fill:#10b981,color:#fff
+                    style CORE fill:#10b981,color:#fff
+                </div>
+
+                <p>
+                    As you can see, instead of going through multiple layers with Docker, containerd provides a direct
+                    path
+                    from Kubelet to the container runtime. This means:
+                </p>
+
+                <ul>
+                    <li>Lower resource overhead</li>
+                    <li>Faster container startup times</li>
+                    <li>Simpler architecture</li>
+                    <li>Better maintainability</li>
+                </ul>
+
+                <h2>📢 CRI-O</h2>
+
+                <p>
+                    CRI-O is another popular container runtime designed specifically for Kubernetes. It was developed by
+                    <strong>Red Hat</strong> and is the default runtime in OpenShift.
+                </p>
+
+                <p>
+                    CRI-O is purpose-built for Kubernetes — it implements the CRI specification and nothing more. This
+                    makes
+                    it lightweight and focused.
+                </p>
+
+                <h2>🎯 Conclusion</h2>
+
+                <p>
+                    So we've learned how Kubernetes works with container runtimes. The key takeaways:
+                </p>
+
+                <ul>
+                    <li>Kubernetes uses <strong>CRI</strong> to communicate with container runtimes</li>
+                    <li><strong>Docker support was removed</strong> in Kubernetes 1.24</li>
+                    <li><strong>Containerd</strong> and <strong>CRI-O</strong> are the recommended alternatives</li>
+                    <li>Both provide direct CRI integration without extra layers</li>
+                </ul>
+
+                <p>
+                    If you're running Kubernetes in production, make sure you're using a supported container runtime.
+                    Containerd is a great choice for most use cases, while CRI-O is excellent if you're in the Red Hat
+                    ecosystem.
+                </p>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

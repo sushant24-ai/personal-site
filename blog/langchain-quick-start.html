@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="LangChain Quick Start guide - Learn to query OpenAI, HuggingFace, and Gemini using LangChain with practical code examples.">
+    <title>LangChain #2: Quick Start - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>LangChain #2: Quick Start</h1>
+                <div class="post-meta">
+                    December 20, 2023
+                    <span class="post-tags">
+                        <span class="tag">LangChain</span>
+                        <span class="tag">OpenAI</span>
+                        <span class="tag">Python</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+                <p>
+                    <em>In this chapter, we delve into the practical aspects of implementing cutting-edge language
+                        models
+                        using LangChain. We'll focus on the straightforward integration of three distinct models:
+                        OpenAI,
+                        HuggingFace, and Gemini.</em>
+                </p>
+
+                <h2>🚀 Querying OpenAI, HuggingFace, and Gemini</h2>
+
+                <p>
+                    Let's get hands-on with LangChain by connecting to three popular LLM providers. By the end of this
+                    guide,
+                    you'll be able to query any of these models with just a few lines of code.
+                </p>
+
+                <h2>🔷 OpenAI</h2>
+
+                <p>First, install the OpenAI package:</p>
+
+                <pre><code>pip install openai langchain</code></pre>
+
+                <p>
+                    Get your API key from <a href="https://platform.openai.com/api-keys" target="_blank">OpenAI's
+                        website</a>.
+                    Then set it as an environment variable — this is a common practice to keep credentials out of your
+                    source code.
+                </p>
+
+                <pre><code>import os
+os.environ["OPENAI_API_KEY"] = "your-api-key"</code></pre>
+
+                <p>Now let's use LangChain to query OpenAI:</p>
+
+                <pre><code>from langchain.llms import OpenAI
+
+# Initialize the model
+llm = OpenAI(model="gpt-3.5-turbo-instruct")
+
+# Make a query
+query = "Explain the process of photosynthesis in detail."
+answer = llm(query)
+
+print(answer)</code></pre>
+
+                <p><strong>Output:</strong></p>
+                <pre><code>Photosynthesis is the process by which plants, algae, and some bacteria 
+convert light energy from the sun into chemical energy stored in the form 
+of glucose. This process is essential for all plant life and is responsible 
+for the presence of oxygen in the Earth's atmosphere.
+
+The process requires three primary components: light, carbon dioxide, and water...</code></pre>
+
+                <h2>🤗 HuggingFace</h2>
+
+                <p>HuggingFace gives you access to thousands of open-source models. Install the package:</p>
+
+                <pre><code>pip install huggingface-hub</code></pre>
+
+                <p>Get your API token from <a href="https://huggingface.co/settings/tokens" target="_blank">HuggingFace
+                        settings</a>:</p>
+
+                <pre><code>os.environ["HUGGINGFACEHUB_API_TOKEN"] = "your-huggingface-token"</code></pre>
+
+                <p>Now query a model from HuggingFace Hub:</p>
+
+                <pre><code>from langchain.llms import HuggingFaceHub
+
+# Use Google's FLAN-T5 model
+llm = HuggingFaceHub(repo_id="google/flan-t5-xxl")
+
+query = "Explain the process of photosynthesis in detail."
+answer = llm(query)
+
+print(answer)</code></pre>
+
+                <p><strong>Output:</strong></p>
+                <pre><code>The process of photosynthesis is the conversion of light energy into chemical energy.</code></pre>
+
+                <blockquote>
+                    <strong>Note:</strong> Open-source models may give shorter or less detailed answers compared to
+                    proprietary models like GPT-4. Choose based on your use case and budget!
+                </blockquote>
+
+                <h2>💎 Gemini</h2>
+
+                <p>Google's Gemini is another powerful option. Install the required packages:</p>
+
+                <pre><code>pip install langchain-google-genai google-generativeai</code></pre>
+
+                <p>Get your API key from <a href="https://aistudio.google.com/app/apikey" target="_blank">Google AI
+                        Studio</a>:</p>
+
+                <pre><code>os.environ["GOOGLE_API_KEY"] = "your-google-api-key"
+
+import google.generativeai as genai
+genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))</code></pre>
+
+                <p>Query Gemini through LangChain:</p>
+
+                <pre><code>from langchain_google_genai import ChatGoogleGenerativeAI
+
+llm = ChatGoogleGenerativeAI(model="gemini-pro")
+
+result = llm.invoke("Explain the process of photosynthesis in detail.")
+print(result.content)</code></pre>
+
+                <p><strong>Output:</strong></p>
+                <pre><code>Photosynthesis is the process by which plants and other organisms use sunlight 
+to convert carbon dioxide and water into oxygen and energy in the form of sugar.
+
+The overall equation for photosynthesis is:
+6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+
+**Step 1: Light Absorption**
+Photosynthesis begins with the absorption of light energy by chlorophyll...
+
+**Step 2: Electron Transport**
+The excited electron is passed along a series of electron carriers...
+
+[continues with detailed explanation]</code></pre>
+
+                <h2>📊 Comparison</h2>
+
+                <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0;">
+                    <thead>
+                        <tr style="background: var(--bg-secondary);">
+                            <th style="padding: 0.75rem; border: 1px solid var(--border);">Provider</th>
+                            <th style="padding: 0.75rem; border: 1px solid var(--border);">Pros</th>
+                            <th style="padding: 0.75rem; border: 1px solid var(--border);">Cons</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);"><strong>OpenAI</strong></td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Best quality, easy to use
+                            </td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Most expensive</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);"><strong>HuggingFace</strong>
+                            </td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Many free models, open-source
+                            </td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Variable quality</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);"><strong>Gemini</strong></td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Good quality, generous free
+                                tier</td>
+                            <td style="padding: 0.75rem; border: 1px solid var(--border);">Newer, less community
+                                resources</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h2>🎯 What's Next?</h2>
+
+                <p>
+                    Now that you can query multiple LLMs, the next steps would be:
+                </p>
+
+                <ul>
+                    <li>Building <strong>chains</strong> to combine multiple LLM calls</li>
+                    <li>Adding <strong>memory</strong> for conversational applications</li>
+                    <li>Connecting to <strong>vector stores</strong> for RAG applications</li>
+                    <li>Creating <strong>agents</strong> that can use tools</li>
+                </ul>
+
+                <p>
+                    Stay tuned for the next parts of this series where we'll dive deeper into these topics!
+                </p>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>
