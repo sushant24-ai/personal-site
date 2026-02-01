@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Building Production-Ready AI Agents: A Platform Engineer's Perspective - Learn how to design, deploy, and operate AI agents at scale.">
+    <title>Building Production-Ready AI Agents - Sushant Sikare</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Mermaid for Diagrams -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <!-- Post Header -->
+            <header class="post-header">
+                <h1>Building Production-Ready AI Agents: A Platform Engineer's Perspective</h1>
+                <div class="post-meta">
+                    February 1, 2026
+                    <span class="post-tags">
+                        <span class="tag">AI Agents</span>
+                        <span class="tag">Platform Engineering</span>
+                        <span class="tag">Production</span>
+                    </span>
+                </div>
+            </header>
+
+            <!-- Post Content -->
+            <article class="post-content">
+                <p>
+                    AI agents are transforming how we build software. But taking an agent from a demo to
+                    production is a different challenge entirely. As a platform engineer, I've learned that
+                    the infrastructure decisions you make early on will define your agent's reliability,
+                    scalability, and maintainability.
+                </p>
+
+                <p>
+                    This post shares the patterns and practices I've found most valuable when deploying
+                    AI agents at scale.
+                </p>
+
+                <h2>The Agent Architecture Stack</h2>
+
+                <p>
+                    Before diving into specifics, let's visualize the key components of a production
+                    agent system:
+                </p>
+
+                <!-- Mermaid Diagram -->
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph Client["Client Layer"]
+                    UI[Web UI]
+                    API[API Gateway]
+                    end
+
+                    subgraph Agent["Agent Layer"]
+                    Orchestrator[Agent Orchestrator]
+                    Memory[Memory Store]
+                    Tools[Tool Registry]
+                    end
+
+                    subgraph LLM["LLM Layer"]
+                    Router[Model Router]
+                    Primary[Primary Model]
+                    Fallback[Fallback Model]
+                    end
+
+                    subgraph Data["Data Layer"]
+                    VectorDB[(Vector DB)]
+                    Cache[(Redis Cache)]
+                    Logs[(Logging)]
+                    end
+
+                    UI --> API
+                    API --> Orchestrator
+                    Orchestrator --> Memory
+                    Orchestrator --> Tools
+                    Orchestrator --> Router
+                    Router --> Primary
+                    Router --> Fallback
+                    Tools --> VectorDB
+                    Orchestrator --> Cache
+                    Orchestrator --> Logs
+                </div>
+
+                <h2>Key Principles</h2>
+
+                <h3>1. Design for Failure</h3>
+
+                <p>
+                    LLM APIs fail. They timeout. They return unexpected results. Your agent infrastructure
+                    must handle all of these gracefully:
+                </p>
+
+                <pre><code>class ResilientLLMClient:
+    def __init__(self, primary_client, fallback_client):
+        self.primary = primary_client
+        self.fallback = fallback_client
+        self.circuit_breaker = CircuitBreaker(
+            failure_threshold=5,
+            recovery_timeout=60
+        )
+    
+    async def complete(self, prompt: str) -> str:
+        try:
+            if self.circuit_breaker.is_open:
+                return await self._call_fallback(prompt)
+            
+            response = await asyncio.wait_for(
+                self.primary.complete(prompt),
+                timeout=30.0
+            )
+            self.circuit_breaker.record_success()
+            return response
+            
+        except Exception as e:
+            self.circuit_breaker.record_failure()
+            logger.warning(f"Primary failed: {e}, using fallback")
+            return await self._call_fallback(prompt)</code></pre>
+
+                <h3>2. Implement Proper Observability</h3>
+
+                <p>
+                    You can't improve what you can't measure. Every agent interaction should be traced:
+                </p>
+
+                <ul>
+                    <li><strong>Latency</strong> - Per tool call, per LLM call, end-to-end</li>
+                    <li><strong>Token usage</strong> - Track costs and optimize prompts</li>
+                    <li><strong>Error rates</strong> - By error type, by tool, by model</li>
+                    <li><strong>User satisfaction</strong> - Thumbs up/down on responses</li>
+                </ul>
+
+                <h3>3. Secure Your Tools</h3>
+
+                <p>
+                    Tools are the interface between your agent and the real world. Every tool needs:
+                </p>
+
+                <pre><code>def register_tool(func):
+    """Decorator to register a tool with security controls"""
+    @wraps(func)
+    async def wrapper(agent_context, **kwargs):
+        # Validate inputs
+        validated = validate_inputs(kwargs, func.__annotations__)
+        
+        # Check permissions
+        if not has_permission(agent_context.user, func.__name__):
+            raise PermissionDenied(f"User lacks access to {func.__name__}")
+        
+        # Rate limit
+        await rate_limiter.check(agent_context.user, func.__name__)
+        
+        # Execute with timeout
+        result = await asyncio.wait_for(
+            func(agent_context, **validated),
+            timeout=tool_timeout(func)
+        )
+        
+        # Audit log
+        await audit_log(agent_context, func.__name__, validated, result)
+        
+        return result
+    
+    return wrapper</code></pre>
+
+                <h2>The Deployment Pipeline</h2>
+
+                <p>
+                    CI/CD for AI agents requires additional considerations. Here's the flow I recommend:
+                </p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    Code[Code Push] --> Tests[Unit Tests]
+                    Tests --> Eval[LLM Eval Suite]
+                    Eval --> Security[Security Scan]
+                    Security --> Staging[Staging Deploy]
+                    Staging --> Smoke[Smoke Tests]
+                    Smoke --> Canary[Canary Deploy]
+                    Canary --> Monitor[Monitor Metrics]
+                    Monitor --> Full[Full Rollout]
+                </div>
+
+                <p>
+                    The key addition here is the <strong>LLM Eval Suite</strong>. This runs a set of
+                    standardized prompts and validates that responses meet quality thresholds. Without
+                    this, you're flying blind on prompt regressions.
+                </p>
+
+                <h2>Memory Management</h2>
+
+                <p>
+                    Agents need memory to be useful. But memory management at scale is tricky:
+                </p>
+
+                <blockquote>
+                    The context window is precious real estate. Every token you waste on irrelevant
+                    history is a token you can't use for reasoning.
+                </blockquote>
+
+                <p>
+                    I recommend a tiered memory architecture:
+                </p>
+
+                <ul>
+                    <li><strong>Hot memory</strong> - Recent conversation in context window</li>
+                    <li><strong>Warm memory</strong> - Redis-cached summaries for retrieval</li>
+                    <li><strong>Cold memory</strong> - Vector DB for semantic search of history</li>
+                </ul>
+
+                <h2>Conclusion</h2>
+
+                <p>
+                    Building production AI agents requires the same rigor as any other critical system,
+                    plus new considerations around non-determinism, cost management, and evaluation.
+                    Start with solid foundations—observability, resilience, security—and you'll be well
+                    positioned to iterate and improve.
+                </p>
+
+                <p>
+                    In my next post, I'll dive deeper into evaluation strategies and how to build
+                    confidence in your agent's behavior over time.
+                </p>
+            </article>
+
+            <!-- Back to Blog -->
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

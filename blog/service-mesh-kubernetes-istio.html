@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Service Mesh on Kubernetes - Istio Introduction. Learn about kube-proxy limitations, Service Mesh architecture, and how Istio works with Envoy sidecars.">
+    <title>🎯Service Mesh on Kubernetes — Istio Introduction - Sushant Sikare</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Mermaid for Diagrams -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../projects.html">Projects</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <!-- Post Header -->
+            <header class="post-header">
+                <h1>🎯Service Mesh on Kubernetes — Istio Introduction</h1>
+                <div class="post-meta">
+                    November 22, 2022
+                    <span class="post-tags">
+                        <span class="tag">Kubernetes</span>
+                        <span class="tag">Istio</span>
+                        <span class="tag">Service Mesh</span>
+                        <span class="tag">DevOps</span>
+                    </span>
+                </div>
+            </header>
+
+            <!-- Post Content -->
+            <article class="post-content">
+                <p>
+                    🟢Deploying the microservices system on the server is always a big challenge, and when Kubernetes
+                    was released,
+                    it made it somewhat easier to deploy the microservices system on the server. But we will face the
+                    next challenge
+                    is how to communicate between services inside Kubernetes, because Kubernetes was not born as
+                    networking solution,
+                    so Istio was released. Istio was developed based on Service Mesh.
+                </p>
+
+                <p>
+                    With Kubernetes we use Pods to deploy services, before learning about Service Mesh, we will see:
+                    <strong>How do the Pods inside Kubernetes communicate with each other? And what is it
+                        restricted?</strong>
+                </p>
+
+                <h2>📌 Internal Pod Communication</h2>
+
+                <p>
+                    ✔️Kubernetes uses CNI as an interface between network providers and Kubernetes pod networking.
+                    In a Worker Node so that Pods can communicate with each other, Kubernetes uses
+                    <strong>kube-proxy</strong>.
+                </p>
+
+                <p>
+                    ✔️kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the
+                    Kubernetes Service concept. kube-proxy maintains network rules on nodes. These network rules allow
+                    network communication to your Pods from network sessions inside or outside of your cluster.
+                </p>
+
+                <!-- Diagram: Kubernetes Node Architecture -->
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph Node["Worker Node"]
+                    KP[kube-proxy]
+                    IPT[Iptables]
+                    subgraph Pods
+                    P1[Pod A]
+                    P2[Pod B]
+                    P3[Pod C]
+                    end
+                    end
+
+                    KP --> IPT
+                    IPT --> P1
+                    IPT --> P2
+                    IPT --> P3
+
+                    style KP fill:#3b82f6,color:#fff
+                    style IPT fill:#10b981,color:#fff
+                </div>
+
+                <p>
+                    ✔️When we create a Pod or Service, kube-proxy will update the <strong>Iptables</strong> rules so
+                    that
+                    the Pods can communicate with each other, for example:
+                </p>
+
+                <!-- Diagram: Service B Request Flow -->
+                <div class="mermaid">
+                    sequenceDiagram
+                    participant PodA as Pod A
+                    participant IPT as Iptables
+                    participant SvcB as Service B
+                    participant PodB as Pod B
+
+                    PodA->>IPT: Request to Service B
+                    Note over IPT: Replace destination IP<br />with Pod B IP
+                    IPT->>PodB: Forward request
+                    PodB-->>PodA: Response
+                </div>
+
+                <p>
+                    👉When we create a Service B, the Kubernetes API Server will notify the kube-proxy at the worker
+                    node
+                    to update the Iptables rules and add the rule for Service B. Then if there is a Pod that calls
+                    Service B,
+                    its request will go through Iptables first. Next Iptables will replace the destination IP in Packet
+                    X
+                    with the IP of Pod B and forward the request to Pod B.
+                </p>
+
+                <h3>Limitations of kube-proxy:</h3>
+
+                <ul>
+                    <li>The request it sends to the Pods is <strong>random</strong></li>
+                    <li>Traffic cannot be divided by percentage</li>
+                    <li>Canary releases or blue-green releases cannot be performed</li>
+                    <li>Hard to monitor and debug</li>
+                </ul>
+
+                <p>
+                    Modern microservices systems need communication between services can be security, auto-retry,
+                    observability,
+                    monitoring, etc… But to perform these functions we need to add them to your own code.
+                </p>
+
+                <!-- Diagram: Without Service Mesh -->
+                <div class="mermaid">
+                    flowchart LR
+                    subgraph Service["Your Service"]
+                    BL[Business Logic]
+                    SEC[Security Code]
+                    RET[Retry Logic]
+                    OBS[Observability]
+                    MON[Monitoring]
+                    end
+
+                    style BL fill:#3b82f6,color:#fff
+                    style SEC fill:#f59e0b,color:#000
+                    style RET fill:#f59e0b,color:#000
+                    style OBS fill:#f59e0b,color:#000
+                    style MON fill:#f59e0b,color:#000
+                </div>
+
+                <p>
+                    There is nothing wrong, but these processes are taking up resources of the main application and need
+                    to write more code and we don't want that. Thus, the <strong>Service Mesh</strong> was born.
+                </p>
+
+                <h2>🎯 Service Mesh</h2>
+
+                <p>
+                    ✔️A service mesh is a dedicated infrastructure layer that you can add to your applications for
+                    facilitating
+                    service-to-service communications between services or microservices. It allows you to transparently
+                    add
+                    capabilities like <strong>observability</strong>, <strong>traffic management</strong>, and
+                    <strong>security</strong>,
+                    without adding them to your own code.
+                </p>
+
+                <!-- Diagram: Service Mesh Architecture -->
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph CP["Control Plane"]
+                    CTRL[Control Plane<br />Configuration & Management]
+                    end
+
+                    subgraph DP["Data Plane"]
+                    subgraph Pod1["Pod 1"]
+                    App1[App Container]
+                    SC1[Sidecar Proxy]
+                    end
+                    subgraph Pod2["Pod 2"]
+                    App2[App Container]
+                    SC2[Sidecar Proxy]
+                    end
+                    subgraph Pod3["Pod 3"]
+                    App3[App Container]
+                    SC3[Sidecar Proxy]
+                    end
+                    end
+
+                    CTRL -.-> SC1
+                    CTRL -.-> SC2
+                    CTRL -.-> SC3
+                    SC1 <--> SC2
+                        SC2 <--> SC3
+                            App1 --> SC1
+                            App2 --> SC2
+                            App3 --> SC3
+
+                            style CTRL fill:#8b5cf6,color:#fff
+                            style SC1 fill:#10b981,color:#fff
+                            style SC2 fill:#10b981,color:#fff
+                            style SC3 fill:#10b981,color:#fff
+                </div>
+
+                <p>Service Mesh has two components: the <strong>data plane</strong> and the <strong>control
+                        plane</strong>.</p>
+
+                <ul>
+                    <li>The <strong>control plane</strong> manages and configures the proxies to route traffic.</li>
+                    <li>The <strong>data plane</strong> is the communication between services. The data plane is
+                        typically implemented as a sidecar deployed alongside application code.</li>
+                </ul>
+
+                <p>
+                    When the Service Mesh runs on Kubernetes, the data plane is deployed as a <strong>sidecar
+                        container</strong>
+                    that should run along with the main container in the Pod. These sidecar containers handle the
+                    communication
+                    between the services in the Pod.
+                </p>
+
+                <blockquote>
+                    🔴Now instead of managing communication between the Pods through kube-proxy. The Pod communicates
+                    with the
+                    sidecar container, and the sidecar container handles the communication between the Pods.
+                </blockquote>
+
+                <blockquote>
+                    🔴All features such as security, auto-retry, observability, and monitoring are left for the sidecar
+                    container
+                    to do, the application only needs to focus on business logic.
+                </blockquote>
+
+                <blockquote>
+                    🔴The two most popular Service Mesh tools at the time of writing are <strong>Istio</strong> and
+                    <strong>Consul</strong>,
+                    and we are going to talk about Istio.
+                </blockquote>
+
+                <h2>Istio</h2>
+
+                <p>
+                    ✔️Istio is an open-source service mesh that layers transparently onto existing distributed
+                    applications.
+                    Istio's powerful features provide a uniform and more efficient way to secure, connect, and monitor
+                    services.
+                </p>
+
+                <p>
+                    ✔️Istio also has two components: the data plane and the control plane. The control plane using
+                    <strong>Istiod</strong> container and the data plane will be deployed to Pod as a sidecar using an
+                    <strong>Envoy</strong> container.
+                </p>
+
+                <!-- Diagram: Istio Architecture -->
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph CP["Control Plane"]
+                    ISTIOD[Istiod<br />Service Discovery<br />Configuration<br />Certificate Management]
+                    end
+
+                    subgraph DP["Data Plane"]
+                    subgraph Pod1["Pod 1"]
+                    A1[App]
+                    E1[Envoy Proxy]
+                    end
+                    subgraph Pod2["Pod 2"]
+                    A2[App]
+                    E2[Envoy Proxy]
+                    end
+                    end
+
+                    ISTIOD -.->|Config| E1
+                    ISTIOD -.->|Config| E2
+                    E1 <-->|mTLS| E2
+                        A1 --> E1
+                        A2 --> E2
+
+                        style ISTIOD fill:#466bb0,color:#fff
+                        style E1 fill:#ff6b6b,color:#fff
+                        style E2 fill:#ff6b6b,color:#fff
+                </div>
+
+                <p>
+                    <strong>Istiod</strong> provides service discovery, configuration, and certificate management.
+                    Istiod converts high-level routing rules that control traffic behavior into Envoy-specific
+                    configurations
+                    and propagates them to the sidecars at runtime.
+                </p>
+
+                <p>Envoy proxies are deployed as sidecars to Pods, Envoy's many built-in features, for example:</p>
+
+                <ul>
+                    <li>Dynamic service discovery</li>
+                    <li>Load balancing</li>
+                    <li>TLS termination</li>
+                    <li>HTTP/2 and gRPC proxies</li>
+                    <li>Circuit breakers</li>
+                    <li>Health checks</li>
+                    <li>Staged rollouts with %-based traffic split</li>
+                    <li>Fault injection</li>
+                    <li>Rich metrics</li>
+                </ul>
+
+                <p>
+                    If we install Istio on Kubernetes and then create a Pod, the Envoy container will automatically be
+                    injected into our Pods. So we don't need to manually declare the Envoy container when writing the
+                    manifest file for the Pod.
+                </p>
+
+                <p>
+                    Currently, Istio has been accepted as a project of the <strong>Cloud Native Computing Foundation
+                        (CNCF)</strong> 😁.
+                </p>
+
+                <h2>🤗 Conclusion</h2>
+
+                <p>
+                    We have learned why we should use Service Mesh in microservices and what is Istio. Service Mesh
+                    solves
+                    the networking challenges in Kubernetes by providing a dedicated infrastructure layer for
+                    service-to-service
+                    communication, allowing your applications to focus purely on business logic.
+                </p>
+
+            </article>
+
+            <!-- Back to Blog -->
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post Generator - Sushant Sikare</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Marked.js for Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- Mermaid for Diagrams -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        /* Generator-specific styles */
+        .generator-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        @media (max-width: 900px) {
+            .generator-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .form-section,
+        .preview-section {
+            background: var(--bg-secondary);
+            padding: 1.5rem;
+            border-radius: 0.75rem;
+            border: 1px solid var(--border);
+        }
+
+        .form-group {
+            margin-bottom: 1.25rem;
+        }
+
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid var(--border);
+            border-radius: 0.5rem;
+            font-family: var(--font-sans);
+            font-size: 0.95rem;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            transition: border-color 0.2s ease;
+        }
+
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        .form-group textarea {
+            min-height: 300px;
+            font-family: var(--font-mono);
+            font-size: 0.875rem;
+            line-height: 1.6;
+            resize: vertical;
+        }
+
+        .form-group .hint {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            font-size: 0.95rem;
+            transition: all 0.2s ease;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--accent-hover);
+        }
+
+        .btn-secondary {
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+        }
+
+        .btn-secondary:hover {
+            background: var(--border);
+        }
+
+        .preview-section h3 {
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .preview-content {
+            background: var(--bg-primary);
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            border: 1px solid var(--border);
+            min-height: 400px;
+            overflow-y: auto;
+        }
+
+        .preview-content h1 {
+            font-size: 1.75rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .preview-content .post-meta {
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .output-section {
+            margin-top: 2rem;
+        }
+
+        .output-section textarea {
+            width: 100%;
+            min-height: 200px;
+            font-family: var(--font-mono);
+            font-size: 0.8rem;
+            padding: 1rem;
+            border: 1px solid var(--border);
+            border-radius: 0.5rem;
+            background: var(--code-bg);
+            color: var(--text-primary);
+        }
+
+        .success-msg {
+            background: #10b981;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            margin-left: 1rem;
+            font-size: 0.875rem;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .success-msg.show {
+            opacity: 1;
+        }
+
+        .instructions {
+            background: var(--bg-secondary);
+            padding: 1.5rem;
+            border-radius: 0.75rem;
+            border: 1px solid var(--border);
+            margin-bottom: 2rem;
+        }
+
+        .instructions h3 {
+            margin-bottom: 0.75rem;
+        }
+
+        .instructions ol {
+            margin-left: 1.25rem;
+            color: var(--text-secondary);
+        }
+
+        .instructions li {
+            margin-bottom: 0.5rem;
+        }
+
+        .instructions code {
+            background: var(--code-bg);
+            padding: 0.15rem 0.4rem;
+            border-radius: 0.25rem;
+            font-size: 0.875rem;
+        }
+
+        .tab-buttons {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .tab-btn {
+            padding: 0.5rem 1rem;
+            background: transparent;
+            border: 1px solid var(--border);
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+
+        .tab-btn.active {
+            background: var(--accent);
+            color: white;
+            border-color: var(--accent);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <a href="index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Blog</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container" style="max-width: 1200px;">
+            <section class="hero">
+                <h1>📝 Blog Post Generator</h1>
+                <p class="hero-subtitle">Create new blog posts with markdown support</p>
+            </section>
+
+            <!-- Instructions -->
+            <div class="instructions">
+                <h3>How to use:</h3>
+                <ol>
+                    <li>Fill in the form on the left (title, date, tags, content)</li>
+                    <li>Write your content using <strong>Markdown</strong> - see preview on the right</li>
+                    <li>Click <strong>"Generate HTML"</strong> to create the blog post code</li>
+                    <li>Click <strong>"Download"</strong> to save the HTML file to your <code>blog/</code> folder</li>
+                    <li>Add a link to the new post in <code>index.html</code></li>
+                </ol>
+            </div>
+
+            <!-- Generator -->
+            <div class="generator-container">
+                <!-- Form Section -->
+                <div class="form-section">
+                    <h3>Post Details</h3>
+
+                    <div class="form-group">
+                        <label for="title">Title</label>
+                        <input type="text" id="title" placeholder="Building Production-Ready AI Agents"
+                            oninput="updatePreview()">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="date">Date</label>
+                        <input type="date" id="date" oninput="updatePreview()">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="tags">Tags</label>
+                        <input type="text" id="tags" placeholder="AI Agents, DevOps, Platform Engineering"
+                            oninput="updatePreview()">
+                        <p class="hint">Comma-separated tags</p>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="content">Content (Markdown) - Paste directly from LinkedIn! 📋</label>
+                        <textarea id="content" placeholder="Paste your LinkedIn article here...
+
+Emojis ✅, text ✅, and formatting will be preserved!
+
+When you paste, any images in clipboard will appear in the 
+'Pasted Images' gallery below. You can then:
+1. Download each image
+2. Copy the markdown code
+3. Insert it into your content
+
+Tip: For best results, select and copy content 
+directly from your LinkedIn article." oninput="updatePreview()"></textarea>
+                        <p class="hint">✨ Paste with Ctrl+V - Emojis and formatting preserved! Images will be captured
+                            below.</p>
+                    </div>
+
+                    <!-- Pasted Images Gallery -->
+                    <div id="pasted-images-section" class="form-group"
+                        style="display: none; background: var(--bg-primary); padding: 1rem; border-radius: 0.5rem; border: 2px dashed var(--accent);">
+                        <h4 style="margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem;">
+                            🖼️ Pasted Images <span id="image-count"
+                                style="background: var(--accent); color: white; padding: 0.2rem 0.5rem; border-radius: 1rem; font-size: 0.75rem;">0</span>
+                        </h4>
+                        <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.75rem;">
+                            Click an image to copy its markdown, or download to save to assets/images/
+                        </p>
+                        <div id="pasted-images-gallery" style="display: flex; flex-wrap: wrap; gap: 0.75rem;"></div>
+                        <button class="btn btn-secondary" style="margin-top: 0.75rem;" onclick="clearPastedImages()">🗑️
+                            Clear All</button>
+                    </div>
+
+                    <div class="btn-group">
+                        <button class="btn btn-primary" onclick="generateHTML()">📄 Generate HTML</button>
+                        <button class="btn btn-secondary" onclick="downloadFile()">⬇️ Download File</button>
+                        <button class="btn btn-secondary" onclick="copyToClipboard()">📋 Copy Code</button>
+                        <span id="success-msg" class="success-msg">Copied!</span>
+                    </div>
+                </div>
+
+                <!-- Preview Section -->
+                <div class="preview-section">
+                    <h3>
+                        Live Preview
+                        <div class="tab-buttons">
+                            <button class="tab-btn active" onclick="showTab('preview')">Preview</button>
+                            <button class="tab-btn" onclick="showTab('html')">HTML Output</button>
+                        </div>
+                    </h3>
+
+                    <div id="preview-tab" class="preview-content">
+                        <h1 id="preview-title">Your Post Title</h1>
+                        <div class="post-meta" id="preview-meta">
+                            <span id="preview-date">February 1, 2026</span>
+                            <span class="post-tags" id="preview-tags"></span>
+                        </div>
+                        <div id="preview-content">
+                            <p>Start writing to see the preview...</p>
+                        </div>
+                    </div>
+
+                    <div id="html-tab" class="preview-content" style="display: none;">
+                        <textarea id="html-output" readonly
+                            style="width: 100%; height: 100%; min-height: 350px; border: none; background: transparent; resize: none;"></textarea>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Index Entry Helper -->
+            <div class="output-section">
+                <h3>📌 Add to index.html</h3>
+                <p style="color: var(--text-secondary); margin-bottom: 1rem;">Copy this code and paste it in the
+                    appropriate year section of your index.html:</p>
+                <textarea id="index-entry" readonly></textarea>
+                <button class="btn btn-secondary" style="margin-top: 0.5rem;" onclick="copyIndexEntry()">📋 Copy Index
+                    Entry</button>
+            </div>
+
+            <!-- Image Upload Helper -->
+            <div class="output-section"
+                style="background: var(--bg-secondary); padding: 1.5rem; border-radius: 0.75rem; border: 1px solid var(--border);">
+                <h3>🖼️ Image Helper (for LinkedIn imports)</h3>
+                <p style="color: var(--text-secondary); margin-bottom: 1rem;">
+                    LinkedIn images need to be saved locally. Use this tool to generate markdown for your images:
+                </p>
+
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1rem;">
+                    <div>
+                        <label style="display: block; font-weight: 600; margin-bottom: 0.5rem;">Image File Name</label>
+                        <input type="text" id="image-filename" placeholder="istio-architecture.png"
+                            style="width: 100%; padding: 0.75rem; border: 1px solid var(--border); border-radius: 0.5rem; background: var(--bg-primary); color: var(--text-primary);">
+                    </div>
+                    <div>
+                        <label style="display: block; font-weight: 600; margin-bottom: 0.5rem;">Alt Text
+                            (Description)</label>
+                        <input type="text" id="image-alt" placeholder="Istio Service Mesh Architecture"
+                            style="width: 100%; padding: 0.75rem; border: 1px solid var(--border); border-radius: 0.5rem; background: var(--bg-primary); color: var(--text-primary);">
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+                    <button class="btn btn-primary" onclick="generateImageMarkdown()">Generate Markdown</button>
+                    <code id="image-markdown"
+                        style="flex: 1; padding: 0.75rem; background: var(--code-bg); border-radius: 0.5rem; font-size: 0.875rem; cursor: pointer;"
+                        onclick="copyImageMarkdown()" title="Click to copy">
+                        ![Alt text](assets/images/filename.png)
+                    </code>
+                    <button class="btn btn-secondary" onclick="copyImageMarkdown()">📋 Copy</button>
+                </div>
+
+                <div
+                    style="margin-top: 1.5rem; padding: 1rem; background: var(--bg-primary); border-radius: 0.5rem; border: 1px dashed var(--border);">
+                    <h4 style="margin-bottom: 0.75rem;">📥 Quick Steps to Import LinkedIn Images:</h4>
+                    <ol style="color: var(--text-secondary); margin-left: 1.25rem; font-size: 0.9rem;">
+                        <li>Right-click each image in your LinkedIn article → <strong>"Save image as..."</strong></li>
+                        <li>Save to: <code>personal-site/assets/images/</code></li>
+                        <li>Name it descriptively (e.g., <code>istio-architecture.png</code>)</li>
+                        <li>Use the tool above to generate the markdown</li>
+                        <li>Replace <code>No alt text provided for this image</code> in your content with the generated
+                            markdown</li>
+                    </ol>
+                </div>
+
+                <!-- Image Preview -->
+                <div id="image-preview-section" style="margin-top: 1rem; display: none;">
+                    <h4 style="margin-bottom: 0.5rem;">Preview:</h4>
+                    <img id="image-preview"
+                        style="max-width: 100%; max-height: 200px; border-radius: 0.5rem; border: 1px solid var(--border);">
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushant.sikare@email.com">Mail</a>
+                    <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+                    <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>
+        // Store pasted images
+        let pastedImages = [];
+        let imageCounter = 0;
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set today's date
+            document.getElementById('date').valueAsDate = new Date();
+
+            // Configure marked
+            marked.setOptions({
+                breaks: true,
+                gfm: true
+            });
+
+            // Initialize mermaid
+            mermaid.initialize({
+                startOnLoad: false,
+                theme: document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default'
+            });
+
+            // Add paste handler to content textarea
+            const contentArea = document.getElementById('content');
+            contentArea.addEventListener('paste', handlePaste);
+
+            // Also listen for paste anywhere on the page
+            document.addEventListener('paste', handleGlobalPaste);
+
+            updatePreview();
+        });
+
+        // Handle paste events on the content textarea
+        function handlePaste(e) {
+            const items = e.clipboardData?.items;
+            if (!items) return;
+
+            for (const item of items) {
+                if (item.type.startsWith('image/')) {
+                    e.preventDefault();
+                    const blob = item.getAsFile();
+                    if (blob) {
+                        captureImage(blob);
+                    }
+                }
+            }
+        }
+
+        // Handle paste events globally (for when user pastes on page)
+        function handleGlobalPaste(e) {
+            // Skip if already handled by textarea
+            if (e.target.id === 'content') return;
+
+            const items = e.clipboardData?.items;
+            if (!items) return;
+
+            for (const item of items) {
+                if (item.type.startsWith('image/')) {
+                    const blob = item.getAsFile();
+                    if (blob) {
+                        captureImage(blob);
+                    }
+                }
+            }
+        }
+
+        // Capture and store an image from clipboard
+        function captureImage(blob) {
+            imageCounter++;
+            const reader = new FileReader();
+
+            reader.onload = (e) => {
+                const imageData = {
+                    id: imageCounter,
+                    data: e.target.result,
+                    name: `image-${imageCounter}.png`,
+                    type: blob.type
+                };
+
+                pastedImages.push(imageData);
+                renderImageGallery();
+                showPastedImagesSection();
+            };
+
+            reader.readAsDataURL(blob);
+        }
+
+        // Show the pasted images section
+        function showPastedImagesSection() {
+            document.getElementById('pasted-images-section').style.display = 'block';
+            document.getElementById('image-count').textContent = pastedImages.length;
+        }
+
+        // Render the image gallery
+        function renderImageGallery() {
+            const gallery = document.getElementById('pasted-images-gallery');
+            gallery.innerHTML = '';
+
+            pastedImages.forEach((img, index) => {
+                const card = document.createElement('div');
+                card.style.cssText = 'position: relative; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 0.5rem; padding: 0.5rem; width: 150px;';
+
+                card.innerHTML = `
+                    <img src="${img.data}" style="width: 100%; height: 80px; object-fit: cover; border-radius: 0.25rem; cursor: pointer;" 
+                        onclick="insertImageMarkdown(${index})" title="Click to copy markdown">
+                    <input type="text" value="${img.name}" onchange="updateImageName(${index}, this.value)"
+                        style="width: 100%; margin-top: 0.5rem; padding: 0.25rem; font-size: 0.75rem; border: 1px solid var(--border); border-radius: 0.25rem; background: var(--bg-primary); color: var(--text-primary);">
+                    <div style="display: flex; gap: 0.25rem; margin-top: 0.5rem;">
+                        <button onclick="downloadImage(${index})" style="flex: 1; padding: 0.25rem; font-size: 0.7rem; cursor: pointer; border: 1px solid var(--border); border-radius: 0.25rem; background: var(--accent); color: white;">⬇️ Save</button>
+                        <button onclick="removeImage(${index})" style="padding: 0.25rem 0.5rem; font-size: 0.7rem; cursor: pointer; border: 1px solid var(--border); border-radius: 0.25rem; background: var(--bg-secondary);">🗑️</button>
+                    </div>
+                `;
+
+                gallery.appendChild(card);
+            });
+
+            document.getElementById('image-count').textContent = pastedImages.length;
+        }
+
+        // Update image name
+        function updateImageName(index, newName) {
+            pastedImages[index].name = newName;
+        }
+
+        // Insert image markdown into content
+        function insertImageMarkdown(index) {
+            const img = pastedImages[index];
+            const altText = img.name.replace(/\.[^/.]+$/, '').replace(/-/g, ' ');
+            const markdown = `![${altText}](assets/images/${img.name})`;
+
+            // Copy to clipboard
+            navigator.clipboard.writeText(markdown);
+
+            // Insert at cursor position in textarea
+            const textarea = document.getElementById('content');
+            const start = textarea.selectionStart;
+            const end = textarea.selectionEnd;
+            const text = textarea.value;
+            textarea.value = text.substring(0, start) + markdown + text.substring(end);
+            textarea.selectionStart = textarea.selectionEnd = start + markdown.length;
+            textarea.focus();
+
+            updatePreview();
+            showSuccessMsg();
+        }
+
+        // Download image to assets/images folder
+        function downloadImage(index) {
+            const img = pastedImages[index];
+            const link = document.createElement('a');
+            link.href = img.data;
+            link.download = img.name;
+            link.click();
+        }
+
+        // Remove an image from gallery
+        function removeImage(index) {
+            pastedImages.splice(index, 1);
+            renderImageGallery();
+            if (pastedImages.length === 0) {
+                document.getElementById('pasted-images-section').style.display = 'none';
+            }
+        }
+
+        // Clear all pasted images
+        function clearPastedImages() {
+            pastedImages = [];
+            imageCounter = 0;
+            renderImageGallery();
+            document.getElementById('pasted-images-section').style.display = 'none';
+        }
+
+        function updatePreview() {
+            const title = document.getElementById('title').value || 'Your Post Title';
+            const date = document.getElementById('date').value;
+            const tags = document.getElementById('tags').value;
+            const content = document.getElementById('content').value;
+
+            // Update title
+            document.getElementById('preview-title').textContent = title;
+
+            // Update date
+            if (date) {
+                const formattedDate = new Date(date).toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                });
+                document.getElementById('preview-date').textContent = formattedDate;
+            }
+
+            // Update tags
+            const tagsContainer = document.getElementById('preview-tags');
+            if (tags) {
+                const tagArray = tags.split(',').map(t => t.trim()).filter(t => t);
+                tagsContainer.innerHTML = tagArray.map(t => `<span class="tag">${t}</span>`).join(' ');
+            } else {
+                tagsContainer.innerHTML = '';
+            }
+
+            // Update content
+            if (content) {
+                // Process mermaid blocks separately
+                let processedContent = content.replace(/```mermaid\n([\s\S]*?)```/g, (match, diagram) => {
+                    return `<div class="mermaid">${diagram}</div>`;
+                });
+
+                const htmlContent = marked.parse(processedContent);
+                document.getElementById('preview-content').innerHTML = htmlContent;
+
+                // Render mermaid diagrams
+                try {
+                    mermaid.run({
+                        nodes: document.querySelectorAll('.mermaid')
+                    });
+                } catch (e) {
+                    console.log('Mermaid rendering:', e);
+                }
+            } else {
+                document.getElementById('preview-content').innerHTML = '<p>Start writing to see the preview...</p>';
+            }
+
+            // Update index entry
+            updateIndexEntry();
+        }
+
+        function generateHTML() {
+            const title = document.getElementById('title').value || 'Untitled Post';
+            const date = document.getElementById('date').value;
+            const tags = document.getElementById('tags').value;
+            const content = document.getElementById('content').value;
+
+            const formattedDate = date ? new Date(date).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            }) : 'Date not set';
+
+            const tagArray = tags ? tags.split(',').map(t => t.trim()).filter(t => t) : [];
+            const tagsHTML = tagArray.map(t => `<span class="tag">${t}</span>`).join('\n            ');
+
+            // Process content
+            let processedContent = content.replace(/```mermaid\n([\s\S]*?)```/g, (match, diagram) => {
+                return `<div class="mermaid">\n${diagram}</div>`;
+            });
+            const contentHTML = marked.parse(processedContent);
+
+            const html = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="${title} - Blog post by Sushant Sikare">
+  <title>${title} - Sushant Sikare</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- Mermaid for Diagrams -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"><\/script>
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="container">
+      <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+      <ul class="nav-links">
+        <li><a href="../index.html" class="active">Blog</a></li>
+        <li><a href="../projects.html">Projects</a></li>
+        <li><a href="../about.html">About Me</a></li>
+        <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">🌙</button></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main>
+    <div class="container">
+      <!-- Post Header -->
+      <header class="post-header">
+        <h1>${title}</h1>
+        <div class="post-meta">
+          ${formattedDate}
+          <span class="post-tags">
+            ${tagsHTML}
+          </span>
+        </div>
+      </header>
+
+      <!-- Post Content -->
+      <article class="post-content">
+        ${contentHTML}
+      </article>
+
+      <!-- Back to Blog -->
+      <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+        <a href="../index.html">← Back to Blog</a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-links">
+          <a href="mailto:sushant.sikare@email.com">Mail</a>
+          <a href="https://twitter.com/sushant_sikare" target="_blank">Twitter</a>
+          <a href="https://linkedin.com/in/sushant-sikare" target="_blank">LinkedIn</a>
+          <a href="https://github.com/sushant-sikare" target="_blank">GitHub</a>
+        </div>
+        <p class="footer-copy">Sushant Sikare © 2026</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/main.js"><\/script>
+</body>
+</html>`;
+
+            document.getElementById('html-output').value = html;
+            showTab('html');
+        }
+
+        function getSlug(title) {
+            return title.toLowerCase()
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/^-|-$/g, '');
+        }
+
+        function updateIndexEntry() {
+            const title = document.getElementById('title').value || 'Your Post Title';
+            const date = document.getElementById('date').value;
+            const tags = document.getElementById('tags').value;
+
+            const formattedDate = date ? new Date(date).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            }) : 'Date';
+
+            const slug = getSlug(title);
+            const tagArray = tags ? tags.split(',').map(t => t.trim()).filter(t => t) : ['Tag1', 'Tag2'];
+            const tagsHTML = tagArray.map(t => `<span class="tag">${t}</span>`).join('\n              ');
+
+            const indexEntry = `<a href="blog/${slug}.html" class="post-item">
+  <h3 class="post-title">${title}</h3>
+  <div class="post-meta">
+    ${formattedDate}
+    <span class="post-tags">
+      ${tagsHTML}
+    </span>
+  </div>
+</a>`;
+
+            document.getElementById('index-entry').value = indexEntry;
+        }
+
+        function downloadFile() {
+            const title = document.getElementById('title').value || 'untitled-post';
+            const html = document.getElementById('html-output').value;
+
+            if (!html) {
+                generateHTML();
+            }
+
+            const slug = getSlug(title);
+            const blob = new Blob([document.getElementById('html-output').value], { type: 'text/html' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${slug}.html`;
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        function copyToClipboard() {
+            const html = document.getElementById('html-output').value;
+            if (!html) {
+                generateHTML();
+            }
+            navigator.clipboard.writeText(document.getElementById('html-output').value);
+            showSuccessMsg();
+        }
+
+        function copyIndexEntry() {
+            navigator.clipboard.writeText(document.getElementById('index-entry').value);
+            showSuccessMsg();
+        }
+
+        function showSuccessMsg() {
+            const msg = document.getElementById('success-msg');
+            msg.classList.add('show');
+            setTimeout(() => msg.classList.remove('show'), 2000);
+        }
+
+        function showTab(tab) {
+            const previewTab = document.getElementById('preview-tab');
+            const htmlTab = document.getElementById('html-tab');
+            const buttons = document.querySelectorAll('.tab-btn');
+
+            buttons.forEach(btn => btn.classList.remove('active'));
+
+            if (tab === 'preview') {
+                previewTab.style.display = 'block';
+                htmlTab.style.display = 'none';
+                buttons[0].classList.add('active');
+            } else {
+                previewTab.style.display = 'none';
+                htmlTab.style.display = 'block';
+                buttons[1].classList.add('active');
+                if (!document.getElementById('html-output').value) {
+                    generateHTML();
+                }
+            }
+        }
+
+        // Image Helper Functions
+        function generateImageMarkdown() {
+            const filename = document.getElementById('image-filename').value || 'image.png';
+            const altText = document.getElementById('image-alt').value || 'Image description';
+
+            const markdown = `![${altText}](assets/images/${filename})`;
+            document.getElementById('image-markdown').textContent = markdown;
+        }
+
+        function copyImageMarkdown() {
+            const markdown = document.getElementById('image-markdown').textContent;
+            navigator.clipboard.writeText(markdown);
+            showSuccessMsg();
+        }
+
+        // Auto-update image markdown on input
+        document.addEventListener('DOMContentLoaded', () => {
+            const filenameInput = document.getElementById('image-filename');
+            const altInput = document.getElementById('image-alt');
+
+            if (filenameInput) {
+                filenameInput.addEventListener('input', generateImageMarkdown);
+            }
+            if (altInput) {
+                altInput.addEventListener('input', generateImageMarkdown);
+            }
+        });
+    </script>
+</body>
+
+</html>
