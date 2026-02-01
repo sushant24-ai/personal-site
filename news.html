@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Daily AI News - Stay updated with the latest AI, ML, and LLM news curated from top sources.">
+    <title>AI News - Sushant Sikare</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .news-grid {
+            display: grid;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+
+        .news-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.25rem;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .news-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .news-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+
+        .news-meta {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            flex-wrap: wrap;
+        }
+
+        .news-source {
+            background: var(--accent);
+            color: #fff;
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        .news-points {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-secondary);
+        }
+
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .news-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .refresh-btn {
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: opacity 0.2s;
+        }
+
+        .refresh-btn:hover {
+            opacity: 0.9;
+        }
+
+        .last-updated {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        .error-message {
+            background: #fee2e2;
+            color: #dc2626;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .filter-tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-tab {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+
+        .filter-tab:hover,
+        .filter-tab.active {
+            background: var(--accent);
+            color: #fff;
+            border-color: var(--accent);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <a href="index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Blog</a></li>
+                <li><a href="news.html" class="active">AI News</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <section class="hero">
+                <h1>🤖 AI Daily News</h1>
+                <p class="hero-subtitle">Top AI, ML & LLM stories from Hacker News, updated in real-time</p>
+            </section>
+
+            <div class="news-header">
+                <div class="filter-tabs">
+                    <button class="filter-tab active" data-filter="all">All</button>
+                    <button class="filter-tab" data-filter="ai">AI</button>
+                    <button class="filter-tab" data-filter="llm">LLM</button>
+                    <button class="filter-tab" data-filter="ml">ML</button>
+                    <button class="filter-tab" data-filter="gpt">GPT</button>
+                    <button class="filter-tab" data-filter="openai">OpenAI</button>
+                </div>
+                <div>
+                    <span class="last-updated" id="lastUpdated"></span>
+                    <button class="refresh-btn" onclick="fetchNews()">↻ Refresh</button>
+                </div>
+            </div>
+
+            <div id="newsContainer" class="news-grid">
+                <div class="loading">
+                    <div class="loading-spinner"></div>
+                    <p>Loading AI news...</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushantshikare24@gmail.com">Mail</a>
+                    <a href="https://x.com/SikareSushant" target="_blank">X</a>
+                    <a href="https://www.linkedin.com/in/sushant-s-31b799224/" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant24-ai" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>
+        // AI-related keywords to filter stories
+        const AI_KEYWORDS = [
+            'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
+            'neural network', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'claude',
+            'gemini', 'transformer', 'nlp', 'computer vision', 'langchain', 'rag',
+            'vector database', 'embedding', 'fine-tuning', 'hugging face', 'diffusion',
+            'stable diffusion', 'midjourney', 'dall-e', 'llama', 'mistral', 'copilot',
+            'agent', 'agentic', 'model', 'nvidia', 'cuda', 'pytorch', 'tensorflow',
+            'prompt', 'inference', 'training', 'benchmark', 'mcp', 'reasoning'
+        ];
+
+        let allStories = [];
+        let currentFilter = 'all';
+
+        async function fetchNews() {
+            const container = document.getElementById('newsContainer');
+            container.innerHTML = `
+                <div class="loading">
+                    <div class="loading-spinner"></div>
+                    <p>Loading AI news...</p>
+                </div>
+            `;
+
+            try {
+                // Fetch top stories from Hacker News
+                const topStoriesRes = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+                const topStoryIds = await topStoriesRes.json();
+
+                // Fetch details for top 100 stories
+                const storyPromises = topStoryIds.slice(0, 100).map(id =>
+                    fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`).then(r => r.json())
+                );
+                const stories = await Promise.all(storyPromises);
+
+                // Filter for AI-related stories
+                allStories = stories.filter(story => {
+                    if (!story || !story.title) return false;
+                    const titleLower = story.title.toLowerCase();
+                    return AI_KEYWORDS.some(keyword => titleLower.includes(keyword));
+                });
+
+                // Update last updated time
+                document.getElementById('lastUpdated').textContent =
+                    `Updated: ${new Date().toLocaleTimeString()}`;
+
+                renderNews();
+
+            } catch (error) {
+                container.innerHTML = `
+                    <div class="error-message">
+                        Failed to load news. Please try again later.
+                    </div>
+                `;
+                console.error('Error fetching news:', error);
+            }
+        }
+
+        function renderNews() {
+            const container = document.getElementById('newsContainer');
+
+            let filtered = allStories;
+            if (currentFilter !== 'all') {
+                filtered = allStories.filter(story =>
+                    story.title.toLowerCase().includes(currentFilter)
+                );
+            }
+
+            if (filtered.length === 0) {
+                container.innerHTML = `
+                    <div class="loading">
+                        <p>No ${currentFilter.toUpperCase()} stories found. Try another filter or refresh.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = filtered.slice(0, 20).map(story => {
+                const domain = story.url ? new URL(story.url).hostname.replace('www.', '') : 'news.ycombinator.com';
+                const timeAgo = getTimeAgo(story.time * 1000);
+
+                return `
+                    <a href="${story.url || `https://news.ycombinator.com/item?id=${story.id}`}" 
+                       target="_blank" 
+                       class="news-card">
+                        <h3 class="news-title">${story.title}</h3>
+                        <div class="news-meta">
+                            <span class="news-source">${domain}</span>
+                            <span class="news-points">⬆ ${story.score} points</span>
+                            <span>💬 ${story.descendants || 0} comments</span>
+                            <span>🕐 ${timeAgo}</span>
+                        </div>
+                    </a>
+                `;
+            }).join('');
+        }
+
+        function getTimeAgo(timestamp) {
+            const seconds = Math.floor((Date.now() - timestamp) / 1000);
+            if (seconds < 60) return 'just now';
+            if (seconds < 3600) return `${Math.floor(seconds / 60)}m ago`;
+            if (seconds < 86400) return `${Math.floor(seconds / 3600)}h ago`;
+            return `${Math.floor(seconds / 86400)}d ago`;
+        }
+
+        // Filter tab functionality
+        document.querySelectorAll('.filter-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                currentFilter = tab.dataset.filter;
+                renderNews();
+            });
+        });
+
+        // Initial load
+        fetchNews();
+
+        // Auto-refresh every 5 minutes
+        setInterval(fetchNews, 5 * 60 * 1000);
+    </script>
+</body>
+
+</html>
