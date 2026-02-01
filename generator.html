@@ -235,6 +235,45 @@
 </head>
 
 <body>
+    <!-- Password Protection Overlay -->
+    <div id="password-overlay"
+        style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: var(--bg-primary, #0a0a0a); z-index: 9999; display: flex; align-items: center; justify-content: center;">
+        <div
+            style="background: var(--bg-secondary, #111); padding: 2rem; border-radius: 1rem; border: 1px solid var(--border, #333); text-align: center; max-width: 400px;">
+            <h2 style="margin-bottom: 1rem; color: var(--text-primary, #fff);">🔒 Private Page</h2>
+            <p style="margin-bottom: 1.5rem; color: var(--text-muted, #888);">This page is for the site owner only.</p>
+            <input type="password" id="access-password" placeholder="Enter password"
+                style="width: 100%; padding: 0.75rem; border: 1px solid var(--border, #333); border-radius: 0.5rem; background: var(--bg-primary, #0a0a0a); color: var(--text-primary, #fff); margin-bottom: 1rem; font-size: 1rem;"
+                onkeypress="if(event.key==='Enter')checkPassword()">
+            <button onclick="checkPassword()"
+                style="width: 100%; padding: 0.75rem; background: var(--accent, #3b82f6); color: white; border: none; border-radius: 0.5rem; font-size: 1rem; cursor: pointer; font-weight: 600;">
+                Unlock
+            </button>
+            <p id="password-error" style="color: #ef4444; margin-top: 0.75rem; display: none;">Incorrect password</p>
+        </div>
+    </div>
+
+    <script>
+        // Simple password protection - change 'sush24admin' to your preferred password
+        const ADMIN_PASSWORD = 'sush24admin';
+
+        function checkPassword() {
+            const input = document.getElementById('access-password').value;
+            if (input === ADMIN_PASSWORD) {
+                document.getElementById('password-overlay').style.display = 'none';
+                sessionStorage.setItem('generator-unlocked', 'true');
+            } else {
+                document.getElementById('password-error').style.display = 'block';
+                document.getElementById('access-password').value = '';
+            }
+        }
+
+        // Check if already unlocked in this session
+        if (sessionStorage.getItem('generator-unlocked') === 'true') {
+            document.getElementById('password-overlay').style.display = 'none';
+        }
+    </script>
+
     <!-- Navigation -->
     <nav class="nav">
         <div class="container">
