@@ -160,24 +160,49 @@ function extractLinksFromHTML(html) {
 }
 
 // ====== FALLBACK: HN AI STORIES ======
+
+// Keywords that need word-boundary matching (short words that appear inside other words)
+// e.g. "ai" appears in "emails", "Gail", "ertain" — must match as whole word only
+const WORD_BOUNDARY_KEYWORDS = [
+    'ai', 'ml', 'nlp', 'rag', 'mcp', 'gpu', 'tpu',
+    'agent', 'agents'
+];
+
+// Keywords safe for substring matching (long enough to not cause false positives)
+const SUBSTRING_KEYWORDS = [
+    'artificial intelligence', 'machine learning', 'deep learning',
+    'neural network', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'claude',
+    'gemini', 'transformer', 'langchain', 'vector database',
+    'embedding', 'fine-tuning', 'fine tuning', 'hugging face', 'diffusion',
+    'llama', 'mistral', 'copilot', 'agentic', 'nvidia', 'pytorch', 'tensorflow',
+    'inference', 'benchmark', 'reasoning model',
+    'sora', 'deepseek', 'perplexity', 'cursor ai', 'devin', 'multimodal',
+    'foundation model', 'language model', 'text-to-', 'image generation',
+    'stable diffusion', 'midjourney', 'dall-e', 'computer vision',
+    'generative ai', 'gen ai', 'genai', 'large language',
+    'ai agent', 'ai model', 'ai tool', 'ai code', 'ai startup'
+];
+
+// Build regex patterns for word-boundary keywords
+const WORD_BOUNDARY_PATTERNS = WORD_BOUNDARY_KEYWORDS.map(kw => new RegExp(`\\b${kw}\\b`, 'i'));
+
+function isAIRelated(title) {
+    const t = title.toLowerCase();
+    // Check word-boundary keywords first
+    for (const pattern of WORD_BOUNDARY_PATTERNS) {
+        if (pattern.test(title)) return true;
+    }
+    // Check substring keywords
+    return SUBSTRING_KEYWORDS.some(kw => t.includes(kw));
+}
+
+const HIGH_VALUE = {
+    'openai': 3, 'gpt': 2, 'claude': 3, 'gemini': 3, 'anthropic': 3,
+    'deepseek': 3, 'llama': 2, 'agentic': 2, 'reasoning': 2
+};
+
 async function fetchHNAIStories() {
     console.log('Using Hacker News AI stories as source...');
-
-    const AI_KEYWORDS = [
-        'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
-        'neural network', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'claude',
-        'gemini', 'transformer', 'nlp', 'langchain', 'rag', 'vector',
-        'embedding', 'fine-tuning', 'hugging face', 'diffusion', 'llama', 'mistral',
-        'copilot', 'agent', 'agentic', 'nvidia', 'pytorch', 'tensorflow',
-        'prompt', 'inference', 'benchmark', 'mcp', 'reasoning',
-        'sora', 'deepseek', 'perplexity', 'cursor', 'devin', 'multimodal',
-        'foundation model'
-    ];
-
-    const HIGH_VALUE = {
-        'openai': 3, 'gpt': 2, 'claude': 3, 'gemini': 3, 'anthropic': 3,
-        'deepseek': 3, 'llama': 2, 'agent': 2, 'agentic': 2, 'reasoning': 2
-    };
 
     // Fetch story IDs
     const topRes = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
@@ -206,12 +231,11 @@ async function fetchHNAIStories() {
         stories.push(...results.filter(Boolean));
     }
 
-    // Filter AI stories from last 7 days
+    // Filter AI stories from last 7 days using strict keyword matching
     const sevenDaysAgo = Date.now() - MAX_DAYS * 24 * 60 * 60 * 1000;
     const aiStories = stories.filter(s => {
         if (!s || !s.title || !s.time || s.time * 1000 < sevenDaysAgo) return false;
-        const t = s.title.toLowerCase();
-        return AI_KEYWORDS.some(kw => t.includes(kw));
+        return isAIRelated(s.title);
     });
 
     // Score stories

@@ -1,22 +1,14 @@
 {
-  "lastUpdated": "2026-02-13T05:04:34.677Z",
+  "lastUpdated": "2026-02-13T05:15:14.727Z",
   "days": {
     "2026-02-13": [
-      {
-        "url": "https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network",
-        "title": "Inside Epstein’s network: what 1.4M emails reveal",
-        "description": "70 points · 59 comments",
-        "image": "",
-        "source": "economist.com",
-        "stats": ""
-      },
       {
         "url": "https://blog.cloudflare.com/markdown-for-agents/",
         "title": "Cloudflare adds real-time Markdown rendering for AI agents",
         "description": "The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class citizens. Markdown for Agents automatically converts any HTML page requested from our network to markdown.",
         "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6Df02zjRb4inGPazW51EyD/278afaa16719f1080f12936c35a6c0ef/BLOG-3162_OG.png",
         "source": "blog.cloudflare.com",
-        "stats": "13 points · 6 comments"
+        "stats": "14 points · 7 comments"
       },
       {
         "url": "https://old.reddit.com/r/cscareerquestions/comments/1r2urma/anyone_feel_like_offshoring_is_a_bigger_issue/o4zqqgf/",
@@ -27,20 +19,28 @@
         "stats": ""
       },
       {
-        "url": "https://www.axios.com/2026/02/12/justice-antitrust-chief-gail-slater-resigns",
-        "title": "Justice Department antitrust chief Gail Slater resigns",
-        "description": "7 points · 0 comments",
+        "url": "https://old.reddit.com/r/claude/comments/1o1csrq/api_error_400_due_to_tool_use_concurrency_issues/",
+        "title": "Claude Code bug forces users to restart chat, wasting tokens",
+        "description": "4 points · 2 comments",
         "image": "",
-        "source": "axios.com",
+        "source": "old.reddit.com",
         "stats": ""
       },
       {
-        "url": "https://www.ft.com/content/c9c4ea8a-f806-4a04-b409-a8ec03c00b15",
-        "title": "Top Goldman Sachs Lawyer Kathy Ruemmler to Resign over Epstein Links",
-        "description": "Attorney to depart Wall Street bank on June 30 after new documents revealed extent of her ties to the sex offender ",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fedaab52a-9209-4a06-856b-b8721564731f.jpg?source=next-barrier-page",
-        "source": "ft.com",
-        "stats": "5 points · 1 comments"
+        "url": "https://news.ycombinator.com/item?id=46998801",
+        "title": "Ask HN: Better hardware means OpenAI, Anthropic, etc. are doomed in the future?",
+        "description": "2 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=46998170",
+        "title": "Ask HN: What makes an AI agent framework production-ready vs. a toy?",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-02-12": [
@@ -50,7 +50,7 @@
         "description": "Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…",
         "image": "https://theshamblog.com/wp-content/uploads/2026/02/img_6595.jpg",
         "source": "theshamblog.com",
-        "stats": "1592 points · 654 comments"
+        "stats": "1599 points · 657 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
@@ -58,15 +58,7 @@
         "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png",
         "source": "blog.google",
-        "stats": "741 points · 466 comments"
-      },
-      {
-        "url": "https://github.com/matplotlib/matplotlib/pull/31132",
-        "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-        "description": "This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.\nIMPORTANT: This is a more targeted fix than originally proposed. ...",
-        "image": "https://opengraph.githubassets.com/1433b9723dfd366e16aeed5a7dcbb7471b35aa1c5da0df468fece326f01a85cc/matplotlib/matplotlib/pull/31132",
-        "source": "github.com",
-        "stats": "873 points · 684 comments"
+        "stats": "741 points · 468 comments"
       },
       {
         "url": "https://github.com/tonyyont/peon-ping",
@@ -74,15 +66,23 @@
         "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code and Codex. Stop babysitting your terminal. - PeonPing/peon-ping",
         "image": "https://repository-images.githubusercontent.com/1154009261/2c54cce9-e81b-4e95-9512-73ef389e0c09",
         "source": "github.com",
-        "stats": "947 points · 289 comments"
+        "stats": "949 points · 289 comments"
       },
       {
         "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
         "title": "GPT‑5.3‑Codex‑Spark",
-        "description": "619 points · 251 comments",
+        "description": "621 points · 252 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
+      },
+      {
+        "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+        "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+        "description": "This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.\nIMPORTANT: This is a more targeted fix than originally proposed. ...",
+        "image": "https://opengraph.githubassets.com/1433b9723dfd366e16aeed5a7dcbb7471b35aa1c5da0df468fece326f01a85cc/matplotlib/matplotlib/pull/31132",
+        "source": "github.com",
+        "stats": "874 points · 685 comments"
       }
     ],
     "2026-02-11": [
@@ -92,7 +92,7 @@
         "description": "A blog by Yoshi.",
         "image": "",
         "source": "symmetrybreak.ing",
-        "stats": "1048 points · 678 comments"
+        "stats": "1049 points · 678 comments"
       },
       {
         "url": "https://z.ai/blog/glm-5",
@@ -119,12 +119,12 @@
         "stats": ""
       },
       {
-        "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-        "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
-        "description": "364 points · 577 comments",
+        "url": "https://the-ai-native.company/",
+        "title": "AI-First Company Memos",
+        "description": "Every major CEO AI-first memo and mandate, collected. Shopify, Box, Duolingo, Fiverr, Meta, Klarna, Alibaba, Notion, and more.",
         "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "source": "the-ai-native.company",
+        "stats": "128 points · 202 comments"
       }
     ],
     "2026-02-10": [
@@ -132,7 +132,7 @@
         "url": "https://github.com/antirez/voxtral.c",
         "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
         "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model - antirez/voxtral.c",
-        "image": "https://opengraph.githubassets.com/54acff3af9cc87f5853077a22eb41729f3e22970ce0b44e26ff726999b192aa0/antirez/voxtral.c",
+        "image": "https://opengraph.githubassets.com/64c813f36f8e4557fac5b622972048adcc89425354c65ddcd038e2cf6f4baa58/antirez/voxtral.c",
         "source": "github.com",
         "stats": "309 points · 35 comments"
       },
@@ -140,7 +140,7 @@
         "url": "https://github.com/rowboatlabs/rowboat",
         "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
         "description": "Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/d545794e7f28bf76904dfe8cd8b784916b08a83b46c6ca714bb7a54ac7d08ee6/rowboatlabs/rowboat",
+        "image": "https://opengraph.githubassets.com/a6710d0be552a4524c796a627e0b2b67769cd510347b8651a0059de095611129/rowboatlabs/rowboat",
         "source": "github.com",
         "stats": "199 points · 56 comments"
       }
@@ -159,17 +159,9 @@
       {
         "url": "https://blog.dwac.dev/posts/cat-debugging/",
         "title": "How a cat debugged Stable Diffusion (2023)",
-        "description": "32 points · 2 comments",
+        "description": "33 points · 2 comments",
         "image": "",
         "source": "blog.dwac.dev",
-        "stats": ""
-      },
-      {
-        "url": "https://tontinton.com/posts/lance/",
-        "title": "Lance table format explained with simple animations",
-        "description": "26 points · 2 comments",
-        "image": "",
-        "source": "tontinton.com",
         "stats": ""
       }
     ],
@@ -181,14 +173,6 @@
         "image": "https://opengraph.githubassets.com/13ddf7f76d905e3b3800ba6a2d2ba0397b96f9275d9ff663a7af222e96dbb57e/zai-org/GLM-OCR",
         "source": "github.com",
         "stats": "294 points · 74 comments"
-      },
-      {
-        "url": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
-        "title": "RISC-V Vector Primer",
-        "description": "Read chapters directly from this repo - do not use GitHub Pages link.  - simplex-micro/riscv-vector-primer",
-        "image": "https://opengraph.githubassets.com/71b7d930f2a111ef82f83e302d089bd094416d52b70cf8de99f6e0867a562e3d/simplex-micro/riscv-vector-primer",
-        "source": "github.com",
-        "stats": "66 points · 21 comments"
       }
     ]
   }
