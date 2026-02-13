@@ -1,0 +1,195 @@
+{
+  "lastUpdated": "2026-02-13T05:04:34.677Z",
+  "days": {
+    "2026-02-13": [
+      {
+        "url": "https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network",
+        "title": "Inside Epstein’s network: what 1.4M emails reveal",
+        "description": "70 points · 59 comments",
+        "image": "",
+        "source": "economist.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.cloudflare.com/markdown-for-agents/",
+        "title": "Cloudflare adds real-time Markdown rendering for AI agents",
+        "description": "The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class citizens. Markdown for Agents automatically converts any HTML page requested from our network to markdown.",
+        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6Df02zjRb4inGPazW51EyD/278afaa16719f1080f12936c35a6c0ef/BLOG-3162_OG.png",
+        "source": "blog.cloudflare.com",
+        "stats": "13 points · 6 comments"
+      },
+      {
+        "url": "https://old.reddit.com/r/cscareerquestions/comments/1r2urma/anyone_feel_like_offshoring_is_a_bigger_issue/o4zqqgf/",
+        "title": "Ask HN: Is offshoring a bigger issue than AI and H1B for US workers?",
+        "description": "9 points · 2 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.axios.com/2026/02/12/justice-antitrust-chief-gail-slater-resigns",
+        "title": "Justice Department antitrust chief Gail Slater resigns",
+        "description": "7 points · 0 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.ft.com/content/c9c4ea8a-f806-4a04-b409-a8ec03c00b15",
+        "title": "Top Goldman Sachs Lawyer Kathy Ruemmler to Resign over Epstein Links",
+        "description": "Attorney to depart Wall Street bank on June 30 after new documents revealed extent of her ties to the sex offender ",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fedaab52a-9209-4a06-856b-b8721564731f.jpg?source=next-barrier-page",
+        "source": "ft.com",
+        "stats": "5 points · 1 comments"
+      }
+    ],
+    "2026-02-12": [
+      {
+        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+        "title": "An AI agent published a hit piece on me",
+        "description": "Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…",
+        "image": "https://theshamblog.com/wp-content/uploads/2026/02/img_6595.jpg",
+        "source": "theshamblog.com",
+        "stats": "1592 points · 654 comments"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+        "title": "Gemini 3 Deep Think",
+        "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png",
+        "source": "blog.google",
+        "stats": "741 points · 466 comments"
+      },
+      {
+        "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+        "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+        "description": "This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.\nIMPORTANT: This is a more targeted fix than originally proposed. ...",
+        "image": "https://opengraph.githubassets.com/1433b9723dfd366e16aeed5a7dcbb7471b35aa1c5da0df468fece326f01a85cc/matplotlib/matplotlib/pull/31132",
+        "source": "github.com",
+        "stats": "873 points · 684 comments"
+      },
+      {
+        "url": "https://github.com/tonyyont/peon-ping",
+        "title": "Warcraft III Peon Voice Notifications for Claude Code",
+        "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code and Codex. Stop babysitting your terminal. - PeonPing/peon-ping",
+        "image": "https://repository-images.githubusercontent.com/1154009261/2c54cce9-e81b-4e95-9512-73ef389e0c09",
+        "source": "github.com",
+        "stats": "947 points · 289 comments"
+      },
+      {
+        "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+        "title": "GPT‑5.3‑Codex‑Spark",
+        "description": "619 points · 251 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      }
+    ],
+    "2026-02-11": [
+      {
+        "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+        "title": "Claude Code is being dumbed down?",
+        "description": "A blog by Yoshi.",
+        "image": "",
+        "source": "symmetrybreak.ing",
+        "stats": "1048 points · 678 comments"
+      },
+      {
+        "url": "https://z.ai/blog/glm-5",
+        "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+        "description": "466 points · 510 comments",
+        "image": "",
+        "source": "z.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+        "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
+        "description": "301 points · 229 comments",
+        "image": "",
+        "source": "papers.ssrn.com",
+        "stats": ""
+      },
+      {
+        "url": "https://z.ai/blog/glm-5",
+        "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "description": "376 points · 8 comments",
+        "image": "",
+        "source": "z.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+        "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+        "description": "364 points · 577 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      }
+    ],
+    "2026-02-10": [
+      {
+        "url": "https://github.com/antirez/voxtral.c",
+        "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+        "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model - antirez/voxtral.c",
+        "image": "https://opengraph.githubassets.com/54acff3af9cc87f5853077a22eb41729f3e22970ce0b44e26ff726999b192aa0/antirez/voxtral.c",
+        "source": "github.com",
+        "stats": "309 points · 35 comments"
+      },
+      {
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+        "description": "Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/d545794e7f28bf76904dfe8cd8b784916b08a83b46c6ca714bb7a54ac7d08ee6/rowboatlabs/rowboat",
+        "source": "github.com",
+        "stats": "199 points · 56 comments"
+      }
+    ],
+    "2026-02-09": [
+      {
+        "url": "https://hallucinatingsplines.com",
+        "title": "Show HN: AI agents play SimCity through a REST API",
+        "description": "The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.",
+        "image": "",
+        "source": "hallucinatingsplines.com",
+        "stats": "207 points · 71 comments"
+      }
+    ],
+    "2026-02-08": [
+      {
+        "url": "https://blog.dwac.dev/posts/cat-debugging/",
+        "title": "How a cat debugged Stable Diffusion (2023)",
+        "description": "32 points · 2 comments",
+        "image": "",
+        "source": "blog.dwac.dev",
+        "stats": ""
+      },
+      {
+        "url": "https://tontinton.com/posts/lance/",
+        "title": "Lance table format explained with simple animations",
+        "description": "26 points · 2 comments",
+        "image": "",
+        "source": "tontinton.com",
+        "stats": ""
+      }
+    ],
+    "2026-02-07": [
+      {
+        "url": "https://github.com/zai-org/GLM-OCR",
+        "title": "GLM-OCR – A multimodal OCR model for complex document understanding",
+        "description": "GLM-OCR: Accurate ×  Fast × Comprehensive. Contribute to zai-org/GLM-OCR development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/13ddf7f76d905e3b3800ba6a2d2ba0397b96f9275d9ff663a7af222e96dbb57e/zai-org/GLM-OCR",
+        "source": "github.com",
+        "stats": "294 points · 74 comments"
+      },
+      {
+        "url": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
+        "title": "RISC-V Vector Primer",
+        "description": "Read chapters directly from this repo - do not use GitHub Pages link.  - simplex-micro/riscv-vector-primer",
+        "image": "https://opengraph.githubassets.com/71b7d930f2a111ef82f83e302d089bd094416d52b70cf8de99f6e0867a562e3d/simplex-micro/riscv-vector-primer",
+        "source": "github.com",
+        "stats": "66 points · 21 comments"
+      }
+    ]
+  }
+}

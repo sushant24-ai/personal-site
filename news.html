@@ -65,9 +65,6 @@
             font-weight: 700;
             color: var(--text-primary);
             margin-bottom: 1.25rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 2px solid var(--accent);
-            display: inline-block;
         }
 
         /* Card layout */
@@ -82,41 +79,44 @@
 
         .news-card:hover {
             transform: translateX(4px);
-            opacity: 0.9;
         }
 
+        .news-card:hover .card-title {
+            text-decoration: underline;
+        }
+
+        /* Thumbnail */
         .card-thumb {
-            width: 160px;
-            min-width: 160px;
-            height: 105px;
-            border-radius: 8px;
+            width: 170px;
+            min-width: 170px;
+            height: 110px;
+            border-radius: 10px;
             overflow: hidden;
             background: var(--border);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            position: relative;
-        }
-
-        .card-thumb-gradient {
-            width: 100%;
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 2rem;
-            font-weight: 700;
-            color: rgba(255, 255, 255, 0.9);
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
+            flex-shrink: 0;
         }
 
         .card-thumb img {
             width: 100%;
             height: 100%;
             object-fit: cover;
+            display: block;
         }
 
+        .card-thumb-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.85);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Body */
         .card-body {
             flex: 1;
             display: flex;
@@ -129,15 +129,15 @@
             font-size: 1.05rem;
             font-weight: 600;
             color: var(--accent);
-            margin-bottom: 0.35rem;
+            margin-bottom: 0.3rem;
             line-height: 1.35;
         }
 
         .card-desc {
-            font-size: 0.88rem;
+            font-size: 0.85rem;
             color: var(--text-secondary);
             line-height: 1.45;
-            margin-bottom: 0.35rem;
+            margin-bottom: 0.3rem;
             display: -webkit-box;
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
@@ -147,34 +147,7 @@
         .card-source {
             font-size: 0.8rem;
             color: var(--text-secondary);
-            opacity: 0.7;
-        }
-
-        /* Loading */
-        .loading-container {
-            text-align: center;
-            padding: 3rem 0;
-        }
-
-        .loading-spinner {
-            width: 32px;
-            height: 32px;
-            border: 3px solid var(--border);
-            border-top-color: var(--accent);
-            border-radius: 50%;
-            animation: spin 0.8s linear infinite;
-            margin: 0 auto 1rem;
-        }
-
-        .loading-text {
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-        }
-
-        @keyframes spin {
-            to {
-                transform: rotate(360deg);
-            }
+            opacity: 0.6;
         }
 
         /* Responsive */
@@ -187,7 +160,7 @@
             .card-thumb {
                 width: 100%;
                 min-width: unset;
-                height: 140px;
+                height: 160px;
             }
         }
     </style>
@@ -218,12 +191,7 @@
                         target="_blank">Sushant Sikare</a></p>
             </div>
 
-            <div id="newsContent">
-                <div class="loading-container">
-                    <div class="loading-spinner"></div>
-                    <p class="loading-text">Loading today's links...</p>
-                </div>
-            </div>
+            <div id="newsContent"></div>
 
         </div>
     </main>
@@ -245,39 +213,12 @@
 
     <script src="js/main.js"></script>
     <script>
-        // ====== AI Keywords for filtering ======
-        const AI_KEYWORDS = [
-            'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
-            'neural network', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'claude',
-            'gemini', 'transformer', 'nlp', 'computer vision', 'langchain', 'rag',
-            'vector database', 'embedding', 'fine-tuning', 'hugging face', 'diffusion',
-            'stable diffusion', 'midjourney', 'dall-e', 'llama', 'mistral', 'copilot',
-            'agent', 'agentic', 'nvidia', 'cuda', 'pytorch', 'tensorflow',
-            'prompt', 'inference', 'training', 'benchmark', 'mcp', 'reasoning',
-            'sora', 'deepseek', 'perplexity', 'cursor', 'windsurf', 'v0', 'devin',
-            'multimodal', 'vision model', 'text-to', 'image generation', 'foundation model'
-        ];
-
-        const HIGH_VALUE = {
-            'openai': 3, 'gpt': 2, 'claude': 3, 'gemini': 3, 'anthropic': 3,
-            'deepseek': 3, 'llama': 2, 'mistral': 2, 'agent': 2, 'agentic': 2,
-            'reasoning': 2, 'devin': 3, 'sora': 3, 'foundation model': 2
-        };
-
-        // ====== Gradient colors for thumbnails ======
+        // ====== Gradient colors for thumbnails without images ======
         const GRADIENTS = [
-            ['#667eea', '#764ba2'],
-            ['#f093fb', '#f5576c'],
-            ['#4facfe', '#00f2fe'],
-            ['#43e97b', '#38f9d7'],
-            ['#fa709a', '#fee140'],
-            ['#a18cd1', '#fbc2eb'],
-            ['#ffecd2', '#fcb69f'],
-            ['#ff9a9e', '#fecfef'],
-            ['#a1c4fd', '#c2e9fb'],
-            ['#d4fc79', '#96e6a1'],
-            ['#84fab0', '#8fd3f4'],
-            ['#fccb90', '#d57eeb']
+            ['#667eea', '#764ba2'], ['#f093fb', '#f5576c'], ['#4facfe', '#00f2fe'],
+            ['#43e97b', '#38f9d7'], ['#fa709a', '#fee140'], ['#a18cd1', '#fbc2eb'],
+            ['#ff9a9e', '#fecfef'], ['#a1c4fd', '#c2e9fb'], ['#84fab0', '#8fd3f4'],
+            ['#fccb90', '#d57eeb'], ['#d4fc79', '#96e6a1'], ['#ffecd2', '#fcb69f']
         ];
 
         function hashStr(s) {
@@ -286,197 +227,77 @@
             return Math.abs(h);
         }
 
-        function getDomain(url) {
-            try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
-        }
-
         function getGradient(domain) {
-            const idx = hashStr(domain) % GRADIENTS.length;
-            const [a, b] = GRADIENTS[idx];
+            const [a, b] = GRADIENTS[hashStr(domain) % GRADIENTS.length];
             return `linear-gradient(135deg, ${a}, ${b})`;
         }
 
-        function getDomainAbbr(domain) {
-            const parts = domain.replace('.com', '').replace('.org', '').replace('.io', '').replace('.dev', '').replace('.ai', '').split('.');
-            const name = parts[parts.length - 1] || parts[0];
-            return name.substring(0, 2).toUpperCase();
+        function getAbbr(domain) {
+            return domain.replace(/\.(com|org|io|dev|ai|co|net)$/, '').split('.').pop().substring(0, 2).toUpperCase();
         }
 
-        // ====== Scoring ======
-        function scoreStory(story) {
-            const hoursOld = (Date.now() - story.time * 1000) / 3.6e6;
-            const titleLow = story.title.toLowerCase();
-            let kwBonus = 1;
-            for (const [kw, bonus] of Object.entries(HIGH_VALUE)) {
-                if (titleLow.includes(kw)) kwBonus += bonus * 0.1;
-            }
-            const recency = Math.max(0.3, 1 - hoursOld / 72);
-            const engagement = Math.log10((story.descendants || 0) + 1) * 0.15 + 1;
-            return ((story.score || 0) * recency * kwBonus * engagement) / Math.sqrt(hoursOld + 2);
-        }
-
-        // ====== Date helpers ======
-        function toISTDateStr(ts) {
-            return new Date(ts * 1000).toLocaleDateString('en-IN', {
-                timeZone: 'Asia/Kolkata',
-                year: 'numeric', month: '2-digit', day: '2-digit'
-            });
-        }
-
-        function formatDayLabel(dateKey) {
-            const parts = dateKey.split('/');
-            const d = new Date(parts[2], parts[1] - 1, parts[0]);
+        function formatDayLabel(dateStr) {
+            const d = new Date(dateStr + 'T00:00:00');
             const now = new Date();
-            const today = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kolkata' }));
-            const todayStr = today.toLocaleDateString('en-IN', { year: 'numeric', month: '2-digit', day: '2-digit' });
+            const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+            const yesterday = new Date(today); yesterday.setDate(today.getDate() - 1);
+            const target = new Date(d.getFullYear(), d.getMonth(), d.getDate());
 
-            const yesterday = new Date(today);
-            yesterday.setDate(yesterday.getDate() - 1);
-            const yesterdayStr = yesterday.toLocaleDateString('en-IN', { year: 'numeric', month: '2-digit', day: '2-digit' });
-
-            if (dateKey === todayStr) return 'Today';
-            if (dateKey === yesterdayStr) return 'Yesterday';
-
-            return d.toLocaleDateString('en-US', {
-                weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
-            });
+            if (target.getTime() === today.getTime()) return 'Today';
+            if (target.getTime() === yesterday.getTime()) return 'Yesterday';
+            return d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
         }
 
-        // ====== Fetch & Render ======
-        async function fetchNews() {
-            const container = document.getElementById('newsContent');
-
-            try {
-                const [topRes, newRes, bestRes] = await Promise.all([
-                    fetch('https://hacker-news.firebaseio.com/v0/topstories.json'),
-                    fetch('https://hacker-news.firebaseio.com/v0/newstories.json'),
-                    fetch('https://hacker-news.firebaseio.com/v0/beststories.json')
-                ]);
-
-                const topIds = await topRes.json();
-                const newIds = await newRes.json();
-                const bestIds = await bestRes.json();
-
-                const allIds = [...new Set([
-                    ...topIds.slice(0, 150),
-                    ...newIds.slice(0, 100),
-                    ...bestIds.slice(0, 100)
-                ])];
-
-                // Fetch stories in batches
-                const stories = [];
-                const batchSize = 50;
-                for (let i = 0; i < allIds.length; i += batchSize) {
-                    const batch = allIds.slice(i, i + batchSize);
-                    const batchResults = await Promise.all(
-                        batch.map(id =>
-                            fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
-                                .then(r => r.json())
-                                .catch(() => null)
-                        )
-                    );
-                    stories.push(...batchResults.filter(Boolean));
-                }
-
-                // Filter AI stories
-                const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
-                const aiStories = stories.filter(s => {
-                    if (!s || !s.title || !s.time) return false;
-                    if (s.time * 1000 < sevenDaysAgo) return false;
-                    const t = s.title.toLowerCase();
-                    return AI_KEYWORDS.some(kw => t.includes(kw));
-                });
-
-                // Score and sort
-                const scored = aiStories.map(s => ({
-                    ...s,
-                    smartScore: scoreStory(s),
-                    dateKey: toISTDateStr(s.time)
-                }));
-
-                // Group by day
-                const grouped = {};
-                scored.forEach(s => {
-                    if (!grouped[s.dateKey]) grouped[s.dateKey] = [];
-                    grouped[s.dateKey].push(s);
-                });
-
-                // Sort each day by score, keep top 5
-                for (const key in grouped) {
-                    grouped[key].sort((a, b) => b.smartScore - a.smartScore);
-                    grouped[key] = grouped[key].slice(0, 5);
-                }
-
-                // Sort days newest first
-                const sortedDays = Object.keys(grouped).sort((a, b) => {
-                    const [dA, mA, yA] = a.split('/');
-                    const [dB, mB, yB] = b.split('/');
-                    return new Date(yB, mB - 1, dB) - new Date(yA, mA - 1, dA);
-                });
-
-                renderNews(sortedDays, grouped);
-
-            } catch (err) {
-                container.innerHTML = `
-                    <div class="loading-container">
-                        <p class="loading-text">Failed to load news. Please try again later.</p>
-                    </div>`;
-                console.error(err);
+        function renderThumb(item) {
+            if (item.image) {
+                return `<img src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\\'card-thumb-placeholder\\' style=\\'background:${getGradient(item.source)}\\'>${getAbbr(item.source)}</div>'">`;
             }
+            return `<div class="card-thumb-placeholder" style="background:${getGradient(item.source)}">${getAbbr(item.source)}</div>`;
         }
 
-        function renderNews(days, grouped) {
+        // ====== Load and render from static JSON ======
+        function render(data) {
             const container = document.getElementById('newsContent');
+            const days = Object.keys(data.days).sort((a, b) => b.localeCompare(a));
 
             if (days.length === 0) {
-                container.innerHTML = `
-                    <div class="loading-container">
-                        <p class="loading-text">No AI stories found in the last 7 days.</p>
-                    </div>`;
+                container.innerHTML = '<p style="text-align:center;color:var(--text-secondary)">No news available.</p>';
                 return;
             }
 
             let html = '';
-
-            days.forEach(dayKey => {
-                const stories = grouped[dayKey];
-                const label = formatDayLabel(dayKey);
-
-                html += `<div class="day-section">`;
-                html += `<div class="day-header">${label}</div>`;
-
-                stories.forEach(story => {
-                    const url = story.url || `https://news.ycombinator.com/item?id=${story.id}`;
-                    const domain = getDomain(url) || 'news.ycombinator.com';
-                    const grad = getGradient(domain);
-                    const abbr = getDomainAbbr(domain);
-
-                    // Build a short description from score + comments
-                    const comments = story.descendants || 0;
-                    const desc = `${story.score} points · ${comments} comment${comments !== 1 ? 's' : ''} on Hacker News`;
+            days.forEach(day => {
+                const items = data.days[day];
+                html += `<div class="day-section"><div class="day-header">${formatDayLabel(day)}</div>`;
+                items.forEach(item => {
+                    const desc = item.description || '';
+                    const stats = item.stats || '';
+                    const displayDesc = desc.length > 10 ? desc : stats;
 
                     html += `
-                        <a href="${url}" target="_blank" class="news-card">
-                            <div class="card-thumb">
-                                <div class="card-thumb-gradient" style="background: ${grad};">${abbr}</div>
-                            </div>
+                        <a href="${item.url}" target="_blank" rel="noopener" class="news-card">
+                            <div class="card-thumb">${renderThumb(item)}</div>
                             <div class="card-body">
-                                <div class="card-title">${story.title}</div>
-                                <div class="card-desc">${desc}</div>
-                                <div class="card-source">${domain}</div>
+                                <div class="card-title">${item.title}</div>
+                                ${displayDesc ? `<div class="card-desc">${displayDesc}</div>` : ''}
+                                <div class="card-source">${item.source}</div>
                             </div>
-                        </a>
-                    `;
+                        </a>`;
                 });
-
-                html += `</div>`;
+                html += '</div>';
             });
 
             container.innerHTML = html;
         }
 
-        // Load on page visit
-        fetchNews();
+        // Load the pre-generated JSON — instant, no API wait
+        fetch('news-data.json')
+            .then(r => r.json())
+            .then(render)
+            .catch(() => {
+                document.getElementById('newsContent').innerHTML =
+                    '<p style="text-align:center;color:var(--text-secondary)">News data not available yet.</p>';
+            });
     </script>
 </body>
 
