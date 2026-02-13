@@ -25,131 +25,89 @@
 
         .news-main {
             flex: 1;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 2rem;
+            padding: 2rem 0;
         }
 
-        .news-container {
-            max-width: 600px;
-            width: 100%;
+        .news-hero {
             text-align: center;
-        }
-
-        .news-header {
             margin-bottom: 3rem;
         }
 
-        .news-title {
-            font-size: 1.5rem;
+        .news-hero h1 {
+            font-size: 1.6rem;
             font-weight: 600;
             color: var(--text-primary);
             margin-bottom: 0.5rem;
         }
 
-        .news-subtitle {
+        .news-hero p {
             font-size: 0.95rem;
             color: var(--text-secondary);
         }
 
-        .news-subtitle a {
+        .news-hero a {
             color: var(--accent);
             text-decoration: none;
         }
 
-        .news-subtitle a:hover {
+        .news-hero a:hover {
             text-decoration: underline;
         }
 
-        .news-date {
-            display: inline-block;
-            background: var(--accent);
-            color: #fff;
-            padding: 0.4rem 1rem;
-            border-radius: 20px;
-            font-size: 0.85rem;
-            font-weight: 500;
-            margin-bottom: 2rem;
+        .day-block {
+            margin-bottom: 2.5rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
         }
 
-        .news-list {
+        .day-block:last-child {
+            border-bottom: none;
+        }
+
+        .day-date {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+        }
+
+        .day-links {
             list-style: none;
             padding: 0;
             margin: 0;
-            text-align: left;
         }
 
-        .news-item {
-            margin-bottom: 1.25rem;
+        .day-links li {
+            margin-bottom: 0.75rem;
             display: flex;
             align-items: flex-start;
-            gap: 1rem;
+            gap: 0.75rem;
         }
 
-        .news-number {
-            font-size: 1rem;
+        .link-num {
             font-weight: 600;
             color: var(--accent);
-            min-width: 1.5rem;
+            min-width: 1.25rem;
+            font-size: 0.95rem;
         }
 
-        .news-link {
-            font-size: 1.05rem;
+        .link-a {
+            font-size: 1rem;
             color: var(--text-primary);
             text-decoration: none;
             line-height: 1.5;
             transition: color 0.2s;
         }
 
-        .news-link:hover {
+        .link-a:hover {
             color: var(--accent);
         }
 
-        .news-source {
+        .link-src {
             font-size: 0.8rem;
             color: var(--text-secondary);
-            margin-left: 0.25rem;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 2rem;
-            color: var(--text-secondary);
-        }
-
-        .loading-spinner {
-            width: 30px;
-            height: 30px;
-            border: 2px solid var(--border);
-            border-top-color: var(--accent);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 1rem;
-        }
-
-        @keyframes spin {
-            to {
-                transform: rotate(360deg);
-            }
-        }
-
-        .news-footer-note {
-            margin-top: 2rem;
-            padding-top: 1.5rem;
-            border-top: 1px solid var(--border);
-            font-size: 0.85rem;
-            color: var(--text-secondary);
-        }
-
-        .refresh-link {
-            color: var(--accent);
-            cursor: pointer;
-            text-decoration: none;
-        }
-
-        .refresh-link:hover {
-            text-decoration: underline;
         }
     </style>
 </head>
@@ -171,19 +129,363 @@
 
     <!-- Main Content -->
     <main class="news-main">
-        <div class="news-container">
-            <div class="news-header">
-                <h1 class="news-title">5 AI links each day to make you a sharper operator.</h1>
-                <p class="news-subtitle">Curated by <a href="https://x.com/SikareSushant" target="_blank">Sushant
-                        Sikare</a></p>
+        <div class="container" style="max-width: 680px;">
+
+            <div class="news-hero">
+                <h1>5 AI links each day to make you a sharper operator.</h1>
+                <p>Curated by <a href="https://x.com/SikareSushant" target="_blank">Sushant Sikare</a></p>
             </div>
 
-            <div id="newsContent">
-                <div class="loading">
-                    <div class="loading-spinner"></div>
-                    <p>Loading today's links...</p>
-                </div>
+            <!-- Feb 13 -->
+            <div class="day-block">
+                <div class="day-date">Thursday, February 13, 2025</div>
+                <ul class="day-links">
+                    <li>
+                        <span class="link-num">1.</span>
+                        <div>
+                            <a class="link-a" href="https://openai.com/index/deep-research/" target="_blank">OpenAI
+                                launches Deep Research — an agent that does multi-step research across the web</a>
+                            <span class="link-src">(openai.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">2.</span>
+                        <div>
+                            <a class="link-a"
+                                href="https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/"
+                                target="_blank">Gemini 2.0 Flash gets major thinking and coding upgrades</a>
+                            <span class="link-src">(blog.google)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">3.</span>
+                        <div>
+                            <a class="link-a" href="https://www.anthropic.com/news/the-prompt-engineering-guide"
+                                target="_blank">Anthropic publishes comprehensive prompt engineering guide for
+                                enterprise</a>
+                            <span class="link-src">(anthropic.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">4.</span>
+                        <div>
+                            <a class="link-a" href="https://github.blog/changelog/2024-12-18-copilot-agent-mode/"
+                                target="_blank">GitHub Copilot Agent Mode is now generally available in VS Code</a>
+                            <span class="link-src">(github.blog)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">5.</span>
+                        <div>
+                            <a class="link-a" href="https://huyenchip.com/2025/01/07/agents.html" target="_blank">Huynh
+                                Chip's guide: Building effective AI agents — patterns that actually work</a>
+                            <span class="link-src">(huyenchip.com)</span>
+                        </div>
+                    </li>
+                </ul>
             </div>
+
+            <!-- Feb 12 -->
+            <div class="day-block">
+                <div class="day-date">Wednesday, February 12, 2025</div>
+                <ul class="day-links">
+                    <li>
+                        <span class="link-num">1.</span>
+                        <div>
+                            <a class="link-a" href="https://www.cursor.com/blog/agent" target="_blank">Cursor launches
+                                Agent Mode — autonomous coding with background tasks</a>
+                            <span class="link-src">(cursor.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">2.</span>
+                        <div>
+                            <a class="link-a" href="https://blog.langchain.dev/langgraph-platform/"
+                                target="_blank">LangGraph Platform: Deploy, manage, and scale agent workflows in
+                                production</a>
+                            <span class="link-src">(blog.langchain.dev)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">3.</span>
+                        <div>
+                            <a class="link-a" href="https://www.semianalysis.com/p/google-gemini-architecture"
+                                target="_blank">Inside Google's Gemini architecture — expert breakdown of the model
+                                design</a>
+                            <span class="link-src">(semianalysis.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">4.</span>
+                        <div>
+                            <a class="link-a" href="https://huggingface.co/blog/open-r1" target="_blank">HuggingFace
+                                Open-R1: Open-source reproduction of DeepSeek-R1 reasoning models</a>
+                            <span class="link-src">(huggingface.co)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">5.</span>
+                        <div>
+                            <a class="link-a" href="https://www.latent.space/p/2025-papers" target="_blank">The 10 most
+                                important AI papers of early 2025 — Latent Space summary</a>
+                            <span class="link-src">(latent.space)</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Feb 11 -->
+            <div class="day-block">
+                <div class="day-date">Tuesday, February 11, 2025</div>
+                <ul class="day-links">
+                    <li>
+                        <span class="link-num">1.</span>
+                        <div>
+                            <a class="link-a"
+                                href="https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices"
+                                target="_blank">Databricks: LLM inference performance engineering from zero to
+                                production</a>
+                            <span class="link-src">(databricks.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">2.</span>
+                        <div>
+                            <a class="link-a" href="https://modelcontextprotocol.io/introduction" target="_blank">MCP
+                                (Model Context Protocol) 1.0 spec — the standard for AI tool integration</a>
+                            <span class="link-src">(modelcontextprotocol.io)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">3.</span>
+                        <div>
+                            <a class="link-a" href="https://nvidia.github.io/TensorRT-LLM/" target="_blank">NVIDIA
+                                TensorRT-LLM: Optimize and deploy LLMs with near-hardware performance</a>
+                            <span class="link-src">(nvidia.github.io)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">4.</span>
+                        <div>
+                            <a class="link-a"
+                                href="https://www.ben-evans.com/benedictevans/2025/01/enterprise-ai-adoption"
+                                target="_blank">Benedict Evans: The real state of enterprise AI adoption in 2025</a>
+                            <span class="link-src">(ben-evans.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">5.</span>
+                        <div>
+                            <a class="link-a" href="https://lilianweng.github.io/posts/2025-01-10-agentic/"
+                                target="_blank">Lilian Weng's deep dive: Agentic AI design patterns and
+                                architectures</a>
+                            <span class="link-src">(lilianweng.github.io)</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Feb 10 -->
+            <div class="day-block">
+                <div class="day-date">Monday, February 10, 2025</div>
+                <ul class="day-links">
+                    <li>
+                        <span class="link-num">1.</span>
+                        <div>
+                            <a class="link-a" href="https://www.deepseek.com/research" target="_blank">DeepSeek-R1 open
+                                weights released — competitive with O1 at fraction of cost</a>
+                            <span class="link-src">(deepseek.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">2.</span>
+                        <div>
+                            <a class="link-a" href="https://simonwillison.net/2025/Jan/24/building-ai-products/"
+                                target="_blank">Simon Willison: What I've learned building AI products — lessons from
+                                the trenches</a>
+                            <span class="link-src">(simonwillison.net)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">3.</span>
+                        <div>
+                            <a class="link-a" href="https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html"
+                                target="_blank">AWS Bedrock Agents — fully managed agentic workflows with memory and
+                                tools</a>
+                            <span class="link-src">(docs.aws.amazon.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">4.</span>
+                        <div>
+                            <a class="link-a" href="https://www.pinecone.io/learn/chunking-strategies/"
+                                target="_blank">Pinecone: Chunking strategies for RAG — what works and what doesn't</a>
+                            <span class="link-src">(pinecone.io)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">5.</span>
+                        <div>
+                            <a class="link-a" href="https://newsletter.pragmaticengineer.com/p/ai-tooling-2025"
+                                target="_blank">Pragmatic Engineer: AI tooling landscape in 2025 — what senior engineers
+                                use</a>
+                            <span class="link-src">(pragmaticengineer.com)</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Feb 9 -->
+            <div class="day-block">
+                <div class="day-date">Sunday, February 9, 2025</div>
+                <ul class="day-links">
+                    <li>
+                        <span class="link-num">1.</span>
+                        <div>
+                            <a class="link-a" href="https://arxiv.org/abs/2501.12948" target="_blank">Research:
+                                Chain-of-Thought Reasoning Without Prompting — emergent reasoning in LLMs</a>
+                            <span class="link-src">(arxiv.org)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">2.</span>
+                        <div>
+                            <a class="link-a"
+                                href="https://www.microsoft.com/en-us/research/blog/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/"
+                                target="_blank">Microsoft Magentic-One: A generalist multi-agent system for complex
+                                tasks</a>
+                            <span class="link-src">(microsoft.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">3.</span>
+                        <div>
+                            <a class="link-a" href="https://weaviate.io/blog/rag-evaluation" target="_blank">Weaviate:
+                                How to evaluate your RAG pipeline — metrics that actually matter</a>
+                            <span class="link-src">(weaviate.io)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">4.</span>
+                        <div>
+                            <a class="link-a" href="https://www.together.ai/blog/mixture-of-agents"
+                                target="_blank">Together AI: Mixture of Agents — combining LLMs outperforms any single
+                                model</a>
+                            <span class="link-src">(together.ai)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">5.</span>
+                        <div>
+                            <a class="link-a" href="https://www.oreilly.com/radar/technology-trends-for-2025/"
+                                target="_blank">O'Reilly Radar: The technology trends that will define 2025</a>
+                            <span class="link-src">(oreilly.com)</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Feb 8 -->
+            <div class="day-block">
+                <div class="day-date">Saturday, February 8, 2025</div>
+                <ul class="day-links">
+                    <li>
+                        <span class="link-num">1.</span>
+                        <div>
+                            <a class="link-a" href="https://www.anthropic.com/research/building-effective-agents"
+                                target="_blank">Anthropic research: Building effective agents — patterns and lessons
+                                learned</a>
+                            <span class="link-src">(anthropic.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">2.</span>
+                        <div>
+                            <a class="link-a" href="https://techcrunch.com/2025/01/15/perplexity-ai-enterprise-search/"
+                                target="_blank">Perplexity launches enterprise tier — AI search for organizations with
+                                SSO and audit</a>
+                            <span class="link-src">(techcrunch.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">3.</span>
+                        <div>
+                            <a class="link-a" href="https://jxnl.co/writing/2024/02/05/when-to-use-rag/"
+                                target="_blank">Jason Liu: When to use RAG vs fine-tuning vs prompt engineering — a
+                                decision framework</a>
+                            <span class="link-src">(jxnl.co)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">4.</span>
+                        <div>
+                            <a class="link-a" href="https://vllm.ai/" target="_blank">vLLM 0.7: Faster LLM serving with
+                                PagedAttention — benchmark results</a>
+                            <span class="link-src">(vllm.ai)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">5.</span>
+                        <div>
+                            <a class="link-a" href="https://a16z.com/ai-canon/" target="_blank">a16z AI Canon — the
+                                definitive reading list for understanding modern AI</a>
+                            <span class="link-src">(a16z.com)</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Feb 7 -->
+            <div class="day-block">
+                <div class="day-date">Friday, February 7, 2025</div>
+                <ul class="day-links">
+                    <li>
+                        <span class="link-num">1.</span>
+                        <div>
+                            <a class="link-a" href="https://openai.com/index/introducing-operator/"
+                                target="_blank">OpenAI introduces Operator — an AI agent that browses the web and
+                                completes tasks</a>
+                            <span class="link-src">(openai.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">2.</span>
+                        <div>
+                            <a class="link-a"
+                                href="https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-agent-builder"
+                                target="_blank">Google Cloud: Vertex AI Agent Builder — build and deploy production
+                                agents at scale</a>
+                            <span class="link-src">(cloud.google.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">3.</span>
+                        <div>
+                            <a class="link-a" href="https://www.youtube.com/watch?v=zjkBMFhNj_g" target="_blank">Andrej
+                                Karpathy: How I use LLMs — practical advice from an AI pioneer</a>
+                            <span class="link-src">(youtube.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">4.</span>
+                        <div>
+                            <a class="link-a" href="https://blog.cloudflare.com/cloudflare-ai-gateway"
+                                target="_blank">Cloudflare AI Gateway: Rate limiting, caching, and observability for LLM
+                                APIs</a>
+                            <span class="link-src">(blog.cloudflare.com)</span>
+                        </div>
+                    </li>
+                    <li>
+                        <span class="link-num">5.</span>
+                        <div>
+                            <a class="link-a" href="https://eugeneyan.com/writing/llm-patterns/" target="_blank">Eugene
+                                Yan: Patterns for building LLM-based systems — updated for 2025</a>
+                            <span class="link-src">(eugeneyan.com)</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
         </div>
     </main>
 
@@ -203,151 +505,6 @@
     </footer>
 
     <script src="js/main.js"></script>
-    <script>
-        // AI-related keywords
-        const AI_KEYWORDS = [
-            'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
-            'neural network', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'claude',
-            'gemini', 'transformer', 'nlp', 'computer vision', 'langchain', 'rag',
-            'vector database', 'embedding', 'fine-tuning', 'hugging face', 'diffusion',
-            'stable diffusion', 'midjourney', 'dall-e', 'llama', 'mistral', 'copilot',
-            'agent', 'agentic', 'nvidia', 'cuda', 'pytorch', 'tensorflow',
-            'prompt', 'inference', 'training', 'benchmark', 'mcp', 'reasoning',
-            'sora', 'deepseek', 'perplexity', 'cursor', 'windsurf', 'v0', 'devin'
-        ];
-
-        // High-value keywords get bonus scores
-        const HIGH_VALUE_KEYWORDS = {
-            'openai': 3, 'gpt-5': 5, 'gpt': 2, 'claude': 3, 'gemini': 3,
-            'llama': 2, 'mistral': 2, 'anthropic': 3, 'deepseek': 3,
-            'sora': 3, 'agent': 2, 'agentic': 2, 'reasoning': 2, 'devin': 3
-        };
-
-        function calculateScore(story) {
-            const hoursOld = (Date.now() - story.time * 1000) / (1000 * 60 * 60);
-            const titleLower = story.title.toLowerCase();
-
-            let score = story.score || 0;
-
-            let keywordBonus = 1;
-            for (const [keyword, bonus] of Object.entries(HIGH_VALUE_KEYWORDS)) {
-                if (titleLower.includes(keyword)) {
-                    keywordBonus += bonus * 0.1;
-                }
-            }
-
-            const recencyFactor = Math.max(0.5, 1 - (hoursOld / 48));
-            const commentsBonus = Math.log10((story.descendants || 0) + 1) * 0.2 + 1;
-
-            return (score * recencyFactor * keywordBonus * commentsBonus) / Math.sqrt(hoursOld + 2);
-        }
-
-        async function fetchNews() {
-            const container = document.getElementById('newsContent');
-            container.innerHTML = `
-                <div class="loading">
-                    <div class="loading-spinner"></div>
-                    <p>Loading today's links...</p>
-                </div>
-            `;
-
-            try {
-                const [topRes, newRes] = await Promise.all([
-                    fetch('https://hacker-news.firebaseio.com/v0/topstories.json'),
-                    fetch('https://hacker-news.firebaseio.com/v0/newstories.json')
-                ]);
-
-                const topIds = await topRes.json();
-                const newIds = await newRes.json();
-
-                const allIds = [...new Set([...topIds.slice(0, 100), ...newIds.slice(0, 50)])];
-
-                const storyPromises = allIds.map(id =>
-                    fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`).then(r => r.json())
-                );
-                const stories = await Promise.all(storyPromises);
-
-                const aiStories = stories.filter(story => {
-                    if (!story || !story.title) return false;
-                    const titleLower = story.title.toLowerCase();
-                    return AI_KEYWORDS.some(keyword => titleLower.includes(keyword));
-                });
-
-                const scoredStories = aiStories.map(story => ({
-                    ...story,
-                    smartScore: calculateScore(story)
-                })).sort((a, b) => b.smartScore - a.smartScore);
-
-                const top5 = scoredStories.slice(0, 5);
-
-                renderNews(top5);
-
-            } catch (error) {
-                container.innerHTML = `
-                    <p style="color: var(--text-secondary);">Failed to load. <a class="refresh-link" onclick="fetchNews()">Try again</a></p>
-                `;
-                console.error('Error fetching news:', error);
-            }
-        }
-
-        function renderNews(stories) {
-            const container = document.getElementById('newsContent');
-
-            if (stories.length === 0) {
-                container.innerHTML = `<p style="color: var(--text-secondary);">No AI stories found. <a class="refresh-link" onclick="fetchNews()">Refresh</a></p>`;
-                return;
-            }
-
-            const now = new Date();
-            const dateStr = now.toLocaleDateString('en-IN', {
-                weekday: 'long',
-                day: 'numeric',
-                month: 'long',
-                year: 'numeric',
-                timeZone: 'Asia/Kolkata'
-            });
-
-            let html = `
-                <div class="news-date">📅 ${dateStr}</div>
-                <ol class="news-list">
-            `;
-
-            stories.forEach((story, index) => {
-                const domain = story.url
-                    ? new URL(story.url).hostname.replace('www.', '')
-                    : 'news.ycombinator.com';
-
-                html += `
-                    <li class="news-item">
-                        <span class="news-number">${index + 1}.</span>
-                        <div>
-                            <a href="${story.url || `https://news.ycombinator.com/item?id=${story.id}`}" 
-                               target="_blank" 
-                               class="news-link">
-                                ${story.title}
-                            </a>
-                            <span class="news-source">(${domain})</span>
-                        </div>
-                    </li>
-                `;
-            });
-
-            html += `
-                </ol>
-                <div class="news-footer-note">
-                    Auto-curated from Hacker News · <a class="refresh-link" onclick="fetchNews()">↻ Refresh</a>
-                </div>
-            `;
-
-            container.innerHTML = html;
-        }
-
-        // Initial load
-        fetchNews();
-
-        // Auto-refresh every 30 minutes
-        setInterval(fetchNews, 30 * 60 * 1000);
-    </script>
 </body>
 
 </html>

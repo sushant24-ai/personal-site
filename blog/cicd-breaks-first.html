@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="When Code Output Goes 10×, CI/CD Breaks First — What happens when AI agents produce code faster than your pipeline can validate it.">
+    <title>When Code Output Goes 10×, CI/CD Breaks First - Sushant Sikare</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Mermaid for Diagrams -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../news.html">AI News</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <!-- Post Header -->
+            <header class="post-header">
+                <h1>When Code Output Goes 10×, CI/CD Breaks First (And What to Do About It)</h1>
+                <div class="post-meta">
+                    February 13, 2026
+                    <span class="post-tags">
+                        <span class="tag">CI/CD</span>
+                        <span class="tag">AI Agents</span>
+                        <span class="tag">DevOps</span>
+                        <span class="tag">Platform Engineering</span>
+                    </span>
+                </div>
+            </header>
+
+            <!-- Post Content -->
+            <article class="post-content">
+                <p>
+                    A developer asked a deceptively simple question: <strong>what breaks first if engineering output
+                        goes up 10×?</strong>
+                </p>
+                <p>
+                    Until recently, this sounded hypothetical. Now it's becoming real.
+                </p>
+                <p>
+                    With modern AI tooling, teams are already running <strong>parallel "agent" workflows</strong>:
+                    multiple AI agents working on different parts of a codebase at the same time, each producing
+                    changes. What used to be "a few PRs a week" can become <strong>multiple PRs in minutes</strong>.
+                </p>
+                <p>
+                    And the first system to feel it isn't your IDE, your code review process, or even your developers.
+                </p>
+                <p>
+                    It's your <strong>CI/CD system</strong>.
+                </p>
+
+                <hr>
+
+                <h2>The Shift: From Human-Paced Code to Machine-Paced Change</h2>
+
+                <p>Historically, software delivery systems evolved around a basic assumption:</p>
+
+                <ul>
+                    <li>Humans create changes at human speed</li>
+                    <li>So CI runs, reviews, and deployments happen at a pace the organization can absorb</li>
+                </ul>
+
+                <p>
+                    AI breaks that assumption. It doesn't get tired, it doesn't wait for context switches, and it
+                    can produce "good enough" code continuously. The result is <strong>more PRs, more commits, more
+                        pushes, more events</strong>—and every one of those events tries to consume your verification
+                    and deployment capacity.
+                </p>
+
+                <p>So the constraint moves.</p>
+
+                <blockquote>
+                    <p><strong>Before:</strong> writing code was the bottleneck</p>
+                    <p><strong>After:</strong> proving code is safe + shipping it safely is the bottleneck</p>
+                </blockquote>
+
+                <!-- Diagram: The Constraint Shift -->
+                <div class="mermaid">
+                    flowchart LR
+                    subgraph Before["Before AI Agents"]
+                    H[Human Developer] -->|"Slow"| Code[Write Code]
+                    Code -->|"Fast"| CI[CI/CD Pipeline]
+                    CI -->|"Fast"| Deploy[Deploy]
+                    end
+
+                    subgraph After["After AI Agents"]
+                    A[AI Agents] -->|"10× Fast"| Code2[Write Code]
+                    Code2 -->|"Bottleneck"| CI2[CI/CD Pipeline]
+                    CI2 -->|"Bottleneck"| Deploy2[Deploy]
+                    end
+
+                    style Code fill:#4caf50,color:#fff
+                    style CI2 fill:#f44336,color:#fff
+                    style Deploy2 fill:#f44336,color:#fff
+                </div>
+
+                <hr>
+
+                <h2>What Actually Breaks First: Verification Throughput</h2>
+
+                <h3>1) Your CI Runner Capacity Collapses First</h3>
+
+                <p>
+                    At low utilization, CI feels fine. At high utilization, it becomes unstable.
+                </p>
+
+                <p>
+                    This is classic queueing behavior: as your system approaches saturation, <strong>wait time grows
+                        nonlinearly</strong>. Once CI runners are heavily utilized, adding more work doesn't just slow
+                    things down—it causes <strong>run queues to explode</strong>.
+                </p>
+
+                <p>
+                    Even if average load looks manageable, bursts kill you. Multi-agent setups create bursts by default.
+                </p>
+
+                <h3>2) Redundant CI Runs Become Your Biggest Cost Sink</h3>
+
+                <p>
+                    AI agents iterate quickly. That means more pushes per PR. If every push triggers full CI, you end
+                    up spending most of your CI minutes validating commits that will never be merged.
+                </p>
+
+                <p>Teams see symptoms like:</p>
+                <ul>
+                    <li>GitHub Actions minutes spiking</li>
+                    <li>Integration clusters maxed out</li>
+                    <li>Long "time-to-green" even for small changes</li>
+                    <li>Developers (or agents) pushing more fixes… creating even more CI triggers</li>
+                </ul>
+
+                <h3>3) Flaky Tests Go From "Annoying" to "System-Breaking"</h3>
+
+                <p>
+                    With a merge queue, flaky tests don't just fail a PR—they fail <strong>the queue</strong>. Under
+                    high change volume, flakiness creates repeated retries, repeated re-queues, and throughput collapse.
+                </p>
+
+                <p>
+                    This is why modern merge-queue focused vendors emphasize flake management as a first-class problem.
+                </p>
+
+                <hr>
+
+                <h2>A Concrete Capacity Model: Why It Melts</h2>
+
+                <p>Let's put numbers on it.</p>
+
+                <p><strong>Assume:</strong></p>
+                <ul>
+                    <li>Average CI per validation = <strong>30 minutes</strong> (0.5 hour)</li>
+                    <li>Available runners for the repo = <strong>20</strong></li>
+                    <li>So max throughput ≈ <code>20 / 0.5 = 40</code> validations per hour</li>
+                </ul>
+
+                <p><strong>Now introduce agents:</strong></p>
+                <ul>
+                    <li>200 PRs/day, each PR gets ~3 pushes → <strong>600 CI triggers/day</strong></li>
+                    <li>600/day ≈ 25/hour on average</li>
+                    <li>But agent-driven workflows are bursty: peak can easily be 5× the average →
+                        <strong>125/hour bursts</strong>
+                    </li>
+                </ul>
+
+                <p>
+                    Your CI can do 40/hour. The burst demands 125/hour.
+                </p>
+
+                <p>
+                    So you queue. Queueing increases "time-to-signal." Slower feedback causes more retries/patches.
+                    More patches trigger more CI. <strong>That's the feedback loop that makes it feel like "everything
+                        suddenly broke."</strong>
+                </p>
+
+                <!-- Queue Explosion Diagram -->
+                <div class="mermaid">
+                    flowchart TD
+                    Burst["Agent Burst: 125 CI/hr"] --> Queue["Queue Builds Up"]
+                    Queue --> Slow["Slow Feedback"]
+                    Slow --> Retry["More Retries/Patches"]
+                    Retry --> More["More CI Triggers"]
+                    More --> Queue
+
+                    style Burst fill:#ff9800,color:#fff
+                    style Queue fill:#f44336,color:#fff
+                </div>
+
+                <hr>
+
+                <h2>Even if CI Keeps Up, Deployments Become the New Governor</h2>
+
+                <p>
+                    Let's say you somehow scale CI runners and remove redundant work. You still face the next
+                    constraint:
+                </p>
+
+                <h3>Deployments Were Designed for Human-Paced Frequency</h3>
+
+                <p>Many organizations are built for:</p>
+                <ul>
+                    <li>5–10 deployments/day (sometimes fewer)</li>
+                    <li>Formal change windows</li>
+                    <li>Manual verification steps</li>
+                    <li>Slow canary analysis</li>
+                    <li>Human-in-the-loop approvals</li>
+                </ul>
+
+                <p>
+                    If code output goes 10×, you don't just need more pipelines—you need
+                    <strong>more safe release capacity</strong>.
+                </p>
+
+                <p>And safe release capacity isn't just compute:</p>
+                <ul>
+                    <li>Smoke tests</li>
+                    <li>Canary + automated rollback</li>
+                    <li>Monitoring and SLOs</li>
+                    <li>Incident response capacity</li>
+                    <li>Blast radius control</li>
+                </ul>
+
+                <blockquote>
+                    If you "yolo deploy" 10× more changes, you don't get 10× faster delivery—you get
+                    <strong>10× more production risk</strong>.
+                </blockquote>
+
+                <hr>
+
+                <h2>The Real Answer: Redesign CI/CD for Machine-Paced Change</h2>
+
+                <p>Here's what teams are doing (and what's becoming the new baseline).</p>
+
+                <h3>1) Cancel Redundant CI Runs</h3>
+
+                <p>
+                    If a PR gets 10 pushes, you usually only care about the newest state. CI should automatically
+                    cancel earlier runs for that PR.
+                </p>
+
+                <p>
+                    GitHub Actions supports this via
+                    <a href="https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/control-the-concurrency-of-workflows-and-jobs"
+                        target="_blank">workflow concurrency controls</a>.
+                </p>
+
+                <pre><code># .github/workflows/ci.yml
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true</code></pre>
+
+                <p>This single change can cut cost dramatically in high-churn PRs.</p>
+
+                <h3>2) Use Merge Queues (Mandatory at High Throughput)</h3>
+
+                <p>
+                    A merge queue ensures the thing you merge is exactly the thing that passed checks, by validating
+                    the merge-group state.
+                </p>
+
+                <p>
+                    GitHub's native merge queue is documented
+                    <a href="https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-a-merge-queue"
+                        target="_blank">here</a>.
+                </p>
+
+                <p>
+                    This reduces "PRs pass individually but fail together" chaos when many PRs are in flight.
+                </p>
+
+                <h3>3) Batch PRs in the Merge Queue (Biggest Throughput Lever)</h3>
+
+                <p>
+                    Batching tests multiple PRs together. If the batch passes, they all merge. If it fails, the system
+                    bisects or isolates the offending change(s) and keeps the rest moving.
+                </p>
+
+                <p>This is a major theme in merge-queue tooling:</p>
+                <ul>
+                    <li><a href="https://docs.trunk.io/merge-queue/concepts-and-optimizations/batching"
+                            target="_blank">Trunk batching docs</a></li>
+                    <li><a href="https://graphite.dev/blog/merge-queue-batching" target="_blank">Graphite batching
+                            writeup</a></li>
+                    <li><a href="https://docs.aviator.co/mergequeue/concepts/batching" target="_blank">Aviator
+                            batching</a></li>
+                    <li><a href="https://docs.mergify.com/merge-queue/batches" target="_blank">Mergify batches</a></li>
+                </ul>
+
+                <blockquote>
+                    <strong>Tradeoff:</strong> You may stop guaranteeing that every individual commit in history was
+                    tested alone, but you maintain something more important at scale: <strong>the merged state stays
+                        validated</strong>.
+                </blockquote>
+
+                <!-- Merge Queue Diagram -->
+                <div class="mermaid">
+                    flowchart LR
+                    PR1[PR #1] --> Batch["Merge Queue Batch"]
+                    PR2[PR #2] --> Batch
+                    PR3[PR #3] --> Batch
+                    Batch --> CI["CI Validates Batch"]
+                    CI -->|Pass| Merge["All 3 Merge ✓"]
+                    CI -->|Fail| Bisect["Bisect + Isolate"]
+                    Bisect --> Good["Good PRs Proceed"]
+                    Bisect --> Bad["Bad PR Ejected"]
+
+                    style Batch fill:#2196f3,color:#fff
+                    style Merge fill:#4caf50,color:#fff
+                    style Bad fill:#f44336,color:#fff
+                </div>
+
+                <h3>4) Reduce Cost Per Validation (Caching + "Affected Only")</h3>
+
+                <p>
+                    Once PR volume rises, running "everything" on every change becomes unaffordable.
+                </p>
+
+                <p>Common patterns:</p>
+                <ul>
+                    <li>Remote caching of builds/tests</li>
+                    <li>Only run tests affected by the change graph (especially in monorepos)</li>
+                </ul>
+
+                <p>Examples:</p>
+                <ul>
+                    <li><a href="https://nx.dev/docs/concepts/ci-concepts/reduce-waste" target="_blank">Nx "reduce
+                            waste"</a></li>
+                    <li><a href="https://nx.dev/docs/features/ci-features/remote-cache" target="_blank">Nx remote
+                            cache</a></li>
+                    <li><a href="https://turbo.build/docs/core-concepts/remote-caching" target="_blank">Turborepo remote
+                            caching</a></li>
+                </ul>
+
+                <h3>5) Increase Deployment Safety Throughput (Progressive Delivery)</h3>
+
+                <p>
+                    To deploy more frequently without increasing risk, you need to reduce blast radius and automate
+                    confidence:
+                </p>
+
+                <ul>
+                    <li><strong>Feature flags</strong> (deploy ≠ release)</li>
+                    <li><strong>Canaries</strong> with automated rollback</li>
+                    <li><strong>SLO-based gating</strong></li>
+                    <li><strong>Smaller changes per deploy</strong> (ironically, AI can help produce smaller, more
+                        isolated PRs)</li>
+                </ul>
+
+                <p>
+                    This is where platform engineering meets reliability engineering. The systems that win are the ones
+                    that can safely say "yes" to more changes—without waking people up.
+                </p>
+
+                <hr>
+
+                <h2>What This Means for Teams Adopting AI Agents</h2>
+
+                <p>
+                    If your team is heading toward multi-agent development (or already there), the key upgrade isn't
+                    "more coding help."
+                </p>
+
+                <p>
+                    It's <strong>more verification and release engineering</strong>.
+                </p>
+
+                <p>The winners will be teams that treat CI/CD not as plumbing, but as
+                    <strong>production infrastructure</strong> with:
+                </p>
+
+                <ul>
+                    <li>Capacity planning</li>
+                    <li>Cost controls</li>
+                    <li>Quality signal integrity (flake control)</li>
+                    <li>Deterministic merge semantics (merge queues)</li>
+                    <li>Automated safe release ramps</li>
+                </ul>
+
+                <blockquote>
+                    In a world where code generation is cheap, <strong>trust becomes expensive</strong>.
+                </blockquote>
+
+                <hr>
+
+                <h2>A Quick Self-Test</h2>
+
+                <p>Useful if you're leading this transition:</p>
+
+                <ol>
+                    <li>If PR volume triples next month, do you know your <strong>current CI utilization</strong> and
+                        peak queue time?</li>
+                    <li>Are you paying for redundant builds from frequent pushes? (Do you auto-cancel?)</li>
+                    <li>Do you have a merge queue, and can it batch PRs?</li>
+                    <li>What percentage of your CI failures are flaky?</li>
+                    <li>Can you deploy 5× more often without increasing incident load?</li>
+                </ol>
+
+                <p>If any of these are "no," that's where the real bottleneck will appear.</p>
+
+                <hr>
+
+                <h2>Closing Thought</h2>
+
+                <p>
+                    For years, we optimized for developer throughput. Now we're entering a phase where
+                    <strong>developer throughput is no longer scarce</strong>.
+                </p>
+
+                <p>
+                    The scarce resource is the ability to <strong>safely convert change into production value</strong>.
+                </p>
+
+                <p>
+                    So if engineering output goes 10×, yes—CI/CD breaks first.
+                </p>
+
+                <blockquote>
+                    <p>But the deeper point is this:</p>
+                    <p>Your org doesn't ship at the speed of code.<br>
+                        It ships at the speed of <strong>confidence</strong>.</p>
+                </blockquote>
+            </article>
+
+            <!-- Back to Blog -->
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushantshikare24@gmail.com">Mail</a>
+                    <a href="https://x.com/SikareSushant" target="_blank">X</a>
+                    <a href="https://www.linkedin.com/in/sushant-s-31b799224/" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant24-ai" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>
