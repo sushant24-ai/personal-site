@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
-    <meta name="description" content="AI Daily News - 5 handpicked AI links each day to make you a sharper operator.">
-    <title>AI News - Sushant Sikare</title>
+    <meta name="description" content="Daily AI News - 5 handpicked AI links each day curated by Sushant Sikare.">
+    <title>Daily AI News - Sushant Sikare</title>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -31,18 +31,18 @@
 
         .news-hero {
             text-align: center;
-            margin-bottom: 3rem;
+            margin-bottom: 2.5rem;
         }
 
         .news-hero h1 {
             font-size: 1.6rem;
-            font-weight: 600;
+            font-weight: 700;
             color: var(--text-primary);
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.4rem;
         }
 
         .news-hero p {
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             color: var(--text-secondary);
         }
 
@@ -55,60 +55,140 @@
             text-decoration: underline;
         }
 
-        .day-block {
+        /* Day sections */
+        .day-section {
             margin-bottom: 2.5rem;
-            padding-bottom: 2rem;
-            border-bottom: 1px solid var(--border);
         }
 
-        .day-block:last-child {
-            border-bottom: none;
+        .day-header {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 1.25rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--accent);
+            display: inline-block;
         }
 
-        .day-date {
-            font-size: 0.85rem;
-            font-weight: 600;
-            color: var(--text-secondary);
+        /* Card layout */
+        .news-card {
+            display: flex;
+            gap: 1.25rem;
+            margin-bottom: 1.5rem;
+            text-decoration: none;
+            color: inherit;
+            transition: transform 0.15s ease, opacity 0.15s ease;
+        }
+
+        .news-card:hover {
+            transform: translateX(4px);
+            opacity: 0.9;
+        }
+
+        .card-thumb {
+            width: 160px;
+            min-width: 160px;
+            height: 105px;
+            border-radius: 8px;
+            overflow: hidden;
+            background: var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .card-thumb-gradient {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.9);
             text-transform: uppercase;
             letter-spacing: 0.05em;
-            margin-bottom: 1rem;
         }
 
-        .day-links {
-            list-style: none;
-            padding: 0;
-            margin: 0;
+        .card-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
 
-        .day-links li {
-            margin-bottom: 0.75rem;
+        .card-body {
+            flex: 1;
             display: flex;
-            align-items: flex-start;
-            gap: 0.75rem;
+            flex-direction: column;
+            justify-content: center;
+            min-width: 0;
         }
 
-        .link-num {
+        .card-title {
+            font-size: 1.05rem;
             font-weight: 600;
             color: var(--accent);
-            min-width: 1.25rem;
-            font-size: 0.95rem;
+            margin-bottom: 0.35rem;
+            line-height: 1.35;
         }
 
-        .link-a {
-            font-size: 1rem;
-            color: var(--text-primary);
-            text-decoration: none;
-            line-height: 1.5;
-            transition: color 0.2s;
+        .card-desc {
+            font-size: 0.88rem;
+            color: var(--text-secondary);
+            line-height: 1.45;
+            margin-bottom: 0.35rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
 
-        .link-a:hover {
-            color: var(--accent);
-        }
-
-        .link-src {
+        .card-source {
             font-size: 0.8rem;
             color: var(--text-secondary);
+            opacity: 0.7;
+        }
+
+        /* Loading */
+        .loading-container {
+            text-align: center;
+            padding: 3rem 0;
+        }
+
+        .loading-spinner {
+            width: 32px;
+            height: 32px;
+            border: 3px solid var(--border);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        .loading-text {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            .news-card {
+                flex-direction: column;
+                gap: 0.75rem;
+            }
+
+            .card-thumb {
+                width: 100%;
+                min-width: unset;
+                height: 140px;
+            }
         }
     </style>
 </head>
@@ -120,7 +200,7 @@
             <a href="index.html" class="nav-brand">Sushant Sikare</a>
             <ul class="nav-links">
                 <li><a href="index.html">Blog</a></li>
-                <li><a href="news.html" class="active">AI News</a></li>
+                <li><a href="news.html" class="active">Daily AI News</a></li>
                 <li><a href="about.html">About Me</a></li>
                 <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
                         aria-label="Toggle theme">🌙</button></li>
@@ -130,361 +210,19 @@
 
     <!-- Main Content -->
     <main class="news-main">
-        <div class="container" style="max-width: 680px;">
+        <div class="container" style="max-width: 720px;">
 
             <div class="news-hero">
-                <h1>5 AI links each day to make you a sharper operator.</h1>
-                <p>Curated by <a href="https://x.com/SikareSushant" target="_blank">Sushant Sikare</a></p>
+                <h1>Daily AI News</h1>
+                <p>5 handpicked AI links each day · Curated by <a href="https://x.com/SikareSushant"
+                        target="_blank">Sushant Sikare</a></p>
             </div>
 
-            <!-- Feb 13 -->
-            <div class="day-block">
-                <div class="day-date">Thursday, February 13, 2025</div>
-                <ul class="day-links">
-                    <li>
-                        <span class="link-num">1.</span>
-                        <div>
-                            <a class="link-a" href="https://openai.com/index/deep-research/" target="_blank">OpenAI
-                                launches Deep Research — an agent that does multi-step research across the web</a>
-                            <span class="link-src">(openai.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">2.</span>
-                        <div>
-                            <a class="link-a"
-                                href="https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/"
-                                target="_blank">Gemini 2.0 Flash gets major thinking and coding upgrades</a>
-                            <span class="link-src">(blog.google)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">3.</span>
-                        <div>
-                            <a class="link-a" href="https://www.anthropic.com/news/the-prompt-engineering-guide"
-                                target="_blank">Anthropic publishes comprehensive prompt engineering guide for
-                                enterprise</a>
-                            <span class="link-src">(anthropic.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">4.</span>
-                        <div>
-                            <a class="link-a" href="https://github.blog/changelog/2024-12-18-copilot-agent-mode/"
-                                target="_blank">GitHub Copilot Agent Mode is now generally available in VS Code</a>
-                            <span class="link-src">(github.blog)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">5.</span>
-                        <div>
-                            <a class="link-a" href="https://huyenchip.com/2025/01/07/agents.html" target="_blank">Huynh
-                                Chip's guide: Building effective AI agents — patterns that actually work</a>
-                            <span class="link-src">(huyenchip.com)</span>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Feb 12 -->
-            <div class="day-block">
-                <div class="day-date">Wednesday, February 12, 2025</div>
-                <ul class="day-links">
-                    <li>
-                        <span class="link-num">1.</span>
-                        <div>
-                            <a class="link-a" href="https://www.cursor.com/blog/agent" target="_blank">Cursor launches
-                                Agent Mode — autonomous coding with background tasks</a>
-                            <span class="link-src">(cursor.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">2.</span>
-                        <div>
-                            <a class="link-a" href="https://blog.langchain.dev/langgraph-platform/"
-                                target="_blank">LangGraph Platform: Deploy, manage, and scale agent workflows in
-                                production</a>
-                            <span class="link-src">(blog.langchain.dev)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">3.</span>
-                        <div>
-                            <a class="link-a" href="https://www.semianalysis.com/p/google-gemini-architecture"
-                                target="_blank">Inside Google's Gemini architecture — expert breakdown of the model
-                                design</a>
-                            <span class="link-src">(semianalysis.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">4.</span>
-                        <div>
-                            <a class="link-a" href="https://huggingface.co/blog/open-r1" target="_blank">HuggingFace
-                                Open-R1: Open-source reproduction of DeepSeek-R1 reasoning models</a>
-                            <span class="link-src">(huggingface.co)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">5.</span>
-                        <div>
-                            <a class="link-a" href="https://www.latent.space/p/2025-papers" target="_blank">The 10 most
-                                important AI papers of early 2025 — Latent Space summary</a>
-                            <span class="link-src">(latent.space)</span>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Feb 11 -->
-            <div class="day-block">
-                <div class="day-date">Tuesday, February 11, 2025</div>
-                <ul class="day-links">
-                    <li>
-                        <span class="link-num">1.</span>
-                        <div>
-                            <a class="link-a"
-                                href="https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices"
-                                target="_blank">Databricks: LLM inference performance engineering from zero to
-                                production</a>
-                            <span class="link-src">(databricks.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">2.</span>
-                        <div>
-                            <a class="link-a" href="https://modelcontextprotocol.io/introduction" target="_blank">MCP
-                                (Model Context Protocol) 1.0 spec — the standard for AI tool integration</a>
-                            <span class="link-src">(modelcontextprotocol.io)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">3.</span>
-                        <div>
-                            <a class="link-a" href="https://nvidia.github.io/TensorRT-LLM/" target="_blank">NVIDIA
-                                TensorRT-LLM: Optimize and deploy LLMs with near-hardware performance</a>
-                            <span class="link-src">(nvidia.github.io)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">4.</span>
-                        <div>
-                            <a class="link-a"
-                                href="https://www.ben-evans.com/benedictevans/2025/01/enterprise-ai-adoption"
-                                target="_blank">Benedict Evans: The real state of enterprise AI adoption in 2025</a>
-                            <span class="link-src">(ben-evans.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">5.</span>
-                        <div>
-                            <a class="link-a" href="https://lilianweng.github.io/posts/2025-01-10-agentic/"
-                                target="_blank">Lilian Weng's deep dive: Agentic AI design patterns and
-                                architectures</a>
-                            <span class="link-src">(lilianweng.github.io)</span>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Feb 10 -->
-            <div class="day-block">
-                <div class="day-date">Monday, February 10, 2025</div>
-                <ul class="day-links">
-                    <li>
-                        <span class="link-num">1.</span>
-                        <div>
-                            <a class="link-a" href="https://www.deepseek.com/research" target="_blank">DeepSeek-R1 open
-                                weights released — competitive with O1 at fraction of cost</a>
-                            <span class="link-src">(deepseek.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">2.</span>
-                        <div>
-                            <a class="link-a" href="https://simonwillison.net/2025/Jan/24/building-ai-products/"
-                                target="_blank">Simon Willison: What I've learned building AI products — lessons from
-                                the trenches</a>
-                            <span class="link-src">(simonwillison.net)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">3.</span>
-                        <div>
-                            <a class="link-a" href="https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html"
-                                target="_blank">AWS Bedrock Agents — fully managed agentic workflows with memory and
-                                tools</a>
-                            <span class="link-src">(docs.aws.amazon.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">4.</span>
-                        <div>
-                            <a class="link-a" href="https://www.pinecone.io/learn/chunking-strategies/"
-                                target="_blank">Pinecone: Chunking strategies for RAG — what works and what doesn't</a>
-                            <span class="link-src">(pinecone.io)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">5.</span>
-                        <div>
-                            <a class="link-a" href="https://newsletter.pragmaticengineer.com/p/ai-tooling-2025"
-                                target="_blank">Pragmatic Engineer: AI tooling landscape in 2025 — what senior engineers
-                                use</a>
-                            <span class="link-src">(pragmaticengineer.com)</span>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Feb 9 -->
-            <div class="day-block">
-                <div class="day-date">Sunday, February 9, 2025</div>
-                <ul class="day-links">
-                    <li>
-                        <span class="link-num">1.</span>
-                        <div>
-                            <a class="link-a" href="https://arxiv.org/abs/2501.12948" target="_blank">Research:
-                                Chain-of-Thought Reasoning Without Prompting — emergent reasoning in LLMs</a>
-                            <span class="link-src">(arxiv.org)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">2.</span>
-                        <div>
-                            <a class="link-a"
-                                href="https://www.microsoft.com/en-us/research/blog/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/"
-                                target="_blank">Microsoft Magentic-One: A generalist multi-agent system for complex
-                                tasks</a>
-                            <span class="link-src">(microsoft.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">3.</span>
-                        <div>
-                            <a class="link-a" href="https://weaviate.io/blog/rag-evaluation" target="_blank">Weaviate:
-                                How to evaluate your RAG pipeline — metrics that actually matter</a>
-                            <span class="link-src">(weaviate.io)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">4.</span>
-                        <div>
-                            <a class="link-a" href="https://www.together.ai/blog/mixture-of-agents"
-                                target="_blank">Together AI: Mixture of Agents — combining LLMs outperforms any single
-                                model</a>
-                            <span class="link-src">(together.ai)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">5.</span>
-                        <div>
-                            <a class="link-a" href="https://www.oreilly.com/radar/technology-trends-for-2025/"
-                                target="_blank">O'Reilly Radar: The technology trends that will define 2025</a>
-                            <span class="link-src">(oreilly.com)</span>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Feb 8 -->
-            <div class="day-block">
-                <div class="day-date">Saturday, February 8, 2025</div>
-                <ul class="day-links">
-                    <li>
-                        <span class="link-num">1.</span>
-                        <div>
-                            <a class="link-a" href="https://www.anthropic.com/research/building-effective-agents"
-                                target="_blank">Anthropic research: Building effective agents — patterns and lessons
-                                learned</a>
-                            <span class="link-src">(anthropic.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">2.</span>
-                        <div>
-                            <a class="link-a" href="https://techcrunch.com/2025/01/15/perplexity-ai-enterprise-search/"
-                                target="_blank">Perplexity launches enterprise tier — AI search for organizations with
-                                SSO and audit</a>
-                            <span class="link-src">(techcrunch.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">3.</span>
-                        <div>
-                            <a class="link-a" href="https://jxnl.co/writing/2024/02/05/when-to-use-rag/"
-                                target="_blank">Jason Liu: When to use RAG vs fine-tuning vs prompt engineering — a
-                                decision framework</a>
-                            <span class="link-src">(jxnl.co)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">4.</span>
-                        <div>
-                            <a class="link-a" href="https://vllm.ai/" target="_blank">vLLM 0.7: Faster LLM serving with
-                                PagedAttention — benchmark results</a>
-                            <span class="link-src">(vllm.ai)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">5.</span>
-                        <div>
-                            <a class="link-a" href="https://a16z.com/ai-canon/" target="_blank">a16z AI Canon — the
-                                definitive reading list for understanding modern AI</a>
-                            <span class="link-src">(a16z.com)</span>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-
-            <!-- Feb 7 -->
-            <div class="day-block">
-                <div class="day-date">Friday, February 7, 2025</div>
-                <ul class="day-links">
-                    <li>
-                        <span class="link-num">1.</span>
-                        <div>
-                            <a class="link-a" href="https://openai.com/index/introducing-operator/"
-                                target="_blank">OpenAI introduces Operator — an AI agent that browses the web and
-                                completes tasks</a>
-                            <span class="link-src">(openai.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">2.</span>
-                        <div>
-                            <a class="link-a"
-                                href="https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-agent-builder"
-                                target="_blank">Google Cloud: Vertex AI Agent Builder — build and deploy production
-                                agents at scale</a>
-                            <span class="link-src">(cloud.google.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">3.</span>
-                        <div>
-                            <a class="link-a" href="https://www.youtube.com/watch?v=zjkBMFhNj_g" target="_blank">Andrej
-                                Karpathy: How I use LLMs — practical advice from an AI pioneer</a>
-                            <span class="link-src">(youtube.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">4.</span>
-                        <div>
-                            <a class="link-a" href="https://blog.cloudflare.com/cloudflare-ai-gateway"
-                                target="_blank">Cloudflare AI Gateway: Rate limiting, caching, and observability for LLM
-                                APIs</a>
-                            <span class="link-src">(blog.cloudflare.com)</span>
-                        </div>
-                    </li>
-                    <li>
-                        <span class="link-num">5.</span>
-                        <div>
-                            <a class="link-a" href="https://eugeneyan.com/writing/llm-patterns/" target="_blank">Eugene
-                                Yan: Patterns for building LLM-based systems — updated for 2025</a>
-                            <span class="link-src">(eugeneyan.com)</span>
-                        </div>
-                    </li>
-                </ul>
+            <div id="newsContent">
+                <div class="loading-container">
+                    <div class="loading-spinner"></div>
+                    <p class="loading-text">Loading today's links...</p>
+                </div>
             </div>
 
         </div>
@@ -506,6 +244,240 @@
     </footer>
 
     <script src="js/main.js"></script>
+    <script>
+        // ====== AI Keywords for filtering ======
+        const AI_KEYWORDS = [
+            'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
+            'neural network', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'claude',
+            'gemini', 'transformer', 'nlp', 'computer vision', 'langchain', 'rag',
+            'vector database', 'embedding', 'fine-tuning', 'hugging face', 'diffusion',
+            'stable diffusion', 'midjourney', 'dall-e', 'llama', 'mistral', 'copilot',
+            'agent', 'agentic', 'nvidia', 'cuda', 'pytorch', 'tensorflow',
+            'prompt', 'inference', 'training', 'benchmark', 'mcp', 'reasoning',
+            'sora', 'deepseek', 'perplexity', 'cursor', 'windsurf', 'v0', 'devin',
+            'multimodal', 'vision model', 'text-to', 'image generation', 'foundation model'
+        ];
+
+        const HIGH_VALUE = {
+            'openai': 3, 'gpt': 2, 'claude': 3, 'gemini': 3, 'anthropic': 3,
+            'deepseek': 3, 'llama': 2, 'mistral': 2, 'agent': 2, 'agentic': 2,
+            'reasoning': 2, 'devin': 3, 'sora': 3, 'foundation model': 2
+        };
+
+        // ====== Gradient colors for thumbnails ======
+        const GRADIENTS = [
+            ['#667eea', '#764ba2'],
+            ['#f093fb', '#f5576c'],
+            ['#4facfe', '#00f2fe'],
+            ['#43e97b', '#38f9d7'],
+            ['#fa709a', '#fee140'],
+            ['#a18cd1', '#fbc2eb'],
+            ['#ffecd2', '#fcb69f'],
+            ['#ff9a9e', '#fecfef'],
+            ['#a1c4fd', '#c2e9fb'],
+            ['#d4fc79', '#96e6a1'],
+            ['#84fab0', '#8fd3f4'],
+            ['#fccb90', '#d57eeb']
+        ];
+
+        function hashStr(s) {
+            let h = 0;
+            for (let i = 0; i < s.length; i++) h = ((h << 5) - h + s.charCodeAt(i)) | 0;
+            return Math.abs(h);
+        }
+
+        function getDomain(url) {
+            try { return new URL(url).hostname.replace('www.', ''); } catch { return ''; }
+        }
+
+        function getGradient(domain) {
+            const idx = hashStr(domain) % GRADIENTS.length;
+            const [a, b] = GRADIENTS[idx];
+            return `linear-gradient(135deg, ${a}, ${b})`;
+        }
+
+        function getDomainAbbr(domain) {
+            const parts = domain.replace('.com', '').replace('.org', '').replace('.io', '').replace('.dev', '').replace('.ai', '').split('.');
+            const name = parts[parts.length - 1] || parts[0];
+            return name.substring(0, 2).toUpperCase();
+        }
+
+        // ====== Scoring ======
+        function scoreStory(story) {
+            const hoursOld = (Date.now() - story.time * 1000) / 3.6e6;
+            const titleLow = story.title.toLowerCase();
+            let kwBonus = 1;
+            for (const [kw, bonus] of Object.entries(HIGH_VALUE)) {
+                if (titleLow.includes(kw)) kwBonus += bonus * 0.1;
+            }
+            const recency = Math.max(0.3, 1 - hoursOld / 72);
+            const engagement = Math.log10((story.descendants || 0) + 1) * 0.15 + 1;
+            return ((story.score || 0) * recency * kwBonus * engagement) / Math.sqrt(hoursOld + 2);
+        }
+
+        // ====== Date helpers ======
+        function toISTDateStr(ts) {
+            return new Date(ts * 1000).toLocaleDateString('en-IN', {
+                timeZone: 'Asia/Kolkata',
+                year: 'numeric', month: '2-digit', day: '2-digit'
+            });
+        }
+
+        function formatDayLabel(dateKey) {
+            const parts = dateKey.split('/');
+            const d = new Date(parts[2], parts[1] - 1, parts[0]);
+            const now = new Date();
+            const today = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kolkata' }));
+            const todayStr = today.toLocaleDateString('en-IN', { year: 'numeric', month: '2-digit', day: '2-digit' });
+
+            const yesterday = new Date(today);
+            yesterday.setDate(yesterday.getDate() - 1);
+            const yesterdayStr = yesterday.toLocaleDateString('en-IN', { year: 'numeric', month: '2-digit', day: '2-digit' });
+
+            if (dateKey === todayStr) return 'Today';
+            if (dateKey === yesterdayStr) return 'Yesterday';
+
+            return d.toLocaleDateString('en-US', {
+                weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
+            });
+        }
+
+        // ====== Fetch & Render ======
+        async function fetchNews() {
+            const container = document.getElementById('newsContent');
+
+            try {
+                const [topRes, newRes, bestRes] = await Promise.all([
+                    fetch('https://hacker-news.firebaseio.com/v0/topstories.json'),
+                    fetch('https://hacker-news.firebaseio.com/v0/newstories.json'),
+                    fetch('https://hacker-news.firebaseio.com/v0/beststories.json')
+                ]);
+
+                const topIds = await topRes.json();
+                const newIds = await newRes.json();
+                const bestIds = await bestRes.json();
+
+                const allIds = [...new Set([
+                    ...topIds.slice(0, 150),
+                    ...newIds.slice(0, 100),
+                    ...bestIds.slice(0, 100)
+                ])];
+
+                // Fetch stories in batches
+                const stories = [];
+                const batchSize = 50;
+                for (let i = 0; i < allIds.length; i += batchSize) {
+                    const batch = allIds.slice(i, i + batchSize);
+                    const batchResults = await Promise.all(
+                        batch.map(id =>
+                            fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
+                                .then(r => r.json())
+                                .catch(() => null)
+                        )
+                    );
+                    stories.push(...batchResults.filter(Boolean));
+                }
+
+                // Filter AI stories
+                const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+                const aiStories = stories.filter(s => {
+                    if (!s || !s.title || !s.time) return false;
+                    if (s.time * 1000 < sevenDaysAgo) return false;
+                    const t = s.title.toLowerCase();
+                    return AI_KEYWORDS.some(kw => t.includes(kw));
+                });
+
+                // Score and sort
+                const scored = aiStories.map(s => ({
+                    ...s,
+                    smartScore: scoreStory(s),
+                    dateKey: toISTDateStr(s.time)
+                }));
+
+                // Group by day
+                const grouped = {};
+                scored.forEach(s => {
+                    if (!grouped[s.dateKey]) grouped[s.dateKey] = [];
+                    grouped[s.dateKey].push(s);
+                });
+
+                // Sort each day by score, keep top 5
+                for (const key in grouped) {
+                    grouped[key].sort((a, b) => b.smartScore - a.smartScore);
+                    grouped[key] = grouped[key].slice(0, 5);
+                }
+
+                // Sort days newest first
+                const sortedDays = Object.keys(grouped).sort((a, b) => {
+                    const [dA, mA, yA] = a.split('/');
+                    const [dB, mB, yB] = b.split('/');
+                    return new Date(yB, mB - 1, dB) - new Date(yA, mA - 1, dA);
+                });
+
+                renderNews(sortedDays, grouped);
+
+            } catch (err) {
+                container.innerHTML = `
+                    <div class="loading-container">
+                        <p class="loading-text">Failed to load news. Please try again later.</p>
+                    </div>`;
+                console.error(err);
+            }
+        }
+
+        function renderNews(days, grouped) {
+            const container = document.getElementById('newsContent');
+
+            if (days.length === 0) {
+                container.innerHTML = `
+                    <div class="loading-container">
+                        <p class="loading-text">No AI stories found in the last 7 days.</p>
+                    </div>`;
+                return;
+            }
+
+            let html = '';
+
+            days.forEach(dayKey => {
+                const stories = grouped[dayKey];
+                const label = formatDayLabel(dayKey);
+
+                html += `<div class="day-section">`;
+                html += `<div class="day-header">${label}</div>`;
+
+                stories.forEach(story => {
+                    const url = story.url || `https://news.ycombinator.com/item?id=${story.id}`;
+                    const domain = getDomain(url) || 'news.ycombinator.com';
+                    const grad = getGradient(domain);
+                    const abbr = getDomainAbbr(domain);
+
+                    // Build a short description from score + comments
+                    const comments = story.descendants || 0;
+                    const desc = `${story.score} points · ${comments} comment${comments !== 1 ? 's' : ''} on Hacker News`;
+
+                    html += `
+                        <a href="${url}" target="_blank" class="news-card">
+                            <div class="card-thumb">
+                                <div class="card-thumb-gradient" style="background: ${grad};">${abbr}</div>
+                            </div>
+                            <div class="card-body">
+                                <div class="card-title">${story.title}</div>
+                                <div class="card-desc">${desc}</div>
+                                <div class="card-source">${domain}</div>
+                            </div>
+                        </a>
+                    `;
+                });
+
+                html += `</div>`;
+            });
+
+            container.innerHTML = html;
+        }
+
+        // Load on page visit
+        fetchNews();
+    </script>
 </body>
 
 </html>
