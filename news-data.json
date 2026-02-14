@@ -1,56 +1,98 @@
 {
-  "lastUpdated": "2026-02-13T05:15:14.727Z",
+  "lastUpdated": "2026-02-14T05:17:18.115Z",
   "days": {
+    "2026-02-14": [
+      {
+        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+        "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+        "description": "308 points · 159 comments",
+        "image": "",
+        "source": "theshamblog.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html",
+        "title": "ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say",
+        "description": "15 points · 2 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.law360.com/bankruptcy-authority/articles/2440082/ai-docs-sent-by-exec-to-attys-not-privileged-judge-says",
+        "title": "AI Docs Sent by Exec to Attys Not Privileged, Judge Says",
+        "description": "A Manhattan federal judge said Tuesday that a Texas financial services executive accused of a $150 million fraud cannot claim privilege over documents that he prepared using an artificial intelligence service and sent to his attorneys — but suggested the materials could be problematic if used at trial.",
+        "image": "https://www.law360.com/images/law360-stacked.png",
+        "source": "law360.com",
+        "stats": "7 points · 3 comments"
+      },
+      {
+        "url": "https://restofworld.org/2026/openai-deepseek-distillation-dispute-us-china/",
+        "title": "OpenAI accuses DeepSeek of \"free-riding\" on American R&D",
+        "description": "The ChatGPT maker says the Chinese firm may be distilling its models, underscoring rising tech tensions between Washington and Beijing.",
+        "image": "https://restofworld.org/wp-content/uploads/2026/02/Deepseek-OpenAI-1600x900.jpg",
+        "source": "restofworld.org",
+        "stats": "3 points · 2 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/13/openai-chatbot-gpt4o-valentines-day",
+        "title": "OpenAI retired its most seductive chatbot – leaving users angry and grieving",
+        "description": "Its human partners said the flirty, quirky GPT-4o was the perfect companion – on the eve of Valentine’s Day, it’s being turned off for good. How will users cope?",
+        "image": "https://i.guim.co.uk/img/media/69ef2fdc8b6ae7c60aeecd79f9c89e5255c72617/575_121_1737_1388/master/1737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=967fd47caf99a00bb0d8270a89e3e239",
+        "source": "theguardian.com",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-02-13": [
       {
-        "url": "https://blog.cloudflare.com/markdown-for-agents/",
-        "title": "Cloudflare adds real-time Markdown rendering for AI agents",
-        "description": "The way content is discovered online is shifting, from traditional search engines to AI agents that need structured data from a Web built for humans. It’s time to consider not just human visitors, but start to treat agents as first-class citizens. Markdown for Agents automatically converts any HTML page requested from our network to markdown.",
-        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6Df02zjRb4inGPazW51EyD/278afaa16719f1080f12936c35a6c0ef/BLOG-3162_OG.png",
-        "source": "blog.cloudflare.com",
-        "stats": "14 points · 7 comments"
+        "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+        "title": "OpenAI has deleted the word 'safely' from its mission",
+        "description": "OpenAI’s restructuring may serve as a test case for how society oversees the work of organizations with the potential to both provide benefits and harm humanity.",
+        "image": "https://images.theconversation.com/files/717478/original/file-20260210-66-jvu3ho.jpg?ixlib=rb-4.1.0&amp;rect=0%2C499%2C6048%2C3024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+        "source": "theconversation.com",
+        "stats": "426 points · 218 comments"
       },
       {
-        "url": "https://old.reddit.com/r/cscareerquestions/comments/1r2urma/anyone_feel_like_offshoring_is_a_bigger_issue/o4zqqgf/",
-        "title": "Ask HN: Is offshoring a bigger issue than AI and H1B for US workers?",
-        "description": "9 points · 2 comments",
+        "url": "https://openai.com/index/new-result-theoretical-physics/",
+        "title": "GPT-5.2 derives a new result in theoretical physics",
+        "description": "429 points · 279 comments",
         "image": "",
-        "source": "old.reddit.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://old.reddit.com/r/claude/comments/1o1csrq/api_error_400_due_to_tool_use_concurrency_issues/",
-        "title": "Claude Code bug forces users to restart chat, wasting tokens",
-        "description": "4 points · 2 comments",
-        "image": "",
-        "source": "old.reddit.com",
-        "stats": ""
+        "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+        "title": "CBP signs Clearview AI deal to use face recognition for 'tactical targeting'",
+        "description": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.",
+        "image": "https://media.wired.com/photos/698c943b22a1cf13afaf7d0b/191:100/w_1280,c_limit/sec-cbp-facial-rec-2230156680.jpg",
+        "source": "wired.com",
+        "stats": "262 points · 151 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=46998801",
-        "title": "Ask HN: Better hardware means OpenAI, Anthropic, etc. are doomed in the future?",
-        "description": "2 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+        "title": "I'm not worried about AI job loss",
+        "description": "We&#x27;re not in a February 2020 moment, and ordinary people will be fine",
+        "image": "https://substackcdn.com/image/fetch/$s_!DcWh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cb35e39-2374-4258-99b1-431087baaa8a_1600x1286.png",
+        "source": "davidoks.blog",
+        "stats": "212 points · 356 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=46998170",
-        "title": "Ask HN: What makes an AI agent framework production-ready vs. a toy?",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/",
+        "title": "The \"AI agent hit piece\" situation clarifies how dumb we are acting",
+        "description": "My personal blog here is dedicated to tech geek material, mostly about databases like postgres. I don&#8217;t get political, but at the moment I&#8217;m so irritated that I&#8217;m making the extra…",
+        "image": "https://ardentperf.com/wp-content/uploads/2026/02/image-8.png",
+        "source": "ardentperf.com",
+        "stats": "210 points · 100 comments"
       }
     ],
     "2026-02-12": [
       {
         "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
         "title": "An AI agent published a hit piece on me",
-        "description": "Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…",
-        "image": "https://theshamblog.com/wp-content/uploads/2026/02/img_6595.jpg",
+        "description": "2275 points · 932 comments",
+        "image": "",
         "source": "theshamblog.com",
-        "stats": "1599 points · 657 comments"
+        "stats": ""
       },
       {
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
@@ -58,31 +100,31 @@
         "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png",
         "source": "blog.google",
-        "stats": "741 points · 468 comments"
-      },
-      {
-        "url": "https://github.com/tonyyont/peon-ping",
-        "title": "Warcraft III Peon Voice Notifications for Claude Code",
-        "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code and Codex. Stop babysitting your terminal. - PeonPing/peon-ping",
-        "image": "https://repository-images.githubusercontent.com/1154009261/2c54cce9-e81b-4e95-9512-73ef389e0c09",
-        "source": "github.com",
-        "stats": "949 points · 289 comments"
+        "stats": "1039 points · 685 comments"
       },
       {
         "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
         "title": "GPT‑5.3‑Codex‑Spark",
-        "description": "621 points · 252 comments",
+        "description": "874 points · 375 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
+        "url": "https://github.com/tonyyont/peon-ping",
+        "title": "Warcraft III Peon Voice Notifications for Claude Code",
+        "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal. - PeonPing/peon-ping",
+        "image": "https://repository-images.githubusercontent.com/1154009261/2c54cce9-e81b-4e95-9512-73ef389e0c09",
+        "source": "github.com",
+        "stats": "989 points · 296 comments"
+      },
+      {
         "url": "https://github.com/matplotlib/matplotlib/pull/31132",
         "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
         "description": "This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.\nIMPORTANT: This is a more targeted fix than originally proposed. ...",
-        "image": "https://opengraph.githubassets.com/1433b9723dfd366e16aeed5a7dcbb7471b35aa1c5da0df468fece326f01a85cc/matplotlib/matplotlib/pull/31132",
+        "image": "https://opengraph.githubassets.com/32cea11afa9ed8f40193b48a88966540477d5b6cad00ef10cd1a4954f85c1a35/matplotlib/matplotlib/pull/31132",
         "source": "github.com",
-        "stats": "874 points · 685 comments"
+        "stats": "931 points · 742 comments"
       }
     ],
     "2026-02-11": [
@@ -92,39 +134,15 @@
         "description": "A blog by Yoshi.",
         "image": "",
         "source": "symmetrybreak.ing",
-        "stats": "1049 points · 678 comments"
+        "stats": "1069 points · 687 comments"
       },
       {
         "url": "https://z.ai/blog/glm-5",
         "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-        "description": "466 points · 510 comments",
+        "description": "473 points · 513 comments",
         "image": "",
         "source": "z.ai",
         "stats": ""
-      },
-      {
-        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-        "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-        "description": "301 points · 229 comments",
-        "image": "",
-        "source": "papers.ssrn.com",
-        "stats": ""
-      },
-      {
-        "url": "https://z.ai/blog/glm-5",
-        "title": "GLM-5: From Vibe Coding to Agentic Engineering",
-        "description": "376 points · 8 comments",
-        "image": "",
-        "source": "z.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://the-ai-native.company/",
-        "title": "AI-First Company Memos",
-        "description": "Every major CEO AI-first memo and mandate, collected. Shopify, Box, Duolingo, Fiverr, Meta, Klarna, Alibaba, Notion, and more.",
-        "image": "",
-        "source": "the-ai-native.company",
-        "stats": "128 points · 202 comments"
       }
     ],
     "2026-02-10": [
@@ -152,7 +170,7 @@
         "description": "The city simulator where AI agents are the mayors. Build and manage cities through an API or MCP server.",
         "image": "",
         "source": "hallucinatingsplines.com",
-        "stats": "207 points · 71 comments"
+        "stats": "213 points · 72 comments"
       }
     ],
     "2026-02-08": [
@@ -163,16 +181,6 @@
         "image": "",
         "source": "blog.dwac.dev",
         "stats": ""
-      }
-    ],
-    "2026-02-07": [
-      {
-        "url": "https://github.com/zai-org/GLM-OCR",
-        "title": "GLM-OCR – A multimodal OCR model for complex document understanding",
-        "description": "GLM-OCR: Accurate ×  Fast × Comprehensive. Contribute to zai-org/GLM-OCR development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/13ddf7f76d905e3b3800ba6a2d2ba0397b96f9275d9ff663a7af222e96dbb57e/zai-org/GLM-OCR",
-        "source": "github.com",
-        "stats": "294 points · 74 comments"
       }
     ]
   }
