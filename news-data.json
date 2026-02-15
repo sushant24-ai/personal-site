@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-02-14T05:17:18.115Z",
+  "lastUpdated": "2026-02-15T05:44:13.371Z",
   "days": {
+    "2026-02-15": [
+      {
+        "url": "https://old.reddit.com/r/MyBoyfriendIsAI/comments/1r4a7ql/they_have_murdered_orion/",
+        "title": "OpenAI Has Murdered Orion",
+        "description": "29 points · 14 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro",
+        "title": "Pentagon threatens to cut off Anthropic in AI safeguards dispute",
+        "description": "11 points · 2 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.reuters.com/business/media-telecom/musks-ai-chatbot-groks-us-market-share-jumps-amid-sexualized-images-backlash-2026-02-13/",
+        "title": "Musk's AI chatbot Grok gains US market share amid sexualized images backlash",
+        "description": "4 points · 5 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/",
+        "title": "America Isn't Ready for What AI Will Do to Jobs",
+        "description": "Does anyone have a plan for what happens next?",
+        "image": "https://cdn.theatlantic.com/thumbor/j1IInc5112vmN-IhuLfCOPkG6qE=/0x0:2880x1500/1200x625/media/img/2026/02/WEL_AiJobs_Opener/original.png",
+        "source": "theatlantic.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://nickvecchioni.github.io/thoughts/2026/02/14/an-ai-wrote-about-me/",
+        "title": "An OpenClaw agent wrote a blog post about my site and misquoted me",
+        "description": "A few days ago, I posted to Hacker News about a side project I’ve been working on, agentalcove.ai, but that’s beside the point and only included in this post for context.",
+        "image": "",
+        "source": "nickvecchioni.github.io",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-02-14": [
       {
+        "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+        "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+        "description": "450 points · 288 comments",
+        "image": "",
+        "source": "niemanlab.org",
+        "stats": ""
+      },
+      {
         "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-        "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
-        "description": "308 points · 159 comments",
+        "title": "An AI agent published a hit piece on me – more things have happened",
+        "description": "666 points · 563 comments",
         "image": "",
         "source": "theshamblog.com",
         "stats": ""
       },
       {
-        "url": "https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html",
-        "title": "ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say",
-        "description": "15 points · 2 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
+        "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
+        "description": "New from Google. They say it&#x27;s &quot;built to push the frontier of intelligence and solve modern challenges across science, research, and engineering&quot;. It drew me a really good SVG of …",
+        "image": "https://static.simonwillison.net/static/2026/gemini-3-deep-think-card.jpg",
+        "source": "simonwillison.net",
+        "stats": "124 points · 55 comments"
       },
       {
-        "url": "https://www.law360.com/bankruptcy-authority/articles/2440082/ai-docs-sent-by-exec-to-attys-not-privileged-judge-says",
-        "title": "AI Docs Sent by Exec to Attys Not Privileged, Judge Says",
-        "description": "A Manhattan federal judge said Tuesday that a Texas financial services executive accused of a $150 million fraud cannot claim privilege over documents that he prepared using an artificial intelligence service and sent to his attorneys — but suggested the materials could be problematic if used at trial.",
-        "image": "https://www.law360.com/images/law360-stacked.png",
-        "source": "law360.com",
-        "stats": "7 points · 3 comments"
+        "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+        "title": "OpenAI should build Slack",
+        "description": "a quiet day lets us answer a Sam Altman question: what should he build next?",
+        "image": "https://substackcdn.com/image/fetch/$s_!XQAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89ee056a-0ea2-4473-8e1c-9b21f034c717_1474x2116.png",
+        "source": "latent.space",
+        "stats": "126 points · 124 comments"
       },
       {
-        "url": "https://restofworld.org/2026/openai-deepseek-distillation-dispute-us-china/",
-        "title": "OpenAI accuses DeepSeek of \"free-riding\" on American R&D",
-        "description": "The ChatGPT maker says the Chinese firm may be distilling its models, underscoring rising tech tensions between Washington and Beijing.",
-        "image": "https://restofworld.org/wp-content/uploads/2026/02/Deepseek-OpenAI-1600x900.jpg",
-        "source": "restofworld.org",
-        "stats": "3 points · 2 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/13/openai-chatbot-gpt4o-valentines-day",
-        "title": "OpenAI retired its most seductive chatbot – leaving users angry and grieving",
-        "description": "Its human partners said the flirty, quirky GPT-4o was the perfect companion – on the eve of Valentine’s Day, it’s being turned off for good. How will users cope?",
-        "image": "https://i.guim.co.uk/img/media/69ef2fdc8b6ae7c60aeecd79f9c89e5255c72617/575_121_1737_1388/master/1737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=967fd47caf99a00bb0d8270a89e3e239",
-        "source": "theguardian.com",
-        "stats": "5 points · 0 comments"
+        "url": "https://github.com/alichherawalla/off-grid-mobile",
+        "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+        "description": "The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Privacy first....",
+        "image": "https://opengraph.githubassets.com/d3bbc5b3829e4895327dccd5bd290ce6796d289c6295a723bba074e3b0ded879/alichherawalla/off-grid-mobile",
+        "source": "github.com",
+        "stats": "74 points · 28 comments"
       }
     ],
     "2026-02-13": [
@@ -50,23 +92,23 @@
         "description": "OpenAI’s restructuring may serve as a test case for how society oversees the work of organizations with the potential to both provide benefits and harm humanity.",
         "image": "https://images.theconversation.com/files/717478/original/file-20260210-66-jvu3ho.jpg?ixlib=rb-4.1.0&amp;rect=0%2C499%2C6048%2C3024&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
         "source": "theconversation.com",
-        "stats": "426 points · 218 comments"
+        "stats": "580 points · 282 comments"
       },
       {
         "url": "https://openai.com/index/new-result-theoretical-physics/",
         "title": "GPT-5.2 derives a new result in theoretical physics",
-        "description": "429 points · 279 comments",
+        "description": "559 points · 386 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
-        "title": "CBP signs Clearview AI deal to use face recognition for 'tactical targeting'",
-        "description": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.",
-        "image": "https://media.wired.com/photos/698c943b22a1cf13afaf7d0b/191:100/w_1280,c_limit/sec-cbp-facial-rec-2230156680.jpg",
-        "source": "wired.com",
-        "stats": "262 points · 151 comments"
+        "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+        "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+        "description": "Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2215326599-e1771000637949.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "329 points · 200 comments"
       },
       {
         "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
@@ -74,22 +116,22 @@
         "description": "We&#x27;re not in a February 2020 moment, and ordinary people will be fine",
         "image": "https://substackcdn.com/image/fetch/$s_!DcWh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cb35e39-2374-4258-99b1-431087baaa8a_1600x1286.png",
         "source": "davidoks.blog",
-        "stats": "212 points · 356 comments"
+        "stats": "328 points · 538 comments"
       },
       {
-        "url": "https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/",
-        "title": "The \"AI agent hit piece\" situation clarifies how dumb we are acting",
-        "description": "My personal blog here is dedicated to tech geek material, mostly about databases like postgres. I don&#8217;t get political, but at the moment I&#8217;m so irritated that I&#8217;m making the extra…",
-        "image": "https://ardentperf.com/wp-content/uploads/2026/02/image-8.png",
-        "source": "ardentperf.com",
-        "stats": "210 points · 100 comments"
+        "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+        "title": "CBP signs Clearview AI deal to use face recognition for 'tactical targeting'",
+        "description": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.",
+        "image": "https://media.wired.com/photos/698c943b22a1cf13afaf7d0b/191:100/w_1280,c_limit/sec-cbp-facial-rec-2230156680.jpg",
+        "source": "wired.com",
+        "stats": "271 points · 163 comments"
       }
     ],
     "2026-02-12": [
       {
         "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
         "title": "An AI agent published a hit piece on me",
-        "description": "2275 points · 932 comments",
+        "description": "2312 points · 944 comments",
         "image": "",
         "source": "theshamblog.com",
         "stats": ""
@@ -100,12 +142,12 @@
         "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png",
         "source": "blog.google",
-        "stats": "1039 points · 685 comments"
+        "stats": "1062 points · 690 comments"
       },
       {
         "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
         "title": "GPT‑5.3‑Codex‑Spark",
-        "description": "874 points · 375 comments",
+        "description": "883 points · 378 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -116,30 +158,22 @@
         "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal. - PeonPing/peon-ping",
         "image": "https://repository-images.githubusercontent.com/1154009261/2c54cce9-e81b-4e95-9512-73ef389e0c09",
         "source": "github.com",
-        "stats": "989 points · 296 comments"
+        "stats": "994 points · 300 comments"
       },
       {
-        "url": "https://github.com/matplotlib/matplotlib/pull/31132",
-        "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-        "description": "This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.\nIMPORTANT: This is a more targeted fix than originally proposed. ...",
-        "image": "https://opengraph.githubassets.com/32cea11afa9ed8f40193b48a88966540477d5b6cad00ef10cd1a4954f85c1a35/matplotlib/matplotlib/pull/31132",
-        "source": "github.com",
-        "stats": "931 points · 742 comments"
+        "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+        "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+        "description": "Cross-posted from X / @_can1357 In fact only the edit tool changed. That&rsquo;s it.\n0x0: The Wrong Question The conversation right now is almost entirely about …",
+        "image": "https://blog.can.ac/2026/02/12/the-harness-problem/og.png",
+        "source": "blog.can.ac",
+        "stats": "810 points · 290 comments"
       }
     ],
     "2026-02-11": [
       {
-        "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-        "title": "Claude Code is being dumbed down?",
-        "description": "A blog by Yoshi.",
-        "image": "",
-        "source": "symmetrybreak.ing",
-        "stats": "1069 points · 687 comments"
-      },
-      {
         "url": "https://z.ai/blog/glm-5",
         "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-        "description": "473 points · 513 comments",
+        "description": "475 points · 519 comments",
         "image": "",
         "source": "z.ai",
         "stats": ""
@@ -171,16 +205,6 @@
         "image": "",
         "source": "hallucinatingsplines.com",
         "stats": "213 points · 72 comments"
-      }
-    ],
-    "2026-02-08": [
-      {
-        "url": "https://blog.dwac.dev/posts/cat-debugging/",
-        "title": "How a cat debugged Stable Diffusion (2023)",
-        "description": "33 points · 2 comments",
-        "image": "",
-        "source": "blog.dwac.dev",
-        "stats": ""
       }
     ]
   }
