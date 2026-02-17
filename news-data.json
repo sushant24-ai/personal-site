@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-02-16T05:58:17.634Z",
+  "lastUpdated": "2026-02-17T05:46:51.373Z",
   "days": {
+    "2026-02-17": [
+      {
+        "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+        "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+        "description": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.\n",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5ef8/live/d681e5e0-0827-11f1-b5e2-dd58fc65f0f6.png",
+        "source": "bbc.com",
+        "stats": "299 points · 151 comments"
+      },
+      {
+        "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+        "title": "AI is destroying open source, and it's not even good yet",
+        "description": "Over the weekend Ars Technica retracted an article because the AI a writer used hallucinated quotes from an open source library maintainer.\nThe irony here is the maintainer in question, Scott Shambaugh, was harassed by someone",
+        "image": "",
+        "source": "jeffgeerling.com",
+        "stats": "305 points · 234 comments"
+      },
+      {
+        "url": "https://old.reddit.com/r/ExperiencedDevs/comments/1r6olcv/an_ai_ceo_finally_said_something_honest/",
+        "title": "An AI CEO said something honest: ExperiencedDevs",
+        "description": "33 points · 11 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://codemade.net/blog/building-for-one/",
+        "title": "Building for an audience of one: starting and finishing side projects with AI",
+        "description": "My Plasma task switcher was a second too slow, so I built - and shipped - my own in Zig, without actually knowing Zig, using AI tools.",
+        "image": "",
+        "source": "codemade.net",
+        "stats": "31 points · 10 comments"
+      },
+      {
+        "url": "https://github.com/al1-nasir/codegraph-cli",
+        "title": "Show HN: CodeGraph CLI – Chat with your codebase using graph-augmented RAG",
+        "description": "AI-powered code intelligence CLI with multi-agent analysis, impact graphs, and conversational coding. - al1-nasir/codegraph-cli",
+        "image": "https://opengraph.githubassets.com/66efae0cb2ad70818a9d1983bb29664695e9e88331608169a16e786c863075ab/al1-nasir/codegraph-cli",
+        "source": "github.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-02-16": [
       {
-        "url": "https://www.theatlantic.com/technology/2026/02/rfk-jr-hhs-ai-chatbots/686007/",
-        "title": "Drink Whole Milk, Eat Red Meat, and Use ChatGPT",
-        "description": "What Robert F. Kennedy Jr.’s “AI revolution” really looks like",
-        "image": "https://cdn.theatlantic.com/thumbor/1pQLX8DIeRreMooLOUwB9yxi27U=/0x43:2000x1085/1200x625/media/img/mt/2026/02/2026_02_09_Wong_Florko_RFK_ai_final/original.jpg",
-        "source": "theatlantic.com",
-        "stats": "6 points · 4 comments"
+        "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+        "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+        "description": ": The software doesn&#39;t show what files it&#39;s working on",
+        "image": "https://regmedia.co.uk/2026/02/05/shutterstock_2457318185.jpg",
+        "source": "theregister.com",
+        "stats": "370 points · 224 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47030623",
-        "title": "I got tired of babysitting Claude,so I built AI agent that run on my laptop 24/7",
-        "description": "3 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://arxiv.org/abs/2602.12670",
+        "title": "Study: Self-generated Agent Skills are useless",
+        "description": "Agent Skills are structured packages of procedural knowledge that augment LLM agents at inference time. Despite rapid adoption, there is no standard way to measure whether they actually help. We present SkillsBench, a benchmark of 86 tasks across 11 domains paired with curated Skills and deterministic verifiers. Each task is evaluated under three conditions: no Skills, curated Skills, and self-generated Skills. We test 7 agent-model configurations over 7,308 trajectories. Curated Skills raise average pass rate by 16.2 percentage points(pp), but effects vary widely by domain (+4.5pp for Software Engineering to +51.9pp for Healthcare) and 16 of 84 tasks show negative deltas. Self-generated Skills provide no benefit on average, showing that models cannot reliably author the procedural knowledge they benefit from consuming. Focused Skills with 2--3 modules outperform comprehensive documentation, and smaller models with Skills can match larger models without them.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "317 points · 131 comments"
       },
       {
-        "url": "https://twitter.com/banteg/status/2023112622950813824",
-        "title": "Codex CLI might silently re-route your GPT-5.3 traffic to GPT-5.2 instead",
-        "description": "3 points · 0 comments",
+        "url": "https://qwen.ai/blog?id=qwen3.5",
+        "title": "Qwen3.5: Towards Native Multimodal Agents",
+        "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
         "image": "",
-        "source": "twitter.com",
-        "stats": ""
+        "source": "qwen.ai",
+        "stats": "402 points · 188 comments"
       },
       {
-        "url": "https://medium.com/predict/2026-the-last-year-of-the-bubble-the-ai-empire-begins-to-crumble-1bb5e62b3c06",
-        "title": "2026, the Last Year of the AI Bubble",
-        "description": "4 points · 2 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
+        "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+        "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+        "description": "AI companies have bought out Western Digital&#039;s storage capacity for 2026. It&#039;s only February.",
+        "image": "https://helios-i.mashable.com/imagery/articles/03BMp5tylVs9DJJavYCVFKV/hero-image.fill.size_1200x675.v1771180235.jpg",
+        "source": "mashable.com",
+        "stats": "348 points · 289 comments"
       },
       {
-        "url": "https://www.osnews.com/story/144405/why-do-i-not-use-ai-at-osnews/",
-        "title": "Why do I not use \"AI\" at OSNews?",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "osnews.com",
-        "stats": ""
+        "url": "https://jmail.world/jemini",
+        "title": "Show HN: Jemini – Gemini for the Epstein Files",
+        "description": "You are logged into jeevacation@gmail.com, Jeffrey Epstein&#x27;s email. Sourced from the November 2025 House Oversight Committee data release.",
+        "image": "https://jmail.world/social-preview.png",
+        "source": "jmail.world",
+        "stats": "308 points · 59 comments"
       }
     ],
     "2026-02-15": [
@@ -50,7 +92,7 @@
         "description": "I",
         "image": "https://steipete.me/posts/2026/openclaw/index.png",
         "source": "steipete.me",
-        "stats": "793 points · 534 comments"
+        "stats": "1400 points · 1081 comments"
       },
       {
         "url": "https://microgpt.boratto.ca",
@@ -58,12 +100,12 @@
         "description": "a visualization of a very small gpt model, running in the browser",
         "image": "",
         "source": "microgpt.boratto.ca",
-        "stats": "150 points · 12 comments"
+        "stats": "270 points · 25 comments"
       },
       {
         "url": "https://www.seangoedecke.com/fast-llm-inference/",
         "title": "Two different tricks for fast LLM inference",
-        "description": "182 points · 65 comments",
+        "description": "192 points · 67 comments",
         "image": "https://www.seangoedecke.com/og-image.jpg",
         "source": "seangoedecke.com",
         "stats": ""
@@ -74,12 +116,12 @@
         "description": "Curated niche app opportunities from Reddit, scored by difficulty and demand.",
         "image": "https://nichehunt.app/opengraph-image.png?opengraph-image.c79cda14.png",
         "source": "nichehunt.app",
-        "stats": "108 points · 181 comments"
+        "stats": "145 points · 231 comments"
       },
       {
         "url": "https://twitter.com/sama/status/2023150230905159801",
         "title": "OpenClaw (ClawdBot) joins OpenAI",
-        "description": "46 points · 23 comments",
+        "description": "60 points · 30 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -89,7 +131,7 @@
       {
         "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
         "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-        "description": "555 points · 360 comments",
+        "description": "566 points · 364 comments",
         "image": "",
         "source": "niemanlab.org",
         "stats": ""
@@ -97,7 +139,7 @@
       {
         "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
         "title": "An AI agent published a hit piece on me – more things have happened",
-        "description": "739 points · 608 comments",
+        "description": "752 points · 616 comments",
         "image": "",
         "source": "theshamblog.com",
         "stats": ""
@@ -108,99 +150,43 @@
         "description": "a quiet day lets us answer a Sam Altman question: what should he build next?",
         "image": "https://substackcdn.com/image/fetch/$s_!XQAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89ee056a-0ea2-4473-8e1c-9b21f034c717_1474x2116.png",
         "source": "latent.space",
-        "stats": "244 points · 309 comments"
-      },
-      {
-        "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
-        "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
-        "description": "New from Google. They say it&#x27;s &quot;built to push the frontier of intelligence and solve modern challenges across science, research, and engineering&quot;. It drew me a really good SVG of …",
-        "image": "https://static.simonwillison.net/static/2026/gemini-3-deep-think-card.jpg",
-        "source": "simonwillison.net",
-        "stats": "132 points · 61 comments"
-      },
-      {
-        "url": "https://github.com/alichherawalla/off-grid-mobile",
-        "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-        "description": "The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...",
-        "image": "https://opengraph.githubassets.com/7798f8fc80ea12912347f7a3bb6367be78c8db4e4b94af61fedec4d298f60030/alichherawalla/off-grid-mobile",
-        "source": "github.com",
-        "stats": "118 points · 63 comments"
+        "stats": "250 points · 324 comments"
       }
     ],
     "2026-02-13": [
-      {
-        "url": "https://openai.com/index/new-result-theoretical-physics/",
-        "title": "GPT-5.2 derives a new result in theoretical physics",
-        "description": "571 points · 397 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-        "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-        "description": "Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2215326599-e1771000637949.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "365 points · 254 comments"
-      },
-      {
-        "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-        "title": "I'm not worried about AI job loss",
-        "description": "We&#x27;re not in a February 2020 moment, and ordinary people will be fine",
-        "image": "https://substackcdn.com/image/fetch/$s_!DcWh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cb35e39-2374-4258-99b1-431087baaa8a_1600x1286.png",
-        "source": "davidoks.blog",
-        "stats": "346 points · 549 comments"
-      },
       {
         "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
         "title": "I gave Claude access to my pen plotter",
         "description": "I gave Claude Code access to my pen plotter. Not directly. I was the interface between the two machines. Claude Code produced SVG files that I plotted with my pen plotter. With my smartphone I captured photos that I pasted into the Claude Code session, asking Claude what it thought about the",
         "image": "",
         "source": "harmonique.one",
-        "stats": "144 points · 73 comments"
+        "stats": "280 points · 195 comments"
       },
       {
-        "url": "https://github.com/alibaba/zvec",
-        "title": "Zvec: A lightweight, fast, in-process vector database",
-        "description": "A lightweight, lightning-fast, in-process vector database - alibaba/zvec",
-        "image": "https://opengraph.githubassets.com/0a755b7a727be25f251dc6abeb156c70ed48b8f04305a55f76228427f261d9fb/alibaba/zvec",
-        "source": "github.com",
-        "stats": "213 points · 34 comments"
+        "url": "https://0byte.io/articles/pytorch_introduction.html",
+        "title": "Visual Introduction to PyTorch",
+        "description": "AI/ML Blog",
+        "image": "",
+        "source": "0byte.io",
+        "stats": "172 points · 13 comments"
+      },
+      {
+        "url": "https://blog.exe.dev/expensively-quadratic",
+        "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+        "description": "Cache reads are quadratic and dominate your long agentic conversations.",
+        "image": "",
+        "source": "blog.exe.dev",
+        "stats": "122 points · 86 comments"
       }
     ],
     "2026-02-12": [
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-        "title": "Gemini 3 Deep Think",
-        "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_meta_dark_Fm70Cou.width-1300.png",
-        "source": "blog.google",
-        "stats": "1071 points · 691 comments"
-      },
-      {
-        "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-        "title": "GPT‑5.3‑Codex‑Spark",
-        "description": "887 points · 382 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
       {
         "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
         "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
         "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20BarChart&amp;backgroundColor=sky",
         "source": "anthropic.com",
-        "stats": "439 points · 452 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=46991591",
-        "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
-        "description": "147 points · 154 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "441 points · 455 comments"
       }
     ],
     "2026-02-11": [
@@ -211,24 +197,6 @@
         "image": "https://news.speedata.de/2026/02/10/typesetting-benchmark//twittercard.png",
         "source": "news.speedata.de",
         "stats": "11 points · 3 comments"
-      }
-    ],
-    "2026-02-10": [
-      {
-        "url": "https://github.com/antirez/voxtral.c",
-        "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-        "description": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model - antirez/voxtral.c",
-        "image": "https://opengraph.githubassets.com/64c813f36f8e4557fac5b622972048adcc89425354c65ddcd038e2cf6f4baa58/antirez/voxtral.c",
-        "source": "github.com",
-        "stats": "309 points · 35 comments"
-      },
-      {
-        "url": "https://github.com/rowboatlabs/rowboat",
-        "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-        "description": "Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/a6710d0be552a4524c796a627e0b2b67769cd510347b8651a0059de095611129/rowboatlabs/rowboat",
-        "source": "github.com",
-        "stats": "199 points · 56 comments"
       }
     ]
   }
