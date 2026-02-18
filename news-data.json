@@ -1,14 +1,64 @@
 {
-  "lastUpdated": "2026-02-17T05:46:51.373Z",
+  "lastUpdated": "2026-02-18T05:49:06.177Z",
   "days": {
+    "2026-02-18": [
+      {
+        "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+        "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+        "description": "In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”\n",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "280 points · 188 comments"
+      },
+      {
+        "url": "https://www.pcgamer.com/hardware/memory/many-consumer-electronics-manufacturers-will-go-bankrupt-or-exit-product-lines-by-the-end-of-2026-due-to-the-ai-memory-crisis-phison-ceo-reportedly-says/",
+        "title": "Phison CEO: Consumer electronics firms may fail by 2026 over AI memory crisis",
+        "description": "This could go on for another 10 years.",
+        "image": "https://cdn.mos.cms.futurecdn.net/54axypSSE53LrSGmYpfUDD-1920-80.jpg",
+        "source": "pcgamer.com",
+        "stats": "16 points · 2 comments"
+      },
+      {
+        "url": "https://www.wsj.com/politics/national-security/woke-ai-spat-escalates-between-pentagon-and-anthropic-433b7c5c",
+        "title": "Pentagon might ask contractors to certify they don't use Anthropic's Claude",
+        "description": "6 points · 3 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco",
+        "title": "The anxiety driving AI's brutal work culture is a warning for all of us",
+        "description": "San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectors",
+        "image": "https://i.guim.co.uk/img/media/0dc04be29cbd720664313a65c08e776ecae088ea/0_1012_4091_3273/master/4091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3568863089989ed2e94df48fff54f1dd",
+        "source": "theguardian.com",
+        "stats": "7 points · 5 comments"
+      },
+      {
+        "url": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+        "title": "A Guide to Which AI to Use in the Agentic Era",
+        "description": "It&#x27;s not just chatbots anymore",
+        "image": "https://substackcdn.com/image/fetch/$s_!O-pO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png",
+        "source": "oneusefulthing.org",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-02-17": [
+      {
+        "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+        "title": "Claude Sonnet 4.6",
+        "description": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. ",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=clay",
+        "source": "anthropic.com",
+        "stats": "992 points · 883 comments"
+      },
       {
         "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
         "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
         "description": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.\n",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5ef8/live/d681e5e0-0827-11f1-b5e2-dd58fc65f0f6.png",
         "source": "bbc.com",
-        "stats": "299 points · 151 comments"
+        "stats": "553 points · 344 comments"
       },
       {
         "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
@@ -16,31 +66,23 @@
         "description": "Over the weekend Ars Technica retracted an article because the AI a writer used hallucinated quotes from an open source library maintainer.\nThe irony here is the maintainer in question, Scott Shambaugh, was harassed by someone",
         "image": "",
         "source": "jeffgeerling.com",
-        "stats": "305 points · 234 comments"
+        "stats": "403 points · 329 comments"
       },
       {
-        "url": "https://old.reddit.com/r/ExperiencedDevs/comments/1r6olcv/an_ai_ceo_finally_said_something_honest/",
-        "title": "An AI CEO said something honest: ExperiencedDevs",
-        "description": "33 points · 11 comments",
+        "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+        "title": "Semantic ablation: Why AI writing is generic and boring",
+        "description": "opinion: The subtractive bias we&#39;re ignoring",
+        "image": "https://regmedia.co.uk/2021/04/23/dog.jpg",
+        "source": "theregister.com",
+        "stats": "238 points · 184 comments"
+      },
+      {
+        "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+        "title": "Async/Await on the GPU",
+        "description": "GPU code can now use Rust&#x27;s async/await. We share the reasons why and what this unlocks for GPU programming.",
         "image": "",
-        "source": "old.reddit.com",
-        "stats": ""
-      },
-      {
-        "url": "https://codemade.net/blog/building-for-one/",
-        "title": "Building for an audience of one: starting and finishing side projects with AI",
-        "description": "My Plasma task switcher was a second too slow, so I built - and shipped - my own in Zig, without actually knowing Zig, using AI tools.",
-        "image": "",
-        "source": "codemade.net",
-        "stats": "31 points · 10 comments"
-      },
-      {
-        "url": "https://github.com/al1-nasir/codegraph-cli",
-        "title": "Show HN: CodeGraph CLI – Chat with your codebase using graph-augmented RAG",
-        "description": "AI-powered code intelligence CLI with multi-agent analysis, impact graphs, and conversational coding. - al1-nasir/codegraph-cli",
-        "image": "https://opengraph.githubassets.com/66efae0cb2ad70818a9d1983bb29664695e9e88331608169a16e786c863075ab/al1-nasir/codegraph-cli",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
+        "source": "vectorware.com",
+        "stats": "174 points · 51 comments"
       }
     ],
     "2026-02-16": [
@@ -50,31 +92,7 @@
         "description": ": The software doesn&#39;t show what files it&#39;s working on",
         "image": "https://regmedia.co.uk/2026/02/05/shutterstock_2457318185.jpg",
         "source": "theregister.com",
-        "stats": "370 points · 224 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2602.12670",
-        "title": "Study: Self-generated Agent Skills are useless",
-        "description": "Agent Skills are structured packages of procedural knowledge that augment LLM agents at inference time. Despite rapid adoption, there is no standard way to measure whether they actually help. We present SkillsBench, a benchmark of 86 tasks across 11 domains paired with curated Skills and deterministic verifiers. Each task is evaluated under three conditions: no Skills, curated Skills, and self-generated Skills. We test 7 agent-model configurations over 7,308 trajectories. Curated Skills raise average pass rate by 16.2 percentage points(pp), but effects vary widely by domain (+4.5pp for Software Engineering to +51.9pp for Healthcare) and 16 of 84 tasks show negative deltas. Self-generated Skills provide no benefit on average, showing that models cannot reliably author the procedural knowledge they benefit from consuming. Focused Skills with 2--3 modules outperform comprehensive documentation, and smaller models with Skills can match larger models without them.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "317 points · 131 comments"
-      },
-      {
-        "url": "https://qwen.ai/blog?id=qwen3.5",
-        "title": "Qwen3.5: Towards Native Multimodal Agents",
-        "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-        "image": "",
-        "source": "qwen.ai",
-        "stats": "402 points · 188 comments"
-      },
-      {
-        "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
-        "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
-        "description": "AI companies have bought out Western Digital&#039;s storage capacity for 2026. It&#039;s only February.",
-        "image": "https://helios-i.mashable.com/imagery/articles/03BMp5tylVs9DJJavYCVFKV/hero-image.fill.size_1200x675.v1771180235.jpg",
-        "source": "mashable.com",
-        "stats": "348 points · 289 comments"
+        "stats": "391 points · 239 comments"
       },
       {
         "url": "https://jmail.world/jemini",
@@ -82,7 +100,31 @@
         "description": "You are logged into jeevacation@gmail.com, Jeffrey Epstein&#x27;s email. Sourced from the November 2025 House Oversight Committee data release.",
         "image": "https://jmail.world/social-preview.png",
         "source": "jmail.world",
-        "stats": "308 points · 59 comments"
+        "stats": "462 points · 92 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2602.12670",
+        "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
+        "description": "Agent Skills are structured packages of procedural knowledge that augment LLM agents at inference time. Despite rapid adoption, there is no standard way to measure whether they actually help. We present SkillsBench, a benchmark of 86 tasks across 11 domains paired with curated Skills and deterministic verifiers. Each task is evaluated under three conditions: no Skills, curated Skills, and self-generated Skills. We test 7 agent-model configurations over 7,308 trajectories. Curated Skills raise average pass rate by 16.2 percentage points(pp), but effects vary widely by domain (+4.5pp for Software Engineering to +51.9pp for Healthcare) and 16 of 84 tasks show negative deltas. Self-generated Skills provide no benefit on average, showing that models cannot reliably author the procedural knowledge they benefit from consuming. Focused Skills with 2--3 modules outperform comprehensive documentation, and smaller models with Skills can match larger models without them.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "353 points · 162 comments"
+      },
+      {
+        "url": "https://qwen.ai/blog?id=qwen3.5",
+        "title": "Qwen3.5: Towards Native Multimodal Agents",
+        "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+        "image": "",
+        "source": "qwen.ai",
+        "stats": "427 points · 207 comments"
+      },
+      {
+        "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+        "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+        "description": "AI companies have bought out Western Digital&#039;s storage capacity for 2026. It&#039;s only February.",
+        "image": "https://helios-i.mashable.com/imagery/articles/03BMp5tylVs9DJJavYCVFKV/hero-image.fill.size_1200x675.v1771180235.jpg",
+        "source": "mashable.com",
+        "stats": "371 points · 304 comments"
       }
     ],
     "2026-02-15": [
@@ -92,38 +134,14 @@
         "description": "I",
         "image": "https://steipete.me/posts/2026/openclaw/index.png",
         "source": "steipete.me",
-        "stats": "1400 points · 1081 comments"
+        "stats": "1428 points · 1110 comments"
       },
       {
-        "url": "https://microgpt.boratto.ca",
-        "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
-        "description": "a visualization of a very small gpt model, running in the browser",
-        "image": "",
-        "source": "microgpt.boratto.ca",
-        "stats": "270 points · 25 comments"
-      },
-      {
-        "url": "https://www.seangoedecke.com/fast-llm-inference/",
-        "title": "Two different tricks for fast LLM inference",
-        "description": "192 points · 67 comments",
-        "image": "https://www.seangoedecke.com/og-image.jpg",
-        "source": "seangoedecke.com",
-        "stats": ""
-      },
-      {
-        "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
-        "title": "AI is going to kill app subscriptions",
-        "description": "Curated niche app opportunities from Reddit, scored by difficulty and demand.",
-        "image": "https://nichehunt.app/opengraph-image.png?opengraph-image.c79cda14.png",
-        "source": "nichehunt.app",
-        "stats": "145 points · 231 comments"
-      },
-      {
-        "url": "https://twitter.com/sama/status/2023150230905159801",
-        "title": "OpenClaw (ClawdBot) joins OpenAI",
-        "description": "60 points · 30 comments",
-        "image": "",
-        "source": "twitter.com",
+        "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
+        "title": "Quamina and Claude, Case 1",
+        "description": "3 points · 0 comments",
+        "image": "https://www.tbray.org/ongoing/misc/podcast-default.jpg",
+        "source": "tbray.org",
         "stats": ""
       }
     ],
@@ -155,28 +173,12 @@
     ],
     "2026-02-13": [
       {
-        "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
-        "title": "I gave Claude access to my pen plotter",
-        "description": "I gave Claude Code access to my pen plotter. Not directly. I was the interface between the two machines. Claude Code produced SVG files that I plotted with my pen plotter. With my smartphone I captured photos that I pasted into the Claude Code session, asking Claude what it thought about the",
-        "image": "",
-        "source": "harmonique.one",
-        "stats": "280 points · 195 comments"
-      },
-      {
         "url": "https://0byte.io/articles/pytorch_introduction.html",
-        "title": "Visual Introduction to PyTorch",
-        "description": "AI/ML Blog",
+        "title": "Visual introduction to PyTorch",
+        "description": "An easy to follow, visual introduction to PyTorch.",
         "image": "",
         "source": "0byte.io",
-        "stats": "172 points · 13 comments"
-      },
-      {
-        "url": "https://blog.exe.dev/expensively-quadratic",
-        "title": "Expensively Quadratic: The LLM Agent Cost Curve",
-        "description": "Cache reads are quadratic and dominate your long agentic conversations.",
-        "image": "",
-        "source": "blog.exe.dev",
-        "stats": "122 points · 86 comments"
+        "stats": "392 points · 28 comments"
       }
     ],
     "2026-02-12": [
@@ -187,16 +189,6 @@
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20BarChart&amp;backgroundColor=sky",
         "source": "anthropic.com",
         "stats": "441 points · 455 comments"
-      }
-    ],
-    "2026-02-11": [
-      {
-        "url": "https://news.speedata.de/2026/02/10/typesetting-benchmark/",
-        "title": "Benchmarking Automatic Typesetting Systems",
-        "description": "I&rsquo;m building a typesetting engine for a living (speedata Publisher). People keep asking me &ldquo;why not just use Typst?&rdquo; or &ldquo;isn&rsquo;t WeasyPrint good enough?&rdquo; and I never had a good answer with real numbers. Just gut feeling. So I decided to actually measure it.\nI set up a simple benchmark, same document with all six tools. And what I learned was maybe not what I expected.\nThe setup\nThe task is simple: a mail merge. You have an XML file with name and address records, you fill in a letter template, and you get a PDF out. One page per letter, with a logo, sender info, recipient address, and some body text. Nothing special, really every tool should be able to do this.",
-        "image": "https://news.speedata.de/2026/02/10/typesetting-benchmark//twittercard.png",
-        "source": "news.speedata.de",
-        "stats": "11 points · 3 comments"
       }
     ]
   }
