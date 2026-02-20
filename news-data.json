@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-02-19T05:46:14.176Z",
+  "lastUpdated": "2026-02-20T05:41:39.778Z",
   "days": {
+    "2026-02-20": [
+      {
+        "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+        "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+        "description": "222 points · 172 comments",
+        "image": "",
+        "source": "theshamblog.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/tmustier/pi-for-excel",
+        "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+        "description": "Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi. - tmustier/pi-for-excel",
+        "image": "https://opengraph.githubassets.com/a5024ba93bf4bd19a6d9d70cd628085862fd1dadaeb6fd5717367ea28c2541ea/tmustier/pi-for-excel",
+        "source": "github.com",
+        "stats": "27 points · 3 comments"
+      },
+      {
+        "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+        "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+        "description": "Standard diffusion language models can&#x27;t use KV caching and need too many refinement steps to be practical. CDLM fixes both with a post-training recipe that enables exact block-wise KV caching and trajectory-consistent step reduction — delivering up to 14.5x latency improvements",
+        "image": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6996ae056c5e54d0c23d9553_Handoff%20CDML.png",
+        "source": "together.ai",
+        "stats": "16 points · 2 comments"
+      },
+      {
+        "url": "https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1",
+        "title": "Micron Is Spending $200B to Break the AI Memory Bottleneck",
+        "description": "6 points · 1 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://wesmckinney.com/blog/mythical-agent-month/",
+        "title": "The Mythical Agent-Month",
+        "description": "4 points · 1 comments",
+        "image": "https://wesmckinney.com/blog/mythical-agent-month/it-might-work.jpg",
+        "source": "wesmckinney.com",
+        "stats": ""
+      }
+    ],
     "2026-02-19": [
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+        "title": "Gemini 3.1 Pro",
+        "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png",
+        "source": "blog.google",
+        "stats": "630 points · 747 comments"
+      },
+      {
+        "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+        "title": "Gemini 3.1 Pro",
+        "description": "Gemini 3.1 Pro is the next iteration in the Gemini 3 series of models, a suite of highly capable, natively multimodal reasoning models.",
+        "image": "https://lh3.googleusercontent.com/JCgAdFZFMsgx8AZbHhRIx_RwHl1K9yRYOC13Q4rM6Ryo98Hp3xbgtPzAu2KAUWm7xL38oIbFi5G_qkwzjVvHMDryr0iKcvhPud9WStX2Jnoj3d8D3g=w1200-h630-n-nu-rw",
+        "source": "deepmind.google",
+        "stats": "602 points · 8 comments"
+      },
+      {
+        "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+        "title": "AI makes you boring",
+        "description": "This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the &ldquo;Show HN&rdquo; submissons.\nI don",
+        "image": "",
+        "source": "marginalia.nu",
+        "stats": "575 points · 324 comments"
+      },
       {
         "url": "https://code.claude.com/docs/en/legal-and-compliance",
         "title": "Anthropic officially bans using subscription auth for third party use",
         "description": "Legal agreements, compliance certifications, and security information for Claude Code.",
-        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DResources%26appearance%3Dsystem%26title%3DLegal%2Band%2Bcompliance%26description%3DLegal%2Bagreements%252C%2Bcompliance%2Bcertifications%252C%2Band%2Bsecurity%2Binformation%2Bfor%2BClaude%2BCode.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fo69F7a6qoW9vboof%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Do69F7a6qoW9vboof%2526q%253D85%2526s%253D536eade682636e84231afce2577f9509%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fo69F7a6qoW9vboof%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Do69F7a6qoW9vboof%2526q%253D85%2526s%253D0766b3221061e80143e9f300733e640b%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
+        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DResources%26appearance%3Dsystem%26title%3DLegal%2Band%2Bcompliance%26description%3DLegal%2Bagreements%252C%2Bcompliance%2Bcertifications%252C%2Band%2Bsecurity%2Binformation%2Bfor%2BClaude%2BCode.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
         "source": "code.claude.com",
-        "stats": "181 points · 193 comments"
+        "stats": "627 points · 749 comments"
       },
       {
-        "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-        "title": "How AI is affecting productivity and jobs in Europe",
-        "description": "Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.",
-        "image": "https://cepr.org/sites/default/files/styles/og_image/public/2026-02/AdobeStock_1772033845.jpeg?itok=jAPHpqwL,https://cepr.org/themes/nhsc-shared/nhsc_base/assets/img/default-social-share.png",
-        "source": "cepr.org",
-        "stats": "51 points · 21 comments"
-      },
-      {
-        "url": "https://www.auxos.dev",
-        "title": "Auxos: AI Agents for Product Feedback",
-        "description": "Test user actions with synthetic personas and get behavioral insights. AI-powered product testing for teams building for teens.",
-        "image": "",
-        "source": "auxos.dev",
-        "stats": "15 points · 4 comments"
-      },
-      {
-        "url": "https://www.prismor.dev/blog/openclaw-ai-agents-security-audit",
-        "title": "Security audit of OpenClaw and other similar open source AI Agents",
-        "description": "Our latest deep-dive security audit reveals a terrifying reality: most frameworks are acting as open doors for attackers. We ran a full-spectrum Software Composition Analysis, SBOM inspection and vulnerability scan across popular AI agents.",
-        "image": "https://prismor.dev/blog/og",
-        "source": "prismor.dev",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes",
-        "title": "I hacked ChatGPT and Google's AI – and it only took 20 minutes",
-        "description": "I found a way to make AI tell you lies – and I&#x27;m not the only one.",
-        "image": "https://ychef.files.bbci.co.uk/624x351/p0n1q1yt.jpg",
-        "source": "bbc.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+        "title": "AI is not a coworker, it's an exoskeleton",
+        "description": "Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.",
+        "image": "https://www.kasava.dev/og-image.jpg",
+        "source": "kasava.dev",
+        "stats": "193 points · 207 comments"
       }
     ],
     "2026-02-18": [
       {
         "url": "https://annas-archive.li/blog/llms-txt.html",
         "title": "If you’re an LLM, please read this",
-        "description": "823 points · 372 comments",
+        "description": "889 points · 384 comments",
         "image": "",
         "source": "annas-archive.li",
         "stats": ""
@@ -58,12 +100,12 @@
         "description": "In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”\n",
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
         "source": "fortune.com",
-        "stats": "773 points · 710 comments"
+        "stats": "782 points · 740 comments"
       },
       {
         "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
         "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
-        "description": "244 points · 146 comments",
+        "description": "352 points · 224 comments",
         "image": "",
         "source": "devblogs.microsoft.com",
         "stats": ""
@@ -74,12 +116,12 @@
         "description": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely on to protect sensitive information.",
         "image": "https://www.bleepstatic.com/content/hl-images/2025/09/16/Copilot_headpic.jpg",
         "source": "bleepingcomputer.com",
-        "stats": "247 points · 68 comments"
+        "stats": "266 points · 72 comments"
       },
       {
         "url": "https://martinfowler.com/fragments/2026-02-18.html",
         "title": "The Future of AI Software Development",
-        "description": "185 points · 137 comments",
+        "description": "201 points · 142 comments",
         "image": "",
         "source": "martinfowler.com",
         "stats": ""
@@ -92,57 +134,17 @@
         "description": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. ",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=clay",
         "source": "anthropic.com",
-        "stats": "1302 points · 1176 comments"
-      },
-      {
-        "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-        "title": "Semantic ablation: Why AI writing is generic and boring",
-        "description": "opinion: The subtractive bias we&#39;re ignoring",
-        "image": "https://regmedia.co.uk/2021/04/23/dog.jpg",
-        "source": "theregister.com",
-        "stats": "275 points · 208 comments"
-      },
-      {
-        "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-        "title": "Async/Await on the GPU",
-        "description": "GPU code can now use Rust&#x27;s async/await. We share the reasons why and what this unlocks for GPU programming.",
-        "image": "",
-        "source": "vectorware.com",
-        "stats": "223 points · 54 comments"
-      },
-      {
-        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
-        "title": "An AI Agent Published a Hit Piece on Me – Forensics and More Fallout",
-        "description": "118 points · 80 comments",
-        "image": "",
-        "source": "theshamblog.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/christopherkarani/Wax",
-        "title": "Sub-Millisecond RAG on Apple Silicon. No Server. No API. One File",
-        "description": "🍯 Memory layer for on-device AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer.  - GitHub - christopherkarani/Wax: 🍯 Memory layer for on-device AI Agents. Replace...",
-        "image": "https://opengraph.githubassets.com/fb909f6fb9e84532694afb9f751e442601c8f20dc18f5875d2d628ec97e82a17/christopherkarani/Wax",
-        "source": "github.com",
-        "stats": "128 points · 37 comments"
+        "stats": "1329 points · 1210 comments"
       }
     ],
     "2026-02-16": [
       {
-        "url": "https://jmail.world/jemini",
-        "title": "Show HN: Jemini – Gemini for the Epstein Files",
-        "description": "You are logged into jeevacation@gmail.com, Jeffrey Epstein&#x27;s email. Sourced from the November 2025 House Oversight Committee data release.",
-        "image": "https://jmail.world/social-preview.png",
-        "source": "jmail.world",
-        "stats": "476 points · 97 comments"
-      },
-      {
-        "url": "https://thinkqurio.com/",
-        "title": "Show HN: I built a \"Socratic\" AI to stop my daughter from copy-pasting homework",
-        "description": "Teach them to think, not just to search. The safe AI that builds logic from first principles.",
-        "image": "https://thinkqurio.com/og-main.png",
-        "source": "thinkqurio.com",
-        "stats": "32 points · 34 comments"
+        "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+        "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+        "description": "193 points · 79 comments",
+        "image": "",
+        "source": "royapakzad.substack.com",
+        "stats": ""
       }
     ],
     "2026-02-15": [
@@ -187,16 +189,6 @@
         "image": "https://substackcdn.com/image/fetch/$s_!XQAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89ee056a-0ea2-4473-8e1c-9b21f034c717_1474x2116.png",
         "source": "latent.space",
         "stats": "250 points · 324 comments"
-      }
-    ],
-    "2026-02-13": [
-      {
-        "url": "https://0byte.io/articles/pytorch_introduction.html",
-        "title": "Visual introduction to PyTorch",
-        "description": "An easy to follow, visual introduction to PyTorch.",
-        "image": "",
-        "source": "0byte.io",
-        "stats": "392 points · 28 comments"
       }
     ]
   }
