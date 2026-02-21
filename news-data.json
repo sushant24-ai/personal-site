@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-02-20T05:41:39.778Z",
+  "lastUpdated": "2026-02-21T05:14:12.270Z",
   "days": {
-    "2026-02-20": [
+    "2026-02-21": [
       {
-        "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-        "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
-        "description": "222 points · 172 comments",
+        "url": "https://github.com/anthropics/claude-code/issues/16856",
+        "title": "Excessive token usage in Claude Code",
+        "description": "Bug Description Starting from today&#39;s morning with the updated to CC 2.1.1 - the usage is ridiculous. I am working on the same projects for months, same routines, same time. But today it hits 5h li...",
+        "image": "https://opengraph.githubassets.com/f42421ec1cd0ea02ac0c9cb52c4b85059d9ce3ba739f7a420e1cc36bd942395d/anthropics/claude-code/issues/16856",
+        "source": "github.com",
+        "stats": "39 points · 7 comments"
+      },
+      {
+        "url": "https://www.june.kim/cord",
+        "title": "Cord: Coordinating Trees of AI Agents",
+        "description": "AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...",
+        "image": "https://www.june.kim/assets/default-icon.png",
+        "source": "june.kim",
+        "stats": "49 points · 17 comments"
+      },
+      {
+        "url": "https://twitter.com/karpathy/status/2024987174077432126",
+        "title": "Claws are now a new layer on top of LLM agents",
+        "description": "19 points · 8 comments",
         "image": "",
-        "source": "theshamblog.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/tmustier/pi-for-excel",
-        "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
-        "description": "Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi. - tmustier/pi-for-excel",
-        "image": "https://opengraph.githubassets.com/a5024ba93bf4bd19a6d9d70cd628085862fd1dadaeb6fd5717367ea28c2541ea/tmustier/pi-for-excel",
-        "source": "github.com",
-        "stats": "27 points · 3 comments"
-      },
-      {
-        "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-        "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-        "description": "Standard diffusion language models can&#x27;t use KV caching and need too many refinement steps to be practical. CDLM fixes both with a post-training recipe that enables exact block-wise KV caching and trajectory-consistent step reduction — delivering up to 14.5x latency improvements",
-        "image": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6996ae056c5e54d0c23d9553_Handoff%20CDML.png",
-        "source": "together.ai",
-        "stats": "16 points · 2 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/micron-is-spending-200-billion-to-break-the-ai-memory-bottleneck-a4cc74a1",
-        "title": "Micron Is Spending $200B to Break the AI Memory Bottleneck",
-        "description": "6 points · 1 comments",
+        "url": "https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62",
+        "title": "OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago",
+        "description": "9 points · 3 comments",
         "image": "",
         "source": "wsj.com",
         "stats": ""
       },
       {
-        "url": "https://wesmckinney.com/blog/mythical-agent-month/",
-        "title": "The Mythical Agent-Month",
-        "description": "4 points · 1 comments",
-        "image": "https://wesmckinney.com/blog/mythical-agent-month/it-might-work.jpg",
-        "source": "wesmckinney.com",
+        "url": "https://www.emailmarketingskill.com/",
+        "title": "Show HN: I built a 55K-word email marketing knowledge base and Claude Code skill",
+        "description": "The most comprehensive email marketing knowledge base, distilled into a Claude Code skill. 908 sources, 55,000 words, 19 industry playbooks. Free and open source.",
+        "image": "https://www.emailmarketingskill.com/og-image.png",
+        "source": "emailmarketingskill.com",
+        "stats": "8 points · 2 comments"
+      }
+    ],
+    "2026-02-20": [
+      {
+        "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+        "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+        "description": "Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...",
+        "image": "https://opengraph.githubassets.com/c8350f194081eeb077491b7a11693b1751402ab758c689a183d319fe4a75dfdb/ggml-org/llama.cpp/discussions/19759",
+        "source": "github.com",
+        "stats": "693 points · 175 comments"
+      },
+      {
+        "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+        "title": "The path to ubiquitous AI (17k tokens/sec)",
+        "description": "By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...",
+        "image": "https://taalas.com/h-content/themes/h-theme-child/media/blank-featured.png",
+        "source": "taalas.com",
+        "stats": "695 points · 397 comments"
+      },
+      {
+        "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+        "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+        "description": "516 points · 460 comments",
+        "image": "",
+        "source": "theshamblog.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+        "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+        "description": "Chipmaker swaps last year’s complex framework with AI start-up in favour of equity cheque",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd58e764a-dfd3-4747-a1d5-684d26084849.jpg?source=next-barrier-page",
+        "source": "ft.com",
+        "stats": "290 points · 317 comments"
+      },
+      {
+        "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+        "title": "Every company building your AI assistant is now an ad company",
+        "description": "Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.",
+        "image": "https://juno-labs.com/public/juno_logo.png",
+        "source": "juno-labs.com",
+        "stats": "137 points · 64 comments"
       }
     ],
     "2026-02-19": [
@@ -50,15 +92,7 @@
         "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png",
         "source": "blog.google",
-        "stats": "630 points · 747 comments"
-      },
-      {
-        "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
-        "title": "Gemini 3.1 Pro",
-        "description": "Gemini 3.1 Pro is the next iteration in the Gemini 3 series of models, a suite of highly capable, natively multimodal reasoning models.",
-        "image": "https://lh3.googleusercontent.com/JCgAdFZFMsgx8AZbHhRIx_RwHl1K9yRYOC13Q4rM6Ryo98Hp3xbgtPzAu2KAUWm7xL38oIbFi5G_qkwzjVvHMDryr0iKcvhPud9WStX2Jnoj3d8D3g=w1200-h630-n-nu-rw",
-        "source": "deepmind.google",
-        "stats": "602 points · 8 comments"
+        "stats": "932 points · 887 comments"
       },
       {
         "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
@@ -66,7 +100,7 @@
         "description": "This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the &ldquo;Show HN&rdquo; submissons.\nI don",
         "image": "",
         "source": "marginalia.nu",
-        "stats": "575 points · 324 comments"
+        "stats": "680 points · 367 comments"
       },
       {
         "url": "https://code.claude.com/docs/en/legal-and-compliance",
@@ -74,7 +108,15 @@
         "description": "Legal agreements, compliance certifications, and security information for Claude Code.",
         "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DResources%26appearance%3Dsystem%26title%3DLegal%2Band%2Bcompliance%26description%3DLegal%2Bagreements%252C%2Bcompliance%2Bcertifications%252C%2Band%2Bsecurity%2Binformation%2Bfor%2BClaude%2BCode.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
         "source": "code.claude.com",
-        "stats": "627 points · 749 comments"
+        "stats": "645 points · 776 comments"
+      },
+      {
+        "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+        "title": "Gemini 3.1 Pro",
+        "description": "Gemini 3.1 Pro is the next iteration in the Gemini 3 series of models, a suite of highly capable, natively multimodal reasoning models.",
+        "image": "https://lh3.googleusercontent.com/JCgAdFZFMsgx8AZbHhRIx_RwHl1K9yRYOC13Q4rM6Ryo98Hp3xbgtPzAu2KAUWm7xL38oIbFi5G_qkwzjVvHMDryr0iKcvhPud9WStX2Jnoj3d8D3g=w1200-h630-n-nu-rw",
+        "source": "deepmind.google",
+        "stats": "608 points · 9 comments"
       },
       {
         "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
@@ -82,49 +124,25 @@
         "description": "Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.",
         "image": "https://www.kasava.dev/og-image.jpg",
         "source": "kasava.dev",
-        "stats": "193 points · 207 comments"
+        "stats": "496 points · 535 comments"
       }
     ],
     "2026-02-18": [
       {
         "url": "https://annas-archive.li/blog/llms-txt.html",
         "title": "If you’re an LLM, please read this",
-        "description": "889 points · 384 comments",
+        "description": "898 points · 387 comments",
         "image": "",
         "source": "annas-archive.li",
         "stats": ""
       },
       {
-        "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-        "title": "AI adoption and Solow's productivity paradox",
-        "description": "In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”\n",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "782 points · 740 comments"
-      },
-      {
-        "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-        "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
-        "description": "352 points · 224 comments",
-        "image": "",
-        "source": "devblogs.microsoft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-        "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-        "description": "Microsoft says a Microsoft 365 Copilot bug has been causing the AI assistant to summarize confidential emails since late January, bypassing data loss prevention (DLP) policies that organizations rely on to protect sensitive information.",
-        "image": "https://www.bleepstatic.com/content/hl-images/2025/09/16/Copilot_headpic.jpg",
-        "source": "bleepingcomputer.com",
-        "stats": "266 points · 72 comments"
-      },
-      {
-        "url": "https://martinfowler.com/fragments/2026-02-18.html",
-        "title": "The Future of AI Software Development",
-        "description": "201 points · 142 comments",
-        "image": "",
-        "source": "martinfowler.com",
-        "stats": ""
+        "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+        "title": "What years of production-grade concurrency teaches us about building AI agents",
+        "description": "Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.",
+        "image": "https://images.unsplash.com/photo-1730733310261-daa059b7c017?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDkxfHx0ZWxlcGhvbmUlMjBzd2l0Y2h8ZW58MHx8fHwxNzcwNzkxNjk4fDA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "georgeguimaraes.com",
+        "stats": "136 points · 50 comments"
       }
     ],
     "2026-02-17": [
@@ -134,14 +152,14 @@
         "description": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. ",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=clay",
         "source": "anthropic.com",
-        "stats": "1329 points · 1210 comments"
+        "stats": "1335 points · 1216 comments"
       }
     ],
     "2026-02-16": [
       {
         "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
         "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-        "description": "193 points · 79 comments",
+        "description": "221 points · 86 comments",
         "image": "",
         "source": "royapakzad.substack.com",
         "stats": ""
@@ -163,32 +181,6 @@
         "image": "",
         "source": "martinfowler.com",
         "stats": ""
-      }
-    ],
-    "2026-02-14": [
-      {
-        "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-        "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-        "description": "566 points · 364 comments",
-        "image": "",
-        "source": "niemanlab.org",
-        "stats": ""
-      },
-      {
-        "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-        "title": "An AI agent published a hit piece on me – more things have happened",
-        "description": "752 points · 616 comments",
-        "image": "",
-        "source": "theshamblog.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-        "title": "OpenAI should build Slack",
-        "description": "a quiet day lets us answer a Sam Altman question: what should he build next?",
-        "image": "https://substackcdn.com/image/fetch/$s_!XQAE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89ee056a-0ea2-4473-8e1c-9b21f034c717_1474x2116.png",
-        "source": "latent.space",
-        "stats": "250 points · 324 comments"
       }
     ]
   }
