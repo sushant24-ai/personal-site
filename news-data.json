@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-02-21T05:14:12.270Z",
+  "lastUpdated": "2026-02-22T05:39:09.771Z",
   "days": {
-    "2026-02-21": [
+    "2026-02-22": [
       {
-        "url": "https://github.com/anthropics/claude-code/issues/16856",
-        "title": "Excessive token usage in Claude Code",
-        "description": "Bug Description Starting from today&#39;s morning with the updated to CC 2.1.1 - the usage is ridiculous. I am working on the same projects for months, same routines, same time. But today it hits 5h li...",
-        "image": "https://opengraph.githubassets.com/f42421ec1cd0ea02ac0c9cb52c4b85059d9ce3ba739f7a420e1cc36bd942395d/anthropics/claude-code/issues/16856",
-        "source": "github.com",
-        "stats": "39 points · 7 comments"
+        "url": "https://boristane.com/blog/how-i-use-claude-code/",
+        "title": "How I use Claude Code: Separation of planning and execution",
+        "description": "The research-plan-implement workflow I use to build software with Claude Code, and why I never let it write code until I",
+        "image": "https://boristane.com/assets/blog/how-i-use-claude-code/og.png",
+        "source": "boristane.com",
+        "stats": "272 points · 157 comments"
       },
       {
-        "url": "https://www.june.kim/cord",
-        "title": "Cord: Coordinating Trees of AI Agents",
-        "description": "AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...",
-        "image": "https://www.june.kim/assets/default-icon.png",
-        "source": "june.kim",
-        "stats": "49 points · 17 comments"
+        "url": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
+        "title": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
+        "description": "A comprehensive guide to Palantir Foundry&#39;s Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。 - Leading-AI-IO/palantir-ontology-strategy",
+        "image": "https://opengraph.githubassets.com/ba72d525210c90f43feb68e934e30b3da1cfa20925614ce9dc7404d84cc5a257/Leading-AI-IO/palantir-ontology-strategy",
+        "source": "github.com",
+        "stats": "66 points · 43 comments"
+      },
+      {
+        "url": "https://opennhp.org/blog/the-internet-is-becoming-a-dark-forest.html",
+        "title": "The Internet Is Becoming a Dark Forest – and AI Is the Hunter",
+        "description": "In the AI era, visibility equals vulnerability. A shift from Zero Trust to Zero Visibility is underway.",
+        "image": "https://opennhp.org/assets/images/zero-visibility-architecture.jpeg",
+        "source": "opennhp.org",
+        "stats": "22 points · 22 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6uKZ84zwJI0",
+        "title": "I'm #1 on Google thanks to AI bullshit [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "18 points · 0 comments"
+      },
+      {
+        "url": "https://9to5mac.com/2026/02/20/apple-researchers-develop-on-device-ai-agent-that-interacts-with-apps-for-you/",
+        "title": "Apple researchers develop on-device AI agent that interacts with apps for you",
+        "description": "Despite having just 3 billion parameters, Ferret-UI Lite matches or surpasses the benchmark performance of models up to 24 times larger.",
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/Reddit-is-being-spammed-by-AI-bots-and-its-all-Reddits-fault.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "source": "9to5mac.com",
+        "stats": "9 points · 2 comments"
+      }
+    ],
+    "2026-02-21": [
+      {
+        "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+        "title": "Why is Claude an Electron app?",
+        "description": "If code is free, why aren’t all apps native?",
+        "image": "https://www.dbreunig.com/img/sf_beach_og.jpg",
+        "source": "dbreunig.com",
+        "stats": "357 points · 342 comments"
+      },
+      {
+        "url": "https://github.com/xaskasdf/ntransformer",
+        "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+        "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer",
+        "image": "https://opengraph.githubassets.com/280dbce8d21dd3b3a4bacbd5104fd8d36a55e49cd248b1397b9c40c3c088bd42/xaskasdf/ntransformer",
+        "source": "github.com",
+        "stats": "172 points · 39 comments"
+      },
+      {
+        "url": "https://github.com/alvi-se/ai-ublock-blacklist",
+        "title": "AI uBlock Blacklist",
+        "description": "Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist",
+        "image": "https://opengraph.githubassets.com/4853512430c07df268b3aabf53ca8dc2d546a38158f895da93903720ccfed34f/alvi-se/ai-ublock-blacklist",
+        "source": "github.com",
+        "stats": "241 points · 107 comments"
       },
       {
         "url": "https://twitter.com/karpathy/status/2024987174077432126",
         "title": "Claws are now a new layer on top of LLM agents",
-        "description": "19 points · 8 comments",
+        "description": "242 points · 686 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62",
-        "title": "OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago",
-        "description": "9 points · 3 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.emailmarketingskill.com/",
-        "title": "Show HN: I built a 55K-word email marketing knowledge base and Claude Code skill",
-        "description": "The most comprehensive email marketing knowledge base, distilled into a Claude Code skill. 908 sources, 55,000 words, 19 industry playbooks. Free and open source.",
-        "image": "https://www.emailmarketingskill.com/og-image.png",
-        "source": "emailmarketingskill.com",
-        "stats": "8 points · 2 comments"
+        "url": "https://github.com/tnm/zclaw",
+        "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+        "description": "Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw",
+        "image": "https://opengraph.githubassets.com/89f23d6a3d15d0a25fc8de64a8209eb4cfd659f8177b9acdb95751ebf52ecef6/tnm/zclaw",
+        "source": "github.com",
+        "stats": "136 points · 77 comments"
       }
     ],
     "2026-02-20": [
@@ -48,9 +90,9 @@
         "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
         "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
         "description": "Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...",
-        "image": "https://opengraph.githubassets.com/c8350f194081eeb077491b7a11693b1751402ab758c689a183d319fe4a75dfdb/ggml-org/llama.cpp/discussions/19759",
+        "image": "https://opengraph.githubassets.com/e00cea67df3b50b96b685bc71ae4dd466a38002f7cbc56368eb4cd1dcf385d24/ggml-org/llama.cpp/discussions/19759",
         "source": "github.com",
-        "stats": "693 points · 175 comments"
+        "stats": "814 points · 217 comments"
       },
       {
         "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
@@ -58,15 +100,7 @@
         "description": "By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...",
         "image": "https://taalas.com/h-content/themes/h-theme-child/media/blank-featured.png",
         "source": "taalas.com",
-        "stats": "695 points · 397 comments"
-      },
-      {
-        "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-        "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
-        "description": "516 points · 460 comments",
-        "image": "",
-        "source": "theshamblog.com",
-        "stats": ""
+        "stats": "815 points · 444 comments"
       },
       {
         "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
@@ -74,7 +108,7 @@
         "description": "Chipmaker swaps last year’s complex framework with AI start-up in favour of equity cheque",
         "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd58e764a-dfd3-4747-a1d5-684d26084849.jpg?source=next-barrier-page",
         "source": "ft.com",
-        "stats": "290 points · 317 comments"
+        "stats": "296 points · 328 comments"
       },
       {
         "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
@@ -82,7 +116,15 @@
         "description": "Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.",
         "image": "https://juno-labs.com/public/juno_logo.png",
         "source": "juno-labs.com",
-        "stats": "137 points · 64 comments"
+        "stats": "300 points · 160 comments"
+      },
+      {
+        "url": "https://twitter.com/peterjliu/status/2024901585806225723",
+        "title": "Uncovering insiders and alpha on Polymarket with AI",
+        "description": "140 points · 131 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
       }
     ],
     "2026-02-19": [
@@ -92,31 +134,7 @@
         "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png",
         "source": "blog.google",
-        "stats": "932 points · 887 comments"
-      },
-      {
-        "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-        "title": "AI makes you boring",
-        "description": "This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the &ldquo;Show HN&rdquo; submissons.\nI don",
-        "image": "",
-        "source": "marginalia.nu",
-        "stats": "680 points · 367 comments"
-      },
-      {
-        "url": "https://code.claude.com/docs/en/legal-and-compliance",
-        "title": "Anthropic officially bans using subscription auth for third party use",
-        "description": "Legal agreements, compliance certifications, and security information for Claude Code.",
-        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DResources%26appearance%3Dsystem%26title%3DLegal%2Band%2Bcompliance%26description%3DLegal%2Bagreements%252C%2Bcompliance%2Bcertifications%252C%2Band%2Bsecurity%2Binformation%2Bfor%2BClaude%2BCode.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
-        "source": "code.claude.com",
-        "stats": "645 points · 776 comments"
-      },
-      {
-        "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
-        "title": "Gemini 3.1 Pro",
-        "description": "Gemini 3.1 Pro is the next iteration in the Gemini 3 series of models, a suite of highly capable, natively multimodal reasoning models.",
-        "image": "https://lh3.googleusercontent.com/JCgAdFZFMsgx8AZbHhRIx_RwHl1K9yRYOC13Q4rM6Ryo98Hp3xbgtPzAu2KAUWm7xL38oIbFi5G_qkwzjVvHMDryr0iKcvhPud9WStX2Jnoj3d8D3g=w1200-h630-n-nu-rw",
-        "source": "deepmind.google",
-        "stats": "608 points · 9 comments"
+        "stats": "950 points · 902 comments"
       },
       {
         "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
@@ -124,7 +142,23 @@
         "description": "Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.",
         "image": "https://www.kasava.dev/og-image.jpg",
         "source": "kasava.dev",
-        "stats": "496 points · 535 comments"
+        "stats": "509 points · 566 comments"
+      },
+      {
+        "url": "https://makie.org/website/blogposts/raytracing/",
+        "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+        "description": "195 points · 91 comments",
+        "image": "",
+        "source": "makie.org",
+        "stats": ""
+      },
+      {
+        "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+        "title": "Measuring AI agent autonomy in practice",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&amp;backgroundColor=olive",
+        "source": "anthropic.com",
+        "stats": "117 points · 49 comments"
       }
     ],
     "2026-02-18": [
@@ -152,7 +186,15 @@
         "description": "Claude Sonnet 4.6 is a full upgrade of the model’s skills across coding, computer use, long-reasoning, agent planning, knowledge work, and design. ",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=clay",
         "source": "anthropic.com",
-        "stats": "1335 points · 1216 comments"
+        "stats": "1338 points · 1220 comments"
+      },
+      {
+        "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+        "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
+        "description": "130 points · 60 comments",
+        "image": "",
+        "source": "venturebeat.com",
+        "stats": ""
       }
     ],
     "2026-02-16": [
@@ -162,24 +204,6 @@
         "description": "221 points · 86 comments",
         "image": "",
         "source": "royapakzad.substack.com",
-        "stats": ""
-      }
-    ],
-    "2026-02-15": [
-      {
-        "url": "https://steipete.me/posts/2026/openclaw",
-        "title": "I’m joining OpenAI",
-        "description": "I",
-        "image": "https://steipete.me/posts/2026/openclaw/index.png",
-        "source": "steipete.me",
-        "stats": "1435 points · 1120 comments"
-      },
-      {
-        "url": "https://martinfowler.com/bliki/SemanticDiffusion.html",
-        "title": "Semantic Diffusion (2006)",
-        "description": "27 points · 16 comments",
-        "image": "",
-        "source": "martinfowler.com",
         "stats": ""
       }
     ]
