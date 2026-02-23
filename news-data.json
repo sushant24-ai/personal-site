@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-02-22T05:39:09.771Z",
+  "lastUpdated": "2026-02-23T05:57:10.953Z",
   "days": {
+    "2026-02-23": [
+      {
+        "url": "https://agenticse-book.github.io/",
+        "title": "Agentic Software Engineering Book",
+        "description": "A comprehensive guide to Agentic Software Engineering. Learn how AI agents are transforming the software development lifecycle.",
+        "image": "",
+        "source": "agenticse-book.github.io",
+        "stats": "54 points · 25 comments"
+      },
+      {
+        "url": "https://github.com/quailyquaily/aqua",
+        "title": "Aqua: A CLI message tool for AI agents",
+        "description": "Aqua, a cli message tool for AI agents . Contribute to quailyquaily/aqua development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/ac829261864927e4b7766a0e72bb6b43f39feb173d4b1498e7f4acc2b11fe854/quailyquaily/aqua",
+        "source": "github.com",
+        "stats": "29 points · 16 comments"
+      },
+      {
+        "url": "https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/",
+        "title": "Pinterest is drowning in a sea of AI slop and auto-moderation",
+        "description": "Users are exhausted fighting AI moderation, AI-generated art, and AI-first features.",
+        "image": "https://images.unsplash.com/photo-1636044594149-6e2f289c3868?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDF8fFBpbnRlcmVzdHxlbnwwfHx8fDE3NzEzNDAzNzJ8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "404media.co",
+        "stats": "8 points · 1 comments"
+      },
+      {
+        "url": "https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/",
+        "title": "Phoebe Gates wants her $185M AI startup to succeed without 'my last name'",
+        "description": "The daughter of Bill Gates and Melinda French Gates acknowledges her privilege, but says she’s building her own thing without their help.",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2214925234-e1771613783530.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers",
+        "title": "Top '28 Dems retreat on AI – sign of rising backlash",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
+      }
+    ],
     "2026-02-22": [
       {
         "url": "https://boristane.com/blog/how-i-use-claude-code/",
@@ -8,39 +50,39 @@
         "description": "The research-plan-implement workflow I use to build software with Claude Code, and why I never let it write code until I",
         "image": "https://boristane.com/assets/blog/how-i-use-claude-code/og.png",
         "source": "boristane.com",
-        "stats": "272 points · 157 comments"
+        "stats": "888 points · 554 comments"
+      },
+      {
+        "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+        "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+        "description": "I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...",
+        "image": "https://d3qe71uytubmmx.cloudfront.net/original/2X/8/8bfe64fc593eb7baba8df149ebba4457c16ca1f9.png",
+        "source": "discuss.ai.google.dev",
+        "stats": "465 points · 378 comments"
+      },
+      {
+        "url": "https://quesma.com/blog/introducing-binaryaudit/",
+        "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+        "description": "BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.",
+        "image": "https://quesma.com/_astro/overall_ranking.CRL7hnOy.png",
+        "source": "quesma.com",
+        "stats": "218 points · 93 comments"
+      },
+      {
+        "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+        "title": "Minions: Stripe’s one-shot, end-to-end coding agents",
+        "description": "Minions are Stripe’s homegrown coding agents, responsible for more than a thousand pull requests merged each week. Though humans review the code, minions write it from start to finish. Learn how they work, and how we built them.",
+        "image": "https://images.ctfassets.net/fzn2n1nzq965/1IiEdIR6LsEY9aym5JQM6u/85a9a55f58137d9d1fac99319658081b/dev_social.png",
+        "source": "stripe.dev",
+        "stats": "92 points · 74 comments"
       },
       {
         "url": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
         "title": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
         "description": "A comprehensive guide to Palantir Foundry&#39;s Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。 - Leading-AI-IO/palantir-ontology-strategy",
-        "image": "https://opengraph.githubassets.com/ba72d525210c90f43feb68e934e30b3da1cfa20925614ce9dc7404d84cc5a257/Leading-AI-IO/palantir-ontology-strategy",
+        "image": "https://opengraph.githubassets.com/699141612ea24451130d8f62c0e7899f9676a2a2152300873e2da084b5da3f0f/Leading-AI-IO/palantir-ontology-strategy",
         "source": "github.com",
-        "stats": "66 points · 43 comments"
-      },
-      {
-        "url": "https://opennhp.org/blog/the-internet-is-becoming-a-dark-forest.html",
-        "title": "The Internet Is Becoming a Dark Forest – and AI Is the Hunter",
-        "description": "In the AI era, visibility equals vulnerability. A shift from Zero Trust to Zero Visibility is underway.",
-        "image": "https://opennhp.org/assets/images/zero-visibility-architecture.jpeg",
-        "source": "opennhp.org",
-        "stats": "22 points · 22 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=6uKZ84zwJI0",
-        "title": "I'm #1 on Google thanks to AI bullshit [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "18 points · 0 comments"
-      },
-      {
-        "url": "https://9to5mac.com/2026/02/20/apple-researchers-develop-on-device-ai-agent-that-interacts-with-apps-for-you/",
-        "title": "Apple researchers develop on-device AI agent that interacts with apps for you",
-        "description": "Despite having just 3 billion parameters, Ferret-UI Lite matches or surpasses the benchmark performance of models up to 24 times larger.",
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/Reddit-is-being-spammed-by-AI-bots-and-its-all-Reddits-fault.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "source": "9to5mac.com",
-        "stats": "9 points · 2 comments"
+        "stats": "81 points · 56 comments"
       }
     ],
     "2026-02-21": [
@@ -50,28 +92,28 @@
         "description": "If code is free, why aren’t all apps native?",
         "image": "https://www.dbreunig.com/img/sf_beach_og.jpg",
         "source": "dbreunig.com",
-        "stats": "357 points · 342 comments"
+        "stats": "410 points · 434 comments"
       },
       {
         "url": "https://github.com/xaskasdf/ntransformer",
         "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
         "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer",
-        "image": "https://opengraph.githubassets.com/280dbce8d21dd3b3a4bacbd5104fd8d36a55e49cd248b1397b9c40c3c088bd42/xaskasdf/ntransformer",
+        "image": "https://opengraph.githubassets.com/adf270f3f5b5e172be5ed0ceedbfb31011d9f6b9eeeb50f4bcae555bc9799654/xaskasdf/ntransformer",
         "source": "github.com",
-        "stats": "172 points · 39 comments"
+        "stats": "373 points · 94 comments"
       },
       {
-        "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-        "title": "AI uBlock Blacklist",
-        "description": "Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist",
-        "image": "https://opengraph.githubassets.com/4853512430c07df268b3aabf53ca8dc2d546a38158f895da93903720ccfed34f/alvi-se/ai-ublock-blacklist",
-        "source": "github.com",
-        "stats": "241 points · 107 comments"
+        "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+        "title": "How Taalas “prints” LLM onto a chip?",
+        "description": "397 points · 245 comments",
+        "image": "",
+        "source": "anuragk.com",
+        "stats": ""
       },
       {
         "url": "https://twitter.com/karpathy/status/2024987174077432126",
         "title": "Claws are now a new layer on top of LLM agents",
-        "description": "242 points · 686 comments",
+        "description": "396 points · 892 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -79,10 +121,10 @@
       {
         "url": "https://github.com/tnm/zclaw",
         "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-        "description": "Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw",
-        "image": "https://opengraph.githubassets.com/89f23d6a3d15d0a25fc8de64a8209eb4cfd659f8177b9acdb95751ebf52ecef6/tnm/zclaw",
+        "description": "Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more. - tnm/zclaw",
+        "image": "https://opengraph.githubassets.com/a633c6def652376fb6a65e4ee2d79a0fd9bf06c56380cdd14f56cd3960ee0dbe/tnm/zclaw",
         "source": "github.com",
-        "stats": "136 points · 77 comments"
+        "stats": "263 points · 145 comments"
       }
     ],
     "2026-02-20": [
@@ -92,23 +134,7 @@
         "description": "Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...",
         "image": "https://opengraph.githubassets.com/e00cea67df3b50b96b685bc71ae4dd466a38002f7cbc56368eb4cd1dcf385d24/ggml-org/llama.cpp/discussions/19759",
         "source": "github.com",
-        "stats": "814 points · 217 comments"
-      },
-      {
-        "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-        "title": "The path to ubiquitous AI (17k tokens/sec)",
-        "description": "By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...",
-        "image": "https://taalas.com/h-content/themes/h-theme-child/media/blank-featured.png",
-        "source": "taalas.com",
-        "stats": "815 points · 444 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-        "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
-        "description": "Chipmaker swaps last year’s complex framework with AI start-up in favour of equity cheque",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd58e764a-dfd3-4747-a1d5-684d26084849.jpg?source=next-barrier-page",
-        "source": "ft.com",
-        "stats": "296 points · 328 comments"
+        "stats": "826 points · 224 comments"
       },
       {
         "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
@@ -116,12 +142,12 @@
         "description": "Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.",
         "image": "https://juno-labs.com/public/juno_logo.png",
         "source": "juno-labs.com",
-        "stats": "300 points · 160 comments"
+        "stats": "310 points · 166 comments"
       },
       {
         "url": "https://twitter.com/peterjliu/status/2024901585806225723",
         "title": "Uncovering insiders and alpha on Polymarket with AI",
-        "description": "140 points · 131 comments",
+        "description": "154 points · 160 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -134,31 +160,7 @@
         "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png",
         "source": "blog.google",
-        "stats": "950 points · 902 comments"
-      },
-      {
-        "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-        "title": "AI is not a coworker, it's an exoskeleton",
-        "description": "Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.",
-        "image": "https://www.kasava.dev/og-image.jpg",
-        "source": "kasava.dev",
-        "stats": "509 points · 566 comments"
-      },
-      {
-        "url": "https://makie.org/website/blogposts/raytracing/",
-        "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-        "description": "195 points · 91 comments",
-        "image": "",
-        "source": "makie.org",
-        "stats": ""
-      },
-      {
-        "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-        "title": "Measuring AI agent autonomy in practice",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&amp;backgroundColor=olive",
-        "source": "anthropic.com",
-        "stats": "117 points · 49 comments"
+        "stats": "953 points · 907 comments"
       }
     ],
     "2026-02-18": [
@@ -194,16 +196,6 @@
         "description": "130 points · 60 comments",
         "image": "",
         "source": "venturebeat.com",
-        "stats": ""
-      }
-    ],
-    "2026-02-16": [
-      {
-        "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-        "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-        "description": "221 points · 86 comments",
-        "image": "",
-        "source": "royapakzad.substack.com",
         "stats": ""
       }
     ]
