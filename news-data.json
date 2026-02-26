@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-02-25T05:48:34.955Z",
+  "lastUpdated": "2026-02-26T05:45:42.037Z",
   "days": {
+    "2026-02-26": [
+      {
+        "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/",
+        "title": "The Hater's Guide to Anthropic",
+        "description": "In May 2021, Dario Amodei and a crew of other former OpenAI researchers formed Anthropic and dedicated themselves to building the single-most-annoying Large Language Model company of all time. \n\nPardon me, sorry, I mean safest, because that’s the reason that Amodei and his crew claimed was why they left",
+        "image": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+        "source": "wheresyoured.at",
+        "stats": "24 points · 6 comments"
+      },
+      {
+        "url": "https://github.com/Zyora-Dev/zse",
+        "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
+        "description": "Zyora Server Inference Engine for LLM . . Contribute to Zyora-Dev/zse development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/501351386a5347526c0fdecc31f4bb39b0834136224325e68382c196a6641815/Zyora-Dev/zse",
+        "source": "github.com",
+        "stats": "34 points · 1 comments"
+      },
+      {
+        "url": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/",
+        "title": "DeepSeek withholds latest AI model from Nvidia, AMD",
+        "description": "18 points · 3 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/Intrect-io/OpenSwarm",
+        "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
+        "description": "OpenSwarm, CLI Code Agent Orchstrator. Contribute to Intrect-io/OpenSwarm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/2a47b106bb2c45afeba25726708d32ecfa42439c397867b26cebe8c2dc766205/Intrect-io/OpenSwarm",
+        "source": "github.com",
+        "stats": "15 points · 3 comments"
+      },
+      {
+        "url": "https://twitter.com/gothburz/status/2026810017593057739",
+        "title": "We left OpenAI because of safety",
+        "description": "9 points · 3 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      }
+    ],
     "2026-02-25": [
       {
         "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
@@ -8,39 +50,39 @@
         "description": "In an abrupt shift, the company may release future AI models without ironclad safety guarantees",
         "image": "https://api.time.com/wp-content/uploads/2026/02/Anthropic.jpg?quality=85&amp;w=1200&amp;h=628&amp;crop=1",
         "source": "time.com",
-        "stats": "155 points · 52 comments"
+        "stats": "619 points · 296 comments"
       },
       {
-        "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
-        "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
-        "description": "Anthropic presents itself as most safety-forward AI firm and Pentagon has threatened penalties if it does not yield",
-        "image": "https://i.guim.co.uk/img/media/a35ad60baa8fdf0770c89f9ae69d2c544829ba6e/0_454_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=209875d0598fbde7e428ae5034982e1b",
-        "source": "theguardian.com",
-        "stats": "110 points · 40 comments"
+        "url": "https://code.claude.com/docs/en/remote-control",
+        "title": "Claude Code Remote Control",
+        "description": "Continue a local Claude Code session from your phone, tablet, or any browser using Remote Control. Works with claude.ai/code and the Claude mobile app.",
+        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DPlatforms%2Band%2Bintegrations%26appearance%3Dsystem%26title%3DContinue%2Blocal%2Bsessions%2Bfrom%2Bany%2Bdevice%2Bwith%2BRemote%2BControl%26description%3DContinue%2Ba%2Blocal%2BClaude%2BCode%2Bsession%2Bfrom%2Byour%2Bphone%252C%2Btablet%252C%2Bor%2Bany%2Bbrowser%2Busing%2BRemote%2BControl.%2BWorks%2Bwith%2Bclaude.ai%252Fcode%2Band%2Bthe%2BClaude%2Bmobile%2Bapp.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
+        "source": "code.claude.com",
+        "stats": "515 points · 300 comments"
       },
       {
-        "url": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
-        "title": "Pentagon Gives Anthropic an Ultimatum",
-        "description": "25 points · 3 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+        "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+        "description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that",
+        "image": "https://framerusercontent.com/images/YDDp8rnck6rG7jTHoAV4O5bs.png?width=1024&amp;height=572",
+        "source": "trufflesecurity.com",
+        "stats": "208 points · 47 comments"
       },
       {
-        "url": "https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84",
-        "title": "Tech Firms Aren't Just Encouraging Their Workers to Use AI. They're Enforcing It",
-        "description": "10 points · 1 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic",
+        "title": "The Pentagon threatens Anthropic",
+        "description": "...",
+        "image": "https://substackcdn.com/image/fetch/$s_!NGva!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a07417c-c5a7-4384-8722-a022a6b8ff75_2102x1052.jpeg",
+        "source": "astralcodexten.com",
+        "stats": "166 points · 111 comments"
       },
       {
-        "url": "https://www.pbs.org/newshour/world/ap-report-hegseth-warns-anthropic-to-let-the-military-use-companys-ai-tech-as-it-sees-fit",
-        "title": "Hegseth demands Anthropic to allow unrestricted military use of Claude",
-        "description": "Defense Secretary Pete Hegseth gave Anthropic&#039;s CEO a Friday deadline to open the company&#039;s artificial intelligence technology for unrestricted military use or risk losing its government contract, according to a person familiar with their meeting.",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-06T165423Z_1780749485_RC2EGJAM64XM_RTRMADP_3_USA-DEFENSE-1-1024x693.jpg",
-        "source": "pbs.org",
-        "stats": "7 points · 1 comments"
+        "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+        "title": "How will OpenAI compete?",
+        "description": "OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie",
+        "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6993b59b8517240d2235240a/1771507646532/Frontier%2BLanguage%2BModel%2BIntelligence%2C%2BOver%2BTime%2B%2824%2BJan%2B%2726%29%2B-2.png.webp?format=1500w",
+        "source": "ben-evans.com",
+        "stats": "126 points · 125 comments"
       }
     ],
     "2026-02-24": [
@@ -50,7 +92,7 @@
         "description": "53MB of source code leaked from a government endpoint. 269 verification checks. biometric face databases. SAR filings to FinCEN. and the same company that verifies your ChatGPT account.",
         "image": "",
         "source": "vmfunc.re",
-        "stats": "524 points · 162 comments"
+        "stats": "639 points · 197 comments"
       },
       {
         "url": "https://blog.cloudflare.com/vinext/",
@@ -58,7 +100,15 @@
         "description": "One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.",
         "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/720QQcrdICiSJXrr9VoixA/4934fffd05d1ca10cc661238b381308e/BLOG-3194_OG.png",
         "source": "blog.cloudflare.com",
-        "stats": "413 points · 159 comments"
+        "stats": "510 points · 219 comments"
+      },
+      {
+        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+        "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+        "description": "Today, we",
+        "image": "https://framerusercontent.com/assets/xqKJszO4tzsVEusCSL14t11EJZg.png",
+        "source": "inceptionlabs.ai",
+        "stats": "339 points · 123 comments"
       },
       {
         "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
@@ -66,7 +116,7 @@
         "description": "The latest update of Firefox, version 148, introduces a much-anticipated &quot;AI kill switch&quot; feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company&#8217;s new revenue-focused strategy regarding AI integrations. [&hellip;]",
         "image": "",
         "source": "serverhost.com",
-        "stats": "450 points · 378 comments"
+        "stats": "459 points · 387 comments"
       },
       {
         "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
@@ -74,15 +124,7 @@
         "description": "OpenAI told investors it&#x27;s targeting roughly $600 billion in total compute spend by 2030, trying to clarify its plans after touting a $1.4 trillion figure.",
         "image": "https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg?v=1771233114&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "194 points · 166 comments"
-      },
-      {
-        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-        "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
-        "description": "Today, we",
-        "image": "https://framerusercontent.com/assets/xqKJszO4tzsVEusCSL14t11EJZg.png",
-        "source": "inceptionlabs.ai",
-        "stats": "145 points · 76 comments"
+        "stats": "217 points · 191 comments"
       }
     ],
     "2026-02-23": [
@@ -92,39 +134,7 @@
         "description": "We",
         "image": "https://ladybird.org/assets/img/plant.webp",
         "source": "ladybird.org",
-        "stats": "1253 points · 691 comments"
-      },
-      {
-        "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-        "title": "Pope tells priests to use their brains, not AI, to write homilies",
-        "description": "Here’s what Leo said in a private Q-and-A with priests this week.",
-        "image": "https://res.cloudinary.com/ewtn/image/upload/v1771598465/_RIS2909_px1zzq.jpg",
-        "source": "ewtnnews.com",
-        "stats": "568 points · 440 comments"
-      },
-      {
-        "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-        "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-        "description": "My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.\nDuring the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.",
-        "image": "",
-        "source": "vladimir.varank.in",
-        "stats": "425 points · 349 comments"
-      },
-      {
-        "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-        "title": "Making Wolfram tech available as a foundation tool for LLM systems",
-        "description": "Wolfram",
-        "image": "https://content.wolfram.com/sites/43/2026/02/FoundationTool-seo-v2a.png",
-        "source": "writings.stephenwolfram.com",
-        "stats": "301 points · 163 comments"
-      },
-      {
-        "url": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
-        "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
-        "description": "Imported chips and hardware mean the AI investments are translating into US GDP growth.",
-        "image": "https://gizmodo.com/app/uploads/2024/08/samaltman.png",
-        "source": "gizmodo.com",
-        "stats": "282 points · 270 comments"
+        "stats": "1267 points · 697 comments"
       }
     ],
     "2026-02-22": [
@@ -187,16 +197,6 @@
         "image": "",
         "source": "twitter.com",
         "stats": ""
-      }
-    ],
-    "2026-02-19": [
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-        "title": "Gemini 3.1 Pro",
-        "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png",
-        "source": "blog.google",
-        "stats": "953 points · 907 comments"
       }
     ]
   }
