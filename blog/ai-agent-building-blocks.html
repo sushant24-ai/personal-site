@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+    <meta name="description"
+        content="The complete guide to AI agent configuration — rule files, AGENTS.md, SKILL.md, MCP servers, workflows, and memory systems explained like you're onboarding a new team member.">
+    <title>AI Agent Building Blocks: The Complete Configuration Guide - Sushant Sikare</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Mermaid for Diagrams -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        .callout {
+            border-left: 4px solid var(--accent);
+            background: rgba(100, 100, 255, 0.06);
+            padding: 1rem 1.25rem;
+            border-radius: 0 8px 8px 0;
+            margin: 1.5rem 0;
+            font-size: 0.92rem;
+        }
+
+        .callout-tip {
+            border-left-color: #4caf50;
+            background: rgba(76, 175, 80, 0.06);
+        }
+
+        .callout-warn {
+            border-left-color: #ff9800;
+            background: rgba(255, 152, 0, 0.06);
+        }
+
+        .callout strong {
+            display: block;
+            margin-bottom: 0.3rem;
+        }
+
+        .analogy-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.25rem 0;
+            font-size: 0.9rem;
+        }
+
+        .analogy-table th,
+        .analogy-table td {
+            text-align: left;
+            padding: 0.65rem 0.85rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .analogy-table th {
+            font-weight: 600;
+            color: var(--accent);
+            font-size: 0.82rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+
+        .analogy-table tr:hover td {
+            background: rgba(100, 100, 255, 0.04);
+        }
+
+        .section-number {
+            display: inline-block;
+            width: 2rem;
+            height: 2rem;
+            line-height: 2rem;
+            text-align: center;
+            background: var(--accent);
+            color: #fff;
+            border-radius: 50%;
+            font-weight: 700;
+            font-size: 0.85rem;
+            margin-right: 0.5rem;
+            vertical-align: middle;
+        }
+
+        .mermaid {
+            margin: 1.5rem 0;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../news.html">Daily AI News</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <div class="container">
+            <!-- Post Header -->
+            <header class="post-header">
+                <h1>AI Agent Building Blocks: The Complete Configuration Guide</h1>
+                <div class="post-meta">
+                    February 27, 2026
+                    <span class="post-tags">
+                        <span class="tag">AI Agents</span>
+                        <span class="tag">Developer Tools</span>
+                        <span class="tag">MCP</span>
+                        <span class="tag">Platform Engineering</span>
+                    </span>
+                </div>
+            </header>
+
+            <!-- Post Content -->
+            <article class="post-content">
+
+                <p>
+                    every AI coding agent you use — Cursor, Claude Code, Copilot, Gemini CLI, Codex — has the same
+                    problem when it joins your project.
+                </p>
+                <p>
+                    <strong>it doesn't know anything about your codebase.</strong>
+                </p>
+                <p>
+                    it doesn't know your stack. doesn't know your conventions. doesn't know that the
+                    <code>/vendor</code> folder is sacred and the deploy script has that one quirk. it's a brilliant
+                    new hire on day one.
+                </p>
+                <p>
+                    the difference is: you can onboard it <em>instantly</em> if you give it the right files.
+                </p>
+                <p>
+                    this post is the complete map of those files — from rule files to MCP servers to memory systems.
+                    the building blocks that turn a generic AI into <strong>your</strong> AI.
+                </p>
+
+                <hr>
+
+                <h2>The Mental Model</h2>
+
+                <p>
+                    think of configuring an AI agent like onboarding a new engineer. they need specific things to be
+                    productive:
+                </p>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>What They Need</th>
+                            <th>Mechanism</th>
+                            <th>Human Analogy</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Who they are</td>
+                            <td>Rule Files</td>
+                            <td>Job description</td>
+                        </tr>
+                        <tr>
+                            <td>How the project works</td>
+                            <td>AGENTS.md</td>
+                            <td>Project README</td>
+                        </tr>
+                        <tr>
+                            <td>Specialized skills</td>
+                            <td>SKILL.md</td>
+                            <td>Training manuals</td>
+                        </tr>
+                        <tr>
+                            <td>Step-by-step playbooks</td>
+                            <td>Workflows</td>
+                            <td>SOPs / Runbooks</td>
+                        </tr>
+                        <tr>
+                            <td>Access to tools</td>
+                            <td>MCP Servers</td>
+                            <td>Toolbox + API keys</td>
+                        </tr>
+                        <tr>
+                            <td>Long-term memory</td>
+                            <td>Memory Files</td>
+                            <td>Notes / Journal</td>
+                        </tr>
+                        <tr>
+                            <td>Live documentation</td>
+                            <td>Context7</td>
+                            <td>Reference library</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>let's go through each one.</p>
+
+                <!-- The diagram showing the overall architecture -->
+                <div class="mermaid">
+                    graph TB
+                    Agent["🤖 AI Agent"]
+                    Rules["📜 Rule Files<br />.cursorrules, CLAUDE.md, GEMINI.md"]
+                    AgentsMD["📘 AGENTS.md<br />Universal project context"]
+                    Skills["🛠️ SKILL.md<br />Teachable capabilities"]
+                    Workflows["🔄 Workflows<br />Step-by-step playbooks"]
+                    MCP["🔌 MCP Servers<br />External tools & data"]
+                    Memory["🧠 Memory<br />Persistent knowledge"]
+
+                    Agent --- Rules
+                    Agent --- AgentsMD
+                    Agent --- Skills
+                    Agent --- Workflows
+                    Agent --- MCP
+                    Agent --- Memory
+
+                    style Agent fill:#6366f1,color:#fff,stroke:none
+                    style Rules fill:#f59e0b,color:#fff,stroke:none
+                    style AgentsMD fill:#10b981,color:#fff,stroke:none
+                    style Skills fill:#ef4444,color:#fff,stroke:none
+                    style Workflows fill:#8b5cf6,color:#fff,stroke:none
+                    style MCP fill:#3b82f6,color:#fff,stroke:none
+                    style Memory fill:#ec4899,color:#fff,stroke:none
+                </div>
+
+                <hr>
+
+                <h2><span class="section-number">1</span> Rule Files — The Personality & Guardrails</h2>
+
+                <p>
+                    rule files tell the agent <strong>how to behave</strong>. coding style, what to avoid, what
+                    framework you're on. every major tool has its own flavor:
+                </p>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>File</th>
+                            <th>Tool</th>
+                            <th>Scope</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>.cursor/rules/*.md</code></td>
+                            <td>Cursor</td>
+                            <td>Project-level, scoped</td>
+                        </tr>
+                        <tr>
+                            <td><code>CLAUDE.md</code></td>
+                            <td>Claude Code</td>
+                            <td>Project-level memory</td>
+                        </tr>
+                        <tr>
+                            <td><code>GEMINI.md</code></td>
+                            <td>Gemini CLI</td>
+                            <td>Project-level, hierarchical</td>
+                        </tr>
+                        <tr>
+                            <td><code>.windsurfrules</code></td>
+                            <td>Windsurf</td>
+                            <td>Project-level</td>
+                        </tr>
+                        <tr>
+                            <td><code>.github/copilot-instructions.md</code></td>
+                            <td>GitHub Copilot</td>
+                            <td>Workspace-level</td>
+                        </tr>
+                        <tr>
+                            <td><code>CONVENTIONS.md</code></td>
+                            <td>Aider</td>
+                            <td>Coding conventions</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h3>how they load</h3>
+
+                <p>
+                    when an agent starts a task, it layers rules like CSS specificity — global first, then project,
+                    then directory-scoped overrides:
+                </p>
+
+                <div class="mermaid">
+                    flowchart TD
+                    A["Agent starts task"] --> B["Load Global Rules"]
+                    B --> C["Load Project Rules"]
+                    C --> D["Load Scoped/Local Rules"]
+                    D --> E["Merged context applied<br />to all AI responses"]
+
+                    B -.- B1["~/.claude.md, global_rules.md"]
+                    C -.- C1[".cursorrules, CLAUDE.md, GEMINI.md"]
+                    D -.- D1["subdirectory overrides"]
+
+                    style A fill:#6366f1,color:#fff,stroke:none
+                    style E fill:#10b981,color:#fff,stroke:none
+                </div>
+
+                <h3>what a real one looks like</h3>
+
+                <pre><code># Project Rules
+
+## Tech Stack
+- Framework: Next.js 14 with App Router
+- Styling: Tailwind CSS v4
+- Database: Supabase (PostgreSQL)
+- Language: TypeScript (strict mode)
+
+## Coding Conventions
+- Use `const` over `let` wherever possible
+- All functions must have JSDoc comments
+- Never use `any` type — use `unknown` with type guards
+- Prefer server components; use 'use client' only when necessary
+
+## Don'ts
+- Never modify files in `/vendor` or `/generated`
+- Never commit `.env` files
+- Don't use `console.log` — use the project logger</code></pre>
+
+                <div class="callout callout-tip">
+                    <strong>💡 The universal escape hatch</strong>
+                    <code>AGENTS.md</code> is becoming the cross-tool standard that ALL agents understand — Cursor,
+                    Codex, Copilot, Gemini, etc. If you can only maintain one file, make it <code>AGENTS.md</code>.
+                </div>
+
+                <hr>
+
+                <h2><span class="section-number">2</span> AGENTS.md — The README for AI Agents</h2>
+
+                <p>
+                    <code>README.md</code> is for humans. <code>AGENTS.md</code> is for machines.
+                </p>
+                <p>
+                    it's the project onboarding doc specifically for AI agents. how to build, where things live,
+                    what never to touch. it was created by the Agentic AI Foundation (Factory.ai + others) and has
+                    been adopted by <strong>60,000+ projects</strong> as of early 2026.
+                </p>
+
+                <pre><code>## Project Overview
+This is a FastAPI microservice for user authentication.
+
+## Build & Run
+- `pip install -r requirements.txt`
+- `uvicorn main:app --reload`
+- `pytest tests/ -v`
+
+## Architecture
+- `/app/routes/` — API endpoints
+- `/app/models/` — SQLAlchemy models
+- `/app/services/` — Business logic
+
+## Conventions
+- Use Pydantic v2 for all request/response models
+- All endpoints must have OpenAPI docstrings
+- Error responses follow RFC 7807
+
+## Boundaries
+- NEVER modify `/migrations/` directly — use Alembic
+- NEVER expose internal IDs — use UUIDs</code></pre>
+
+                <h3>monorepo hierarchy</h3>
+
+                <p>
+                    in monorepos, <code>AGENTS.md</code> files cascade — most specific wins. this is the same
+                    pattern as <code>.gitignore</code> or <code>.editorconfig</code>:
+                </p>
+
+                <pre><code>repo/
+├── AGENTS.md              ← Global: applies everywhere
+├── frontend/
+│   └── AGENTS.md          ← Overrides for frontend
+├── backend/
+│   ├── AGENTS.md          ← Overrides for backend
+│   └── auth-service/
+│       └── AGENTS.md      ← Most specific: auth service</code></pre>
+
+                <div class="callout callout-warn">
+                    <strong>⚠️ Watch the size</strong>
+                    2026 research finding: monolithic <code>AGENTS.md</code> files can increase inference costs by
+                    up to <strong>159%</strong>. break into smaller, scoped files so only task-relevant instructions
+                    are loaded. this is called <strong>tiered injection</strong>.
+                </div>
+
+                <hr>
+
+                <h2><span class="section-number">3</span> SKILL.md — Teachable Skills</h2>
+
+                <p>
+                    skills are <strong>modular, reusable instruction packages</strong>. instead of stuffing everything
+                    into one huge rules file, you break specialized capabilities into separate skill folders.
+                </p>
+                <p>
+                    the key principle is <strong>progressive disclosure</strong> — load only when needed.
+                </p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    Task["Agent sees task:<br />'deploy to production'"] --> Scan["Scan SKILL.md<br />names &
+                    descriptions"]
+                    Scan -->|"Match found"| Load["Load SKILL.md<br />full instructions"]
+                    Load -->|"Needs script"| Scripts["Load scripts/<br />deploy.sh"]
+
+                    Scan -.- Cost1["cheap: just metadata"]
+                    Load -.- Cost2["moderate: full docs"]
+                    Scripts -.- Cost3["targeted: only what's needed"]
+
+                    style Task fill:#6366f1,color:#fff,stroke:none
+                    style Scripts fill:#10b981,color:#fff,stroke:none
+                </div>
+
+                <h3>directory structure</h3>
+
+                <pre><code>.skills/
+├── deploy-to-aws/
+│   ├── SKILL.md           ← Required: instructions
+│   ├── scripts/
+│   │   └── deploy.sh      ← Helper scripts
+│   └── references/
+│       └── aws-guide.md   ← Reference docs
+│
+├── database-migration/
+│   ├── SKILL.md
+│   └── scripts/
+│       └── migrate.py</code></pre>
+
+                <h3>SKILL.md format</h3>
+
+                <pre><code>---
+name: deploy-to-aws
+description: Deploy the application to AWS ECS using Terraform
+license: MIT
+compatibility:
+  os: [linux, macos]
+  tools: [terraform, aws-cli]
+metadata:
+  author: platform-team
+  version: "1.2.0"
+---
+
+# Deploy to AWS
+
+## Prerequisites
+- AWS CLI configured with appropriate credentials
+- Terraform >= 1.5.0 installed
+
+## Steps
+1. Run `terraform init` in `/infra/aws/`
+2. Run `terraform plan -var-file=env/prod.tfvars`
+3. Review the plan output
+4. Run `terraform apply` only after human approval
+
+## Common Issues
+- If "insufficient permissions", check IAM role has ECS:* policies
+- If state lock error, run `terraform force-unlock <LOCK_ID>`</code></pre>
+
+                <div class="callout">
+                    <strong>📝 Skills vs Rules</strong>
+                    Rules define <em>character</em> — "always use TypeScript." Skills define <em>competence</em> —
+                    "here's how to deploy to AWS." An agent can have many skills but loads them only when relevant.
+                </div>
+
+                <hr>
+
+                <h2><span class="section-number">4</span> Workflows — Step-by-Step Playbooks</h2>
+
+                <p>
+                    workflows are <strong>SOPs for AI agents</strong>. predefined sequences of steps for recurring
+                    tasks like deploying, creating endpoints, or running migrations.
+                </p>
+
+                <pre><code>---
+description: How to create a new API endpoint
+---
+
+1. Create a new route file in `/app/routes/`
+2. Define request/response models in `/app/models/`
+// turbo
+3. Run `npm run generate:types` to regenerate types
+4. Add tests in `/tests/routes/`
+// turbo
+5. Run `pytest tests/ -v` to verify
+6. Update `/docs/api.md` with the new endpoint</code></pre>
+
+                <p>the special annotations:</p>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>Annotation</th>
+                            <th>What It Does</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>// turbo</code></td>
+                            <td>Auto-run the next command (no user approval needed)</td>
+                        </tr>
+                        <tr>
+                            <td><code>// turbo-all</code></td>
+                            <td>Auto-run ALL command steps in this workflow</td>
+                        </tr>
+                        <tr>
+                            <td><code>/slash-command</code></td>
+                            <td>User triggers workflow by typing <code>/deploy</code>, <code>/test</code>, etc.</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <hr>
+
+                <h2><span class="section-number">5</span> MCP — USB-C for AI Agents</h2>
+
+                <p>
+                    MCP (Model Context Protocol) is the <strong>universal standard for connecting AI agents to
+                        external tools and data</strong>. created by Anthropic in Nov 2024, now adopted by OpenAI,
+                    Google, Microsoft, and LangChain.
+                </p>
+                <p>
+                    think of it this way: before MCP, every tool integration was a custom adapter. MCP is the USB-C
+                    — one protocol, everything plugs in.
+                </p>
+
+                <div class="mermaid">
+                    graph LR
+                    Agent["🤖 AI Agent"] --> Client["MCP Client"]
+                    Client -->|"JSON-RPC 2.0"| GH["GitHub Server"]
+                    Client -->|"JSON-RPC 2.0"| DB["Database Server"]
+                    Client -->|"JSON-RPC 2.0"| Slack["Slack Server"]
+                    Client -->|"JSON-RPC 2.0"| Custom["Custom API Server"]
+
+                    style Agent fill:#6366f1,color:#fff,stroke:none
+                    style GH fill:#24292e,color:#fff,stroke:none
+                    style DB fill:#336791,color:#fff,stroke:none
+                    style Slack fill:#4a154b,color:#fff,stroke:none
+                    style Custom fill:#10b981,color:#fff,stroke:none
+                </div>
+
+                <h3>what MCP servers expose</h3>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>Capability</th>
+                            <th>Description</th>
+                            <th>Example</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Tools</strong></td>
+                            <td>Executable functions the agent can call</td>
+                            <td><code>create_pull_request()</code></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Resources</strong></td>
+                            <td>Read-only data sources</td>
+                            <td>File contents, API docs, schemas</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Prompts</strong></td>
+                            <td>Pre-built prompt templates</td>
+                            <td>"Summarize this PR"</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h3>popular MCP servers</h3>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>Server</th>
+                            <th>What It Does</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>GitHub MCP</td>
+                            <td>Create PRs, manage issues, search repos</td>
+                        </tr>
+                        <tr>
+                            <td>Filesystem MCP</td>
+                            <td>Read/write local files safely</td>
+                        </tr>
+                        <tr>
+                            <td>PostgreSQL MCP</td>
+                            <td>Query databases, inspect schemas</td>
+                        </tr>
+                        <tr>
+                            <td>Slack MCP</td>
+                            <td>Send messages, read channels</td>
+                        </tr>
+                        <tr>
+                            <td>Browser MCP</td>
+                            <td>Navigate, screenshot, interact with pages</td>
+                        </tr>
+                        <tr>
+                            <td>Context7</td>
+                            <td>Fetch live, version-specific documentation</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h3>configuration example</h3>
+
+                <pre><code>// Claude Desktop config
+{
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": { "GITHUB_TOKEN": "ghp_xxx" }
+    },
+    "postgres": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-postgres",
+               "postgresql://localhost/mydb"]
+    }
+  }
+}</code></pre>
+
+                <div class="callout callout-tip">
+                    <strong>💡 The mental model</strong>
+                    Rule files tell the agent <em>who it is</em>. Skills tell it <em>what it can learn</em>.
+                    MCP tells it <em>what it can reach</em>.
+                </div>
+
+                <hr>
+
+                <h2><span class="section-number">6</span> Context7 — Live Documentation Injection</h2>
+
+                <p>
+                    here's a problem you've definitely hit: you ask an AI to use a library's API, and it gives you
+                    code from 2 versions ago. the LLM's training data is stale.
+                </p>
+                <p>
+                    Context7 is an MCP server by Upstash that solves this. it fetches <strong>real-time,
+                        version-specific docs</strong> and injects them into the agent's context.
+                </p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    Dev["You ask: 'How to use<br />React Server Components?'"] --> C7["Context7 MCP Server"]
+                    C7 --> Fetch["Fetches React docs<br />for YOUR version"]
+                    Fetch --> Inject["Injects into agent's<br />context window"]
+                    Inject --> Answer["Agent gives you<br />CURRENT answer"]
+
+                    style Dev fill:#6366f1,color:#fff,stroke:none
+                    style C7 fill:#f59e0b,color:#fff,stroke:none
+                    style Answer fill:#10b981,color:#fff,stroke:none
+                </div>
+
+                <p>
+                    <strong>without Context7:</strong> agent suggests React patterns from 2023.<br>
+                    <strong>with Context7:</strong> agent gets the exact API for your installed version.
+                </p>
+
+                <hr>
+
+                <h2><span class="section-number">7</span> Memory Systems — Persistent Knowledge</h2>
+
+                <p>
+                    AI agents are fundamentally <strong>stateless</strong>. every conversation starts from zero.
+                    memory systems fix this.
+                </p>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>Type</th>
+                            <th>What It Stores</th>
+                            <th>Persistence</th>
+                            <th>Example</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Short-term</strong></td>
+                            <td>Current conversation</td>
+                            <td>Session only</td>
+                            <td>Chat history in context window</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Long-term</strong></td>
+                            <td>Facts, preferences</td>
+                            <td>Across sessions</td>
+                            <td>"User prefers dark mode"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Episodic</strong></td>
+                            <td>Specific past events</td>
+                            <td>Across sessions</td>
+                            <td>"Last deploy failed due to X"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Semantic</strong></td>
+                            <td>Structured knowledge</td>
+                            <td>Across sessions</td>
+                            <td>Project architecture</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Procedural</strong></td>
+                            <td>Learned behaviors</td>
+                            <td>Across sessions</td>
+                            <td>"How we deploy here"</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h3>the surprising winner: flat files</h3>
+
+                <p>
+                    you'd think AI agents would use vector databases for memory. most don't. the industry found that
+                    for coding agents:
+                </p>
+
+                <ul>
+                    <li><strong>Markdown files</strong> are simple, version-controlled, human-readable, and cheap</li>
+                    <li><strong>Vector databases</strong> add complexity, are hard to debug, and often overkill</li>
+                    <li>The LLM's instruction-following is good enough that structured text just works</li>
+                </ul>
+
+                <pre><code>CLAUDE.md         → Claude Code's memory file
+GEMINI.md         → Gemini CLI's memory file
+.cursor/rules/    → Cursor's memory
+AGENTS.md         → Universal memory (works everywhere)</code></pre>
+
+                <hr>
+
+                <h2><span class="section-number">8</span> Artifacts & Task Management</h2>
+
+                <p>
+                    some agent frameworks include built-in work tracking — not Jira-style, but lightweight markdown
+                    checklists that the agent maintains as it works:
+                </p>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>Artifact</th>
+                            <th>Purpose</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>task.md</code></td>
+                            <td>Living checklist — <code>[ ]</code>, <code>[/]</code>, <code>[x]</code></td>
+                        </tr>
+                        <tr>
+                            <td><code>implementation_plan.md</code></td>
+                            <td>Technical design doc for approval before coding</td>
+                        </tr>
+                        <tr>
+                            <td><code>walkthrough.md</code></td>
+                            <td>Post-completion summary with proof of work</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <pre><code>- [x] Research existing authentication flow
+- [x] Plan JWT token rotation strategy
+- [/] Implement refresh token endpoint
+  - [x] Create `/auth/refresh` route
+  - [ ] Add rate limiting
+  - [ ] Write integration tests
+- [ ] Update API documentation</code></pre>
+
+                <hr>
+
+                <h2><span class="section-number">9</span> Inter-Agent Communication</h2>
+
+                <p>
+                    when agents need to <strong>talk to each other</strong>, there are emerging protocols for that too:
+                </p>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>Protocol</th>
+                            <th>By</th>
+                            <th>Purpose</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>MCP</strong></td>
+                            <td>Anthropic</td>
+                            <td>Agent ↔ Tools/Data</td>
+                        </tr>
+                        <tr>
+                            <td><strong>A2A</strong></td>
+                            <td>Google</td>
+                            <td>Agent ↔ Agent communication</td>
+                        </tr>
+                        <tr>
+                            <td><strong>ACP</strong></td>
+                            <td>IBM</td>
+                            <td>Enterprise agent messaging</td>
+                        </tr>
+                        <tr>
+                            <td><strong>TAP</strong></td>
+                            <td>LangChain</td>
+                            <td>Tool orchestration</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <hr>
+
+                <h2>The Cheat Sheet</h2>
+
+                <p>
+                    if you're setting up agent configuration for the first time, here's the priority order:
+                </p>
+
+                <table class="analogy-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Do This</th>
+                            <th>Why</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Create <code>AGENTS.md</code></td>
+                            <td>Universal, works with every tool, highest impact</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Add tool-specific rules</td>
+                            <td><code>.cursorrules</code> or <code>CLAUDE.md</code> for your main tool</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Set up MCP servers</td>
+                            <td>Connect to GitHub, databases, etc.</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Create workflows</td>
+                            <td>For your most repeated tasks (deploy, test, release)</td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Add skills</td>
+                            <td>For complex, multi-step procedures unique to your project</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <hr>
+
+                <h2>Closing Thought</h2>
+
+                <p>
+                    this landscape is evolving <strong>fast</strong>. most of these standards emerged in late 2025
+                    and are still maturing.
+                </p>
+                <p>
+                    but the direction is clear:
+                </p>
+                <ul>
+                    <li><code>AGENTS.md</code> as the <strong>universal project context</strong></li>
+                    <li><code>SKILL.md</code> as the <strong>skill standard</strong></li>
+                    <li><strong>MCP</strong> as the <strong>connectivity standard</strong></li>
+                </ul>
+
+                <blockquote>
+                    <p>the agents are already here. the question isn't whether to configure them.</p>
+                    <p>it's whether you configure them <strong>intentionally</strong>, or let them figure it out
+                        on their own — and break things along the way.</p>
+                </blockquote>
+
+            </article>
+
+            <!-- Back to Blog -->
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushantshikare24@gmail.com">Mail</a>
+                    <a href="https://x.com/SikareSushant" target="_blank">X</a>
+                    <a href="https://www.linkedin.com/in/sushant-s-31b799224/" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant24-ai" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+
+</html>
