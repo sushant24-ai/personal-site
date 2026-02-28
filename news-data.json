@@ -1,56 +1,106 @@
 {
-  "lastUpdated": "2026-02-27T05:40:05.139Z",
+  "lastUpdated": "2026-02-28T05:03:16.986Z",
   "days": {
-    "2026-02-27": [
+    "2026-02-28": [
       {
-        "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-        "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
-        "description": "168 points · 67 comments",
+        "url": "https://twitter.com/sama/status/2027578652477821175",
+        "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+        "description": "227 points · 140 comments",
         "image": "",
-        "source": "nytimes.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel",
-        "title": "Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries",
-        "description": "As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.",
-        "image": "https://substackcdn.com/image/fetch/$s_!3Kp7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb181e746-ed01-4d21-828f-d182a4f7e982_4500x3000.jpeg",
-        "source": "dropsitenews.com",
-        "stats": "113 points · 48 comments"
+        "url": "https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/",
+        "title": "Anthropic says it will challenge Pentagon supply chain risk designation in court",
+        "description": "95 points · 16 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
-        "url": "https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai",
-        "title": "56% of CEOs report zero financial return from AI in 2026 (PwC survey, n=4,454)",
-        "description": "56% of CEOs report zero financial return from AI. PwC&#039;s 2026 survey reveals what the winning 12% do differently — and why solo founders can replicate it faster.",
-        "image": "https://aishortcutlab.com/storage/media/images/78f430a5-a968-4ae3-ace7-1ca58b065594.webp",
-        "source": "aishortcutlab.com",
-        "stats": "24 points · 17 comments"
+        "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+        "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+        "description": "57 points · 13 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/Frikallo/parakeet.cpp",
-        "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-        "description": "Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory and Cuda support - Frikallo/parakeet.cpp",
-        "image": "https://opengraph.githubassets.com/95c71bc920e48729ef2ea9bd473c78210947c33629295c36236eb8bb982f821c/Frikallo/parakeet.cpp",
-        "source": "github.com",
-        "stats": "13 points · 2 comments"
+        "url": "https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic",
+        "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic",
+        "description": "7 points · 0 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
       },
       {
-        "url": "https://www.abc.net.au/news/2026-02-27/seat-belt-cameras-catch-drivers-in-costly-mistake/106395672",
-        "title": "Drivers reeling after passengers caught out by AI-powered safety cameras",
-        "description": "WA drivers given large fines or a licence suspension after their passengers were snapped wearing seatbelts incorrectly say they are being punished for behaviour beyond their control.",
-        "image": "https://live-production.wcms.abc-cdn.net.au/b6c475e42843659c205353b5f7c6f9ed?impolicy=wcms_watermark_news&amp;cropH=1734&amp;cropW=3083&amp;xPos=0&amp;yPos=457&amp;width=862&amp;height=485&amp;imformat=generic",
-        "source": "abc.net.au",
-        "stats": "13 points · 10 comments"
+        "url": "https://www.nytimes.com/2026/02/27/technology/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash.html",
+        "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      }
+    ],
+    "2026-02-27": [
+      {
+        "url": "https://twitter.com/secwar/status/2027507717469049070",
+        "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+        "description": "1196 points · 977 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+        "title": "OpenAI raises $110B on $730B pre-money valuation",
+        "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "436 points · 488 comments"
+      },
+      {
+        "url": "https://claude.com/contact-sales/claude-for-oss",
+        "title": "Get free Claude max 20x for open-source maintainers",
+        "description": "Apply to the Claude for Open Source program. Eligible OSS maintainers and contributors get Claude Max for 6 months on us.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "501 points · 207 comments"
+      },
+      {
+        "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+        "title": "The Pentagon is making a mistake by threatening Anthropic",
+        "description": "Anthropic faces a Friday deadline to allow domestic surveillance and automated killer robots.",
+        "image": "https://substackcdn.com/image/fetch/$s_!p-HT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c021cdc-3feb-4fa6-982f-1212820500f7_5431x3621.jpeg",
+        "source": "understandingai.org",
+        "stats": "243 points · 211 comments"
+      },
+      {
+        "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
+        "title": "President Trump bans Anthropic from use in government systems",
+        "description": "The Pentagon also ordered all military contractors to stop doing business with Anthropic. The company says it will challenge the move in court.",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2346x1320+0+93/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fea%2Fbfec70974d408a48598215de7c04%2Fap26036779392489.jpg",
+        "source": "npr.org",
+        "stats": "176 points · 162 comments"
       }
     ],
     "2026-02-26": [
+      {
+        "url": "https://amplifying.ai/research/claude-code-picks",
+        "title": "What Claude Code chooses",
+        "description": "Systematic analysis of how AI systems make decisions — from product recommendations to developer tool choices.",
+        "image": "https://amplifying.ai/research/claude-code-picks/opengraph-image.png?267f044bb5256d31",
+        "source": "amplifying.ai",
+        "stats": "587 points · 222 comments"
+      },
       {
         "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
         "title": "Nano Banana 2: Google's latest AI image generation model",
         "description": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_SS.width-1300.png",
         "source": "blog.google",
-        "stats": "528 points · 497 comments"
+        "stats": "596 points · 570 comments"
       },
       {
         "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
@@ -58,15 +108,7 @@
         "description": "Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235057703-20260225133412503.jpg?c=16x9&q=w_800,c_fill",
         "source": "cnn.com",
-        "stats": "547 points · 3 comments"
-      },
-      {
-        "url": "https://amplifying.ai/research/claude-code-picks",
-        "title": "What Claude Code Chooses",
-        "description": "Systematic analysis of how AI systems make decisions — from product recommendations to developer tool choices.",
-        "image": "https://amplifying.ai/research/claude-code-picks/opengraph-image.png?267f044bb5256d31",
-        "source": "amplifying.ai",
-        "stats": "321 points · 131 comments"
+        "stats": "551 points · 3 comments"
       },
       {
         "url": "https://www.usecardboard.com/",
@@ -74,15 +116,15 @@
         "description": "Create, cut, and compose videos with AI right in your browser. Cardboard handles the mundane edits so you can focus on storytelling.",
         "image": "https://www.usecardboard.com/images/marketing/og.png",
         "source": "usecardboard.com",
-        "stats": "103 points · 53 comments"
+        "stats": "128 points · 79 comments"
       },
       {
-        "url": "https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda",
-        "title": "Anthropic says company 'cannot in good conscience accede' to Pentagon's demands",
-        "description": "Anthropic CEO Dario Amodei says the artificial intelligence company “cannot in good conscience accede” to the Pentagon’s demands to allow wider use of its technology.",
-        "image": "https://dims.apnews.com/dims4/default/b6b956b/2147483647/strip/true/crop/7140x4758+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2F349dbe7a1af4cbd637bfc3d3d413%2F1e82b5de757e411abcdb85a499d8170a",
-        "source": "apnews.com",
-        "stats": "74 points · 4 comments"
+        "url": "https://github.com/vercel-labs/just-bash",
+        "title": "Just-bash: Bash for Agents",
+        "description": "Bash for Agents. Contribute to vercel-labs/just-bash development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/a0fddf6a90d304d5007bdac46671cb07e43dc74c4ed0c3aa010ffd38cf9d0f22/vercel-labs/just-bash",
+        "source": "github.com",
+        "stats": "122 points · 68 comments"
       }
     ],
     "2026-02-25": [
@@ -92,15 +134,7 @@
         "description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that",
         "image": "https://framerusercontent.com/images/YDDp8rnck6rG7jTHoAV4O5bs.png?width=1024&amp;height=572",
         "source": "trufflesecurity.com",
-        "stats": "1222 points · 294 comments"
-      },
-      {
-        "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
-        "title": "Anthropic drops flagship safety pledge",
-        "description": "In an abrupt shift, the company may release future AI models without ironclad safety guarantees",
-        "image": "https://api.time.com/wp-content/uploads/2026/02/Anthropic.jpg?quality=85&amp;w=1200&amp;h=628&amp;crop=1",
-        "source": "time.com",
-        "stats": "705 points · 663 comments"
+        "stats": "1267 points · 304 comments"
       },
       {
         "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
@@ -108,23 +142,31 @@
         "description": "OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie",
         "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6993b59b8517240d2235240a/1771507646532/Frontier%2BLanguage%2BModel%2BIntelligence%2C%2BOver%2BTime%2B%2824%2BJan%2B%2726%29%2B-2.png.webp?format=1500w",
         "source": "ben-evans.com",
-        "stats": "462 points · 638 comments"
+        "stats": "475 points · 659 comments"
       },
       {
-        "url": "https://code.claude.com/docs/en/remote-control",
-        "title": "Claude Code Remote Control",
-        "description": "Continue a local Claude Code session from your phone, tablet, or any browser using Remote Control. Works with claude.ai/code and the Claude mobile app.",
-        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DPlatforms%2Band%2Bintegrations%26appearance%3Dsystem%26title%3DContinue%2Blocal%2Bsessions%2Bfrom%2Bany%2Bdevice%2Bwith%2BRemote%2BControl%26description%3DContinue%2Ba%2Blocal%2BClaude%2BCode%2Bsession%2Bfrom%2Byour%2Bphone%252C%2Btablet%252C%2Bor%2Bany%2Bbrowser%2Busing%2BRemote%2BControl.%2BWorks%2Bwith%2Bclaude.ai%252Fcode%2Band%2Bthe%2BClaude%2Bmobile%2Bapp.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
-        "source": "code.claude.com",
-        "stats": "536 points · 315 comments"
+        "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+        "title": "Can you reverse engineer our neural network?",
+        "description": "A lot of “capture-the-flag” style ML puzzles give you a black box neural net, and your jobis to figure out what it does. When we were thinking of creating ou...",
+        "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
+        "source": "blog.janestreet.com",
+        "stats": "276 points · 185 comments"
       },
       {
-        "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-        "title": "Making MCP cheaper via CLI",
-        "description": "I Made MCP 94% Cheaper (And It Only Took One Command)\n\n",
-        "image": "https://kanyilmaz.me/assets/posts/cli_vs_mcp.png",
-        "source": "kanyilmaz.me",
-        "stats": "312 points · 118 comments"
+        "url": "https://antirez.com/news/160",
+        "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
+        "description": "135 points · 65 comments",
+        "image": "",
+        "source": "antirez.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+        "title": "Steering interpretable language models with concept algebra",
+        "description": "We demonstrate reliable, fine-grained control over language model generation by directly injecting, suppressing, and composing human-interpretable concepts at inference time.",
+        "image": "https://www.guidelabs.ai/logo/guidelabs-social-media-thumbnail.png",
+        "source": "guidelabs.ai",
+        "stats": "76 points · 8 comments"
       }
     ],
     "2026-02-24": [
@@ -179,32 +221,6 @@
         "image": "https://opengraph.githubassets.com/50f26b05ccace513a86bd82e4ea77d7074247615a8fc474152d651f9ed4e6411/puzpuzpuz/go-concurrent-map-bench",
         "source": "github.com",
         "stats": "102 points · 22 comments"
-      }
-    ],
-    "2026-02-21": [
-      {
-        "url": "https://github.com/xaskasdf/ntransformer",
-        "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-        "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer",
-        "image": "https://opengraph.githubassets.com/bb427d7d93806b88df0359194393e4fc8ce602fffdd0b9f193048b2c6da02f53/xaskasdf/ntransformer",
-        "source": "github.com",
-        "stats": "387 points · 102 comments"
-      },
-      {
-        "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-        "title": "How Taalas “prints” LLM onto a chip?",
-        "description": "421 points · 252 comments",
-        "image": "",
-        "source": "anuragk.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-        "title": "AI uBlock Blacklist",
-        "description": "Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist",
-        "image": "https://opengraph.githubassets.com/3b3c77d884b27db0baec13c4e811c01d2a96facab550debd194d15306bb05cfd/alvi-se/ai-ublock-blacklist",
-        "source": "github.com",
-        "stats": "293 points · 125 comments"
       }
     ]
   }
