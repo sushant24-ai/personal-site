@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-02-28T05:03:16.986Z",
+  "lastUpdated": "2026-03-01T05:39:37.614Z",
   "days": {
+    "2026-03-01": [
+      {
+        "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+        "title": "Microgpt",
+        "description": "Musings of a Computer Scientist.",
+        "image": "",
+        "source": "karpathy.github.io",
+        "stats": "407 points · 77 comments"
+      },
+      {
+        "url": "https://apps.apple.com/us/iphone/charts",
+        "title": "Claude becomes number one app on the U.S. App Store",
+        "description": "Discover the top games and apps for iPhone, including Claude by Anthropic, ChatGPT, Google Gemini, DICK’S Sporting Goods on the App Store.",
+        "image": "https://apps.apple.com//assets/images/share/app-store.png",
+        "source": "apps.apple.com",
+        "stats": "189 points · 54 comments"
+      },
+      {
+        "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+        "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+        "description": "Step-by-step guide to clustering AMD Ryzen™ AI Max+ systems for local one trillion-parameter LLM inference using llama.cpp RPC and ROCm.",
+        "image": "https://www.amd.com/content/dam/amd/en/images/products/desktops/4395050-ryzen-ai-max-pc.jpg",
+        "source": "amd.com",
+        "stats": "47 points · 7 comments"
+      },
+      {
+        "url": "https://dl.acm.org/doi/10.1145/3624725",
+        "title": "The Science of Detecting LLM-Generated Text",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "dl.acm.org",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2",
+        "title": "Strike in the Middle East use Anthropic even after the Trump ban",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      }
+    ],
     "2026-02-28": [
+      {
+        "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+        "title": "OpenAI – How to delete your account",
+        "description": "1837 points · 345 comments",
+        "image": "",
+        "source": "help.openai.com",
+        "stats": ""
+      },
       {
         "url": "https://twitter.com/sama/status/2027578652477821175",
         "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-        "description": "227 points · 140 comments",
+        "description": "1350 points · 625 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/",
-        "title": "Anthropic says it will challenge Pentagon supply chain risk designation in court",
-        "description": "95 points · 16 comments",
+        "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+        "title": "How do I cancel my ChatGPT subscription?",
+        "description": "1024 points · 239 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "help.openai.com",
         "stats": ""
       },
       {
-        "url": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
-        "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
-        "description": "57 points · 13 comments",
+        "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+        "title": "We do not think Anthropic should be designated as a supply chain risk",
+        "description": "412 points · 178 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://www.axios.com/2026/02/27/pentagon-openai-safety-red-lines-anthropic",
-        "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic",
-        "description": "7 points · 0 comments",
-        "image": "",
-        "source": "axios.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.nytimes.com/2026/02/27/technology/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash.html",
-        "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
-        "description": "3 points · 1 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+        "title": "OpenAI fires an employee for prediction market insider trading",
+        "description": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+        "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
+        "source": "wired.com",
+        "stats": "274 points · 142 comments"
       }
     ],
     "2026-02-27": [
       {
         "url": "https://twitter.com/secwar/status/2027507717469049070",
         "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-        "description": "1196 points · 977 comments",
+        "description": "1331 points · 1063 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
         "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "436 points · 488 comments"
+        "stats": "555 points · 580 comments"
       },
       {
         "url": "https://claude.com/contact-sales/claude-for-oss",
@@ -66,7 +108,15 @@
         "description": "Apply to the Claude for Open Source program. Eligible OSS maintainers and contributors get Claude Max for 6 months on us.",
         "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
         "source": "claude.com",
-        "stats": "501 points · 207 comments"
+        "stats": "557 points · 233 comments"
+      },
+      {
+        "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
+        "title": "President Trump bans Anthropic from use in government systems",
+        "description": "Shortly after the president&#039;s ban of artificial intelligence company Anthropic, rival OpenAI announced it had done a deal with the Defense Department to provide its technology for classified networks.",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2346x1320+0+93/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fea%2Fbfec70974d408a48598215de7c04%2Fap26036779392489.jpg",
+        "source": "npr.org",
+        "stats": "317 points · 212 comments"
       },
       {
         "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
@@ -74,15 +124,7 @@
         "description": "Anthropic faces a Friday deadline to allow domestic surveillance and automated killer robots.",
         "image": "https://substackcdn.com/image/fetch/$s_!p-HT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c021cdc-3feb-4fa6-982f-1212820500f7_5431x3621.jpeg",
         "source": "understandingai.org",
-        "stats": "243 points · 211 comments"
-      },
-      {
-        "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
-        "title": "President Trump bans Anthropic from use in government systems",
-        "description": "The Pentagon also ordered all military contractors to stop doing business with Anthropic. The company says it will challenge the move in court.",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2346x1320+0+93/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fea%2Fbfec70974d408a48598215de7c04%2Fap26036779392489.jpg",
-        "source": "npr.org",
-        "stats": "176 points · 162 comments"
+        "stats": "255 points · 226 comments"
       }
     ],
     "2026-02-26": [
@@ -92,23 +134,15 @@
         "description": "Systematic analysis of how AI systems make decisions — from product recommendations to developer tool choices.",
         "image": "https://amplifying.ai/research/claude-code-picks/opengraph-image.png?267f044bb5256d31",
         "source": "amplifying.ai",
-        "stats": "587 points · 222 comments"
+        "stats": "601 points · 227 comments"
       },
       {
-        "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-        "title": "Nano Banana 2: Google's latest AI image generation model",
-        "description": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_SS.width-1300.png",
-        "source": "blog.google",
-        "stats": "596 points · 570 comments"
-      },
-      {
-        "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-        "title": "Anthropic ditches its core safety promise",
-        "description": "Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235057703-20260225133412503.jpg?c=16x9&q=w_800,c_fill",
-        "source": "cnn.com",
-        "stats": "551 points · 3 comments"
+        "url": "https://github.com/anadim/AdderBoard",
+        "title": "Smallest transformer that can add two 10-digit numbers",
+        "description": "Smallest transformer that can add two 10-digit numbers - anadim/AdderBoard",
+        "image": "https://opengraph.githubassets.com/1232ef7cfd00dc1c51575db5bb56e20cd04b58dab8b5ca51dbf82b1bb2c205e0/anadim/AdderBoard",
+        "source": "github.com",
+        "stats": "230 points · 94 comments"
       },
       {
         "url": "https://www.usecardboard.com/",
@@ -116,15 +150,15 @@
         "description": "Create, cut, and compose videos with AI right in your browser. Cardboard handles the mundane edits so you can focus on storytelling.",
         "image": "https://www.usecardboard.com/images/marketing/og.png",
         "source": "usecardboard.com",
-        "stats": "128 points · 79 comments"
+        "stats": "129 points · 82 comments"
       },
       {
-        "url": "https://github.com/vercel-labs/just-bash",
-        "title": "Just-bash: Bash for Agents",
-        "description": "Bash for Agents. Contribute to vercel-labs/just-bash development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/a0fddf6a90d304d5007bdac46671cb07e43dc74c4ed0c3aa010ffd38cf9d0f22/vercel-labs/just-bash",
-        "source": "github.com",
-        "stats": "122 points · 68 comments"
+        "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
+        "title": "From Noise to Image – interactive guide to diffusion",
+        "description": "122 points · 16 comments",
+        "image": "",
+        "source": "lighthousesoftware.co.uk",
+        "stats": ""
       }
     ],
     "2026-02-25": [
@@ -134,15 +168,7 @@
         "description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that",
         "image": "https://framerusercontent.com/images/YDDp8rnck6rG7jTHoAV4O5bs.png?width=1024&amp;height=572",
         "source": "trufflesecurity.com",
-        "stats": "1267 points · 304 comments"
-      },
-      {
-        "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-        "title": "How will OpenAI compete?",
-        "description": "OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie",
-        "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6993b59b8517240d2235240a/1771507646532/Frontier%2BLanguage%2BModel%2BIntelligence%2C%2BOver%2BTime%2B%2824%2BJan%2B%2726%29%2B-2.png.webp?format=1500w",
-        "source": "ben-evans.com",
-        "stats": "475 points · 659 comments"
+        "stats": "1273 points · 304 comments"
       },
       {
         "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
@@ -150,23 +176,23 @@
         "description": "A lot of “capture-the-flag” style ML puzzles give you a black box neural net, and your jobis to figure out what it does. When we were thinking of creating ou...",
         "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
         "source": "blog.janestreet.com",
-        "stats": "276 points · 185 comments"
+        "stats": "309 points · 197 comments"
       },
       {
         "url": "https://antirez.com/news/160",
         "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
-        "description": "135 points · 65 comments",
+        "description": "150 points · 71 comments",
         "image": "",
         "source": "antirez.com",
         "stats": ""
       },
       {
-        "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
-        "title": "Steering interpretable language models with concept algebra",
-        "description": "We demonstrate reliable, fine-grained control over language model generation by directly injecting, suppressing, and composing human-interpretable concepts at inference time.",
-        "image": "https://www.guidelabs.ai/logo/guidelabs-social-media-thumbnail.png",
-        "source": "guidelabs.ai",
-        "stats": "76 points · 8 comments"
+        "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+        "title": "Deterministic Programming with LLMs",
+        "description": "36 points · 19 comments",
+        "image": "",
+        "source": "mcherm.com",
+        "stats": ""
       }
     ],
     "2026-02-24": [
@@ -211,16 +237,6 @@
         "image": "https://ladybird.org/assets/img/plant.webp",
         "source": "ladybird.org",
         "stats": "1267 points · 697 comments"
-      }
-    ],
-    "2026-02-22": [
-      {
-        "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
-        "title": "Benchmarks for concurrent hash map implementations in Go",
-        "description": "Benchmarks for concurrent hash map implementations in Go - puzpuzpuz/go-concurrent-map-bench",
-        "image": "https://opengraph.githubassets.com/50f26b05ccace513a86bd82e4ea77d7074247615a8fc474152d651f9ed4e6411/puzpuzpuz/go-concurrent-map-bench",
-        "source": "github.com",
-        "stats": "102 points · 22 comments"
       }
     ]
   }
