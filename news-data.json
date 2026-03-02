@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-03-01T05:39:37.614Z",
+  "lastUpdated": "2026-03-02T05:39:58.497Z",
   "days": {
+    "2026-03-02": [
+      {
+        "url": "https://9to5mac.com/2026/03/01/claude-hits-1-on-the-app-store-as-users-rally-behind-anthropics-government-standoff/",
+        "title": "Claude hits #1 on the App Store as users rally behind Anthropic",
+        "description": "AI chatbots currently take up the top three spots on the US App Store&#8217;s Top Downloaded charts. For Anthropic&#8217;s Claude,...",
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "source": "9to5mac.com",
+        "stats": "96 points · 2 comments"
+      },
+      {
+        "url": "https://github.com/mandel-macaque/memento",
+        "title": "If AI writes code, should the session be part of the commit?",
+        "description": "Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/bcff61c95efb0448542dc860d46612e2e0ad8f1ae08a1d256ef74d71a6875165/mandel-macaque/memento",
+        "source": "github.com",
+        "stats": "106 points · 126 comments"
+      },
+      {
+        "url": "https://github.com/kossisoroyce/timber",
+        "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+        "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost &amp;amp; ONNX models into native C99 inference code. One command to load, one command to serve. 336x f...",
+        "image": "https://opengraph.githubassets.com/e849c9c2e24c8d276a817bb95a57b65facfb3c9955c4d15e8395605a89e55ff8/kossisoroyce/timber",
+        "source": "github.com",
+        "stats": "77 points · 8 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e",
+        "title": "DeepSeek to release long-awaited AI model in new challenge to US rivals",
+        "description": "Chinese AI group has worked with Huawei to cut reliance on Nvidia chips",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76a28ad1-e731-41ea-bcf5-ca34eb0e3cb6.jpg?source=next-barrier-page",
+        "source": "ft.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47213310",
+        "title": "Ask HN: When do you expect ChatGPT moment in robotics?",
+        "description": "4 points · 4 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-03-01": [
       {
         "url": "http://karpathy.github.io/2026/02/12/microgpt/",
@@ -8,38 +50,38 @@
         "description": "Musings of a Computer Scientist.",
         "image": "",
         "source": "karpathy.github.io",
-        "stats": "407 points · 77 comments"
+        "stats": "1758 points · 300 comments"
       },
       {
-        "url": "https://apps.apple.com/us/iphone/charts",
-        "title": "Claude becomes number one app on the U.S. App Store",
-        "description": "Discover the top games and apps for iPhone, including Claude by Anthropic, ChatGPT, Google Gemini, DICK’S Sporting Goods on the App Store.",
-        "image": "https://apps.apple.com//assets/images/share/app-store.png",
-        "source": "apps.apple.com",
-        "stats": "189 points · 54 comments"
+        "url": "https://claude.com/import-memory",
+        "title": "Switch to Claude without starting over",
+        "description": "Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "537 points · 252 comments"
       },
       {
-        "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-        "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
-        "description": "Step-by-step guide to clustering AMD Ryzen™ AI Max+ systems for local one trillion-parameter LLM inference using llama.cpp RPC and ROCm.",
-        "image": "https://www.amd.com/content/dam/amd/en/images/products/desktops/4395050-ryzen-ai-max-pc.jpg",
-        "source": "amd.com",
-        "stats": "47 points · 7 comments"
+        "url": "https://99helpers.com/tools/ad-supported-chat",
+        "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
+        "description": "Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.",
+        "image": "https://99helpers.com/images/main.jpg",
+        "source": "99helpers.com",
+        "stats": "517 points · 278 comments"
       },
       {
-        "url": "https://dl.acm.org/doi/10.1145/3624725",
-        "title": "The Science of Detecting LLM-Generated Text",
-        "description": "6 points · 0 comments",
+        "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+        "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+        "description": "Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.",
         "image": "",
-        "source": "dl.acm.org",
-        "stats": ""
+        "source": "ivanturkovic.com",
+        "stats": "380 points · 296 comments"
       },
       {
-        "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2",
-        "title": "Strike in the Middle East use Anthropic even after the Trump ban",
-        "description": "4 points · 0 comments",
+        "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+        "title": "When does MCP make sense vs CLI?",
+        "description": "332 points · 213 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "ejholmes.github.io",
         "stats": ""
       }
     ],
@@ -47,7 +89,7 @@
       {
         "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
         "title": "OpenAI – How to delete your account",
-        "description": "1837 points · 345 comments",
+        "description": "1899 points · 356 comments",
         "image": "",
         "source": "help.openai.com",
         "stats": ""
@@ -55,7 +97,15 @@
       {
         "url": "https://twitter.com/sama/status/2027578652477821175",
         "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-        "description": "1350 points · 625 comments",
+        "description": "1388 points · 644 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+        "title": "We do not think Anthropic should be designated as a supply chain risk",
+        "description": "794 points · 429 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -63,44 +113,28 @@
       {
         "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
         "title": "How do I cancel my ChatGPT subscription?",
-        "description": "1024 points · 239 comments",
+        "description": "1057 points · 249 comments",
         "image": "",
         "source": "help.openai.com",
         "stats": ""
       },
       {
-        "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-        "title": "We do not think Anthropic should be designated as a supply chain risk",
-        "description": "412 points · 178 comments",
+        "url": "https://mksg.lu/blog/context-mode",
+        "title": "MCP server that reduces Claude Code context consumption by 98%",
+        "description": "MCP server that reduces Claude Code context consumption by 98%. 315 KB becomes 5.4 KB.",
         "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-        "title": "OpenAI fires an employee for prediction market insider trading",
-        "description": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-        "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
-        "source": "wired.com",
-        "stats": "274 points · 142 comments"
+        "source": "mksg.lu",
+        "stats": "543 points · 101 comments"
       }
     ],
     "2026-02-27": [
-      {
-        "url": "https://twitter.com/secwar/status/2027507717469049070",
-        "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-        "description": "1331 points · 1063 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
       {
         "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
         "title": "OpenAI raises $110B on $730B pre-money valuation",
         "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
         "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "555 points · 580 comments"
+        "stats": "558 points · 591 comments"
       },
       {
         "url": "https://claude.com/contact-sales/claude-for-oss",
@@ -108,54 +142,46 @@
         "description": "Apply to the Claude for Open Source program. Eligible OSS maintainers and contributors get Claude Max for 6 months on us.",
         "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
         "source": "claude.com",
-        "stats": "557 points · 233 comments"
+        "stats": "572 points · 233 comments"
       },
       {
-        "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
-        "title": "President Trump bans Anthropic from use in government systems",
-        "description": "Shortly after the president&#039;s ban of artificial intelligence company Anthropic, rival OpenAI announced it had done a deal with the Defense Department to provide its technology for classified networks.",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2346x1320+0+93/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fea%2Fbfec70974d408a48598215de7c04%2Fap26036779392489.jpg",
-        "source": "npr.org",
-        "stats": "317 points · 212 comments"
+        "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+        "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+        "description": "A sprawling Chinese influence operation — accidentally revealed by a Chinese law enforcement official’s use of ChatGPT — focused on intimidating Chinese dissidents abroad, including by impersonating US immigration officials, according to a new report from ChatGPT-maker OpenAI.",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25217544785149.jpg?c=16x9&q=w_800,c_fill",
+        "source": "cnn.com",
+        "stats": "257 points · 171 comments"
       },
       {
-        "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
-        "title": "The Pentagon is making a mistake by threatening Anthropic",
-        "description": "Anthropic faces a Friday deadline to allow domestic surveillance and automated killer robots.",
-        "image": "https://substackcdn.com/image/fetch/$s_!p-HT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c021cdc-3feb-4fa6-982f-1212820500f7_5431x3621.jpeg",
-        "source": "understandingai.org",
-        "stats": "255 points · 226 comments"
+        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+        "title": "We gave terabytes of CI logs to an LLM",
+        "description": "We gave our AI agent a SQL interface to billions of CI log lines in ClickHouse. How we ingest, store, and query 1.5 billion log lines a week.",
+        "image": "https://mendral.com/og?title=LLMs%20Are%20Good%20at%20SQL.%20We%20Gave%20Ours%20Terabytes%20of%20CI%20Logs.",
+        "source": "mendral.com",
+        "stats": "226 points · 109 comments"
+      },
+      {
+        "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+        "title": "747s and coding agents",
+        "description": "Comparing a career flying the 747 and a career coding with AI assistance.",
+        "image": "https://carlkolon.com/assets/media/747/variable-stator-vanes.webp",
+        "source": "carlkolon.com",
+        "stats": "170 points · 91 comments"
       }
     ],
     "2026-02-26": [
       {
-        "url": "https://amplifying.ai/research/claude-code-picks",
-        "title": "What Claude Code chooses",
-        "description": "Systematic analysis of how AI systems make decisions — from product recommendations to developer tool choices.",
-        "image": "https://amplifying.ai/research/claude-code-picks/opengraph-image.png?267f044bb5256d31",
-        "source": "amplifying.ai",
-        "stats": "601 points · 227 comments"
-      },
-      {
         "url": "https://github.com/anadim/AdderBoard",
         "title": "Smallest transformer that can add two 10-digit numbers",
         "description": "Smallest transformer that can add two 10-digit numbers - anadim/AdderBoard",
-        "image": "https://opengraph.githubassets.com/1232ef7cfd00dc1c51575db5bb56e20cd04b58dab8b5ca51dbf82b1bb2c205e0/anadim/AdderBoard",
+        "image": "https://opengraph.githubassets.com/5120ba9a5a127d6da0936cc0fac7b018f74edc9e023be29eb272a9371be3901a/anadim/AdderBoard",
         "source": "github.com",
-        "stats": "230 points · 94 comments"
-      },
-      {
-        "url": "https://www.usecardboard.com/",
-        "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-        "description": "Create, cut, and compose videos with AI right in your browser. Cardboard handles the mundane edits so you can focus on storytelling.",
-        "image": "https://www.usecardboard.com/images/marketing/og.png",
-        "source": "usecardboard.com",
-        "stats": "129 points · 82 comments"
+        "stats": "242 points · 97 comments"
       },
       {
         "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
         "title": "From Noise to Image – interactive guide to diffusion",
-        "description": "122 points · 16 comments",
+        "description": "148 points · 21 comments",
         "image": "",
         "source": "lighthousesoftware.co.uk",
         "stats": ""
@@ -168,28 +194,12 @@
         "description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that",
         "image": "https://framerusercontent.com/images/YDDp8rnck6rG7jTHoAV4O5bs.png?width=1024&amp;height=572",
         "source": "trufflesecurity.com",
-        "stats": "1273 points · 304 comments"
-      },
-      {
-        "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-        "title": "Can you reverse engineer our neural network?",
-        "description": "A lot of “capture-the-flag” style ML puzzles give you a black box neural net, and your jobis to figure out what it does. When we were thinking of creating ou...",
-        "image": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/puzzle.png",
-        "source": "blog.janestreet.com",
-        "stats": "309 points · 197 comments"
-      },
-      {
-        "url": "https://antirez.com/news/160",
-        "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
-        "description": "150 points · 71 comments",
-        "image": "",
-        "source": "antirez.com",
-        "stats": ""
+        "stats": "1280 points · 305 comments"
       },
       {
         "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
         "title": "Deterministic Programming with LLMs",
-        "description": "36 points · 19 comments",
+        "description": "67 points · 29 comments",
         "image": "",
         "source": "mcherm.com",
         "stats": ""
@@ -227,16 +237,6 @@
         "image": "",
         "source": "storozhenko98.github.io",
         "stats": "41 points · 21 comments"
-      }
-    ],
-    "2026-02-23": [
-      {
-        "url": "https://ladybird.org/posts/adopting-rust/",
-        "title": "Ladybird adopts Rust, with help from AI",
-        "description": "We",
-        "image": "https://ladybird.org/assets/img/plant.webp",
-        "source": "ladybird.org",
-        "stats": "1267 points · 697 comments"
       }
     ]
   }
