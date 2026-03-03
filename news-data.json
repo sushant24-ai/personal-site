@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-02T05:39:58.497Z",
+  "lastUpdated": "2026-03-03T05:35:51.180Z",
   "days": {
+    "2026-03-03": [
+      {
+        "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+        "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+        "description": "Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.",
+        "image": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
+        "source": "futurism.com",
+        "stats": "110 points · 53 comments"
+      },
+      {
+        "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+        "title": "Elevated Errors in Claude.ai",
+        "description": "Claude&#39;s Status Page - Elevated errors in claude.ai, cowork, platform, claude code.",
+        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+        "source": "status.claude.com",
+        "stats": "45 points · 28 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47228213",
+        "title": "Is It Just Me – Or Are Outages Everywhere Lately? (Claude, GitHub, Supabase)",
+        "description": "20 points · 5 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/",
+        "title": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
+        "description": "Everyone online says AI agents are printing money in 2026. So where are the real receipts? We investigated Mac Minis, OpenClaw setups, and the uncomfortable truth.",
+        "image": "https://www.siliconsnark.com/content/images/size/w1200/2026/03/ChatGPT-Image-Mar-1--2026--09_58_44-PM.png",
+        "source": "siliconsnark.com",
+        "stats": "26 points · 15 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47227740",
+        "title": "Whats Up with Claude Lately?",
+        "description": "9 points · 10 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-03-02": [
       {
-        "url": "https://9to5mac.com/2026/03/01/claude-hits-1-on-the-app-store-as-users-rally-behind-anthropics-government-standoff/",
-        "title": "Claude hits #1 on the App Store as users rally behind Anthropic",
-        "description": "AI chatbots currently take up the top three spots on the US App Store&#8217;s Top Downloaded charts. For Anthropic&#8217;s Claude,...",
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "source": "9to5mac.com",
-        "stats": "96 points · 2 comments"
+        "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+        "title": "Meta’s AI smart glasses and data privacy concerns",
+        "description": "Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.",
+        "image": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=d82dc447eb031914967ea232d0aab8207eab5ef0",
+        "source": "svd.se",
+        "stats": "846 points · 487 comments"
+      },
+      {
+        "url": "https://github.com/anthropics/claude-code/issues/22543",
+        "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+        "description": "Description After using the cowork feature, Claude Desktop becomes extremely slow - slow startup, UI lag, and slow responses. Performance degrades over time even during a single session. Investigat...",
+        "image": "https://opengraph.githubassets.com/b45df59cfb1022953e37c4c691b86e42637508be1aa60584d0ba812bea04226e/anthropics/claude-code/issues/22543",
+        "source": "github.com",
+        "stats": "357 points · 182 comments"
+      },
+      {
+        "url": "https://www.ntik.me/posts/voice-agent",
+        "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+        "description": "Nick Tikhonov&#x27;s blog",
+        "image": "https://ntik.me/voice-agent-essay/agent-logs.png",
+        "source": "ntik.me",
+        "stats": "278 points · 83 comments"
       },
       {
         "url": "https://github.com/mandel-macaque/memento",
         "title": "If AI writes code, should the session be part of the commit?",
         "description": "Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/bcff61c95efb0448542dc860d46612e2e0ad8f1ae08a1d256ef74d71a6875165/mandel-macaque/memento",
+        "image": "https://opengraph.githubassets.com/6e97618d3f515624fbbc587b9c803bd793ac96316499022532a2da54df9c7061/mandel-macaque/memento",
         "source": "github.com",
-        "stats": "106 points · 126 comments"
+        "stats": "469 points · 376 comments"
       },
       {
-        "url": "https://github.com/kossisoroyce/timber",
-        "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
-        "description": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost &amp;amp; ONNX models into native C99 inference code. One command to load, one command to serve. 336x f...",
-        "image": "https://opengraph.githubassets.com/e849c9c2e24c8d276a817bb95a57b65facfb3c9955c4d15e8395605a89e55ff8/kossisoroyce/timber",
-        "source": "github.com",
-        "stats": "77 points · 8 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e",
-        "title": "DeepSeek to release long-awaited AI model in new challenge to US rivals",
-        "description": "Chinese AI group has worked with Huawei to cut reliance on Nvidia chips",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76a28ad1-e731-41ea-bcf5-ca34eb0e3cb6.jpg?source=next-barrier-page",
-        "source": "ft.com",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47213310",
-        "title": "Ask HN: When do you expect ChatGPT moment in robotics?",
-        "description": "4 points · 4 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
+        "title": "A case for Go as the best language for AI agents",
+        "description": "Pull up your agents folks, I",
+        "image": "https://getbruin.com/__og-image__/static/blog/go-is-the-best-language-for-agents/og.png",
+        "source": "getbruin.com",
+        "stats": "162 points · 230 comments"
       }
     ],
     "2026-03-01": [
@@ -50,7 +92,7 @@
         "description": "Musings of a Computer Scientist.",
         "image": "",
         "source": "karpathy.github.io",
-        "stats": "1758 points · 300 comments"
+        "stats": "1900 points · 319 comments"
       },
       {
         "url": "https://claude.com/import-memory",
@@ -58,7 +100,7 @@
         "description": "Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.",
         "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
         "source": "claude.com",
-        "stats": "537 points · 252 comments"
+        "stats": "582 points · 270 comments"
       },
       {
         "url": "https://99helpers.com/tools/ad-supported-chat",
@@ -66,7 +108,15 @@
         "description": "Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.",
         "image": "https://99helpers.com/images/main.jpg",
         "source": "99helpers.com",
-        "stats": "517 points · 278 comments"
+        "stats": "581 points · 307 comments"
+      },
+      {
+        "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+        "title": "When does MCP make sense vs CLI?",
+        "description": "428 points · 283 comments",
+        "image": "",
+        "source": "ejholmes.github.io",
+        "stats": ""
       },
       {
         "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
@@ -74,57 +124,17 @@
         "description": "Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.",
         "image": "",
         "source": "ivanturkovic.com",
-        "stats": "380 points · 296 comments"
-      },
-      {
-        "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
-        "title": "When does MCP make sense vs CLI?",
-        "description": "332 points · 213 comments",
-        "image": "",
-        "source": "ejholmes.github.io",
-        "stats": ""
+        "stats": "394 points · 307 comments"
       }
     ],
     "2026-02-28": [
       {
-        "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
-        "title": "OpenAI – How to delete your account",
-        "description": "1899 points · 356 comments",
-        "image": "",
-        "source": "help.openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/sama/status/2027578652477821175",
-        "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-        "description": "1388 points · 644 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
         "url": "https://twitter.com/OpenAI/status/2027846016423321831",
         "title": "We do not think Anthropic should be designated as a supply chain risk",
-        "description": "794 points · 429 comments",
+        "description": "821 points · 443 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
-      },
-      {
-        "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
-        "title": "How do I cancel my ChatGPT subscription?",
-        "description": "1057 points · 249 comments",
-        "image": "",
-        "source": "help.openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://mksg.lu/blog/context-mode",
-        "title": "MCP server that reduces Claude Code context consumption by 98%",
-        "description": "MCP server that reduces Claude Code context consumption by 98%. 315 KB becomes 5.4 KB.",
-        "image": "",
-        "source": "mksg.lu",
-        "stats": "543 points · 101 comments"
       }
     ],
     "2026-02-27": [
@@ -203,40 +213,6 @@
         "image": "",
         "source": "mcherm.com",
         "stats": ""
-      }
-    ],
-    "2026-02-24": [
-      {
-        "url": "https://vmfunc.re/blog/persona/",
-        "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-        "description": "53MB of source code leaked from a government endpoint. 269 verification checks. biometric face databases. SAR filings to FinCEN. and the same company that verifies your ChatGPT account.",
-        "image": "",
-        "source": "vmfunc.re",
-        "stats": "648 points · 198 comments"
-      },
-      {
-        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-        "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-        "description": "Today, we",
-        "image": "https://framerusercontent.com/assets/xqKJszO4tzsVEusCSL14t11EJZg.png",
-        "source": "inceptionlabs.ai",
-        "stats": "345 points · 126 comments"
-      },
-      {
-        "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-        "title": "Large-Scale Online Deanonymization with LLMs",
-        "description": "340 points · 234 comments",
-        "image": "",
-        "source": "simonlermen.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://storozhenko98.github.io/beehive/",
-        "title": "Show HN: Beehive – Multi-Workspace Agent Orchestrator",
-        "description": "A desktop app for orchestrating coding agents across isolated git workspaces.",
-        "image": "",
-        "source": "storozhenko98.github.io",
-        "stats": "41 points · 21 comments"
       }
     ]
   }
