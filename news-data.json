@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-03T05:35:51.180Z",
+  "lastUpdated": "2026-03-04T05:15:19.221Z",
   "days": {
+    "2026-03-04": [
+      {
+        "url": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
+        "title": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
+        "description": "126 points · 28 comments",
+        "image": "",
+        "source": "euronews.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+        "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+        "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "29 points · 10 comments"
+      },
+      {
+        "url": "https://www.reuters.com/business/openai-is-developing-alternative-microsofts-github-information-reports-2026-03-03/",
+        "title": "OpenAI is developing alternative to Microsoft's GitHub",
+        "description": "27 points · 8 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf",
+        "title": "Claude's Cycles [pdf]",
+        "description": "23 points · 3 comments",
+        "image": "",
+        "source": "cs.stanford.edu",
+        "stats": ""
+      },
+      {
+        "url": "https://www.semafor.com/article/03/03/2026/ap-brass-to-staff-resistance-to-ai-is-futile",
+        "title": "AP brass to staff: Resistance to AI is 'futile'",
+        "description": "The tensions inside the wire service reveal a broader conflict playing out across the media over how AI should be applied within journalism. ",
+        "image": "https://img.semafor.com/92fb3e05f5fe6c7df230e44ca0fdfa1ba7ede085-6290x4916.jpg?rect=0,807,6290,3302&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
+        "source": "semafor.com",
+        "stats": "9 points · 1 comments"
+      }
+    ],
     "2026-03-03": [
+      {
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+        "title": "Claude's Cycles [pdf]",
+        "description": "554 points · 231 comments",
+        "image": "",
+        "source": "www-cs-faculty.stanford.edu",
+        "stats": ""
+      },
+      {
+        "url": "https://openai.com/index/gpt-5-3-instant/",
+        "title": "GPT‑5.3 Instant",
+        "description": "316 points · 245 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
       {
         "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
         "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
         "description": "Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.",
         "image": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
         "source": "futurism.com",
-        "stats": "110 points · 53 comments"
+        "stats": "578 points · 359 comments"
       },
       {
-        "url": "https://status.claude.com/incidents/yf48hzysrvl5",
-        "title": "Elevated Errors in Claude.ai",
-        "description": "Claude&#39;s Status Page - Elevated errors in claude.ai, cowork, platform, claude code.",
-        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-        "source": "status.claude.com",
-        "stats": "45 points · 28 comments"
+        "url": "https://www.bbc.com/news/articles/c178zzw780xo",
+        "title": "India's top court angry after junior judge cites fake AI-generated orders",
+        "description": "In several recent instances, AI has disrupted court proceedings in India and elsewhere.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab1c/live/e75859a0-16fd-11f1-801d-ed3cff6bf876.jpg",
+        "source": "bbc.com",
+        "stats": "341 points · 180 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47228213",
-        "title": "Is It Just Me – Or Are Outages Everywhere Lately? (Claude, GitHub, Supabase)",
-        "description": "20 points · 5 comments",
+        "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+        "title": "When AI writes the software, who verifies it?",
+        "description": "Leonardo de Moura — Creator of Lean and Z3",
         "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/",
-        "title": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
-        "description": "Everyone online says AI agents are printing money in 2026. So where are the real receipts? We investigated Mac Minis, OpenClaw setups, and the uncomfortable truth.",
-        "image": "https://www.siliconsnark.com/content/images/size/w1200/2026/03/ChatGPT-Image-Mar-1--2026--09_58_44-PM.png",
-        "source": "siliconsnark.com",
-        "stats": "26 points · 15 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47227740",
-        "title": "Whats Up with Claude Lately?",
-        "description": "9 points · 10 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "source": "leodemoura.github.io",
+        "stats": "189 points · 177 comments"
       }
     ],
     "2026-03-02": [
@@ -50,15 +92,15 @@
         "description": "Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.",
         "image": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=d82dc447eb031914967ea232d0aab8207eab5ef0",
         "source": "svd.se",
-        "stats": "846 points · 487 comments"
+        "stats": "1375 points · 775 comments"
       },
       {
-        "url": "https://github.com/anthropics/claude-code/issues/22543",
-        "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
-        "description": "Description After using the cowork feature, Claude Desktop becomes extremely slow - slow startup, UI lag, and slow responses. Performance degrades over time even during a single session. Investigat...",
-        "image": "https://opengraph.githubassets.com/b45df59cfb1022953e37c4c691b86e42637508be1aa60584d0ba812bea04226e/anthropics/claude-code/issues/22543",
-        "source": "github.com",
-        "stats": "357 points · 182 comments"
+        "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+        "title": "“Microslop” filtered in the official Microsoft Copilot Discord server",
+        "description": "Microsoft blocks the word Microslop on its Copilot Discord, bans users, and locks channels after backlash, showing tensions around its AI push",
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/03/Copilots-official-Discord-channel-was-locked-down-after-users-went-haywire-with-unflattering-nicknames-targetted-at-Microsoft.jpg",
+        "source": "windowslatest.com",
+        "stats": "1158 points · 530 comments"
       },
       {
         "url": "https://www.ntik.me/posts/voice-agent",
@@ -66,23 +108,23 @@
         "description": "Nick Tikhonov&#x27;s blog",
         "image": "https://ntik.me/voice-agent-essay/agent-logs.png",
         "source": "ntik.me",
-        "stats": "278 points · 83 comments"
+        "stats": "555 points · 152 comments"
+      },
+      {
+        "url": "https://github.com/anthropics/claude-code/issues/22543",
+        "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+        "description": "Description After using the cowork feature, Claude Desktop becomes extremely slow - slow startup, UI lag, and slow responses. Performance degrades over time even during a single session. Investigat...",
+        "image": "https://opengraph.githubassets.com/c39aba1a16c9f6f9245af0a090f2706c340dfbbf3af32369e65e959be837d686/anthropics/claude-code/issues/22543",
+        "source": "github.com",
+        "stats": "372 points · 186 comments"
       },
       {
         "url": "https://github.com/mandel-macaque/memento",
         "title": "If AI writes code, should the session be part of the commit?",
         "description": "Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/6e97618d3f515624fbbc587b9c803bd793ac96316499022532a2da54df9c7061/mandel-macaque/memento",
+        "image": "https://opengraph.githubassets.com/34b4926e6961160647183e4a1682da7d7ad3ec4e8c6c921f1bccbb95fea04e86/mandel-macaque/memento",
         "source": "github.com",
-        "stats": "469 points · 376 comments"
-      },
-      {
-        "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
-        "title": "A case for Go as the best language for AI agents",
-        "description": "Pull up your agents folks, I",
-        "image": "https://getbruin.com/__og-image__/static/blog/go-is-the-best-language-for-agents/og.png",
-        "source": "getbruin.com",
-        "stats": "162 points · 230 comments"
+        "stats": "494 points · 388 comments"
       }
     ],
     "2026-03-01": [
@@ -92,39 +134,23 @@
         "description": "Musings of a Computer Scientist.",
         "image": "",
         "source": "karpathy.github.io",
-        "stats": "1900 points · 319 comments"
+        "stats": "1919 points · 322 comments"
       },
       {
-        "url": "https://claude.com/import-memory",
-        "title": "Switch to Claude without starting over",
-        "description": "Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.",
-        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
-        "source": "claude.com",
-        "stats": "582 points · 270 comments"
+        "url": "https://github.com/AlexsJones/llmfit",
+        "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+        "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware. - AlexsJones/llmfit",
+        "image": "https://opengraph.githubassets.com/e1dfdc0ca3410ecec36523ebcc8b0e17484bc85f78ed03d8efbb539f6f76a82b/AlexsJones/llmfit",
+        "source": "github.com",
+        "stats": "289 points · 70 comments"
       },
       {
-        "url": "https://99helpers.com/tools/ad-supported-chat",
-        "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
-        "description": "Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.",
-        "image": "https://99helpers.com/images/main.jpg",
-        "source": "99helpers.com",
-        "stats": "581 points · 307 comments"
-      },
-      {
-        "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
-        "title": "When does MCP make sense vs CLI?",
-        "description": "428 points · 283 comments",
+        "url": "https://leandojo.org/torchlean.html",
+        "title": "TorchLean: Formalizing Neural Networks in Lean",
+        "description": "80 points · 11 comments",
         "image": "",
-        "source": "ejholmes.github.io",
+        "source": "leandojo.org",
         "stats": ""
-      },
-      {
-        "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-        "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
-        "description": "Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.",
-        "image": "",
-        "source": "ivanturkovic.com",
-        "stats": "394 points · 307 comments"
       }
     ],
     "2026-02-28": [
@@ -194,24 +220,6 @@
         "description": "148 points · 21 comments",
         "image": "",
         "source": "lighthousesoftware.co.uk",
-        "stats": ""
-      }
-    ],
-    "2026-02-25": [
-      {
-        "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-        "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-        "description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that",
-        "image": "https://framerusercontent.com/images/YDDp8rnck6rG7jTHoAV4O5bs.png?width=1024&amp;height=572",
-        "source": "trufflesecurity.com",
-        "stats": "1280 points · 305 comments"
-      },
-      {
-        "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-        "title": "Deterministic Programming with LLMs",
-        "description": "67 points · 29 comments",
-        "image": "",
-        "source": "mcherm.com",
         "stats": ""
       }
     ]
