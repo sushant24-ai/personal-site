@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-03-04T05:15:19.221Z",
+  "lastUpdated": "2026-03-05T04:15:33.502Z",
   "days": {
+    "2026-03-05": [
+      {
+        "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+        "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+        "description": "Nvidia CEO Jensen Huang said Wednesday that his company&#039;s investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+        "source": "techcrunch.com",
+        "stats": "39 points · 3 comments"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
+        "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+        "description": "Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa98/live/8d1953c0-17db-11f1-992f-8778a9867203.jpg",
+        "source": "bbc.com",
+        "stats": "37 points · 4 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b",
+        "title": "Anthropic chief back in talks with Pentagon about AI deal",
+        "description": "Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1651d522-32fc-4684-b514-10dec319390a.jpg?source=next-barrier-page",
+        "source": "ft.com",
+        "stats": "20 points · 2 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47256614",
+        "title": "Tell HN: AI Lies About Having Sandbox Guardrails",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.sammystraus.com/#satire-claude-code-build-my-entire-open-source-project-in-5-minutes",
+        "title": "[satire] Claude Code build my open source project in 5 minutes",
+        "description": "3 points · 4 comments",
+        "image": "",
+        "source": "sammystraus.com",
+        "stats": ""
+      }
+    ],
     "2026-03-04": [
       {
-        "url": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
-        "title": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
-        "description": "126 points · 28 comments",
+        "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+        "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+        "description": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
+        "source": "techcrunch.com",
+        "stats": "342 points · 167 comments"
+      },
+      {
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+        "title": "Agentic Engineering Patterns",
+        "description": "498 points · 283 comments",
         "image": "",
-        "source": "euronews.com",
+        "source": "simonwillison.net",
         "stats": ""
       },
       {
-        "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-        "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-        "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "29 points · 10 comments"
+        "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+        "title": "Qwen3.5 Fine-Tuning Guide",
+        "description": "Learn how to fine-tune Qwen3.5 LLMs with Unsloth.",
+        "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&amp;width=1200&amp;height=630&amp;sign=b1ca68fa&amp;sv=2",
+        "source": "unsloth.ai",
+        "stats": "300 points · 70 comments"
       },
       {
-        "url": "https://www.reuters.com/business/openai-is-developing-alternative-microsofts-github-information-reports-2026-03-03/",
-        "title": "OpenAI is developing alternative to Microsoft's GitHub",
-        "description": "27 points · 8 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "url": "https://www.bbc.com/news/articles/czx44p99457o",
+        "title": "Father claims Google's AI product fuelled son's delusional spiral",
+        "description": "The case is the first wrongful death case against Google over alleged harms caused by Gemini.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0708/live/dc170490-1812-11f1-9154-e1fd43ccfa04.jpg",
+        "source": "bbc.com",
+        "stats": "172 points · 218 comments"
       },
       {
-        "url": "https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf",
-        "title": "Claude's Cycles [pdf]",
-        "description": "23 points · 3 comments",
-        "image": "",
-        "source": "cs.stanford.edu",
-        "stats": ""
-      },
-      {
-        "url": "https://www.semafor.com/article/03/03/2026/ap-brass-to-staff-resistance-to-ai-is-futile",
-        "title": "AP brass to staff: Resistance to AI is 'futile'",
-        "description": "The tensions inside the wire service reveal a broader conflict playing out across the media over how AI should be applied within journalism. ",
-        "image": "https://img.semafor.com/92fb3e05f5fe6c7df230e44ca0fdfa1ba7ede085-6290x4916.jpg?rect=0,807,6290,3302&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
-        "source": "semafor.com",
-        "stats": "9 points · 1 comments"
+        "url": "https://github.com/robertcprice/nCPU",
+        "title": "A CPU that runs entirely on GPU",
+        "description": "nCPU: model-native and tensor-optimized CPU research runtimes with organized workloads, tools, and docs - robertcprice/nCPU",
+        "image": "https://opengraph.githubassets.com/f213b980f2896c46e9f9dcfcd6ed9f5fd644827c2fdcd2f33a807752791f68ca/robertcprice/nCPU",
+        "source": "github.com",
+        "stats": "243 points · 121 comments"
       }
     ],
     "2026-03-03": [
       {
         "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
         "title": "Claude's Cycles [pdf]",
-        "description": "554 points · 231 comments",
+        "description": "770 points · 327 comments",
         "image": "",
         "source": "www-cs-faculty.stanford.edu",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://openai.com/index/gpt-5-3-instant/",
         "title": "GPT‑5.3 Instant",
-        "description": "316 points · 245 comments",
+        "description": "390 points · 296 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -66,7 +108,7 @@
         "description": "Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.",
         "image": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
         "source": "futurism.com",
-        "stats": "578 points · 359 comments"
+        "stats": "596 points · 377 comments"
       },
       {
         "url": "https://www.bbc.com/news/articles/c178zzw780xo",
@@ -74,7 +116,7 @@
         "description": "In several recent instances, AI has disrupted court proceedings in India and elsewhere.",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab1c/live/e75859a0-16fd-11f1-801d-ed3cff6bf876.jpg",
         "source": "bbc.com",
-        "stats": "341 points · 180 comments"
+        "stats": "361 points · 185 comments"
       },
       {
         "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
@@ -82,7 +124,7 @@
         "description": "Leonardo de Moura — Creator of Lean and Z3",
         "image": "",
         "source": "leodemoura.github.io",
-        "stats": "189 points · 177 comments"
+        "stats": "297 points · 289 comments"
       }
     ],
     "2026-03-02": [
@@ -92,7 +134,7 @@
         "description": "Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.",
         "image": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=d82dc447eb031914967ea232d0aab8207eab5ef0",
         "source": "svd.se",
-        "stats": "1375 points · 775 comments"
+        "stats": "1407 points · 798 comments"
       },
       {
         "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
@@ -100,54 +142,30 @@
         "description": "Microsoft blocks the word Microslop on its Copilot Discord, bans users, and locks channels after backlash, showing tensions around its AI push",
         "image": "https://www.windowslatest.com/wp-content/uploads/2026/03/Copilots-official-Discord-channel-was-locked-down-after-users-went-haywire-with-unflattering-nicknames-targetted-at-Microsoft.jpg",
         "source": "windowslatest.com",
-        "stats": "1158 points · 530 comments"
+        "stats": "1168 points · 541 comments"
       },
       {
-        "url": "https://www.ntik.me/posts/voice-agent",
-        "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-        "description": "Nick Tikhonov&#x27;s blog",
-        "image": "https://ntik.me/voice-agent-essay/agent-logs.png",
-        "source": "ntik.me",
-        "stats": "555 points · 152 comments"
+        "url": "https://schipper.ai/posts/parallel-coding-agents/",
+        "title": "Parallel coding agents with tmux and Markdown specs",
+        "description": "A practical workflow for running 4–8 parallel coding agents using Claude Code, tmux, and a Markdown-based feature design system.",
+        "image": "",
+        "source": "schipper.ai",
+        "stats": "185 points · 142 comments"
       },
       {
-        "url": "https://github.com/anthropics/claude-code/issues/22543",
-        "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
-        "description": "Description After using the cowork feature, Claude Desktop becomes extremely slow - slow startup, UI lag, and slow responses. Performance degrades over time even during a single session. Investigat...",
-        "image": "https://opengraph.githubassets.com/c39aba1a16c9f6f9245af0a090f2706c340dfbbf3af32369e65e959be837d686/anthropics/claude-code/issues/22543",
-        "source": "github.com",
-        "stats": "372 points · 186 comments"
-      },
-      {
-        "url": "https://github.com/mandel-macaque/memento",
-        "title": "If AI writes code, should the session be part of the commit?",
-        "description": "Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/34b4926e6961160647183e4a1682da7d7ad3ec4e8c6c921f1bccbb95fea04e86/mandel-macaque/memento",
-        "source": "github.com",
-        "stats": "494 points · 388 comments"
+        "url": "https://news.ycombinator.com/item?id=47220320",
+        "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+        "description": "110 points · 58 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-03-01": [
       {
-        "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-        "title": "Microgpt",
-        "description": "Musings of a Computer Scientist.",
-        "image": "",
-        "source": "karpathy.github.io",
-        "stats": "1919 points · 322 comments"
-      },
-      {
-        "url": "https://github.com/AlexsJones/llmfit",
-        "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-        "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware. - AlexsJones/llmfit",
-        "image": "https://opengraph.githubassets.com/e1dfdc0ca3410ecec36523ebcc8b0e17484bc85f78ed03d8efbb539f6f76a82b/AlexsJones/llmfit",
-        "source": "github.com",
-        "stats": "289 points · 70 comments"
-      },
-      {
         "url": "https://leandojo.org/torchlean.html",
         "title": "TorchLean: Formalizing Neural Networks in Lean",
-        "description": "80 points · 11 comments",
+        "description": "100 points · 20 comments",
         "image": "",
         "source": "leandojo.org",
         "stats": ""
@@ -203,24 +221,6 @@
         "image": "https://carlkolon.com/assets/media/747/variable-stator-vanes.webp",
         "source": "carlkolon.com",
         "stats": "170 points · 91 comments"
-      }
-    ],
-    "2026-02-26": [
-      {
-        "url": "https://github.com/anadim/AdderBoard",
-        "title": "Smallest transformer that can add two 10-digit numbers",
-        "description": "Smallest transformer that can add two 10-digit numbers - anadim/AdderBoard",
-        "image": "https://opengraph.githubassets.com/5120ba9a5a127d6da0936cc0fac7b018f74edc9e023be29eb272a9371be3901a/anadim/AdderBoard",
-        "source": "github.com",
-        "stats": "242 points · 97 comments"
-      },
-      {
-        "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
-        "title": "From Noise to Image – interactive guide to diffusion",
-        "description": "148 points · 21 comments",
-        "image": "",
-        "source": "lighthousesoftware.co.uk",
-        "stats": ""
       }
     ]
   }
