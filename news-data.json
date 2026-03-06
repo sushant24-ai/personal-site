@@ -1,45 +1,87 @@
 {
-  "lastUpdated": "2026-03-05T04:15:33.502Z",
+  "lastUpdated": "2026-03-06T04:12:04.027Z",
   "days": {
-    "2026-03-05": [
+    "2026-03-06": [
       {
-        "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-        "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-        "description": "Nvidia CEO Jensen Huang said Wednesday that his company&#039;s investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
-        "source": "techcrunch.com",
-        "stats": "39 points · 3 comments"
+        "url": "https://www.wionews.com/world/-no-dictator-style-praise-anthropic-ceo-says-us-govt-hostility-linked-to-trump-donations-slams-openai-s-altman-in-internal-memo-report-1772698855018",
+        "title": "'Anthropic CEO says US govt hostility linked to Trump donations [Leaked memo]",
+        "description": "Anthropic CEO Dario Amodei hinted that the Trump administration targeted the company after it refused political donations and opposed changes to Pentagon AI contracts involving mass surveillance and autonomous weapons. Here are his allegations, according to reports",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260305/image-1772699103991.png?imwidth=1200&amp;imheight=900",
+        "source": "wionews.com",
+        "stats": "9 points · 1 comments"
       },
       {
-        "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo",
-        "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-        "description": "Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa98/live/8d1953c0-17db-11f1-992f-8778a9867203.jpg",
-        "source": "bbc.com",
-        "stats": "37 points · 4 comments"
+        "url": "https://www.theregister.com/2026/03/06/ai_kills_software_licensing/",
+        "title": "Chardet dispute shows how AI will kill software licensing, argues Bruce Perens",
+        "description": ": Alarm bells are ringing in the open source community, but commercial licensing is also at risk",
+        "image": "https://regmedia.co.uk/2019/08/13/shutterstock_graveyard.jpg",
+        "source": "theregister.com",
+        "stats": "9 points · 0 comments"
       },
       {
-        "url": "https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b",
-        "title": "Anthropic chief back in talks with Pentagon about AI deal",
-        "description": "Dario Amodei holding discussions with deputy to Pete Hegseth to reach a compromise on military use of the technology",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1651d522-32fc-4684-b514-10dec319390a.jpg?source=next-barrier-page",
-        "source": "ft.com",
-        "stats": "20 points · 2 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47256614",
-        "title": "Tell HN: AI Lies About Having Sandbox Guardrails",
-        "description": "5 points · 0 comments",
+        "url": "https://www.wsj.com/business/telecom/the-fcc-wants-your-next-customer-service-agent-to-be-in-the-u-s-3c44e14e",
+        "title": "The FCC Wants Your Next Customer Service Agent to Be in the U.S.",
+        "description": "9 points · 4 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "wsj.com",
         "stats": ""
       },
       {
-        "url": "https://www.sammystraus.com/#satire-claude-code-build-my-entire-open-source-project-in-5-minutes",
-        "title": "[satire] Claude Code build my open source project in 5 minutes",
-        "description": "3 points · 4 comments",
+        "url": "https://agents.zalor.ai/",
+        "title": "Show HN: Automated Testing for AI Agents",
+        "description": "5 points · 4 comments",
         "image": "",
-        "source": "sammystraus.com",
+        "source": "agents.zalor.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/daegwang/atombot",
+        "title": "Atombot – A tiny but powerful personal AI assistant",
+        "description": "A tiny but powerful personal AI assistant 🐙. Contribute to daegwang/atombot development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/61b1eeb979f70f734116ca815ded9e1f84b2f1556fe2004bc343df6f26ff145a/daegwang/atombot",
+        "source": "github.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
+    "2026-03-05": [
+      {
+        "url": "https://openai.com/index/introducing-gpt-5-4/",
+        "title": "GPT-5.4",
+        "description": "687 points · 603 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+        "title": "Pentagon formally labels Anthropic supply-chain risk",
+        "description": "385 points · 252 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+        "title": "The L in \"LLM\" Stands for Lying",
+        "description": "Questioning the frame of inevitability in use of AI",
+        "image": "https://acko.net/files/ai-llms/cover.jpg",
+        "source": "acko.net",
+        "stats": "621 points · 427 comments"
+      },
+      {
+        "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+        "title": "Relicensing with AI-Assisted Rewrite",
+        "description": "Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally &#39;launder&#39; a library from LGPL to MIT?",
+        "image": "",
+        "source": "tuananh.net",
+        "stats": "379 points · 371 comments"
+      },
+      {
+        "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+        "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+        "description": "358 points · 113 comments",
+        "image": "",
+        "source": "blog.ivan.digital",
         "stats": ""
       }
     ],
@@ -50,12 +92,12 @@
         "description": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
         "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
         "source": "techcrunch.com",
-        "stats": "342 points · 167 comments"
+        "stats": "778 points · 412 comments"
       },
       {
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "title": "Agentic Engineering Patterns",
-        "description": "498 points · 283 comments",
+        "description": "531 points · 298 comments",
         "image": "",
         "source": "simonwillison.net",
         "stats": ""
@@ -66,7 +108,7 @@
         "description": "Learn how to fine-tune Qwen3.5 LLMs with Unsloth.",
         "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&amp;width=1200&amp;height=630&amp;sign=b1ca68fa&amp;sv=2",
         "source": "unsloth.ai",
-        "stats": "300 points · 70 comments"
+        "stats": "402 points · 103 comments"
       },
       {
         "url": "https://www.bbc.com/news/articles/czx44p99457o",
@@ -74,22 +116,22 @@
         "description": "The case is the first wrongful death case against Google over alleged harms caused by Gemini.",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0708/live/dc170490-1812-11f1-9154-e1fd43ccfa04.jpg",
         "source": "bbc.com",
-        "stats": "172 points · 218 comments"
+        "stats": "191 points · 250 comments"
       },
       {
-        "url": "https://github.com/robertcprice/nCPU",
-        "title": "A CPU that runs entirely on GPU",
-        "description": "nCPU: model-native and tensor-optimized CPU research runtimes with organized workloads, tools, and docs - robertcprice/nCPU",
-        "image": "https://opengraph.githubassets.com/f213b980f2896c46e9f9dcfcd6ed9f5fd644827c2fdcd2f33a807752791f68ca/robertcprice/nCPU",
-        "source": "github.com",
-        "stats": "243 points · 121 comments"
+        "url": "https://qlabs.sh/slowrun",
+        "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+        "description": "181 points · 35 comments",
+        "image": "",
+        "source": "qlabs.sh",
+        "stats": ""
       }
     ],
     "2026-03-03": [
       {
         "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
         "title": "Claude's Cycles [pdf]",
-        "description": "770 points · 327 comments",
+        "description": "806 points · 347 comments",
         "image": "",
         "source": "www-cs-faculty.stanford.edu",
         "stats": ""
@@ -97,34 +139,18 @@
       {
         "url": "https://openai.com/index/gpt-5-3-instant/",
         "title": "GPT‑5.3 Instant",
-        "description": "390 points · 296 comments",
+        "description": "395 points · 303 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-        "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-        "description": "Ars Technica has fired senior AI reporter Benj Edwards following an outrage-sparking controversy involving AI-fabricated quotes.",
-        "image": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
-        "source": "futurism.com",
-        "stats": "596 points · 377 comments"
-      },
-      {
-        "url": "https://www.bbc.com/news/articles/c178zzw780xo",
-        "title": "India's top court angry after junior judge cites fake AI-generated orders",
-        "description": "In several recent instances, AI has disrupted court proceedings in India and elsewhere.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab1c/live/e75859a0-16fd-11f1-801d-ed3cff6bf876.jpg",
-        "source": "bbc.com",
-        "stats": "361 points · 185 comments"
-      },
-      {
-        "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-        "title": "When AI writes the software, who verifies it?",
-        "description": "Leonardo de Moura — Creator of Lean and Z3",
+        "url": "https://news.ycombinator.com/item?id=47232903",
+        "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+        "description": "89 points · 23 comments",
         "image": "",
-        "source": "leodemoura.github.io",
-        "stats": "297 points · 289 comments"
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-03-02": [
@@ -134,40 +160,24 @@
         "description": "Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.",
         "image": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=d82dc447eb031914967ea232d0aab8207eab5ef0",
         "source": "svd.se",
-        "stats": "1407 points · 798 comments"
+        "stats": "1422 points · 805 comments"
       },
       {
-        "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-        "title": "“Microslop” filtered in the official Microsoft Copilot Discord server",
-        "description": "Microsoft blocks the word Microslop on its Copilot Discord, bans users, and locks channels after backlash, showing tensions around its AI push",
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/03/Copilots-official-Discord-channel-was-locked-down-after-users-went-haywire-with-unflattering-nicknames-targetted-at-Microsoft.jpg",
-        "source": "windowslatest.com",
-        "stats": "1168 points · 541 comments"
-      },
-      {
-        "url": "https://schipper.ai/posts/parallel-coding-agents/",
-        "title": "Parallel coding agents with tmux and Markdown specs",
-        "description": "A practical workflow for running 4–8 parallel coding agents using Claude Code, tmux, and a Markdown-based feature design system.",
-        "image": "",
-        "source": "schipper.ai",
-        "stats": "185 points · 142 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47220320",
-        "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
-        "description": "110 points · 58 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+        "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
+        "description": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "226 points · 212 comments"
       }
     ],
     "2026-03-01": [
       {
-        "url": "https://leandojo.org/torchlean.html",
-        "title": "TorchLean: Formalizing Neural Networks in Lean",
-        "description": "100 points · 20 comments",
+        "url": "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity",
+        "title": "Intelligence is a commodity. Context is the real AI Moat",
+        "description": "120 points · 93 comments",
         "image": "",
-        "source": "leandojo.org",
+        "source": "adlrocha.substack.com",
         "stats": ""
       }
     ],
@@ -179,48 +189,6 @@
         "image": "",
         "source": "twitter.com",
         "stats": ""
-      }
-    ],
-    "2026-02-27": [
-      {
-        "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-        "title": "OpenAI raises $110B on $730B pre-money valuation",
-        "description": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "558 points · 591 comments"
-      },
-      {
-        "url": "https://claude.com/contact-sales/claude-for-oss",
-        "title": "Get free Claude max 20x for open-source maintainers",
-        "description": "Apply to the Claude for Open Source program. Eligible OSS maintainers and contributors get Claude Max for 6 months on us.",
-        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
-        "source": "claude.com",
-        "stats": "572 points · 233 comments"
-      },
-      {
-        "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
-        "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
-        "description": "A sprawling Chinese influence operation — accidentally revealed by a Chinese law enforcement official’s use of ChatGPT — focused on intimidating Chinese dissidents abroad, including by impersonating US immigration officials, according to a new report from ChatGPT-maker OpenAI.",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25217544785149.jpg?c=16x9&q=w_800,c_fill",
-        "source": "cnn.com",
-        "stats": "257 points · 171 comments"
-      },
-      {
-        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-        "title": "We gave terabytes of CI logs to an LLM",
-        "description": "We gave our AI agent a SQL interface to billions of CI log lines in ClickHouse. How we ingest, store, and query 1.5 billion log lines a week.",
-        "image": "https://mendral.com/og?title=LLMs%20Are%20Good%20at%20SQL.%20We%20Gave%20Ours%20Terabytes%20of%20CI%20Logs.",
-        "source": "mendral.com",
-        "stats": "226 points · 109 comments"
-      },
-      {
-        "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-        "title": "747s and coding agents",
-        "description": "Comparing a career flying the 747 and a career coding with AI assistance.",
-        "image": "https://carlkolon.com/assets/media/747/variable-stator-vanes.webp",
-        "source": "carlkolon.com",
-        "stats": "170 points · 91 comments"
       }
     ]
   }
