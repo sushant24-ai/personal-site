@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-03-06T04:12:04.027Z",
+  "lastUpdated": "2026-03-07T04:04:05.963Z",
   "days": {
+    "2026-03-07": [
+      {
+        "url": "https://news.ycombinator.com/item?id=47282777",
+        "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+        "description": "202 points · 110 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+        "title": "LLMs work best when the user defines their acceptance criteria first",
+        "description": "One of the simplest tests you can run on a database:",
+        "image": "https://substackcdn.com/image/fetch/$s_!b3NO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F503cef77-5d11-4c3b-8b94-ef3a09599d87_1212x811.png",
+        "source": "blog.katanaquant.com",
+        "stats": "95 points · 76 comments"
+      },
+      {
+        "url": "https://www.reuters.com/business/media-telecom/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-2026-03-07/",
+        "title": "US draws up strict new AI guidelines amid Anthropic clash",
+        "description": "8 points · 2 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/HalfEmptyDrum/Context-Compactor",
+        "title": "Show HN: Context-compact – Summarize agent context instead of truncating it",
+        "description": "Contribute to HalfEmptyDrum/Context-Compactor development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/ca2f079087f899288cb86f35ce9d7bb319e87f3b2aa5c75b9613a95c34b6eaa9/HalfEmptyDrum/Context-Compactor",
+        "source": "github.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
+        "title": "Amazon says Anthropic's Claude still OK for AWS customers to use",
+        "description": "Amazon joined Microsoft and Google in continue to offer Anthropic&#x27;s Claude AI technology to customers after the Pentagon deemed it a &quot;supply chain risk.&quot;",
+        "image": "https://image.cnbcfm.com/api/v1/image/108139648-1746134589250-GettyImages-2188101054.jpg?v=1772823184&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-03-06": [
       {
-        "url": "https://www.wionews.com/world/-no-dictator-style-praise-anthropic-ceo-says-us-govt-hostility-linked-to-trump-donations-slams-openai-s-altman-in-internal-memo-report-1772698855018",
-        "title": "'Anthropic CEO says US govt hostility linked to Trump donations [Leaked memo]",
-        "description": "Anthropic CEO Dario Amodei hinted that the Trump administration targeted the company after it refused political donations and opposed changes to Pentagon AI contracts involving mass surveillance and autonomous weapons. Here are his allegations, according to reports",
-        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260305/image-1772699103991.png?imwidth=1200&amp;imheight=900",
-        "source": "wionews.com",
-        "stats": "9 points · 1 comments"
+        "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+        "title": "Hardening Firefox with Anthropic's Red Team",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral",
+        "source": "anthropic.com",
+        "stats": "519 points · 148 comments"
       },
       {
-        "url": "https://www.theregister.com/2026/03/06/ai_kills_software_licensing/",
-        "title": "Chardet dispute shows how AI will kill software licensing, argues Bruce Perens",
-        "description": ": Alarm bells are ringing in the open source community, but commercial licensing is also at risk",
-        "image": "https://regmedia.co.uk/2019/08/13/shutterstock_graveyard.jpg",
-        "source": "theregister.com",
-        "stats": "9 points · 0 comments"
+        "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
+        "title": "Anthropic, please make a new Slack",
+        "description": "Slack will be the Waterloo of closed data.",
+        "image": "https://cdn.prod.website-files.com/6130fa1501794e37c21867cf/69ab2715c38fd3a0d3ddcd73_anthropic_slack.png",
+        "source": "fivetran.com",
+        "stats": "219 points · 204 comments"
       },
       {
-        "url": "https://www.wsj.com/business/telecom/the-fcc-wants-your-next-customer-service-agent-to-be-in-the-u-s-3c44e14e",
-        "title": "The FCC Wants Your Next Customer Service Agent to Be in the U.S.",
-        "description": "9 points · 4 comments",
+        "url": "https://twitter.com/Al_Grigor/status/2029889772181934425",
+        "title": "Claude Code wiped our production database with a Terraform command",
+        "description": "132 points · 143 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://agents.zalor.ai/",
-        "title": "Show HN: Automated Testing for AI Agents",
-        "description": "5 points · 4 comments",
-        "image": "",
-        "source": "agents.zalor.ai",
-        "stats": ""
+        "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+        "title": "We might all be AI engineers now",
+        "description": "The models are good now. But most people still miss the point.",
+        "image": "https://yasint.dev/og/yasintdev-primary-og.png",
+        "source": "yasint.dev",
+        "stats": "186 points · 302 comments"
       },
       {
-        "url": "https://github.com/daegwang/atombot",
-        "title": "Atombot – A tiny but powerful personal AI assistant",
-        "description": "A tiny but powerful personal AI assistant 🐙. Contribute to daegwang/atombot development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/61b1eeb979f70f734116ca815ded9e1f84b2f1556fe2004bc343df6f26ff145a/daegwang/atombot",
+        "url": "https://github.com/elder-plinius/OBLITERATUS",
+        "title": "A tool that removes censorship from open-weight LLMs",
+        "description": "obliterate the chains that bind you. Contribute to elder-plinius/OBLITERATUS development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/6156965f9f369067f2aecb583845c525c839f9aab0f27a84fbf1d893f3aa9711/elder-plinius/OBLITERATUS",
         "source": "github.com",
-        "stats": "3 points · 1 comments"
+        "stats": "136 points · 60 comments"
       }
     ],
     "2026-03-05": [
       {
         "url": "https://openai.com/index/introducing-gpt-5-4/",
         "title": "GPT-5.4",
-        "description": "687 points · 603 comments",
+        "description": "986 points · 783 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
         "title": "Pentagon formally labels Anthropic supply-chain risk",
-        "description": "385 points · 252 comments",
+        "description": "428 points · 288 comments",
         "image": "",
         "source": "wsj.com",
         "stats": ""
@@ -66,7 +108,15 @@
         "description": "Questioning the frame of inevitability in use of AI",
         "image": "https://acko.net/files/ai-llms/cover.jpg",
         "source": "acko.net",
-        "stats": "621 points · 427 comments"
+        "stats": "655 points · 469 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/research/labor-market-impacts",
+        "title": "Labor market impacts of AI: A new measure and early evidence",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus",
+        "source": "anthropic.com",
+        "stats": "316 points · 533 comments"
       },
       {
         "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
@@ -74,80 +124,32 @@
         "description": "Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally &#39;launder&#39; a library from LGPL to MIT?",
         "image": "",
         "source": "tuananh.net",
-        "stats": "379 points · 371 comments"
-      },
-      {
-        "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
-        "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
-        "description": "358 points · 113 comments",
-        "image": "",
-        "source": "blog.ivan.digital",
-        "stats": ""
+        "stats": "396 points · 385 comments"
       }
     ],
     "2026-03-04": [
       {
-        "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-        "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-        "description": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-        "source": "techcrunch.com",
-        "stats": "778 points · 412 comments"
-      },
-      {
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-        "title": "Agentic Engineering Patterns",
-        "description": "531 points · 298 comments",
-        "image": "",
-        "source": "simonwillison.net",
-        "stats": ""
-      },
-      {
-        "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
-        "title": "Qwen3.5 Fine-Tuning Guide",
-        "description": "Learn how to fine-tune Qwen3.5 LLMs with Unsloth.",
-        "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&amp;width=1200&amp;height=630&amp;sign=b1ca68fa&amp;sv=2",
-        "source": "unsloth.ai",
-        "stats": "402 points · 103 comments"
-      },
-      {
-        "url": "https://www.bbc.com/news/articles/czx44p99457o",
-        "title": "Father claims Google's AI product fuelled son's delusional spiral",
-        "description": "The case is the first wrongful death case against Google over alleged harms caused by Gemini.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0708/live/dc170490-1812-11f1-9154-e1fd43ccfa04.jpg",
-        "source": "bbc.com",
-        "stats": "191 points · 250 comments"
-      },
-      {
-        "url": "https://qlabs.sh/slowrun",
-        "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
-        "description": "181 points · 35 comments",
-        "image": "",
-        "source": "qlabs.sh",
-        "stats": ""
+        "url": "https://github.com/robertcprice/nCPU",
+        "title": "A CPU that runs entirely on GPU",
+        "description": "nCPU: model-native and tensor-optimized CPU research runtimes with organized workloads, tools, and docs - robertcprice/nCPU",
+        "image": "https://opengraph.githubassets.com/a448b1d69bdf48d5e51140b19be9cba634c4c77acfec60d7d7a371b3f2826490/robertcprice/nCPU",
+        "source": "github.com",
+        "stats": "269 points · 129 comments"
       }
     ],
     "2026-03-03": [
       {
         "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
         "title": "Claude's Cycles [pdf]",
-        "description": "806 points · 347 comments",
+        "description": "820 points · 354 comments",
         "image": "",
         "source": "www-cs-faculty.stanford.edu",
         "stats": ""
       },
       {
-        "url": "https://openai.com/index/gpt-5-3-instant/",
-        "title": "GPT‑5.3 Instant",
-        "description": "395 points · 303 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
         "url": "https://news.ycombinator.com/item?id=47232903",
         "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
-        "description": "89 points · 23 comments",
+        "description": "89 points · 22 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -178,16 +180,6 @@
         "description": "120 points · 93 comments",
         "image": "",
         "source": "adlrocha.substack.com",
-        "stats": ""
-      }
-    ],
-    "2026-02-28": [
-      {
-        "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-        "title": "We do not think Anthropic should be designated as a supply chain risk",
-        "description": "821 points · 443 comments",
-        "image": "",
-        "source": "twitter.com",
         "stats": ""
       }
     ]
