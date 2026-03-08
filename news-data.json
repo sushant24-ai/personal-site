@@ -1,11 +1,53 @@
 {
-  "lastUpdated": "2026-03-07T04:04:05.963Z",
+  "lastUpdated": "2026-03-08T04:14:50.397Z",
   "days": {
+    "2026-03-08": [
+      {
+        "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+        "title": "Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers",
+        "description": "102 points · 49 comments",
+        "image": "",
+        "source": "devblog.ecuadors.net",
+        "stats": ""
+      },
+      {
+        "url": "https://justinjackson.ca/claude-code-ruin",
+        "title": "Will Claude Code ruin our team?",
+        "description": "AI coding is blurring the lines between engineers, PMs, and designers. In the short-term, it&#039;s going to cause havoc. What happens long-term?",
+        "image": "https://justinjackson.ca/assets/mexican-standoff-ai-social.png",
+        "source": "justinjackson.ca",
+        "stats": "27 points · 20 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+        "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+        "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI&#039;s controversial agreement with the Department of Defense, she’s resigned from her role leading the company&#039;s robotics team.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+        "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+        "description": "This is the fifth post in a series on LLM internals. Part 1 covered attention, Part 2 covered generation, Part 3 covered the Flash Attention algorithm, Part ...",
+        "image": "",
+        "source": "archerzhang.me",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47294048",
+        "title": "If AI is so good, why don't we have an infinite supply of 10x engineers?",
+        "description": "3 points · 4 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-03-07": [
       {
         "url": "https://news.ycombinator.com/item?id=47282777",
-        "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
-        "description": "202 points · 110 comments",
+        "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+        "description": "982 points · 869 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -16,31 +58,31 @@
         "description": "One of the simplest tests you can run on a database:",
         "image": "https://substackcdn.com/image/fetch/$s_!b3NO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F503cef77-5d11-4c3b-8b94-ef3a09599d87_1212x811.png",
         "source": "blog.katanaquant.com",
-        "stats": "95 points · 76 comments"
+        "stats": "428 points · 378 comments"
       },
       {
-        "url": "https://www.reuters.com/business/media-telecom/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-2026-03-07/",
-        "title": "US draws up strict new AI guidelines amid Anthropic clash",
-        "description": "8 points · 2 comments",
+        "url": "https://twitter.com/kalinowski007/status/2030320074121478618",
+        "title": "I resigned from OpenAI",
+        "description": "144 points · 73 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/HalfEmptyDrum/Context-Compactor",
-        "title": "Show HN: Context-compact – Summarize agent context instead of truncating it",
-        "description": "Contribute to HalfEmptyDrum/Context-Compactor development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/ca2f079087f899288cb86f35ce9d7bb319e87f3b2aa5c75b9613a95c34b6eaa9/HalfEmptyDrum/Context-Compactor",
-        "source": "github.com",
-        "stats": "6 points · 2 comments"
+        "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
+        "title": "Training students to prove they're not robots is pushing them to use more AI",
+        "description": "About a year and a half ago, I wrote about my kid&#8217;s experience with an AI checker tool that was pre-installed on a school-issued Chromebook. The assignment had been to write an essay about Ku…",
+        "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+        "source": "techdirt.com",
+        "stats": "147 points · 163 comments"
       },
       {
-        "url": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
-        "title": "Amazon says Anthropic's Claude still OK for AWS customers to use",
-        "description": "Amazon joined Microsoft and Google in continue to offer Anthropic&#x27;s Claude AI technology to customers after the Pentagon deemed it a &quot;supply chain risk.&quot;",
-        "image": "https://image.cnbcfm.com/api/v1/image/108139648-1746134589250-GettyImages-2188101054.jpg?v=1772823184&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
+        "title": "Files are the interface humans and agents interact with",
+        "description": "a digital garden by daniel phiri",
+        "image": "https://i.imgur.com/KoUKJs0.png",
+        "source": "madalitso.me",
+        "stats": "192 points · 113 comments"
       }
     ],
     "2026-03-06": [
@@ -50,7 +92,7 @@
         "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral",
         "source": "anthropic.com",
-        "stats": "519 points · 148 comments"
+        "stats": "613 points · 167 comments"
       },
       {
         "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
@@ -58,15 +100,7 @@
         "description": "Slack will be the Waterloo of closed data.",
         "image": "https://cdn.prod.website-files.com/6130fa1501794e37c21867cf/69ab2715c38fd3a0d3ddcd73_anthropic_slack.png",
         "source": "fivetran.com",
-        "stats": "219 points · 204 comments"
-      },
-      {
-        "url": "https://twitter.com/Al_Grigor/status/2029889772181934425",
-        "title": "Claude Code wiped our production database with a Terraform command",
-        "description": "132 points · 143 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
+        "stats": "263 points · 249 comments"
       },
       {
         "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
@@ -74,57 +108,41 @@
         "description": "The models are good now. But most people still miss the point.",
         "image": "https://yasint.dev/og/yasintdev-primary-og.png",
         "source": "yasint.dev",
-        "stats": "186 points · 302 comments"
+        "stats": "218 points · 330 comments"
       },
       {
         "url": "https://github.com/elder-plinius/OBLITERATUS",
         "title": "A tool that removes censorship from open-weight LLMs",
-        "description": "obliterate the chains that bind you. Contribute to elder-plinius/OBLITERATUS development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/6156965f9f369067f2aecb583845c525c839f9aab0f27a84fbf1d893f3aa9711/elder-plinius/OBLITERATUS",
+        "description": "OBLITERATE THE CHAINS THAT BIND YOU. Contribute to elder-plinius/OBLITERATUS development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/77556121efcc3cb4fc9c4e5c7c9a87d865cbeb8594377e98364137efe4abf82c/elder-plinius/OBLITERATUS",
         "source": "github.com",
-        "stats": "136 points · 60 comments"
+        "stats": "208 points · 84 comments"
+      },
+      {
+        "url": "https://twitter.com/Al_Grigor/status/2029889772181934425",
+        "title": "Claude Code wiped our production database with a Terraform command",
+        "description": "141 points · 153 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
       }
     ],
     "2026-03-05": [
       {
         "url": "https://openai.com/index/introducing-gpt-5-4/",
         "title": "GPT-5.4",
-        "description": "986 points · 783 comments",
+        "description": "1006 points · 799 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
-        "title": "Pentagon formally labels Anthropic supply-chain risk",
-        "description": "428 points · 288 comments",
+        "url": "https://news.ycombinator.com/item?id=47264741",
+        "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
+        "description": "58 points · 44 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-        "title": "The L in \"LLM\" Stands for Lying",
-        "description": "Questioning the frame of inevitability in use of AI",
-        "image": "https://acko.net/files/ai-llms/cover.jpg",
-        "source": "acko.net",
-        "stats": "655 points · 469 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/labor-market-impacts",
-        "title": "Labor market impacts of AI: A new measure and early evidence",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus",
-        "source": "anthropic.com",
-        "stats": "316 points · 533 comments"
-      },
-      {
-        "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-        "title": "Relicensing with AI-Assisted Rewrite",
-        "description": "Exploring the chardet v7.0.0 controversy: Can an AI rewrite legally &#39;launder&#39; a library from LGPL to MIT?",
-        "image": "",
-        "source": "tuananh.net",
-        "stats": "396 points · 385 comments"
       }
     ],
     "2026-03-04": [
@@ -141,17 +159,9 @@
       {
         "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
         "title": "Claude's Cycles [pdf]",
-        "description": "820 points · 354 comments",
+        "description": "830 points · 359 comments",
         "image": "",
         "source": "www-cs-faculty.stanford.edu",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47232903",
-        "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
-        "description": "89 points · 22 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
         "stats": ""
       }
     ],
@@ -171,16 +181,6 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ryzen-ai-400-desktop-1152x648.jpg",
         "source": "arstechnica.com",
         "stats": "226 points · 212 comments"
-      }
-    ],
-    "2026-03-01": [
-      {
-        "url": "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity",
-        "title": "Intelligence is a commodity. Context is the real AI Moat",
-        "description": "120 points · 93 comments",
-        "image": "",
-        "source": "adlrocha.substack.com",
-        "stats": ""
       }
     ]
   }
