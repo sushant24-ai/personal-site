@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-09T04:22:03.614Z",
+  "lastUpdated": "2026-03-10T04:12:44.830Z",
   "days": {
+    "2026-03-10": [
+      {
+        "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+        "title": "Learnings from Paying Artists Royalties for AI-Generated Art",
+        "description": "A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.",
+        "image": "https://www.kapwing.com/blog/content/images/2026/03/A_brunette_woman_in_a_red_top_in_front_of_a_white_wall_1_V4-1.png",
+        "source": "kapwing.com",
+        "stats": "30 points · 7 comments"
+      },
+      {
+        "url": "https://www.cbc.ca/news/canada/british-columbia/openai-sued-tumbler-ridge-victim-9.7121635",
+        "title": "Family of Tumbler Ridge shooting victim suing OpenAI",
+        "description": "The mother of Maya Gebala, a 12-year-old who remains in hospital after the shooting on Feb. 10, alleges the tech company failed to alert authorities to prompts from the shooter related to violence.",
+        "image": "https://i.cbc.ca/ais/b2aa47fe-d4bd-4caf-918e-52c4105378e0,1773107104012/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+        "source": "cbc.ca",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/kodustech/kodus-ai",
+        "title": "Show HN: Open-source, model-agnostic alternative to Claude Code Review",
+        "description": "AI Code Review with Full Control Over Model Choice and Costs. - kodustech/kodus-ai",
+        "image": "https://opengraph.githubassets.com/81cb8fbbe8e967a594fa9a7b9064a9cbeb71153a36e859d03767fd3620994f44/kodustech/kodus-ai",
+        "source": "github.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://dcmc.github.io/blog/claude-banged-my-module/",
+        "title": "Claude Banged My Module",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "dcmc.github.io",
+        "stats": ""
+      },
+      {
+        "url": "https://code.claude.com/docs/en/code-review",
+        "title": "Anthropic launches Code Review",
+        "description": "Set up automated PR reviews that catch logic errors, security vulnerabilities, and regressions using multi-agent analysis of your full codebase",
+        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCode%2Breview%2B%2526%2BCI%252FCD%26appearance%3Dsystem%26title%3DCode%2BReview%26description%3DSet%2Bup%2Bautomated%2BPR%2Breviews%2Bthat%2Bcatch%2Blogic%2Berrors%252C%2Bsecurity%2Bvulnerabilities%252C%2Band%2Bregressions%2Busing%2Bmulti-agent%2Banalysis%2Bof%2Byour%2Bfull%2Bcodebase%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
+        "source": "code.claude.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
     "2026-03-09": [
       {
-        "url": "https://twitter.com/robertwrighter/status/2030482402628214841",
-        "title": "Claude helped select targets for Iran strikes, possibly including school",
-        "description": "40 points · 31 comments",
+        "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+        "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+        "description": "The OpenAI deal fallout exposes the fundamental danger of being the most leveraged player in a market where the chip cycle moves faster than the concrete dries.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108241389-1765566253538-gettyimages-2236546557-STARGATE_DATA_CENTER.jpeg?v=1770060445&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "279 points · 150 comments"
+      },
+      {
+        "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+        "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+        "description": "Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…",
         "image": "",
-        "source": "twitter.com",
-        "stats": ""
+        "source": "writings.hongminhee.org",
+        "stats": "382 points · 421 comments"
       },
       {
-        "url": "https://technohumanity.substack.com/p/when-ai-can-finally-give-everyone",
-        "title": "When AI Can Give You Everything, That's When You'll Get Nothing",
-        "description": "7 points · 0 comments",
-        "image": "",
-        "source": "technohumanity.substack.com",
-        "stats": ""
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms",
+        "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
+        "description": "Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engineering organization to accelerate the company&#x27;s push toward superintelligence. The move.",
+        "image": "https://static.toiimg.com/thumb/msid-129018841,width-1280,height-720,imgsize-159122,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "source": "timesofindia.indiatimes.com",
+        "stats": "94 points · 56 comments"
       },
       {
-        "url": "https://antirez.com/news/162",
-        "title": "GNU and the AI Reimplementations – <Antirez>",
-        "description": "6 points · 0 comments",
-        "image": "",
-        "source": "antirez.com",
-        "stats": ""
-      },
-      {
-        "url": "https://rmoff.net/2025/11/25/ai-smells-on-medium/",
-        "title": "(AI) Smells on Medium",
-        "description": "5 points · 2 comments",
-        "image": "https://rmoff.net/images/2025/11/h_IMG_3224.webp",
-        "source": "rmoff.net",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/kaspnilsson/digital-twin-playbook",
-        "title": "Show HN: Own your AI's context and memories across every model and device",
-        "description": "Contribute to kaspnilsson/digital-twin-playbook development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/92bd1d4d5aebee10c770f8437fdd3338ea5647d6b0783896f2e6544d28860076/kaspnilsson/digital-twin-playbook",
+        "url": "https://github.com/knowsuchagency/mcp2cli",
+        "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
+        "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen - knowsuchagency/mcp2cli",
+        "image": "https://opengraph.githubassets.com/df99a59842e78a775a37110e935c611c2072b16ab6c16a4d40f7caae87174add/knowsuchagency/mcp2cli",
         "source": "github.com",
-        "stats": "5 points · 1 comments"
+        "stats": "143 points · 101 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47311657",
+        "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+        "description": "94 points · 63 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-03-08": [
@@ -50,23 +92,7 @@
         "description": "Sandbox your LLM coding agents on macOS. Kernel-level enforcement via sandbox-exec — deny-first, composable, zero dependencies.",
         "image": "https://agent-safehouse.dev/og-image.png",
         "source": "agent-safehouse.dev",
-        "stats": "414 points · 95 comments"
-      },
-      {
-        "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
-        "title": "Claude struggles to cope with ChatGPT exodus",
-        "description": "148 points · 139 comments",
-        "image": "",
-        "source": "forbes.com",
-        "stats": ""
-      },
-      {
-        "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-        "title": "Cloud VM benchmarks 2026",
-        "description": "332 points · 151 comments",
-        "image": "",
-        "source": "devblog.ecuadors.net",
-        "stats": ""
+        "stats": "787 points · 175 comments"
       },
       {
         "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
@@ -74,7 +100,23 @@
         "description": "Literate programming is the idea that code should be intermingled with prose such that an uninformed reader could read a code base as a narrative, and come away with an understanding of how it works and what it does.\nAlthough I have long been intrigued by this idea, and have found uses for it in a couple1 of different cases2, I have found that in practice literate programming turns into a chore of maintaining two parallel narratives: the code itself, and the prose. This has obviously limited its adoption.",
         "image": "https://silly.business/images/thumb.png",
         "source": "silly.business",
-        "stats": "175 points · 93 comments"
+        "stats": "286 points · 224 comments"
+      },
+      {
+        "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
+        "title": "Claude struggles to cope with ChatGPT exodus",
+        "description": "169 points · 152 comments",
+        "image": "",
+        "source": "forbes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+        "title": "Cloud VM benchmarks 2026",
+        "description": "345 points · 159 comments",
+        "image": "",
+        "source": "devblog.ecuadors.net",
+        "stats": ""
       },
       {
         "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
@@ -82,7 +124,7 @@
         "description": "Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.",
         "image": "https://www.cio.com/wp-content/uploads/2026/01/4125103-0-94363300-1769794492-shutterstock_2641258125.jpg?quality=50&amp;strip=all&amp;w=1024",
         "source": "cio.com",
-        "stats": "160 points · 211 comments"
+        "stats": "176 points · 233 comments"
       }
     ],
     "2026-03-07": [
@@ -92,39 +134,23 @@
         "description": "A single file containing all known AI writing tropes. I guess you could add it to your AI system prompt to avoid these patterns. Or you could embark on the joy of independent writing.",
         "image": "",
         "source": "tropes.fyi",
-        "stats": "322 points · 152 comments"
-      },
-      {
-        "url": "https://twitter.com/kalinowski007/status/2030320074121478618",
-        "title": "I resigned from OpenAI",
-        "description": "216 points · 155 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-        "title": "Files are the interface humans and agents interact with",
-        "description": "a digital garden by daniel phiri",
-        "image": "https://i.imgur.com/KoUKJs0.png",
-        "source": "madalitso.me",
-        "stats": "287 points · 133 comments"
+        "stats": "364 points · 186 comments"
       },
       {
         "url": "https://github.com/karpathy/autoresearch",
         "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
         "description": "AI agents running research on single-GPU nanochat training automatically - karpathy/autoresearch",
-        "image": "https://opengraph.githubassets.com/78fe5ce65de918a973f0196847100567b97a8d6128e7548c60d8219cae8239a3/karpathy/autoresearch",
+        "image": "https://opengraph.githubassets.com/9fa513d16891541a7a889f4447e2f6ba4a47e09d2a60c0f9208da1241ef13aac/karpathy/autoresearch",
         "source": "github.com",
-        "stats": "180 points · 49 comments"
+        "stats": "190 points · 51 comments"
       },
       {
-        "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
-        "title": "Training students to prove they're not robots is pushing them to use more AI",
-        "description": "About a year and a half ago, I wrote about my kid&#8217;s experience with an AI checker tool that was pre-installed on a school-issued Chromebook. The assignment had been to write an essay about Ku…",
-        "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
-        "source": "techdirt.com",
-        "stats": "158 points · 173 comments"
+        "url": "https://quesma.com/blog/chromatron-recompiled/",
+        "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
+        "description": "Decompiling the classic puzzle game with lasers Chromatron from WinXP and PowerPC executables into Rust. A pixel-perfect porting using Claude Code, Opus 4.6, Cursor, GPT-5.2-Codex, and Ghidra.",
+        "image": "https://quesma.com/_astro/chromatron_cursor_ghidra.CRYzmwKK.png",
+        "source": "quesma.com",
+        "stats": "25 points · 8 comments"
       }
     ],
     "2026-03-06": [
@@ -163,16 +189,6 @@
         "image": "https://opengraph.githubassets.com/a448b1d69bdf48d5e51140b19be9cba634c4c77acfec60d7d7a371b3f2826490/robertcprice/nCPU",
         "source": "github.com",
         "stats": "269 points · 129 comments"
-      }
-    ],
-    "2026-03-03": [
-      {
-        "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-        "title": "Claude's Cycles [pdf]",
-        "description": "830 points · 359 comments",
-        "image": "",
-        "source": "www-cs-faculty.stanford.edu",
-        "stats": ""
       }
     ]
   }
