@@ -1,56 +1,106 @@
 {
-  "lastUpdated": "2026-03-10T04:12:44.830Z",
+  "lastUpdated": "2026-03-11T04:12:54.790Z",
   "days": {
+    "2026-03-11": [
+      {
+        "url": "https://chromewebstore.google.com/detail/gemini-exporter-save-gemi/lgipeakgdkcgnkdljeagconfbfeolidj",
+        "title": "Gemini Exporter – Save Chats Directly to Notion, Docs, Word, and PDF",
+        "description": "A powerful Gemini exporter that saves your chats to PDF, Word, Google Docs &amp; Notion in one click.",
+        "image": "https://lh3.googleusercontent.com/jq2tz58dcarOtDjZwSgIOqUphlTGbTSycnOmkItPUTP0yjvgEihWYhb1ZMBPlqhu4RSqzn1nmPoKCzh2p3BSO6B83L0=s128-rj-sc0x00ffffff",
+        "source": "chromewebstore.google.com",
+        "stats": "3 points · 2 comments"
+      },
+      {
+        "url": "https://time.com/7382151/china-dominates-the-physical-ai-race/",
+        "title": "Eric Schmidt: China Could Dominate the Physical AI Future",
+        "description": "Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.",
+        "image": "https://api.time.com/wp-content/uploads/2026/03/China-Robots-Lunar-New-Year.jpg?quality=85&amp;w=1024&amp;h=628&amp;crop=1",
+        "source": "time.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/PotentiallyARobot/EmbeddingAdapters/",
+        "title": "Python library for translating between embedding model vector spaces",
+        "description": "Universal embedding-space translation library. Plug-and-play adapters that map one embedding model’s vector space into another — locally or via API — enabling cross-model retrieval, routing, and in...",
+        "image": "https://opengraph.githubassets.com/e9eb2e517781cde419a5cd0de7dc13c3de393c1ddcb928fe917f4885ff0aa444/PotentiallyARobot/EmbeddingAdapters",
+        "source": "github.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://clawsoc.io",
+        "title": "Show HN: ClawSoc – Observe Your AI Agent in an AI Society",
+        "description": "Prisoner&#x27;s Dilemma particle simulation — 500 agents collide, cooperate, and defect in real time.",
+        "image": "https://clawsoc.io/opengraph-image?f101a53a49c6610b",
+        "source": "clawsoc.io",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47330747",
+        "title": "Ask HN: How do you review gen-AI created code?",
+        "description": "4 points · 3 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-03-10": [
       {
-        "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-        "title": "Learnings from Paying Artists Royalties for AI-Generated Art",
-        "description": "A retrospective on Tess.Design, our attempt to make an ethical, artist-friendly AI marketplace. We launched Tess in May 2024 and shut it down in January 2026.",
-        "image": "https://www.kapwing.com/blog/content/images/2026/03/A_brunette_woman_in_a_red_top_in_front_of_a_white_wall_1_V4-1.png",
-        "source": "kapwing.com",
-        "stats": "30 points · 7 comments"
+        "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+        "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+        "description": "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/GettyImages-1157406884-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "485 points · 409 comments"
       },
       {
-        "url": "https://www.cbc.ca/news/canada/british-columbia/openai-sued-tumbler-ridge-victim-9.7121635",
-        "title": "Family of Tumbler Ridge shooting victim suing OpenAI",
-        "description": "The mother of Maya Gebala, a 12-year-old who remains in hospital after the shooting on Feb. 10, alleges the tech company failed to alert authorities to prompts from the shooter related to violence.",
-        "image": "https://i.cbc.ca/ais/b2aa47fe-d4bd-4caf-918e-52c4105378e0,1773107104012/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-        "source": "cbc.ca",
-        "stats": "6 points · 0 comments"
-      },
-      {
-        "url": "https://github.com/kodustech/kodus-ai",
-        "title": "Show HN: Open-source, model-agnostic alternative to Claude Code Review",
-        "description": "AI Code Review with Full Control Over Model Choice and Costs. - kodustech/kodus-ai",
-        "image": "https://opengraph.githubassets.com/81cb8fbbe8e967a594fa9a7b9064a9cbeb71153a36e859d03767fd3620994f44/kodustech/kodus-ai",
-        "source": "github.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://dcmc.github.io/blog/claude-banged-my-module/",
-        "title": "Claude Banged My Module",
-        "description": "3 points · 1 comments",
+        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+        "description": "380 points · 390 comments",
         "image": "",
-        "source": "dcmc.github.io",
+        "source": "gitlab.redox-os.org",
         "stats": ""
       },
       {
-        "url": "https://code.claude.com/docs/en/code-review",
-        "title": "Anthropic launches Code Review",
-        "description": "Set up automated PR reviews that catch logic errors, security vulnerabilities, and regressions using multi-agent analysis of your full codebase",
-        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DCode%2Breview%2B%2526%2BCI%252FCD%26appearance%3Dsystem%26title%3DCode%2BReview%26description%3DSet%2Bup%2Bautomated%2BPR%2Breviews%2Bthat%2Bcatch%2Blogic%2Berrors%252C%2Bsecurity%2Bvulnerabilities%252C%2Band%2Bregressions%2Busing%2Bmulti-agent%2Banalysis%2Bof%2Byour%2Bfull%2Bcodebase%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
-        "source": "code.claude.com",
-        "stats": "3 points · 1 comments"
+        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+        "title": "Agents that run while I sleep",
+        "description": " I Have No Idea If What They Ship Is Any Good",
+        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/713ee402-5719-49c9-b93b-d472fb299a84/landscape_newsletter-thumbnail.png",
+        "source": "claudecodecamp.com",
+        "stats": "260 points · 229 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "description": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
+        "image": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg",
+        "source": "wired.com",
+        "stats": "371 points · 342 comments"
+      },
+      {
+        "url": "https://dnhkng.github.io/posts/rys/",
+        "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
+        "description": "ML, Biotech, Hardware, and Coordination Problems. Sometimes I write about hard problems and how to solve them.",
+        "image": "",
+        "source": "dnhkng.github.io",
+        "stats": "328 points · 92 comments"
       }
     ],
     "2026-03-09": [
       {
+        "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+        "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+        "description": "The viral claim that Anthropic loses $5,000 per Claude Code subscriber doesn&#39;t survive basic scrutiny. Let&#39;s do the actual maths.",
+        "image": "https://martinalderson.com/img/og/no-it-doesn-t-cost-anthropic-5k-per-claude-code-user.png",
+        "source": "martinalderson.com",
+        "stats": "445 points · 322 comments"
+      },
+      {
         "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
         "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-        "description": "The OpenAI deal fallout exposes the fundamental danger of being the most leveraged player in a market where the chip cycle moves faster than the concrete dries.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108241389-1765566253538-gettyimages-2236546557-STARGATE_DATA_CENTER.jpeg?v=1770060445&amp;w=1920&amp;h=1080",
+        "description": "413 points · 241 comments",
+        "image": "",
         "source": "cnbc.com",
-        "stats": "279 points · 150 comments"
+        "stats": ""
       },
       {
         "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
@@ -58,28 +108,20 @@
         "description": "Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…",
         "image": "",
         "source": "writings.hongminhee.org",
-        "stats": "382 points · 421 comments"
-      },
-      {
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms",
-        "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
-        "description": "Tech News News: Meta CEO Mark Zuckerberg is establishing a new applied AI engineering organization to accelerate the company&#x27;s push toward superintelligence. The move.",
-        "image": "https://static.toiimg.com/thumb/msid-129018841,width-1280,height-720,imgsize-159122,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "source": "timesofindia.indiatimes.com",
-        "stats": "94 points · 56 comments"
+        "stats": "557 points · 568 comments"
       },
       {
         "url": "https://github.com/knowsuchagency/mcp2cli",
         "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
         "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen - knowsuchagency/mcp2cli",
-        "image": "https://opengraph.githubassets.com/df99a59842e78a775a37110e935c611c2072b16ab6c16a4d40f7caae87174add/knowsuchagency/mcp2cli",
+        "image": "https://opengraph.githubassets.com/44a48abb01eb1fd0940b7ac8e38950d4da3ba50619bfcfa3d7aeff95dadc360c/knowsuchagency/mcp2cli",
         "source": "github.com",
-        "stats": "143 points · 101 comments"
+        "stats": "145 points · 105 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=47311657",
         "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-        "description": "94 points · 63 comments",
+        "description": "112 points · 76 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -179,16 +221,6 @@
         "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/Phi4-TWLIFB-1200x627-1.jpg",
         "source": "microsoft.com",
         "stats": "84 points · 9 comments"
-      }
-    ],
-    "2026-03-04": [
-      {
-        "url": "https://github.com/robertcprice/nCPU",
-        "title": "A CPU that runs entirely on GPU",
-        "description": "nCPU: model-native and tensor-optimized CPU research runtimes with organized workloads, tools, and docs - robertcprice/nCPU",
-        "image": "https://opengraph.githubassets.com/a448b1d69bdf48d5e51140b19be9cba634c4c77acfec60d7d7a371b3f2826490/robertcprice/nCPU",
-        "source": "github.com",
-        "stats": "269 points · 129 comments"
       }
     ]
   }
