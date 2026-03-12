@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-11T04:12:54.790Z",
+  "lastUpdated": "2026-03-12T04:17:35.919Z",
   "days": {
-    "2026-03-11": [
+    "2026-03-12": [
       {
-        "url": "https://chromewebstore.google.com/detail/gemini-exporter-save-gemi/lgipeakgdkcgnkdljeagconfbfeolidj",
-        "title": "Gemini Exporter – Save Chats Directly to Notion, Docs, Word, and PDF",
-        "description": "A powerful Gemini exporter that saves your chats to PDF, Word, Google Docs &amp; Notion in one click.",
-        "image": "https://lh3.googleusercontent.com/jq2tz58dcarOtDjZwSgIOqUphlTGbTSycnOmkItPUTP0yjvgEihWYhb1ZMBPlqhu4RSqzn1nmPoKCzh2p3BSO6B83L0=s128-rj-sc0x00ffffff",
-        "source": "chromewebstore.google.com",
-        "stats": "3 points · 2 comments"
+        "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
+        "title": "How much of HN is AI?",
+        "description": "74 points · 35 comments",
+        "image": "",
+        "source": "lcamtuf.substack.com",
+        "stats": ""
       },
       {
-        "url": "https://time.com/7382151/china-dominates-the-physical-ai-race/",
-        "title": "Eric Schmidt: China Could Dominate the Physical AI Future",
-        "description": "Eric Schmidt and Selina Xu argue that China is pulling head of the U.S. in the race to build AI-powered robots.",
-        "image": "https://api.time.com/wp-content/uploads/2026/03/China-Robots-Lunar-New-Year.jpg?quality=85&amp;w=1024&amp;h=628&amp;crop=1",
-        "source": "time.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://www.reuters.com/commentary/breakingviews/what-happens-if-openai-or-anthropic-fail-2026-03-11/",
+        "title": "What happens if OpenAI or Anthropic fail?",
+        "description": "7 points · 3 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/PotentiallyARobot/EmbeddingAdapters/",
-        "title": "Python library for translating between embedding model vector spaces",
-        "description": "Universal embedding-space translation library. Plug-and-play adapters that map one embedding model’s vector space into another — locally or via API — enabling cross-model retrieval, routing, and in...",
-        "image": "https://opengraph.githubassets.com/e9eb2e517781cde419a5cd0de7dc13c3de393c1ddcb928fe917f4885ff0aa444/PotentiallyARobot/EmbeddingAdapters",
-        "source": "github.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://www.bbc.com/news/articles/c4g7k7zdd0zo",
+        "title": "Big Tech backs Anthropic in fight against Trump administration",
+        "description": "A group representing tech giants called government action against Anthropic a &quot;temper tantrum&quot;.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a19c/live/1d200f20-1d9c-11f1-94a7-bf1b298028b4.jpg",
+        "source": "bbc.com",
+        "stats": "6 points · 0 comments"
       },
       {
-        "url": "https://clawsoc.io",
-        "title": "Show HN: ClawSoc – Observe Your AI Agent in an AI Society",
-        "description": "Prisoner&#x27;s Dilemma particle simulation — 500 agents collide, cooperate, and defect in real time.",
-        "image": "https://clawsoc.io/opengraph-image?f101a53a49c6610b",
-        "source": "clawsoc.io",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47330747",
-        "title": "Ask HN: How do you review gen-AI created code?",
-        "description": "4 points · 3 comments",
+        "url": "https://news.ycombinator.com/item?id=47345280",
+        "title": "I made a Chrome extension to export an entire Gemini chat",
+        "description": "4 points · 0 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
+        "title": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI",
+        "description": "Atlassian said it&#x27;s cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108276934-1773265619777-gettyimages-2147914841-AUSTRALIA_CANNON-BROOKES.jpeg?v=1773265646&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
+    "2026-03-11": [
+      {
+        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+        "description": "3040 points · 1143 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+        "title": "How we hacked McKinsey's AI platform",
+        "description": "An autonomous AI agent found a SQL injection in McKinsey&#x27;s Lilli AI platform. What it extracted was worse than we expected.",
+        "image": "https://codewall.ai/images/database-scale-og.png",
+        "source": "codewall.ai",
+        "stats": "409 points · 168 comments"
+      },
+      {
+        "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+        "title": "I was interviewed by an AI bot for a job",
+        "description": "AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Artboard-1-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "196 points · 204 comments"
+      },
+      {
+        "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
+        "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+        "description": "150 points · 212 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.dwarkesh.com/p/dow-anthropic",
+        "title": "I'm glad the Anthropic fight is happening now",
+        "description": "“Preface to the highest stakes negotiations in history.”",
+        "image": "https://substackcdn.com/image/fetch/$s_!-pum!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F190633588%2F33938ac2-de04-4233-b102-771ed68d5750%2Ftranscoded-1773280519.png",
+        "source": "dwarkesh.com",
+        "stats": "132 points · 175 comments"
       }
     ],
     "2026-03-10": [
@@ -50,23 +92,7 @@
         "description": "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/GettyImages-1157406884-1152x648.jpg",
         "source": "arstechnica.com",
-        "stats": "485 points · 409 comments"
-      },
-      {
-        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-        "description": "380 points · 390 comments",
-        "image": "",
-        "source": "gitlab.redox-os.org",
-        "stats": ""
-      },
-      {
-        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-        "title": "Agents that run while I sleep",
-        "description": " I Have No Idea If What They Ship Is Any Good",
-        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/713ee402-5719-49c9-b93b-d472fb299a84/landscape_newsletter-thumbnail.png",
-        "source": "claudecodecamp.com",
-        "stats": "260 points · 229 comments"
+        "stats": "636 points · 472 comments"
       },
       {
         "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
@@ -74,7 +100,15 @@
         "description": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
         "image": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg",
         "source": "wired.com",
-        "stats": "371 points · 342 comments"
+        "stats": "602 points · 481 comments"
+      },
+      {
+        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+        "title": "Agents that run while I sleep",
+        "description": " I Have No Idea If What They Ship Is Any Good",
+        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/713ee402-5719-49c9-b93b-d472fb299a84/landscape_newsletter-thumbnail.png",
+        "source": "claudecodecamp.com",
+        "stats": "412 points · 488 comments"
       },
       {
         "url": "https://dnhkng.github.io/posts/rys/",
@@ -82,7 +116,15 @@
         "description": "ML, Biotech, Hardware, and Coordination Problems. Sometimes I write about hard problems and how to solve them.",
         "image": "",
         "source": "dnhkng.github.io",
-        "stats": "328 points · 92 comments"
+        "stats": "442 points · 110 comments"
+      },
+      {
+        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+        "title": "Debian decides not to decide on AI-generated contributions",
+        "description": "Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]",
+        "image": "",
+        "source": "lwn.net",
+        "stats": "372 points · 283 comments"
       }
     ],
     "2026-03-09": [
@@ -92,81 +134,17 @@
         "description": "The viral claim that Anthropic loses $5,000 per Claude Code subscriber doesn&#39;t survive basic scrutiny. Let&#39;s do the actual maths.",
         "image": "https://martinalderson.com/img/og/no-it-doesn-t-cost-anthropic-5k-per-claude-code-user.png",
         "source": "martinalderson.com",
-        "stats": "445 points · 322 comments"
-      },
-      {
-        "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-        "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-        "description": "413 points · 241 comments",
-        "image": "",
-        "source": "cnbc.com",
-        "stats": ""
-      },
-      {
-        "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-        "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-        "description": "Last week, Dan Blanchard, the maintainer of chardet—a Python library for detecting text encodings used by roughly 130 million projects a month— released a new…",
-        "image": "",
-        "source": "writings.hongminhee.org",
-        "stats": "557 points · 568 comments"
-      },
-      {
-        "url": "https://github.com/knowsuchagency/mcp2cli",
-        "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
-        "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen - knowsuchagency/mcp2cli",
-        "image": "https://opengraph.githubassets.com/44a48abb01eb1fd0940b7ac8e38950d4da3ba50619bfcfa3d7aeff95dadc360c/knowsuchagency/mcp2cli",
-        "source": "github.com",
-        "stats": "145 points · 105 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47311657",
-        "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-        "description": "112 points · 76 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "473 points · 347 comments"
       }
     ],
     "2026-03-08": [
       {
-        "url": "https://agent-safehouse.dev/",
-        "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-        "description": "Sandbox your LLM coding agents on macOS. Kernel-level enforcement via sandbox-exec — deny-first, composable, zero dependencies.",
-        "image": "https://agent-safehouse.dev/og-image.png",
-        "source": "agent-safehouse.dev",
-        "stats": "787 points · 175 comments"
-      },
-      {
-        "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-        "title": "We should revisit literate programming in the agent era",
-        "description": "Literate programming is the idea that code should be intermingled with prose such that an uninformed reader could read a code base as a narrative, and come away with an understanding of how it works and what it does.\nAlthough I have long been intrigued by this idea, and have found uses for it in a couple1 of different cases2, I have found that in practice literate programming turns into a chore of maintaining two parallel narratives: the code itself, and the prose. This has obviously limited its adoption.",
-        "image": "https://silly.business/images/thumb.png",
-        "source": "silly.business",
-        "stats": "286 points · 224 comments"
-      },
-      {
-        "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
-        "title": "Claude struggles to cope with ChatGPT exodus",
-        "description": "169 points · 152 comments",
-        "image": "",
-        "source": "forbes.com",
-        "stats": ""
-      },
-      {
-        "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-        "title": "Cloud VM benchmarks 2026",
-        "description": "345 points · 159 comments",
-        "image": "",
-        "source": "devblog.ecuadors.net",
-        "stats": ""
-      },
-      {
-        "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
-        "title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
-        "description": "Oracle is considering workforce cuts and selling Cerner to alleviate financial pressure, warns investment bank TD Cowen.",
-        "image": "https://www.cio.com/wp-content/uploads/2026/01/4125103-0-94363300-1769794492-shutterstock_2641258125.jpg?quality=50&amp;strip=all&amp;w=1024",
-        "source": "cio.com",
-        "stats": "176 points · 233 comments"
+        "url": "https://poloclub.github.io/cnn-explainer/",
+        "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
+        "description": "An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs).",
+        "image": "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png",
+        "source": "poloclub.github.io",
+        "stats": "37 points · 2 comments"
       }
     ],
     "2026-03-07": [
@@ -203,24 +181,6 @@
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral",
         "source": "anthropic.com",
         "stats": "625 points · 168 comments"
-      }
-    ],
-    "2026-03-05": [
-      {
-        "url": "https://openai.com/index/introducing-gpt-5-4/",
-        "title": "GPT-5.4",
-        "description": "1012 points · 804 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
-        "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
-        "description": "Vision-language models improve multimodal systems, but can make them slower, costlier, and harder to deploy. Learn how Phi-4-Vision-Reasoning, a compact multimodal reasoning model, blends strengths of different methods while reducing their limits:",
-        "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/Phi4-TWLIFB-1200x627-1.jpg",
-        "source": "microsoft.com",
-        "stats": "84 points · 9 comments"
       }
     ]
   }
