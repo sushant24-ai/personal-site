@@ -1,64 +1,98 @@
 {
-  "lastUpdated": "2026-03-12T04:17:35.919Z",
+  "lastUpdated": "2026-03-13T04:15:54.524Z",
   "days": {
+    "2026-03-13": [
+      {
+        "url": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+        "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+        "description": "Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case",
+        "image": "https://i.guim.co.uk/img/media/925c4c514dbf8fa03c1ff6c5a2515c8452a4ff3f/192_0_1461_1170/master/1461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab5b35dc7f5f178ca4f31a541818b44f",
+        "source": "theguardian.com",
+        "stats": "94 points · 24 comments"
+      },
+      {
+        "url": "https://untangle.work/blog/ai-writes-code-terrible-at-decisions/",
+        "title": "AI is great at writing code. It's terrible at making decisions",
+        "description": "The problem with AI-generated codebases isn",
+        "image": "",
+        "source": "untangle.work",
+        "stats": "11 points · 2 comments"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+        "title": "Meta delays rollout of new AI model after performance concerns",
+        "description": "10 points · 3 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.bloodinthemachine.com/p/if-ai-is-writing-the-work-and-ai",
+        "title": "AI Killed My Job: Educators",
+        "description": "AI Killed My Job: Educators.",
+        "image": "https://substackcdn.com/image/fetch/$s_!GUKG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf95b203-3d72-4c7d-9a96-00bddac4080c_1456x1048.jpeg",
+        "source": "bloodinthemachine.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://sloppypaste.com/",
+        "title": "Sloppypaste: Pasting raw AI output without reading it",
+        "description": "Use AI all you want. Just don",
+        "image": "https://sloppypaste.com/og-card.png",
+        "source": "sloppypaste.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
     "2026-03-12": [
       {
-        "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
-        "title": "How much of HN is AI?",
-        "description": "74 points · 35 comments",
-        "image": "",
-        "source": "lcamtuf.substack.com",
-        "stats": ""
+        "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+        "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+        "description": "Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.",
+        "image": "https://cdn.forumcomm.com/dims4/default/ebb8316/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fce%2F45%2F16d552fb49c78f0fa3b370e2dd0f%2Fmattwebpics-still001.jpg",
+        "source": "grandforksherald.com",
+        "stats": "478 points · 251 comments"
       },
       {
-        "url": "https://www.reuters.com/commentary/breakingviews/what-happens-if-openai-or-anthropic-fail-2026-03-11/",
-        "title": "What happens if OpenAI or Anthropic fail?",
-        "description": "7 points · 3 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "url": "https://codespeak.dev/",
+        "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
+        "description": "CodeSpeak is a next-generation programming language powered by LLMs. Shrink your codebase 5-10x.",
+        "image": "https://codespeak.dev/opengraph-image?85ad0ffb0f3838a8",
+        "source": "codespeak.dev",
+        "stats": "279 points · 243 comments"
       },
       {
-        "url": "https://www.bbc.com/news/articles/c4g7k7zdd0zo",
-        "title": "Big Tech backs Anthropic in fight against Trump administration",
-        "description": "A group representing tech giants called government action against Anthropic a &quot;temper tantrum&quot;.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a19c/live/1d200f20-1d9c-11f1-94a7-bf1b298028b4.jpg",
-        "source": "bbc.com",
-        "stats": "6 points · 0 comments"
+        "url": "https://claude.com/blog/claude-builds-visuals",
+        "title": "Claude now creates interactive charts, diagrams and visualizations",
+        "description": "Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "178 points · 103 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47345280",
-        "title": "I made a Chrome extension to export an entire Gemini chat",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://github.com/obsessiondb/rudel",
+        "title": "Show HN: Rudel – Claude Code Session Analytics",
+        "description": "Claude Code Session Analytics. Contribute to obsessiondb/rudel development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/57d9ddb31b745f7942c7fd5ca63e77edf60cbd79a7f90759e4e6dad7e5ce30ff/obsessiondb/rudel",
+        "source": "github.com",
+        "stats": "128 points · 72 comments"
       },
       {
-        "url": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
-        "title": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI",
-        "description": "Atlassian said it&#x27;s cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108276934-1773265619777-gettyimages-2147914841-AUSTRALIA_CANNON-BROOKES.jpeg?v=1773265646&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://github.com/jrswab/axe",
+        "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+        "description": "A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe",
+        "image": "https://opengraph.githubassets.com/33f3a256761e4512e60f61f544a65da6e41669a8d9823300e6a099002546d2f1/jrswab/axe",
+        "source": "github.com",
+        "stats": "159 points · 100 comments"
       }
     ],
     "2026-03-11": [
       {
         "url": "https://news.ycombinator.com/newsguidelines.html#generated",
         "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-        "description": "3040 points · 1143 comments",
+        "description": "4115 points · 1610 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-        "title": "How we hacked McKinsey's AI platform",
-        "description": "An autonomous AI agent found a SQL injection in McKinsey&#x27;s Lilli AI platform. What it extracted was worse than we expected.",
-        "image": "https://codewall.ai/images/database-scale-og.png",
-        "source": "codewall.ai",
-        "stats": "409 points · 168 comments"
       },
       {
         "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
@@ -66,41 +100,41 @@
         "description": "AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Artboard-1-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
         "source": "theverge.com",
-        "stats": "196 points · 204 comments"
+        "stats": "406 points · 450 comments"
+      },
+      {
+        "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+        "title": "How we hacked McKinsey's AI platform",
+        "description": "An autonomous AI agent found a SQL injection in McKinsey&#x27;s Lilli AI platform. What it extracted was worse than we expected.",
+        "image": "https://codewall.ai/images/mckinsey-og.png",
+        "source": "codewall.ai",
+        "stats": "481 points · 192 comments"
+      },
+      {
+        "url": "https://github.com/microsoft/BitNet",
+        "title": "BitNet: Inference framework for 1-bit LLMs",
+        "description": "Official inference framework for 1-bit LLMs. Contribute to microsoft/BitNet development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/814428071858de028b5d8a5747beb556bb710cfda94f917cf57e436485219d52/microsoft/BitNet",
+        "source": "github.com",
+        "stats": "364 points · 167 comments"
       },
       {
         "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
         "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-        "description": "150 points · 212 comments",
+        "description": "220 points · 298 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.dwarkesh.com/p/dow-anthropic",
-        "title": "I'm glad the Anthropic fight is happening now",
-        "description": "“Preface to the highest stakes negotiations in history.”",
-        "image": "https://substackcdn.com/image/fetch/$s_!-pum!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F190633588%2F33938ac2-de04-4233-b102-771ed68d5750%2Ftranscoded-1773280519.png",
-        "source": "dwarkesh.com",
-        "stats": "132 points · 175 comments"
       }
     ],
     "2026-03-10": [
-      {
-        "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-        "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-        "description": "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/09/GettyImages-1157406884-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "636 points · 472 comments"
-      },
       {
         "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
         "title": "Yann LeCun raises $1B to build AI that understands the physical world",
         "description": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
         "image": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg",
         "source": "wired.com",
-        "stats": "602 points · 481 comments"
+        "stats": "609 points · 499 comments"
       },
       {
         "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
@@ -108,23 +142,7 @@
         "description": " I Have No Idea If What They Ship Is Any Good",
         "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/713ee402-5719-49c9-b93b-d472fb299a84/landscape_newsletter-thumbnail.png",
         "source": "claudecodecamp.com",
-        "stats": "412 points · 488 comments"
-      },
-      {
-        "url": "https://dnhkng.github.io/posts/rys/",
-        "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-        "description": "ML, Biotech, Hardware, and Coordination Problems. Sometimes I write about hard problems and how to solve them.",
-        "image": "",
-        "source": "dnhkng.github.io",
-        "stats": "442 points · 110 comments"
-      },
-      {
-        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-        "title": "Debian decides not to decide on AI-generated contributions",
-        "description": "Debian is the latest in an ever-growing list of projects to wrestle (again) with the question o [...]",
-        "image": "",
-        "source": "lwn.net",
-        "stats": "372 points · 283 comments"
+        "stats": "424 points · 492 comments"
       }
     ],
     "2026-03-09": [
@@ -144,7 +162,15 @@
         "description": "An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs).",
         "image": "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png",
         "source": "poloclub.github.io",
-        "stats": "37 points · 2 comments"
+        "stats": "62 points · 4 comments"
+      },
+      {
+        "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+        "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+        "description": "This is the fifth post in a series on LLM internals. Part 1 covered attention, Part 2 covered generation, Part 3 covered the Flash Attention algorithm, Part ...",
+        "image": "",
+        "source": "archerzhang.me",
+        "stats": "52 points · 12 comments"
       }
     ],
     "2026-03-07": [
@@ -171,16 +197,6 @@
         "image": "https://quesma.com/_astro/chromatron_cursor_ghidra.CRYzmwKK.png",
         "source": "quesma.com",
         "stats": "25 points · 8 comments"
-      }
-    ],
-    "2026-03-06": [
-      {
-        "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-        "title": "Hardening Firefox with Anthropic's Red Team",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral",
-        "source": "anthropic.com",
-        "stats": "625 points · 168 comments"
       }
     ]
   }
