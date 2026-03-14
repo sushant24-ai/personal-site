@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-13T04:15:54.524Z",
+  "lastUpdated": "2026-03-14T04:13:55.390Z",
   "days": {
-    "2026-03-13": [
+    "2026-03-14": [
       {
-        "url": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
-        "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
-        "description": "Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case",
-        "image": "https://i.guim.co.uk/img/media/925c4c514dbf8fa03c1ff6c5a2515c8452a4ff3f/192_0_1461_1170/master/1461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab5b35dc7f5f178ca4f31a541818b44f",
-        "source": "theguardian.com",
-        "stats": "94 points · 24 comments"
-      },
-      {
-        "url": "https://untangle.work/blog/ai-writes-code-terrible-at-decisions/",
-        "title": "AI is great at writing code. It's terrible at making decisions",
-        "description": "The problem with AI-generated codebases isn",
+        "url": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/",
+        "title": "Meta planning layoffs as AI costs mount",
+        "description": "34 points · 4 comments",
         "image": "",
-        "source": "untangle.work",
-        "stats": "11 points · 2 comments"
-      },
-      {
-        "url": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
-        "title": "Meta delays rollout of new AI model after performance concerns",
-        "description": "10 points · 3 comments",
-        "image": "",
-        "source": "nytimes.com",
+        "source": "reuters.com",
         "stats": ""
       },
       {
-        "url": "https://www.bloodinthemachine.com/p/if-ai-is-writing-the-work-and-ai",
-        "title": "AI Killed My Job: Educators",
-        "description": "AI Killed My Job: Educators.",
-        "image": "https://substackcdn.com/image/fetch/$s_!GUKG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf95b203-3d72-4c7d-9a96-00bddac4080c_1456x1048.jpeg",
-        "source": "bloodinthemachine.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://cra.mr/optimizing-content-for-agents/",
+        "title": "Optimizing Content for Agents",
+        "description": "There is a lot of bad discourse around whether we should optimize content for agents at all, and most of it misses the point. We already shape content for humans, and agents are no different. At Sentry we",
+        "image": "https://cra.mr/ai-content/optimizing-content-for-agents.png",
+        "source": "cra.mr",
+        "stats": "13 points · 6 comments"
       },
       {
-        "url": "https://sloppypaste.com/",
-        "title": "Sloppypaste: Pasting raw AI output without reading it",
-        "description": "Use AI all you want. Just don",
-        "image": "https://sloppypaste.com/og-card.png",
-        "source": "sloppypaste.com",
-        "stats": "3 points · 1 comments"
+        "url": "https://www.theregister.com/2026/03/12/district_denies_enrollment_to_child/",
+        "title": "District denies enrollment to child based on license plate reader data",
+        "description": ": Automated checks raised doubts, though key questions remain unanswered",
+        "image": "https://regmedia.co.uk/2022/10/11/reviver-digital-plate.jpg",
+        "source": "theregister.com",
+        "stats": "15 points · 3 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47372273",
+        "title": "MiniMax M2.5 is trained by Claude Opus 4.6?",
+        "description": "7 points · 3 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
+        "title": "After building agents for 2 years, I stopped using function calling",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      }
+    ],
+    "2026-03-13": [
+      {
+        "url": "https://www.canirun.ai/",
+        "title": "Can I run AI locally?",
+        "description": "Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.",
+        "image": "https://canirun.ai/og/home.png",
+        "source": "canirun.ai",
+        "stats": "1033 points · 268 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+        "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+        "description": "Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede1da3-de7b-4380-b0e9-88229243b17b.jpg?source=next-barrier-page",
+        "source": "ft.com",
+        "stats": "359 points · 562 comments"
+      },
+      {
+        "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+        "title": "John Carmack about open source and anti-AI activists",
+        "description": "259 points · 369 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.getspine.ai/",
+        "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+        "description": "Spine is the world",
+        "image": "https://getspine.ai/WebsitePreview.jpg",
+        "source": "getspine.ai",
+        "stats": "88 points · 66 comments"
+      },
+      {
+        "url": "https://prompt-caching.ai/",
+        "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
+        "description": "Open source MCP plugin that automatically injects prompt cache breakpoints into Claude Code sessions. Up to 90% token cost reduction — zero config.",
+        "image": "https://prompt-caching.ai/assets/og.png",
+        "source": "prompt-caching.ai",
+        "stats": "68 points · 27 comments"
       }
     ],
     "2026-03-12": [
@@ -50,7 +92,7 @@
         "description": "Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.",
         "image": "https://cdn.forumcomm.com/dims4/default/ebb8316/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fce%2F45%2F16d552fb49c78f0fa3b370e2dd0f%2Fmattwebpics-still001.jpg",
         "source": "grandforksherald.com",
-        "stats": "478 points · 251 comments"
+        "stats": "722 points · 373 comments"
       },
       {
         "url": "https://codespeak.dev/",
@@ -58,7 +100,7 @@
         "description": "CodeSpeak is a next-generation programming language powered by LLMs. Shrink your codebase 5-10x.",
         "image": "https://codespeak.dev/opengraph-image?85ad0ffb0f3838a8",
         "source": "codespeak.dev",
-        "stats": "279 points · 243 comments"
+        "stats": "310 points · 275 comments"
       },
       {
         "url": "https://claude.com/blog/claude-builds-visuals",
@@ -66,41 +108,33 @@
         "description": "Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.",
         "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
         "source": "claude.com",
-        "stats": "178 points · 103 comments"
+        "stats": "218 points · 110 comments"
       },
       {
-        "url": "https://github.com/obsessiondb/rudel",
-        "title": "Show HN: Rudel – Claude Code Session Analytics",
-        "description": "Claude Code Session Analytics. Contribute to obsessiondb/rudel development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/57d9ddb31b745f7942c7fd5ca63e77edf60cbd79a7f90759e4e6dad7e5ce30ff/obsessiondb/rudel",
-        "source": "github.com",
-        "stats": "128 points · 72 comments"
+        "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+        "title": "Grief and the AI split",
+        "description": "TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I&#39;ve felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I&#39;ve been all along.",
+        "image": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/lucian-Y4XF74XQhi0-unsplash-dithered.png",
+        "source": "blog.lmorchard.com",
+        "stats": "223 points · 362 comments"
       },
       {
-        "url": "https://github.com/jrswab/axe",
-        "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-        "description": "A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe",
-        "image": "https://opengraph.githubassets.com/33f3a256761e4512e60f61f544a65da6e41669a8d9823300e6a099002546d2f1/jrswab/axe",
-        "source": "github.com",
-        "stats": "159 points · 100 comments"
+        "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+        "title": "Executing programs inside transformers with exponentially faster inference",
+        "description": "We build a computer inside a transformer — executing arbitrary C programs for millions of steps with exponentially faster inference via 2D attention heads.",
+        "image": "https://percepta.ai/blog/turing-hero-og.png",
+        "source": "percepta.ai",
+        "stats": "299 points · 115 comments"
       }
     ],
     "2026-03-11": [
-      {
-        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-        "description": "4115 points · 1610 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
       {
         "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
         "title": "I was interviewed by an AI bot for a job",
         "description": "AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Artboard-1-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
         "source": "theverge.com",
-        "stats": "406 points · 450 comments"
+        "stats": "415 points · 458 comments"
       },
       {
         "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
@@ -108,41 +142,25 @@
         "description": "An autonomous AI agent found a SQL injection in McKinsey&#x27;s Lilli AI platform. What it extracted was worse than we expected.",
         "image": "https://codewall.ai/images/mckinsey-og.png",
         "source": "codewall.ai",
-        "stats": "481 points · 192 comments"
+        "stats": "497 points · 195 comments"
       },
       {
-        "url": "https://github.com/microsoft/BitNet",
-        "title": "BitNet: Inference framework for 1-bit LLMs",
-        "description": "Official inference framework for 1-bit LLMs. Contribute to microsoft/BitNet development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/814428071858de028b5d8a5747beb556bb710cfda94f917cf57e436485219d52/microsoft/BitNet",
-        "source": "github.com",
-        "stats": "364 points · 167 comments"
-      },
-      {
-        "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
-        "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-        "description": "220 points · 298 comments",
+        "url": "https://www.perplexity.ai/personal-computer-waitlist",
+        "title": "Personal Computer by Perplexity",
+        "description": "217 points · 172 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "perplexity.ai",
         "stats": ""
       }
     ],
     "2026-03-10": [
       {
-        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-        "description": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
-        "image": "https://media.wired.com/photos/69ab547169eb9242c51148d7/191:100/w_1280,c_limit/Yann-LeCun-QA-Business-2198379404.jpg",
-        "source": "wired.com",
-        "stats": "609 points · 499 comments"
-      },
-      {
-        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-        "title": "Agents that run while I sleep",
-        "description": " I Have No Idea If What They Ship Is Any Good",
-        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/713ee402-5719-49c9-b93b-d472fb299a84/landscape_newsletter-thumbnail.png",
-        "source": "claudecodecamp.com",
-        "stats": "424 points · 492 comments"
+        "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+        "title": "Emacs and Vim in the Age of AI",
+        "description": "It’s tough to make predictions, especially about the future. – Yogi Berra",
+        "image": "https://batsov.com/assets/img/og-image.png",
+        "source": "batsov.com",
+        "stats": "10 points · 1 comments"
       }
     ],
     "2026-03-09": [
@@ -171,32 +189,6 @@
         "image": "",
         "source": "archerzhang.me",
         "stats": "52 points · 12 comments"
-      }
-    ],
-    "2026-03-07": [
-      {
-        "url": "https://tropes.fyi/tropes-md",
-        "title": "LLM Writing Tropes.md",
-        "description": "A single file containing all known AI writing tropes. I guess you could add it to your AI system prompt to avoid these patterns. Or you could embark on the joy of independent writing.",
-        "image": "",
-        "source": "tropes.fyi",
-        "stats": "364 points · 186 comments"
-      },
-      {
-        "url": "https://github.com/karpathy/autoresearch",
-        "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-        "description": "AI agents running research on single-GPU nanochat training automatically - karpathy/autoresearch",
-        "image": "https://opengraph.githubassets.com/9fa513d16891541a7a889f4447e2f6ba4a47e09d2a60c0f9208da1241ef13aac/karpathy/autoresearch",
-        "source": "github.com",
-        "stats": "190 points · 51 comments"
-      },
-      {
-        "url": "https://quesma.com/blog/chromatron-recompiled/",
-        "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
-        "description": "Decompiling the classic puzzle game with lasers Chromatron from WinXP and PowerPC executables into Rust. A pixel-perfect porting using Claude Code, Opus 4.6, Cursor, GPT-5.2-Codex, and Ghidra.",
-        "image": "https://quesma.com/_astro/chromatron_cursor_ghidra.CRYzmwKK.png",
-        "source": "quesma.com",
-        "stats": "25 points · 8 comments"
       }
     ]
   }
