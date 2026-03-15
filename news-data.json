@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-14T04:13:55.390Z",
+  "lastUpdated": "2026-03-15T04:35:44.231Z",
   "days": {
-    "2026-03-14": [
+    "2026-03-15": [
       {
-        "url": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/",
-        "title": "Meta planning layoffs as AI costs mount",
-        "description": "34 points · 4 comments",
+        "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+        "title": "Tree Search Distillation for Language Models Using PPO",
+        "description": "Personal website of Ayush Tambde",
         "image": "",
-        "source": "reuters.com",
+        "source": "ayushtambde.com",
+        "stats": "32 points · 1 comments"
+      },
+      {
+        "url": "https://margaretatwood.substack.com/p/claude-you-are-a-cutie-pie",
+        "title": "Claude, you are a cutie-pie – by Margaret Atwood",
+        "description": "5 points · 2 comments",
+        "image": "",
+        "source": "margaretatwood.substack.com",
         "stats": ""
       },
       {
-        "url": "https://cra.mr/optimizing-content-for-agents/",
-        "title": "Optimizing Content for Agents",
-        "description": "There is a lot of bad discourse around whether we should optimize content for agents at all, and most of it misses the point. We already shape content for humans, and agents are no different. At Sentry we",
-        "image": "https://cra.mr/ai-content/optimizing-content-for-agents.png",
-        "source": "cra.mr",
-        "stats": "13 points · 6 comments"
-      },
-      {
-        "url": "https://www.theregister.com/2026/03/12/district_denies_enrollment_to_child/",
-        "title": "District denies enrollment to child based on license plate reader data",
-        "description": ": Automated checks raised doubts, though key questions remain unanswered",
-        "image": "https://regmedia.co.uk/2022/10/11/reviver-digital-plate.jpg",
-        "source": "theregister.com",
-        "stats": "15 points · 3 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47372273",
-        "title": "MiniMax M2.5 is trained by Claude Opus 4.6?",
-        "description": "7 points · 3 comments",
+        "url": "https://news.ycombinator.com/item?id=47383282",
+        "title": "Ask HN: How do you prompt AI to talk to you?",
+        "description": "4 points · 1 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://old.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
-        "title": "After building agents for 2 years, I stopped using function calling",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "old.reddit.com",
+        "url": "https://github.com/g-solomons/agent-task-protocol",
+        "title": "ATP – A minimal protocol for task exchange between autonomous agents",
+        "description": "ATP (Agent Task Protocol) – a minimal protocol for signed task exchange between autonomous agents. - g-solomons/agent-task-protocol",
+        "image": "https://opengraph.githubassets.com/c932b2a2daa0515d0b8119564a74be1e0fcab3815d3b9acce29b92e2e15509fe/g-solomons/agent-task-protocol",
+        "source": "github.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/xmpuspus/kb-arena",
+        "title": "KB Arena – benchmark RAG strategies on your docs (open source)",
+        "description": "Benchmark retrieval strategies on your documentation — find which KB architecture fits your data - xmpuspus/kb-arena",
+        "image": "https://opengraph.githubassets.com/0a702fafab83650868e56d216e806a0375c6f16470b74a257d9e4c7af8711396/xmpuspus/kb-arena",
+        "source": "github.com",
+        "stats": "3 points · 2 comments"
+      }
+    ],
+    "2026-03-14": [
+      {
+        "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
+        "title": "Claude March 2026 usage promotion",
+        "description": "220 points · 135 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.anthropic.com/news/claude-partner-network",
+        "title": "Launching the Claude Partner Network",
+        "description": "We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+        "source": "anthropic.com",
+        "stats": "107 points · 50 comments"
+      },
+      {
+        "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
+        "title": "MCP is dead; long live MCP",
+        "description": "Understanding the social media zeitgeist around CLIs and the premature death of MCP",
+        "image": "https://chrlschn.dev/img/mcp/death-to-mcp-long-live-mcp.png",
+        "source": "chrlschn.dev",
+        "stats": "105 points · 109 comments"
+      },
+      {
+        "url": "https://robenglander.com/writing/ai-did-not-simplify/",
+        "title": "AI didn't simplify software engineering: It just made bad engineering easier",
+        "description": "117 points · 101 comments",
+        "image": "",
+        "source": "robenglander.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.gitagent.sh/",
+        "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+        "description": "Define, version, and run AI agents natively in git. GitAgent is the open AI agent standard — framework-agnostic, works with Claude, OpenAI, CrewAI, Lyzr, and more.",
+        "image": "https://gitagent.sh/og-banner-2.png",
+        "source": "gitagent.sh",
+        "stats": "104 points · 15 comments"
       }
     ],
     "2026-03-13": [
@@ -50,20 +92,20 @@
         "description": "Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.",
         "image": "https://canirun.ai/og/home.png",
         "source": "canirun.ai",
-        "stats": "1033 points · 268 comments"
+        "stats": "1410 points · 339 comments"
       },
       {
         "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
         "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-        "description": "Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede1da3-de7b-4380-b0e9-88229243b17b.jpg?source=next-barrier-page",
+        "description": "500 points · 784 comments",
+        "image": "",
         "source": "ft.com",
-        "stats": "359 points · 562 comments"
+        "stats": ""
       },
       {
         "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
         "title": "John Carmack about open source and anti-AI activists",
-        "description": "259 points · 369 comments",
+        "description": "357 points · 472 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -74,15 +116,15 @@
         "description": "Spine is the world",
         "image": "https://getspine.ai/WebsitePreview.jpg",
         "source": "getspine.ai",
-        "stats": "88 points · 66 comments"
+        "stats": "106 points · 69 comments"
       },
       {
-        "url": "https://prompt-caching.ai/",
-        "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
-        "description": "Open source MCP plugin that automatically injects prompt cache breakpoints into Claude Code sessions. Up to 90% token cost reduction — zero config.",
-        "image": "https://prompt-caching.ai/assets/og.png",
-        "source": "prompt-caching.ai",
-        "stats": "68 points · 27 comments"
+        "url": "https://github.com/Compresr-ai/Context-Gateway",
+        "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+        "description": "Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools - Compresr-ai/Context-Gateway",
+        "image": "https://opengraph.githubassets.com/d53fb1136bcfa2194d11125e817d260c44982ca2938e9015dd0cb32fe13a6d7b/Compresr-ai/Context-Gateway",
+        "source": "github.com",
+        "stats": "89 points · 50 comments"
       }
     ],
     "2026-03-12": [
@@ -92,31 +134,7 @@
         "description": "Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.",
         "image": "https://cdn.forumcomm.com/dims4/default/ebb8316/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fce%2F45%2F16d552fb49c78f0fa3b370e2dd0f%2Fmattwebpics-still001.jpg",
         "source": "grandforksherald.com",
-        "stats": "722 points · 373 comments"
-      },
-      {
-        "url": "https://codespeak.dev/",
-        "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
-        "description": "CodeSpeak is a next-generation programming language powered by LLMs. Shrink your codebase 5-10x.",
-        "image": "https://codespeak.dev/opengraph-image?85ad0ffb0f3838a8",
-        "source": "codespeak.dev",
-        "stats": "310 points · 275 comments"
-      },
-      {
-        "url": "https://claude.com/blog/claude-builds-visuals",
-        "title": "Claude now creates interactive charts, diagrams and visualizations",
-        "description": "Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.",
-        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
-        "source": "claude.com",
-        "stats": "218 points · 110 comments"
-      },
-      {
-        "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
-        "title": "Grief and the AI split",
-        "description": "TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I&#39;ve felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I&#39;ve been all along.",
-        "image": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/lucian-Y4XF74XQhi0-unsplash-dithered.png",
-        "source": "blog.lmorchard.com",
-        "stats": "223 points · 362 comments"
+        "stats": "745 points · 384 comments"
       },
       {
         "url": "https://www.percepta.ai/blog/can-llms-be-computers",
@@ -124,33 +142,57 @@
         "description": "We build a computer inside a transformer — executing arbitrary C programs for millions of steps with exponentially faster inference via 2D attention heads.",
         "image": "https://percepta.ai/blog/turing-hero-og.png",
         "source": "percepta.ai",
-        "stats": "299 points · 115 comments"
+        "stats": "315 points · 123 comments"
+      },
+      {
+        "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+        "title": "Grief and the AI split",
+        "description": "TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I&#39;ve felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I&#39;ve been all along.",
+        "image": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/lucian-Y4XF74XQhi0-unsplash-dithered.png",
+        "source": "blog.lmorchard.com",
+        "stats": "236 points · 373 comments"
+      },
+      {
+        "url": "https://github.com/jrswab/axe",
+        "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+        "description": "A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe",
+        "image": "https://opengraph.githubassets.com/9d81db4f2baab57287f00807f003ef6f3e4b971e251ba7c5924a9825786b53c8/jrswab/axe",
+        "source": "github.com",
+        "stats": "219 points · 122 comments"
+      },
+      {
+        "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+        "title": "Are LLM merge rates not getting better?",
+        "description": "169 points · 157 comments",
+        "image": "",
+        "source": "entropicthoughts.com",
+        "stats": ""
       }
     ],
     "2026-03-11": [
-      {
-        "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-        "title": "I was interviewed by an AI bot for a job",
-        "description": "AI-led job interviews are on the rise and AI reporter Hayden Field speaks to three different kinds to see how they work.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Artboard-1-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "415 points · 458 comments"
-      },
       {
         "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
         "title": "How we hacked McKinsey's AI platform",
         "description": "An autonomous AI agent found a SQL injection in McKinsey&#x27;s Lilli AI platform. What it extracted was worse than we expected.",
         "image": "https://codewall.ai/images/mckinsey-og.png",
         "source": "codewall.ai",
-        "stats": "497 points · 195 comments"
+        "stats": "500 points · 195 comments"
       },
       {
         "url": "https://www.perplexity.ai/personal-computer-waitlist",
         "title": "Personal Computer by Perplexity",
-        "description": "217 points · 172 comments",
+        "description": "221 points · 172 comments",
         "image": "",
         "source": "perplexity.ai",
         "stats": ""
+      },
+      {
+        "url": "https://ml.ink/",
+        "title": "Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills",
+        "description": "Give your AI agent an Ink skill and let it deploy services, configure domains, and manage your cloud — all autonomously. 29+ frameworks, Docker, and auto-deploy from GitHub.",
+        "image": "https://ml.ink/og.jpg",
+        "source": "ml.ink",
+        "stats": "27 points · 5 comments"
       }
     ],
     "2026-03-10": [
@@ -171,24 +213,6 @@
         "image": "https://martinalderson.com/img/og/no-it-doesn-t-cost-anthropic-5k-per-claude-code-user.png",
         "source": "martinalderson.com",
         "stats": "473 points · 347 comments"
-      }
-    ],
-    "2026-03-08": [
-      {
-        "url": "https://poloclub.github.io/cnn-explainer/",
-        "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
-        "description": "An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs).",
-        "image": "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png",
-        "source": "poloclub.github.io",
-        "stats": "62 points · 4 comments"
-      },
-      {
-        "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
-        "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
-        "description": "This is the fifth post in a series on LLM internals. Part 1 covered attention, Part 2 covered generation, Part 3 covered the Flash Attention algorithm, Part ...",
-        "image": "",
-        "source": "archerzhang.me",
-        "stats": "52 points · 12 comments"
       }
     ]
   }
