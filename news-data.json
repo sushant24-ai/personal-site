@@ -1,64 +1,98 @@
 {
-  "lastUpdated": "2026-03-15T04:35:44.231Z",
+  "lastUpdated": "2026-03-16T04:43:24.314Z",
   "days": {
-    "2026-03-15": [
+    "2026-03-16": [
       {
-        "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-        "title": "Tree Search Distillation for Language Models Using PPO",
-        "description": "Personal website of Ayush Tambde",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+        "title": "What is agentic engineering?",
+        "description": "What is agentic engineering? - Agentic Engineering Patterns",
         "image": "",
-        "source": "ayushtambde.com",
-        "stats": "32 points · 1 comments"
+        "source": "simonwillison.net",
+        "stats": "95 points · 55 comments"
       },
       {
-        "url": "https://margaretatwood.substack.com/p/claude-you-are-a-cutie-pie",
-        "title": "Claude, you are a cutie-pie – by Margaret Atwood",
-        "description": "5 points · 2 comments",
-        "image": "",
-        "source": "margaretatwood.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47383282",
-        "title": "Ask HN: How do you prompt AI to talk to you?",
-        "description": "4 points · 1 comments",
+        "url": "https://news.ycombinator.com/item?id=47394291",
+        "title": "AI tools are making me lose interest in CS fundamentals",
+        "description": "52 points · 40 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/g-solomons/agent-task-protocol",
-        "title": "ATP – A minimal protocol for task exchange between autonomous agents",
-        "description": "ATP (Agent Task Protocol) – a minimal protocol for signed task exchange between autonomous agents. - g-solomons/agent-task-protocol",
-        "image": "https://opengraph.githubassets.com/c932b2a2daa0515d0b8119564a74be1e0fcab3815d3b9acce29b92e2e15509fe/g-solomons/agent-task-protocol",
-        "source": "github.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+        "title": "How I write software with LLMs",
+        "description": "46 points · 6 comments",
+        "image": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483",
+        "source": "stavros.io",
+        "stats": ""
       },
       {
-        "url": "https://github.com/xmpuspus/kb-arena",
-        "title": "KB Arena – benchmark RAG strategies on your docs (open source)",
-        "description": "Benchmark retrieval strategies on your documentation — find which KB architecture fits your data - xmpuspus/kb-arena",
-        "image": "https://opengraph.githubassets.com/0a702fafab83650868e56d216e806a0375c6f16470b74a257d9e4c7af8711396/xmpuspus/kb-arena",
+        "url": "https://github.com/QAInsights/AIx",
+        "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+        "description": "Quillx is an open standard for disclosing AI involvement in software projects - expressed through the language of authorship. Not a judgment. Just transparency. - QAInsights/Quillx",
+        "image": "https://opengraph.githubassets.com/f5c0482d7e49677a10eaaa0c67e91e602e58ac3a0c962aa2825e2c137a2825a4/QAInsights/Quillx",
         "source": "github.com",
-        "stats": "3 points · 2 comments"
+        "stats": "11 points · 8 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47394827",
+        "title": "Ask HN: If AI makes your devs super productive, why layoff?",
+        "description": "6 points · 2 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
+    "2026-03-15": [
+      {
+        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "title": "Chrome DevTools MCP (2025)",
+        "description": "We shipped a new feature to the Chrome DevTools MCP server that is going to make it a lot easier for your coding agent to debug your current browser sessions.",
+        "image": "https://developer.chrome.com/static/blog/chrome-devtools-mcp-debug-your-browser-session/image/hero.png",
+        "source": "developer.chrome.com",
+        "stats": "404 points · 180 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47388646",
+        "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+        "description": "270 points · 466 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+        "title": "The Appalling Stupidity of Spotify's AI DJ",
+        "description": "Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?",
+        "image": "https://www.charlespetzold.com/blog/2026/02/SpotifyDJ.png",
+        "source": "charlespetzold.com",
+        "stats": "354 points · 289 comments"
+      },
+      {
+        "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+        "title": "LLM Architecture Gallery",
+        "description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.",
+        "image": "https://sebastianraschka.com/llm-architecture-gallery/images/hero/architecture-gallery-hero.webp",
+        "source": "sebastianraschka.com",
+        "stats": "302 points · 22 comments"
+      },
+      {
+        "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+        "title": "A Visual Introduction to Machine Learning (2015)",
+        "description": "What is machine learning? See how it works with our animated data visualization.",
+        "image": "https://r2d3.us/decision-trees-part-1-preview.png",
+        "source": "r2d3.us",
+        "stats": "334 points · 29 comments"
       }
     ],
     "2026-03-14": [
       {
         "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
         "title": "Claude March 2026 usage promotion",
-        "description": "220 points · 135 comments",
+        "description": "243 points · 145 comments",
         "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
         "source": "support.claude.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.anthropic.com/news/claude-partner-network",
-        "title": "Launching the Claude Partner Network",
-        "description": "We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
-        "source": "anthropic.com",
-        "stats": "107 points · 50 comments"
       },
       {
         "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
@@ -66,12 +100,20 @@
         "description": "Understanding the social media zeitgeist around CLIs and the premature death of MCP",
         "image": "https://chrlschn.dev/img/mcp/death-to-mcp-long-live-mcp.png",
         "source": "chrlschn.dev",
-        "stats": "105 points · 109 comments"
+        "stats": "259 points · 191 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/news/claude-partner-network",
+        "title": "Launching the Claude Partner Network",
+        "description": "We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+        "source": "anthropic.com",
+        "stats": "158 points · 96 comments"
       },
       {
         "url": "https://robenglander.com/writing/ai-did-not-simplify/",
         "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-        "description": "117 points · 101 comments",
+        "description": "128 points · 109 comments",
         "image": "",
         "source": "robenglander.com",
         "stats": ""
@@ -82,7 +124,7 @@
         "description": "Define, version, and run AI agents natively in git. GitAgent is the open AI agent standard — framework-agnostic, works with Claude, OpenAI, CrewAI, Lyzr, and more.",
         "image": "https://gitagent.sh/og-banner-2.png",
         "source": "gitagent.sh",
-        "stats": "104 points · 15 comments"
+        "stats": "134 points · 35 comments"
       }
     ],
     "2026-03-13": [
@@ -92,23 +134,15 @@
         "description": "Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.",
         "image": "https://canirun.ai/og/home.png",
         "source": "canirun.ai",
-        "stats": "1410 points · 339 comments"
+        "stats": "1464 points · 345 comments"
       },
       {
         "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
         "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-        "description": "500 points · 784 comments",
-        "image": "",
+        "description": "Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede1da3-de7b-4380-b0e9-88229243b17b.jpg?source=next-barrier-page",
         "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-        "title": "John Carmack about open source and anti-AI activists",
-        "description": "357 points · 472 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
+        "stats": "516 points · 810 comments"
       },
       {
         "url": "https://www.getspine.ai/",
@@ -116,54 +150,22 @@
         "description": "Spine is the world",
         "image": "https://getspine.ai/WebsitePreview.jpg",
         "source": "getspine.ai",
-        "stats": "106 points · 69 comments"
+        "stats": "108 points · 69 comments"
       },
       {
         "url": "https://github.com/Compresr-ai/Context-Gateway",
         "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
         "description": "Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools - Compresr-ai/Context-Gateway",
-        "image": "https://opengraph.githubassets.com/d53fb1136bcfa2194d11125e817d260c44982ca2938e9015dd0cb32fe13a6d7b/Compresr-ai/Context-Gateway",
+        "image": "https://opengraph.githubassets.com/f5a2f73ab72a9b80a660542826bf886477322a16c67cb973c3962190fc17dd4f/Compresr-ai/Context-Gateway",
         "source": "github.com",
-        "stats": "89 points · 50 comments"
+        "stats": "92 points · 60 comments"
       }
     ],
     "2026-03-12": [
       {
-        "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-        "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-        "description": "Angela Lipps spent nearly six months in jail in Tennessee and North Dakota after being misidentified by Fargo police through AI facial recognition in a bank fraud investigation.",
-        "image": "https://cdn.forumcomm.com/dims4/default/ebb8316/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fce%2F45%2F16d552fb49c78f0fa3b370e2dd0f%2Fmattwebpics-still001.jpg",
-        "source": "grandforksherald.com",
-        "stats": "745 points · 384 comments"
-      },
-      {
-        "url": "https://www.percepta.ai/blog/can-llms-be-computers",
-        "title": "Executing programs inside transformers with exponentially faster inference",
-        "description": "We build a computer inside a transformer — executing arbitrary C programs for millions of steps with exponentially faster inference via 2D attention heads.",
-        "image": "https://percepta.ai/blog/turing-hero-og.png",
-        "source": "percepta.ai",
-        "stats": "315 points · 123 comments"
-      },
-      {
-        "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
-        "title": "Grief and the AI split",
-        "description": "TL;DR: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I&#39;ve felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I&#39;ve been all along.",
-        "image": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/lucian-Y4XF74XQhi0-unsplash-dithered.png",
-        "source": "blog.lmorchard.com",
-        "stats": "236 points · 373 comments"
-      },
-      {
-        "url": "https://github.com/jrswab/axe",
-        "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-        "description": "A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. - jrswab/axe",
-        "image": "https://opengraph.githubassets.com/9d81db4f2baab57287f00807f003ef6f3e4b971e251ba7c5924a9825786b53c8/jrswab/axe",
-        "source": "github.com",
-        "stats": "219 points · 122 comments"
-      },
-      {
         "url": "https://entropicthoughts.com/no-swe-bench-improvement",
         "title": "Are LLM merge rates not getting better?",
-        "description": "169 points · 157 comments",
+        "description": "174 points · 157 comments",
         "image": "",
         "source": "entropicthoughts.com",
         "stats": ""
@@ -203,16 +205,6 @@
         "image": "https://batsov.com/assets/img/og-image.png",
         "source": "batsov.com",
         "stats": "10 points · 1 comments"
-      }
-    ],
-    "2026-03-09": [
-      {
-        "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-        "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-        "description": "The viral claim that Anthropic loses $5,000 per Claude Code subscriber doesn&#39;t survive basic scrutiny. Let&#39;s do the actual maths.",
-        "image": "https://martinalderson.com/img/og/no-it-doesn-t-cost-anthropic-5k-per-claude-code-user.png",
-        "source": "martinalderson.com",
-        "stats": "473 points · 347 comments"
       }
     ]
   }
