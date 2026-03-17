@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-16T04:43:24.314Z",
+  "lastUpdated": "2026-03-17T04:22:27.087Z",
   "days": {
-    "2026-03-16": [
+    "2026-03-17": [
       {
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
-        "title": "What is agentic engineering?",
-        "description": "What is agentic engineering? - Agentic Engineering Patterns",
-        "image": "",
-        "source": "simonwillison.net",
-        "stats": "95 points · 55 comments"
+        "url": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/",
+        "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
+        "description": "interview: Codestrap founders say we need to dial down the hype and sort through the mess",
+        "image": "https://regmedia.co.uk/2026/03/17/lego_business_lemmings.jpg",
+        "source": "theregister.com",
+        "stats": "11 points · 1 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47394291",
-        "title": "AI tools are making me lose interest in CS fundamentals",
-        "description": "52 points · 40 comments",
+        "url": "https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mr",
+        "title": "Tech entrepreneur used AI to help create a cancer vaccine to treat his dog",
+        "description": "3 points · 0 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "fortune.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825",
+        "title": "OpenAI to Cut Back on Side Projects in Push to 'Nail' Core Business",
+        "description": "2 points · 1 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://medium.com/@ontostandard/from-golden-ratio-to-gold-core-how-20-years-of-pattern-research-became-the-operating-system-for-ai-68ccab9d81fe",
+        "title": "We gave AI models epistemic discipline. They started describing themselves",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "medium.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.buysellram.com/blog/the-agentic-ai-era-how-nvidia-rubin-vera-cpu-groq-3-lpus-bluefield-4-redefine-the-inference-factory/",
+        "title": "The Agentic AI Era: How Nvidia Rubin Redefine the Inference Factory",
+        "description": "Explore how the NVIDIA Rubin platform, R100 GPU, Vera CPU, Groq 3 LPU, BlueField-4 DPU and NVLink 6 are building the new Inference Factory. Learn why Agentic AI requires a hardware revolution.",
+        "image": "https://www.buysellram.com/wp-content/uploads/2026/01/nvidia-rubin-platform.jpg",
+        "source": "buysellram.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
+    "2026-03-16": [
+      {
+        "url": "https://mistral.ai/news/leanstral",
+        "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+        "description": "First open-source code agent for Lean 4.",
+        "image": "https://mistral.ai/img/mistral-cover.png",
+        "source": "mistral.ai",
+        "stats": "361 points · 70 comments"
       },
       {
         "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
         "title": "How I write software with LLMs",
-        "description": "46 points · 6 comments",
+        "description": "481 points · 470 comments",
         "image": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483",
         "source": "stavros.io",
         "stats": ""
       },
       {
-        "url": "https://github.com/QAInsights/AIx",
-        "title": "Quillx is an open standard for disclosing AI involvement in software projects",
-        "description": "Quillx is an open standard for disclosing AI involvement in software projects - expressed through the language of authorship. Not a judgment. Just transparency. - QAInsights/Quillx",
-        "image": "https://opengraph.githubassets.com/f5c0482d7e49677a10eaaa0c67e91e602e58ac3a0c962aa2825e2c137a2825a4/QAInsights/Quillx",
+        "url": "https://github.com/htdt/godogen",
+        "title": "Show HN: Claude Code skills that build complete Godot games",
+        "description": "Claude Code skills that build complete Godot 4 projects from a game description - htdt/godogen",
+        "image": "https://opengraph.githubassets.com/9abb1c78e9c2d70b2ec0a3f0f806dad2f38cf850a7c4e59fc28c9859e3f530bc/htdt/godogen",
         "source": "github.com",
-        "stats": "11 points · 8 comments"
+        "stats": "198 points · 126 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47394827",
-        "title": "Ask HN: If AI makes your devs super productive, why layoff?",
-        "description": "6 points · 2 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+        "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+        "description": "NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.",
+        "image": "https://iprsoftwaremedia.com/219/files/202603/69b83bf73d6332289074debc_vera-cpu-rack/vera-cpu-rack_dd1864d1-171f-410c-956d-0a24da3c4906-prv.png",
+        "source": "nvidianews.nvidia.com",
+        "stats": "144 points · 83 comments"
+      },
+      {
+        "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+        "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+        "description": "TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.",
+        "image": "https://images.ctfassets.net/d6o5ai4eeewt/57kHNdJ8Hmq3TZjExF9oPy/130624913e15827926b4ed32a3071f9d/Gemini_Generated_Image_zi6xqwzi6xqwzi6x.png",
+        "source": "apideck.com",
+        "stats": "126 points · 107 comments"
       }
     ],
     "2026-03-15": [
@@ -50,23 +92,7 @@
         "description": "We shipped a new feature to the Chrome DevTools MCP server that is going to make it a lot easier for your coding agent to debug your current browser sessions.",
         "image": "https://developer.chrome.com/static/blog/chrome-devtools-mcp-debug-your-browser-session/image/hero.png",
         "source": "developer.chrome.com",
-        "stats": "404 points · 180 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47388646",
-        "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-        "description": "270 points · 466 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-        "title": "The Appalling Stupidity of Spotify's AI DJ",
-        "description": "Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?",
-        "image": "https://www.charlespetzold.com/blog/2026/02/SpotifyDJ.png",
-        "source": "charlespetzold.com",
-        "stats": "354 points · 289 comments"
+        "stats": "580 points · 231 comments"
       },
       {
         "url": "https://sebastianraschka.com/llm-architecture-gallery/",
@@ -74,7 +100,23 @@
         "description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.",
         "image": "https://sebastianraschka.com/llm-architecture-gallery/images/hero/architecture-gallery-hero.webp",
         "source": "sebastianraschka.com",
-        "stats": "302 points · 22 comments"
+        "stats": "555 points · 42 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47388646",
+        "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+        "description": "389 points · 577 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+        "title": "LLMs can be exhausting",
+        "description": "Some days I get in bed after a tortuous 4-5 hour session working with Claude or Codex wondering what the heck happened. It&#x27;s easy to blame the model - there&#x27;...",
+        "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tomjohnell/tom-2.webp",
+        "source": "tomjohnell.com",
+        "stats": "329 points · 205 comments"
       },
       {
         "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
@@ -82,49 +124,17 @@
         "description": "What is machine learning? See how it works with our animated data visualization.",
         "image": "https://r2d3.us/decision-trees-part-1-preview.png",
         "source": "r2d3.us",
-        "stats": "334 points · 29 comments"
+        "stats": "389 points · 32 comments"
       }
     ],
     "2026-03-14": [
-      {
-        "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
-        "title": "Claude March 2026 usage promotion",
-        "description": "243 points · 145 comments",
-        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-        "source": "support.claude.com",
-        "stats": ""
-      },
       {
         "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
         "title": "MCP is dead; long live MCP",
         "description": "Understanding the social media zeitgeist around CLIs and the premature death of MCP",
         "image": "https://chrlschn.dev/img/mcp/death-to-mcp-long-live-mcp.png",
         "source": "chrlschn.dev",
-        "stats": "259 points · 191 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/news/claude-partner-network",
-        "title": "Launching the Claude Partner Network",
-        "description": "We’re launching the Claude Partner Network, a program for partner organizations helping enterprises adopt Claude.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
-        "source": "anthropic.com",
-        "stats": "158 points · 96 comments"
-      },
-      {
-        "url": "https://robenglander.com/writing/ai-did-not-simplify/",
-        "title": "AI didn't simplify software engineering: It just made bad engineering easier",
-        "description": "128 points · 109 comments",
-        "image": "",
-        "source": "robenglander.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.gitagent.sh/",
-        "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
-        "description": "Define, version, and run AI agents natively in git. GitAgent is the open AI agent standard — framework-agnostic, works with Claude, OpenAI, CrewAI, Lyzr, and more.",
-        "image": "https://gitagent.sh/og-banner-2.png",
-        "source": "gitagent.sh",
-        "stats": "134 points · 35 comments"
+        "stats": "286 points · 200 comments"
       }
     ],
     "2026-03-13": [
@@ -134,31 +144,7 @@
         "description": "Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.",
         "image": "https://canirun.ai/og/home.png",
         "source": "canirun.ai",
-        "stats": "1464 points · 345 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-        "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-        "description": "Tesla and SpaceX managers sent in to review work as billionaire’s start-up struggles to keep pace with rivals",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede1da3-de7b-4380-b0e9-88229243b17b.jpg?source=next-barrier-page",
-        "source": "ft.com",
-        "stats": "516 points · 810 comments"
-      },
-      {
-        "url": "https://www.getspine.ai/",
-        "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
-        "description": "Spine is the world",
-        "image": "https://getspine.ai/WebsitePreview.jpg",
-        "source": "getspine.ai",
-        "stats": "108 points · 69 comments"
-      },
-      {
-        "url": "https://github.com/Compresr-ai/Context-Gateway",
-        "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-        "description": "Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools - Compresr-ai/Context-Gateway",
-        "image": "https://opengraph.githubassets.com/f5a2f73ab72a9b80a660542826bf886477322a16c67cb973c3962190fc17dd4f/Compresr-ai/Context-Gateway",
-        "source": "github.com",
-        "stats": "92 points · 60 comments"
+        "stats": "1488 points · 349 comments"
       }
     ],
     "2026-03-12": [
@@ -195,16 +181,6 @@
         "image": "https://ml.ink/og.jpg",
         "source": "ml.ink",
         "stats": "27 points · 5 comments"
-      }
-    ],
-    "2026-03-10": [
-      {
-        "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-        "title": "Emacs and Vim in the Age of AI",
-        "description": "It’s tough to make predictions, especially about the future. – Yogi Berra",
-        "image": "https://batsov.com/assets/img/og-image.png",
-        "source": "batsov.com",
-        "stats": "10 points · 1 comments"
       }
     ]
   }
