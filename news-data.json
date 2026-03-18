@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-17T04:22:27.087Z",
+  "lastUpdated": "2026-03-18T04:27:47.442Z",
   "days": {
+    "2026-03-18": [
+      {
+        "url": "https://amaiya.github.io/onprem/examples_agent.html",
+        "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+        "description": "A tool for running on-premises large language models on non-public data",
+        "image": "",
+        "source": "amaiya.github.io",
+        "stats": "18 points · 4 comments"
+      },
+      {
+        "url": "https://cyberscoop.com/booz-allen-report-ai-helps-attackers-move-faster-than-current-defenses/",
+        "title": "Attackers are exploiting AI faster than defenders can keep up, new report warns",
+        "description": "Cybersecurity is entering “a new phase” as artificial intelligence tools have matured and given IT defenders significantly less time to respond to cyberattacks and other threats, according to a new report released Monday.",
+        "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/03/GettyImages-1449244963-1.jpg",
+        "source": "cyberscoop.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/notque/ai-overkill",
+        "title": "My Claude Code setup you definitely shouldn't use. It's AI Overkill",
+        "description": "the ai system i use, just point your ai system to it and ask it if anything is useful to incorporate into yours. - notque/ai-overkill",
+        "image": "https://opengraph.githubassets.com/7274b7e068afe2fda2c0e744f3389874820e27057f2bb98abce18da59b99f975/notque/ai-overkill",
+        "source": "github.com",
+        "stats": "2 points · 1 comments"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/c74721xyd1wo",
+        "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
+        "description": "The artificial intelligence firm says it wants to prevent &quot;catastrophic misuse&quot; of its systems.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/42cd/live/06b29cc0-215d-11f1-b539-43e5d7f861d2.jpg",
+        "source": "bbc.com",
+        "stats": "2 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/Affitor/affiliate-skills",
+        "title": "Show HN: AI Skills for Affiliate Marketing – Works with Claude, ChatGPT",
+        "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy. - Affitor/affiliate-skills",
+        "image": "https://opengraph.githubassets.com/f4b29097b85ac3e3789b5a587bdd7493a3d6ee38b46eecf19a2fdafb873a5463/Affitor/affiliate-skills",
+        "source": "github.com",
+        "stats": "2 points · 2 comments"
+      }
+    ],
     "2026-03-17": [
       {
-        "url": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/",
-        "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
-        "description": "interview: Codestrap founders say we need to dial down the hype and sort through the mess",
-        "image": "https://regmedia.co.uk/2026/03/17/lego_business_lemmings.jpg",
-        "source": "theregister.com",
-        "stats": "11 points · 1 comments"
-      },
-      {
-        "url": "https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mr",
-        "title": "Tech entrepreneur used AI to help create a cancer vaccine to treat his dog",
-        "description": "3 points · 0 comments",
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "title": "GPT‑5.4 Mini and Nano",
+        "description": "216 points · 133 comments",
         "image": "",
-        "source": "fortune.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825",
-        "title": "OpenAI to Cut Back on Side Projects in Push to 'Nail' Core Business",
-        "description": "2 points · 1 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://mistral.ai/news/forge",
+        "title": "Mistral AI Releases Forge",
+        "description": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
+        "image": "https://mistral.ai/img/mistral-cover.png",
+        "source": "mistral.ai",
+        "stats": "198 points · 29 comments"
       },
       {
-        "url": "https://medium.com/@ontostandard/from-golden-ratio-to-gold-core-how-20-years-of-pattern-research-became-the-operating-system-for-ai-68ccab9d81fe",
-        "title": "We gave AI models epistemic discipline. They started describing themselves",
-        "description": "3 points · 1 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
+        "url": "https://theasc.com/articles/the-secret-agent-cinematography",
+        "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
+        "description": "Cinematographer Evgenia Alexandrova, AFC creates a vivid palette for &#039;The Secret Agent,&#039; which journeys into the dark heart of Recife during Carnival.",
+        "image": "https://cdn.theasc.com/_1200x630_crop_center-center_82_none/4-arri-alexa-35-dp-evgenia-alexandrova-interview-the-secret-agent-data.jpg?mtime=1766336895",
+        "source": "theasc.com",
+        "stats": "133 points · 67 comments"
       },
       {
-        "url": "https://www.buysellram.com/blog/the-agentic-ai-era-how-nvidia-rubin-vera-cpu-groq-3-lpus-bluefield-4-redefine-the-inference-factory/",
-        "title": "The Agentic AI Era: How Nvidia Rubin Redefine the Inference Factory",
-        "description": "Explore how the NVIDIA Rubin platform, R100 GPU, Vera CPU, Groq 3 LPU, BlueField-4 DPU and NVLink 6 are building the new Inference Factory. Learn why Agentic AI requires a hardware revolution.",
-        "image": "https://www.buysellram.com/wp-content/uploads/2026/01/nvidia-rubin-platform.jpg",
-        "source": "buysellram.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://github.com/garrytan/gstack/tree/main",
+        "title": "Garry Tan's Claude Code Setup",
+        "description": "Use Garry Tan&#39;s exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA - garrytan/gstack",
+        "image": "https://opengraph.githubassets.com/7be584609ca2128ab6b2aa4a118a6904c139c2f1354bad845eba2b962437e111/garrytan/gstack",
+        "source": "github.com",
+        "stats": "48 points · 53 comments"
+      },
+      {
+        "url": "https://github.com/antflydb/antfly",
+        "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
+        "description": "Contribute to antflydb/antfly development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/5497f6f7a98c9ee9949faa967afc1ddcd3692cc3ab8d285a852fa3c3c1b1fbc7/antflydb/antfly",
+        "source": "github.com",
+        "stats": "81 points · 36 comments"
       }
     ],
     "2026-03-16": [
@@ -50,12 +92,12 @@
         "description": "First open-source code agent for Lean 4.",
         "image": "https://mistral.ai/img/mistral-cover.png",
         "source": "mistral.ai",
-        "stats": "361 points · 70 comments"
+        "stats": "746 points · 183 comments"
       },
       {
         "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
         "title": "How I write software with LLMs",
-        "description": "481 points · 470 comments",
+        "description": "526 points · 512 comments",
         "image": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483",
         "source": "stavros.io",
         "stats": ""
@@ -64,9 +106,9 @@
         "url": "https://github.com/htdt/godogen",
         "title": "Show HN: Claude Code skills that build complete Godot games",
         "description": "Claude Code skills that build complete Godot 4 projects from a game description - htdt/godogen",
-        "image": "https://opengraph.githubassets.com/9abb1c78e9c2d70b2ec0a3f0f806dad2f38cf850a7c4e59fc28c9859e3f530bc/htdt/godogen",
+        "image": "https://opengraph.githubassets.com/6b5f6fd8543401aa947ba3242f9b12612202c10e78d93b1dbafcf9d0f08eeaff/htdt/godogen",
         "source": "github.com",
-        "stats": "198 points · 126 comments"
+        "stats": "301 points · 191 comments"
       },
       {
         "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
@@ -74,15 +116,15 @@
         "description": "NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.",
         "image": "https://iprsoftwaremedia.com/219/files/202603/69b83bf73d6332289074debc_vera-cpu-rack/vera-cpu-rack_dd1864d1-171f-410c-956d-0a24da3c4906-prv.png",
         "source": "nvidianews.nvidia.com",
-        "stats": "144 points · 83 comments"
+        "stats": "172 points · 99 comments"
       },
       {
-        "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-        "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-        "description": "TL;DR: MCP tool definitions can burn 55,000+ tokens before an agent processes a single user message. We built the Apideck CLI as an AI-agent interface instead:an ~80-token agent prompt replaces tens of thousands of tokens of schema, with progressive disclosure via `--help` and structural safety baked into the binary. Any agent that can run shell commands can use it. No protocol support required.",
-        "image": "https://images.ctfassets.net/d6o5ai4eeewt/57kHNdJ8Hmq3TZjExF9oPy/130624913e15827926b4ed32a3071f9d/Gemini_Generated_Image_zi6xqwzi6xqwzi6x.png",
-        "source": "apideck.com",
-        "stats": "126 points · 107 comments"
+        "url": "https://arxiv.org/abs/2511.04427",
+        "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+        "description": "Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "139 points · 77 comments"
       }
     ],
     "2026-03-15": [
@@ -92,7 +134,7 @@
         "description": "We shipped a new feature to the Chrome DevTools MCP server that is going to make it a lot easier for your coding agent to debug your current browser sessions.",
         "image": "https://developer.chrome.com/static/blog/chrome-devtools-mcp-debug-your-browser-session/image/hero.png",
         "source": "developer.chrome.com",
-        "stats": "580 points · 231 comments"
+        "stats": "595 points · 232 comments"
       },
       {
         "url": "https://sebastianraschka.com/llm-architecture-gallery/",
@@ -100,31 +142,7 @@
         "description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.",
         "image": "https://sebastianraschka.com/llm-architecture-gallery/images/hero/architecture-gallery-hero.webp",
         "source": "sebastianraschka.com",
-        "stats": "555 points · 42 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47388646",
-        "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-        "description": "389 points · 577 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-        "title": "LLMs can be exhausting",
-        "description": "Some days I get in bed after a tortuous 4-5 hour session working with Claude or Codex wondering what the heck happened. It&#x27;s easy to blame the model - there&#x27;...",
-        "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tomjohnell/tom-2.webp",
-        "source": "tomjohnell.com",
-        "stats": "329 points · 205 comments"
-      },
-      {
-        "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-        "title": "A Visual Introduction to Machine Learning (2015)",
-        "description": "What is machine learning? See how it works with our animated data visualization.",
-        "image": "https://r2d3.us/decision-trees-part-1-preview.png",
-        "source": "r2d3.us",
-        "stats": "389 points · 32 comments"
+        "stats": "573 points · 42 comments"
       }
     ],
     "2026-03-14": [
@@ -134,7 +152,7 @@
         "description": "Understanding the social media zeitgeist around CLIs and the premature death of MCP",
         "image": "https://chrlschn.dev/img/mcp/death-to-mcp-long-live-mcp.png",
         "source": "chrlschn.dev",
-        "stats": "286 points · 200 comments"
+        "stats": "291 points · 199 comments"
       }
     ],
     "2026-03-13": [
@@ -155,32 +173,6 @@
         "image": "",
         "source": "entropicthoughts.com",
         "stats": ""
-      }
-    ],
-    "2026-03-11": [
-      {
-        "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-        "title": "How we hacked McKinsey's AI platform",
-        "description": "An autonomous AI agent found a SQL injection in McKinsey&#x27;s Lilli AI platform. What it extracted was worse than we expected.",
-        "image": "https://codewall.ai/images/mckinsey-og.png",
-        "source": "codewall.ai",
-        "stats": "500 points · 195 comments"
-      },
-      {
-        "url": "https://www.perplexity.ai/personal-computer-waitlist",
-        "title": "Personal Computer by Perplexity",
-        "description": "221 points · 172 comments",
-        "image": "",
-        "source": "perplexity.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://ml.ink/",
-        "title": "Show HN: Ink – Deploy full-stack apps from AI agents via MCP or Skills",
-        "description": "Give your AI agent an Ink skill and let it deploy services, configure domains, and manage your cloud — all autonomously. 29+ frameworks, Docker, and auto-deploy from GitHub.",
-        "image": "https://ml.ink/og.jpg",
-        "source": "ml.ink",
-        "stats": "27 points · 5 comments"
       }
     ]
   }
