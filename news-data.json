@@ -1,64 +1,114 @@
 {
-  "lastUpdated": "2026-03-18T04:27:47.442Z",
+  "lastUpdated": "2026-03-19T04:26:12.909Z",
   "days": {
-    "2026-03-18": [
+    "2026-03-19": [
       {
-        "url": "https://amaiya.github.io/onprem/examples_agent.html",
-        "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-        "description": "A tool for running on-premises large language models on non-public data",
+        "url": "https://news.ycombinator.com/item?id=47433702",
+        "title": "Ask HN: How do you deal with people who trust LLMs?",
+        "description": "83 points · 98 comments",
         "image": "",
-        "source": "amaiya.github.io",
-        "stats": "18 points · 4 comments"
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
-        "url": "https://cyberscoop.com/booz-allen-report-ai-helps-attackers-move-faster-than-current-defenses/",
-        "title": "Attackers are exploiting AI faster than defenders can keep up, new report warns",
-        "description": "Cybersecurity is entering “a new phase” as artificial intelligence tools have matured and given IT defenders significantly less time to respond to cyberattacks and other threats, according to a new report released Monday.",
-        "image": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/03/GettyImages-1449244963-1.jpg",
-        "source": "cyberscoop.com",
+        "url": "https://rjcorwin.github.io/cook/",
+        "title": "Cook: A simple CLI for orchestrating Claude Code",
+        "description": "63 points · 16 comments",
+        "image": "",
+        "source": "rjcorwin.github.io",
+        "stats": ""
+      },
+      {
+        "url": "https://getfast.ai/claude-connector",
+        "title": "Show HN: Fitness MCP",
+        "description": "Add GetFast as a connector in Claude and ask questions about your training, analyze your runs, and get personalized insights through natural conversation.",
+        "image": "http://getfast.ai/public/images/claude-connector-og.png",
+        "source": "getfast.ai",
         "stats": "6 points · 0 comments"
       },
       {
-        "url": "https://github.com/notque/ai-overkill",
-        "title": "My Claude Code setup you definitely shouldn't use. It's AI Overkill",
-        "description": "the ai system i use, just point your ai system to it and ask it if anything is useful to incorporate into yours. - notque/ai-overkill",
-        "image": "https://opengraph.githubassets.com/7274b7e068afe2fda2c0e744f3389874820e27057f2bb98abce18da59b99f975/notque/ai-overkill",
-        "source": "github.com",
-        "stats": "2 points · 1 comments"
+        "url": "https://www.vmetal.ai/",
+        "title": "Show HN: VMetal – run a GPU cloud on bare metal without OpenStack",
+        "description": "Turning raw hardware into programmable infrastructure to automate networking, run Kubernetes clusters, and power AI platforms and AI factories.",
+        "image": "https://cdn.prod.website-files.com/68994d4ecac027f80ff70510/692cf1d4d7bea7f25053a45c_Blank%20Open%20Graph.png",
+        "source": "vmetal.ai",
+        "stats": "6 points · 0 comments"
       },
       {
-        "url": "https://www.bbc.com/news/articles/c74721xyd1wo",
-        "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
-        "description": "The artificial intelligence firm says it wants to prevent &quot;catastrophic misuse&quot; of its systems.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/42cd/live/06b29cc0-215d-11f1-b539-43e5d7f861d2.jpg",
-        "source": "bbc.com",
-        "stats": "2 points · 1 comments"
+        "url": "https://www.maffulli.net/2026/03/16/ai-final-frontier-of-copyleft/",
+        "title": "AI is the final frontier of Copyleft",
+        "description": "Copyleft gave us the right to be free; AI gives us the power to be free. The scarcity of programming knowledge is evaporating, turning the &quot;freedom to fork&quot; from a legal theory into a functional reality for every user.",
+        "image": "https://www.maffulli.net/wp-content/uploads/2026/03/Gemini_Generated_Image_1fvq7r1fvq7r1fvq.png",
+        "source": "maffulli.net",
+        "stats": "6 points · 0 comments"
+      }
+    ],
+    "2026-03-18": [
+      {
+        "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+        "title": "AI coding is gambling",
+        "description": "GambleAI\r\n\r\nI’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...",
+        "image": "https://notes.visaint.space/static/og-image.png",
+        "source": "notes.visaint.space",
+        "stats": "318 points · 395 comments"
       },
       {
-        "url": "https://github.com/Affitor/affiliate-skills",
-        "title": "Show HN: AI Skills for Affiliate Marketing – Works with Claude, ChatGPT",
-        "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy. - Affitor/affiliate-skills",
-        "image": "https://opengraph.githubassets.com/f4b29097b85ac3e3789b5a587bdd7493a3d6ee38b46eecf19a2fdafb873a5463/Affitor/affiliate-skills",
+        "url": "https://github.com/NVIDIA/NemoClaw",
+        "title": "Nvidia NemoClaw",
+        "description": "NVIDIA plugin for secure installation of OpenClaw. Contribute to NVIDIA/NemoClaw development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/fdbbd2f162508a72ecafa435cbb0f31a3a1b47fecbec269ff4c15f3cdd103b0f/NVIDIA/NemoClaw",
         "source": "github.com",
-        "stats": "2 points · 2 comments"
+        "stats": "267 points · 200 comments"
+      },
+      {
+        "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+        "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+        "description": "A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.",
+        "image": "https://framerusercontent.com/images/DQ1xyTxgoIu8RdOdSoCABxXVtM.png?width=9004&amp;height=4694",
+        "source": "promptarmor.com",
+        "stats": "237 points · 78 comments"
+      },
+      {
+        "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+        "title": "OpenAI Has New Focus (on the IPO)",
+        "description": "The Wall Street Journal recently reported that leadership wants OpenAI, the company, to focus. Seems like a plain old business strategy story. Nope! First, in more prosaic terms, the all-hands and …",
+        "image": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?ixid=M3wxMzczOTd8MHwxfGFsbHx8fHx8fHx8fDE3MDA2NjQyNDF8&#038;ixlib=rb-4.0.3&#038;fm=jpg&#038;q=85&#038;fit=crop&#038;w=2560&#038;h=1441",
+        "source": "om.co",
+        "stats": "178 points · 165 comments"
+      },
+      {
+        "url": "https://github.com/alainnothere/llm-circuit-finder",
+        "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+        "description": "I replicated Ng&amp;#39;s RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.2...",
+        "image": "https://opengraph.githubassets.com/47ad2dc824ae29d4a90990d2ff3b2a252eaabd3200feed3f315eabae589c2561/alainnothere/llm-circuit-finder",
+        "source": "github.com",
+        "stats": "88 points · 32 comments"
       }
     ],
     "2026-03-17": [
-      {
-        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-        "title": "GPT‑5.4 Mini and Nano",
-        "description": "216 points · 133 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
       {
         "url": "https://mistral.ai/news/forge",
         "title": "Mistral AI Releases Forge",
         "description": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
         "image": "https://mistral.ai/img/mistral-cover.png",
         "source": "mistral.ai",
-        "stats": "198 points · 29 comments"
+        "stats": "707 points · 179 comments"
+      },
+      {
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "title": "GPT‑5.4 Mini and Nano",
+        "description": "243 points · 143 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arxiv.org/abs/2603.15381",
+        "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+        "description": "We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "177 points · 110 comments"
       },
       {
         "url": "https://theasc.com/articles/the-secret-agent-cinematography",
@@ -66,23 +116,15 @@
         "description": "Cinematographer Evgenia Alexandrova, AFC creates a vivid palette for &#039;The Secret Agent,&#039; which journeys into the dark heart of Recife during Carnival.",
         "image": "https://cdn.theasc.com/_1200x630_crop_center-center_82_none/4-arri-alexa-35-dp-evgenia-alexandrova-interview-the-secret-agent-data.jpg?mtime=1766336895",
         "source": "theasc.com",
-        "stats": "133 points · 67 comments"
-      },
-      {
-        "url": "https://github.com/garrytan/gstack/tree/main",
-        "title": "Garry Tan's Claude Code Setup",
-        "description": "Use Garry Tan&#39;s exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA - garrytan/gstack",
-        "image": "https://opengraph.githubassets.com/7be584609ca2128ab6b2aa4a118a6904c139c2f1354bad845eba2b962437e111/garrytan/gstack",
-        "source": "github.com",
-        "stats": "48 points · 53 comments"
+        "stats": "155 points · 81 comments"
       },
       {
         "url": "https://github.com/antflydb/antfly",
         "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
         "description": "Contribute to antflydb/antfly development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/5497f6f7a98c9ee9949faa967afc1ddcd3692cc3ab8d285a852fa3c3c1b1fbc7/antflydb/antfly",
+        "image": "https://opengraph.githubassets.com/ab86ec01ae035922bc4cf4954a219d8cfc9d64b70e7b8d0b432cbf7e01535b92/antflydb/antfly",
         "source": "github.com",
-        "stats": "81 points · 36 comments"
+        "stats": "103 points · 41 comments"
       }
     ],
     "2026-03-16": [
@@ -92,31 +134,15 @@
         "description": "First open-source code agent for Lean 4.",
         "image": "https://mistral.ai/img/mistral-cover.png",
         "source": "mistral.ai",
-        "stats": "746 points · 183 comments"
-      },
-      {
-        "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-        "title": "How I write software with LLMs",
-        "description": "526 points · 512 comments",
-        "image": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483",
-        "source": "stavros.io",
-        "stats": ""
+        "stats": "775 points · 188 comments"
       },
       {
         "url": "https://github.com/htdt/godogen",
         "title": "Show HN: Claude Code skills that build complete Godot games",
         "description": "Claude Code skills that build complete Godot 4 projects from a game description - htdt/godogen",
-        "image": "https://opengraph.githubassets.com/6b5f6fd8543401aa947ba3242f9b12612202c10e78d93b1dbafcf9d0f08eeaff/htdt/godogen",
+        "image": "https://opengraph.githubassets.com/f200342654c06fe77f7f227b6fe354f3af17e1232b2856c375bea59f57afcd80/htdt/godogen",
         "source": "github.com",
-        "stats": "301 points · 191 comments"
-      },
-      {
-        "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-        "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-        "description": "NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.",
-        "image": "https://iprsoftwaremedia.com/219/files/202603/69b83bf73d6332289074debc_vera-cpu-rack/vera-cpu-rack_dd1864d1-171f-410c-956d-0a24da3c4906-prv.png",
-        "source": "nvidianews.nvidia.com",
-        "stats": "172 points · 99 comments"
+        "stats": "327 points · 197 comments"
       },
       {
         "url": "https://arxiv.org/abs/2511.04427",
@@ -124,35 +150,35 @@
         "description": "Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "139 points · 77 comments"
+        "stats": "147 points · 80 comments"
+      },
+      {
+        "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
+        "title": "Toward automated verification of unreviewed AI-generated code",
+        "description": "Constraints that could make unreviewed AI-generated code trustworthy.",
+        "image": "https://peterlavigne.com/images/og_image.jpg",
+        "source": "peterlavigne.com",
+        "stats": "91 points · 84 comments"
       }
     ],
     "2026-03-15": [
       {
-        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-        "title": "Chrome DevTools MCP (2025)",
-        "description": "We shipped a new feature to the Chrome DevTools MCP server that is going to make it a lot easier for your coding agent to debug your current browser sessions.",
-        "image": "https://developer.chrome.com/static/blog/chrome-devtools-mcp-debug-your-browser-session/image/hero.png",
-        "source": "developer.chrome.com",
-        "stats": "595 points · 232 comments"
-      },
-      {
-        "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-        "title": "LLM Architecture Gallery",
-        "description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.",
-        "image": "https://sebastianraschka.com/llm-architecture-gallery/images/hero/architecture-gallery-hero.webp",
-        "source": "sebastianraschka.com",
-        "stats": "573 points · 42 comments"
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "description": "GitLab.com",
+        "image": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+        "source": "gitlab.com",
+        "stats": "207 points · 38 comments"
       }
     ],
     "2026-03-14": [
       {
-        "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
-        "title": "MCP is dead; long live MCP",
-        "description": "Understanding the social media zeitgeist around CLIs and the premature death of MCP",
-        "image": "https://chrlschn.dev/img/mcp/death-to-mcp-long-live-mcp.png",
-        "source": "chrlschn.dev",
-        "stats": "291 points · 199 comments"
+        "url": "https://mlbenchmarks.org/00-preface.html",
+        "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+        "description": "100 points · 4 comments",
+        "image": "",
+        "source": "mlbenchmarks.org",
+        "stats": ""
       }
     ],
     "2026-03-13": [
@@ -163,16 +189,6 @@
         "image": "https://canirun.ai/og/home.png",
         "source": "canirun.ai",
         "stats": "1488 points · 349 comments"
-      }
-    ],
-    "2026-03-12": [
-      {
-        "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-        "title": "Are LLM merge rates not getting better?",
-        "description": "174 points · 157 comments",
-        "image": "",
-        "source": "entropicthoughts.com",
-        "stats": ""
       }
     ]
   }
