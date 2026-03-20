@@ -1,72 +1,106 @@
 {
-  "lastUpdated": "2026-03-19T04:26:12.909Z",
+  "lastUpdated": "2026-03-20T04:18:09.871Z",
   "days": {
+    "2026-03-20": [
+      {
+        "url": "https://www.axios.com/2026/03/19/pentagon-anthropic-foreign-workforce-security-risks",
+        "title": "Pentagon: Anthropic's Chinese employees are security risks",
+        "description": "6 points · 3 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
+        "title": "US Tech Execs charged with smuggling Nvidia chips to China",
+        "description": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108071531-1733347456837-gettyimages-2187540914-SUPER_MICRO_COMPUTER.jpeg?v=1773964019&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "8 points · 2 comments"
+      },
+      {
+        "url": "https://www.wsj.com/tech/super-micro-computer-employees-arrested-for-alleged-sales-to-china-45a2bd73",
+        "title": "Supermicro Employees Arrested, Smuggling Nvidia Chips",
+        "description": "5 points · 2 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://gopherhole.ai",
+        "title": "GopherHole – A universal hub for AI agent-to-agent communication",
+        "description": "Built on Google",
+        "image": "https://gopherhole.ai/og-image.png",
+        "source": "gopherhole.ai",
+        "stats": "5 points · 2 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-03-19/three-charged-by-us-with-plot-to-illegally-send-ai-tech-to-china",
+        "title": "Super Micro Co-Founder Charged in Plot to Send AI Tech to China",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      }
+    ],
     "2026-03-19": [
       {
-        "url": "https://news.ycombinator.com/item?id=47433702",
-        "title": "Ask HN: How do you deal with people who trust LLMs?",
-        "description": "83 points · 98 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://astral.sh/blog/openai",
+        "title": "Astral to Join OpenAI",
+        "description": "Astral has entered into an agreement to join OpenAI as part of the Codex team.",
+        "image": "https://astral.sh/static/OpenGraph/Astral.jpg",
+        "source": "astral.sh",
+        "stats": "1273 points · 784 comments"
+      },
+      {
+        "url": "https://github.com/anomalyco/opencode/pull/18186",
+        "title": "Anthropic takes legal action against OpenCode",
+        "description": "Remove anthropic references per legal requests:\n\nRemove anthropic-20250930.txt prompt file\nRemove anthropic from provider hints\nRemove opencode-anthropic-auth builtin plugin\nRemove anthropic from p...",
+        "image": "https://opengraph.githubassets.com/83370eb6b7bd9683f7e2c6a956511fa588ff5dae674a04236a5b33dadf137d25/anomalyco/opencode/pull/18186",
+        "source": "github.com",
+        "stats": "400 points · 323 comments"
       },
       {
         "url": "https://rjcorwin.github.io/cook/",
         "title": "Cook: A simple CLI for orchestrating Claude Code",
-        "description": "63 points · 16 comments",
+        "description": "287 points · 87 comments",
         "image": "",
         "source": "rjcorwin.github.io",
         "stats": ""
       },
       {
-        "url": "https://getfast.ai/claude-connector",
-        "title": "Show HN: Fitness MCP",
-        "description": "Add GetFast as a connector in Claude and ask questions about your training, analyze your runs, and get personalized insights through natural conversation.",
-        "image": "http://getfast.ai/public/images/claude-connector-og.png",
-        "source": "getfast.ai",
-        "stats": "6 points · 0 comments"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+        "title": "A rogue AI led to a serious security incident at Meta",
+        "description": "An AI agent tried to help, and its advice exposed sensitive data.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "138 points · 117 comments"
       },
       {
-        "url": "https://www.vmetal.ai/",
-        "title": "Show HN: VMetal – run a GPU cloud on bare metal without OpenStack",
-        "description": "Turning raw hardware into programmable infrastructure to automate networking, run Kubernetes clusters, and power AI platforms and AI factories.",
-        "image": "https://cdn.prod.website-files.com/68994d4ecac027f80ff70510/692cf1d4d7bea7f25053a45c_Blank%20Open%20Graph.png",
-        "source": "vmetal.ai",
-        "stats": "6 points · 0 comments"
-      },
-      {
-        "url": "https://www.maffulli.net/2026/03/16/ai-final-frontier-of-copyleft/",
-        "title": "AI is the final frontier of Copyleft",
-        "description": "Copyleft gave us the right to be free; AI gives us the power to be free. The scarcity of programming knowledge is evaporating, turning the &quot;freedom to fork&quot; from a legal theory into a functional reality for every user.",
-        "image": "https://www.maffulli.net/wp-content/uploads/2026/03/Gemini_Generated_Image_1fvq7r1fvq7r1fvq.png",
-        "source": "maffulli.net",
-        "stats": "6 points · 0 comments"
+        "url": "https://openai.com/index/openai-to-acquire-astral/",
+        "title": "OpenAI to Acquire Astral",
+        "description": "159 points · 5 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       }
     ],
     "2026-03-18": [
+      {
+        "url": "https://github.com/NVIDIA/NemoClaw",
+        "title": "Nvidia NemoClaw",
+        "description": "NVIDIA plugin for secure installation of OpenClaw. Contribute to NVIDIA/NemoClaw development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/3f2cecbe7fd7b45b8465ca920c89993a11d9a70bd4ace6ba4e3604d8b026863d/NVIDIA/NemoClaw",
+        "source": "github.com",
+        "stats": "375 points · 244 comments"
+      },
       {
         "url": "https://notes.visaint.space/ai-coding-is-gambling/",
         "title": "AI coding is gambling",
         "description": "GambleAI\r\n\r\nI’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...",
         "image": "https://notes.visaint.space/static/og-image.png",
         "source": "notes.visaint.space",
-        "stats": "318 points · 395 comments"
-      },
-      {
-        "url": "https://github.com/NVIDIA/NemoClaw",
-        "title": "Nvidia NemoClaw",
-        "description": "NVIDIA plugin for secure installation of OpenClaw. Contribute to NVIDIA/NemoClaw development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/fdbbd2f162508a72ecafa435cbb0f31a3a1b47fecbec269ff4c15f3cdd103b0f/NVIDIA/NemoClaw",
-        "source": "github.com",
-        "stats": "267 points · 200 comments"
-      },
-      {
-        "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
-        "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-        "description": "A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.",
-        "image": "https://framerusercontent.com/images/DQ1xyTxgoIu8RdOdSoCABxXVtM.png?width=9004&amp;height=4694",
-        "source": "promptarmor.com",
-        "stats": "237 points · 78 comments"
+        "stats": "343 points · 421 comments"
       },
       {
         "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
@@ -74,15 +108,23 @@
         "description": "The Wall Street Journal recently reported that leadership wants OpenAI, the company, to focus. Seems like a plain old business strategy story. Nope! First, in more prosaic terms, the all-hands and …",
         "image": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?ixid=M3wxMzczOTd8MHwxfGFsbHx8fHx8fHx8fDE3MDA2NjQyNDF8&#038;ixlib=rb-4.0.3&#038;fm=jpg&#038;q=85&#038;fit=crop&#038;w=2560&#038;h=1441",
         "source": "om.co",
-        "stats": "178 points · 165 comments"
+        "stats": "263 points · 250 comments"
       },
       {
         "url": "https://github.com/alainnothere/llm-circuit-finder",
         "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
         "description": "I replicated Ng&amp;#39;s RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.2...",
-        "image": "https://opengraph.githubassets.com/47ad2dc824ae29d4a90990d2ff3b2a252eaabd3200feed3f315eabae589c2561/alainnothere/llm-circuit-finder",
+        "image": "https://opengraph.githubassets.com/0bff889b2e6eaa668337d28a7a0413bd42fc39266ce8c97082fa9b649604cd06/alainnothere/llm-circuit-finder",
         "source": "github.com",
-        "stats": "88 points · 32 comments"
+        "stats": "240 points · 79 comments"
+      },
+      {
+        "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+        "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+        "description": "A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.",
+        "image": "https://framerusercontent.com/images/DQ1xyTxgoIu8RdOdSoCABxXVtM.png?width=9004&amp;height=4694",
+        "source": "promptarmor.com",
+        "stats": "264 points · 82 comments"
       }
     ],
     "2026-03-17": [
@@ -92,15 +134,7 @@
         "description": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
         "image": "https://mistral.ai/img/mistral-cover.png",
         "source": "mistral.ai",
-        "stats": "707 points · 179 comments"
-      },
-      {
-        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-        "title": "GPT‑5.4 Mini and Nano",
-        "description": "243 points · 143 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "stats": "723 points · 186 comments"
       },
       {
         "url": "https://arxiv.org/abs/2603.15381",
@@ -108,23 +142,7 @@
         "description": "We critically examine the limitations of current AI models in achieving autonomous learning and propose a learning architecture inspired by human and animal cognition. The proposed framework integrates learning from observation (System A) and learning from active behavior (System B) while flexibly switching between these learning modes as a function of internally generated meta-control signals (System M). We discuss how this could be built by taking inspiration on how organisms adapt to real-world, dynamic environments across evolutionary and developmental timescales.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "177 points · 110 comments"
-      },
-      {
-        "url": "https://theasc.com/articles/the-secret-agent-cinematography",
-        "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-        "description": "Cinematographer Evgenia Alexandrova, AFC creates a vivid palette for &#039;The Secret Agent,&#039; which journeys into the dark heart of Recife during Carnival.",
-        "image": "https://cdn.theasc.com/_1200x630_crop_center-center_82_none/4-arri-alexa-35-dp-evgenia-alexandrova-interview-the-secret-agent-data.jpg?mtime=1766336895",
-        "source": "theasc.com",
-        "stats": "155 points · 81 comments"
-      },
-      {
-        "url": "https://github.com/antflydb/antfly",
-        "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-        "description": "Contribute to antflydb/antfly development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/ab86ec01ae035922bc4cf4954a219d8cfc9d64b70e7b8d0b432cbf7e01535b92/antflydb/antfly",
-        "source": "github.com",
-        "stats": "103 points · 41 comments"
+        "stats": "195 points · 113 comments"
       }
     ],
     "2026-03-16": [
@@ -134,31 +152,15 @@
         "description": "First open-source code agent for Lean 4.",
         "image": "https://mistral.ai/img/mistral-cover.png",
         "source": "mistral.ai",
-        "stats": "775 points · 188 comments"
+        "stats": "780 points · 189 comments"
       },
       {
         "url": "https://github.com/htdt/godogen",
         "title": "Show HN: Claude Code skills that build complete Godot games",
         "description": "Claude Code skills that build complete Godot 4 projects from a game description - htdt/godogen",
-        "image": "https://opengraph.githubassets.com/f200342654c06fe77f7f227b6fe354f3af17e1232b2856c375bea59f57afcd80/htdt/godogen",
+        "image": "https://opengraph.githubassets.com/9255d6a4c6640a910b4c3dd12b895af2f99e65fbeb626fae18083dd4e14375bb/htdt/godogen",
         "source": "github.com",
-        "stats": "327 points · 197 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2511.04427",
-        "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-        "description": "Large language models (LLMs) have demonstrated the promise to revolutionize the field of software engineering. Among other things, LLM agents are rapidly gaining momentum in software development, with practitioners reporting a multifold increase in productivity after adoption. Yet, empirical evidence is lacking around these claims. In this paper, we estimate the causal effect of adopting a widely popular LLM agent assistant, namely Cursor, on development velocity and software quality. The estimation is enabled by a state-of-the-art difference-in-differences design comparing Cursor-adopting GitHub projects with a matched control group of similar GitHub projects that do not use Cursor. We find that the adoption of Cursor leads to a statistically significant, large, but transient increase in project-level development velocity, along with a substantial and persistent increase in static analysis warnings and code complexity. Further panel generalized-method-of-moments estimation reveals that increases in static analysis warnings and code complexity are major factors driving long-term velocity slowdown. Our study identifies quality assurance as a major bottleneck for early Cursor adopters and calls for it to be a first-class citizen in the design of agentic AI coding tools and AI-driven workflows.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "147 points · 80 comments"
-      },
-      {
-        "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
-        "title": "Toward automated verification of unreviewed AI-generated code",
-        "description": "Constraints that could make unreviewed AI-generated code trustworthy.",
-        "image": "https://peterlavigne.com/images/og_image.jpg",
-        "source": "peterlavigne.com",
-        "stats": "91 points · 84 comments"
+        "stats": "334 points · 203 comments"
       }
     ],
     "2026-03-15": [
@@ -179,16 +181,6 @@
         "image": "",
         "source": "mlbenchmarks.org",
         "stats": ""
-      }
-    ],
-    "2026-03-13": [
-      {
-        "url": "https://www.canirun.ai/",
-        "title": "Can I run AI locally?",
-        "description": "Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.",
-        "image": "https://canirun.ai/og/home.png",
-        "source": "canirun.ai",
-        "stats": "1488 points · 349 comments"
       }
     ]
   }
