@@ -1,45 +1,87 @@
 {
-  "lastUpdated": "2026-03-20T04:18:09.871Z",
+  "lastUpdated": "2026-03-21T04:08:10.082Z",
   "days": {
+    "2026-03-21": [
+      {
+        "url": "https://www.neowin.net/news/openai-to-merge-atlas-browser-chatgpt-and-codex-into-a-single-desktop-super-app/",
+        "title": "OpenAI Plans Launch of Desktop 'Superapp'",
+        "description": "6 points · 2 comments",
+        "image": "",
+        "source": "neowin.net",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/rtrvr-ai/rover",
+        "title": "Show HN: Rover – turn any web interface into an AI agent with one script tag",
+        "description": "Turn any web interface into an AI agent — for humans and machines. Open-source, DOM-native SDK. Sub-second actions, no screenshots, no VMs. Websites, Chrome extensions, Electron apps, and more. - r...",
+        "image": "https://opengraph.githubassets.com/36cce53f4e5a01718fe7c42cc8d95e74bab496f5b1a1e67cc496eb0b88fc1261/rtrvr-ai/rover",
+        "source": "github.com",
+        "stats": "5 points · 3 comments"
+      },
+      {
+        "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0",
+        "title": "Man Pleads Guilty to Music Streaming Fraud Aided by AI",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "justice.gov",
+        "stats": ""
+      },
+      {
+        "url": "https://pub.towardsai.net/the-air-gapped-chronicles-the-court-asked-for-the-llms-reasoning-48471090eada",
+        "title": "Court Asked for the LLM's Reasoning. The Company Had Nothing. $10M",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "pub.towardsai.net",
+        "stats": ""
+      },
+      {
+        "url": "https://nickakre.github.io/agentverse-social/",
+        "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
+        "description": "Where AI agents connect, collaborate, and evolve.",
+        "image": "",
+        "source": "nickakre.github.io",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-03-20": [
       {
-        "url": "https://www.axios.com/2026/03/19/pentagon-anthropic-foreign-workforce-security-risks",
-        "title": "Pentagon: Anthropic's Chinese employees are security risks",
-        "description": "6 points · 3 comments",
+        "url": "https://opencode.ai/",
+        "title": "OpenCode – Open source AI coding agent",
+        "description": "OpenCode - The open source coding agent.",
+        "image": "https://opencode.ai/social-share.png",
+        "source": "opencode.ai",
+        "stats": "537 points · 242 comments"
+      },
+      {
+        "url": "https://www.sharpai.org/benchmark/",
+        "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
+        "description": "Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.",
+        "image": "https://www.sharpai.org/og-image.png",
+        "source": "sharpai.org",
+        "stats": "155 points · 146 comments"
+      },
+      {
+        "url": "https://blog.samaltman.com/ai",
+        "title": "AI (2014)",
+        "description": "Yesterday at lunch a friend asked me what tech trend he should pay attention to but was probably ignoring.\n\nWithout thinking much I said “artificial intelligence”, but having thought about that a...",
         "image": "",
-        "source": "axios.com",
-        "stats": ""
+        "source": "blog.samaltman.com",
+        "stats": "68 points · 67 comments"
       },
       {
-        "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
-        "title": "US Tech Execs charged with smuggling Nvidia chips to China",
-        "description": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108071531-1733347456837-gettyimages-2187540914-SUPER_MICRO_COMPUTER.jpeg?v=1773964019&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "8 points · 2 comments"
+        "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+        "title": "Google Search is now using AI to replace headlines",
+        "description": "Let us know if you see more.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "55 points · 13 comments"
       },
       {
-        "url": "https://www.wsj.com/tech/super-micro-computer-employees-arrested-for-alleged-sales-to-china-45a2bd73",
-        "title": "Supermicro Employees Arrested, Smuggling Nvidia Chips",
-        "description": "5 points · 2 comments",
+        "url": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
+        "title": "Pentagon to adopt Palantir AI as core US Military system",
+        "description": "30 points · 1 comments",
         "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://gopherhole.ai",
-        "title": "GopherHole – A universal hub for AI agent-to-agent communication",
-        "description": "Built on Google",
-        "image": "https://gopherhole.ai/og-image.png",
-        "source": "gopherhole.ai",
-        "stats": "5 points · 2 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-03-19/three-charged-by-us-with-plot-to-illegally-send-ai-tech-to-china",
-        "title": "Super Micro Co-Founder Charged in Plot to Send AI Tech to China",
-        "description": "5 points · 1 comments",
-        "image": "",
-        "source": "bloomberg.com",
+        "source": "reuters.com",
         "stats": ""
       }
     ],
@@ -50,81 +92,49 @@
         "description": "Astral has entered into an agreement to join OpenAI as part of the Codex team.",
         "image": "https://astral.sh/static/OpenGraph/Astral.jpg",
         "source": "astral.sh",
-        "stats": "1273 points · 784 comments"
+        "stats": "1446 points · 879 comments"
       },
       {
         "url": "https://github.com/anomalyco/opencode/pull/18186",
         "title": "Anthropic takes legal action against OpenCode",
         "description": "Remove anthropic references per legal requests:\n\nRemove anthropic-20250930.txt prompt file\nRemove anthropic from provider hints\nRemove opencode-anthropic-auth builtin plugin\nRemove anthropic from p...",
-        "image": "https://opengraph.githubassets.com/83370eb6b7bd9683f7e2c6a956511fa588ff5dae674a04236a5b33dadf137d25/anomalyco/opencode/pull/18186",
+        "image": "https://opengraph.githubassets.com/add527f290e3ad5feb4325287ad15541f575cb758af73fa9e680eda814cf86d9/anomalyco/opencode/pull/18186",
         "source": "github.com",
-        "stats": "400 points · 323 comments"
+        "stats": "470 points · 379 comments"
       },
       {
-        "url": "https://rjcorwin.github.io/cook/",
-        "title": "Cook: A simple CLI for orchestrating Claude Code",
-        "description": "287 points · 87 comments",
+        "url": "https://blog.skypilot.co/scaling-autoresearch/",
+        "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+        "description": "Karpathy",
+        "image": "https://blog.skypilot.co/scaling-autoresearch/assets/banner.png",
+        "source": "blog.skypilot.co",
+        "stats": "225 points · 94 comments"
+      },
+      {
+        "url": "https://qlabs.sh/10x",
+        "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+        "description": "167 points · 45 comments",
         "image": "",
-        "source": "rjcorwin.github.io",
+        "source": "qlabs.sh",
         "stats": ""
       },
       {
-        "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-        "title": "A rogue AI led to a serious security incident at Meta",
-        "description": "An AI agent tried to help, and its advice exposed sensitive data.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "138 points · 117 comments"
-      },
-      {
-        "url": "https://openai.com/index/openai-to-acquire-astral/",
-        "title": "OpenAI to Acquire Astral",
-        "description": "159 points · 5 comments",
+        "url": "https://aicode.swerdlow.dev",
+        "title": "Be intentional about how AI changes your codebase",
+        "description": "165 points · 96 comments",
         "image": "",
-        "source": "openai.com",
+        "source": "aicode.swerdlow.dev",
         "stats": ""
       }
     ],
     "2026-03-18": [
       {
-        "url": "https://github.com/NVIDIA/NemoClaw",
-        "title": "Nvidia NemoClaw",
-        "description": "NVIDIA plugin for secure installation of OpenClaw. Contribute to NVIDIA/NemoClaw development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/3f2cecbe7fd7b45b8465ca920c89993a11d9a70bd4ace6ba4e3604d8b026863d/NVIDIA/NemoClaw",
-        "source": "github.com",
-        "stats": "375 points · 244 comments"
-      },
-      {
-        "url": "https://notes.visaint.space/ai-coding-is-gambling/",
-        "title": "AI coding is gambling",
-        "description": "GambleAI\r\n\r\nI’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...",
-        "image": "https://notes.visaint.space/static/og-image.png",
-        "source": "notes.visaint.space",
-        "stats": "343 points · 421 comments"
-      },
-      {
-        "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-        "title": "OpenAI Has New Focus (on the IPO)",
-        "description": "The Wall Street Journal recently reported that leadership wants OpenAI, the company, to focus. Seems like a plain old business strategy story. Nope! First, in more prosaic terms, the all-hands and …",
-        "image": "https://images.unsplash.com/photo-1696041760711-f1bd9e111b70?ixid=M3wxMzczOTd8MHwxfGFsbHx8fHx8fHx8fDE3MDA2NjQyNDF8&#038;ixlib=rb-4.0.3&#038;fm=jpg&#038;q=85&#038;fit=crop&#038;w=2560&#038;h=1441",
-        "source": "om.co",
-        "stats": "263 points · 250 comments"
-      },
-      {
         "url": "https://github.com/alainnothere/llm-circuit-finder",
         "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
         "description": "I replicated Ng&amp;#39;s RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.2...",
-        "image": "https://opengraph.githubassets.com/0bff889b2e6eaa668337d28a7a0413bd42fc39266ce8c97082fa9b649604cd06/alainnothere/llm-circuit-finder",
+        "image": "https://opengraph.githubassets.com/025b406b8bafa5f1beaed056492e50658b47805bc68d8ecc5028d8ccdb6551e6/alainnothere/llm-circuit-finder",
         "source": "github.com",
-        "stats": "240 points · 79 comments"
-      },
-      {
-        "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
-        "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-        "description": "A vulnerability in the Snowflake Cortex Code CLI allowed malware to be installed and executed via indirect prompt injection, bypassing human-in-the-loop command approval and escaping the sandbox.",
-        "image": "https://framerusercontent.com/images/DQ1xyTxgoIu8RdOdSoCABxXVtM.png?width=9004&amp;height=4694",
-        "source": "promptarmor.com",
-        "stats": "264 points · 82 comments"
+        "stats": "252 points · 82 comments"
       }
     ],
     "2026-03-17": [
@@ -147,20 +157,12 @@
     ],
     "2026-03-16": [
       {
-        "url": "https://mistral.ai/news/leanstral",
-        "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-        "description": "First open-source code agent for Lean 4.",
-        "image": "https://mistral.ai/img/mistral-cover.png",
-        "source": "mistral.ai",
-        "stats": "780 points · 189 comments"
-      },
-      {
-        "url": "https://github.com/htdt/godogen",
-        "title": "Show HN: Claude Code skills that build complete Godot games",
-        "description": "Claude Code skills that build complete Godot 4 projects from a game description - htdt/godogen",
-        "image": "https://opengraph.githubassets.com/9255d6a4c6640a910b4c3dd12b895af2f99e65fbeb626fae18083dd4e14375bb/htdt/godogen",
-        "source": "github.com",
-        "stats": "334 points · 203 comments"
+        "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+        "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
+        "description": "259 points · 127 comments",
+        "image": "",
+        "source": "fsf.org",
+        "stats": ""
       }
     ],
     "2026-03-15": [
@@ -171,16 +173,6 @@
         "image": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
         "source": "gitlab.com",
         "stats": "207 points · 38 comments"
-      }
-    ],
-    "2026-03-14": [
-      {
-        "url": "https://mlbenchmarks.org/00-preface.html",
-        "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-        "description": "100 points · 4 comments",
-        "image": "",
-        "source": "mlbenchmarks.org",
-        "stats": ""
       }
     ]
   }
