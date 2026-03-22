@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-21T04:08:10.082Z",
+  "lastUpdated": "2026-03-22T04:23:50.892Z",
   "days": {
+    "2026-03-22": [
+      {
+        "url": "https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/",
+        "title": "When AI Writes the Software, Who Verifies It?",
+        "description": "Leonardo de Moura — Creator of Lean and Z3",
+        "image": "",
+        "source": "leodemoura.github.io",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://thehill.com/policy/technology/5793105-ai-regulation-framework/?user_id=66c4bf745d78644b3aa57b08",
+        "title": "White House unveils AI policy wishlist for Congress",
+        "description": "px-captcha",
+        "image": "",
+        "source": "thehill.com",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-03-20/peter-thiel-s-founders-fund-backs-ai-cow-collar-startup-at-2-billion-valuation",
+        "title": "Peter Thiel's Founders Fund Backs AI Cow Collar Startup at $2B Valuation",
+        "description": "2 points · 1 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
+        "title": "Developer's Guide to AI Agent Protocols",
+        "description": "This blog post explores how six key protocols, including MCP and A2A, simplify AI agent development by replacing custom integration code with standardized communication patterns. Learn how to use the Agent Development Kit (ADK) to build complex agents capable of managing real-time inventory, secure commerce via UCP/AP2, and interactive streaming interfaces. Discover how adopting these architectural standards creates more scalable, interoperable, and user-friendly AI solutions.",
+        "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_kad1omkad1.2e16d0ba.fill-1200x600.jpg",
+        "source": "developers.googleblog.com",
+        "stats": "2 points · 1 comments"
+      },
+      {
+        "url": "https://diffusion.csail.mit.edu/2026/index.html",
+        "title": "Flow Matching and Diffusion Models – 2026 Version",
+        "description": "2 points · 0 comments",
+        "image": "",
+        "source": "diffusion.csail.mit.edu",
+        "stats": ""
+      }
+    ],
     "2026-03-21": [
       {
-        "url": "https://www.neowin.net/news/openai-to-merge-atlas-browser-chatgpt-and-codex-into-a-single-desktop-super-app/",
-        "title": "OpenAI Plans Launch of Desktop 'Superapp'",
-        "description": "6 points · 2 comments",
+        "url": "https://tinygrad.org/#tinybox",
+        "title": "Tinybox – Offline AI device 120B parameters",
+        "description": "381 points · 228 comments",
         "image": "",
-        "source": "neowin.net",
+        "source": "tinygrad.org",
         "stats": ""
       },
       {
-        "url": "https://github.com/rtrvr-ai/rover",
-        "title": "Show HN: Rover – turn any web interface into an AI agent with one script tag",
-        "description": "Turn any web interface into an AI agent — for humans and machines. Open-source, DOM-native SDK. Sub-second actions, no screenshots, no VMs. Websites, Chrome extensions, Electron apps, and more. - r...",
-        "image": "https://opengraph.githubassets.com/36cce53f4e5a01718fe7c42cc8d95e74bab496f5b1a1e67cc496eb0b88fc1261/rtrvr-ai/rover",
-        "source": "github.com",
-        "stats": "5 points · 3 comments"
+        "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+        "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+        "description": "Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....",
+        "image": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg",
+        "source": "eff.org",
+        "stats": "501 points · 140 comments"
       },
       {
-        "url": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0",
-        "title": "Man Pleads Guilty to Music Streaming Fraud Aided by AI",
-        "description": "5 points · 0 comments",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+        "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+        "description": "102 points · 58 comments",
         "image": "",
-        "source": "justice.gov",
+        "source": "papers.ssrn.com",
         "stats": ""
       },
       {
-        "url": "https://pub.towardsai.net/the-air-gapped-chronicles-the-court-asked-for-the-llms-reasoning-48471090eada",
-        "title": "Court Asked for the LLM's Reasoning. The Company Had Nothing. $10M",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "pub.towardsai.net",
-        "stats": ""
+        "url": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
+        "title": "Senior European journalist suspended over AI-generated quotes",
+        "description": "Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief",
+        "image": "https://i.guim.co.uk/img/media/f53f8e674f5b3c1fccaf19b9b0a8e24f0987ae2f/101_0_1499_1199/master/1499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5adaa12d59579fdcda49ac7f11363bd9",
+        "source": "theguardian.com",
+        "stats": "84 points · 73 comments"
       },
       {
-        "url": "https://nickakre.github.io/agentverse-social/",
-        "title": "Show HN: AgentVerse – Open social network for AI agents (Mar 2026)",
-        "description": "Where AI agents connect, collaborate, and evolve.",
-        "image": "",
-        "source": "nickakre.github.io",
-        "stats": "4 points · 0 comments"
+        "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+        "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+        "description": "One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...",
+        "image": "https://darkounity.com/api/images/opentowrok.webp",
+        "source": "darkounity.com",
+        "stats": "60 points · 41 comments"
       }
     ],
     "2026-03-20": [
@@ -50,7 +92,7 @@
         "description": "OpenCode - The open source coding agent.",
         "image": "https://opencode.ai/social-share.png",
         "source": "opencode.ai",
-        "stats": "537 points · 242 comments"
+        "stats": "1202 points · 594 comments"
       },
       {
         "url": "https://www.sharpai.org/benchmark/",
@@ -58,7 +100,7 @@
         "description": "Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.",
         "image": "https://www.sharpai.org/og-image.png",
         "source": "sharpai.org",
-        "stats": "155 points · 146 comments"
+        "stats": "168 points · 150 comments"
       },
       {
         "url": "https://blog.samaltman.com/ai",
@@ -66,7 +108,7 @@
         "description": "Yesterday at lunch a friend asked me what tech trend he should pay attention to but was probably ignoring.\n\nWithout thinking much I said “artificial intelligence”, but having thought about that a...",
         "image": "",
         "source": "blog.samaltman.com",
-        "stats": "68 points · 67 comments"
+        "stats": "80 points · 71 comments"
       },
       {
         "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
@@ -74,12 +116,12 @@
         "description": "Let us know if you see more.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
         "source": "theverge.com",
-        "stats": "55 points · 13 comments"
+        "stats": "71 points · 15 comments"
       },
       {
         "url": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
         "title": "Pentagon to adopt Palantir AI as core US Military system",
-        "description": "30 points · 1 comments",
+        "description": "59 points · 5 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -92,38 +134,30 @@
         "description": "Astral has entered into an agreement to join OpenAI as part of the Codex team.",
         "image": "https://astral.sh/static/OpenGraph/Astral.jpg",
         "source": "astral.sh",
-        "stats": "1446 points · 879 comments"
-      },
-      {
-        "url": "https://github.com/anomalyco/opencode/pull/18186",
-        "title": "Anthropic takes legal action against OpenCode",
-        "description": "Remove anthropic references per legal requests:\n\nRemove anthropic-20250930.txt prompt file\nRemove anthropic from provider hints\nRemove opencode-anthropic-auth builtin plugin\nRemove anthropic from p...",
-        "image": "https://opengraph.githubassets.com/add527f290e3ad5feb4325287ad15541f575cb758af73fa9e680eda814cf86d9/anomalyco/opencode/pull/18186",
-        "source": "github.com",
-        "stats": "470 points · 379 comments"
-      },
-      {
-        "url": "https://blog.skypilot.co/scaling-autoresearch/",
-        "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
-        "description": "Karpathy",
-        "image": "https://blog.skypilot.co/scaling-autoresearch/assets/banner.png",
-        "source": "blog.skypilot.co",
-        "stats": "225 points · 94 comments"
-      },
-      {
-        "url": "https://qlabs.sh/10x",
-        "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
-        "description": "167 points · 45 comments",
-        "image": "",
-        "source": "qlabs.sh",
-        "stats": ""
+        "stats": "1466 points · 890 comments"
       },
       {
         "url": "https://aicode.swerdlow.dev",
         "title": "Be intentional about how AI changes your codebase",
-        "description": "165 points · 96 comments",
+        "description": "168 points · 103 comments",
         "image": "",
         "source": "aicode.swerdlow.dev",
+        "stats": ""
+      },
+      {
+        "url": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/",
+        "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+        "description": "The big news this morning: Astral to join OpenAI (on the Astral blog) and OpenAI to acquire Astral (the OpenAI announcement). Astral are the company behind uv, ruff, and ty—three …",
+        "image": "",
+        "source": "simonwillison.net",
+        "stats": "83 points · 23 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47441629",
+        "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
+        "description": "58 points · 25 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
         "stats": ""
       }
     ],
@@ -132,9 +166,17 @@
         "url": "https://github.com/alainnothere/llm-circuit-finder",
         "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
         "description": "I replicated Ng&amp;#39;s RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.2...",
-        "image": "https://opengraph.githubassets.com/025b406b8bafa5f1beaed056492e50658b47805bc68d8ecc5028d8ccdb6551e6/alainnothere/llm-circuit-finder",
+        "image": "https://opengraph.githubassets.com/ecf27d3e811086a559e77d26a555e48cec841fe8e202d965132903e369aa0fbe/alainnothere/llm-circuit-finder",
         "source": "github.com",
-        "stats": "252 points · 82 comments"
+        "stats": "260 points · 83 comments"
+      },
+      {
+        "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
+        "title": "An industrial piping contractor on Claude Code [video]",
+        "description": "125 points · 87 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
       }
     ],
     "2026-03-17": [
@@ -163,16 +205,6 @@
         "image": "",
         "source": "fsf.org",
         "stats": ""
-      }
-    ],
-    "2026-03-15": [
-      {
-        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-        "description": "GitLab.com",
-        "image": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
-        "source": "gitlab.com",
-        "stats": "207 points · 38 comments"
       }
     ]
   }
