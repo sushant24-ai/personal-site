@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-03-22T04:23:50.892Z",
+  "lastUpdated": "2026-03-23T04:32:29.978Z",
   "days": {
+    "2026-03-23": [
+      {
+        "url": "https://www.ft.com/content/7ffea5b4-e8bc-47cd-adb4-257f84c8028b",
+        "title": "OpenAI to double workforce as business push intensifies",
+        "description": "The $730bn start-up plans to increase staff to 8,000 by end of 2026 in bid to close gap with rival Anthropic",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F24987a04-d6fe-43b9-bc71-ec2b30563709.jpg?source=next-barrier-page",
+        "source": "ft.com",
+        "stats": "10 points · 3 comments"
+      },
+      {
+        "url": "https://english.elpais.com/technology/2026-03-12/ai-ends-online-anonymity-the-ease-of-unmasking-pseudonymous-accounts.html",
+        "title": "AI ends online anonymity: the ease of unmasking pseudonymous accounts",
+        "description": "Study shows how combining a handful of data extracted from the trail that ‘unknown’ users leave on the internet can lead to their identification",
+        "image": "https://imagenes.elpais.com/resizer/v2/MOQ6O4SARFHLVAOGULNUYL5PVM.jpg?auth=9b6447497feb9081343d71f4adbc0833dc8b1f9d2a77a6f88fa3ffc61f0d1a51&amp;width=1200",
+        "source": "english.elpais.com",
+        "stats": "10 points · 2 comments"
+      },
+      {
+        "url": "https://www.semafor.com/article/03/22/2026/openai-to-double-headcount",
+        "title": "OpenAI to nearly double headcount this year",
+        "description": "OpenAI plans to nearly double its headcount to 8,000 employees this year, as the startup ramps up a push to sell its AI products to businesses, the Financial Times reported. ",
+        "image": "https://img.semafor.com/af8135ab9b587790183aae4f9f82a5b98a804384-4934x3289.jpg?rect=0,350,4934,2590&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
+        "source": "semafor.com",
+        "stats": "7 points · 1 comments"
+      },
+      {
+        "url": "https://pablomarino.com/research_blog/2026/03/23/research5.html",
+        "title": "LLMs can't reason and never will",
+        "description": "4 arguments and my prediction for the future",
+        "image": "",
+        "source": "pablomarino.com",
+        "stats": "5 points · 3 comments"
+      },
+      {
+        "url": "https://trwa.substack.com/p/the-franny-test-a-three-step-protocol",
+        "title": "The Franny Test: A Three-Step Protocol That Current LLMs Always Fail",
+        "description": "5 points · 2 comments",
+        "image": "",
+        "source": "trwa.substack.com",
+        "stats": ""
+      }
+    ],
     "2026-03-22": [
       {
-        "url": "https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/",
-        "title": "When AI Writes the Software, Who Verifies It?",
-        "description": "Leonardo de Moura — Creator of Lean and Z3",
+        "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
+        "title": "Diverse perspectives on AI from Rust contributors and maintainers",
+        "description": "129 points · 71 comments",
         "image": "",
-        "source": "leodemoura.github.io",
-        "stats": "3 points · 1 comments"
-      },
-      {
-        "url": "https://thehill.com/policy/technology/5793105-ai-regulation-framework/?user_id=66c4bf745d78644b3aa57b08",
-        "title": "White House unveils AI policy wishlist for Congress",
-        "description": "px-captcha",
-        "image": "",
-        "source": "thehill.com",
-        "stats": "2 points · 0 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-03-20/peter-thiel-s-founders-fund-backs-ai-cow-collar-startup-at-2-billion-valuation",
-        "title": "Peter Thiel's Founders Fund Backs AI Cow Collar Startup at $2B Valuation",
-        "description": "2 points · 1 comments",
-        "image": "",
-        "source": "bloomberg.com",
+        "source": "nikomatsakis.github.io",
         "stats": ""
       },
       {
-        "url": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
-        "title": "Developer's Guide to AI Agent Protocols",
-        "description": "This blog post explores how six key protocols, including MCP and A2A, simplify AI agent development by replacing custom integration code with standardized communication patterns. Learn how to use the Agent Development Kit (ADK) to build complex agents capable of managing real-time inventory, secure commerce via UCP/AP2, and interactive streaming interfaces. Discover how adopting these architectural standards creates more scalable, interoperable, and user-friendly AI solutions.",
-        "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_kad1omkad1.2e16d0ba.fill-1200x600.jpg",
-        "source": "developers.googleblog.com",
-        "stats": "2 points · 1 comments"
+        "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+        "title": "Teaching Claude to QA a mobile app",
+        "description": "81 points · 9 comments",
+        "image": "",
+        "source": "christophermeiklejohn.com",
+        "stats": ""
       },
       {
-        "url": "https://diffusion.csail.mit.edu/2026/index.html",
-        "title": "Flow Matching and Diffusion Models – 2026 Version",
-        "description": "2 points · 0 comments",
+        "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+        "title": "What Young Workers Are Doing to AI-Proof Themselves",
+        "description": "95 points · 129 comments",
         "image": "",
-        "source": "diffusion.csail.mit.edu",
+        "source": "wsj.com",
         "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47475859",
+        "title": "Ask HN: AI productivity gains – do you fire devs or build better products?",
+        "description": "87 points · 156 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://revise.io",
+        "title": "Show HN: Revise – An AI Editor for Documents",
+        "description": "Revise is an AI-powered word processor with visual revision history, built-in AI editing, and fast import/export for Word documents.",
+        "image": "https://revise.io/og.png",
+        "source": "revise.io",
+        "stats": "63 points · 59 comments"
       }
     ],
     "2026-03-21": [
       {
         "url": "https://tinygrad.org/#tinybox",
-        "title": "Tinybox – Offline AI device 120B parameters",
-        "description": "381 points · 228 comments",
+        "title": "Tinybox – A powerful computer for deep learning",
+        "description": "575 points · 335 comments",
         "image": "",
         "source": "tinygrad.org",
         "stats": ""
@@ -58,31 +100,31 @@
         "description": "Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....",
         "image": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg",
         "source": "eff.org",
-        "stats": "501 points · 140 comments"
+        "stats": "555 points · 151 comments"
       },
       {
         "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
         "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
-        "description": "102 points · 58 comments",
+        "description": "190 points · 114 comments",
         "image": "",
         "source": "papers.ssrn.com",
         "stats": ""
       },
       {
-        "url": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
-        "title": "Senior European journalist suspended over AI-generated quotes",
-        "description": "Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief",
-        "image": "https://i.guim.co.uk/img/media/f53f8e674f5b3c1fccaf19b9b0a8e24f0987ae2f/101_0_1499_1199/master/1499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5adaa12d59579fdcda49ac7f11363bd9",
-        "source": "theguardian.com",
-        "stats": "84 points · 73 comments"
+        "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+        "title": "How to Attract AI Bots to Your Open Source Project",
+        "description": "A practical guide to getting the engagement your project deserves.",
+        "image": "https://nesbitt.io/images/boxes.png",
+        "source": "nesbitt.io",
+        "stats": "98 points · 13 comments"
       },
       {
         "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
         "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
         "description": "One thing that I noticed as soon as I open LinkedIn green color becomes the most dominant one, greener than my website. I have a feeling that everyone is lai...",
-        "image": "https://darkounity.com/api/images/opentowrok.webp",
+        "image": "https://darkounity.com/api/images/open_to_work_crisis_game_dev_jobs.webp",
         "source": "darkounity.com",
-        "stats": "60 points · 41 comments"
+        "stats": "84 points · 70 comments"
       }
     ],
     "2026-03-20": [
@@ -92,39 +134,7 @@
         "description": "OpenCode - The open source coding agent.",
         "image": "https://opencode.ai/social-share.png",
         "source": "opencode.ai",
-        "stats": "1202 points · 594 comments"
-      },
-      {
-        "url": "https://www.sharpai.org/benchmark/",
-        "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
-        "description": "Qwen3.5-9B scores 93.8% on 96 real security AI tests — within 4 points of GPT-5.4 — running entirely on Apple Silicon. Full benchmark results and methodology.",
-        "image": "https://www.sharpai.org/og-image.png",
-        "source": "sharpai.org",
-        "stats": "168 points · 150 comments"
-      },
-      {
-        "url": "https://blog.samaltman.com/ai",
-        "title": "AI (2014)",
-        "description": "Yesterday at lunch a friend asked me what tech trend he should pay attention to but was probably ignoring.\n\nWithout thinking much I said “artificial intelligence”, but having thought about that a...",
-        "image": "",
-        "source": "blog.samaltman.com",
-        "stats": "80 points · 71 comments"
-      },
-      {
-        "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-        "title": "Google Search is now using AI to replace headlines",
-        "description": "Let us know if you see more.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "71 points · 15 comments"
-      },
-      {
-        "url": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
-        "title": "Pentagon to adopt Palantir AI as core US Military system",
-        "description": "59 points · 5 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "stats": "1241 points · 614 comments"
       }
     ],
     "2026-03-19": [
@@ -134,49 +144,25 @@
         "description": "Astral has entered into an agreement to join OpenAI as part of the Codex team.",
         "image": "https://astral.sh/static/OpenGraph/Astral.jpg",
         "source": "astral.sh",
-        "stats": "1466 points · 890 comments"
-      },
-      {
-        "url": "https://aicode.swerdlow.dev",
-        "title": "Be intentional about how AI changes your codebase",
-        "description": "168 points · 103 comments",
-        "image": "",
-        "source": "aicode.swerdlow.dev",
-        "stats": ""
-      },
-      {
-        "url": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/",
-        "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
-        "description": "The big news this morning: Astral to join OpenAI (on the Astral blog) and OpenAI to acquire Astral (the OpenAI announcement). Astral are the company behind uv, ruff, and ty—three …",
-        "image": "",
-        "source": "simonwillison.net",
-        "stats": "83 points · 23 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47441629",
-        "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
-        "description": "58 points · 25 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "1479 points · 894 comments"
       }
     ],
     "2026-03-18": [
       {
-        "url": "https://github.com/alainnothere/llm-circuit-finder",
-        "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-        "description": "I replicated Ng&amp;#39;s RYS method and found that duplicating 3 specific layers in Qwen2.5-32B boosts reasoning by 17% and duplicating layers 12-14 in Devstral-24B improves logical deduction from 0.2...",
-        "image": "https://opengraph.githubassets.com/ecf27d3e811086a559e77d26a555e48cec841fe8e202d965132903e369aa0fbe/alainnothere/llm-circuit-finder",
-        "source": "github.com",
-        "stats": "260 points · 83 comments"
-      },
-      {
         "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
         "title": "An industrial piping contractor on Claude Code [video]",
-        "description": "125 points · 87 comments",
+        "description": "138 points · 91 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
+      },
+      {
+        "url": "https://dynomight.net/coffee/",
+        "title": "LLMs predict my coffee",
+        "description": "Why not benchmark with physical experiments?",
+        "image": "https://dynomight.net/img/coffee/two_women_drinking_coffee.jpg",
+        "source": "dynomight.net",
+        "stats": "92 points · 40 comments"
       }
     ],
     "2026-03-17": [
@@ -195,16 +181,6 @@
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
         "stats": "195 points · 113 comments"
-      }
-    ],
-    "2026-03-16": [
-      {
-        "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-        "title": "FSF statement on copyright infringement lawsuit Bartz v. Anthropic",
-        "description": "259 points · 127 comments",
-        "image": "",
-        "source": "fsf.org",
-        "stats": ""
       }
     ]
   }
