@@ -1,63 +1,105 @@
 {
-  "lastUpdated": "2026-03-24T04:23:19.289Z",
+  "lastUpdated": "2026-03-25T04:24:20.771Z",
   "days": {
-    "2026-03-24": [
+    "2026-03-25": [
       {
-        "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-        "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-        "description": "Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.",
-        "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
-        "source": "epoch.ai",
-        "stats": "136 points · 30 comments"
+        "url": "https://news.ycombinator.com/item?id=47511866",
+        "title": "Show HN: Herd – A Go sidecar to stop stateful processes Puppeteer/LLMs from OOM",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
-        "url": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/",
-        "title": "I created my first AI-assisted pull request",
-        "description": "I used AI to contribute to an open source project. The code was merged. I didn&rsquo;t learn anything and I felt bad as an engineer.",
-        "image": "https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/og.png",
-        "source": "nelson.cloud",
-        "stats": "59 points · 63 comments"
-      },
-      {
-        "url": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
-        "title": "Sunsetting the Techempower Framework Benchmarks",
-        "description": "For more than a decade, the TechEmpower Framework Benchmarks have been a shared passion project between our team and the broader web development community, helping developers understand just how mu...",
-        "image": "https://opengraph.githubassets.com/ff9989fd18ebb37ec551fb7d5272a18067ea5b44b6ce6a824eeddc1d7f5ac4ec/TechEmpower/FrameworkBenchmarks/issues/10932",
-        "source": "github.com",
-        "stats": "13 points · 2 comments"
-      },
-      {
-        "url": "https://www.theregister.com/2026/03/24/ai_models_persona_prompting/",
-        "title": "Don't tell the AI it's an expert programmer",
-        "description": ": Researchers say persona-based prompting can improve works for safety but not for facts",
-        "image": "https://regmedia.co.uk/2026/03/24/shutterstock_dunce_cap_reformatted.jpg",
+        "url": "https://www.theregister.com/2026/03/24/arm_ceo_boasts_new_silicon/",
+        "title": "AI-pilled Arm CEO teases mystery products that will turn it into a money machine",
+        "description": ": Breaking free of its IP licensing shackles",
+        "image": "https://regmedia.co.uk/2026/03/24/arm_ceo_1t_tam.jpg",
         "source": "theregister.com",
-        "stats": "5 points · 1 comments"
+        "stats": "6 points · 1 comments"
       },
       {
-        "url": "https://oswarld.beehiiv.com/p/ai-keeps-getting-smarter-but-it-s-starting-to-think-alike",
-        "title": "The more powerful AI becomes, the more it may be narrowing how we all think",
-        "description": "A warning: the more powerful AI becomes, the more it may be narrowing how we all think.",
-        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4992b034-3963-4ddf-94c1-0ef9d53ff036/%E1%84%80%E1%85%A1%E1%87%80%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A1%E1%86%A8.jpg?t=1774317754",
-        "source": "oswarld.beehiiv.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://news.ycombinator.com/item?id=47511823",
+        "title": "Ask HN: How do you offload all coding to AI?",
+        "description": "5 points · 7 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+        "title": "So far AI has mostly proven the inherent worth of menial laborers",
+        "description": "Nvidia CEO Jensen Huang told Lex Fridman in a Monday podcast interview that he believed AGI had been achieved, then seemed to slightly walk back the claim.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-ai-reboot-siri-184859342.html",
+        "title": "Apple Plans AI Reboot with Siri App",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "finance.yahoo.com",
+        "stats": ""
       }
     ],
-    "2026-03-23": [
+    "2026-03-24": [
       {
-        "url": "https://twitter.com/anemll/status/2035901335984611412",
-        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-        "description": "524 points · 248 comments",
+        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+        "title": "Is anybody else bored of talking about AI?",
+        "description": "Is anybody else bored of talking about AI?",
+        "image": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png",
+        "source": "blog.jakesaunders.dev",
+        "stats": "593 points · 409 comments"
+      },
+      {
+        "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+        "title": "Goodbye to Sora",
+        "description": "494 points · 381 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
       },
       {
+        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "description": "[LITELLM TEAM] - For updates from the team, please see: #24518 [Security]: CRITICAL: Malicious litellm_init.pth in litellm 1.82.8 PyPI package — credential stealer Summary The litellm==1.82.8 wheel...",
+        "image": "https://opengraph.githubassets.com/541a1278e1fe35f11d422159f8e3c1607b30870073f86733111286eadb05df83/BerriAI/litellm/issues/24512",
+        "source": "github.com",
+        "stats": "556 points · 392 comments"
+      },
+      {
+        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
+        "description": "[LITELLM TEAM] - For updates from the team, please see: #24518 [Security]: CRITICAL: Malicious litellm_init.pth in litellm 1.82.8 PyPI package — credential stealer Summary The litellm==1.82.8 wheel...",
+        "image": "https://opengraph.githubassets.com/541a1278e1fe35f11d422159f8e3c1607b30870073f86733111286eadb05df83/BerriAI/litellm/issues/24512",
+        "source": "github.com",
+        "stats": "721 points · 1 comments"
+      },
+      {
+        "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+        "title": "So where are all the AI apps?",
+        "description": "Practical AI R&amp;D",
+        "image": "https://www.answer.ai/posts/so-where-are-all-the-ai-apps/chart_04_releases_2x2.png",
+        "source": "answer.ai",
+        "stats": "385 points · 355 comments"
+      }
+    ],
+    "2026-03-23": [
+      {
         "url": "https://cc.storyfox.cz",
         "title": "Claude Code Cheat Sheet",
-        "description": "231 points · 77 comments",
+        "description": "632 points · 184 comments",
         "image": "",
         "source": "cc.storyfox.cz",
+        "stats": ""
+      },
+      {
+        "url": "https://twitter.com/anemll/status/2035901335984611412",
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "description": "699 points · 320 comments",
+        "image": "",
+        "source": "twitter.com",
         "stats": ""
       },
       {
@@ -66,7 +108,7 @@
         "description": "It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like:",
         "image": "https://neilkakkar.com/assets/images/productive-with-claude-code-cover.png",
         "source": "neilkakkar.com",
-        "stats": "145 points · 93 comments"
+        "stats": "261 points · 162 comments"
       },
       {
         "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
@@ -74,85 +116,45 @@
         "description": "Learn how I built an ai receptionist for my brother",
         "image": "http://localhost:4321/screenshot.jpg",
         "source": "itsthatlady.dev",
-        "stats": "235 points · 258 comments"
+        "stats": "308 points · 319 comments"
       },
       {
-        "url": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/",
-        "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
-        "description": "64 points · 12 comments",
-        "image": "",
-        "source": "old.reddit.com",
-        "stats": ""
+        "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+        "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+        "description": "cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.",
+        "image": "https://blog.mozilla.ai/content/images/size/w1200/2026/03/mozilla-ai-cq-stack-overflow-for-agents-blog-hero-image-1200x630.png",
+        "source": "blog.mozilla.ai",
+        "stats": "206 points · 92 comments"
       }
     ],
     "2026-03-22": [
       {
-        "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
-        "title": "What young workers are doing to AI-proof themselves",
-        "description": "220 points · 372 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
         "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
         "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-        "description": "153 points · 81 comments",
+        "description": "160 points · 82 comments",
         "image": "",
         "source": "nikomatsakis.github.io",
         "stats": ""
-      },
-      {
-        "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-        "title": "Teaching Claude to QA a mobile app",
-        "description": "112 points · 13 comments",
-        "image": "",
-        "source": "christophermeiklejohn.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47475859",
-        "title": "Ask HN: AI productivity gains – do you fire devs or build better products?",
-        "description": "102 points · 194 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://revise.io",
-        "title": "Show HN: Revise – An AI Editor for Documents",
-        "description": "Revise is an AI-powered word processor with visual revision history, built-in AI editing, and fast import/export for Word documents.",
-        "image": "https://revise.io/og.png",
-        "source": "revise.io",
-        "stats": "78 points · 68 comments"
       }
     ],
     "2026-03-21": [
       {
-        "url": "https://tinygrad.org/#tinybox",
-        "title": "Tinybox – A powerful computer for deep learning",
-        "description": "591 points · 340 comments",
-        "image": "",
-        "source": "tinygrad.org",
-        "stats": ""
-      },
-      {
-        "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-        "title": "How to attract AI bots to your open source project",
-        "description": "A practical guide to getting the engagement your project deserves.",
-        "image": "https://nesbitt.io/images/boxes.png",
-        "source": "nesbitt.io",
-        "stats": "171 points · 29 comments"
+        "url": "https://github.com/xaskasdf/ps2-llm",
+        "title": "Show HN: I ran a language model on a PS2",
+        "description": "Running a large language model on a PlayStation 2. Contribute to xaskasdf/ps2-llm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/f22128726cc35a8190b8f7258aa8a62d79507b22a9d744ce2bc3933107f03b72/xaskasdf/ps2-llm",
+        "source": "github.com",
+        "stats": "25 points · 8 comments"
       }
     ],
     "2026-03-20": [
       {
-        "url": "https://opencode.ai/",
-        "title": "OpenCode – Open source AI coding agent",
-        "description": "OpenCode - The open source coding agent.",
-        "image": "https://opencode.ai/social-share.png",
-        "source": "opencode.ai",
-        "stats": "1253 points · 619 comments"
+        "url": "https://arxiv.org/abs/2603.17063",
+        "title": "Transformers Are Bayesian Networks",
+        "description": "Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a Bayesian network. We establish this in five ways.\n  First, we prove that every sigmoid transformer with any weights implements weighted loopy belief propagation on its implicit factor graph. One layer is one round of BP. This holds for any weights -- trained, random, or constructed. Formally verified against standard mathematical axioms.\n  Second, we give a constructive proof that a transformer can implement exact belief propagation on any declared knowledge base. On knowledge bases without circular dependencies this yields provably correct probability estimates at every node. Formally verified against standard mathematical axioms.\n  Third, we prove uniqueness: a sigmoid transformer that produces exact posteriors necessarily has BP weights. There is no other path through the sigmoid architecture to exact posteriors. Formally verified against standard mathematical axioms.\n  Fourth, we delineate the AND/OR boolean structure of the transformer layer: attention is AND, the FFN is OR, and their strict alternation is Pearl&#39;s gather/update algorithm exactly.\n  Fifth, we confirm all formal results experimentally, corroborating the Bayesian network characterization in practice. We also establish the practical viability of loopy belief propagation despite the current lack of a theoretical convergence guarantee.\n  We further prove that verifiable inference requires a finite concept space. Any finite verification procedure can distinguish at most finitely many concepts. Without grounding, correctness is not defined. Hallucination is not a bug that scaling can fix. It is the structural consequence of operating without concepts. Formally verified against standard mathematical axioms.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "32 points · 20 comments"
       }
     ],
     "2026-03-19": [
@@ -163,16 +165,6 @@
         "image": "",
         "source": "searchengineland.com",
         "stats": ""
-      }
-    ],
-    "2026-03-18": [
-      {
-        "url": "https://dynomight.net/coffee/",
-        "title": "LLMs predict my coffee",
-        "description": "Why not benchmark with physical experiments?",
-        "image": "https://dynomight.net/img/coffee/two_women_drinking_coffee.jpg",
-        "source": "dynomight.net",
-        "stats": "142 points · 64 comments"
       }
     ]
   }
