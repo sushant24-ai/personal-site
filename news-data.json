@@ -1,61 +1,95 @@
 {
-  "lastUpdated": "2026-03-25T04:24:20.771Z",
+  "lastUpdated": "2026-03-26T04:35:49.056Z",
   "days": {
+    "2026-03-26": [
+      {
+        "url": "https://justfielding.com/blog/nit-replacing-git-with-zig",
+        "title": "Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens",
+        "description": "The portfolio of Fielding Johnston, a software engineer with expertise in AI, distributed systems, and interactive applications.",
+        "image": "https://justfielding.com/android-chrome-512x512.png",
+        "source": "justfielding.com",
+        "stats": "20 points · 13 comments"
+      },
+      {
+        "url": "https://github.com/lightfeed/extractor",
+        "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+        "description": "Using LLMs and AI browser automation to robustly extract web data - lightfeed/extractor",
+        "image": "https://opengraph.githubassets.com/e3cf0fcf1c01f3402b784fab0bf1686a1633754442e6b1213c32a7f071ed1652/lightfeed/extractor",
+        "source": "github.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
+        "title": "Disney cancels $1B OpenAI partnership amid Sora shutdown plans",
+        "description": "Press reports suggest Disney was blindsided and that no money changed hands.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/disney_1-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://rushyendramaganty.com/ai",
+        "title": "Every Online Conversation about AI, Summarized",
+        "description": "A summary of online AI debates — from agent hype to benchmark wars.",
+        "image": "",
+        "source": "rushyendramaganty.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47526097",
+        "title": "Ask HN: Has Claude Code quality level degraded lately?",
+        "description": "2 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-03-25": [
       {
-        "url": "https://news.ycombinator.com/item?id=47511866",
-        "title": "Show HN: Herd – A Go sidecar to stop stateful processes Puppeteer/LLMs from OOM",
-        "description": "6 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "description": "507 points · 140 comments",
+        "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+        "source": "research.google",
         "stats": ""
       },
       {
-        "url": "https://www.theregister.com/2026/03/24/arm_ceo_boasts_new_silicon/",
-        "title": "AI-pilled Arm CEO teases mystery products that will turn it into a money machine",
-        "description": ": Breaking free of its IP licensing shackles",
-        "image": "https://regmedia.co.uk/2026/03/24/arm_ceo_1t_tam.jpg",
-        "source": "theregister.com",
-        "stats": "6 points · 1 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47511823",
-        "title": "Ask HN: How do you offload all coding to AI?",
-        "description": "5 points · 7 comments",
+        "url": "https://www.claudescode.dev/?window=since_launch",
+        "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+        "description": "Global dashboard tracking the coding activity of Anthropic&#x27;s Claude Code agent.",
         "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "source": "claudescode.dev",
+        "stats": "219 points · 130 comments"
       },
       {
-        "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-        "title": "So far AI has mostly proven the inherent worth of menial laborers",
-        "description": "Nvidia CEO Jensen Huang told Lex Fridman in a Monday podcast interview that he believed AGI had been achieved, then seemed to slightly walk back the claim.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "4 points · 2 comments"
+        "url": "https://ente.com/blog/ensu/",
+        "title": "Ensu – Ente’s Local LLM app",
+        "description": "Introducing Ensu, our first step toward a private, personal LLM app that runs on your device and grows with you over time.",
+        "image": "https://ente.com/og-images/ensu.png",
+        "source": "ente.com",
+        "stats": "346 points · 156 comments"
       },
       {
-        "url": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-ai-reboot-siri-184859342.html",
-        "title": "Apple Plans AI Reboot with Siri App",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "finance.yahoo.com",
-        "stats": ""
+        "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+        "title": "Updates to GitHub Copilot interaction data usage policy",
+        "description": "From April 24 onward, interaction data from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.",
+        "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
+        "source": "github.blog",
+        "stats": "253 points · 121 comments"
+      },
+      {
+        "url": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
+        "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
+        "description": "Staff have been caught using free AI tools for help.",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--c5SNbs78--/t_tohu-badge-facebook/v1762823835/4JY3TR9_nsq_episode_image_healthcare_v2_png?_a=BACCd2AD",
+        "source": "rnz.co.nz",
+        "stats": "123 points · 42 comments"
       }
     ],
     "2026-03-24": [
       {
-        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-        "title": "Is anybody else bored of talking about AI?",
-        "description": "Is anybody else bored of talking about AI?",
-        "image": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png",
-        "source": "blog.jakesaunders.dev",
-        "stats": "593 points · 409 comments"
-      },
-      {
         "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
         "title": "Goodbye to Sora",
-        "description": "494 points · 381 comments",
+        "description": "1089 points · 802 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -64,40 +98,48 @@
         "url": "https://github.com/BerriAI/litellm/issues/24512",
         "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
         "description": "[LITELLM TEAM] - For updates from the team, please see: #24518 [Security]: CRITICAL: Malicious litellm_init.pth in litellm 1.82.8 PyPI package — credential stealer Summary The litellm==1.82.8 wheel...",
-        "image": "https://opengraph.githubassets.com/541a1278e1fe35f11d422159f8e3c1607b30870073f86733111286eadb05df83/BerriAI/litellm/issues/24512",
+        "image": "https://opengraph.githubassets.com/ef59620efa01e39ccc6bd6dc20c547be9952bf9a3998f36b235c53c2977f0e38/BerriAI/litellm/issues/24512",
         "source": "github.com",
-        "stats": "556 points · 392 comments"
+        "stats": "903 points · 478 comments"
+      },
+      {
+        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+        "title": "Is anybody else bored of talking about AI?",
+        "description": "Is anybody else bored of talking about AI?",
+        "image": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png",
+        "source": "blog.jakesaunders.dev",
+        "stats": "716 points · 510 comments"
       },
       {
         "url": "https://github.com/BerriAI/litellm/issues/24512",
         "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
         "description": "[LITELLM TEAM] - For updates from the team, please see: #24518 [Security]: CRITICAL: Malicious litellm_init.pth in litellm 1.82.8 PyPI package — credential stealer Summary The litellm==1.82.8 wheel...",
-        "image": "https://opengraph.githubassets.com/541a1278e1fe35f11d422159f8e3c1607b30870073f86733111286eadb05df83/BerriAI/litellm/issues/24512",
+        "image": "https://opengraph.githubassets.com/ef59620efa01e39ccc6bd6dc20c547be9952bf9a3998f36b235c53c2977f0e38/BerriAI/litellm/issues/24512",
         "source": "github.com",
-        "stats": "721 points · 1 comments"
+        "stats": "734 points · 1 comments"
       },
       {
-        "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-        "title": "So where are all the AI apps?",
-        "description": "Practical AI R&amp;D",
-        "image": "https://www.answer.ai/posts/so-where-are-all-the-ai-apps/chart_04_releases_2x2.png",
-        "source": "answer.ai",
-        "stats": "385 points · 355 comments"
+        "url": "https://github.com/ssrajadh/sentrysearch",
+        "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+        "description": "Semantic search over videos using Gemini Embedding 2. - ssrajadh/sentrysearch",
+        "image": "https://opengraph.githubassets.com/b9be25d5536f86cd64f5a44f22dbcbd575a3913fd9fa31d908e68d0f5fd7bab3/ssrajadh/sentrysearch",
+        "source": "github.com",
+        "stats": "423 points · 102 comments"
       }
     ],
     "2026-03-23": [
       {
         "url": "https://cc.storyfox.cz",
         "title": "Claude Code Cheat Sheet",
-        "description": "632 points · 184 comments",
+        "description": "All Claude Code shortcuts, commands, flags, MCP config, memory files & env vars on one page. Auto-updated daily.",
         "image": "",
         "source": "cc.storyfox.cz",
-        "stats": ""
+        "stats": "675 points · 188 comments"
       },
       {
         "url": "https://twitter.com/anemll/status/2035901335984611412",
         "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-        "description": "699 points · 320 comments",
+        "description": "706 points · 326 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -108,15 +150,7 @@
         "description": "It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like:",
         "image": "https://neilkakkar.com/assets/images/productive-with-claude-code-cover.png",
         "source": "neilkakkar.com",
-        "stats": "261 points · 162 comments"
-      },
-      {
-        "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-        "title": "I built an AI receptionist for a mechanic shop",
-        "description": "Learn how I built an ai receptionist for my brother",
-        "image": "http://localhost:4321/screenshot.jpg",
-        "source": "itsthatlady.dev",
-        "stats": "308 points · 319 comments"
+        "stats": "269 points · 163 comments"
       },
       {
         "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
@@ -124,27 +158,27 @@
         "description": "cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.",
         "image": "https://blog.mozilla.ai/content/images/size/w1200/2026/03/mozilla-ai-cq-stack-overflow-for-agents-blog-hero-image-1200x630.png",
         "source": "blog.mozilla.ai",
-        "stats": "206 points · 92 comments"
+        "stats": "217 points · 98 comments"
       }
     ],
     "2026-03-22": [
       {
-        "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-        "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-        "description": "160 points · 82 comments",
-        "image": "",
-        "source": "nikomatsakis.github.io",
-        "stats": ""
+        "url": "https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles",
+        "title": "Microbenchmarking Chipsets for Giggles",
+        "description": "Who cares, it&#x27;s fun",
+        "image": "https://substackcdn.com/image/fetch/$s_!KrbO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5b2e24-e74a-4ac6-9a5c-6d1a59028c1c_1600x1065.jpeg",
+        "source": "chipsandcheese.com",
+        "stats": "52 points · 3 comments"
       }
     ],
     "2026-03-21": [
       {
-        "url": "https://github.com/xaskasdf/ps2-llm",
-        "title": "Show HN: I ran a language model on a PS2",
-        "description": "Running a large language model on a PlayStation 2. Contribute to xaskasdf/ps2-llm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/f22128726cc35a8190b8f7258aa8a62d79507b22a9d744ce2bc3933107f03b72/xaskasdf/ps2-llm",
-        "source": "github.com",
-        "stats": "25 points · 8 comments"
+        "url": "https://icecream95.gitlab.io/fun-with-csf-firmware.html",
+        "title": "Fun with CSF firmware (RK3588 GPU firmware)",
+        "description": "Those of us who have been trying to make use of the ",
+        "image": "",
+        "source": "icecream95.gitlab.io",
+        "stats": "66 points · 1 comments"
       }
     ],
     "2026-03-20": [
@@ -155,16 +189,6 @@
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
         "stats": "32 points · 20 comments"
-      }
-    ],
-    "2026-03-19": [
-      {
-        "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
-        "title": "Walmart: ChatGPT checkout converted 3x worse than website",
-        "description": "415 points · 265 comments",
-        "image": "",
-        "source": "searchengineland.com",
-        "stats": ""
       }
     ]
   }
