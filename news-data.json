@@ -1,72 +1,106 @@
 {
-  "lastUpdated": "2026-03-26T04:35:49.056Z",
+  "lastUpdated": "2026-03-27T04:36:55.982Z",
   "days": {
+    "2026-03-27": [
+      {
+        "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+        "title": "Agent-to-Agent Pair Programming",
+        "description": "What if you could let Claude and Codex work together as pair programmers, talking to each other directly? One of them as the main worker and the other as a reviewer.",
+        "image": "https://og-image.axeldelafosse.now.sh/**Agent-to-agent%20pair%20programming**.png?theme=dark&amp;md=1&amp;fontSize=75px&amp;widths=100&amp;heights=100",
+        "source": "axeldelafosse.com",
+        "stats": "20 points · 5 comments"
+      },
+      {
+        "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+        "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+        "description": "Anthropic said it was testing the new model, which it called a &#x27;step change&#x27; in performance, after accidental data leak reveals its existence",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589651.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "7 points · 1 comments"
+      },
+      {
+        "url": "https://act.demandprogress.org/call/callpage-702-ai-surveillance/?link_id=1&can_id=3b2cebf422aaa35898d6d8ce17355809&source=email-quitgpt-update-join-us-at-no-kings-3&email_referrer=email_3164702&email_subject=quitgpt-update-join-us-at-no-kings-3&&",
+        "title": "Call your lawmakers – No AI-powered warrantless surveillance of Americans",
+        "description": "Dial this phone number: 202-953-1892 We’ll connect you to your lawmakers. You can press star to move from call to call, or if there’s no answer. Please make all the calls. When you’re connected to an office or an answering machine, you can say: &quot;I’m calling as a constituent to urge you to oppose any bill to reauthorize FISA spying until the data broker loophole is closed.&quot;",
+        "image": "https://s3.us-east-1.amazonaws.com/demandprogress/images/demandprogress-logo-facebook.png",
+        "source": "act.demandprogress.org",
+        "stats": "10 points · 1 comments"
+      },
+      {
+        "url": "https://www.theedgesingapore.com/news/artificial-intelligence/claude-ai-maker-anthropic-considers-ipo-soon-october--bloomberg",
+        "title": "Anthropic considers IPO as soon as October",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "theedgesingapore.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
+        "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
+        "description": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into efficient control flow.",
+        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7nYtVnPb4iIsJY6vbqRKg1/52c6f59b068854ba20ebe965195a9a9b/OG_Share_2Slashing_agent_token_costs_by_98-_with_structured_error_responses-OG024-2025-2026.png",
+        "source": "blog.cloudflare.com",
+        "stats": "5 points · 1 comments"
+      }
+    ],
     "2026-03-26": [
       {
-        "url": "https://justfielding.com/blog/nit-replacing-git-with-zig",
-        "title": "Show HN: Nit – I rebuilt Git in Zig to save AI agents 71% on tokens",
-        "description": "The portfolio of Fielding Johnston, a software engineer with expertise in AI, distributed systems, and interactive applications.",
-        "image": "https://justfielding.com/android-chrome-512x512.png",
-        "source": "justfielding.com",
-        "stats": "20 points · 13 comments"
+        "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+        "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+        "description": "A federal judge in California has indefinitely blocked the Pentagon’s effort to “punish” Anthropic by labeling it a supply chain risk and attempting to sever government ties with the AI company, ruling that those measures ran roughshod over its constitutional rights.",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26057633664886-1.jpg?c=16x9&q=w_800,c_fill",
+        "source": "cnn.com",
+        "stats": "313 points · 174 comments"
       },
       {
-        "url": "https://github.com/lightfeed/extractor",
-        "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-        "description": "Using LLMs and AI browser automation to robustly extract web data - lightfeed/extractor",
-        "image": "https://opengraph.githubassets.com/e3cf0fcf1c01f3402b784fab0bf1686a1633754442e6b1213c32a7f071ed1652/lightfeed/extractor",
-        "source": "github.com",
-        "stats": "6 points · 0 comments"
+        "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+        "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+        "description": "The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals",
+        "image": "https://i.guim.co.uk/img/media/3240aff7319f3056927aebc08029383d7c1d0d49/0_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07ade1e3085ff5602eff5715f67063bb",
+        "source": "theguardian.com",
+        "stats": "282 points · 134 comments"
       },
       {
-        "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
-        "title": "Disney cancels $1B OpenAI partnership amid Sora shutdown plans",
-        "description": "Press reports suggest Disney was blindsided and that no money changed hands.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/disney_1-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+        "title": "My minute-by-minute response to the LiteLLM malware attack",
+        "description": "The full Claude Code transcript from discovering and responding to the litellm 1.82.8 PyPI supply chain attack on March 24, 2026 — from mysterious process explosions to malware identification to public disclosure.",
+        "image": "https://futuresearch.ai/futuresearch-logo.webp",
+        "source": "futuresearch.ai",
+        "stats": "324 points · 129 comments"
       },
       {
-        "url": "https://rushyendramaganty.com/ai",
-        "title": "Every Online Conversation about AI, Summarized",
-        "description": "A summary of online AI debates — from agent hype to benchmark wars.",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf",
+        "title": "Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]",
+        "description": "126 points · 19 comments",
         "image": "",
-        "source": "rushyendramaganty.com",
-        "stats": "3 points · 0 comments"
+        "source": "storage.courtlistener.com",
+        "stats": ""
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47526097",
-        "title": "Ask HN: Has Claude Code quality level degraded lately?",
-        "description": "2 points · 1 comments",
+        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+        "description": "151 points · 59 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "georgelarson.me",
         "stats": ""
       }
     ],
     "2026-03-25": [
-      {
-        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-        "description": "507 points · 140 comments",
-        "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
-        "source": "research.google",
-        "stats": ""
-      },
       {
         "url": "https://www.claudescode.dev/?window=since_launch",
         "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
         "description": "Global dashboard tracking the coding activity of Anthropic&#x27;s Claude Code agent.",
         "image": "",
         "source": "claudescode.dev",
-        "stats": "219 points · 130 comments"
+        "stats": "332 points · 222 comments"
       },
       {
-        "url": "https://ente.com/blog/ensu/",
-        "title": "Ensu – Ente’s Local LLM app",
-        "description": "Introducing Ensu, our first step toward a private, personal LLM app that runs on your device and grows with you over time.",
-        "image": "https://ente.com/og-images/ensu.png",
-        "source": "ente.com",
-        "stats": "346 points · 156 comments"
+        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "description": "541 points · 154 comments",
+        "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
+        "source": "research.google",
+        "stats": ""
       },
       {
         "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
@@ -74,22 +108,30 @@
         "description": "From April 24 onward, interaction data from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.",
         "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
         "source": "github.blog",
-        "stats": "253 points · 121 comments"
+        "stats": "339 points · 154 comments"
       },
       {
-        "url": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
-        "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
-        "description": "Staff have been caught using free AI tools for help.",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--c5SNbs78--/t_tohu-badge-facebook/v1762823835/4JY3TR9_nsq_episode_image_healthcare_v2_png?_a=BACCd2AD",
-        "source": "rnz.co.nz",
-        "stats": "123 points · 42 comments"
+        "url": "https://ente.com/blog/ensu/",
+        "title": "Ensu – Ente’s Local LLM app",
+        "description": "Introducing Ensu, our first step toward a private, personal LLM app that runs on your device and grows with you over time.",
+        "image": "https://ente.com/og-images/ensu.png",
+        "source": "ente.com",
+        "stats": "358 points · 167 comments"
+      },
+      {
+        "url": "https://lab.puga.com.br/cog/",
+        "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+        "description": "Cog is a cognitive architecture for Claude Code. Persistent memory, self-reflection, foresight, and scenario simulation — the first layer of continuous awareness for AI agents.",
+        "image": "",
+        "source": "lab.puga.com.br",
+        "stats": "142 points · 46 comments"
       }
     ],
     "2026-03-24": [
       {
         "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
         "title": "Goodbye to Sora",
-        "description": "1089 points · 802 comments",
+        "description": "1121 points · 835 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -98,33 +140,33 @@
         "url": "https://github.com/BerriAI/litellm/issues/24512",
         "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
         "description": "[LITELLM TEAM] - For updates from the team, please see: #24518 [Security]: CRITICAL: Malicious litellm_init.pth in litellm 1.82.8 PyPI package — credential stealer Summary The litellm==1.82.8 wheel...",
-        "image": "https://opengraph.githubassets.com/ef59620efa01e39ccc6bd6dc20c547be9952bf9a3998f36b235c53c2977f0e38/BerriAI/litellm/issues/24512",
+        "image": "https://opengraph.githubassets.com/c99b642f32f07588e1a0a630db76514c24dd25bf946958f55fec0c42061944e6/BerriAI/litellm/issues/24512",
         "source": "github.com",
-        "stats": "903 points · 478 comments"
+        "stats": "930 points · 492 comments"
       },
       {
-        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-        "title": "Is anybody else bored of talking about AI?",
-        "description": "Is anybody else bored of talking about AI?",
-        "image": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png",
-        "source": "blog.jakesaunders.dev",
-        "stats": "716 points · 510 comments"
+        "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+        "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+        "description": "Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.",
+        "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
+        "source": "epoch.ai",
+        "stats": "479 points · 696 comments"
       },
       {
-        "url": "https://github.com/BerriAI/litellm/issues/24512",
-        "title": "Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer",
-        "description": "[LITELLM TEAM] - For updates from the team, please see: #24518 [Security]: CRITICAL: Malicious litellm_init.pth in litellm 1.82.8 PyPI package — credential stealer Summary The litellm==1.82.8 wheel...",
-        "image": "https://opengraph.githubassets.com/ef59620efa01e39ccc6bd6dc20c547be9952bf9a3998f36b235c53c2977f0e38/BerriAI/litellm/issues/24512",
-        "source": "github.com",
-        "stats": "734 points · 1 comments"
+        "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+        "title": "From zero to a RAG system: successes and failures",
+        "description": "A few months ago I was tasked with creating an internal tool for the company&#x27;s engineers: a Chat that used a local LLM. Nothing extraordinary so far. ",
+        "image": "https://img.andros.dev/k-SHogWXSvlNFGOQXG5zRnPtAyE=/600x0/filters:format(avif)/https://andros.dev/media/thumbnails/ia.png",
+        "source": "en.andros.dev",
+        "stats": "298 points · 92 comments"
       },
       {
-        "url": "https://github.com/ssrajadh/sentrysearch",
-        "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-        "description": "Semantic search over videos using Gemini Embedding 2. - ssrajadh/sentrysearch",
-        "image": "https://opengraph.githubassets.com/b9be25d5536f86cd64f5a44f22dbcbd575a3913fd9fa31d908e68d0f5fd7bab3/ssrajadh/sentrysearch",
+        "url": "https://github.com/t8/hypura",
+        "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+        "description": "Run models too big for your Mac&#39;s memory. Contribute to t8/hypura development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/d92012804ef5ab65f1a70477840744c1f7a83ec7138ce6ae2700489e1a02b2fe/t8/hypura",
         "source": "github.com",
-        "stats": "423 points · 102 comments"
+        "stats": "220 points · 88 comments"
       }
     ],
     "2026-03-23": [
@@ -179,16 +221,6 @@
         "image": "",
         "source": "icecream95.gitlab.io",
         "stats": "66 points · 1 comments"
-      }
-    ],
-    "2026-03-20": [
-      {
-        "url": "https://arxiv.org/abs/2603.17063",
-        "title": "Transformers Are Bayesian Networks",
-        "description": "Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a Bayesian network. We establish this in five ways.\n  First, we prove that every sigmoid transformer with any weights implements weighted loopy belief propagation on its implicit factor graph. One layer is one round of BP. This holds for any weights -- trained, random, or constructed. Formally verified against standard mathematical axioms.\n  Second, we give a constructive proof that a transformer can implement exact belief propagation on any declared knowledge base. On knowledge bases without circular dependencies this yields provably correct probability estimates at every node. Formally verified against standard mathematical axioms.\n  Third, we prove uniqueness: a sigmoid transformer that produces exact posteriors necessarily has BP weights. There is no other path through the sigmoid architecture to exact posteriors. Formally verified against standard mathematical axioms.\n  Fourth, we delineate the AND/OR boolean structure of the transformer layer: attention is AND, the FFN is OR, and their strict alternation is Pearl&#39;s gather/update algorithm exactly.\n  Fifth, we confirm all formal results experimentally, corroborating the Bayesian network characterization in practice. We also establish the practical viability of loopy belief propagation despite the current lack of a theoretical convergence guarantee.\n  We further prove that verifiable inference requires a finite concept space. Any finite verification procedure can distinguish at most finitely many concepts. Without grounding, correctness is not defined. Hallucination is not a bug that scaling can fix. It is the structural consequence of operating without concepts. Formally verified against standard mathematical axioms.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "32 points · 20 comments"
       }
     ]
   }
