@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-27T04:36:55.982Z",
+  "lastUpdated": "2026-03-28T04:24:41.406Z",
   "days": {
+    "2026-03-28": [
+      {
+        "url": "https://www.coindesk.com/markets/2026/03/27/anthropic-s-massive-claude-mythos-leak-reveals-a-new-ai-model-that-could-be-a-cybersecurity-nightmare",
+        "title": "Anthropic's 'Claude Mythos' leak sends software names sharply lower",
+        "description": "The model could significantly heighten cybersecurity risks by rapidly finding and exploiting software vulnerabilities, potentially accelerating a cyber arms race.",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b57dc1c9863e5ac05ccfaadf6ced33d7415175e6-6000x4000.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+        "source": "coindesk.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html",
+        "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
+        "description": "The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108274236-1772723676353-gettyimages-2264080846-omarques_03032026_tech_11_of_15.jpeg?v=1772723700&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://sloprank.io/",
+        "title": "Sloprank – AI-slop scoring for your GitHub repo",
+        "description": "sloprank measures how AI-slop your GitHub repo is. Algorithm + community scores from 0 to 100.",
+        "image": "https://sloprank.io/static/grafics/mascot.png?v=aa44e26102",
+        "source": "sloprank.io",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://www.theatlantic.com/international/2026/03/netanyahu-not-dead-israel-ai/686593/",
+        "title": "The Worst-Case Scenario for AI and the News Is Here",
+        "description": "Audiovisual evidence is no match for a viral conspiracy theory that Benjamin Netanyahu is dead.",
+        "image": "https://cdn.theatlantic.com/thumbor/8Z3JjJjPO8OFJAFoHBFM6Ln0EPQ=/0x62:2933x1590/1200x625/media/img/mt/2026/03/2026_03_27_Netanyahu_is_not_dead/original.jpg",
+        "source": "theatlantic.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/?_fb_noscript=1",
+        "title": "Tribe v2:A Foundation Model for How the Human Brain Processes Complex Stimuli",
+        "description": "TRIBE v2 reliably predicts high-resolution fMRI brain activity &#x2014; enabling zero-shot predictions for new subjects, languages, and tasks &#x2014; and consistently...",
+        "image": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fxyEmL66q2gQ7kNvwFOtmx1&amp;_nc_oc=AdqvBAyF2QCrTQ95mIx-An1kktMOqTi_spxn-96In8r7UANAfPKO14dHwloVnBP35HA&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-3.xx&amp;_nc_gid=fGYiSvqJsGqkNtNAcxK1Yw&amp;_nc_ss=7a30f&amp;oh=00_AfzF4Ov6T9TtqoJTKeyP9akRJ3Ifrj0_74Zg9PF1Kwk0LA&amp;oe=69E192EB",
+        "source": "ai.meta.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-03-27": [
       {
-        "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-        "title": "Agent-to-Agent Pair Programming",
-        "description": "What if you could let Claude and Codex work together as pair programmers, talking to each other directly? One of them as the main worker and the other as a reviewer.",
-        "image": "https://og-image.axeldelafosse.now.sh/**Agent-to-agent%20pair%20programming**.png?theme=dark&amp;md=1&amp;fontSize=75px&amp;widths=100&amp;heights=100",
-        "source": "axeldelafosse.com",
-        "stats": "20 points · 5 comments"
+        "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+        "title": "Anatomy of the .claude/ folder",
+        "description": "A complete guide to CLAUDE.md, custom commands, skills, agents, and permissions, and how to set them up properly.",
+        "image": "https://substackcdn.com/image/fetch/$s_!ITpM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b81cc25-df87-4ea8-a11b-9a719d5836b1_1166x1176.png",
+        "source": "blog.dailydoseofds.com",
+        "stats": "406 points · 195 comments"
       },
       {
-        "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
-        "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
-        "description": "Anthropic said it was testing the new model, which it called a &#x27;step change&#x27; in performance, after accidental data leak reveals its existence",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589651.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "7 points · 1 comments"
+        "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+        "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+        "description": "LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity",
+        "image": "https://i.guim.co.uk/img/media/c698c95ce425500a4e3856b0a7c149aec3ebcf29/394_0_4246_3397/master/4246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86f134309770e28ed011323704f6b523",
+        "source": "theguardian.com",
+        "stats": "337 points · 306 comments"
       },
       {
-        "url": "https://act.demandprogress.org/call/callpage-702-ai-surveillance/?link_id=1&can_id=3b2cebf422aaa35898d6d8ce17355809&source=email-quitgpt-update-join-us-at-no-kings-3&email_referrer=email_3164702&email_subject=quitgpt-update-join-us-at-no-kings-3&&",
-        "title": "Call your lawmakers – No AI-powered warrantless surveillance of Americans",
-        "description": "Dial this phone number: 202-953-1892 We’ll connect you to your lawmakers. You can press star to move from call to call, or if there’s no answer. Please make all the calls. When you’re connected to an office or an answering machine, you can say: &quot;I’m calling as a constituent to urge you to oppose any bill to reauthorize FISA spying until the data broker loophole is closed.&quot;",
-        "image": "https://s3.us-east-1.amazonaws.com/demandprogress/images/demandprogress-logo-facebook.png",
-        "source": "act.demandprogress.org",
-        "stats": "10 points · 1 comments"
-      },
-      {
-        "url": "https://www.theedgesingapore.com/news/artificial-intelligence/claude-ai-maker-anthropic-considers-ipo-soon-october--bloomberg",
-        "title": "Anthropic considers IPO as soon as October",
-        "description": "6 points · 0 comments",
+        "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
+        "title": "I am leaving the AI party after one drink",
+        "description": "Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…",
         "image": "",
-        "source": "theedgesingapore.com",
-        "stats": ""
+        "source": "lara-aigmueller.at",
+        "stats": "108 points · 119 comments"
       },
       {
-        "url": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
-        "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
-        "description": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning brittle parsing into efficient control flow.",
-        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7nYtVnPb4iIsJY6vbqRKg1/52c6f59b068854ba20ebe965195a9a9b/OG_Share_2Slashing_agent_token_costs_by_98-_with_structured_error_responses-OG024-2025-2026.png",
-        "source": "blog.cloudflare.com",
-        "stats": "5 points · 1 comments"
+        "url": "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226",
+        "title": "Claude loses its >99% uptime in Q1 2026",
+        "description": "claude is officially at one nine of uptime",
+        "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3sg2oatbjp4o7wd7l6ejma2q/bafkreih6z76nto5om7qkw7r5fszbvljcwd6wyps3wryf2tbxw5spfkeo7a",
+        "source": "bsky.app",
+        "stats": "82 points · 74 comments"
+      },
+      {
+        "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+        "title": "Why are executives enamored with AI, but ICs aren't?",
+        "description": "62 points · 114 comments",
+        "image": "",
+        "source": "johnjwang.com",
+        "stats": ""
       }
     ],
     "2026-03-26": [
@@ -50,15 +92,15 @@
         "description": "A federal judge in California has indefinitely blocked the Pentagon’s effort to “punish” Anthropic by labeling it a supply chain risk and attempting to sever government ties with the AI company, ruling that those measures ran roughshod over its constitutional rights.",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26057633664886-1.jpg?c=16x9&q=w_800,c_fill",
         "source": "cnn.com",
-        "stats": "313 points · 174 comments"
+        "stats": "439 points · 228 comments"
       },
       {
-        "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-        "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-        "description": "The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals",
-        "image": "https://i.guim.co.uk/img/media/3240aff7319f3056927aebc08029383d7c1d0d49/0_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07ade1e3085ff5602eff5715f67063bb",
-        "source": "theguardian.com",
-        "stats": "282 points · 134 comments"
+        "url": "https://github.com/itigges22/ATLAS",
+        "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+        "description": "Adaptive Test-time Learning and Autonomous Specialization - itigges22/ATLAS",
+        "image": "https://opengraph.githubassets.com/58765e7c9ea7af85242da8a0774fd601e56518c0acb54f3f30fd4f2948a5c024/itigges22/ATLAS",
+        "source": "github.com",
+        "stats": "463 points · 258 comments"
       },
       {
         "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
@@ -66,57 +108,33 @@
         "description": "The full Claude Code transcript from discovering and responding to the litellm 1.82.8 PyPI supply chain attack on March 24, 2026 — from mysterious process explosions to malware identification to public disclosure.",
         "image": "https://futuresearch.ai/futuresearch-logo.webp",
         "source": "futuresearch.ai",
-        "stats": "324 points · 129 comments"
-      },
-      {
-        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf",
-        "title": "Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]",
-        "description": "126 points · 19 comments",
-        "image": "",
-        "source": "storage.courtlistener.com",
-        "stats": ""
+        "stats": "427 points · 157 comments"
       },
       {
         "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
         "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-        "description": "151 points · 59 comments",
+        "description": "321 points · 94 comments",
         "image": "",
         "source": "georgelarson.me",
         "stats": ""
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+        "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+        "description": "The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals",
+        "image": "https://i.guim.co.uk/img/media/3240aff7319f3056927aebc08029383d7c1d0d49/0_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07ade1e3085ff5602eff5715f67063bb",
+        "source": "theguardian.com",
+        "stats": "307 points · 145 comments"
       }
     ],
     "2026-03-25": [
       {
-        "url": "https://www.claudescode.dev/?window=since_launch",
-        "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-        "description": "Global dashboard tracking the coding activity of Anthropic&#x27;s Claude Code agent.",
-        "image": "",
-        "source": "claudescode.dev",
-        "stats": "332 points · 222 comments"
-      },
-      {
         "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-        "description": "541 points · 154 comments",
+        "description": "557 points · 162 comments",
         "image": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg",
         "source": "research.google",
         "stats": ""
-      },
-      {
-        "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
-        "title": "Updates to GitHub Copilot interaction data usage policy",
-        "description": "From April 24 onward, interaction data from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.",
-        "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
-        "source": "github.blog",
-        "stats": "339 points · 154 comments"
-      },
-      {
-        "url": "https://ente.com/blog/ensu/",
-        "title": "Ensu – Ente’s Local LLM app",
-        "description": "Introducing Ensu, our first step toward a private, personal LLM app that runs on your device and grows with you over time.",
-        "image": "https://ente.com/og-images/ensu.png",
-        "source": "ente.com",
-        "stats": "358 points · 167 comments"
       },
       {
         "url": "https://lab.puga.com.br/cog/",
@@ -124,14 +142,38 @@
         "description": "Cog is a cognitive architecture for Claude Code. Persistent memory, self-reflection, foresight, and scenario simulation — the first layer of continuous awareness for AI agents.",
         "image": "",
         "source": "lab.puga.com.br",
-        "stats": "142 points · 46 comments"
+        "stats": "149 points · 49 comments"
+      },
+      {
+        "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+        "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+        "description": "I asked experts if I&#x27;m real. Bad news. Even my aunt wasn&#x27;t sure if I was a deepfake. AI is so convincing that a sitting prime minister struggled to prove he&#x27;s alive. You might be next.",
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0n8k8mz.jpg",
+        "source": "bbc.com",
+        "stats": "174 points · 199 comments"
+      },
+      {
+        "url": "https://github.com/ivan-magda/swift-claude-code",
+        "title": "Building a coding agent in Swift from scratch",
+        "description": "A Swift reimplementation of a Claude Code-style coding agent, built stage by stage to explore what makes coding agents work - ivan-magda/swift-claude-code",
+        "image": "https://opengraph.githubassets.com/40939357cff8686814fabea81740e2d81ed717d1624d56665c0b777e5253d5f3/ivan-magda/swift-claude-code",
+        "source": "github.com",
+        "stats": "98 points · 22 comments"
+      },
+      {
+        "url": "https://github.com/jonwiggins/optio",
+        "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+        "description": "Workflow orchestration for AI coding agents, from task to merged PR. - jonwiggins/optio",
+        "image": "https://opengraph.githubassets.com/b50f6026a45360d9db79f492797c01b33005915a96b1edec451f311cb4fac8dc/jonwiggins/optio",
+        "source": "github.com",
+        "stats": "81 points · 56 comments"
       }
     ],
     "2026-03-24": [
       {
         "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
         "title": "Goodbye to Sora",
-        "description": "1121 points · 835 comments",
+        "description": "1129 points · 846 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -140,33 +182,33 @@
         "url": "https://github.com/BerriAI/litellm/issues/24512",
         "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
         "description": "[LITELLM TEAM] - For updates from the team, please see: #24518 [Security]: CRITICAL: Malicious litellm_init.pth in litellm 1.82.8 PyPI package — credential stealer Summary The litellm==1.82.8 wheel...",
-        "image": "https://opengraph.githubassets.com/c99b642f32f07588e1a0a630db76514c24dd25bf946958f55fec0c42061944e6/BerriAI/litellm/issues/24512",
+        "image": "https://opengraph.githubassets.com/58974b82a10dc89fed1095c4c6d6a06624a094c2434d791296c3641a9584f45b/BerriAI/litellm/issues/24512",
         "source": "github.com",
-        "stats": "930 points · 492 comments"
-      },
-      {
-        "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-        "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-        "description": "Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.",
-        "image": "https://epoch.ai/assets/images/frontiermath/open-problems-cover.png",
-        "source": "epoch.ai",
-        "stats": "479 points · 696 comments"
+        "stats": "932 points · 495 comments"
       },
       {
         "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
         "title": "From zero to a RAG system: successes and failures",
-        "description": "A few months ago I was tasked with creating an internal tool for the company&#x27;s engineers: a Chat that used a local LLM. Nothing extraordinary so far. ",
-        "image": "https://img.andros.dev/k-SHogWXSvlNFGOQXG5zRnPtAyE=/600x0/filters:format(avif)/https://andros.dev/media/thumbnails/ia.png",
+        "description": "313 points · 100 comments",
+        "image": "",
         "source": "en.andros.dev",
-        "stats": "298 points · 92 comments"
+        "stats": ""
       },
       {
-        "url": "https://github.com/t8/hypura",
-        "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-        "description": "Run models too big for your Mac&#39;s memory. Contribute to t8/hypura development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/d92012804ef5ab65f1a70477840744c1f7a83ec7138ce6ae2700489e1a02b2fe/t8/hypura",
+        "url": "https://github.com/facebookresearch/hyperagents",
+        "title": "HyperAgents: Self-referential self-improving agents",
+        "description": "Self-referential self-improving agents that can optimize for any computable task - facebookresearch/HyperAgents",
+        "image": "https://opengraph.githubassets.com/8a0e3873a3be616d74d1e5bc64713b666a4ca91070e1ee0a878768e1b3a90925/facebookresearch/HyperAgents",
         "source": "github.com",
-        "stats": "220 points · 88 comments"
+        "stats": "229 points · 85 comments"
+      },
+      {
+        "url": "https://cursor.com/blog/fast-regex-search",
+        "title": "Fast regex search: indexing text for agent tools",
+        "description": "How we&#x27;re building indexes for regular expression search so agents can find text in large monorepos without the 15-second ripgrep waits.",
+        "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/fast-regex-search-og.gif",
+        "source": "cursor.com",
+        "stats": "48 points · 7 comments"
       }
     ],
     "2026-03-23": [
@@ -211,16 +253,6 @@
         "image": "https://substackcdn.com/image/fetch/$s_!KrbO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5b2e24-e74a-4ac6-9a5c-6d1a59028c1c_1600x1065.jpeg",
         "source": "chipsandcheese.com",
         "stats": "52 points · 3 comments"
-      }
-    ],
-    "2026-03-21": [
-      {
-        "url": "https://icecream95.gitlab.io/fun-with-csf-firmware.html",
-        "title": "Fun with CSF firmware (RK3588 GPU firmware)",
-        "description": "Those of us who have been trying to make use of the ",
-        "image": "",
-        "source": "icecream95.gitlab.io",
-        "stats": "66 points · 1 comments"
       }
     ]
   }
