@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-03-29T04:40:29.428Z",
+  "lastUpdated": "2026-03-30T04:48:39.393Z",
   "days": {
-    "2026-03-29": [
+    "2026-03-30": [
       {
-        "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
-        "title": "Will the AI data centre boom become a $9T bust?",
-        "description": "28 points · 32 comments",
+        "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
+        "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+        "description": "22 points · 29 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "wsj.com",
         "stats": ""
       },
       {
-        "url": "https://medium.com/ai-advances/anthropic-claude-mythos-leak-analysis-b77c1b304eb8",
-        "title": "Anthropic's Mythos leak: 3k files in a public CMS, and what the docs revealed",
-        "description": "13 points · 0 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
-      },
-      {
-        "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
-        "title": "Wikipedia officially bans AI-generated content",
-        "description": "Editors can still use AI in limited ways, such as translating articles from other languages or suggesting minor copy edits.",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/wikipedia-homepage-computer-screen-magnifying-124590520.jpg?quality=75&#038;strip=all&#038;w=1200",
-        "source": "nypost.com",
+        "url": "https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3",
+        "title": "Google employees new AI tool Agent Smith got so popular that it was restricted",
+        "description": "Google employees are playing with Agent Smith, an autonomous coding agent, as cofounder Sergey Brin pushes an agent-driven future.",
+        "image": "https://i.insider.com/69c597c7b87081653c9a65bf?width=1200&format=jpeg",
+        "source": "businessinsider.com",
         "stats": "4 points · 0 comments"
       },
       {
-        "url": "https://www.ft.com/content/3880176e-d3ac-4311-9052-fdfeaed56a0e",
-        "title": "Social media is populist and polarising; AI may be the opposite",
-        "description": "3 points · 1 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/gayawellness/anamnesis",
-        "title": "Show HN: Anamnesis – Open-source 4D strategic memory engine for AI agents",
-        "description": "4D Strategic Memory Engine for Autonomous AI Agents — store wisdom, not just facts - gayawellness/anamnesis",
-        "image": "https://opengraph.githubassets.com/657b37f7ed52f4b060d57c15e8916ebcc0e4788194cd948dc8863e4d18d29123/gayawellness/anamnesis",
+        "url": "https://github.com/wisbric/agentic-hive",
+        "title": "Agentic Hive – Manage Claude Code and Codex Tmux Sessions from a Browser",
+        "description": "Lightweight web app for managing tmux sessions across remote hosts — browser terminal + SSH command access for Claude Code, Codex, and shell sessions - wisbric/agentic-hive",
+        "image": "https://opengraph.githubassets.com/5839f816c92732b014a1d9293dbf2ac925a2303dbcdcb0874fa8204fde462b33/wisbric/agentic-hive",
         "source": "github.com",
         "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.oculisecurity.com/",
+        "title": "I built IDE-layer policy enforcement for Claude Code/Cursor agents",
+        "description": "Intercept, normalize, and control tool calls from AI coding agents. Policy enforcement for Claude Code, Cursor, and Windsurf.",
+        "image": "https://oculisecurity.com/opengraph-image?fbbf97eac7293095",
+        "source": "oculisecurity.com",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
+        "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
+        "description": "Meta&#x27;s two courtroom defeats centered on different cases but both involved allegations that the company knew about its products&#x27; harms.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1774469393&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
+    "2026-03-29": [
+      {
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "description": "Every ChatGPT message triggers a Cloudflare Turnstile program that runs silently in your browser. I decrypted 377 of these programs from network traffic and found something that goes beyond standard browser fingerprinting.\n\nThe program checks 55 properties spanning three layers: your browser (GPU, screen, fonts), the Cloudflare network (your city,",
+        "image": "",
+        "source": "buchodi.com",
+        "stats": "399 points · 296 comments"
+      },
+      {
+        "url": "https://github.com/anthropics/claude-code/issues/40710",
+        "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+        "description": "Summary Claude Code performs git fetch origin + git reset --hard origin/main on the user&#39;s project repo every 10 minutes via programmatic git operations (no external git binary spawned). This silen...",
+        "image": "https://opengraph.githubassets.com/512d28d0bbe293f73ee4e21303406c2360c50042315d2fafbf943f49a69d6f07/anthropics/claude-code/issues/40710",
+        "source": "github.com",
+        "stats": "212 points · 140 comments"
+      },
+      {
+        "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+        "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+        "description": "A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before.",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22468012-112439-still.jpg?c=16x9&q=w_800,c_fill",
+        "source": "cnn.com",
+        "stats": "374 points · 162 comments"
+      },
+      {
+        "url": "https://github.com/austin-weeks/miasma",
+        "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+        "description": "Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/fdcb400b21de531b4e080b486210dc0967610b7a4534a2588e1cc085f2627b96/austin-weeks/miasma",
+        "source": "github.com",
+        "stats": "303 points · 217 comments"
+      },
+      {
+        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+        "title": "Coding Agents Could Make Free Software Matter Again",
+        "description": "I&#039;ve been vibe-coding a lot lately.  Like, a lot a lot",
+        "image": "",
+        "source": "gjlondon.com",
+        "stats": "133 points · 123 comments"
       }
     ],
     "2026-03-28": [
       {
         "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
         "title": "AI overly affirms users asking for personal advice",
-        "description": "566 points · 433 comments",
+        "description": "760 points · 597 comments",
         "image": "",
         "source": "news.stanford.edu",
         "stats": ""
@@ -58,7 +100,15 @@
         "description": "Super-lightweight Linux sandbox for AI agents",
         "image": "",
         "source": "jai.scs.stanford.edu",
-        "stats": "585 points · 312 comments"
+        "stats": "615 points · 322 comments"
+      },
+      {
+        "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+        "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+        "description": "252 points · 173 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
       },
       {
         "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
@@ -66,20 +116,12 @@
         "description": ": Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it",
         "image": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg",
         "source": "theregister.com",
-        "stats": "263 points · 209 comments"
-      },
-      {
-        "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-        "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-        "description": "174 points · 113 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
+        "stats": "282 points · 221 comments"
       },
       {
         "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
         "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-        "description": "306 points · 136 comments",
+        "description": "325 points · 146 comments",
         "image": "",
         "source": "theopenreader.org",
         "stats": ""
@@ -92,36 +134,12 @@
         "description": "A complete guide to CLAUDE.md, custom commands, skills, agents, and permissions, and how to set them up properly.",
         "image": "https://substackcdn.com/image/fetch/$s_!ITpM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b81cc25-df87-4ea8-a11b-9a719d5836b1_1166x1176.png",
         "source": "blog.dailydoseofds.com",
-        "stats": "596 points · 252 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-        "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-        "description": "LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity",
-        "image": "https://i.guim.co.uk/img/media/c698c95ce425500a4e3856b0a7c149aec3ebcf29/394_0_4246_3397/master/4246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86f134309770e28ed011323704f6b523",
-        "source": "theguardian.com",
-        "stats": "398 points · 369 comments"
-      },
-      {
-        "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
-        "title": "I am leaving the AI party after one drink",
-        "description": "Personal website of Lara Aigmüller. Thoughts about web frontend development, music, and more…",
-        "image": "",
-        "source": "lara-aigmueller.at",
-        "stats": "119 points · 128 comments"
-      },
-      {
-        "url": "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226",
-        "title": "Claude loses its >99% uptime in Q1 2026",
-        "description": "claude is officially at one nine of uptime",
-        "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3sg2oatbjp4o7wd7l6ejma2q/bafkreih6z76nto5om7qkw7r5fszbvljcwd6wyps3wryf2tbxw5spfkeo7a",
-        "source": "bsky.app",
-        "stats": "91 points · 87 comments"
+        "stats": "612 points · 261 comments"
       },
       {
         "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
         "title": "Why are executives enamored with AI, but ICs aren't?",
-        "description": "83 points · 155 comments",
+        "description": "105 points · 168 comments",
         "image": "",
         "source": "johnjwang.com",
         "stats": ""
@@ -129,20 +147,12 @@
     ],
     "2026-03-26": [
       {
-        "url": "https://github.com/itigges22/ATLAS",
-        "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
-        "description": "Adaptive Test-time Learning and Autonomous Specialization - itigges22/ATLAS",
-        "image": "https://opengraph.githubassets.com/3f50952fbec4077bc608bdd6470f13015195cd17561d8ca273f0949c090a8890/itigges22/ATLAS",
-        "source": "github.com",
-        "stats": "479 points · 275 comments"
-      },
-      {
-        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-        "description": "331 points · 96 comments",
-        "image": "",
-        "source": "georgelarson.me",
-        "stats": ""
+        "url": "https://www.metropolitanreview.org/p/the-last-contract",
+        "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
+        "description": "William T. Vollmann&#x27;s Battle to Publish an American Epic",
+        "image": "https://substackcdn.com/image/fetch/$s_!74ob!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf0927e6-5e6d-4077-a60c-7eb246f2d110_1010x673.jpeg",
+        "source": "metropolitanreview.org",
+        "stats": "36 points · 9 comments"
       }
     ],
     "2026-03-25": [
@@ -150,9 +160,9 @@
         "url": "https://github.com/dbrll/ATTN-11",
         "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
         "description": "Paper Tape is All You Need. Contribute to dbrll/ATTN-11 development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/9c7d43c27edb0cfa74173850117618c4c51ee901b79b16223a9c10c7085caf79/dbrll/ATTN-11",
+        "image": "https://opengraph.githubassets.com/3066f5c190c88960ea9a42eff75fadc993d8073435b5500de9ff437877e5ef25/dbrll/ATTN-11",
         "source": "github.com",
-        "stats": "133 points · 23 comments"
+        "stats": "145 points · 26 comments"
       }
     ],
     "2026-03-24": [
@@ -163,40 +173,6 @@
         "image": "",
         "source": "victoriaritvo.com",
         "stats": ""
-      }
-    ],
-    "2026-03-23": [
-      {
-        "url": "https://cc.storyfox.cz",
-        "title": "Claude Code Cheat Sheet",
-        "description": "All Claude Code shortcuts, commands, flags, MCP config, memory files & env vars on one page. Auto-updated daily.",
-        "image": "",
-        "source": "cc.storyfox.cz",
-        "stats": "675 points · 188 comments"
-      },
-      {
-        "url": "https://twitter.com/anemll/status/2035901335984611412",
-        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-        "description": "706 points · 326 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://neilkakkar.com/productive-with-claude-code.html",
-        "title": "How I'm Productive with Claude Code",
-        "description": "It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like:",
-        "image": "https://neilkakkar.com/assets/images/productive-with-claude-code-cover.png",
-        "source": "neilkakkar.com",
-        "stats": "269 points · 163 comments"
-      },
-      {
-        "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-        "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-        "description": "cq explores a Stack Overflow for agents, a shared commons where agents can query past learnings, contribute new knowledge, and avoid repeating the same mistakes in isolation.",
-        "image": "https://blog.mozilla.ai/content/images/size/w1200/2026/03/mozilla-ai-cq-stack-overflow-for-agents-blog-hero-image-1200x630.png",
-        "source": "blog.mozilla.ai",
-        "stats": "217 points · 98 comments"
       }
     ]
   }
