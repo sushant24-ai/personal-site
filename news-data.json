@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-03-30T04:48:39.393Z",
+  "lastUpdated": "2026-03-31T04:39:12.756Z",
   "days": {
-    "2026-03-30": [
+    "2026-03-31": [
       {
-        "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
-        "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
-        "description": "22 points · 29 comments",
+        "url": "https://github.com/drona23/claude-token-efficient",
+        "title": "Universal Claude.md – cut Claude output tokens",
+        "description": "Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes. - drona23/claude-token-efficient",
+        "image": "https://opengraph.githubassets.com/a05c4f7cb816ba57d4c34f3cee0d57c24e4f9df4dc059defc4a1dc29d2a1e682/drona23/claude-token-efficient",
+        "source": "github.com",
+        "stats": "187 points · 72 comments"
+      },
+      {
+        "url": "https://ollama.com/blog/mlx",
+        "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+        "description": "Today, we&#39;re previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple&#39;s machine learning framework.",
+        "image": "https://ollama.com/public/og.png",
+        "source": "ollama.com",
+        "stats": "19 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/concensure/Semantic",
+        "title": "Semantic – Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
+        "description": "Semantic analysis. Contribute to concensure/Semantic development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/832b5d89abe668f33fdcdb33590edaaeff29acd760c72de24e35ac1932ef08bf/concensure/Semantic",
+        "source": "github.com",
+        "stats": "16 points · 1 comments"
+      },
+      {
+        "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7zg7h/investigating_usage_limits_hitting_faster_than/",
+        "title": "Claude usage limits hitting faster than expected",
+        "description": "5 points · 0 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "old.reddit.com",
         "stats": ""
       },
       {
-        "url": "https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3",
-        "title": "Google employees new AI tool Agent Smith got so popular that it was restricted",
-        "description": "Google employees are playing with Agent Smith, an autonomous coding agent, as cofounder Sergey Brin pushes an agent-driven future.",
-        "image": "https://i.insider.com/69c597c7b87081653c9a65bf?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://news.ycombinator.com/item?id=47582539",
+        "title": "Ask HN: Gemini CLI vs. Claude Code",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
+    "2026-03-30": [
+      {
+        "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+        "title": "Copilot edited an ad into my PR",
+        "description": "1476 points · 615 comments",
+        "image": "",
+        "source": "notes.zachmanson.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/wisbric/agentic-hive",
-        "title": "Agentic Hive – Manage Claude Code and Codex Tmux Sessions from a Browser",
-        "description": "Lightweight web app for managing tmux sessions across remote hosts — browser terminal + SSH command access for Claude Code, Codex, and shell sessions - wisbric/agentic-hive",
-        "image": "https://opengraph.githubassets.com/5839f816c92732b014a1d9293dbf2ac925a2303dbcdcb0874fa8204fde462b33/wisbric/agentic-hive",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+        "title": "How the AI Bubble Bursts",
+        "description": "The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. &#8617;",
+        "image": "https://martinvol.pe/blog/assets/images/2026-03-30-how-the-ai-bubble-bursts/cover.jpg",
+        "source": "martinvol.pe",
+        "stats": "355 points · 478 comments"
       },
       {
-        "url": "https://www.oculisecurity.com/",
-        "title": "I built IDE-layer policy enforcement for Claude Code/Cursor agents",
-        "description": "Intercept, normalize, and control tool calls from AI coding agents. Policy enforcement for Claude Code, Cursor, and Windsurf.",
-        "image": "https://oculisecurity.com/opengraph-image?fbbf97eac7293095",
-        "source": "oculisecurity.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://claude.nagdy.me/",
+        "title": "Learn Claude Code by doing, not reading",
+        "description": "11 interactive modules take you from first slash command to building plugins — with terminal simulators, config builders, and quizzes.",
+        "image": "https://claude.nagdy.me/og/default.png",
+        "source": "claude.nagdy.me",
+        "stats": "206 points · 94 comments"
       },
       {
-        "url": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
-        "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
-        "description": "Meta&#x27;s two courtroom defeats centered on different cases but both involved allegations that the company knew about its products&#x27; harms.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108267283-1771506323326-gettyimages-2261841633-AA_19022026_2660817.jpeg?v=1774469393&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+        "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+        "description": "340 points · 10 comments",
+        "image": "",
+        "source": "neowin.net",
+        "stats": ""
+      },
+      {
+        "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+        "title": "I am definitely missing the pre-AI writing era",
+        "description": "Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…",
+        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
+        "source": "lesswrong.com",
+        "stats": "299 points · 220 comments"
       }
     ],
     "2026-03-29": [
@@ -50,15 +92,7 @@
         "description": "Every ChatGPT message triggers a Cloudflare Turnstile program that runs silently in your browser. I decrypted 377 of these programs from network traffic and found something that goes beyond standard browser fingerprinting.\n\nThe program checks 55 properties spanning three layers: your browser (GPU, screen, fonts), the Cloudflare network (your city,",
         "image": "",
         "source": "buchodi.com",
-        "stats": "399 points · 296 comments"
-      },
-      {
-        "url": "https://github.com/anthropics/claude-code/issues/40710",
-        "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
-        "description": "Summary Claude Code performs git fetch origin + git reset --hard origin/main on the user&#39;s project repo every 10 minutes via programmatic git operations (no external git binary spawned). This silen...",
-        "image": "https://opengraph.githubassets.com/512d28d0bbe293f73ee4e21303406c2360c50042315d2fafbf943f49a69d6f07/anthropics/claude-code/issues/40710",
-        "source": "github.com",
-        "stats": "212 points · 140 comments"
+        "stats": "943 points · 605 comments"
       },
       {
         "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
@@ -66,93 +100,61 @@
         "description": "A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before.",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22468012-112439-still.jpg?c=16x9&q=w_800,c_fill",
         "source": "cnn.com",
-        "stats": "374 points · 162 comments"
+        "stats": "431 points · 196 comments"
+      },
+      {
+        "url": "https://github.com/anthropics/claude-code/issues/40710",
+        "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+        "description": "Update (2026-03-30): Root cause identified — this was NOT a Claude Code bug. The resets were caused by a separate tool I built that was running locally, which used GitPython to hard-reset the worki...",
+        "image": "https://opengraph.githubassets.com/5d243a6f6e8b4e25b61cb348bd44a54f6a1728b8a84162b46ba7a98aaa7bf321/anthropics/claude-code/issues/40710",
+        "source": "github.com",
+        "stats": "251 points · 195 comments"
+      },
+      {
+        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+        "title": "Coding agents could make free software matter again",
+        "description": "I&#039;ve been vibe-coding a lot lately.  Like, a lot a lot",
+        "image": "",
+        "source": "gjlondon.com",
+        "stats": "262 points · 290 comments"
       },
       {
         "url": "https://github.com/austin-weeks/miasma",
         "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
         "description": "Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/fdcb400b21de531b4e080b486210dc0967610b7a4534a2588e1cc085f2627b96/austin-weeks/miasma",
+        "image": "https://opengraph.githubassets.com/89906b917e51e9739a75e2c7ad4e902dec1149e854e217fefe000f89296faad1/austin-weeks/miasma",
         "source": "github.com",
-        "stats": "303 points · 217 comments"
-      },
-      {
-        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-        "title": "Coding Agents Could Make Free Software Matter Again",
-        "description": "I&#039;ve been vibe-coding a lot lately.  Like, a lot a lot",
-        "image": "",
-        "source": "gjlondon.com",
-        "stats": "133 points · 123 comments"
+        "stats": "340 points · 243 comments"
       }
     ],
     "2026-03-28": [
       {
         "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
         "title": "AI overly affirms users asking for personal advice",
-        "description": "760 points · 597 comments",
+        "description": "782 points · 608 comments",
         "image": "",
         "source": "news.stanford.edu",
-        "stats": ""
-      },
-      {
-        "url": "https://jai.scs.stanford.edu/",
-        "title": "Go hard on agents, not on your filesystem",
-        "description": "Super-lightweight Linux sandbox for AI agents",
-        "image": "",
-        "source": "jai.scs.stanford.edu",
-        "stats": "615 points · 322 comments"
-      },
-      {
-        "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-        "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-        "description": "252 points · 173 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-        "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-        "description": ": Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it",
-        "image": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg",
-        "source": "theregister.com",
-        "stats": "282 points · 221 comments"
-      },
-      {
-        "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-        "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-        "description": "325 points · 146 comments",
-        "image": "",
-        "source": "theopenreader.org",
         "stats": ""
       }
     ],
     "2026-03-27": [
       {
-        "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-        "title": "Anatomy of the .claude/ folder",
-        "description": "A complete guide to CLAUDE.md, custom commands, skills, agents, and permissions, and how to set them up properly.",
-        "image": "https://substackcdn.com/image/fetch/$s_!ITpM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b81cc25-df87-4ea8-a11b-9a719d5836b1_1166x1176.png",
-        "source": "blog.dailydoseofds.com",
-        "stats": "612 points · 261 comments"
-      },
-      {
-        "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
-        "title": "Why are executives enamored with AI, but ICs aren't?",
-        "description": "105 points · 168 comments",
+        "url": "https://agentsofchaos.baulab.info/report.html",
+        "title": "Agents of Chaos",
+        "description": "90 points · 10 comments",
         "image": "",
-        "source": "johnjwang.com",
+        "source": "agentsofchaos.baulab.info",
         "stats": ""
       }
     ],
     "2026-03-26": [
       {
-        "url": "https://www.metropolitanreview.org/p/the-last-contract",
-        "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
-        "description": "William T. Vollmann&#x27;s Battle to Publish an American Epic",
-        "image": "https://substackcdn.com/image/fetch/$s_!74ob!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf0927e6-5e6d-4077-a60c-7eb246f2d110_1010x673.jpeg",
-        "source": "metropolitanreview.org",
-        "stats": "36 points · 9 comments"
+        "url": "https://davidcanhelp.github.io/unit/",
+        "title": "Unit: A self-replicating Forth mesh agent running in a browser tab",
+        "description": "Multiple Forth VMs running as WebAssembly, distributing goals in your browser. No server needed.",
+        "image": "",
+        "source": "davidcanhelp.github.io",
+        "stats": "18 points · 1 comments"
       }
     ],
     "2026-03-25": [
@@ -163,16 +165,6 @@
         "image": "https://opengraph.githubassets.com/3066f5c190c88960ea9a42eff75fadc993d8073435b5500de9ff437877e5ef25/dbrll/ATTN-11",
         "source": "github.com",
         "stats": "145 points · 26 comments"
-      }
-    ],
-    "2026-03-24": [
-      {
-        "url": "https://victoriaritvo.com/blog/robust-semantle-solver/",
-        "title": "Solving Semantle with the Wrong Embeddings",
-        "description": "28 points · 0 comments",
-        "image": "",
-        "source": "victoriaritvo.com",
-        "stats": ""
       }
     ]
   }
