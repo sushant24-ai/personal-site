@@ -1,14 +1,72 @@
 {
-  "lastUpdated": "2026-03-31T04:39:12.756Z",
+  "lastUpdated": "2026-04-01T04:50:09.940Z",
   "days": {
+    "2026-04-01": [
+      {
+        "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
+        "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
+        "description": "160 points · 101 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://neuberg.ai/",
+        "title": "I built a 516-panel financial terminal in 3 weeks using AI",
+        "description": "Professional-grade financial terminal with AI-powered news analysis and real-time market data.",
+        "image": "https://neuberg.ai/og-image.png",
+        "source": "neuberg.ai",
+        "stats": "28 points · 21 comments"
+      },
+      {
+        "url": "https://twitter.com/bcherny/status/2039168928145109343",
+        "title": "Anthropic Leak Was Not Related to Bun, Just Developer Error",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+        "title": "Anthropic Is Having a Month",
+        "description": "A human really borks things at Anthropic for the second time this week.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024",
+        "source": "techcrunch.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://layer5.io/blog/engineering/the-claude-code-source-leak-512000-lines-a-missing-npmignore-and-the-fastest-growing-repo-in-github-history/",
+        "title": "Anthropic open sourced Claude Code",
+        "description": "Anthropic accidentally shipped a 59.8 MB source map in its npm package, exposing 512,000 lines of Claude Code&#x27;s TypeScript source. The community responded with clean-room rewrites, architectural deep dives, and the fastest repo to 50K stars in GitHub history.",
+        "image": "https://layer5.io/static/3b71493cd02b97f07d533842ce9af142/claude-code-source-leak.webp",
+        "source": "layer5.io",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-03-31": [
       {
-        "url": "https://github.com/drona23/claude-token-efficient",
-        "title": "Universal Claude.md – cut Claude output tokens",
-        "description": "Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes. - drona23/claude-token-efficient",
-        "image": "https://opengraph.githubassets.com/a05c4f7cb816ba57d4c34f3cee0d57c24e4f9df4dc059defc4a1dc29d2a1e682/drona23/claude-token-efficient",
-        "source": "github.com",
-        "stats": "187 points · 72 comments"
+        "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+        "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+        "description": "1933 points · 952 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "description": "Anthropic accidentally shipped a source map in their npm package, exposing the full Claude Code source. Here",
+        "image": "",
+        "source": "alex000kim.com",
+        "stats": "985 points · 383 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "title": "OpenAI closes funding round at an $852B valuation",
+        "description": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "381 points · 325 comments"
       },
       {
         "url": "https://ollama.com/blog/mlx",
@@ -16,30 +74,14 @@
         "description": "Today, we&#39;re previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple&#39;s machine learning framework.",
         "image": "https://ollama.com/public/og.png",
         "source": "ollama.com",
-        "stats": "19 points · 0 comments"
+        "stats": "610 points · 337 comments"
       },
       {
-        "url": "https://github.com/concensure/Semantic",
-        "title": "Semantic – Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
-        "description": "Semantic analysis. Contribute to concensure/Semantic development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/832b5d89abe668f33fdcdb33590edaaeff29acd760c72de24e35ac1932ef08bf/concensure/Semantic",
-        "source": "github.com",
-        "stats": "16 points · 1 comments"
-      },
-      {
-        "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7zg7h/investigating_usage_limits_hitting_faster_than/",
-        "title": "Claude usage limits hitting faster than expected",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "old.reddit.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47582539",
-        "title": "Ask HN: Gemini CLI vs. Claude Code",
-        "description": "3 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+        "title": "Microsoft: Copilot is for entertainment purposes only",
+        "description": "485 points · 177 comments",
+        "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1",
+        "source": "microsoft.com",
         "stats": ""
       }
     ],
@@ -47,18 +89,10 @@
       {
         "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
         "title": "Copilot edited an ad into my PR",
-        "description": "1476 points · 615 comments",
+        "description": "1578 points · 637 comments",
         "image": "",
         "source": "notes.zachmanson.com",
         "stats": ""
-      },
-      {
-        "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-        "title": "How the AI Bubble Bursts",
-        "description": "The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. &#8617;",
-        "image": "https://martinvol.pe/blog/assets/images/2026-03-30-how-the-ai-bubble-bursts/cover.jpg",
-        "source": "martinvol.pe",
-        "stats": "355 points · 478 comments"
       },
       {
         "url": "https://claude.nagdy.me/",
@@ -66,12 +100,20 @@
         "description": "11 interactive modules take you from first slash command to building plugins — with terminal simulators, config builders, and quizzes.",
         "image": "https://claude.nagdy.me/og/default.png",
         "source": "claude.nagdy.me",
-        "stats": "206 points · 94 comments"
+        "stats": "267 points · 108 comments"
+      },
+      {
+        "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+        "title": "How the AI Bubble Bursts",
+        "description": "The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. &#8617;",
+        "image": "https://martinvol.pe/blog/assets/images/2026-03-30-how-the-ai-bubble-bursts/cover.jpg",
+        "source": "martinvol.pe",
+        "stats": "368 points · 516 comments"
       },
       {
         "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
         "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
-        "description": "340 points · 10 comments",
+        "description": "348 points · 11 comments",
         "image": "",
         "source": "neowin.net",
         "stats": ""
@@ -82,7 +124,7 @@
         "description": "Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…",
         "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
         "source": "lesswrong.com",
-        "stats": "299 points · 220 comments"
+        "stats": "313 points · 235 comments"
       }
     ],
     "2026-03-29": [
@@ -92,56 +134,24 @@
         "description": "Every ChatGPT message triggers a Cloudflare Turnstile program that runs silently in your browser. I decrypted 377 of these programs from network traffic and found something that goes beyond standard browser fingerprinting.\n\nThe program checks 55 properties spanning three layers: your browser (GPU, screen, fonts), the Cloudflare network (your city,",
         "image": "",
         "source": "buchodi.com",
-        "stats": "943 points · 605 comments"
-      },
-      {
-        "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-        "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-        "description": "A Tennessee grandmother spent more than five months in jail after police used an AI facial recognition tool to link her to crimes committed in North Dakota – a state she says she’d never been to before.",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22468012-112439-still.jpg?c=16x9&q=w_800,c_fill",
-        "source": "cnn.com",
-        "stats": "431 points · 196 comments"
-      },
-      {
-        "url": "https://github.com/anthropics/claude-code/issues/40710",
-        "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
-        "description": "Update (2026-03-30): Root cause identified — this was NOT a Claude Code bug. The resets were caused by a separate tool I built that was running locally, which used GitPython to hard-reset the worki...",
-        "image": "https://opengraph.githubassets.com/5d243a6f6e8b4e25b61cb348bd44a54f6a1728b8a84162b46ba7a98aaa7bf321/anthropics/claude-code/issues/40710",
-        "source": "github.com",
-        "stats": "251 points · 195 comments"
-      },
-      {
-        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-        "title": "Coding agents could make free software matter again",
-        "description": "I&#039;ve been vibe-coding a lot lately.  Like, a lot a lot",
-        "image": "",
-        "source": "gjlondon.com",
-        "stats": "262 points · 290 comments"
-      },
-      {
-        "url": "https://github.com/austin-weeks/miasma",
-        "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-        "description": "Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/89906b917e51e9739a75e2c7ad4e902dec1149e854e217fefe000f89296faad1/austin-weeks/miasma",
-        "source": "github.com",
-        "stats": "340 points · 243 comments"
+        "stats": "968 points · 615 comments"
       }
     ],
     "2026-03-28": [
       {
-        "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-        "title": "AI overly affirms users asking for personal advice",
-        "description": "782 points · 608 comments",
-        "image": "",
-        "source": "news.stanford.edu",
-        "stats": ""
+        "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+        "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+        "description": "How the KV cache gives every AI conversation a physical weight in silicon, and what happens when the memory runs out.",
+        "image": "https://news.future-shock.ai/content/images/2026/03/weight-of-remembering.jpg",
+        "source": "news.future-shock.ai",
+        "stats": "98 points · 7 comments"
       }
     ],
     "2026-03-27": [
       {
         "url": "https://agentsofchaos.baulab.info/report.html",
         "title": "Agents of Chaos",
-        "description": "90 points · 10 comments",
+        "description": "132 points · 20 comments",
         "image": "",
         "source": "agentsofchaos.baulab.info",
         "stats": ""
@@ -155,16 +165,6 @@
         "image": "",
         "source": "davidcanhelp.github.io",
         "stats": "18 points · 1 comments"
-      }
-    ],
-    "2026-03-25": [
-      {
-        "url": "https://github.com/dbrll/ATTN-11",
-        "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-        "description": "Paper Tape is All You Need. Contribute to dbrll/ATTN-11 development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/3066f5c190c88960ea9a42eff75fadc993d8073435b5500de9ff437877e5ef25/dbrll/ATTN-11",
-        "source": "github.com",
-        "stats": "145 points · 26 comments"
       }
     ]
   }
