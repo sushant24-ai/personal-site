@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-04-01T04:50:09.940Z",
+  "lastUpdated": "2026-04-02T04:33:19.097Z",
   "days": {
+    "2026-04-02": [
+      {
+        "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+        "title": "The Claude Code Leak",
+        "description": "What the accidental Claude Code source code leak tells us about the real value of code, product market fit, and why integration is what actually makes software great.",
+        "image": "https://build.ms/og/2026/4/1/the-claude-code-leak.png",
+        "source": "build.ms",
+        "stats": "29 points · 12 comments"
+      },
+      {
+        "url": "https://suthakamal.substack.com/p/perplexity-says-mcp-sucks",
+        "title": "Perplexity Says MCP Sucks",
+        "description": "8 points · 1 comments",
+        "image": "",
+        "source": "suthakamal.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/ArkNill/claude-code-cache-analysis",
+        "title": "Claude Code Cache Bug Analysis",
+        "description": "Measured analysis of Claude Code cache bugs causing 10-20x token inflation on Max plans - ArkNill/claude-code-cache-analysis",
+        "image": "https://opengraph.githubassets.com/37a9a3a4a09feeeddc1978aac9461a18ef955f7feeb69a07167b9a318abd9055/ArkNill/claude-code-cache-analysis",
+        "source": "github.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://huggingface.co/arcee-ai/Trinity-Large-Thinking",
+        "title": "Arcee-AI Trinity-Large-Thinking",
+        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/arcee-ai/Trinity-Large-Thinking.png",
+        "source": "huggingface.co",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895",
+        "title": "'Think Everybody Dead': How the Threat of AI Is Fueling a New Political Alliance",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
+      }
+    ],
     "2026-04-01": [
       {
-        "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
-        "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
-        "description": "160 points · 101 comments",
+        "url": "https://ccunpacked.dev/",
+        "title": "Claude Code Unpacked : A visual guide",
+        "description": "What actually happens when you type a message into Claude Code? The agent loop, 50+ tools, multi-agent orchestration, and unreleased features, mapped from source.",
+        "image": "https://ccunpacked.dev/og-image.png",
+        "source": "ccunpacked.dev",
+        "stats": "1048 points · 370 comments"
+      },
+      {
+        "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+        "title": "The OpenAI graveyard: All the deals and products that haven't happened",
+        "description": "223 points · 187 comments",
         "image": "",
-        "source": "old.reddit.com",
+        "source": "forbes.com",
         "stats": ""
       },
       {
-        "url": "https://neuberg.ai/",
-        "title": "I built a 516-panel financial terminal in 3 weeks using AI",
-        "description": "Professional-grade financial terminal with AI-powered news analysis and real-time market data.",
-        "image": "https://neuberg.ai/og-image.png",
-        "source": "neuberg.ai",
-        "stats": "28 points · 21 comments"
+        "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+        "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
+        "description": "Publications from Calif. Contribute to califio/publications development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/e1fda6f2a1b0e95b5c16446815d45fb119c3e3a586c536045ee68a2c71bed27b/califio/publications",
+        "source": "github.com",
+        "stats": "256 points · 101 comments"
       },
       {
-        "url": "https://twitter.com/bcherny/status/2039168928145109343",
-        "title": "Anthropic Leak Was Not Related to Bun, Just Developer Error",
-        "description": "5 points · 0 comments",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
+        "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
+        "description": "134 points · 59 comments",
         "image": "",
-        "source": "twitter.com",
+        "source": "bloomberg.com",
         "stats": ""
       },
       {
-        "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-        "title": "Anthropic Is Having a Month",
-        "description": "A human really borks things at Anthropic for the second time this week.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024",
-        "source": "techcrunch.com",
-        "stats": "5 points · 0 comments"
-      },
-      {
-        "url": "https://layer5.io/blog/engineering/the-claude-code-source-leak-512000-lines-a-missing-npmignore-and-the-fastest-growing-repo-in-github-history/",
-        "title": "Anthropic open sourced Claude Code",
-        "description": "Anthropic accidentally shipped a 59.8 MB source map in its npm package, exposing 512,000 lines of Claude Code&#x27;s TypeScript source. The community responded with clean-room rewrites, architectural deep dives, and the fastest repo to 50K stars in GitHub history.",
-        "image": "https://layer5.io/static/3b71493cd02b97f07d533842ce9af142/claude-code-source-leak.webp",
-        "source": "layer5.io",
-        "stats": "3 points · 0 comments"
+        "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+        "title": "AI for American-produced cement and concrete",
+        "description": "Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…",
+        "image": "https://engineering.fb.com/wp-content/uploads/2026/03/Meta-AI-for-American-Concrete-HERO.jpg",
+        "source": "engineering.fb.com",
+        "stats": "171 points · 109 comments"
       }
     ],
     "2026-03-31": [
       {
         "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
         "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-        "description": "1933 points · 952 comments",
+        "description": "2051 points · 1003 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "Anthropic accidentally shipped a source map in their npm package, exposing the full Claude Code source. Here",
         "image": "",
         "source": "alex000kim.com",
-        "stats": "985 points · 383 comments"
+        "stats": "1346 points · 552 comments"
       },
       {
         "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
@@ -66,7 +108,7 @@
         "description": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.",
         "image": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "381 points · 325 comments"
+        "stats": "515 points · 485 comments"
       },
       {
         "url": "https://ollama.com/blog/mlx",
@@ -74,12 +116,12 @@
         "description": "Today, we&#39;re previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple&#39;s machine learning framework.",
         "image": "https://ollama.com/public/og.png",
         "source": "ollama.com",
-        "stats": "610 points · 337 comments"
+        "stats": "633 points · 353 comments"
       },
       {
         "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
         "title": "Microsoft: Copilot is for entertainment purposes only",
-        "description": "485 points · 177 comments",
+        "description": "566 points · 196 comments",
         "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1",
         "source": "microsoft.com",
         "stats": ""
@@ -144,7 +186,7 @@
         "description": "How the KV cache gives every AI conversation a physical weight in silicon, and what happens when the memory runs out.",
         "image": "https://news.future-shock.ai/content/images/2026/03/weight-of-remembering.jpg",
         "source": "news.future-shock.ai",
-        "stats": "98 points · 7 comments"
+        "stats": "155 points · 11 comments"
       }
     ],
     "2026-03-27": [
@@ -155,16 +197,6 @@
         "image": "",
         "source": "agentsofchaos.baulab.info",
         "stats": ""
-      }
-    ],
-    "2026-03-26": [
-      {
-        "url": "https://davidcanhelp.github.io/unit/",
-        "title": "Unit: A self-replicating Forth mesh agent running in a browser tab",
-        "description": "Multiple Forth VMs running as WebAssembly, distributing goals in your browser. No server needed.",
-        "image": "",
-        "source": "davidcanhelp.github.io",
-        "stats": "18 points · 1 comments"
       }
     ]
   }
