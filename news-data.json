@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-02T04:33:19.097Z",
+  "lastUpdated": "2026-04-03T04:33:22.462Z",
   "days": {
+    "2026-04-03": [
+      {
+        "url": "https://vercel.link/security-checkpoint",
+        "title": "Website owner? Click here to fix",
+        "description": "Discover solutions through our documentation, guides, and community.",
+        "image": "https://assets.vercel.com/image/upload/q_auto/front/help/og-image-geist.png",
+        "source": "vercel.link",
+        "stats": ""
+      }
+    ],
     "2026-04-02": [
       {
         "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
@@ -187,16 +197,6 @@
         "image": "https://news.future-shock.ai/content/images/2026/03/weight-of-remembering.jpg",
         "source": "news.future-shock.ai",
         "stats": "155 points · 11 comments"
-      }
-    ],
-    "2026-03-27": [
-      {
-        "url": "https://agentsofchaos.baulab.info/report.html",
-        "title": "Agents of Chaos",
-        "description": "132 points · 20 comments",
-        "image": "",
-        "source": "agentsofchaos.baulab.info",
-        "stats": ""
       }
     ]
   }
