@@ -1,98 +1,140 @@
 {
-  "lastUpdated": "2026-04-03T04:33:22.462Z",
+  "lastUpdated": "2026-04-04T04:22:01.136Z",
   "days": {
-    "2026-04-03": [
+    "2026-04-04": [
       {
-        "url": "https://vercel.link/security-checkpoint",
-        "title": "Website owner? Click here to fix",
-        "description": "Discover solutions through our documentation, guides, and community.",
-        "image": "https://assets.vercel.com/image/upload/q_auto/front/help/og-image-geist.png",
-        "source": "vercel.link",
-        "stats": ""
-      }
-    ],
-    "2026-04-02": [
-      {
-        "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-        "title": "The Claude Code Leak",
-        "description": "What the accidental Claude Code source code leak tells us about the real value of code, product market fit, and why integration is what actually makes software great.",
-        "image": "https://build.ms/og/2026/4/1/the-claude-code-leak.png",
-        "source": "build.ms",
-        "stats": "29 points · 12 comments"
-      },
-      {
-        "url": "https://suthakamal.substack.com/p/perplexity-says-mcp-sucks",
-        "title": "Perplexity Says MCP Sucks",
-        "description": "8 points · 1 comments",
-        "image": "",
-        "source": "suthakamal.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/ArkNill/claude-code-cache-analysis",
-        "title": "Claude Code Cache Bug Analysis",
-        "description": "Measured analysis of Claude Code cache bugs causing 10-20x token inflation on Max plans - ArkNill/claude-code-cache-analysis",
-        "image": "https://opengraph.githubassets.com/37a9a3a4a09feeeddc1978aac9461a18ef955f7feeb69a07167b9a318abd9055/ArkNill/claude-code-cache-analysis",
+        "url": "https://github.com/borski/travel-hacking-toolkit",
+        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+        "description": "AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit",
+        "image": "https://opengraph.githubassets.com/9d0dda03b99ede664e7121974a0fca72d0efa86e674cc818b0bf7758c13b2bdd/borski/travel-hacking-toolkit",
         "source": "github.com",
-        "stats": "5 points · 1 comments"
+        "stats": "33 points · 9 comments"
       },
       {
-        "url": "https://huggingface.co/arcee-ai/Trinity-Large-Thinking",
-        "title": "Arcee-AI Trinity-Large-Thinking",
-        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/arcee-ai/Trinity-Large-Thinking.png",
-        "source": "huggingface.co",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://www.politico.com/news/magazine/2026/04/01/silicon-valley-bernie-sanders-ai-coalition-00850895",
-        "title": "'Think Everybody Dead': How the Threat of AI Is Fueling a New Political Alliance",
-        "description": "3 points · 1 comments",
-        "image": "",
-        "source": "politico.com",
-        "stats": ""
-      }
-    ],
-    "2026-04-01": [
-      {
-        "url": "https://ccunpacked.dev/",
-        "title": "Claude Code Unpacked : A visual guide",
-        "description": "What actually happens when you type a message into Claude Code? The agent loop, 50+ tools, multi-agent orchestration, and unreleased features, mapped from source.",
-        "image": "https://ccunpacked.dev/og-image.png",
-        "source": "ccunpacked.dev",
-        "stats": "1048 points · 370 comments"
-      },
-      {
-        "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
-        "title": "The OpenAI graveyard: All the deals and products that haven't happened",
-        "description": "223 points · 187 comments",
+        "url": "https://www.forbes.com/sites/josipamajic/2026/04/02/openai-cap-table-leak-reveals-microsofts-18x-return-softbanks-50b-gain-and-a-ceo-who-owns-nothing/",
+        "title": "OpenAI Cap Table leak reveals Microsoft's 18x return",
+        "description": "18 points · 0 comments",
         "image": "",
         "source": "forbes.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-        "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
-        "description": "Publications from Calif. Contribute to califio/publications development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/e1fda6f2a1b0e95b5c16446815d45fb119c3e3a586c536045ee68a2c71bed27b/califio/publications",
-        "source": "github.com",
-        "stats": "256 points · 101 comments"
+        "url": "https://nypost.com/2026/04/03/business/meta-lays-off-hundreds-after-ceo-mark-zuckerberg-said-ai-can-replace-teams/",
+        "title": "Meta lays off hundreds as tech giant pushes forward with AI investment",
+        "description": "The Facebook parent company will cut nearly 200 workers in the Bay Area, according to newly surfaced state filings.",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/124940218.jpg?quality=75&#038;strip=all&#038;w=1200",
+        "source": "nypost.com",
+        "stats": "8 points · 1 comments"
       },
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
-        "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
-        "description": "134 points · 59 comments",
+        "url": "https://twitter.com/Tiny_Fish/status/2040256448572334579",
+        "title": "MCP vs. CLI: Why CLI makes more sense",
+        "description": "6 points · 0 comments",
         "image": "",
-        "source": "bloomberg.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-        "title": "AI for American-produced cement and concrete",
-        "description": "Meta is continuing its long-term roadmap to help the construction industry leverage AI to produce high-quality and more sustainable concrete mixes, as well as those exclusively produced in the Unit…",
-        "image": "https://engineering.fb.com/wp-content/uploads/2026/03/Meta-AI-for-American-Concrete-HERO.jpg",
-        "source": "engineering.fb.com",
-        "stats": "171 points · 109 comments"
+        "url": "https://www.youtube.com/watch?v=IeGkdDygfe4",
+        "title": "Thomistic prompt chain jailbreaks Gemini self-recognition-12 steps, no code",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
+    "2026-04-03": [
+      {
+        "url": "https://news.ycombinator.com/item?id=47633396",
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "description": "405 points · 403 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://apfel.franzai.com",
+        "title": "Show HN: Apfel – The free AI already on your Mac",
+        "description": "Use Apple",
+        "image": "https://apfel.franzai.com/og.png",
+        "source": "apfel.franzai.com",
+        "stats": "653 points · 139 comments"
+      },
+      {
+        "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "description": "April 2026 TLDR setup for Ollama + Gemma 4 12B on a Mac mini (Apple Silicon) — auto-start, preload, and keep-alive - how-to-setup-ollama-on-a-macmini.md",
+        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+        "source": "gist.github.com",
+        "stats": "297 points · 116 comments"
+      },
+      {
+        "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+        "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+        "description": "51 points · 45 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+        "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+        "description": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+        "source": "arstechnica.com",
+        "stats": "126 points · 10 comments"
+      }
+    ],
+    "2026-04-02": [
+      {
+        "url": "https://qwen.ai/blog?id=qwen3.6",
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+        "image": "",
+        "source": "qwen.ai",
+        "stats": "574 points · 200 comments"
+      },
+      {
+        "url": "https://lemonade-server.ai",
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "description": "549 points · 111 comments",
+        "image": "",
+        "source": "lemonade-server.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://openai.com/index/openai-acquires-tbpn/",
+        "title": "OpenAI Acquires TBPN",
+        "description": "234 points · 190 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "description": "We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.",
+        "image": "https://www.mintlify.com/images/featured/how-we-built-a-virtual-filesystem-for-our-assistant.png",
+        "source": "mintlify.com",
+        "stats": "248 points · 106 comments"
+      },
+      {
+        "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+        "title": "r/programming bans all discussion of LLM programming",
+        "description": "191 points · 210 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      }
+    ],
+    "2026-04-01": [
+      {
+        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+        "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company&#039;s systems.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "147 points · 45 comments"
       }
     ],
     "2026-03-31": [
@@ -187,16 +229,6 @@
         "image": "",
         "source": "buchodi.com",
         "stats": "968 points · 615 comments"
-      }
-    ],
-    "2026-03-28": [
-      {
-        "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-        "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-        "description": "How the KV cache gives every AI conversation a physical weight in silicon, and what happens when the memory runs out.",
-        "image": "https://news.future-shock.ai/content/images/2026/03/weight-of-remembering.jpg",
-        "source": "news.future-shock.ai",
-        "stats": "155 points · 11 comments"
       }
     ]
   }
