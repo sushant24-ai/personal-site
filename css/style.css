@@ -957,6 +957,14 @@ pre code {
     margin-bottom: 0.75rem;
 }
 
+.bento-desc {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.65;
+    margin-bottom: 0.75rem;
+    max-width: 480px;
+}
+
 .bento-typewriter {
     font-family: var(--font-mono);
     font-size: 0.82rem;
