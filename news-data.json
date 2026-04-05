@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-04-04T04:22:01.136Z",
+  "lastUpdated": "2026-04-05T04:40:47.015Z",
   "days": {
-    "2026-04-04": [
+    "2026-04-05": [
       {
-        "url": "https://github.com/borski/travel-hacking-toolkit",
-        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-        "description": "AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit",
-        "image": "https://opengraph.githubassets.com/9d0dda03b99ede664e7121974a0fca72d0efa86e674cc818b0bf7758c13b2bdd/borski/travel-hacking-toolkit",
-        "source": "github.com",
-        "stats": "33 points · 9 comments"
-      },
-      {
-        "url": "https://www.forbes.com/sites/josipamajic/2026/04/02/openai-cap-table-leak-reveals-microsofts-18x-return-softbanks-50b-gain-and-a-ceo-who-owns-nothing/",
-        "title": "OpenAI Cap Table leak reveals Microsoft's 18x return",
-        "description": "18 points · 0 comments",
+        "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+        "title": "Writing Lisp Is AI Resistant and I'm Sad",
+        "description": "33 points · 21 comments",
         "image": "",
-        "source": "forbes.com",
+        "source": "blog.djhaskin.com",
         "stats": ""
       },
       {
-        "url": "https://nypost.com/2026/04/03/business/meta-lays-off-hundreds-after-ceo-mark-zuckerberg-said-ai-can-replace-teams/",
-        "title": "Meta lays off hundreds as tech giant pushes forward with AI investment",
-        "description": "The Facebook parent company will cut nearly 200 workers in the Bay Area, according to newly surfaced state filings.",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/124940218.jpg?quality=75&#038;strip=all&#038;w=1200",
-        "source": "nypost.com",
-        "stats": "8 points · 1 comments"
-      },
-      {
-        "url": "https://twitter.com/Tiny_Fish/status/2040256448572334579",
-        "title": "MCP vs. CLI: Why CLI makes more sense",
-        "description": "6 points · 0 comments",
+        "url": "https://twitter.com/VladTheInflator/status/2039577001531768906",
+        "title": "AI that copied musical artist files copyright claim against that artist",
+        "description": "18 points · 3 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://www.youtube.com/watch?v=IeGkdDygfe4",
-        "title": "Thomistic prompt chain jailbreaks Gemini self-recognition-12 steps, no code",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html",
+        "title": "A broken auto-live poller, and what perceived urgency does to Claude Code",
+        "description": "A broken auto-live poller, and what perceived urgency does to Claude Code",
         "image": "",
-        "source": "youtube.com",
+        "source": "christophermeiklejohn.com",
         "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41586-026-10265-5",
+        "title": "Towards end-to-end automation of AI research",
+        "description": "An artificial intelligence system can produce research papers with minimal human involvement, even passing the first round of peer review for the workshop of a main machine learning conference.",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
+        "source": "nature.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://opncd.ai/share/W7nlxn8C",
+        "title": "Kimi's response to \"hello. what are you\" is \"I'm Claude \"",
+        "description": "3 points · 4 comments",
+        "image": "",
+        "source": "opncd.ai",
+        "stats": ""
+      }
+    ],
+    "2026-04-04": [
+      {
+        "url": "https://jaso1024.com/mvidia/",
+        "title": "Show HN: A game where you build a GPU",
+        "description": "575 points · 144 comments",
+        "image": "",
+        "source": "jaso1024.com",
+        "stats": ""
+      },
+      {
+        "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "description": "A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.",
+        "image": "",
+        "source": "teybannerman.com",
+        "stats": "488 points · 244 comments"
+      },
+      {
+        "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+        "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+        "description": "Did hell freeze over? Not quite: the driver belongs to Tiny Corp, not Nvidia, you’ll have to compile it with Docker rather than plug-and-play, and it’s designed for LLMs. But you no longer need to disable Apple’s System Integrity Protection (SIP), because Apple is letting that driver get signed, Tiny says.\n[Image: Apple finally approved our driver for both AMD and NVIDIA,” Tiny writes. https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/HEy9-blbAAABy-J.jpg?quality=90&amp;strip=all]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/HEy9-blbAAABy-J.jpg?quality=90&amp;strip=all&amp;crop=0%2C35.021989528796%2C100%2C52.356020942408&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "392 points · 174 comments"
+      },
+      {
+        "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+        "title": "Components of a Coding Agent",
+        "description": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
+        "image": "https://substackcdn.com/image/fetch/$s_!_g0S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b97718-57f4-4977-99c8-8ad5c4d32af3_1548x862.png",
+        "source": "magazine.sebastianraschka.com",
+        "stats": "191 points · 66 comments"
+      },
+      {
+        "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+        "title": "12k AI-generated blog posts added in a single commit",
+        "description": "…k/Ceph, and Dapr\n\nComplete all topics from Todo.md including SQL functions, configuration guides,\ntroubleshooting runbooks, architecture comparisons, SDK tutorials, and operator\ndeployment pattern...",
+        "image": "https://opengraph.githubassets.com/6020e91f9a9f01c2c48c5c101115df56a9e5d0f86a9aca70924d93c40ce915bb/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+        "source": "github.com",
+        "stats": "143 points · 142 comments"
       }
     ],
     "2026-04-03": [
       {
         "url": "https://news.ycombinator.com/item?id=47633396",
         "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-        "description": "405 points · 403 comments",
+        "description": "1042 points · 787 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -58,7 +100,15 @@
         "description": "Use Apple",
         "image": "https://apfel.franzai.com/og.png",
         "source": "apfel.franzai.com",
-        "stats": "653 points · 139 comments"
+        "stats": "711 points · 145 comments"
+      },
+      {
+        "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+        "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+        "description": "\n    Claude Code has gotten extremely good at finding security vulnerabilities, and this is only the beginning.\n  ",
+        "image": "https://mtlynch.io/claude-code-found-linux-vulnerability/model-effectiveness.png",
+        "source": "mtlynch.io",
+        "stats": "377 points · 240 comments"
       },
       {
         "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
@@ -66,23 +116,15 @@
         "description": "April 2026 TLDR setup for Ollama + Gemma 4 12B on a Mac mini (Apple Silicon) — auto-start, preload, and keep-alive - how-to-setup-ollama-on-a-macmini.md",
         "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
         "source": "gist.github.com",
-        "stats": "297 points · 116 comments"
+        "stats": "316 points · 119 comments"
       },
       {
-        "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
-        "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
-        "description": "51 points · 45 comments",
-        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-        "source": "support.claude.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-        "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-        "description": "GDDRHammer, GeForge and GPUBreach hammer GPU memory in ways that hijack the CPU.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+        "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+        "description": "Experiments show large majorities uncritically accepting &quot;faulty&quot; AI answers.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-1152x648.jpg",
         "source": "arstechnica.com",
-        "stats": "126 points · 10 comments"
+        "stats": "96 points · 39 comments"
       }
     ],
     "2026-04-02": [
@@ -92,22 +134,14 @@
         "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
         "image": "",
         "source": "qwen.ai",
-        "stats": "574 points · 200 comments"
+        "stats": "585 points · 207 comments"
       },
       {
         "url": "https://lemonade-server.ai",
         "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-        "description": "549 points · 111 comments",
+        "description": "564 points · 113 comments",
         "image": "",
         "source": "lemonade-server.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://openai.com/index/openai-acquires-tbpn/",
-        "title": "OpenAI Acquires TBPN",
-        "description": "234 points · 190 comments",
-        "image": "",
-        "source": "openai.com",
         "stats": ""
       },
       {
@@ -116,25 +150,57 @@
         "description": "We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.",
         "image": "https://www.mintlify.com/images/featured/how-we-built-a-virtual-filesystem-for-our-assistant.png",
         "source": "mintlify.com",
-        "stats": "248 points · 106 comments"
+        "stats": "392 points · 147 comments"
       },
       {
-        "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
-        "title": "r/programming bans all discussion of LLM programming",
-        "description": "191 points · 210 comments",
+        "url": "https://openai.com/index/openai-acquires-tbpn/",
+        "title": "OpenAI Acquires TBPN",
+        "description": "238 points · 190 comments",
         "image": "",
-        "source": "old.reddit.com",
+        "source": "openai.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.irregular.com/publications/vibe-password-generation",
+        "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
+        "description": "LLM-generated passwords appear strong, but are fundamentally insecure. Testing across GPT, Claude, and Gemini revealed highly predictable patterns: repeated passwords across runs, skewed character distributions, and dramatically lower entropy than expected. Coding agents compound the problem by sometimes preferring and using LLM-generated passwords without the user’s knowledge. We recommend avoiding LLM-generated passwords and directing both models and coding agents to use secure password generation methods instead.",
+        "image": "https://framerusercontent.com/images/fVNMWw3KT6LQJrjgPpUEKyOEY.png",
+        "source": "irregular.com",
+        "stats": "18 points · 24 comments"
       }
     ],
     "2026-04-01": [
+      {
+        "url": "https://news.ycombinator.com/item?id=47606244",
+        "title": "Training mRNA Language Models Across 25 Species for $165",
+        "description": "135 points · 30 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
       {
         "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
         "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
         "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company&#039;s systems.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "147 points · 45 comments"
+        "stats": "150 points · 45 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+        "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+        "description": "67 points · 61 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
+        "title": "Functional programming accellerates agentic feature development",
+        "description": "AI agents fail in production because of mutable state, hidden dependencies, and side effects the agent can",
+        "image": "https://cyrusradfar.com/images/posts/functional-programming-is-the-only-way-to-scale-with-ai/og.gif",
+        "source": "cyrusradfar.com",
+        "stats": "30 points · 15 comments"
       }
     ],
     "2026-03-31": [
@@ -219,16 +285,6 @@
         "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
         "source": "lesswrong.com",
         "stats": "313 points · 235 comments"
-      }
-    ],
-    "2026-03-29": [
-      {
-        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-        "description": "Every ChatGPT message triggers a Cloudflare Turnstile program that runs silently in your browser. I decrypted 377 of these programs from network traffic and found something that goes beyond standard browser fingerprinting.\n\nThe program checks 55 properties spanning three layers: your browser (GPU, screen, fonts), the Cloudflare network (your city,",
-        "image": "",
-        "source": "buchodi.com",
-        "stats": "968 points · 615 comments"
       }
     ]
   }
