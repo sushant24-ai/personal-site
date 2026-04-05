@@ -1,202 +1,290 @@
 {
-  "lastUpdated": "2026-02-26T05:45:42.037Z",
+  "lastUpdated": "2026-04-05T04:40:47.015Z",
   "days": {
-    "2026-02-26": [
+    "2026-04-05": [
       {
-        "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/",
-        "title": "The Hater's Guide to Anthropic",
-        "description": "In May 2021, Dario Amodei and a crew of other former OpenAI researchers formed Anthropic and dedicated themselves to building the single-most-annoying Large Language Model company of all time. \n\nPardon me, sorry, I mean safest, because that’s the reason that Amodei and his crew claimed was why they left",
-        "image": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
-        "source": "wheresyoured.at",
-        "stats": "24 points · 6 comments"
+        "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+        "title": "Writing Lisp Is AI Resistant and I'm Sad",
+        "description": "33 points · 21 comments",
+        "image": "",
+        "source": "blog.djhaskin.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/Zyora-Dev/zse",
-        "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
-        "description": "Zyora Server Inference Engine for LLM . . Contribute to Zyora-Dev/zse development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/501351386a5347526c0fdecc31f4bb39b0834136224325e68382c196a6641815/Zyora-Dev/zse",
-        "source": "github.com",
-        "stats": "34 points · 1 comments"
-      },
-      {
-        "url": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/",
-        "title": "DeepSeek withholds latest AI model from Nvidia, AMD",
+        "url": "https://twitter.com/VladTheInflator/status/2039577001531768906",
+        "title": "AI that copied musical artist files copyright claim against that artist",
         "description": "18 points · 3 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/Intrect-io/OpenSwarm",
-        "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
-        "description": "OpenSwarm, CLI Code Agent Orchstrator. Contribute to Intrect-io/OpenSwarm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/2a47b106bb2c45afeba25726708d32ecfa42439c397867b26cebe8c2dc766205/Intrect-io/OpenSwarm",
-        "source": "github.com",
-        "stats": "15 points · 3 comments"
+        "url": "https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html",
+        "title": "A broken auto-live poller, and what perceived urgency does to Claude Code",
+        "description": "A broken auto-live poller, and what perceived urgency does to Claude Code",
+        "image": "",
+        "source": "christophermeiklejohn.com",
+        "stats": "4 points · 0 comments"
       },
       {
-        "url": "https://twitter.com/gothburz/status/2026810017593057739",
-        "title": "We left OpenAI because of safety",
-        "description": "9 points · 3 comments",
+        "url": "https://www.nature.com/articles/s41586-026-10265-5",
+        "title": "Towards end-to-end automation of AI research",
+        "description": "An artificial intelligence system can produce research papers with minimal human involvement, even passing the first round of peer review for the workshop of a main machine learning conference.",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
+        "source": "nature.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://opncd.ai/share/W7nlxn8C",
+        "title": "Kimi's response to \"hello. what are you\" is \"I'm Claude \"",
+        "description": "3 points · 4 comments",
+        "image": "",
+        "source": "opncd.ai",
+        "stats": ""
+      }
+    ],
+    "2026-04-04": [
+      {
+        "url": "https://jaso1024.com/mvidia/",
+        "title": "Show HN: A game where you build a GPU",
+        "description": "575 points · 144 comments",
+        "image": "",
+        "source": "jaso1024.com",
+        "stats": ""
+      },
+      {
+        "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "description": "A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.",
+        "image": "",
+        "source": "teybannerman.com",
+        "stats": "488 points · 244 comments"
+      },
+      {
+        "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+        "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+        "description": "Did hell freeze over? Not quite: the driver belongs to Tiny Corp, not Nvidia, you’ll have to compile it with Docker rather than plug-and-play, and it’s designed for LLMs. But you no longer need to disable Apple’s System Integrity Protection (SIP), because Apple is letting that driver get signed, Tiny says.\n[Image: Apple finally approved our driver for both AMD and NVIDIA,” Tiny writes. https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/HEy9-blbAAABy-J.jpg?quality=90&amp;strip=all]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/HEy9-blbAAABy-J.jpg?quality=90&amp;strip=all&amp;crop=0%2C35.021989528796%2C100%2C52.356020942408&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "392 points · 174 comments"
+      },
+      {
+        "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+        "title": "Components of a Coding Agent",
+        "description": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
+        "image": "https://substackcdn.com/image/fetch/$s_!_g0S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b97718-57f4-4977-99c8-8ad5c4d32af3_1548x862.png",
+        "source": "magazine.sebastianraschka.com",
+        "stats": "191 points · 66 comments"
+      },
+      {
+        "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+        "title": "12k AI-generated blog posts added in a single commit",
+        "description": "…k/Ceph, and Dapr\n\nComplete all topics from Todo.md including SQL functions, configuration guides,\ntroubleshooting runbooks, architecture comparisons, SDK tutorials, and operator\ndeployment pattern...",
+        "image": "https://opengraph.githubassets.com/6020e91f9a9f01c2c48c5c101115df56a9e5d0f86a9aca70924d93c40ce915bb/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+        "source": "github.com",
+        "stats": "143 points · 142 comments"
+      }
+    ],
+    "2026-04-03": [
+      {
+        "url": "https://news.ycombinator.com/item?id=47633396",
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "description": "1042 points · 787 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://apfel.franzai.com",
+        "title": "Show HN: Apfel – The free AI already on your Mac",
+        "description": "Use Apple",
+        "image": "https://apfel.franzai.com/og.png",
+        "source": "apfel.franzai.com",
+        "stats": "711 points · 145 comments"
+      },
+      {
+        "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+        "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+        "description": "\n    Claude Code has gotten extremely good at finding security vulnerabilities, and this is only the beginning.\n  ",
+        "image": "https://mtlynch.io/claude-code-found-linux-vulnerability/model-effectiveness.png",
+        "source": "mtlynch.io",
+        "stats": "377 points · 240 comments"
+      },
+      {
+        "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "description": "April 2026 TLDR setup for Ollama + Gemma 4 12B on a Mac mini (Apple Silicon) — auto-start, preload, and keep-alive - how-to-setup-ollama-on-a-macmini.md",
+        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+        "source": "gist.github.com",
+        "stats": "316 points · 119 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+        "description": "Experiments show large majorities uncritically accepting &quot;faulty&quot; AI answers.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "96 points · 39 comments"
+      }
+    ],
+    "2026-04-02": [
+      {
+        "url": "https://qwen.ai/blog?id=qwen3.6",
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+        "image": "",
+        "source": "qwen.ai",
+        "stats": "585 points · 207 comments"
+      },
+      {
+        "url": "https://lemonade-server.ai",
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "description": "564 points · 113 comments",
+        "image": "",
+        "source": "lemonade-server.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "description": "We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.",
+        "image": "https://www.mintlify.com/images/featured/how-we-built-a-virtual-filesystem-for-our-assistant.png",
+        "source": "mintlify.com",
+        "stats": "392 points · 147 comments"
+      },
+      {
+        "url": "https://openai.com/index/openai-acquires-tbpn/",
+        "title": "OpenAI Acquires TBPN",
+        "description": "238 points · 190 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.irregular.com/publications/vibe-password-generation",
+        "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
+        "description": "LLM-generated passwords appear strong, but are fundamentally insecure. Testing across GPT, Claude, and Gemini revealed highly predictable patterns: repeated passwords across runs, skewed character distributions, and dramatically lower entropy than expected. Coding agents compound the problem by sometimes preferring and using LLM-generated passwords without the user’s knowledge. We recommend avoiding LLM-generated passwords and directing both models and coding agents to use secure password generation methods instead.",
+        "image": "https://framerusercontent.com/images/fVNMWw3KT6LQJrjgPpUEKyOEY.png",
+        "source": "irregular.com",
+        "stats": "18 points · 24 comments"
+      }
+    ],
+    "2026-04-01": [
+      {
+        "url": "https://news.ycombinator.com/item?id=47606244",
+        "title": "Training mRNA Language Models Across 25 Species for $165",
+        "description": "135 points · 30 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+        "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company&#039;s systems.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "150 points · 45 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+        "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+        "description": "67 points · 61 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
+        "title": "Functional programming accellerates agentic feature development",
+        "description": "AI agents fail in production because of mutable state, hidden dependencies, and side effects the agent can",
+        "image": "https://cyrusradfar.com/images/posts/functional-programming-is-the-only-way-to-scale-with-ai/og.gif",
+        "source": "cyrusradfar.com",
+        "stats": "30 points · 15 comments"
+      }
+    ],
+    "2026-03-31": [
+      {
+        "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+        "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+        "description": "2051 points · 1003 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
-      }
-    ],
-    "2026-02-25": [
-      {
-        "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
-        "title": "Anthropic Drops Flagship Safety Pledge",
-        "description": "In an abrupt shift, the company may release future AI models without ironclad safety guarantees",
-        "image": "https://api.time.com/wp-content/uploads/2026/02/Anthropic.jpg?quality=85&amp;w=1200&amp;h=628&amp;crop=1",
-        "source": "time.com",
-        "stats": "619 points · 296 comments"
       },
       {
-        "url": "https://code.claude.com/docs/en/remote-control",
-        "title": "Claude Code Remote Control",
-        "description": "Continue a local Claude Code session from your phone, tablet, or any browser using Remote Control. Works with claude.ai/code and the Claude mobile app.",
-        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DPlatforms%2Band%2Bintegrations%26appearance%3Dsystem%26title%3DContinue%2Blocal%2Bsessions%2Bfrom%2Bany%2Bdevice%2Bwith%2BRemote%2BControl%26description%3DContinue%2Ba%2Blocal%2BClaude%2BCode%2Bsession%2Bfrom%2Byour%2Bphone%252C%2Btablet%252C%2Bor%2Bany%2Bbrowser%2Busing%2BRemote%2BControl.%2BWorks%2Bwith%2Bclaude.ai%252Fcode%2Band%2Bthe%2BClaude%2Bmobile%2Bapp.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253Dd535f2e20f53cd911acc59ad1b64b2e0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252FTBPmHzr19mDCuhZi%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DTBPmHzr19mDCuhZi%2526q%253D85%2526s%253D28e49a2ffe69101f4aae9bfa70b393d0%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
-        "source": "code.claude.com",
-        "stats": "515 points · 300 comments"
-      },
-      {
-        "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-        "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-        "description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that",
-        "image": "https://framerusercontent.com/images/YDDp8rnck6rG7jTHoAV4O5bs.png?width=1024&amp;height=572",
-        "source": "trufflesecurity.com",
-        "stats": "208 points · 47 comments"
-      },
-      {
-        "url": "https://www.astralcodexten.com/p/the-pentagon-threatens-anthropic",
-        "title": "The Pentagon threatens Anthropic",
-        "description": "...",
-        "image": "https://substackcdn.com/image/fetch/$s_!NGva!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a07417c-c5a7-4384-8722-a022a6b8ff75_2102x1052.jpeg",
-        "source": "astralcodexten.com",
-        "stats": "166 points · 111 comments"
-      },
-      {
-        "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-        "title": "How will OpenAI compete?",
-        "description": "OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie",
-        "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6993b59b8517240d2235240a/1771507646532/Frontier%2BLanguage%2BModel%2BIntelligence%2C%2BOver%2BTime%2B%2824%2BJan%2B%2726%29%2B-2.png.webp?format=1500w",
-        "source": "ben-evans.com",
-        "stats": "126 points · 125 comments"
-      }
-    ],
-    "2026-02-24": [
-      {
-        "url": "https://vmfunc.re/blog/persona/",
-        "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-        "description": "53MB of source code leaked from a government endpoint. 269 verification checks. biometric face databases. SAR filings to FinCEN. and the same company that verifies your ChatGPT account.",
+        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "description": "Anthropic accidentally shipped a source map in their npm package, exposing the full Claude Code source. Here",
         "image": "",
-        "source": "vmfunc.re",
-        "stats": "639 points · 197 comments"
+        "source": "alex000kim.com",
+        "stats": "1346 points · 552 comments"
       },
       {
-        "url": "https://blog.cloudflare.com/vinext/",
-        "title": "How we rebuilt Next.js with AI in one week",
-        "description": "One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.",
-        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/720QQcrdICiSJXrr9VoixA/4934fffd05d1ca10cc661238b381308e/BLOG-3194_OG.png",
-        "source": "blog.cloudflare.com",
-        "stats": "510 points · 219 comments"
-      },
-      {
-        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-        "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-        "description": "Today, we",
-        "image": "https://framerusercontent.com/assets/xqKJszO4tzsVEusCSL14t11EJZg.png",
-        "source": "inceptionlabs.ai",
-        "stats": "339 points · 123 comments"
-      },
-      {
-        "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-        "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-        "description": "The latest update of Firefox, version 148, introduces a much-anticipated &quot;AI kill switch&quot; feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company&#8217;s new revenue-focused strategy regarding AI integrations. [&hellip;]",
-        "image": "",
-        "source": "serverhost.com",
-        "stats": "459 points · 387 comments"
-      },
-      {
-        "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
-        "title": "OpenAI resets spending expectations, from $1.4T to $600B",
-        "description": "OpenAI told investors it&#x27;s targeting roughly $600 billion in total compute spend by 2030, trying to clarify its plans after touting a $1.4 trillion figure.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg?v=1771233114&amp;w=1920&amp;h=1080",
+        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "title": "OpenAI closes funding round at an $852B valuation",
+        "description": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "217 points · 191 comments"
-      }
-    ],
-    "2026-02-23": [
-      {
-        "url": "https://ladybird.org/posts/adopting-rust/",
-        "title": "Ladybird adopts Rust, with help from AI",
-        "description": "We",
-        "image": "https://ladybird.org/assets/img/plant.webp",
-        "source": "ladybird.org",
-        "stats": "1267 points · 697 comments"
-      }
-    ],
-    "2026-02-22": [
-      {
-        "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
-        "title": "Benchmarks for concurrent hash map implementations in Go",
-        "description": "Benchmarks for concurrent hash map implementations in Go - puzpuzpuz/go-concurrent-map-bench",
-        "image": "https://opengraph.githubassets.com/50f26b05ccace513a86bd82e4ea77d7074247615a8fc474152d651f9ed4e6411/puzpuzpuz/go-concurrent-map-bench",
-        "source": "github.com",
-        "stats": "102 points · 22 comments"
-      }
-    ],
-    "2026-02-21": [
-      {
-        "url": "https://github.com/xaskasdf/ntransformer",
-        "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-        "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer",
-        "image": "https://opengraph.githubassets.com/bb427d7d93806b88df0359194393e4fc8ce602fffdd0b9f193048b2c6da02f53/xaskasdf/ntransformer",
-        "source": "github.com",
-        "stats": "387 points · 102 comments"
+        "stats": "515 points · 485 comments"
       },
       {
-        "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-        "title": "How Taalas “prints” LLM onto a chip?",
-        "description": "421 points · 252 comments",
+        "url": "https://ollama.com/blog/mlx",
+        "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+        "description": "Today, we&#39;re previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple&#39;s machine learning framework.",
+        "image": "https://ollama.com/public/og.png",
+        "source": "ollama.com",
+        "stats": "633 points · 353 comments"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+        "title": "Microsoft: Copilot is for entertainment purposes only",
+        "description": "566 points · 196 comments",
+        "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1",
+        "source": "microsoft.com",
+        "stats": ""
+      }
+    ],
+    "2026-03-30": [
+      {
+        "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+        "title": "Copilot edited an ad into my PR",
+        "description": "1578 points · 637 comments",
         "image": "",
-        "source": "anuragk.com",
+        "source": "notes.zachmanson.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-        "title": "AI uBlock Blacklist",
-        "description": "Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist",
-        "image": "https://opengraph.githubassets.com/3b3c77d884b27db0baec13c4e811c01d2a96facab550debd194d15306bb05cfd/alvi-se/ai-ublock-blacklist",
-        "source": "github.com",
-        "stats": "293 points · 125 comments"
-      }
-    ],
-    "2026-02-20": [
-      {
-        "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-        "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-        "description": "Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...",
-        "image": "https://opengraph.githubassets.com/e00cea67df3b50b96b685bc71ae4dd466a38002f7cbc56368eb4cd1dcf385d24/ggml-org/llama.cpp/discussions/19759",
-        "source": "github.com",
-        "stats": "826 points · 224 comments"
+        "url": "https://claude.nagdy.me/",
+        "title": "Learn Claude Code by doing, not reading",
+        "description": "11 interactive modules take you from first slash command to building plugins — with terminal simulators, config builders, and quizzes.",
+        "image": "https://claude.nagdy.me/og/default.png",
+        "source": "claude.nagdy.me",
+        "stats": "267 points · 108 comments"
       },
       {
-        "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-        "title": "Every company building your AI assistant is now an ad company",
-        "description": "Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.",
-        "image": "https://juno-labs.com/public/juno_logo.png",
-        "source": "juno-labs.com",
-        "stats": "310 points · 166 comments"
+        "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+        "title": "How the AI Bubble Bursts",
+        "description": "The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. &#8617;",
+        "image": "https://martinvol.pe/blog/assets/images/2026-03-30-how-the-ai-bubble-bursts/cover.jpg",
+        "source": "martinvol.pe",
+        "stats": "368 points · 516 comments"
       },
       {
-        "url": "https://twitter.com/peterjliu/status/2024901585806225723",
-        "title": "Uncovering insiders and alpha on Polymarket with AI",
-        "description": "154 points · 160 comments",
+        "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+        "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+        "description": "348 points · 11 comments",
         "image": "",
-        "source": "twitter.com",
+        "source": "neowin.net",
         "stats": ""
+      },
+      {
+        "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+        "title": "I am definitely missing the pre-AI writing era",
+        "description": "Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…",
+        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
+        "source": "lesswrong.com",
+        "stats": "313 points · 235 comments"
       }
     ]
   }
