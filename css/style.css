@@ -913,16 +913,16 @@ pre code {
 
 /* Grid area assignments */
 .bento-hero    { grid-area: hero; }
-.bento-metric:nth-of-type(1) { grid-area: m1; }
-.bento-metric:nth-of-type(2) { grid-area: m2; }
-.bento-metric:nth-of-type(3) { grid-area: m3; }
-.bento-metric:nth-of-type(4) { grid-area: m4; }
+.bento-m1      { grid-area: m1; }
+.bento-m2      { grid-area: m2; }
+.bento-m3      { grid-area: m3; }
+.bento-m4      { grid-area: m4; }
 .bento-stack   { grid-area: stack; }
-.bento-metric:nth-of-type(5) { grid-area: m5; }
+.bento-m5      { grid-area: m5; }
 .bento-blog    { grid-area: blog; }
 .bento-news    { grid-area: news; }
 .bento-contact { grid-area: contact; }
-.bento-metric:nth-of-type(6) { grid-area: m6; }
+.bento-m6      { grid-area: m6; }
 
 /* ---- Hero Box ---- */
 .bento-hero {
@@ -1194,7 +1194,10 @@ pre code {
 .cmd-palette {
     display: none;
     position: fixed;
-    inset: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     z-index: 1000;
 }
 
@@ -1204,8 +1207,12 @@ pre code {
 
 .cmd-overlay {
     position: absolute;
-    inset: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     background: rgba(0, 0, 0, 0.6);
+    -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);
 }
 
