@@ -28,22 +28,23 @@ function updateThemeIcon() {
 
 // ===== Active Nav Highlight on Scroll =====
 function initScrollSpy() {
-    const sections = document.querySelectorAll('section[id]');
-    const navLinks = document.querySelectorAll('.nav-links a[href^="#"]');
+    var sections = document.querySelectorAll('section[id]');
+    var navLinks = document.querySelectorAll('.nav-links a[href^="#"]');
     if (sections.length === 0 || navLinks.length === 0) return;
+    if (!('IntersectionObserver' in window)) return;
 
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
+    var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
             if (entry.isIntersecting) {
-                const id = entry.target.getAttribute('id');
-                navLinks.forEach(link => {
+                var id = entry.target.getAttribute('id');
+                navLinks.forEach(function(link) {
                     link.classList.toggle('active', link.getAttribute('href') === '#' + id);
                 });
             }
         });
     }, { rootMargin: '-30% 0px -60% 0px', threshold: 0 });
 
-    sections.forEach(section => observer.observe(section));
+    sections.forEach(function(section) { observer.observe(section); });
 }
 
 // ===== Typewriter Effect =====
@@ -68,13 +69,21 @@ function initTypewriter() {
 
 // ===== Animated Counters =====
 function initCounters() {
-    const counters = document.querySelectorAll('.bento-metric-num');
+    var counters = document.querySelectorAll('.bento-metric-num');
     if (counters.length === 0) return;
 
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
+    if (!('IntersectionObserver' in window)) {
+        counters.forEach(function(el) {
+            if (el.dataset.static) { el.textContent = el.dataset.static; return; }
+            el.textContent = (parseFloat(el.dataset.target) || 0).toFixed(parseInt(el.dataset.decimals) || 0) + (el.dataset.suffix || '');
+        });
+        return;
+    }
+
+    var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
             if (!entry.isIntersecting) return;
-            const el = entry.target;
+            var el = entry.target;
             if (el.dataset.counted) return;
             el.dataset.counted = 'true';
 
@@ -83,23 +92,17 @@ function initCounters() {
                 return;
             }
 
-            const target = parseFloat(el.dataset.target);
-            const suffix = el.dataset.suffix || '';
-            const decimals = parseInt(el.dataset.decimals) || 0;
-            const duration = 1800;
-            const start = performance.now();
-
-            function easeOut(t) {
-                return 1 - Math.pow(1 - t, 3);
-            }
+            var target = parseFloat(el.dataset.target);
+            var suffix = el.dataset.suffix || '';
+            var decimals = parseInt(el.dataset.decimals) || 0;
+            var duration = 1600;
+            var start = performance.now();
 
             function update(now) {
-                const elapsed = now - start;
-                const progress = Math.min(elapsed / duration, 1);
-                const value = target * easeOut(progress);
-
-                el.textContent = value.toFixed(decimals) + suffix;
-
+                var elapsed = now - start;
+                var progress = Math.min(elapsed / duration, 1);
+                var t = 1 - Math.pow(1 - progress, 3);
+                el.textContent = (target * t).toFixed(decimals) + suffix;
                 if (progress < 1) {
                     requestAnimationFrame(update);
                 } else {
@@ -109,27 +112,29 @@ function initCounters() {
 
             requestAnimationFrame(update);
         });
-    }, { threshold: 0.3 });
+    }, { threshold: 0.2 });
 
-    counters.forEach(c => observer.observe(c));
+    counters.forEach(function(c) { observer.observe(c); });
 }
 
 // ===== 3D Tilt on Bento Boxes =====
 function initTilt() {
-    if (window.matchMedia('(hover: none)').matches) return;
+    var noHover = window.matchMedia('(hover: none)').matches;
+    var hasTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    if (noHover || hasTouch) return;
 
-    document.querySelectorAll('.bento-box').forEach(box => {
-        box.addEventListener('mousemove', (e) => {
-            const rect = box.getBoundingClientRect();
-            const x = ((e.clientX - rect.left) / rect.width - 0.5) * 2;
-            const y = ((e.clientY - rect.top) / rect.height - 0.5) * 2;
-            box.style.transform = `perspective(800px) rotateY(${x * 2.5}deg) rotateX(${-y * 2.5}deg) scale(1.01)`;
-            box.style.transition = 'transform 0.08s ease';
+    document.querySelectorAll('.bento-box').forEach(function(box) {
+        box.addEventListener('mousemove', function(e) {
+            var rect = box.getBoundingClientRect();
+            var x = ((e.clientX - rect.left) / rect.width - 0.5) * 2;
+            var y = ((e.clientY - rect.top) / rect.height - 0.5) * 2;
+            box.style.transform = 'perspective(800px) rotateY(' + (x * 2) + 'deg) rotateX(' + (-y * 2) + 'deg)';
+            box.style.transition = 'transform 0.1s ease';
         });
 
-        box.addEventListener('mouseleave', () => {
+        box.addEventListener('mouseleave', function() {
             box.style.transform = '';
-            box.style.transition = 'transform 0.35s ease';
+            box.style.transition = 'transform 0.3s ease';
         });
     });
 }
@@ -207,10 +212,10 @@ function renderCmdResults(query) {
 }
 
 function initCommandPalette() {
-    document.addEventListener('keydown', (e) => {
-        const palette = document.getElementById('cmdPalette');
+    document.addEventListener('keydown', function(e) {
+        var palette = document.getElementById('cmdPalette');
         if (!palette) return;
-        const isOpen = palette.classList.contains('open');
+        var isOpen = palette.classList.contains('open');
 
         if (e.key === '/' && !isOpen && !['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) {
             e.preventDefault();
@@ -231,20 +236,20 @@ function initCommandPalette() {
             return;
         }
 
-        const results = palette.querySelectorAll('.cmd-result');
+        var results = palette.querySelectorAll('.cmd-result');
         if (results.length === 0) return;
 
         if (e.key === 'ArrowDown') {
             e.preventDefault();
             cmdActive = Math.min(cmdActive + 1, results.length - 1);
-            results.forEach((r, i) => r.classList.toggle('active', i === cmdActive));
+            results.forEach(function(r, i) { r.classList.toggle('active', i === cmdActive); });
             results[cmdActive].scrollIntoView({ block: 'nearest' });
         }
 
         if (e.key === 'ArrowUp') {
             e.preventDefault();
             cmdActive = Math.max(cmdActive - 1, 0);
-            results.forEach((r, i) => r.classList.toggle('active', i === cmdActive));
+            results.forEach(function(r, i) { r.classList.toggle('active', i === cmdActive); });
             results[cmdActive].scrollIntoView({ block: 'nearest' });
         }
 
@@ -255,8 +260,16 @@ function initCommandPalette() {
     });
 }
 
+// ===== Ensure boxes visible (safety net for animation failures) =====
+function ensureVisible() {
+    document.querySelectorAll('.bento-box').forEach(function(box) {
+        box.style.opacity = '1';
+        box.style.transform = 'none';
+    });
+}
+
 // ===== Initialize =====
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', function() {
     initTheme();
     initScrollSpy();
     initTypewriter();
@@ -264,8 +277,10 @@ document.addEventListener('DOMContentLoaded', () => {
     initTilt();
     initCommandPalette();
 
+    setTimeout(ensureVisible, 1200);
+
     if (typeof mermaid !== 'undefined') {
-        const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+        var isLight = document.documentElement.getAttribute('data-theme') === 'light';
         mermaid.initialize({
             startOnLoad: true,
             theme: isLight ? 'default' : 'dark',
@@ -274,7 +289,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
-window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
     if (!localStorage.getItem('theme')) {
         if (e.matches) {
             document.documentElement.removeAttribute('data-theme');
