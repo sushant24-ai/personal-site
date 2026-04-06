@@ -1,45 +1,87 @@
 {
-  "lastUpdated": "2026-04-05T04:40:47.015Z",
+  "lastUpdated": "2026-04-06T04:48:51.343Z",
   "days": {
+    "2026-04-06": [
+      {
+        "url": "https://github.com/arman-bd/guppylm",
+        "title": "Show HN: I built a tiny LLM to demystify how language models work",
+        "description": "A ~9M parameter LLM that talks like a small fish. Contribute to arman-bd/guppylm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/710c109df0fb6426fdc39b96300d12c9ac3821b5a1c7876b20726503b27736d2/arman-bd/guppylm",
+        "source": "github.com",
+        "stats": "186 points · 12 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+        "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+        "description": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+        "source": "techcrunch.com",
+        "stats": "89 points · 16 comments"
+      },
+      {
+        "url": "https://github.com/kessler/gemma-gem",
+        "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+        "description": "Gemma Gem runs Google&#39;s Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem",
+        "image": "https://opengraph.githubassets.com/2dd44eeacf2c06cd331e68b523e848cedbe472a7b83e80a9bc5f855a74fe4050/kessler/gemma-gem",
+        "source": "github.com",
+        "stats": "30 points · 3 comments"
+      },
+      {
+        "url": "https://www.windowslatest.com/2026/04/05/new-copilot-for-windows-11-includes-a-full-microsoft-edge-package-uses-more-ram/",
+        "title": "New Copilot for Windows 11 includes a full Microsoft Edge package, uses more RAM",
+        "description": "There&#8217;s a new version of Copilot rolling out on Windows 11, and it dumps native code (WinUI) in favor of web components. This was expected based on our previous findings, but to our surprise, it actually ships with a full-blown version of Microsoft Edge. I can&#8217;t tell if Microsoft is really losing the AI race, [&hellip;]",
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/04/New-Copilot-web-crap-for-Windows-11-scaled.jpg",
+        "source": "windowslatest.com",
+        "stats": "17 points · 3 comments"
+      },
+      {
+        "url": "https://github.com/aayu22809/Recall",
+        "title": "Recall – local multimodal semantic search for your files",
+        "description": "Contribute to aayu22809/Recall development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/8c9f5d0f829125ef097d3bbb9956178820589f8de1a86301539d1673a27dfead/aayu22809/Recall",
+        "source": "github.com",
+        "stats": "15 points · 8 comments"
+      }
+    ],
     "2026-04-05": [
       {
-        "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-        "title": "Writing Lisp Is AI Resistant and I'm Sad",
-        "description": "33 points · 21 comments",
+        "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+        "title": "Eight years of wanting, three months of building with AI",
+        "description": "For eight years, I’ve wanted a high-quality set of devtools for working with SQLite. Given how important SQLite is to the industry1, I’ve long been puzzled that no one has invested in building a really good developer experience for it2.\nA couple of weeks ago, after ~250 hours of effort over three months3 on evenings, weekends, and vacation days, I finally released syntaqlite (GitHub), fulfilling this long-held wish. And I believe the main reason this happened was because of AI coding agents4.\nOf course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.\nI’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.",
         "image": "",
-        "source": "blog.djhaskin.com",
-        "stats": ""
+        "source": "lalitm.com",
+        "stats": "701 points · 218 comments"
       },
       {
-        "url": "https://twitter.com/VladTheInflator/status/2039577001531768906",
-        "title": "AI that copied musical artist files copyright claim against that artist",
-        "description": "18 points · 3 comments",
+        "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+        "title": "OpenAI's fall from grace as investors race to Anthropic",
+        "description": "OpenAI’s shocking fall from grace as investors race to Anthropic",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/b1761b5/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2F68%2Fc707de388c727fc161ff8d4189e8%2F1x-1.jpg",
+        "source": "latimes.com",
+        "stats": "131 points · 87 comments"
+      },
+      {
+        "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+        "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+        "description": "LM Studio 0.4.0 introduced llmster and the lms CLI. Here is how I set up Gemma 4 26B for local inference on macOS that can be used with Claude Code.",
+        "image": "https://substackcdn.com/image/fetch/$s_!9o_j!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0321dea-0461-40ae-82da-babbd6fa108e_985x402.png",
+        "source": "ai.georgeliu.com",
+        "stats": "225 points · 56 comments"
+      },
+      {
+        "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+        "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+        "description": "I&#39;m so excited to share nanocode. This is a library showing you how to train your own Claude Code end-to-end. To a first approximation, we will follow the simplest possible approach for training us...",
+        "image": "https://opengraph.githubassets.com/486f7ebe078020a3ac83ef9f03119dc41397abd2f80e600731a87b990852667f/salmanmohammadi/nanocode/discussions/1",
+        "source": "github.com",
+        "stats": "178 points · 24 comments"
+      },
+      {
+        "url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
+        "title": "Musician says AI company is cloning her music, filing claims against her",
+        "description": "107 points · 15 comments",
         "image": "",
         "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html",
-        "title": "A broken auto-live poller, and what perceived urgency does to Claude Code",
-        "description": "A broken auto-live poller, and what perceived urgency does to Claude Code",
-        "image": "",
-        "source": "christophermeiklejohn.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://www.nature.com/articles/s41586-026-10265-5",
-        "title": "Towards end-to-end automation of AI research",
-        "description": "An artificial intelligence system can produce research papers with minimal human involvement, even passing the first round of peer review for the workshop of a main machine learning conference.",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
-        "source": "nature.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://opncd.ai/share/W7nlxn8C",
-        "title": "Kimi's response to \"hello. what are you\" is \"I'm Claude \"",
-        "description": "3 points · 4 comments",
-        "image": "",
-        "source": "opncd.ai",
         "stats": ""
       }
     ],
@@ -47,7 +89,7 @@
       {
         "url": "https://jaso1024.com/mvidia/",
         "title": "Show HN: A game where you build a GPU",
-        "description": "575 points · 144 comments",
+        "description": "902 points · 179 comments",
         "image": "",
         "source": "jaso1024.com",
         "stats": ""
@@ -55,18 +97,26 @@
       {
         "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
         "title": "How many products does Microsoft have named 'Copilot'?",
-        "description": "A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.",
+        "description": "Update: Since this was published, the lovely internet community has let me know we were missing two Copilots: Gaming Copilot and Microsoft Dragon Copilot (🤦‍♀️). This brings the total to 80. The chart has been updated and I&#39;ll continue to update it as Microsoft continues to Copilot.",
         "image": "",
         "source": "teybannerman.com",
-        "stats": "488 points · 244 comments"
+        "stats": "792 points · 368 comments"
       },
       {
-        "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+        "url": "https://twitter.com/__tinygrad__/status/2039213719155310736",
         "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-        "description": "Did hell freeze over? Not quite: the driver belongs to Tiny Corp, not Nvidia, you’ll have to compile it with Docker rather than plug-and-play, and it’s designed for LLMs. But you no longer need to disable Apple’s System Integrity Protection (SIP), because Apple is letting that driver get signed, Tiny says.\n[Image: Apple finally approved our driver for both AMD and NVIDIA,” Tiny writes. https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/HEy9-blbAAABy-J.jpg?quality=90&amp;strip=all]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/HEy9-blbAAABy-J.jpg?quality=90&amp;strip=all&amp;crop=0%2C35.021989528796%2C100%2C52.356020942408&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "392 points · 174 comments"
+        "description": "501 points · 229 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+        "title": "LLM Wiki – example of an \"idea file\"",
+        "description": "llm-wiki. GitHub Gist: instantly share code, notes, and snippets.",
+        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+        "source": "gist.github.com",
+        "stats": "276 points · 89 comments"
       },
       {
         "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
@@ -74,22 +124,14 @@
         "description": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
         "image": "https://substackcdn.com/image/fetch/$s_!_g0S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b97718-57f4-4977-99c8-8ad5c4d32af3_1548x862.png",
         "source": "magazine.sebastianraschka.com",
-        "stats": "191 points · 66 comments"
-      },
-      {
-        "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
-        "title": "12k AI-generated blog posts added in a single commit",
-        "description": "…k/Ceph, and Dapr\n\nComplete all topics from Todo.md including SQL functions, configuration guides,\ntroubleshooting runbooks, architecture comparisons, SDK tutorials, and operator\ndeployment pattern...",
-        "image": "https://opengraph.githubassets.com/6020e91f9a9f01c2c48c5c101115df56a9e5d0f86a9aca70924d93c40ce915bb/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
-        "source": "github.com",
-        "stats": "143 points · 142 comments"
+        "stats": "285 points · 86 comments"
       }
     ],
     "2026-04-03": [
       {
         "url": "https://news.ycombinator.com/item?id=47633396",
         "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-        "description": "1042 points · 787 comments",
+        "description": "1074 points · 821 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -97,10 +139,10 @@
       {
         "url": "https://apfel.franzai.com",
         "title": "Show HN: Apfel – The free AI already on your Mac",
-        "description": "Use Apple",
+        "description": "Your Mac already has AI. Apple ships a language model with macOS -apfel unlocks it with one brew install. No downloads, no API keys, no config. The fastest path to local AI.",
         "image": "https://apfel.franzai.com/og.png",
         "source": "apfel.franzai.com",
-        "stats": "711 points · 145 comments"
+        "stats": "727 points · 150 comments"
       },
       {
         "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
@@ -108,23 +150,15 @@
         "description": "\n    Claude Code has gotten extremely good at finding security vulnerabilities, and this is only the beginning.\n  ",
         "image": "https://mtlynch.io/claude-code-found-linux-vulnerability/model-effectiveness.png",
         "source": "mtlynch.io",
-        "stats": "377 points · 240 comments"
+        "stats": "413 points · 258 comments"
       },
       {
-        "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-        "description": "April 2026 TLDR setup for Ollama + Gemma 4 12B on a Mac mini (Apple Silicon) — auto-start, preload, and keep-alive - how-to-setup-ollama-on-a-macmini.md",
-        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-        "source": "gist.github.com",
-        "stats": "316 points · 119 comments"
-      },
-      {
-        "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-        "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-        "description": "Experiments show large majorities uncritically accepting &quot;faulty&quot; AI answers.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "96 points · 39 comments"
+        "url": "https://imbue.com/product/mngr_part_2/",
+        "title": "A case study in testing with 100+ Claude agents in parallel",
+        "description": "In our previous blog post, we introduced mngr and how you can use it to usefully launch hundreds of parallel agents. Here’s all the details…",
+        "image": "https://imbue.com/preview/2026-04-03-mngr.png",
+        "source": "imbue.com",
+        "stats": "62 points · 49 comments"
       }
     ],
     "2026-04-02": [
@@ -171,36 +205,12 @@
     ],
     "2026-04-01": [
       {
-        "url": "https://news.ycombinator.com/item?id=47606244",
-        "title": "Training mRNA Language Models Across 25 Species for $165",
-        "description": "135 points · 30 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-        "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-        "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company&#039;s systems.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "150 points · 45 comments"
-      },
-      {
         "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-        "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
-        "description": "67 points · 61 comments",
+        "title": "Electrical transformer manufacturing is throttling the electrified future",
+        "description": "114 points · 112 comments",
         "image": "",
         "source": "bloomberg.com",
         "stats": ""
-      },
-      {
-        "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
-        "title": "Functional programming accellerates agentic feature development",
-        "description": "AI agents fail in production because of mutable state, hidden dependencies, and side effects the agent can",
-        "image": "https://cyrusradfar.com/images/posts/functional-programming-is-the-only-way-to-scale-with-ai/og.gif",
-        "source": "cyrusradfar.com",
-        "stats": "30 points · 15 comments"
       }
     ],
     "2026-03-31": [
@@ -243,48 +253,6 @@
         "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1",
         "source": "microsoft.com",
         "stats": ""
-      }
-    ],
-    "2026-03-30": [
-      {
-        "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-        "title": "Copilot edited an ad into my PR",
-        "description": "1578 points · 637 comments",
-        "image": "",
-        "source": "notes.zachmanson.com",
-        "stats": ""
-      },
-      {
-        "url": "https://claude.nagdy.me/",
-        "title": "Learn Claude Code by doing, not reading",
-        "description": "11 interactive modules take you from first slash command to building plugins — with terminal simulators, config builders, and quizzes.",
-        "image": "https://claude.nagdy.me/og/default.png",
-        "source": "claude.nagdy.me",
-        "stats": "267 points · 108 comments"
-      },
-      {
-        "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-        "title": "How the AI Bubble Bursts",
-        "description": "The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. &#8617;",
-        "image": "https://martinvol.pe/blog/assets/images/2026-03-30-how-the-ai-bubble-bursts/cover.jpg",
-        "source": "martinvol.pe",
-        "stats": "368 points · 516 comments"
-      },
-      {
-        "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-        "title": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
-        "description": "348 points · 11 comments",
-        "image": "",
-        "source": "neowin.net",
-        "stats": ""
-      },
-      {
-        "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-        "title": "I am definitely missing the pre-AI writing era",
-        "description": "Yesterday, I wrote my first technical draft on what I was working on with the goal to share it publicly on here (well using an account dedicated to t…",
-        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/kbuutzaogk2zluuyfh3t",
-        "source": "lesswrong.com",
-        "stats": "313 points · 235 comments"
       }
     ]
   }
