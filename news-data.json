@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-06T04:48:51.343Z",
+  "lastUpdated": "2026-04-07T04:36:54.531Z",
   "days": {
+    "2026-04-07": [
+      {
+        "url": "https://github.com/milla-jovovich/mempalace",
+        "title": "The highest-scoring AI memory system ever benchmarked",
+        "description": "The highest-scoring AI memory system ever benchmarked. And it&#39;s free. - milla-jovovich/mempalace",
+        "image": "https://opengraph.githubassets.com/4ea6720d56dd3ae34e211c1e6673a0cd8ba4eaad06cae78124efc944ac7c91dd/milla-jovovich/mempalace",
+        "source": "github.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://www.businesstimes.com.sg/international/global/openai-anthropic-google-unite-combat-model-copying-china",
+        "title": "OpenAI, Anthropic, Google unite to combat model copying in China",
+        "description": "Trump administration officials have signalled their openness to fostering information sharing among AI companies to rein in adversarial distillation Read more at The Business Times.",
+        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/0549a31a72d8a47facecd3ccc95ac585a0f4c55565982ae0a9ff2f3fe2b7a1d4?w=1200&amp;f=webp",
+        "source": "businesstimes.com.sg",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://claude.ai/public/artifacts/f1c3dd80-a3eb-49eb-9d92-867705526437",
+        "title": "Anthropic's refusal to drop AI safeguards for The Pentagon",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "claude.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://brickstack.substack.com/p/i-tried-every-gamma-alternative-just",
+        "title": "Stop using AI wrappers and just use Claude",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "brickstack.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+        "title": "Claude Is Not Your Architect. Stop Letting It Pretend",
+        "description": "Somewhere between &#39;ask Claude for a quick opinion&#39; and &#39;Claude is writing our Jira tickets,&#39; we lost the plot. AI agents are brilliant implementers. They&#39;re also confidently wrong about every decision that matters. And when it all falls over, they won&#39;t be the ones carrying the bag.",
+        "image": "https://www.hollandtech.net/og/claude-is-not-your-architect.png",
+        "source": "hollandtech.net",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-04-06": [
+      {
+        "url": "https://github.com/anthropics/claude-code/issues/42796",
+        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+        "description": "Preflight Checklist I have searched existing issues for similar behavior reports This report does NOT contain sensitive information (API keys, passwords, etc.) Type of Behavior Issue Other unexpect...",
+        "image": "https://opengraph.githubassets.com/81ee7633c31602df21a841ebd9a0da5db4c5cbd653bf50d792d27caa348eb641/anthropics/claude-code/issues/42796",
+        "source": "github.com",
+        "stats": "849 points · 506 comments"
+      },
       {
         "url": "https://github.com/arman-bd/guppylm",
         "title": "Show HN: I built a tiny LLM to demystify how language models work",
         "description": "A ~9M parameter LLM that talks like a small fish. Contribute to arman-bd/guppylm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/710c109df0fb6426fdc39b96300d12c9ac3821b5a1c7876b20726503b27736d2/arman-bd/guppylm",
+        "image": "https://repository-images.githubusercontent.com/1195324890/29604d1d-9515-4974-9e23-e42713cd4a0c",
         "source": "github.com",
-        "stats": "186 points · 12 comments"
+        "stats": "851 points · 126 comments"
       },
       {
-        "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-        "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
-        "description": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
-        "source": "techcrunch.com",
-        "stats": "89 points · 16 comments"
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig",
+        "source": "anthropic.com",
+        "stats": "190 points · 89 comments"
       },
       {
-        "url": "https://github.com/kessler/gemma-gem",
-        "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-        "description": "Gemma Gem runs Google&#39;s Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem",
-        "image": "https://opengraph.githubassets.com/2dd44eeacf2c06cd331e68b523e848cedbe472a7b83e80a9bc5f855a74fe4050/kessler/gemma-gem",
-        "source": "github.com",
-        "stats": "30 points · 3 comments"
+        "url": "https://www.freestyle.sh/",
+        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+        "description": "Git, VMs, deployments, and execution — unified infrastructure for code you didn&#x27;t write.",
+        "image": "https://www.freestyle.sh/opengraph-image?9d53e9a0deaf33f9",
+        "source": "freestyle.sh",
+        "stats": "231 points · 125 comments"
       },
       {
-        "url": "https://www.windowslatest.com/2026/04/05/new-copilot-for-windows-11-includes-a-full-microsoft-edge-package-uses-more-ram/",
-        "title": "New Copilot for Windows 11 includes a full Microsoft Edge package, uses more RAM",
-        "description": "There&#8217;s a new version of Copilot rolling out on Windows 11, and it dumps native code (WinUI) in favor of web components. This was expected based on our previous findings, but to our surprise, it actually ships with a full-blown version of Microsoft Edge. I can&#8217;t tell if Microsoft is really losing the AI race, [&hellip;]",
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/04/New-Copilot-web-crap-for-Windows-11-scaled.jpg",
-        "source": "windowslatest.com",
-        "stats": "17 points · 3 comments"
-      },
-      {
-        "url": "https://github.com/aayu22809/Recall",
-        "title": "Recall – local multimodal semantic search for your files",
-        "description": "Contribute to aayu22809/Recall development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/8c9f5d0f829125ef097d3bbb9956178820589f8de1a86301539d1673a27dfead/aayu22809/Recall",
-        "source": "github.com",
-        "stats": "15 points · 8 comments"
+        "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+        "title": "AI singer now occupies eleven spots on iTunes singles chart",
+        "description": "iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named &#8220;Eddie Dalton,&#8221; who does not exist. He&#8217;s Little&#8217;s Artificial [&hellip;]",
+        "image": "https://www.showbiz411.com/wp-content/uploads/2026/03/eddie-dalton.png",
+        "source": "showbiz411.com",
+        "stats": "122 points · 177 comments"
       }
     ],
     "2026-04-05": [
@@ -50,15 +92,7 @@
         "description": "For eight years, I’ve wanted a high-quality set of devtools for working with SQLite. Given how important SQLite is to the industry1, I’ve long been puzzled that no one has invested in building a really good developer experience for it2.\nA couple of weeks ago, after ~250 hours of effort over three months3 on evenings, weekends, and vacation days, I finally released syntaqlite (GitHub), fulfilling this long-held wish. And I believe the main reason this happened was because of AI coding agents4.\nOf course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.\nI’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.",
         "image": "",
         "source": "lalitm.com",
-        "stats": "701 points · 218 comments"
-      },
-      {
-        "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-        "title": "OpenAI's fall from grace as investors race to Anthropic",
-        "description": "OpenAI’s shocking fall from grace as investors race to Anthropic",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/b1761b5/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2F68%2Fc707de388c727fc161ff8d4189e8%2F1x-1.jpg",
-        "source": "latimes.com",
-        "stats": "131 points · 87 comments"
+        "stats": "920 points · 287 comments"
       },
       {
         "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
@@ -66,7 +100,23 @@
         "description": "LM Studio 0.4.0 introduced llmster and the lms CLI. Here is how I set up Gemma 4 26B for local inference on macOS that can be used with Claude Code.",
         "image": "https://substackcdn.com/image/fetch/$s_!9o_j!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0321dea-0461-40ae-82da-babbd6fa108e_985x402.png",
         "source": "ai.georgeliu.com",
-        "stats": "225 points · 56 comments"
+        "stats": "393 points · 99 comments"
+      },
+      {
+        "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+        "title": "OpenAI's fall from grace as investors race to Anthropic",
+        "description": "OpenAI’s shocking fall from grace as investors race to Anthropic",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/b1761b5/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F26%2F68%2Fc707de388c727fc161ff8d4189e8%2F1x-1.jpg",
+        "source": "latimes.com",
+        "stats": "209 points · 146 comments"
+      },
+      {
+        "url": "https://github.com/fikrikarim/parlor",
+        "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+        "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor",
+        "image": "https://opengraph.githubassets.com/83461f3ab896ad2c5c051bbcf81d865cff25725c313e173cb53eb3febb5e2c2d/fikrikarim/parlor",
+        "source": "github.com",
+        "stats": "267 points · 31 comments"
       },
       {
         "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
@@ -74,38 +124,22 @@
         "description": "I&#39;m so excited to share nanocode. This is a library showing you how to train your own Claude Code end-to-end. To a first approximation, we will follow the simplest possible approach for training us...",
         "image": "https://opengraph.githubassets.com/486f7ebe078020a3ac83ef9f03119dc41397abd2f80e600731a87b990852667f/salmanmohammadi/nanocode/discussions/1",
         "source": "github.com",
-        "stats": "178 points · 24 comments"
-      },
-      {
-        "url": "https://twitter.com/unlimited_ls/status/2040577536136974444",
-        "title": "Musician says AI company is cloning her music, filing claims against her",
-        "description": "107 points · 15 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
+        "stats": "206 points · 26 comments"
       }
     ],
     "2026-04-04": [
       {
         "url": "https://jaso1024.com/mvidia/",
         "title": "Show HN: A game where you build a GPU",
-        "description": "902 points · 179 comments",
+        "description": "948 points · 184 comments",
         "image": "",
         "source": "jaso1024.com",
         "stats": ""
       },
       {
-        "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-        "title": "How many products does Microsoft have named 'Copilot'?",
-        "description": "Update: Since this was published, the lovely internet community has let me know we were missing two Copilots: Gaming Copilot and Microsoft Dragon Copilot (🤦‍♀️). This brings the total to 80. The chart has been updated and I&#39;ll continue to update it as Microsoft continues to Copilot.",
-        "image": "",
-        "source": "teybannerman.com",
-        "stats": "792 points · 368 comments"
-      },
-      {
         "url": "https://twitter.com/__tinygrad__/status/2039213719155310736",
         "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-        "description": "501 points · 229 comments",
+        "description": "524 points · 240 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -116,33 +150,17 @@
         "description": "llm-wiki. GitHub Gist: instantly share code, notes, and snippets.",
         "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
         "source": "gist.github.com",
-        "stats": "276 points · 89 comments"
-      },
-      {
-        "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-        "title": "Components of a Coding Agent",
-        "description": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
-        "image": "https://substackcdn.com/image/fetch/$s_!_g0S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b97718-57f4-4977-99c8-8ad5c4d32af3_1548x862.png",
-        "source": "magazine.sebastianraschka.com",
-        "stats": "285 points · 86 comments"
+        "stats": "291 points · 92 comments"
       }
     ],
     "2026-04-03": [
       {
         "url": "https://news.ycombinator.com/item?id=47633396",
         "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-        "description": "1074 points · 821 comments",
+        "description": "1091 points · 827 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://apfel.franzai.com",
-        "title": "Show HN: Apfel – The free AI already on your Mac",
-        "description": "Your Mac already has AI. Apple ships a language model with macOS -apfel unlocks it with one brew install. No downloads, no API keys, no config. The fastest path to local AI.",
-        "image": "https://apfel.franzai.com/og.png",
-        "source": "apfel.franzai.com",
-        "stats": "727 points · 150 comments"
       },
       {
         "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
@@ -150,15 +168,7 @@
         "description": "\n    Claude Code has gotten extremely good at finding security vulnerabilities, and this is only the beginning.\n  ",
         "image": "https://mtlynch.io/claude-code-found-linux-vulnerability/model-effectiveness.png",
         "source": "mtlynch.io",
-        "stats": "413 points · 258 comments"
-      },
-      {
-        "url": "https://imbue.com/product/mngr_part_2/",
-        "title": "A case study in testing with 100+ Claude agents in parallel",
-        "description": "In our previous blog post, we introduced mngr and how you can use it to usefully launch hundreds of parallel agents. Here’s all the details…",
-        "image": "https://imbue.com/preview/2026-04-03-mngr.png",
-        "source": "imbue.com",
-        "stats": "62 points · 49 comments"
+        "stats": "423 points · 268 comments"
       }
     ],
     "2026-04-02": [
@@ -207,51 +217,9 @@
       {
         "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
         "title": "Electrical transformer manufacturing is throttling the electrified future",
-        "description": "114 points · 112 comments",
+        "description": "120 points · 127 comments",
         "image": "",
         "source": "bloomberg.com",
-        "stats": ""
-      }
-    ],
-    "2026-03-31": [
-      {
-        "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-        "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-        "description": "2051 points · 1003 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-        "description": "Anthropic accidentally shipped a source map in their npm package, exposing the full Claude Code source. Here",
-        "image": "",
-        "source": "alex000kim.com",
-        "stats": "1346 points · 552 comments"
-      },
-      {
-        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-        "title": "OpenAI closes funding round at an $852B valuation",
-        "description": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "515 points · 485 comments"
-      },
-      {
-        "url": "https://ollama.com/blog/mlx",
-        "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-        "description": "Today, we&#39;re previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple&#39;s machine learning framework.",
-        "image": "https://ollama.com/public/og.png",
-        "source": "ollama.com",
-        "stats": "633 points · 353 comments"
-      },
-      {
-        "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-        "title": "Microsoft: Copilot is for entertainment purposes only",
-        "description": "566 points · 196 comments",
-        "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1",
-        "source": "microsoft.com",
         "stats": ""
       }
     ]
