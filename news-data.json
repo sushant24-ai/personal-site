@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-08T04:40:28.653Z",
+  "lastUpdated": "2026-04-09T04:37:35.900Z",
   "days": {
+    "2026-04-09": [
+      {
+        "url": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/",
+        "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+        "description": "Thanks to the new possibilities afforded by AI coding tools, the App Store is seeing a resurgence in new app submissions.",
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "source": "9to5mac.com",
+        "stats": "18 points · 9 comments"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Claude_glass",
+        "title": "Claude Glass (Or Black Mirror)",
+        "description": "19 points · 3 comments",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Claude_Lorrain_mirror_in_shark_skin_case%2C_believed_at_one_ti_Wellcome_L0057559.jpg/960px-Claude_Lorrain_mirror_in_shark_skin_case%2C_believed_at_one_ti_Wellcome_L0057559.jpg",
+        "source": "en.wikipedia.org",
+        "stats": ""
+      },
+      {
+        "url": "https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html",
+        "title": "Giving LLMs a Formal Reasoning Engine for Code Analysis",
+        "description": "Dmitri&#39;s blog about programming, Clojure, and software development",
+        "image": "",
+        "source": "yogthos.net",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+        "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
+        "description": "They have degrees, expertise and years of experience – but can’t find work. For many Americans, AI training has become a last refuge in a brutal job market",
+        "image": "https://i.guim.co.uk/img/media/c86732103befa771bc4f5f584f1fd247d6cabf4f/1312_244_5359_4288/master/5359.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fb74f72c784555bd2d1db8dd3508d16",
+        "source": "theguardian.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.claudecodecamp.com/p/claude-code-sandboxing-how-sandbox-works-and-what-it-doesn-t-protect",
+        "title": "Claude Code's sandbox.denyRead doesn't stop the Read tool",
+        "description": "A deep dive on Claude Code&#x27;s /sandbox feature",
+        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/635b10a6-fab8-403f-9997-b2526a7a76eb/thumbnail.png?t=1775706062",
+        "source": "claudecodecamp.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-04-08": [
+      {
+        "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+        "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+        "description": "In early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I’m a Claude Max subscriber, and between March 3-5, I received 16 separate “Extra Usage” invoices ranging from $10-$13 each, all in quick succession of one another. However, I wasn’t using Claude. I was away from my laptop entirely and was out sailing with my parents back home in San Diego.",
+        "image": "",
+        "source": "nickvecchioni.github.io",
+        "stats": "309 points · 149 comments"
+      },
+      {
+        "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+        "title": "ML promises to be profoundly weird",
+        "description": "422 points · 444 comments",
+        "image": "",
+        "source": "aphyr.com",
+        "stats": ""
+      },
       {
         "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
         "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
         "description": "If recent history is any indication, trying to suppress or control the proliferation of A.I. tools may be a losing battle.",
         "image": "https://compote.slate.com/images/f55e2b1d-d608-44b9-93ac-9da6f1037598.jpeg?width&#x3D;1560&amp;rect&#x3D;1560x1040&amp;offset&#x3D;0x0",
         "source": "slate.com",
-        "stats": "257 points · 75 comments"
+        "stats": "382 points · 114 comments"
       },
       {
-        "url": "http://acme.com/updates/archive/229.html",
-        "title": "LLM scraper bots are overloading acme.com's HTTPS server",
-        "description": "17 points · 13 comments",
-        "image": "",
-        "source": "acme.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arxiv.org/abs/2604.04721",
-        "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
-        "description": "People often optimize for long-term goals in collaboration: A mentor or companion doesn&#39;t just answer questions, but also scaffolds learning, tracks progress, and prioritizes the other person&#39;s growth over immediate results. In contrast, current AI systems are fundamentally short-sighted collaborators - optimized for providing instant and complete responses, without ever saying no (unless for safety reasons). What are the consequences of this dynamic? Here, through a series of randomized controlled trials on human-AI interactions (N = 1,222), we provide causal evidence for two key consequences of AI assistance: reduced persistence and impairment of unassisted performance. Across a variety of tasks, including mathematical reasoning and reading comprehension, we find that although AI assistance improves performance in the short-term, people perform significantly worse without AI and are more likely to give up. Notably, these effects emerge after only brief interactions with AI (approximately 10 minutes). These findings are particularly concerning because persistence is foundational to skill acquisition and is one of the strongest predictors of long-term learning. We posit that persistence is reduced because AI conditions people to expect immediate answers, thereby denying them the experience of working through challenges on their own. These results suggest the need for AI model development to prioritize scaffolding long-term competence alongside immediate task completion.",
+        "url": "https://arxiv.org/abs/2604.05091",
+        "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+        "description": "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84$\\times$ the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "10 points · 3 comments"
+        "stats": "273 points · 49 comments"
       },
       {
-        "url": "https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af",
-        "title": "Brands Adopt 'No AI' Disclaimers to Stand Out Amid the Slop",
-        "description": "7 points · 2 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arxiv.org/abs/2604.04192",
-        "title": "Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks",
-        "description": "We introduce GraphicDesignBench (GDB), the first comprehensive benchmark suite designed specifically to evaluate AI models on the full breadth of professional graphic design tasks. Unlike existing benchmarks that focus on natural-image understanding or generic text-to-image synthesis, GDB targets the unique challenges of professional design work: translating communicative intent into structured layouts, rendering typographically faithful text, manipulating layered compositions, producing valid vector graphics, and reasoning about animation. The suite comprises 50 tasks organized along five axes: layout, typography, infographics, template &amp; design semantics and animation, each evaluated under both understanding and generation settings, and grounded in real-world design templates drawn from the LICA layered-composition dataset. We evaluate a set of frontier closed-source models using a standardized metric taxonomy covering spatial accuracy, perceptual quality, text fidelity, semantic alignment, and structural validity. Our results reveal that current models fall short on the core challenges of professional design: spatial reasoning over complex layouts, faithful vector code generation, fine-grained typographic perception, and temporal decomposition of animations remain largely unsolved. While high-level semantic understanding is within reach, the gap widens sharply as tasks demand precision, structure, and compositional awareness. GDB provides a rigorous, reproducible testbed for tracking progress toward AI systems that can function as capable design collaborators. The full evaluation framework is publicly available.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "6 points · 0 comments"
+        "url": "https://claude.com/blog/claude-managed-agents",
+        "title": "Claude Managed Agents",
+        "description": "Introducing Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted agents at scale.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "149 points · 68 comments"
       }
     ],
     "2026-04-07": [
@@ -50,12 +92,12 @@
         "description": "A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1034 points · 460 comments"
+        "stats": "1485 points · 797 comments"
       },
       {
         "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
         "title": "System Card: Claude Mythos Preview [pdf]",
-        "description": "598 points · 437 comments",
+        "description": "824 points · 631 comments",
         "image": "",
         "source": "www-cdn.anthropic.com",
         "stats": ""
@@ -63,7 +105,7 @@
       {
         "url": "https://red.anthropic.com/2026/mythos-preview/",
         "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-        "description": "273 points · 40 comments",
+        "description": "310 points · 52 comments",
         "image": "",
         "source": "red.anthropic.com",
         "stats": ""
@@ -74,7 +116,7 @@
         "description": "Preflight Checklist I have searched existing issues and this hasn&#39;t been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...",
         "image": "https://opengraph.githubassets.com/0a27bb93815c2bf1479e3e2b998436ce832e57c78acf81b4a5a8e4626ff8841c/anthropics/claude-code/issues/44257",
         "source": "github.com",
-        "stats": "218 points · 293 comments"
+        "stats": "222 points · 306 comments"
       },
       {
         "url": "https://sheets.works/data-viz/every-gpu",
@@ -82,7 +124,7 @@
         "description": "49 graphics cards. 30 years. From Quake to Cyberpunk.",
         "image": "https://sheets.works/og-every-gpu.png",
         "source": "sheets.works",
-        "stats": "308 points · 194 comments"
+        "stats": "328 points · 202 comments"
       }
     ],
     "2026-04-06": [
@@ -90,25 +132,9 @@
         "url": "https://github.com/anthropics/claude-code/issues/42796",
         "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
         "description": "Preflight Checklist I have searched existing issues for similar behavior reports This report does NOT contain sensitive information (API keys, passwords, etc.) Type of Behavior Issue Other unexpect...",
-        "image": "https://opengraph.githubassets.com/27b9b3e4cbc6c42d72232a5f5db6c49b7e187059ec6677b2a83ee6f0b0780fef/anthropics/claude-code/issues/42796",
+        "image": "https://opengraph.githubassets.com/b17f370b6c846a754ad431888936f38594712aa05eabb32d2756ef9bceeb99ee/anthropics/claude-code/issues/42796",
         "source": "github.com",
-        "stats": "1296 points · 716 comments"
-      },
-      {
-        "url": "https://github.com/arman-bd/guppylm",
-        "title": "Show HN: I built a tiny LLM to demystify how language models work",
-        "description": "A ~9M parameter LLM that talks like a small fish. Contribute to arman-bd/guppylm development by creating an account on GitHub.",
-        "image": "https://repository-images.githubusercontent.com/1195324890/29604d1d-9515-4974-9e23-e42713cd4a0c",
-        "source": "github.com",
-        "stats": "892 points · 133 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-        "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig",
-        "source": "anthropic.com",
-        "stats": "277 points · 124 comments"
+        "stats": "1324 points · 738 comments"
       },
       {
         "url": "https://www.freestyle.sh/",
@@ -116,15 +142,15 @@
         "description": "Git, VMs, deployments, and execution — unified infrastructure for code you didn&#x27;t write.",
         "image": "https://www.freestyle.sh/opengraph-image?9d53e9a0deaf33f9",
         "source": "freestyle.sh",
-        "stats": "314 points · 154 comments"
+        "stats": "320 points · 156 comments"
       },
       {
-        "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-        "title": "AI singer now occupies eleven spots on iTunes singles chart",
-        "description": "iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named &#8220;Eddie Dalton,&#8221; who does not exist. He&#8217;s Little&#8217;s Artificial [&hellip;]",
-        "image": "https://www.showbiz411.com/wp-content/uploads/2026/03/eddie-dalton.png",
-        "source": "showbiz411.com",
-        "stats": "239 points · 373 comments"
+        "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+        "title": "AI helps add 10k more photos to OldNYC",
+        "description": "141 points · 50 comments",
+        "image": "",
+        "source": "danvk.org",
+        "stats": ""
       }
     ],
     "2026-04-05": [
@@ -149,7 +175,7 @@
       {
         "url": "https://transformer-circuits.pub/2026/emotions/index.html",
         "title": "Emotion Concepts and Their Function in a Large Language Model",
-        "description": "54 points · 8 comments",
+        "description": "63 points · 9 comments",
         "image": "",
         "source": "transformer-circuits.pub",
         "stats": ""
@@ -171,48 +197,6 @@
         "image": "https://mtlynch.io/claude-code-found-linux-vulnerability/model-effectiveness.png",
         "source": "mtlynch.io",
         "stats": "423 points · 268 comments"
-      }
-    ],
-    "2026-04-02": [
-      {
-        "url": "https://qwen.ai/blog?id=qwen3.6",
-        "title": "Qwen3.6-Plus: Towards real world agents",
-        "description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-        "image": "",
-        "source": "qwen.ai",
-        "stats": "585 points · 207 comments"
-      },
-      {
-        "url": "https://lemonade-server.ai",
-        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-        "description": "564 points · 113 comments",
-        "image": "",
-        "source": "lemonade-server.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-        "description": "We replaced expensive sandboxes with ChromaFs, a virtual filesystem over Chroma, to give our docs AI assistant the ability to explore documentation like a developer would.",
-        "image": "https://www.mintlify.com/images/featured/how-we-built-a-virtual-filesystem-for-our-assistant.png",
-        "source": "mintlify.com",
-        "stats": "392 points · 147 comments"
-      },
-      {
-        "url": "https://openai.com/index/openai-acquires-tbpn/",
-        "title": "OpenAI Acquires TBPN",
-        "description": "238 points · 190 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.irregular.com/publications/vibe-password-generation",
-        "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
-        "description": "LLM-generated passwords appear strong, but are fundamentally insecure. Testing across GPT, Claude, and Gemini revealed highly predictable patterns: repeated passwords across runs, skewed character distributions, and dramatically lower entropy than expected. Coding agents compound the problem by sometimes preferring and using LLM-generated passwords without the user’s knowledge. We recommend avoiding LLM-generated passwords and directing both models and coding agents to use secure password generation methods instead.",
-        "image": "https://framerusercontent.com/images/fVNMWw3KT6LQJrjgPpUEKyOEY.png",
-        "source": "irregular.com",
-        "stats": "18 points · 24 comments"
       }
     ]
   }
