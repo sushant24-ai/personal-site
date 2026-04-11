@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-10T04:50:21.658Z",
+  "lastUpdated": "2026-04-11T04:25:25.915Z",
   "days": {
+    "2026-04-11": [
+      {
+        "url": "https://github.com/farukalpay/hormuz-tectonochemical-engine/",
+        "title": "Hormuz, an MCP-first forecasting engine for reproducible modeling",
+        "description": "MCP-first tectonochemical forecasting engine for reproducible hydrocarbon-nitrogen-water modeling and paper-ready artifacts. - farukalpay/hormuz-tectonochemical-engine",
+        "image": "https://opengraph.githubassets.com/0a8a37df84721eb3de88d53c0d00d0b95296666531a6c746a3c9031133d19d78/farukalpay/hormuz-tectonochemical-engine",
+        "source": "github.com",
+        "stats": "7 points · 1 comments"
+      },
+      {
+        "url": "https://imgur.com/a/e3nxq5k",
+        "title": "Show HN: I forced Claude to play Tetris in Emacs",
+        "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
+        "image": "https://i.imgur.com/0uyydZ4.jpg?fbplay",
+        "source": "imgur.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/visionscaper/collabmem",
+        "title": "Show HN: Collabmem – a memory system for long-term collaboration with AI",
+        "description": "Enabling long-term collaboration with Agentic AI - building up episodic and world model memory over time with in-context awareness - visionscaper/collabmem",
+        "image": "https://opengraph.githubassets.com/890c4db42c7046900b10ca3dbe18e282f7a9a65ecddcbbc2fb1111e8f743fd05/visionscaper/collabmem",
+        "source": "github.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/alainnothere/AmdPerformanceTesting",
+        "title": "AMD GPU LLM Performance Testing",
+        "description": "Amd Performance Testing. Contribute to alainnothere/AmdPerformanceTesting development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/39555307b0fbacfa2e3887e5e02d463b6d857cc4f0f4c907dfcaf6fe1ce79a93/alainnothere/AmdPerformanceTesting",
+        "source": "github.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://chatgpt.com/",
+        "title": "Is ChatGPT Down?",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "chatgpt.com",
+        "stats": ""
+      }
+    ],
     "2026-04-10": [
+      {
+        "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+        "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+        "description": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+        "image": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
+        "source": "wired.com",
+        "stats": "426 points · 309 comments"
+      },
       {
         "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
         "title": "I still prefer MCP over skills",
         "description": "Why I believe the Model Context Protocol (MCP) is a better architectural pattern than the emerging “Skills” trend for LLM tool integration.",
         "image": "https://david.coffee/i-still-prefer-mcp-over-skills/banner.png",
         "source": "david.coffee",
-        "stats": "47 points · 58 comments"
+        "stats": "427 points · 352 comments"
       },
       {
-        "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-        "title": "OpenAI backs bill to exempt AI firms from harm lawsuits",
-        "description": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
-        "image": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
-        "source": "wired.com",
-        "stats": "10 points · 0 comments"
+        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+        "title": "AI assistance when contributing to the Linux kernel",
+        "description": "Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/8b7ddbdeffb59316d7108915310d7ae708434e12073b4b714d557abf6bddd9db/torvalds/linux",
+        "source": "github.com",
+        "stats": "211 points · 146 comments"
       },
       {
-        "url": "https://nypost.com/2026/04/09/business/googles-ai-overviews-spew-out-millions-of-false-answers-per-hour-bombshell-study/",
-        "title": "Google's AI Overviews spew false answers per hour, bombshell study reveals",
-        "description": "“Google AI Overviews have been a disaster for publishers who rely on clicks to fund the production of quality journalism, but they also let down users looking for accurate information,” said …",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/125320048.jpg?quality=75&#038;strip=all&#038;w=1200",
-        "source": "nypost.com",
-        "stats": "10 points · 0 comments"
+        "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+        "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+        "description": "Reports say Fed chair Jerome Powell among attenders at meeting in Washington",
+        "image": "https://i.guim.co.uk/img/media/d604120aa55a5469d8bcd21deec7990e5ef3c52c/712_413_1896_1518/master/1896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=804ae4c79b6fb6260d4d923999cd9e0c",
+        "source": "theguardian.com",
+        "stats": "104 points · 91 comments"
       },
       {
-        "url": "https://twitter.com/fried_rice/status/2042423713019412941",
-        "title": "Some LLM routers are injecting malicious tool calls",
-        "description": "4 points · 1 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.theatlantic.com/technology/2026/04/claude-mythos-hacking/686746/",
-        "title": "Claude Mythos Is Everyone's Problem",
-        "description": "What happens when AI can hack everything?",
-        "image": "https://cdn.theatlantic.com/thumbor/noVu2OT-b_bXsB1WLLkm8i6Q2zI=/0x32:1498x812/1200x625/media/img/mt/2026/04/2026_03_07_Ai_mpg/original.gif",
-        "source": "theatlantic.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://www.nature.com/articles/d41586-026-01100-y",
+        "title": "Scientists invented a fake disease. AI told people it was real",
+        "description": "Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?",
+        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01100-y/d41586-026-01100-y_52248794.jpg",
+        "source": "nature.com",
+        "stats": "86 points · 88 comments"
       }
     ],
     "2026-04-09": [
@@ -50,7 +92,7 @@
         "description": "Claude sometimes sends messages to itself and then thinks those messages come from the user. This is categorically distinct from hallucinations or missing permissions.",
         "image": "",
         "source": "dwyer.co.za",
-        "stats": "415 points · 328 comments"
+        "stats": "453 points · 344 comments"
       },
       {
         "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
@@ -58,7 +100,7 @@
         "description": "\n    \n      With Anthropic altering rate limits, we can find other places to spend our money. I have chosen Zed editor with OpenRouter for maximum flexibility.\n    \n  ",
         "image": "https://braw.dev/images/braw-dev-og-background_hu_960e5912b59745f.png",
         "source": "braw.dev",
-        "stats": "316 points · 210 comments"
+        "stats": "340 points · 229 comments"
       },
       {
         "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
@@ -66,12 +108,12 @@
         "description": "09 Apr 2026 The Vercel Plugin on Claude Code wants to read all your prompts!",
         "image": "https://akshaychugh.xyz/assets/images/og-default-wide.png",
         "source": "akshaychugh.xyz",
-        "stats": "257 points · 104 comments"
+        "stats": "269 points · 110 comments"
       },
       {
         "url": "https://chatgpt.com/pricing/",
         "title": "ChatGPT Pro now starts at $100/month",
-        "description": "201 points · 217 comments",
+        "description": "209 points · 249 comments",
         "image": "",
         "source": "chatgpt.com",
         "stats": ""
@@ -80,51 +122,19 @@
         "url": "https://github.com/aloshdenny/reverse-SynthID",
         "title": "Reverse engineering Gemini's SynthID detection",
         "description": "reverse engineering Gemini&#39;s SynthID detection. Contribute to aloshdenny/reverse-SynthID development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/fe75fa07004f5c3cb7053266e45f72cfa92b770e1b93e1ba98c664b095e13f0d/aloshdenny/reverse-SynthID",
+        "image": "https://opengraph.githubassets.com/193fd549b9de7c38b5dd4cc71fe8bccddae0098e0c2b1323a44b7e987257c541/aloshdenny/reverse-SynthID",
         "source": "github.com",
-        "stats": "124 points · 47 comments"
+        "stats": "169 points · 54 comments"
       }
     ],
     "2026-04-08": [
       {
-        "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-        "title": "ML promises to be profoundly weird",
-        "description": "594 points · 590 comments",
+        "url": "https://pvp-ai.russell-harper.com",
+        "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
+        "description": "PvP-AI – an 8-bit retro game revived for the Commander X16, now integrating real-time LLM-driven gameplay via ChatGPT API.",
         "image": "",
-        "source": "aphyr.com",
-        "stats": ""
-      },
-      {
-        "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-        "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-        "description": "Update (April 9, 2025): Since publishing this post, a human support agent from Anthropic has reached out to me. I appreciate them following up.",
-        "image": "",
-        "source": "nickvecchioni.github.io",
-        "stats": "415 points · 194 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2604.05091",
-        "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-        "description": "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84$\\times$ the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "323 points · 56 comments"
-      },
-      {
-        "url": "https://claude.com/blog/claude-managed-agents",
-        "title": "Claude Managed Agents",
-        "description": "Introducing Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted agents at scale.",
-        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
-        "source": "claude.com",
-        "stats": "167 points · 84 comments"
-      },
-      {
-        "url": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/",
-        "title": "The AI Great Leap Forward",
-        "description": "In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today&#39;s top-down AI mandates are producing the same pattern: ba...",
-        "image": "https://leehanchung.github.io/assets/img/2026-04-05/00-tb.png",
-        "source": "leehanchung.github.io",
-        "stats": "125 points · 60 comments"
+        "source": "pvp-ai.russell-harper.com",
+        "stats": "28 points · 4 comments"
       }
     ],
     "2026-04-07": [
@@ -134,23 +144,15 @@
         "description": "A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1511 points · 825 comments"
+        "stats": "1529 points · 832 comments"
       },
       {
-        "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-        "title": "System Card: Claude Mythos Preview [pdf]",
-        "description": "836 points · 646 comments",
-        "image": "",
-        "source": "www-cdn.anthropic.com",
-        "stats": ""
-      },
-      {
-        "url": "https://sheets.works/data-viz/every-gpu",
-        "title": "Every GPU That Mattered",
-        "description": "49 graphics cards. 30 years. From Quake to Cyberpunk.",
-        "image": "https://sheets.works/og-every-gpu.png",
-        "source": "sheets.works",
-        "stats": "328 points · 207 comments"
+        "url": "https://github.com/marimo-team/marimo-pair",
+        "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
+        "description": "Drop agents inside running marimo notebook sessions - marimo-team/marimo-pair",
+        "image": "https://opengraph.githubassets.com/e8636502fcdd9b58bb53a89b82e41cac297b378f8d45a50586e0896db9756ca5/marimo-team/marimo-pair",
+        "source": "github.com",
+        "stats": "123 points · 31 comments"
       },
       {
         "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
@@ -158,7 +160,7 @@
         "description": "This is Mabu - a robot that sits near my front door, and whose voice and actions are controlled by an AI chatbot.",
         "image": "",
         "source": "allevato.me",
-        "stats": "23 points · 6 comments"
+        "stats": "66 points · 28 comments"
       }
     ],
     "2026-04-06": [
@@ -187,16 +189,6 @@
         "image": "https://opengraph.githubassets.com/3be8fdc1410c33071eaef56e05375b0b2ef269efa010ec49813d625a6cd2a233/fikrikarim/parlor",
         "source": "github.com",
         "stats": "285 points · 35 comments"
-      }
-    ],
-    "2026-04-04": [
-      {
-        "url": "https://transformer-circuits.pub/2026/emotions/index.html",
-        "title": "Emotion Concepts and Their Function in a Large Language Model",
-        "description": "63 points · 9 comments",
-        "image": "",
-        "source": "transformer-circuits.pub",
-        "stats": ""
       }
     ]
   }
