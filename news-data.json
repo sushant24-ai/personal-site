@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-11T04:25:25.915Z",
+  "lastUpdated": "2026-04-12T04:50:09.526Z",
   "days": {
+    "2026-04-12": [
+      {
+        "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+        "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+        "description": "&quot;Slopaganda&quot; is too weak a term to capture how powerful this &quot;highly sophisticated&quot; content is, one expert says.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
+        "source": "bbc.com",
+        "stats": "62 points · 57 comments"
+      },
+      {
+        "url": "https://jobloss.ai/",
+        "title": "AI Job Loss Tracker",
+        "description": "24 points · 21 comments",
+        "image": "",
+        "source": "jobloss.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://www.politico.com/news/2026/04/08/d-c-circuit-rejects-anthropic-plea-to-pause-supply-chain-risk-label-00864880",
+        "title": "Anthropic loses appeals court bid to pause supply chain risk label",
+        "description": "14 points · 3 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+        "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major US banks",
+        "description": "Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108289742-1775823205494-Untitled-1.jpg?v=1775823264&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/grainulation/farmer",
+        "title": "Walked dog, did groceries, folded laundry. Claude Code shipped. Thanks Farmer",
+        "description": "Remote permission management for AI coding agents. Approve tool calls from your phone. - grainulation/farmer",
+        "image": "https://opengraph.githubassets.com/c5d003e190f36fa6960de36858eaf7c86610286654fe3ff89886f2751877b91f/grainulation/farmer",
+        "source": "github.com",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-04-11": [
       {
-        "url": "https://github.com/farukalpay/hormuz-tectonochemical-engine/",
-        "title": "Hormuz, an MCP-first forecasting engine for reproducible modeling",
-        "description": "MCP-first tectonochemical forecasting engine for reproducible hydrocarbon-nitrogen-water modeling and paper-ready artifacts. - farukalpay/hormuz-tectonochemical-engine",
-        "image": "https://opengraph.githubassets.com/0a8a37df84721eb3de88d53c0d00d0b95296666531a6c746a3c9031133d19d78/farukalpay/hormuz-tectonochemical-engine",
-        "source": "github.com",
-        "stats": "7 points · 1 comments"
-      },
-      {
-        "url": "https://imgur.com/a/e3nxq5k",
-        "title": "Show HN: I forced Claude to play Tetris in Emacs",
-        "description": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
-        "image": "https://i.imgur.com/0uyydZ4.jpg?fbplay",
-        "source": "imgur.com",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://github.com/visionscaper/collabmem",
-        "title": "Show HN: Collabmem – a memory system for long-term collaboration with AI",
-        "description": "Enabling long-term collaboration with Agentic AI - building up episodic and world model memory over time with in-context awareness - visionscaper/collabmem",
-        "image": "https://opengraph.githubassets.com/890c4db42c7046900b10ca3dbe18e282f7a9a65ecddcbbc2fb1111e8f743fd05/visionscaper/collabmem",
-        "source": "github.com",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://github.com/alainnothere/AmdPerformanceTesting",
-        "title": "AMD GPU LLM Performance Testing",
-        "description": "Amd Performance Testing. Contribute to alainnothere/AmdPerformanceTesting development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/39555307b0fbacfa2e3887e5e02d463b6d857cc4f0f4c907dfcaf6fe1ce79a93/alainnothere/AmdPerformanceTesting",
-        "source": "github.com",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://chatgpt.com/",
-        "title": "Is ChatGPT Down?",
-        "description": "4 points · 1 comments",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "description": "286 points · 81 comments",
         "image": "",
-        "source": "chatgpt.com",
+        "source": "rdi.berkeley.edu",
         "stats": ""
+      },
+      {
+        "url": "https://cirruslabs.org/",
+        "title": "Cirrus Labs to join OpenAI",
+        "description": "Cirrus Labs announces an agreement to join OpenAI as part of the Agent Infrastructure team.",
+        "image": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
+        "source": "cirruslabs.org",
+        "stats": "247 points · 122 comments"
+      },
+      {
+        "url": "https://www.hormuz-havoc.com/",
+        "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
+        "description": "You promised the world a quick war. Now the Strait of Hormuz is shut, oil is spiking, and you",
+        "image": "https://hormuz-havoc.com/assets/social/og-burning-oil-drum.svg",
+        "source": "hormuz-havoc.com",
+        "stats": "51 points · 16 comments"
+      },
+      {
+        "url": "https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA",
+        "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
+        "description": "45 points · 28 comments",
+        "image": "",
+        "source": "msn.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
+        "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
+        "description": "Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260410-anthropic-mn-1615-67ad21.jpg",
+        "source": "nbcnews.com",
+        "stats": "14 points · 7 comments"
       }
     ],
     "2026-04-10": [
@@ -50,7 +92,15 @@
         "description": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
         "image": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
         "source": "wired.com",
-        "stats": "426 points · 309 comments"
+        "stats": "440 points · 320 comments"
+      },
+      {
+        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+        "title": "AI assistance when contributing to the Linux kernel",
+        "description": "Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/9f5429d7a099cc8106bde0bd6d820641d7585ccc711e8348f56c2f6924dfb02c/torvalds/linux",
+        "source": "github.com",
+        "stats": "499 points · 380 comments"
       },
       {
         "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
@@ -58,15 +108,7 @@
         "description": "Why I believe the Model Context Protocol (MCP) is a better architectural pattern than the emerging “Skills” trend for LLM tool integration.",
         "image": "https://david.coffee/i-still-prefer-mcp-over-skills/banner.png",
         "source": "david.coffee",
-        "stats": "427 points · 352 comments"
-      },
-      {
-        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-        "title": "AI assistance when contributing to the Linux kernel",
-        "description": "Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/8b7ddbdeffb59316d7108915310d7ae708434e12073b4b714d557abf6bddd9db/torvalds/linux",
-        "source": "github.com",
-        "stats": "211 points · 146 comments"
+        "stats": "449 points · 366 comments"
       },
       {
         "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
@@ -74,7 +116,7 @@
         "description": "Reports say Fed chair Jerome Powell among attenders at meeting in Washington",
         "image": "https://i.guim.co.uk/img/media/d604120aa55a5469d8bcd21deec7990e5ef3c52c/712_413_1896_1518/master/1896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=804ae4c79b6fb6260d4d923999cd9e0c",
         "source": "theguardian.com",
-        "stats": "104 points · 91 comments"
+        "stats": "106 points · 94 comments"
       },
       {
         "url": "https://www.nature.com/articles/d41586-026-01100-y",
@@ -82,49 +124,25 @@
         "description": "Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?",
         "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01100-y/d41586-026-01100-y_52248794.jpg",
         "source": "nature.com",
-        "stats": "86 points · 88 comments"
+        "stats": "90 points · 91 comments"
       }
     ],
     "2026-04-09": [
       {
-        "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-        "title": "Claude mixes up who said what",
-        "description": "Claude sometimes sends messages to itself and then thinks those messages come from the user. This is categorically distinct from hallucinations or missing permissions.",
-        "image": "",
-        "source": "dwyer.co.za",
-        "stats": "453 points · 344 comments"
-      },
-      {
-        "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-        "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-        "description": "\n    \n      With Anthropic altering rate limits, we can find other places to spend our money. I have chosen Zed editor with OpenRouter for maximum flexibility.\n    \n  ",
-        "image": "https://braw.dev/images/braw-dev-og-background_hu_960e5912b59745f.png",
-        "source": "braw.dev",
-        "stats": "340 points · 229 comments"
-      },
-      {
-        "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-        "title": "The Vercel plugin on Claude Code wants to read your prompts",
-        "description": "09 Apr 2026 The Vercel Plugin on Claude Code wants to read all your prompts!",
-        "image": "https://akshaychugh.xyz/assets/images/og-default-wide.png",
-        "source": "akshaychugh.xyz",
-        "stats": "269 points · 110 comments"
-      },
-      {
-        "url": "https://chatgpt.com/pricing/",
-        "title": "ChatGPT Pro now starts at $100/month",
-        "description": "209 points · 249 comments",
-        "image": "",
-        "source": "chatgpt.com",
-        "stats": ""
-      },
-      {
         "url": "https://github.com/aloshdenny/reverse-SynthID",
         "title": "Reverse engineering Gemini's SynthID detection",
         "description": "reverse engineering Gemini&#39;s SynthID detection. Contribute to aloshdenny/reverse-SynthID development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/193fd549b9de7c38b5dd4cc71fe8bccddae0098e0c2b1323a44b7e987257c541/aloshdenny/reverse-SynthID",
+        "image": "https://opengraph.githubassets.com/b876f901ebbc6e87409595522ff6463e07debcecf3a9ed04974d14f2e1c4121d/aloshdenny/reverse-SynthID",
         "source": "github.com",
-        "stats": "169 points · 54 comments"
+        "stats": "172 points · 54 comments"
+      },
+      {
+        "url": "https://www.instantdb.com/essays/architecture",
+        "title": "Instant 1.0, a backend for AI-coded apps",
+        "description": "Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think Instant is the best backend for AI-coded apps. We also cover the architecture that makes all of it work.",
+        "image": "https://www.instantdb.com/img/essays/architecture.jpg",
+        "source": "instantdb.com",
+        "stats": "215 points · 123 comments"
       }
     ],
     "2026-04-08": [
@@ -139,20 +157,12 @@
     ],
     "2026-04-07": [
       {
-        "url": "https://www.anthropic.com/glasswing",
-        "title": "Project Glasswing: Securing critical software for the AI era",
-        "description": "A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "1529 points · 832 comments"
-      },
-      {
         "url": "https://github.com/marimo-team/marimo-pair",
         "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
         "description": "Drop agents inside running marimo notebook sessions - marimo-team/marimo-pair",
-        "image": "https://opengraph.githubassets.com/e8636502fcdd9b58bb53a89b82e41cac297b378f8d45a50586e0896db9756ca5/marimo-team/marimo-pair",
+        "image": "https://opengraph.githubassets.com/942efca7af8cd0872eb0e4066427571ce5fdbe537f8b55174db4ae895e85fa28/marimo-team/marimo-pair",
         "source": "github.com",
-        "stats": "123 points · 31 comments"
+        "stats": "136 points · 33 comments"
       },
       {
         "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
@@ -171,24 +181,6 @@
         "image": "https://www.freestyle.sh/opengraph-image?9d53e9a0deaf33f9",
         "source": "freestyle.sh",
         "stats": "322 points · 156 comments"
-      }
-    ],
-    "2026-04-05": [
-      {
-        "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-        "title": "Eight years of wanting, three months of building with AI",
-        "description": "For eight years, I’ve wanted a high-quality set of devtools for working with SQLite. Given how important SQLite is to the industry1, I’ve long been puzzled that no one has invested in building a really good developer experience for it2.\nA couple of weeks ago, after ~250 hours of effort over three months3 on evenings, weekends, and vacation days, I finally released syntaqlite (GitHub), fulfilling this long-held wish. And I believe the main reason this happened was because of AI coding agents4.\nOf course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.\nI’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.",
-        "image": "",
-        "source": "lalitm.com",
-        "stats": "945 points · 300 comments"
-      },
-      {
-        "url": "https://github.com/fikrikarim/parlor",
-        "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-        "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor",
-        "image": "https://opengraph.githubassets.com/3be8fdc1410c33071eaef56e05375b0b2ef269efa010ec49813d625a6cd2a233/fikrikarim/parlor",
-        "source": "github.com",
-        "stats": "285 points · 35 comments"
       }
     ]
   }
