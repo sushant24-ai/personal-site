@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-04-12T04:50:09.526Z",
+  "lastUpdated": "2026-04-13T05:17:43.631Z",
   "days": {
+    "2026-04-13": [
+      {
+        "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+        "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+        "description": "75 points · 61 comments",
+        "image": "",
+        "source": "adlrocha.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://getlago.substack.com/p/open-sourcing-my-writing-claude-skill",
+        "title": "Writing should have a soul and its own Claude Skill",
+        "description": "8 points · 1 comments",
+        "image": "",
+        "source": "getlago.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.chipmunkify.com/",
+        "title": "Show HN: Chipmunkify – I used ML to solve audio's dumbest problem",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "chipmunkify.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/farukalpay/prompt-refinery",
+        "title": "Open Source MCP server that refines prompts from retrieval evidence",
+        "description": "Retrieval-grounded prompt refinement as a Python library, CLI, and MCP server - farukalpay/prompt-refinery",
+        "image": "https://opengraph.githubassets.com/9d6f4e82506676bf36e4c879e918fd87e890f581c59244ae91ddd5846216c87b/farukalpay/prompt-refinery",
+        "source": "github.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.sfchronicle.com/bayarea/article/sam-altman-openai-gunfire-22202648.php",
+        "title": "SFPD investigates apparent shooting near OpenAI CEO Sam Altman's home",
+        "description": "2 points · 2 comments",
+        "image": "",
+        "source": "sfchronicle.com",
+        "stats": ""
+      }
+    ],
     "2026-04-12": [
       {
-        "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
-        "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-        "description": "&quot;Slopaganda&quot; is too weak a term to capture how powerful this &quot;highly sophisticated&quot; content is, one expert says.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
-        "source": "bbc.com",
-        "stats": "62 points · 57 comments"
-      },
-      {
-        "url": "https://jobloss.ai/",
-        "title": "AI Job Loss Tracker",
-        "description": "24 points · 21 comments",
-        "image": "",
-        "source": "jobloss.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://www.politico.com/news/2026/04/08/d-c-circuit-rejects-anthropic-plea-to-pause-supply-chain-risk-label-00864880",
-        "title": "Anthropic loses appeals court bid to pause supply chain risk label",
-        "description": "14 points · 3 comments",
-        "image": "",
-        "source": "politico.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
-        "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major US banks",
-        "description": "Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108289742-1775823205494-Untitled-1.jpg?v=1775823264&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "6 points · 0 comments"
-      },
-      {
-        "url": "https://github.com/grainulation/farmer",
-        "title": "Walked dog, did groceries, folded laundry. Claude Code shipped. Thanks Farmer",
-        "description": "Remote permission management for AI coding agents. Approve tool calls from your phone. - grainulation/farmer",
-        "image": "https://opengraph.githubassets.com/c5d003e190f36fa6960de36858eaf7c86610286654fe3ff89886f2751877b91f/grainulation/farmer",
+        "url": "https://github.com/anthropics/claude-code/issues/46829",
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "description": "Cache TTL appears to have silently regressed from 1h to 5m around early March 2026, causing significant quota and cost inflation Summary Analysis of raw Claude Code session JSONL files spanning Jan...",
+        "image": "https://opengraph.githubassets.com/0e10559bf66298754108ffb8a43c6fab6df9799d7d336f40fc30da8803c17860/anthropics/claude-code/issues/46829",
         "source": "github.com",
-        "stats": "5 points · 0 comments"
+        "stats": "500 points · 387 comments"
+      },
+      {
+        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+        "description": "It has started",
+        "image": "https://substackcdn.com/image/fetch/$s_!eC5c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F768f3fea-f270-45f0-ba62-4febc9c32bc2_1344x896.png",
+        "source": "thealgorithmicbridge.com",
+        "stats": "330 points · 592 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47739305",
+        "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
+        "description": "168 points · 70 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://europe.mistral.ai/",
+        "title": "European AI. A playbook to own it",
+        "description": "Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.",
+        "image": "https://europe.mistral.ai/images/og.png",
+        "source": "europe.mistral.ai",
+        "stats": "161 points · 96 comments"
+      },
+      {
+        "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+        "title": "Tech valuations are back to pre-AI boom levels",
+        "description": "The chart below compares the forward P/E ratios for the S&amp;amp;P 500 and the S&amp;amp;P 500 Information Technology sector. Subscribe for daily updates.",
+        "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+        "source": "apollo.com",
+        "stats": "126 points · 34 comments"
       }
     ],
     "2026-04-11": [
       {
         "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-        "description": "286 points · 81 comments",
+        "title": "Exploiting the most prominent AI agent benchmarks",
+        "description": "503 points · 130 comments",
         "image": "",
         "source": "rdi.berkeley.edu",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "Cirrus Labs announces an agreement to join OpenAI as part of the Agent Infrastructure team.",
         "image": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
         "source": "cirruslabs.org",
-        "stats": "247 points · 122 comments"
+        "stats": "279 points · 139 comments"
       },
       {
         "url": "https://www.hormuz-havoc.com/",
@@ -66,65 +108,33 @@
         "description": "You promised the world a quick war. Now the Strait of Hormuz is shut, oil is spiking, and you",
         "image": "https://hormuz-havoc.com/assets/social/og-burning-oil-drum.svg",
         "source": "hormuz-havoc.com",
-        "stats": "51 points · 16 comments"
+        "stats": "54 points · 16 comments"
       },
       {
         "url": "https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA",
         "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
-        "description": "45 points · 28 comments",
+        "description": "49 points · 28 comments",
         "image": "",
         "source": "msn.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
-        "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
-        "description": "Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260410-anthropic-mn-1615-67ad21.jpg",
-        "source": "nbcnews.com",
-        "stats": "14 points · 7 comments"
       }
     ],
     "2026-04-10": [
       {
-        "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-        "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
-        "description": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
-        "image": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
-        "source": "wired.com",
-        "stats": "440 points · 320 comments"
-      },
-      {
         "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
         "title": "AI assistance when contributing to the Linux kernel",
         "description": "Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/9f5429d7a099cc8106bde0bd6d820641d7585ccc711e8348f56c2f6924dfb02c/torvalds/linux",
+        "image": "https://opengraph.githubassets.com/c43a4fa801cae222c41affcafe19007451f63a814f84f0bddd9eb17903afcba5/torvalds/linux",
         "source": "github.com",
-        "stats": "499 points · 380 comments"
+        "stats": "510 points · 406 comments"
       },
       {
-        "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-        "title": "I still prefer MCP over skills",
-        "description": "Why I believe the Model Context Protocol (MCP) is a better architectural pattern than the emerging “Skills” trend for LLM tool integration.",
-        "image": "https://david.coffee/i-still-prefer-mcp-over-skills/banner.png",
-        "source": "david.coffee",
-        "stats": "449 points · 366 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
-        "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
-        "description": "Reports say Fed chair Jerome Powell among attenders at meeting in Washington",
-        "image": "https://i.guim.co.uk/img/media/d604120aa55a5469d8bcd21deec7990e5ef3c52c/712_413_1896_1518/master/1896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=804ae4c79b6fb6260d4d923999cd9e0c",
-        "source": "theguardian.com",
-        "stats": "106 points · 94 comments"
-      },
-      {
-        "url": "https://www.nature.com/articles/d41586-026-01100-y",
-        "title": "Scientists invented a fake disease. AI told people it was real",
-        "description": "Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?",
-        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01100-y/d41586-026-01100-y_52248794.jpg",
-        "source": "nature.com",
-        "stats": "90 points · 91 comments"
+        "url": "https://twill.ai",
+        "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+        "description": "YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environments, and pings you when it needs your input. Integrates with GitHub, Slack, Linear, and more.",
+        "image": "https://twill.ai/link-preview-card.png",
+        "source": "twill.ai",
+        "stats": "77 points · 90 comments"
       }
     ],
     "2026-04-09": [
@@ -171,16 +181,6 @@
         "image": "",
         "source": "allevato.me",
         "stats": "66 points · 28 comments"
-      }
-    ],
-    "2026-04-06": [
-      {
-        "url": "https://www.freestyle.sh/",
-        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-        "description": "Git, VMs, deployments, and execution — unified infrastructure for code you didn&#x27;t write.",
-        "image": "https://www.freestyle.sh/opengraph-image?9d53e9a0deaf33f9",
-        "source": "freestyle.sh",
-        "stats": "322 points · 156 comments"
       }
     ]
   }
