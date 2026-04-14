@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-13T05:17:43.631Z",
+  "lastUpdated": "2026-04-14T04:48:29.304Z",
   "days": {
+    "2026-04-14": [
+      {
+        "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
+        "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+        "description": "The Meta chief is personally involved in training and testing his animated AI.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1182969866-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "9 points · 2 comments"
+      },
+      {
+        "url": "https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/",
+        "title": "Comprehension Debt: The Hidden Cost of AI-Generated Code",
+        "description": "The following article originally appeared on Addy Osmani",
+        "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/Comprehension-debt-1600x1244.jpg",
+        "source": "oreilly.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://www.bbiz.shop/blog",
+        "title": "AI Agent Stores – Making Shopee Products Findable by ChatGPT and Perplexity",
+        "description": "10 Malaysian brands, 102 products, all machine-readable for AI agents. Built with llms.txt, MCP, and Schema.org.",
+        "image": "",
+        "source": "bbiz.shop",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/Squid-Proxy-Lovers/ccp",
+        "title": "Cephalopod Coordination Protocol, Useful for Teams Using AI Agents",
+        "description": "Cephalopod Coordination Protocol (CCP) is a Rust-based client-server protocol for fast, reliable coordination between agentic systems. - Squid-Proxy-Lovers/ccp",
+        "image": "https://opengraph.githubassets.com/819501c99241aec31f9de64cdbcbf1355237485b46fd4cff4e31852687c36450/Squid-Proxy-Lovers/ccp",
+        "source": "github.com",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47760931",
+        "title": "Ask HN: Are most agent skills just fancy system prompts with a name?",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-04-13": [
+      {
+        "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+        "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+        "description": "334 points · 251 comments",
+        "image": "",
+        "source": "neowin.net",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+        "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+        "description": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "227 points · 311 comments"
+      },
       {
         "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
         "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-        "description": "75 points · 61 comments",
+        "description": "403 points · 356 comments",
         "image": "",
         "source": "adlrocha.substack.com",
         "stats": ""
       },
       {
-        "url": "https://getlago.substack.com/p/open-sourcing-my-writing-claude-skill",
-        "title": "Writing should have a soul and its own Claude Skill",
-        "description": "8 points · 1 comments",
-        "image": "",
-        "source": "getlago.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.chipmunkify.com/",
-        "title": "Show HN: Chipmunkify – I used ML to solve audio's dumbest problem",
-        "description": "3 points · 1 comments",
-        "image": "",
-        "source": "chipmunkify.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/farukalpay/prompt-refinery",
-        "title": "Open Source MCP server that refines prompts from retrieval evidence",
-        "description": "Retrieval-grounded prompt refinement as a Python library, CLI, and MCP server - farukalpay/prompt-refinery",
-        "image": "https://opengraph.githubassets.com/9d6f4e82506676bf36e4c879e918fd87e890f581c59244ae91ddd5846216c87b/farukalpay/prompt-refinery",
+        "url": "https://github.com/brightbeanxyz/brightbean-studio",
+        "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+        "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilo...",
+        "image": "https://opengraph.githubassets.com/40675e366099e69cfc104fb1cf8464bca24968f1f29733fa4895f230d48e6a61/brightbeanxyz/brightbean-studio",
         "source": "github.com",
-        "stats": "4 points · 0 comments"
+        "stats": "176 points · 118 comments"
       },
       {
-        "url": "https://www.sfchronicle.com/bayarea/article/sam-altman-openai-gunfire-22202648.php",
-        "title": "SFPD investigates apparent shooting near OpenAI CEO Sam Altman's home",
-        "description": "2 points · 2 comments",
-        "image": "",
-        "source": "sfchronicle.com",
-        "stats": ""
+        "url": "https://status.claude.com/incidents/6jd2m42f8mld",
+        "title": "Claude.ai down",
+        "description": "Claude&#39;s Status Page - Claude.ai down.",
+        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+        "source": "status.claude.com",
+        "stats": "127 points · 122 comments"
       }
     ],
     "2026-04-12": [
@@ -48,9 +90,9 @@
         "url": "https://github.com/anthropics/claude-code/issues/46829",
         "title": "Anthropic downgraded cache TTL on March 6th",
         "description": "Cache TTL appears to have silently regressed from 1h to 5m around early March 2026, causing significant quota and cost inflation Summary Analysis of raw Claude Code session JSONL files spanning Jan...",
-        "image": "https://opengraph.githubassets.com/0e10559bf66298754108ffb8a43c6fab6df9799d7d336f40fc30da8803c17860/anthropics/claude-code/issues/46829",
+        "image": "https://opengraph.githubassets.com/7d5f25137869c7c0165d56ae1a4b809043dee11d98037330c9f62846fcacdfb3/anthropics/claude-code/issues/46829",
         "source": "github.com",
-        "stats": "500 points · 387 comments"
+        "stats": "543 points · 416 comments"
       },
       {
         "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
@@ -58,12 +100,12 @@
         "description": "It has started",
         "image": "https://substackcdn.com/image/fetch/$s_!eC5c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F768f3fea-f270-45f0-ba62-4febc9c32bc2_1344x896.png",
         "source": "thealgorithmicbridge.com",
-        "stats": "330 points · 592 comments"
+        "stats": "345 points · 626 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=47739305",
         "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
-        "description": "168 points · 70 comments",
+        "description": "177 points · 77 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -74,7 +116,7 @@
         "description": "Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.",
         "image": "https://europe.mistral.ai/images/og.png",
         "source": "europe.mistral.ai",
-        "stats": "161 points · 96 comments"
+        "stats": "198 points · 131 comments"
       },
       {
         "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
@@ -82,40 +124,16 @@
         "description": "The chart below compares the forward P/E ratios for the S&amp;amp;P 500 and the S&amp;amp;P 500 Information Technology sector. Subscribe for daily updates.",
         "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
         "source": "apollo.com",
-        "stats": "126 points · 34 comments"
+        "stats": "147 points · 40 comments"
       }
     ],
     "2026-04-11": [
       {
         "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
         "title": "Exploiting the most prominent AI agent benchmarks",
-        "description": "503 points · 130 comments",
+        "description": "576 points · 139 comments",
         "image": "",
         "source": "rdi.berkeley.edu",
-        "stats": ""
-      },
-      {
-        "url": "https://cirruslabs.org/",
-        "title": "Cirrus Labs to join OpenAI",
-        "description": "Cirrus Labs announces an agreement to join OpenAI as part of the Agent Infrastructure team.",
-        "image": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
-        "source": "cirruslabs.org",
-        "stats": "279 points · 139 comments"
-      },
-      {
-        "url": "https://www.hormuz-havoc.com/",
-        "title": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
-        "description": "You promised the world a quick war. Now the Strait of Hormuz is shut, oil is spiking, and you",
-        "image": "https://hormuz-havoc.com/assets/social/og-burning-oil-drum.svg",
-        "source": "hormuz-havoc.com",
-        "stats": "54 points · 16 comments"
-      },
-      {
-        "url": "https://www.msn.com/en-my/news/other/meta-is-set-to-pay-its-top-ai-executives-almost-a-billion-each-in-bonuses-if-they-hit-their-targets/ar-AA1ZszqA",
-        "title": "Meta is set to pay its top AI executives almost a billion each in bonuses",
-        "description": "49 points · 28 comments",
-        "image": "",
-        "source": "msn.com",
         "stats": ""
       }
     ],
@@ -139,20 +157,12 @@
     ],
     "2026-04-09": [
       {
-        "url": "https://github.com/aloshdenny/reverse-SynthID",
-        "title": "Reverse engineering Gemini's SynthID detection",
-        "description": "reverse engineering Gemini&#39;s SynthID detection. Contribute to aloshdenny/reverse-SynthID development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/b876f901ebbc6e87409595522ff6463e07debcecf3a9ed04974d14f2e1c4121d/aloshdenny/reverse-SynthID",
-        "source": "github.com",
-        "stats": "172 points · 54 comments"
-      },
-      {
-        "url": "https://www.instantdb.com/essays/architecture",
-        "title": "Instant 1.0, a backend for AI-coded apps",
-        "description": "Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think Instant is the best backend for AI-coded apps. We also cover the architecture that makes all of it work.",
-        "image": "https://www.instantdb.com/img/essays/architecture.jpg",
-        "source": "instantdb.com",
-        "stats": "215 points · 123 comments"
+        "url": "https://www.vectorware.com/blog/threads-on-gpu/",
+        "title": "Rust Threads on the GPU",
+        "description": "GPU code can now use Rust&#x27;s threads. We share the implementation approach and what this unlocks for GPU programming.",
+        "image": "",
+        "source": "vectorware.com",
+        "stats": "21 points · 7 comments"
       }
     ],
     "2026-04-08": [
@@ -163,24 +173,6 @@
         "image": "",
         "source": "pvp-ai.russell-harper.com",
         "stats": "28 points · 4 comments"
-      }
-    ],
-    "2026-04-07": [
-      {
-        "url": "https://github.com/marimo-team/marimo-pair",
-        "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
-        "description": "Drop agents inside running marimo notebook sessions - marimo-team/marimo-pair",
-        "image": "https://opengraph.githubassets.com/942efca7af8cd0872eb0e4066427571ce5fdbe537f8b55174db4ae895e85fa28/marimo-team/marimo-pair",
-        "source": "github.com",
-        "stats": "136 points · 33 comments"
-      },
-      {
-        "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-        "title": "An AI robot in my home",
-        "description": "This is Mabu - a robot that sits near my front door, and whose voice and actions are controlled by an AI chatbot.",
-        "image": "",
-        "source": "allevato.me",
-        "stats": "66 points · 28 comments"
       }
     ]
   }
