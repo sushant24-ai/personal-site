@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-04-14T04:48:29.304Z",
+  "lastUpdated": "2026-04-15T04:48:40.825Z",
   "days": {
+    "2026-04-15": [
+      {
+        "url": "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/",
+        "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
+        "description": "87 points · 85 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
+        "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+        "description": "12 points · 8 comments",
+        "image": "",
+        "source": "finance.yahoo.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf",
+        "title": "Mark Zuckerberg reportedly working on AI clone of himself",
+        "description": "The AI clone was trained on the Meta CEO",
+        "image": "https://cdn.mos.cms.futurecdn.net/DyGUvTXTnmsaAce2Hy8F8c-1920-80.jpg",
+        "source": "tomshardware.com",
+        "stats": "9 points · 9 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
+        "title": "Bosses say AI boosts productivity – workers say they're drowning in 'workslop'",
+        "description": "Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections",
+        "image": "https://i.guim.co.uk/img/media/7d94c97a03acca95bc59d46355016efb1bc197ca/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a772bd82da2c4cb62e7895f276bd703f",
+        "source": "theguardian.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://eriskii.net/projects/claude-faces",
+        "title": "The Many Faces of Claude",
+        "description": "Analyzing 3,371 kaomoji from 700+ conversations. What faces does Claude make and why?",
+        "image": "https://eriskii.net/og-image.png",
+        "source": "eriskii.net",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-04-14": [
       {
-        "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
-        "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
-        "description": "The Meta chief is personally involved in training and testing his animated AI.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1182969866-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "9 points · 2 comments"
+        "url": "https://code.claude.com/docs/en/routines",
+        "title": "Claude Code Routines",
+        "description": "Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.",
+        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DClaude%2BCode%2Bon%2Bthe%2Bweb%26appearance%3Dsystem%26title%3DAutomate%2Bwork%2Bwith%2Broutines%26description%3DPut%2BClaude%2BCode%2Bon%2Bautopilot.%2BDefine%2Broutines%2Bthat%2Brun%2Bon%2Ba%2Bschedule%252C%2Btrigger%2Bon%2BAPI%2Bcalls%252C%2Bor%2Breact%2Bto%2BGitHub%2Bevents%2Bfrom%2BAnthropic-managed%2Bcloud%2Binfrastructur%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
+        "source": "code.claude.com",
+        "stats": "509 points · 300 comments"
       },
       {
-        "url": "https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/",
-        "title": "Comprehension Debt: The Hidden Cost of AI-Generated Code",
-        "description": "The following article originally appeared on Addy Osmani",
-        "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/Comprehension-debt-1600x1244.jpg",
-        "source": "oreilly.com",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://www.bbiz.shop/blog",
-        "title": "AI Agent Stores – Making Shopee Products Findable by ChatGPT and Perplexity",
-        "description": "10 Malaysian brands, 102 products, all machine-readable for AI agents. Built with llms.txt, MCP, and Schema.org.",
+        "url": "https://introspective-diffusion.github.io/",
+        "title": "Introspective Diffusion Language Models",
+        "description": "First DLM to match AR quality with 2.9-4.1x throughput. Code, models, and interactive analysis.",
         "image": "",
-        "source": "bbiz.shop",
-        "stats": "4 points · 1 comments"
+        "source": "introspective-diffusion.github.io",
+        "stats": "247 points · 45 comments"
       },
       {
-        "url": "https://github.com/Squid-Proxy-Lovers/ccp",
-        "title": "Cephalopod Coordination Protocol, Useful for Teams Using AI Agents",
-        "description": "Cephalopod Coordination Protocol (CCP) is a Rust-based client-server protocol for fast, reliable coordination between agentic systems. - Squid-Proxy-Lovers/ccp",
-        "image": "https://opengraph.githubassets.com/819501c99241aec31f9de64cdbcbf1355237485b46fd4cff4e31852687c36450/Squid-Proxy-Lovers/ccp",
+        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+        "title": "An AI Vibe Coding Horror Story",
+        "description": "A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.",
+        "image": "https://www.tobru.ch/content/images/size/w1200/2026/03/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg",
+        "source": "tobru.ch",
+        "stats": "202 points · 200 comments"
+      },
+      {
+        "url": "https://github.com/ginlix-ai/langalpha",
+        "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+        "description": "Claude Code for Finance. Contribute to ginlix-ai/LangAlpha development by creating an account on GitHub.",
+        "image": "https://repository-images.githubusercontent.com/1136616428/840647dc-db7c-4174-bfce-fc7a55b6f03c",
         "source": "github.com",
-        "stats": "3 points · 1 comments"
+        "stats": "122 points · 39 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47760931",
-        "title": "Ask HN: Are most agent skills just fancy system prompts with a name?",
-        "description": "3 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+        "title": "Turn your best AI prompts into one-click tools in Chrome",
+        "description": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
+        "source": "blog.google",
+        "stats": "133 points · 62 comments"
       }
     ],
     "2026-04-13": [
       {
         "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
         "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-        "description": "334 points · 251 comments",
+        "description": "369 points · 284 comments",
         "image": "",
         "source": "neowin.net",
         "stats": ""
@@ -58,23 +100,23 @@
         "description": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
         "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "227 points · 311 comments"
-      },
-      {
-        "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-        "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-        "description": "403 points · 356 comments",
-        "image": "",
-        "source": "adlrocha.substack.com",
-        "stats": ""
+        "stats": "255 points · 392 comments"
       },
       {
         "url": "https://github.com/brightbeanxyz/brightbean-studio",
         "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
         "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilo...",
-        "image": "https://opengraph.githubassets.com/40675e366099e69cfc104fb1cf8464bca24968f1f29733fa4895f230d48e6a61/brightbeanxyz/brightbean-studio",
+        "image": "https://opengraph.githubassets.com/273c5af30d6d5c32849f5e41e565d6c2b2bc0034007f9b6a8f7a6f7dd5ae03b1/brightbeanxyz/brightbean-studio",
         "source": "github.com",
-        "stats": "176 points · 118 comments"
+        "stats": "186 points · 128 comments"
+      },
+      {
+        "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+        "title": "AI could be the end of the digital wave, not the next big thing",
+        "description": "The AI boom is more likely a marker of the end of the 50-year digital boom than the start of a new wave of innovation.",
+        "image": "https://i0.wp.com/thenextwavefutures.wordpress.com/wp-content/uploads/2026/04/img_7654.jpg?fit=1200%2C798&#038;ssl=1",
+        "source": "thenextwavefutures.wordpress.com",
+        "stats": "183 points · 267 comments"
       },
       {
         "url": "https://status.claude.com/incidents/6jd2m42f8mld",
@@ -82,7 +124,7 @@
         "description": "Claude&#39;s Status Page - Claude.ai down.",
         "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
         "source": "status.claude.com",
-        "stats": "127 points · 122 comments"
+        "stats": "132 points · 126 comments"
       }
     ],
     "2026-04-12": [
@@ -131,7 +173,7 @@
       {
         "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
         "title": "Exploiting the most prominent AI agent benchmarks",
-        "description": "576 points · 139 comments",
+        "description": "581 points · 140 comments",
         "image": "",
         "source": "rdi.berkeley.edu",
         "stats": ""
@@ -162,17 +204,7 @@
         "description": "GPU code can now use Rust&#x27;s threads. We share the implementation approach and what this unlocks for GPU programming.",
         "image": "",
         "source": "vectorware.com",
-        "stats": "21 points · 7 comments"
-      }
-    ],
-    "2026-04-08": [
-      {
-        "url": "https://pvp-ai.russell-harper.com",
-        "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-        "description": "PvP-AI – an 8-bit retro game revived for the Commander X16, now integrating real-time LLM-driven gameplay via ChatGPT API.",
-        "image": "",
-        "source": "pvp-ai.russell-harper.com",
-        "stats": "28 points · 4 comments"
+        "stats": "117 points · 42 comments"
       }
     ]
   }
