@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-15T04:48:40.825Z",
+  "lastUpdated": "2026-04-16T04:54:04.948Z",
   "days": {
+    "2026-04-16": [
+      {
+        "url": "https://blowmage.com/2026/04/14/arguing-with-agents/",
+        "title": "Arguing with Agents",
+        "description": "54 points · 34 comments",
+        "image": "",
+        "source": "blowmage.com",
+        "stats": ""
+      },
+      {
+        "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
+        "title": "Amazon AI Cancelling Webcomics",
+        "description": "Sean Kleefeld&#39;s daily thoughts about comics and the comic industry.",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxuYZdoldE9gMT6bMQpKf8Ops5cNWtEIFV40f0jNrZl5h7YKX30kOUfbOUVfbn_zBPG3Iaw8XcHw0vN4CYxUxxcHO3Uwo5JFg7FZmftOv8AXzpZg-kVHq2rroApoTeFStoevJSX8FfQwlNNnCPaSrjCdupx8rNVB7aXnEJNwz8UlPTPpOaP-ij/w1200-h630-p-k-no-nu/260326-then-this-happened-comic.jpg",
+        "source": "kleefeldoncomics.com",
+        "stats": "59 points · 8 comments"
+      },
+      {
+        "url": "https://darkbloom.dev",
+        "title": "Darkbloom – Private inference on idle Macs",
+        "description": "Decentralized inference on hardware-verified Apple Silicon. End-to-end encrypted. The node operator never sees your data. OpenAI-compatible — change one line.",
+        "image": "",
+        "source": "darkbloom.dev",
+        "stats": "26 points · 10 comments"
+      },
+      {
+        "url": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
+        "title": "The AI Market Is Hitting Peak Absurdity",
+        "description": "21 points · 4 comments",
+        "image": "",
+        "source": "garymarcus.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/macOS26/Agent",
+        "title": "Agent - Native Mac OS X coding ide/harness",
+        "description": "Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Saf...",
+        "image": "https://opengraph.githubassets.com/61bb0ed1d553aa78fd181b96c074c7175a86951d3b94cc2f7cf58420691e7354/macOS26/Agent",
+        "source": "github.com",
+        "stats": "19 points · 4 comments"
+      }
+    ],
     "2026-04-15": [
       {
-        "url": "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/",
-        "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
-        "description": "87 points · 85 comments",
+        "url": "https://claudestatus.com/",
+        "title": "Elevated errors on Claude.ai, API, Claude Code",
+        "description": "Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.",
+        "image": "https://claudestatus.com/og-image.png",
+        "source": "claudestatus.com",
+        "stats": "242 points · 216 comments"
+      },
+      {
+        "url": "https://github.com/gastownhall/gastown/issues/3649",
+        "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+        "description": "gastown-release.formula.toml and beads-release.formula.toml causes local Gas Town installation to review open Issues on github.com/steveyegge/gastown/actions, burning through usage on subscribed LL...",
+        "image": "https://opengraph.githubassets.com/b16a92f2a7eb0bb712ad5a238ca4d5a09c5fe5fcaad6a8e1387ed605eddf56dd/gastownhall/gastown/issues/3649",
+        "source": "github.com",
+        "stats": "224 points · 111 comments"
+      },
+      {
+        "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+        "title": "AI-assisted cognition endangers human development?",
+        "description": "Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.",
+        "image": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/AI-Skew-Symbol-image_hu16117916379108857816.jpg",
+        "source": "heidenstedt.org",
+        "stats": "221 points · 173 comments"
+      },
+      {
+        "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+        "title": "Gemini Robotics-ER 1.6",
+        "description": "207 points · 69 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "deepmind.google",
         "stats": ""
       },
       {
-        "url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
-        "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
-        "description": "12 points · 8 comments",
+        "url": "https://chatgpt.com/apps/spreadsheets/",
+        "title": "ChatGPT for Excel",
+        "description": "143 points · 105 comments",
         "image": "",
-        "source": "finance.yahoo.com",
+        "source": "chatgpt.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mark-zuckerberg-reportedly-working-on-ai-clone-of-himself-meta-insiders-claim-3d-photoreal-animated-zuck-will-be-able-to-engage-with-employees-on-his-behalf",
-        "title": "Mark Zuckerberg reportedly working on AI clone of himself",
-        "description": "The AI clone was trained on the Meta CEO",
-        "image": "https://cdn.mos.cms.futurecdn.net/DyGUvTXTnmsaAce2Hy8F8c-1920-80.jpg",
-        "source": "tomshardware.com",
-        "stats": "9 points · 9 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
-        "title": "Bosses say AI boosts productivity – workers say they're drowning in 'workslop'",
-        "description": "Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections",
-        "image": "https://i.guim.co.uk/img/media/7d94c97a03acca95bc59d46355016efb1bc197ca/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a772bd82da2c4cb62e7895f276bd703f",
-        "source": "theguardian.com",
-        "stats": "5 points · 0 comments"
-      },
-      {
-        "url": "https://eriskii.net/projects/claude-faces",
-        "title": "The Many Faces of Claude",
-        "description": "Analyzing 3,371 kaomoji from 700+ conversations. What faces does Claude make and why?",
-        "image": "https://eriskii.net/og-image.png",
-        "source": "eriskii.net",
-        "stats": "4 points · 1 comments"
       }
     ],
     "2026-04-14": [
@@ -50,7 +92,7 @@
         "description": "Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.",
         "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DClaude%2BCode%2Bon%2Bthe%2Bweb%26appearance%3Dsystem%26title%3DAutomate%2Bwork%2Bwith%2Broutines%26description%3DPut%2BClaude%2BCode%2Bon%2Bautopilot.%2BDefine%2Broutines%2Bthat%2Brun%2Bon%2Ba%2Bschedule%252C%2Btrigger%2Bon%2BAPI%2Bcalls%252C%2Bor%2Breact%2Bto%2BGitHub%2Bevents%2Bfrom%2BAnthropic-managed%2Bcloud%2Binfrastructur%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
         "source": "code.claude.com",
-        "stats": "509 points · 300 comments"
+        "stats": "700 points · 402 comments"
       },
       {
         "url": "https://introspective-diffusion.github.io/",
@@ -58,23 +100,7 @@
         "description": "First DLM to match AR quality with 2.9-4.1x throughput. Code, models, and interactive analysis.",
         "image": "",
         "source": "introspective-diffusion.github.io",
-        "stats": "247 points · 45 comments"
-      },
-      {
-        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-        "title": "An AI Vibe Coding Horror Story",
-        "description": "A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.",
-        "image": "https://www.tobru.ch/content/images/size/w1200/2026/03/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg",
-        "source": "tobru.ch",
-        "stats": "202 points · 200 comments"
-      },
-      {
-        "url": "https://github.com/ginlix-ai/langalpha",
-        "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
-        "description": "Claude Code for Finance. Contribute to ginlix-ai/LangAlpha development by creating an account on GitHub.",
-        "image": "https://repository-images.githubusercontent.com/1136616428/840647dc-db7c-4174-bfce-fc7a55b6f03c",
-        "source": "github.com",
-        "stats": "122 points · 39 comments"
+        "stats": "276 points · 53 comments"
       },
       {
         "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
@@ -82,7 +108,23 @@
         "description": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
         "source": "blog.google",
-        "stats": "133 points · 62 comments"
+        "stats": "192 points · 108 comments"
+      },
+      {
+        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+        "title": "An AI Vibe Coding Horror Story",
+        "description": "A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.",
+        "image": "https://www.tobru.ch/content/images/size/w1200/2026/03/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg",
+        "source": "tobru.ch",
+        "stats": "211 points · 210 comments"
+      },
+      {
+        "url": "https://github.com/ginlix-ai/langalpha",
+        "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+        "description": "Claude Code for Finance. Contribute to ginlix-ai/LangAlpha development by creating an account on GitHub.",
+        "image": "https://repository-images.githubusercontent.com/1136616428/840647dc-db7c-4174-bfce-fc7a55b6f03c",
+        "source": "github.com",
+        "stats": "144 points · 52 comments"
       }
     ],
     "2026-04-13": [
@@ -173,7 +215,7 @@
       {
         "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
         "title": "Exploiting the most prominent AI agent benchmarks",
-        "description": "581 points · 140 comments",
+        "description": "583 points · 141 comments",
         "image": "",
         "source": "rdi.berkeley.edu",
         "stats": ""
@@ -195,16 +237,6 @@
         "image": "https://twill.ai/link-preview-card.png",
         "source": "twill.ai",
         "stats": "77 points · 90 comments"
-      }
-    ],
-    "2026-04-09": [
-      {
-        "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-        "title": "Rust Threads on the GPU",
-        "description": "GPU code can now use Rust&#x27;s threads. We share the implementation approach and what this unlocks for GPU programming.",
-        "image": "",
-        "source": "vectorware.com",
-        "stats": "117 points · 42 comments"
       }
     ]
   }
