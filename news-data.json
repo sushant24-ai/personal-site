@@ -1,87 +1,129 @@
 {
-  "lastUpdated": "2026-04-16T04:54:04.948Z",
+  "lastUpdated": "2026-04-17T04:52:11.006Z",
   "days": {
+    "2026-04-17": [
+      {
+        "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+        "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+        "description": "A demo combining LeCroy oscilloscope control, SPICE simulation, and Claude Code.",
+        "image": "",
+        "source": "lucasgerads.com",
+        "stats": "42 points · 8 comments"
+      },
+      {
+        "url": "https://twitter.com/_iainmartin/status/2044758204773486925",
+        "title": "AI companies are buying the Slack data of failed startups",
+        "description": "14 points · 3 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.ft.com/content/c9f5b690-a10e-4c66-9245-017f8bfbc7b4",
+        "title": "Anthropic in talks to give US Government access to its Mythos model",
+        "description": "5 points · 2 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://claude.com/blog/claude-code-desktop-redesign",
+        "title": "Redesigned Claude Code Desktop",
+        "description": "Today, we&#x27;re releasing a redesign of the Claude Code desktop app, built to help you run more Claude Code tasks at once.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://missionlocal.org/2026/04/ai-boom-controller-economist-egan-wagner/",
+        "title": "AI boom is city's weirdest tech boom, says S.F.'s chief economist",
+        "description": "San Francisco controller Greg Wagner and chief economist Ted Egan get into the numbers with Mission Local reporter Io Yeh Gilman.",
+        "image": "https://newspack-missionlocal.s3.amazonaws.com/mission/wp-content/uploads/2026/04/042026_ZM_TedEganGregWagner-3-scaled.jpg",
+        "source": "missionlocal.org",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-04-16": [
       {
-        "url": "https://blowmage.com/2026/04/14/arguing-with-agents/",
-        "title": "Arguing with Agents",
-        "description": "54 points · 34 comments",
-        "image": "",
-        "source": "blowmage.com",
-        "stats": ""
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
+        "title": "Claude Opus 4.7",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
+        "source": "anthropic.com",
+        "stats": "1582 points · 1120 comments"
       },
       {
-        "url": "http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html",
-        "title": "Amazon AI Cancelling Webcomics",
-        "description": "Sean Kleefeld&#39;s daily thoughts about comics and the comic industry.",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxuYZdoldE9gMT6bMQpKf8Ops5cNWtEIFV40f0jNrZl5h7YKX30kOUfbOUVfbn_zBPG3Iaw8XcHw0vN4CYxUxxcHO3Uwo5JFg7FZmftOv8AXzpZg-kVHq2rroApoTeFStoevJSX8FfQwlNNnCPaSrjCdupx8rNVB7aXnEJNwz8UlPTPpOaP-ij/w1200-h630-p-k-no-nu/260326-then-this-happened-comic.jpg",
-        "source": "kleefeldoncomics.com",
-        "stats": "59 points · 8 comments"
+        "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+        "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+        "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+        "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+        "source": "qwen.ai",
+        "stats": "978 points · 433 comments"
       },
       {
-        "url": "https://darkbloom.dev",
-        "title": "Darkbloom – Private inference on idle Macs",
-        "description": "Decentralized inference on hardware-verified Apple Silicon. End-to-end encrypted. The node operator never sees your data. OpenAI-compatible — change one line.",
-        "image": "",
-        "source": "darkbloom.dev",
-        "stats": "26 points · 10 comments"
+        "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+        "title": "The local LLM ecosystem doesn’t need Ollama",
+        "description": "Ollama gained traction by being the first easy llama.cpp wrapper, then spent years dodging attribution, misleading users, and pivoting to cloud, all while riding VC money earned on someone else",
+        "image": "https://sleepingrobots.com/og.png",
+        "source": "sleepingrobots.com",
+        "stats": "611 points · 201 comments"
       },
       {
-        "url": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
-        "title": "The AI Market Is Hitting Peak Absurdity",
-        "description": "21 points · 4 comments",
-        "image": "",
-        "source": "garymarcus.substack.com",
-        "stats": ""
+        "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+        "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "description": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning’s two big model …",
+        "image": "https://static.simonwillison.net/static/2026/qwen-opus-card.jpg",
+        "source": "simonwillison.net",
+        "stats": "349 points · 75 comments"
       },
       {
-        "url": "https://github.com/macOS26/Agent",
-        "title": "Agent - Native Mac OS X coding ide/harness",
-        "description": "Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Saf...",
-        "image": "https://opengraph.githubassets.com/61bb0ed1d553aa78fd181b96c074c7175a86951d3b94cc2f7cf58420691e7354/macOS26/Agent",
-        "source": "github.com",
-        "stats": "19 points · 4 comments"
+        "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+        "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+        "description": "Hello,  We are looking for guidance regarding an unexpected €54,000+ Gemini API charge that occurred within a few hours after enabling Firebase AI Logic on an existing Firebase project.  Background:  We created the project over a year ago and initially used it only for Firebase Authentication. Recently, we added a simple AI feature (generating a web snippet from a text prompt) and enabled Firebase AI Logic.  What happened:  Shortly after enabling this, we experienced a sudden and extreme spike i...",
+        "image": "https://d3qe71uytubmmx.cloudfront.net/original/3X/a/b/abef8e8a2f13f217175a82ce05cb66d1d02610e2.png",
+        "source": "discuss.ai.google.dev",
+        "stats": "381 points · 277 comments"
       }
     ],
     "2026-04-15": [
+      {
+        "url": "https://chatgpt.com/apps/spreadsheets/",
+        "title": "ChatGPT for Excel",
+        "description": "321 points · 193 comments",
+        "image": "",
+        "source": "chatgpt.com",
+        "stats": ""
+      },
       {
         "url": "https://claudestatus.com/",
         "title": "Elevated errors on Claude.ai, API, Claude Code",
         "description": "Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.",
         "image": "https://claudestatus.com/og-image.png",
         "source": "claudestatus.com",
-        "stats": "242 points · 216 comments"
+        "stats": "243 points · 222 comments"
       },
       {
         "url": "https://github.com/gastownhall/gastown/issues/3649",
         "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
         "description": "gastown-release.formula.toml and beads-release.formula.toml causes local Gas Town installation to review open Issues on github.com/steveyegge/gastown/actions, burning through usage on subscribed LL...",
-        "image": "https://opengraph.githubassets.com/b16a92f2a7eb0bb712ad5a238ca4d5a09c5fe5fcaad6a8e1387ed605eddf56dd/gastownhall/gastown/issues/3649",
+        "image": "https://opengraph.githubassets.com/447df47ebc7b08ec1ea13fdf757ee2ab704c4a66142401072de50c632c3ff18e/gastownhall/gastown/issues/3649",
         "source": "github.com",
-        "stats": "224 points · 111 comments"
-      },
-      {
-        "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
-        "title": "AI-assisted cognition endangers human development?",
-        "description": "Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.",
-        "image": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/AI-Skew-Symbol-image_hu16117916379108857816.jpg",
-        "source": "heidenstedt.org",
-        "stats": "221 points · 173 comments"
+        "stats": "249 points · 125 comments"
       },
       {
         "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
         "title": "Gemini Robotics-ER 1.6",
-        "description": "207 points · 69 comments",
+        "description": "216 points · 81 comments",
         "image": "",
         "source": "deepmind.google",
         "stats": ""
       },
       {
-        "url": "https://chatgpt.com/apps/spreadsheets/",
-        "title": "ChatGPT for Excel",
-        "description": "143 points · 105 comments",
+        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+        "description": "294 points · 180 comments",
         "image": "",
-        "source": "chatgpt.com",
+        "source": "gizmoweek.com",
         "stats": ""
       }
     ],
@@ -92,15 +134,7 @@
         "description": "Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.",
         "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DClaude%2BCode%2Bon%2Bthe%2Bweb%26appearance%3Dsystem%26title%3DAutomate%2Bwork%2Bwith%2Broutines%26description%3DPut%2BClaude%2BCode%2Bon%2Bautopilot.%2BDefine%2Broutines%2Bthat%2Brun%2Bon%2Ba%2Bschedule%252C%2Btrigger%2Bon%2BAPI%2Bcalls%252C%2Bor%2Breact%2Bto%2BGitHub%2Bevents%2Bfrom%2BAnthropic-managed%2Bcloud%2Binfrastructur%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
         "source": "code.claude.com",
-        "stats": "700 points · 402 comments"
-      },
-      {
-        "url": "https://introspective-diffusion.github.io/",
-        "title": "Introspective Diffusion Language Models",
-        "description": "First DLM to match AR quality with 2.9-4.1x throughput. Code, models, and interactive analysis.",
-        "image": "",
-        "source": "introspective-diffusion.github.io",
-        "stats": "276 points · 53 comments"
+        "stats": "711 points · 407 comments"
       },
       {
         "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
@@ -108,65 +142,17 @@
         "description": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
         "source": "blog.google",
-        "stats": "192 points · 108 comments"
-      },
-      {
-        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-        "title": "An AI Vibe Coding Horror Story",
-        "description": "A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.",
-        "image": "https://www.tobru.ch/content/images/size/w1200/2026/03/volodymyr-dobrovolskyy-KrYbarbAx5s-unsplash.jpg",
-        "source": "tobru.ch",
-        "stats": "211 points · 210 comments"
-      },
-      {
-        "url": "https://github.com/ginlix-ai/langalpha",
-        "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
-        "description": "Claude Code for Finance. Contribute to ginlix-ai/LangAlpha development by creating an account on GitHub.",
-        "image": "https://repository-images.githubusercontent.com/1136616428/840647dc-db7c-4174-bfce-fc7a55b6f03c",
-        "source": "github.com",
-        "stats": "144 points · 52 comments"
+        "stats": "194 points · 110 comments"
       }
     ],
     "2026-04-13": [
       {
-        "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
-        "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-        "description": "369 points · 284 comments",
-        "image": "",
-        "source": "neowin.net",
-        "stats": ""
-      },
-      {
-        "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-        "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
-        "description": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "255 points · 392 comments"
-      },
-      {
-        "url": "https://github.com/brightbeanxyz/brightbean-studio",
-        "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-        "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilo...",
-        "image": "https://opengraph.githubassets.com/273c5af30d6d5c32849f5e41e565d6c2b2bc0034007f9b6a8f7a6f7dd5ae03b1/brightbeanxyz/brightbean-studio",
+        "url": "https://github.com/AgentSeal/codeburn",
+        "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
+        "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. - AgentSeal/codeburn",
+        "image": "https://opengraph.githubassets.com/d99f2c216c08dc8df0ad2e93eff0318344e82040111e564f39e25ba0f2b16e3d/AgentSeal/codeburn",
         "source": "github.com",
-        "stats": "186 points · 128 comments"
-      },
-      {
-        "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-        "title": "AI could be the end of the digital wave, not the next big thing",
-        "description": "The AI boom is more likely a marker of the end of the 50-year digital boom than the start of a new wave of innovation.",
-        "image": "https://i0.wp.com/thenextwavefutures.wordpress.com/wp-content/uploads/2026/04/img_7654.jpg?fit=1200%2C798&#038;ssl=1",
-        "source": "thenextwavefutures.wordpress.com",
-        "stats": "183 points · 267 comments"
-      },
-      {
-        "url": "https://status.claude.com/incidents/6jd2m42f8mld",
-        "title": "Claude.ai down",
-        "description": "Claude&#39;s Status Page - Claude.ai down.",
-        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-        "source": "status.claude.com",
-        "stats": "132 points · 126 comments"
+        "stats": "84 points · 17 comments"
       }
     ],
     "2026-04-12": [
@@ -219,24 +205,6 @@
         "image": "",
         "source": "rdi.berkeley.edu",
         "stats": ""
-      }
-    ],
-    "2026-04-10": [
-      {
-        "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-        "title": "AI assistance when contributing to the Linux kernel",
-        "description": "Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/c43a4fa801cae222c41affcafe19007451f63a814f84f0bddd9eb17903afcba5/torvalds/linux",
-        "source": "github.com",
-        "stats": "510 points · 406 comments"
-      },
-      {
-        "url": "https://twill.ai",
-        "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
-        "description": "YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environments, and pings you when it needs your input. Integrates with GitHub, Slack, Linear, and more.",
-        "image": "https://twill.ai/link-preview-card.png",
-        "source": "twill.ai",
-        "stats": "77 points · 90 comments"
       }
     ]
   }
