@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-18T04:35:25.151Z",
+  "lastUpdated": "2026-04-19T04:54:00.132Z",
   "days": {
-    "2026-04-18": [
+    "2026-04-19": [
       {
-        "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-        "title": "OpenAI's Vision for the AI Economy",
-        "description": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
-        "source": "techcrunch.com",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://blog.cloudflare.com/unweight-tensor-compression/",
-        "title": "Unweight: We compressed an LLM 22% without sacrificing quality",
-        "description": "Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduction, so that we can deliver faster and cheaper inference than ever before.",
-        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/biXmc62dWSBTOZWmp75pT/d67c02c8159dbd97edfcaef1b6b3e47d/OG_Share_2024-2025-2026__28_.png",
-        "source": "blog.cloudflare.com",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://fagnerbrack.com/how-anthropic-nerfed-opus-4-6-before-the-4-7-launch-c932e383f4f6",
-        "title": "Anthropic Nerfed Opus 4.6 Before the 4.7 Launch",
-        "description": "2 points · 3 comments",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "description": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 …",
         "image": "",
-        "source": "fagnerbrack.com",
+        "source": "simonwillison.net",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://substack.com/@hanaleegoldin/note/c-244676181",
+        "title": "AI answers break down, and what each one looks like",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "substack.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/wastedcode/memex",
-        "title": "LLM wiki daemon with per-wiki filesystem isolation",
-        "description": "File system based wiki, maintained by Claude. Contribute to wastedcode/memex development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/27aac9400f913797628950aeaedc467e34bf6e4f4e9879ecee249a69983fc62d/wastedcode/memex",
-        "source": "github.com",
+        "url": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/",
+        "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup in 2026",
+        "description": "Stop babysitting one AI at a time. Sandboxing lets them run wild safely, Git worktrees let them run in parallel. Use more tokens, get more velocity.",
+        "image": "https://mikemcquaid.com/images/default-card.jpg",
+        "source": "mikemcquaid.com",
         "stats": "3 points · 0 comments"
       },
       {
-        "url": "https://arxiv.org/abs/2603.23532",
-        "title": "Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs",
-        "description": "This paper investigates whether structured representations can preserve the meaning of scientific sentences. To test this, a lightweight LLM is fine-tuned using a novel structural loss function to generate hierarchical JSON structures from sentences collected from scientific articles. These JSONs are then used by a generative model to reconstruct the original text. Comparing the original and reconstructed sentences using semantic and lexical similarity we show that hierarchical formats are capable of retaining information of scientific texts effectively.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "4 points · 0 comments"
+        "url": "https://community.openai.com/t/security-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass/1379167",
+        "title": "ChatGPT plan purchasing bug: Free to buy",
+        "description": "2 points · 0 comments",
+        "image": "",
+        "source": "community.openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://hermes-agent.nousresearch.com",
+        "title": "Hermes Agent by Nous Research",
+        "description": "An open-source agent that grows with you. Install it, give it your messaging accounts, and it becomes a persistent personal agent.",
+        "image": "https://hermes-agent.nousresearch.com/img/hermes-og-image.png",
+        "source": "hermes-agent.nousresearch.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
+    "2026-04-18": [
+      {
+        "url": "https://samhenri.gold/blog/20260418-claude-design/",
+        "title": "Thoughts and feelings around Claude Design",
+        "description": "264 points · 173 comments",
+        "image": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&#38;fm=jpg&#38;w=1200&#38;h=630&#38;dpl=69e42aec79d820000814a963",
+        "source": "samhenri.gold",
+        "stats": ""
+      },
+      {
+        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+        "title": "College instructor turns to typewriters to curb AI-written work",
+        "description": "&quot;What&#039;s the point of me reading it if it&#039;s already correct anyway, and you didn&#039;t write it yourself? Could you produce it without your computer?&quot; said Phelps.",
+        "image": "https://sentinelcolorado.com/wp-content/uploads/2026/03/AP26080655529173.jpg",
+        "source": "sentinelcolorado.com",
+        "stats": "197 points · 183 comments"
+      },
+      {
+        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+        "title": "Graphs that explain the state of AI in 2026",
+        "description": "AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed",
+        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65506010&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+        "source": "spectrum.ieee.org",
+        "stats": "80 points · 52 comments"
+      },
+      {
+        "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+        "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+        "description": "A WebAssembly module&#x27;s linear memory can be shared directly with the Apple Silicon GPU: no copies, no serialization, no intermediate buffers. Here&#x27;s how the zero-copy chain works, what we measured, and what it enables for stateful AI inference.",
+        "image": "https://abacusnoir.com/content/images/2026/04/driftwood-featured-image.png",
+        "source": "abacusnoir.com",
+        "stats": "53 points · 18 comments"
+      },
+      {
+        "url": "https://mas.to/@carnage4life/116422881496195720",
+        "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
+        "description": "Attached: 3 images\n\nToday is “Liberation Day” at OpenAI as  multiple senior executives announce they are leaving the company. \n\n• Bill Peebles, Head of Sora\n• Kevin Weil, VP of OpenAI for Science\n• Srinivas Narayanan, CTO of B2B Applications\n\nIt’s notable that they aren’t waiting for the IPO.",
+        "image": "https://media.mas.to/media_attachments/files/116/422/880/560/615/111/original/b67d4b3ddbe8e965.jpeg",
+        "source": "mas.to",
+        "stats": "80 points · 13 comments"
       }
     ],
     "2026-04-17": [
@@ -50,7 +92,7 @@
         "description": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
         "source": "anthropic.com",
-        "stats": "916 points · 602 comments"
+        "stats": "1188 points · 739 comments"
       },
       {
         "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
@@ -58,7 +100,7 @@
         "description": "The docs said 1.0–1.35x more tokens. On real content, I measured 1.47x.",
         "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e5042662-e001-4de8-8c26-224b260a6303/thumbnail.png?t=1776374689",
         "source": "claudecodecamp.com",
-        "stats": "567 points · 394 comments"
+        "stats": "688 points · 484 comments"
       },
       {
         "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
@@ -66,7 +108,7 @@
         "description": "Anthropic framed Mythos and Project Glasswing as proof that frontier AI vulnerability research now needs gated access. We tested the public, patched cases with GPT-5.4 and Claude Opus 4.6 and found that the key building blocks are already accessible outside Glasswing, while reliable operationalization remains the real moat.",
         "image": "https://blog.vidocsecurity.com/og/we-reproduced-anthropics-mythos-findings-with-public-models",
         "source": "blog.vidocsecurity.com",
-        "stats": "99 points · 56 comments"
+        "stats": "106 points · 56 comments"
       },
       {
         "url": "https://isitagentready.com",
@@ -74,14 +116,14 @@
         "description": "Scan your website to see if it",
         "image": "https://isitagentready.com/og-image.png",
         "source": "isitagentready.com",
-        "stats": "99 points · 166 comments"
+        "stats": "109 points · 174 comments"
       },
       {
-        "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-        "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-        "description": "119 points · 30 comments",
+        "url": "https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies",
+        "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
+        "description": "40 points · 11 comments",
         "image": "",
-        "source": "lucasgerads.com",
+        "source": "fastcompany.com",
         "stats": ""
       }
     ],
@@ -92,7 +134,7 @@
         "description": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks. ",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
         "source": "anthropic.com",
-        "stats": "1937 points · 1423 comments"
+        "stats": "1948 points · 1439 comments"
       },
       {
         "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
@@ -100,15 +142,7 @@
         "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
         "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
         "source": "qwen.ai",
-        "stats": "1240 points · 521 comments"
-      },
-      {
-        "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-        "title": "The local LLM ecosystem doesn’t need Ollama",
-        "description": "Ollama gained traction by being the first easy llama.cpp wrapper, then spent years dodging attribution, misleading users, and pivoting to cloud, all while riding VC money earned on someone else",
-        "image": "https://sleepingrobots.com/og.png",
-        "source": "sleepingrobots.com",
-        "stats": "632 points · 209 comments"
+        "stats": "1254 points · 528 comments"
       },
       {
         "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
@@ -116,48 +150,32 @@
         "description": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning’s two big model …",
         "image": "https://static.simonwillison.net/static/2026/qwen-opus-card.jpg",
         "source": "simonwillison.net",
-        "stats": "449 points · 94 comments"
+        "stats": "459 points · 94 comments"
       },
       {
-        "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-        "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-        "description": "Hello,  We are looking for guidance regarding an unexpected €54,000+ Gemini API charge that occurred within a few hours after enabling Firebase AI Logic on an existing Firebase project.  Background:  We created the project over a year ago and initially used it only for Firebase Authentication. Recently, we added a simple AI feature (generating a web snippet from a text prompt) and enabled Firebase AI Logic.  What happened:  Shortly after enabling this, we experienced a sudden and extreme spike i...",
-        "image": "https://d3qe71uytubmmx.cloudfront.net/original/3X/a/b/abef8e8a2f13f217175a82ce05cb66d1d02610e2.png",
-        "source": "discuss.ai.google.dev",
-        "stats": "396 points · 286 comments"
+        "url": "https://darkbloom.dev",
+        "title": "Darkbloom – Private inference on idle Macs",
+        "description": "Decentralized inference on hardware-verified Apple Silicon. End-to-end encrypted. The node operator never sees your data. OpenAI-compatible — change one line.",
+        "image": "",
+        "source": "darkbloom.dev",
+        "stats": "498 points · 249 comments"
+      },
+      {
+        "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+        "title": "Android CLI: Build Android apps 3x faster using any agent",
+        "description": "News and insights on the Android platform, developer tools, and events.",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxFmgZy6aUj2hWhz_Q7GYVfVjlVJ5kTKte7b_GfNnV6Bde-1UDSBiOmDuq7sEPHJX4SULxETyP5DYjBh9NKGJ8TDfJD4kvUJYHPpVGE44k0Tw9EkH3-jCTChnTLvc-TeGH1PWPhdpXRtn6ly0iAkQ5dIS9wHXsWAVuv0wPzumJ41YhYqdcia5DmnOOWs/s16000/hours-CLI_Dark-Blogger@2x.png",
+        "source": "android-developers.googleblog.com",
+        "stats": "310 points · 137 comments"
       }
     ],
     "2026-04-15": [
       {
         "url": "https://chatgpt.com/apps/spreadsheets/",
         "title": "ChatGPT for Excel",
-        "description": "332 points · 196 comments",
+        "description": "332 points · 197 comments",
         "image": "",
         "source": "chatgpt.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-        "description": "295 points · 186 comments",
-        "image": "",
-        "source": "gizmoweek.com",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-        "title": "The Gemini app is now on Mac",
-        "description": "Google is bringing the Gemini app to macOS as a native desktop experience.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_MacOS_01_Hero_16x9.width-1300.png",
-        "source": "blog.google",
-        "stats": "179 points · 95 comments"
-      },
-      {
-        "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-        "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-        "description": "189 points · 136 comments",
-        "image": "",
-        "source": "fingfx.thomsonreuters.com",
         "stats": ""
       },
       {
@@ -166,7 +184,23 @@
         "description": "There is an extremely important question about the near-future of AI that almost no-one is asking.   We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks t",
         "image": "http://static1.squarespace.com/static/562652dbe4b05bbfdc596fd7/t/69498e19a310233e798dfd42/1766428185819/Sweet+Spots.png?format=1500w",
         "source": "tobyord.com",
-        "stats": "137 points · 25 comments"
+        "stats": "295 points · 119 comments"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+        "title": "The Gemini app is now on Mac",
+        "description": "Google is bringing the Gemini app to macOS as a native desktop experience.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_MacOS_01_Hero_16x9.width-1300.png",
+        "source": "blog.google",
+        "stats": "184 points · 96 comments"
+      },
+      {
+        "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+        "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+        "description": "194 points · 139 comments",
+        "image": "",
+        "source": "fingfx.thomsonreuters.com",
+        "stats": ""
       }
     ],
     "2026-04-14": [
@@ -195,48 +229,6 @@
         "image": "https://opengraph.githubassets.com/44e6a7a4de53743e36dc41a92148db155a70b2b8409bb3bae12e3a8472aa2a19/AgentSeal/codeburn",
         "source": "github.com",
         "stats": "102 points · 24 comments"
-      }
-    ],
-    "2026-04-12": [
-      {
-        "url": "https://github.com/anthropics/claude-code/issues/46829",
-        "title": "Anthropic downgraded cache TTL on March 6th",
-        "description": "Cache TTL appears to have silently regressed from 1h to 5m around early March 2026, causing significant quota and cost inflation Summary Analysis of raw Claude Code session JSONL files spanning Jan...",
-        "image": "https://opengraph.githubassets.com/7d5f25137869c7c0165d56ae1a4b809043dee11d98037330c9f62846fcacdfb3/anthropics/claude-code/issues/46829",
-        "source": "github.com",
-        "stats": "543 points · 416 comments"
-      },
-      {
-        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-        "description": "It has started",
-        "image": "https://substackcdn.com/image/fetch/$s_!eC5c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F768f3fea-f270-45f0-ba62-4febc9c32bc2_1344x896.png",
-        "source": "thealgorithmicbridge.com",
-        "stats": "345 points · 626 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47739305",
-        "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
-        "description": "177 points · 77 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://europe.mistral.ai/",
-        "title": "European AI. A playbook to own it",
-        "description": "Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.",
-        "image": "https://europe.mistral.ai/images/og.png",
-        "source": "europe.mistral.ai",
-        "stats": "198 points · 131 comments"
-      },
-      {
-        "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
-        "title": "Tech valuations are back to pre-AI boom levels",
-        "description": "The chart below compares the forward P/E ratios for the S&amp;amp;P 500 and the S&amp;amp;P 500 Information Technology sector. Subscribe for daily updates.",
-        "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
-        "source": "apollo.com",
-        "stats": "147 points · 40 comments"
       }
     ]
   }
