@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-04-19T04:54:00.132Z",
+  "lastUpdated": "2026-04-20T05:16:55.041Z",
   "days": {
+    "2026-04-20": [
+      {
+        "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/",
+        "title": "Anthropic installed a spyware bridge on my machine?",
+        "description": "Anthropic",
+        "image": "https://www.thatprivacyguy.com/blog/assets/2026-04-18-001.png",
+        "source": "thatprivacyguy.com",
+        "stats": "46 points · 14 comments"
+      },
+      {
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "title": "Claude Token Counter, now with model comparisons",
+        "description": "I upgraded my Claude Token Counter tool to add the ability to run the same count against different models in order to compare them. As far as I can tell …",
+        "image": "https://static.simonwillison.net/static/2026/claude-token-card.jpg",
+        "source": "simonwillison.net",
+        "stats": "33 points · 7 comments"
+      },
+      {
+        "url": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
+        "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
+        "description": "Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.",
+        "image": "https://localscribe.co/assets/social/blog/uncanny-valley-and-rising-power-of-anti-ai-sentiment.png",
+        "source": "localscribe.co",
+        "stats": "37 points · 60 comments"
+      },
+      {
+        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
+        "description": "20 points · 5 comments",
+        "image": "",
+        "source": "juanpabloaj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/esutcu/planb-lpm",
+        "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+        "description": "Contribute to esutcu/planb-lpm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/98852acd1998ecb85886f803cf60163d7bdfffa22abc8cd4a4bd2a9778315c16/esutcu/planb-lpm",
+        "source": "github.com",
+        "stats": "6 points · 1 comments"
+      }
+    ],
     "2026-04-19": [
       {
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
@@ -8,47 +50,47 @@
         "description": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "5 points · 1 comments"
+        "stats": "257 points · 150 comments"
       },
       {
-        "url": "https://substack.com/@hanaleegoldin/note/c-244676181",
-        "title": "AI answers break down, and what each one looks like",
-        "description": "3 points · 0 comments",
+        "url": "https://bannedbyanthropic.com/",
+        "title": "Banned by Anthropic?",
+        "description": "Join the petition and public incident record pushing Anthropic to manually review bans, offer fair appeals, and restore legitimate accounts.",
+        "image": "https://bannedbyanthropic.com/social/bba-brutalist-logo.png",
+        "source": "bannedbyanthropic.com",
+        "stats": "92 points · 64 comments"
+      },
+      {
+        "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
+        "title": "Uber’s Anthropic AI push hits a wall",
+        "description": "86 points · 93 comments",
         "image": "",
-        "source": "substack.com",
+        "source": "finance.yahoo.com",
         "stats": ""
       },
       {
-        "url": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/",
-        "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup in 2026",
-        "description": "Stop babysitting one AI at a time. Sandboxing lets them run wild safely, Git worktrees let them run in parallel. Use more tokens, get more velocity.",
-        "image": "https://mikemcquaid.com/images/default-card.jpg",
-        "source": "mikemcquaid.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+        "title": "CEOs admit AI had no impact on employment or productivity",
+        "description": "In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”\n",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "77 points · 69 comments"
       },
       {
-        "url": "https://community.openai.com/t/security-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass/1379167",
-        "title": "ChatGPT plan purchasing bug: Free to buy",
-        "description": "2 points · 0 comments",
+        "url": "https://news.ycombinator.com/item?id=47825520",
+        "title": "Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No",
+        "description": "51 points · 17 comments",
         "image": "",
-        "source": "community.openai.com",
+        "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://hermes-agent.nousresearch.com",
-        "title": "Hermes Agent by Nous Research",
-        "description": "An open-source agent that grows with you. Install it, give it your messaging accounts, and it becomes a persistent personal agent.",
-        "image": "https://hermes-agent.nousresearch.com/img/hermes-og-image.png",
-        "source": "hermes-agent.nousresearch.com",
-        "stats": "3 points · 0 comments"
       }
     ],
     "2026-04-18": [
       {
         "url": "https://samhenri.gold/blog/20260418-claude-design/",
         "title": "Thoughts and feelings around Claude Design",
-        "description": "264 points · 173 comments",
-        "image": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&#38;fm=jpg&#38;w=1200&#38;h=630&#38;dpl=69e42aec79d820000814a963",
+        "description": "370 points · 239 comments",
+        "image": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&#38;fm=jpg&#38;w=1200&#38;h=630&#38;dpl=69e51ee6a5358c0008822917",
         "source": "samhenri.gold",
         "stats": ""
       },
@@ -58,15 +100,7 @@
         "description": "&quot;What&#039;s the point of me reading it if it&#039;s already correct anyway, and you didn&#039;t write it yourself? Could you produce it without your computer?&quot; said Phelps.",
         "image": "https://sentinelcolorado.com/wp-content/uploads/2026/03/AP26080655529173.jpg",
         "source": "sentinelcolorado.com",
-        "stats": "197 points · 183 comments"
-      },
-      {
-        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-        "title": "Graphs that explain the state of AI in 2026",
-        "description": "AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed",
-        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65506010&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-        "source": "spectrum.ieee.org",
-        "stats": "80 points · 52 comments"
+        "stats": "465 points · 413 comments"
       },
       {
         "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
@@ -74,7 +108,15 @@
         "description": "A WebAssembly module&#x27;s linear memory can be shared directly with the Apple Silicon GPU: no copies, no serialization, no intermediate buffers. Here&#x27;s how the zero-copy chain works, what we measured, and what it enables for stateful AI inference.",
         "image": "https://abacusnoir.com/content/images/2026/04/driftwood-featured-image.png",
         "source": "abacusnoir.com",
-        "stats": "53 points · 18 comments"
+        "stats": "112 points · 51 comments"
+      },
+      {
+        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+        "title": "Graphs that explain the state of AI in 2026",
+        "description": "AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed",
+        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65506010&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+        "source": "spectrum.ieee.org",
+        "stats": "111 points · 61 comments"
       },
       {
         "url": "https://mas.to/@carnage4life/116422881496195720",
@@ -92,7 +134,7 @@
         "description": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
         "source": "anthropic.com",
-        "stats": "1188 points · 739 comments"
+        "stats": "1217 points · 750 comments"
       },
       {
         "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
@@ -100,31 +142,15 @@
         "description": "The docs said 1.0–1.35x more tokens. On real content, I measured 1.47x.",
         "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e5042662-e001-4de8-8c26-224b260a6303/thumbnail.png?t=1776374689",
         "source": "claudecodecamp.com",
-        "stats": "688 points · 484 comments"
+        "stats": "707 points · 493 comments"
       },
       {
-        "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
-        "title": "We reproduced Anthropic's Mythos findings with public models",
-        "description": "Anthropic framed Mythos and Project Glasswing as proof that frontier AI vulnerability research now needs gated access. We tested the public, patched cases with GPT-5.4 and Claude Opus 4.6 and found that the key building blocks are already accessible outside Glasswing, while reliable operationalization remains the real moat.",
-        "image": "https://blog.vidocsecurity.com/og/we-reproduced-anthropics-mythos-findings-with-public-models",
-        "source": "blog.vidocsecurity.com",
-        "stats": "106 points · 56 comments"
-      },
-      {
-        "url": "https://isitagentready.com",
-        "title": "Scan your website to see how ready it is for AI agents",
-        "description": "Scan your website to see if it",
-        "image": "https://isitagentready.com/og-image.png",
-        "source": "isitagentready.com",
-        "stats": "109 points · 174 comments"
-      },
-      {
-        "url": "https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies",
-        "title": "Shuttered startups are selling old Slack chats and emails to AI companies",
-        "description": "40 points · 11 comments",
-        "image": "",
-        "source": "fastcompany.com",
-        "stats": ""
+        "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+        "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+        "description": "Record a browser task once. Replay it as a callable tool. Zero token cost, 100% deterministic, auth propagated from the live webpage.",
+        "image": "https://www.rtrvr.ai/ai-subroutines.png",
+        "source": "rtrvr.ai",
+        "stats": "44 points · 17 comments"
       }
     ],
     "2026-04-16": [
@@ -171,36 +197,20 @@
     ],
     "2026-04-15": [
       {
-        "url": "https://chatgpt.com/apps/spreadsheets/",
-        "title": "ChatGPT for Excel",
-        "description": "332 points · 197 comments",
-        "image": "",
-        "source": "chatgpt.com",
-        "stats": ""
-      },
-      {
         "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
         "title": "Are the costs of AI agents also rising exponentially? (2025)",
         "description": "There is an extremely important question about the near-future of AI that almost no-one is asking.   We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks t",
         "image": "http://static1.squarespace.com/static/562652dbe4b05bbfdc596fd7/t/69498e19a310233e798dfd42/1766428185819/Sweet+Spots.png?format=1500w",
         "source": "tobyord.com",
-        "stats": "295 points · 119 comments"
+        "stats": "302 points · 128 comments"
       },
       {
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-        "title": "The Gemini app is now on Mac",
-        "description": "Google is bringing the Gemini app to macOS as a native desktop experience.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_MacOS_01_Hero_16x9.width-1300.png",
-        "source": "blog.google",
-        "stats": "184 points · 96 comments"
-      },
-      {
-        "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-        "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-        "description": "194 points · 139 comments",
-        "image": "",
-        "source": "fingfx.thomsonreuters.com",
-        "stats": ""
+        "url": "https://browser-use.com/posts/prove-you-are-a-robot",
+        "title": "Prove you are a robot: CAPTCHAs for agents",
+        "description": "For our agent-native signup we built a reverse-CAPTCHA that keeps humans out and lets agents in.",
+        "image": "https://browser-use.com/api/og?title=Prove+You+Are+a+Robot%3A+CAPTCHAs+for+Agents&amp;date=Apr+13%2C+2026&amp;author=Luka+Secilmis",
+        "source": "browser-use.com",
+        "stats": "79 points · 38 comments"
       }
     ],
     "2026-04-14": [
@@ -219,16 +229,6 @@
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
         "source": "blog.google",
         "stats": "194 points · 110 comments"
-      }
-    ],
-    "2026-04-13": [
-      {
-        "url": "https://github.com/AgentSeal/codeburn",
-        "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
-        "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. - AgentSeal/codeburn",
-        "image": "https://opengraph.githubassets.com/44e6a7a4de53743e36dc41a92148db155a70b2b8409bb3bae12e3a8472aa2a19/AgentSeal/codeburn",
-        "source": "github.com",
-        "stats": "102 points · 24 comments"
       }
     ]
   }
