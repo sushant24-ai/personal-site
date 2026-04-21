@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-20T05:16:55.041Z",
+  "lastUpdated": "2026-04-21T04:51:17.087Z",
   "days": {
-    "2026-04-20": [
+    "2026-04-21": [
       {
-        "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/",
-        "title": "Anthropic installed a spyware bridge on my machine?",
-        "description": "Anthropic",
-        "image": "https://www.thatprivacyguy.com/blog/assets/2026-04-18-001.png",
-        "source": "thatprivacyguy.com",
-        "stats": "46 points · 14 comments"
-      },
-      {
-        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-        "title": "Claude Token Counter, now with model comparisons",
-        "description": "I upgraded my Claude Token Counter tool to add the ability to run the same count against different models in order to compare them. As far as I can tell …",
-        "image": "https://static.simonwillison.net/static/2026/claude-token-card.jpg",
-        "source": "simonwillison.net",
-        "stats": "33 points · 7 comments"
-      },
-      {
-        "url": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
-        "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-        "description": "Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.",
-        "image": "https://localscribe.co/assets/social/blog/uncanny-valley-and-rising-power-of-anti-ai-sentiment.png",
-        "source": "localscribe.co",
-        "stats": "37 points · 60 comments"
-      },
-      {
-        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
-        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
-        "description": "20 points · 5 comments",
+        "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+        "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+        "description": "7 points · 0 comments",
         "image": "",
-        "source": "juanpabloaj.com",
+        "source": "webmatrices.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/esutcu/planb-lpm",
-        "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
-        "description": "Contribute to esutcu/planb-lpm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/98852acd1998ecb85886f803cf60163d7bdfffa22abc8cd4a4bd2a9778315c16/esutcu/planb-lpm",
+        "url": "https://docs.openclaw.ai/providers/anthropic",
+        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+        "description": "2 points · 0 comments",
+        "image": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&amp;w=1200&amp;q=100",
+        "source": "docs.openclaw.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://tech-insider.org/us-utility-1-4-trillion-ai-data-center-energy-2026/",
+        "title": "US Utilities Plan $1.4T for AI Data Centers",
+        "description": "US utilities plan $1.4 trillion in spending through 2030 for AI data centers. Duke Energy leads at $102.2B as power demand hits 9% of US electricity.",
+        "image": "https://tech-insider.org/wp-content/uploads/2026/04/us-utility-1-4-trillion-ai-data-center-energy-2026-1.webp",
+        "source": "tech-insider.org",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/oguzbilgic/kern-ai",
+        "title": "Show HN: Kern – Agents that do the work and show it",
+        "description": "Agents that do the work and show it. Contribute to oguzbilgic/kern-ai development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/2f5482e813d104b473295e68d8964f05633282d2da1cde7562e5425360c595ef/oguzbilgic/kern-ai",
         "source": "github.com",
-        "stats": "6 points · 1 comments"
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/caihongxu/palmier",
+        "title": "Show HN: Palmier – bridge your AI agents and your phone",
+        "description": "A two-way bridge between the AI agents on your machine and your phone. Dispatch tasks from anywhere, approve actions on the go, and let agents tap into phone capabilities like notifications, SMS, c...",
+        "image": "https://opengraph.githubassets.com/51770db03efa3f3bbad5d561d5367eb385b40b30722f19dcef523d716e863064/caihongxu/palmier",
+        "source": "github.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
+    "2026-04-20": [
+      {
+        "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+        "title": "NSA is using Anthropic's Mythos despite blacklist",
+        "description": "450 points · 318 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
+      },
+      {
+        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+        "title": "Atlassian enables default data collection to train AI",
+        "description": "531 points · 122 comments",
+        "image": "",
+        "source": "letsdatascience.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+        "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+        "description": "The DSP dangles ChatGPT ad placement driven by prompt relevance and CPMs range from $15 to $60, with a $50,000 minimum spend required for the pilot.",
+        "image": "https://static-www.adweek.com/wp-content/uploads/2025/05/open-ai-data-chatgpt-2025.jpg?w=600&h=315&crop=1",
+        "source": "adweek.com",
+        "stats": "225 points · 105 comments"
+      },
+      {
+        "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+        "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+        "description": "336 points · 331 comments",
+        "image": "",
+        "source": "stephvee.ca",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+        "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+        "description": "Deezer says consumption of AI-generated music on the platform is still very low, between 1% and 3% of the total streams, and 85% of these streams are detected as fraudulent and are demonetized.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Copy-of-2000x1000-EN-1240x600-1.jpg?resize=1200,581",
+        "source": "techcrunch.com",
+        "stats": "326 points · 315 comments"
       }
     ],
     "2026-04-19": [
@@ -50,7 +92,7 @@
         "description": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "257 points · 150 comments"
+        "stats": "357 points · 207 comments"
       },
       {
         "url": "https://bannedbyanthropic.com/",
@@ -58,12 +100,12 @@
         "description": "Join the petition and public incident record pushing Anthropic to manually review bans, offer fair appeals, and restore legitimate accounts.",
         "image": "https://bannedbyanthropic.com/social/bba-brutalist-logo.png",
         "source": "bannedbyanthropic.com",
-        "stats": "92 points · 64 comments"
+        "stats": "101 points · 64 comments"
       },
       {
         "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
         "title": "Uber’s Anthropic AI push hits a wall",
-        "description": "86 points · 93 comments",
+        "description": "93 points · 103 comments",
         "image": "",
         "source": "finance.yahoo.com",
         "stats": ""
@@ -74,57 +116,33 @@
         "description": "In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”\n",
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
         "source": "fortune.com",
-        "stats": "77 points · 69 comments"
+        "stats": "89 points · 79 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=47825520",
-        "title": "Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No",
-        "description": "51 points · 17 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "url": "https://www.swiss-ai.org",
+        "title": "Swiss AI Initiative (2023)",
+        "description": "87 points · 26 comments",
+        "image": "https://static.wixstatic.com/media/a4c5cd_db11f7a288834745a1c6bd2cb33c69d0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a4c5cd_db11f7a288834745a1c6bd2cb33c69d0%7Emv2.png",
+        "source": "swiss-ai.org",
         "stats": ""
       }
     ],
     "2026-04-18": [
-      {
-        "url": "https://samhenri.gold/blog/20260418-claude-design/",
-        "title": "Thoughts and feelings around Claude Design",
-        "description": "370 points · 239 comments",
-        "image": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&#38;fm=jpg&#38;w=1200&#38;h=630&#38;dpl=69e51ee6a5358c0008822917",
-        "source": "samhenri.gold",
-        "stats": ""
-      },
       {
         "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
         "title": "College instructor turns to typewriters to curb AI-written work",
         "description": "&quot;What&#039;s the point of me reading it if it&#039;s already correct anyway, and you didn&#039;t write it yourself? Could you produce it without your computer?&quot; said Phelps.",
         "image": "https://sentinelcolorado.com/wp-content/uploads/2026/03/AP26080655529173.jpg",
         "source": "sentinelcolorado.com",
-        "stats": "465 points · 413 comments"
+        "stats": "485 points · 426 comments"
       },
       {
-        "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-        "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-        "description": "A WebAssembly module&#x27;s linear memory can be shared directly with the Apple Silicon GPU: no copies, no serialization, no intermediate buffers. Here&#x27;s how the zero-copy chain works, what we measured, and what it enables for stateful AI inference.",
-        "image": "https://abacusnoir.com/content/images/2026/04/driftwood-featured-image.png",
-        "source": "abacusnoir.com",
-        "stats": "112 points · 51 comments"
-      },
-      {
-        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-        "title": "Graphs that explain the state of AI in 2026",
-        "description": "AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed",
-        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65506010&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-        "source": "spectrum.ieee.org",
-        "stats": "111 points · 61 comments"
-      },
-      {
-        "url": "https://mas.to/@carnage4life/116422881496195720",
-        "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
-        "description": "Attached: 3 images\n\nToday is “Liberation Day” at OpenAI as  multiple senior executives announce they are leaving the company. \n\n• Bill Peebles, Head of Sora\n• Kevin Weil, VP of OpenAI for Science\n• Srinivas Narayanan, CTO of B2B Applications\n\nIt’s notable that they aren’t waiting for the IPO.",
-        "image": "https://media.mas.to/media_attachments/files/116/422/880/560/615/111/original/b67d4b3ddbe8e965.jpeg",
-        "source": "mas.to",
-        "stats": "80 points · 13 comments"
+        "url": "https://samhenri.gold/blog/20260418-claude-design/",
+        "title": "Thoughts and feelings around Claude Design",
+        "description": "381 points · 242 comments",
+        "image": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&#38;fm=jpg&#38;w=1200&#38;h=630&#38;dpl=69e51ee6a5358c0008822917",
+        "source": "samhenri.gold",
+        "stats": ""
       }
     ],
     "2026-04-17": [
@@ -134,23 +152,7 @@
         "description": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
         "source": "anthropic.com",
-        "stats": "1217 points · 750 comments"
-      },
-      {
-        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "title": "Measuring Claude 4.7's tokenizer costs",
-        "description": "The docs said 1.0–1.35x more tokens. On real content, I measured 1.47x.",
-        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e5042662-e001-4de8-8c26-224b260a6303/thumbnail.png?t=1776374689",
-        "source": "claudecodecamp.com",
-        "stats": "707 points · 493 comments"
-      },
-      {
-        "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
-        "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
-        "description": "Record a browser task once. Replay it as a callable tool. Zero token cost, 100% deterministic, auth propagated from the live webpage.",
-        "image": "https://www.rtrvr.ai/ai-subroutines.png",
-        "source": "rtrvr.ai",
-        "stats": "44 points · 17 comments"
+        "stats": "1225 points · 755 comments"
       }
     ],
     "2026-04-16": [
@@ -211,24 +213,6 @@
         "image": "https://browser-use.com/api/og?title=Prove+You+Are+a+Robot%3A+CAPTCHAs+for+Agents&amp;date=Apr+13%2C+2026&amp;author=Luka+Secilmis",
         "source": "browser-use.com",
         "stats": "79 points · 38 comments"
-      }
-    ],
-    "2026-04-14": [
-      {
-        "url": "https://code.claude.com/docs/en/routines",
-        "title": "Claude Code Routines",
-        "description": "Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.",
-        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DClaude%2BCode%2Bon%2Bthe%2Bweb%26appearance%3Dsystem%26title%3DAutomate%2Bwork%2Bwith%2Broutines%26description%3DPut%2BClaude%2BCode%2Bon%2Bautopilot.%2BDefine%2Broutines%2Bthat%2Brun%2Bon%2Ba%2Bschedule%252C%2Btrigger%2Bon%2BAPI%2Bcalls%252C%2Bor%2Breact%2Bto%2BGitHub%2Bevents%2Bfrom%2BAnthropic-managed%2Bcloud%2Binfrastructur%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
-        "source": "code.claude.com",
-        "stats": "711 points · 407 comments"
-      },
-      {
-        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-        "title": "Turn your best AI prompts into one-click tools in Chrome",
-        "description": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png",
-        "source": "blog.google",
-        "stats": "194 points · 110 comments"
       }
     ]
   }
