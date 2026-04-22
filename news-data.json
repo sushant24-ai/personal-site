@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-04-21T04:51:17.087Z",
+  "lastUpdated": "2026-04-22T04:49:12.052Z",
   "days": {
+    "2026-04-22": [
+      {
+        "url": "https://news.ycombinator.com/item?id=47857461",
+        "title": "Tell HN: I'm sick of AI everything",
+        "description": "222 points · 107 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://developers.openai.com/codex/memories/chronicle",
+        "title": "OpenAI reinvents Recall except everything is stored remotely",
+        "description": "Build Codex memories from recent screen context.",
+        "image": "https://developers.openai.com/og/codex/memories/chronicle.png",
+        "source": "developers.openai.com",
+        "stats": "11 points · 4 comments"
+      },
+      {
+        "url": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745915.html",
+        "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+        "description": "Meta is installing new tracking software on U.S.-based employees’ computers to capture mouse movements, clicks and keystrokes for use in training its artificial intelligence models, part of a broad initiative to build AI agents that can perform work tasks autonomously, the company told staffers in internal memos seen ‌by Reuters.  The tool, called Model Capability Initiative (MCI), will run on work-related apps and websites and will also take occasional snapshots of the content on employees’ screens, according to one of the ‌memos, posted by a staff AI research scientist on Tuesday in a channel for the company&#x27;s model-building Meta SuperIntelligence Labs team.  &quot;This is where all Meta employees can help our models get better simply by doing their daily work,&quot; it said.",
+        "image": "https://s.yimg.com/lo/mysterio/api/0E73F42956C9569B40F5606FB676A51C9880D9A63C122A272C9382D5B984F50D/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Freuters-finance.com%2F8d3cf27f3685c323055982f4b6529bf9",
+        "source": "tech.yahoo.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://www.reuters.com/technology/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-2026-04-21/",
+        "title": "Anthropic's Mythos model accessed by unauthorized users",
+        "description": "5 points · 2 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=47858903",
+        "title": "GPT 5.5 Released in Codex",
+        "description": "3 points · 2 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-04-21": [
       {
-        "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-        "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-        "description": "7 points · 0 comments",
+        "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+        "title": "Claude Code to be removed from Anthropic's Pro plan?",
+        "description": "It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?\n\nclaude.com/pricing",
+        "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte",
+        "source": "bsky.app",
+        "stats": "438 points · 423 comments"
+      },
+      {
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+        "title": "ChatGPT Images 2.0",
+        "description": "608 points · 506 comments",
         "image": "",
-        "source": "webmatrices.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
         "url": "https://docs.openclaw.ai/providers/anthropic",
         "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-        "description": "2 points · 0 comments",
+        "description": "484 points · 276 comments",
         "image": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&amp;w=1200&amp;q=100",
         "source": "docs.openclaw.ai",
         "stats": ""
       },
       {
-        "url": "https://tech-insider.org/us-utility-1-4-trillion-ai-data-center-energy-2026/",
-        "title": "US Utilities Plan $1.4T for AI Data Centers",
-        "description": "US utilities plan $1.4 trillion in spending through 2030 for AI data centers. Duke Energy leads at $102.2B as power demand hits 9% of US electricity.",
-        "image": "https://tech-insider.org/wp-content/uploads/2026/04/us-utility-1-4-trillion-ai-data-center-energy-2026-1.webp",
-        "source": "tech-insider.org",
-        "stats": "2 points · 0 comments"
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+        "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+        "description": "411 points · 325 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/oguzbilgic/kern-ai",
-        "title": "Show HN: Kern – Agents that do the work and show it",
-        "description": "Agents that do the work and show it. Contribute to oguzbilgic/kern-ai development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/2f5482e813d104b473295e68d8964f05633282d2da1cde7562e5425360c595ef/oguzbilgic/kern-ai",
-        "source": "github.com",
-        "stats": "2 points · 0 comments"
-      },
-      {
-        "url": "https://github.com/caihongxu/palmier",
-        "title": "Show HN: Palmier – bridge your AI agents and your phone",
-        "description": "A two-way bridge between the AI agents on your machine and your phone. Dispatch tasks from anywhere, approve actions on the go, and let agents tap into phone capabilities like notifications, SMS, c...",
-        "image": "https://opengraph.githubassets.com/51770db03efa3f3bbad5d561d5367eb385b40b30722f19dcef523d716e863064/caihongxu/palmier",
-        "source": "github.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+        "title": "Claude Code to be removed from Pro Tier?",
+        "description": "It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?\n\nclaude.com/pricing",
+        "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte",
+        "source": "bsky.app",
+        "stats": "263 points · 2 comments"
       }
     ],
     "2026-04-20": [
       {
         "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
         "title": "NSA is using Anthropic's Mythos despite blacklist",
-        "description": "450 points · 318 comments",
+        "description": "478 points · 338 comments",
         "image": "",
         "source": "axios.com",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
         "title": "Atlassian enables default data collection to train AI",
-        "description": "531 points · 122 comments",
+        "description": "594 points · 130 comments",
         "image": "",
         "source": "letsdatascience.com",
         "stats": ""
@@ -66,64 +108,32 @@
         "description": "The DSP dangles ChatGPT ad placement driven by prompt relevance and CPMs range from $15 to $60, with a $50,000 minimum spend required for the pilot.",
         "image": "https://static-www.adweek.com/wp-content/uploads/2025/05/open-ai-data-chatgpt-2025.jpg?w=600&h=315&crop=1",
         "source": "adweek.com",
-        "stats": "225 points · 105 comments"
+        "stats": "300 points · 160 comments"
       },
       {
         "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
         "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-        "description": "336 points · 331 comments",
+        "description": "379 points · 405 comments",
         "image": "",
         "source": "stephvee.ca",
         "stats": ""
       },
       {
-        "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-        "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-        "description": "Deezer says consumption of AI-generated music on the platform is still very low, between 1% and 3% of the total streams, and 85% of these streams are detected as fraudulent and are demonetized.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Copy-of-2000x1000-EN-1240x600-1.jpg?resize=1200,581",
-        "source": "techcrunch.com",
-        "stats": "326 points · 315 comments"
+        "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+        "title": "Changes to GitHub Copilot individual plans",
+        "description": "We&#039;re making these changes to ensure a reliable and predictable experience for existing customers.",
+        "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
+        "source": "github.blog",
+        "stats": "372 points · 136 comments"
       }
     ],
     "2026-04-19": [
       {
-        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-        "description": "Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 …",
+        "url": "https://news.ycombinator.com/item?id=47824738",
+        "title": "Recommended GPU Repairshop in Europe (Germany)",
+        "description": "30 points · 13 comments",
         "image": "",
-        "source": "simonwillison.net",
-        "stats": "357 points · 207 comments"
-      },
-      {
-        "url": "https://bannedbyanthropic.com/",
-        "title": "Banned by Anthropic?",
-        "description": "Join the petition and public incident record pushing Anthropic to manually review bans, offer fair appeals, and restore legitimate accounts.",
-        "image": "https://bannedbyanthropic.com/social/bba-brutalist-logo.png",
-        "source": "bannedbyanthropic.com",
-        "stats": "101 points · 64 comments"
-      },
-      {
-        "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
-        "title": "Uber’s Anthropic AI push hits a wall",
-        "description": "93 points · 103 comments",
-        "image": "",
-        "source": "finance.yahoo.com",
-        "stats": ""
-      },
-      {
-        "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
-        "title": "CEOs admit AI had no impact on employment or productivity",
-        "description": "In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”\n",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "89 points · 79 comments"
-      },
-      {
-        "url": "https://www.swiss-ai.org",
-        "title": "Swiss AI Initiative (2023)",
-        "description": "87 points · 26 comments",
-        "image": "https://static.wixstatic.com/media/a4c5cd_db11f7a288834745a1c6bd2cb33c69d0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a4c5cd_db11f7a288834745a1c6bd2cb33c69d0%7Emv2.png",
-        "source": "swiss-ai.org",
+        "source": "news.ycombinator.com",
         "stats": ""
       }
     ],
@@ -195,24 +205,6 @@
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxFmgZy6aUj2hWhz_Q7GYVfVjlVJ5kTKte7b_GfNnV6Bde-1UDSBiOmDuq7sEPHJX4SULxETyP5DYjBh9NKGJ8TDfJD4kvUJYHPpVGE44k0Tw9EkH3-jCTChnTLvc-TeGH1PWPhdpXRtn6ly0iAkQ5dIS9wHXsWAVuv0wPzumJ41YhYqdcia5DmnOOWs/s16000/hours-CLI_Dark-Blogger@2x.png",
         "source": "android-developers.googleblog.com",
         "stats": "310 points · 137 comments"
-      }
-    ],
-    "2026-04-15": [
-      {
-        "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-        "title": "Are the costs of AI agents also rising exponentially? (2025)",
-        "description": "There is an extremely important question about the near-future of AI that almost no-one is asking.   We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks t",
-        "image": "http://static1.squarespace.com/static/562652dbe4b05bbfdc596fd7/t/69498e19a310233e798dfd42/1766428185819/Sweet+Spots.png?format=1500w",
-        "source": "tobyord.com",
-        "stats": "302 points · 128 comments"
-      },
-      {
-        "url": "https://browser-use.com/posts/prove-you-are-a-robot",
-        "title": "Prove you are a robot: CAPTCHAs for agents",
-        "description": "For our agent-native signup we built a reverse-CAPTCHA that keeps humans out and lets agents in.",
-        "image": "https://browser-use.com/api/og?title=Prove+You+Are+a+Robot%3A+CAPTCHAs+for+Agents&amp;date=Apr+13%2C+2026&amp;author=Luka+Secilmis",
-        "source": "browser-use.com",
-        "stats": "79 points · 38 comments"
       }
     ]
   }
