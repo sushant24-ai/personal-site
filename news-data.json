@@ -1,121 +1,139 @@
 {
-  "lastUpdated": "2026-04-22T04:49:12.052Z",
+  "lastUpdated": "2026-04-23T04:53:15.295Z",
   "days": {
+    "2026-04-23": [
+      {
+        "url": "https://openai.com/index/axios-developer-tool-compromise/",
+        "title": "OpenAI's response to the Axios developer tool compromise",
+        "description": "48 points · 17 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+        "title": "OpenAI model for masking personally identifiable information (PII) in text",
+        "description": "15 points · 5 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.fastmail.com/blog/an-mcp-server-for-fastmail/",
+        "title": "An MCP Server for Fastmail – National Email Day",
+        "description": "Connect your preferred AI client to Fastmail using MCP",
+        "image": "https://www.fastmail.com/assets/images/2026-04-22-an-mcp-server-for-fastmail-P6NvWRK3RU-1200.png",
+        "source": "fastmail.com",
+        "stats": "13 points · 1 comments"
+      },
+      {
+        "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+        "title": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "flyingpenguin.com",
+        "stats": ""
+      },
+      {
+        "url": "https://m8ven.ai/preflight",
+        "title": "Show HN: Preflight – Test your MCP server before submitting to Claude/OpenAI",
+        "description": "Test your MCP server before submitting to Claude or OpenAI. Check OAuth, protocol compliance, and tool execution in one click.",
+        "image": "",
+        "source": "m8ven.ai",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-04-22": [
+      {
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+        "title": "Our eighth generation TPUs: two chips for the agentic era",
+        "description": "An overview of Google’s eighth generation TPUs, built for the agentic era.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/two_chips_for_the_agentic_era_hero.width-1300.png",
+        "source": "blog.google",
+        "stats": "424 points · 210 comments"
+      },
+      {
+        "url": "https://www.adriankrebs.ch/blog/design-slop/",
+        "title": "Scoring Show HN submissions for AI design patterns",
+        "description": "An attempt to detect AI design patterns in Show HN pages",
+        "image": "https://adriankrebs.ch/_astro/og-default.B6BqwTMP.svg",
+        "source": "adriankrebs.ch",
+        "stats": "291 points · 212 comments"
+      },
       {
         "url": "https://news.ycombinator.com/item?id=47857461",
         "title": "Tell HN: I'm sick of AI everything",
-        "description": "222 points · 107 comments",
+        "description": "325 points · 183 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://developers.openai.com/codex/memories/chronicle",
-        "title": "OpenAI reinvents Recall except everything is stored remotely",
-        "description": "Build Codex memories from recent screen context.",
-        "image": "https://developers.openai.com/og/codex/memories/chronicle.png",
-        "source": "developers.openai.com",
-        "stats": "11 points · 4 comments"
+        "url": "https://zed.dev/blog/parallel-agents",
+        "title": "Parallel agents in Zed",
+        "description": "From the Zed Blog: Run multiple agents at once, in the same window.",
+        "image": "https://zed.dev/img/post/parallel-agents/thumbnail.webp",
+        "source": "zed.dev",
+        "stats": "196 points · 111 comments"
       },
       {
-        "url": "https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745915.html",
-        "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-        "description": "Meta is installing new tracking software on U.S.-based employees’ computers to capture mouse movements, clicks and keystrokes for use in training its artificial intelligence models, part of a broad initiative to build AI agents that can perform work tasks autonomously, the company told staffers in internal memos seen ‌by Reuters.  The tool, called Model Capability Initiative (MCI), will run on work-related apps and websites and will also take occasional snapshots of the content on employees’ screens, according to one of the ‌memos, posted by a staff AI research scientist on Tuesday in a channel for the company&#x27;s model-building Meta SuperIntelligence Labs team.  &quot;This is where all Meta employees can help our models get better simply by doing their daily work,&quot; it said.",
-        "image": "https://s.yimg.com/lo/mysterio/api/0E73F42956C9569B40F5606FB676A51C9880D9A63C122A272C9382D5B984F50D/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Freuters-finance.com%2F8d3cf27f3685c323055982f4b6529bf9",
-        "source": "tech.yahoo.com",
-        "stats": "6 points · 2 comments"
-      },
-      {
-        "url": "https://www.reuters.com/technology/anthropics-mythos-model-accessed-by-unauthorized-users-bloomberg-news-reports-2026-04-21/",
-        "title": "Anthropic's Mythos model accessed by unauthorized users",
-        "description": "5 points · 2 comments",
+        "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+        "title": "Workspace Agents in ChatGPT",
+        "description": "124 points · 45 comments",
         "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47858903",
-        "title": "GPT 5.5 Released in Codex",
-        "description": "3 points · 2 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "source": "openai.com",
         "stats": ""
       }
     ],
     "2026-04-21": [
+      {
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+        "title": "ChatGPT Images 2.0",
+        "description": "1005 points · 931 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
       {
         "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
         "title": "Claude Code to be removed from Anthropic's Pro plan?",
         "description": "It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?\n\nclaude.com/pricing",
         "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte",
         "source": "bsky.app",
-        "stats": "438 points · 423 comments"
-      },
-      {
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-        "title": "ChatGPT Images 2.0",
-        "description": "608 points · 506 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://docs.openclaw.ai/providers/anthropic",
-        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-        "description": "484 points · 276 comments",
-        "image": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&amp;w=1200&amp;q=100",
-        "source": "docs.openclaw.ai",
-        "stats": ""
+        "stats": "664 points · 627 comments"
       },
       {
         "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
         "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-        "description": "411 points · 325 comments",
+        "description": "774 points · 512 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
       },
       {
-        "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-        "title": "Claude Code to be removed from Pro Tier?",
-        "description": "It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?\n\nclaude.com/pricing",
-        "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte",
-        "source": "bsky.app",
-        "stats": "263 points · 2 comments"
+        "url": "https://docs.openclaw.ai/providers/anthropic",
+        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+        "description": "501 points · 288 comments",
+        "image": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&amp;w=1200&amp;q=100",
+        "source": "docs.openclaw.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+        "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+        "description": "Amazon has made another circular AI deal: It&#039;s investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
+        "source": "techcrunch.com",
+        "stats": "274 points · 289 comments"
       }
     ],
     "2026-04-20": [
       {
-        "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
-        "title": "NSA is using Anthropic's Mythos despite blacklist",
-        "description": "478 points · 338 comments",
-        "image": "",
-        "source": "axios.com",
-        "stats": ""
-      },
-      {
         "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
         "title": "Atlassian enables default data collection to train AI",
-        "description": "594 points · 130 comments",
+        "description": "598 points · 134 comments",
         "image": "",
         "source": "letsdatascience.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-        "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-        "description": "The DSP dangles ChatGPT ad placement driven by prompt relevance and CPMs range from $15 to $60, with a $50,000 minimum spend required for the pilot.",
-        "image": "https://static-www.adweek.com/wp-content/uploads/2025/05/open-ai-data-chatgpt-2025.jpg?w=600&h=315&crop=1",
-        "source": "adweek.com",
-        "stats": "300 points · 160 comments"
-      },
-      {
-        "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
-        "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-        "description": "379 points · 405 comments",
-        "image": "",
-        "source": "stephvee.ca",
         "stats": ""
       },
       {
@@ -124,7 +142,23 @@
         "description": "We&#039;re making these changes to ensure a reliable and predictable experience for existing customers.",
         "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
         "source": "github.blog",
-        "stats": "372 points · 136 comments"
+        "stats": "523 points · 225 comments"
+      },
+      {
+        "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
+        "title": "All your agents are going async",
+        "description": "Agents used to be a thing you talked to synchronously. Now they’re a thing that runs in the background while you work. When you make that change, the …",
+        "image": "https://zknill.io/img/header.png",
+        "source": "zknill.io",
+        "stats": "124 points · 75 comments"
+      },
+      {
+        "url": "https://github.com/dchu917/ctx",
+        "title": "Show HN: Ctx – a /resume that works across Claude Code and Codex",
+        "description": "Local context manager for Claude Code and Codex with workstreams, transcript binding, and branching. - dchu917/ctx",
+        "image": "https://opengraph.githubassets.com/441de7029ad1a1c1b63b6420f3bfb2ad26ff82f9b6af5dd2728448630112c03a/dchu917/ctx",
+        "source": "github.com",
+        "stats": "71 points · 27 comments"
       }
     ],
     "2026-04-19": [
@@ -163,48 +197,6 @@
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
         "source": "anthropic.com",
         "stats": "1225 points · 755 comments"
-      }
-    ],
-    "2026-04-16": [
-      {
-        "url": "https://www.anthropic.com/news/claude-opus-4-7",
-        "title": "Claude Opus 4.7",
-        "description": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks. ",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
-        "source": "anthropic.com",
-        "stats": "1948 points · 1439 comments"
-      },
-      {
-        "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-        "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-        "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-        "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
-        "source": "qwen.ai",
-        "stats": "1254 points · 528 comments"
-      },
-      {
-        "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-        "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-        "description": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning’s two big model …",
-        "image": "https://static.simonwillison.net/static/2026/qwen-opus-card.jpg",
-        "source": "simonwillison.net",
-        "stats": "459 points · 94 comments"
-      },
-      {
-        "url": "https://darkbloom.dev",
-        "title": "Darkbloom – Private inference on idle Macs",
-        "description": "Decentralized inference on hardware-verified Apple Silicon. End-to-end encrypted. The node operator never sees your data. OpenAI-compatible — change one line.",
-        "image": "",
-        "source": "darkbloom.dev",
-        "stats": "498 points · 249 comments"
-      },
-      {
-        "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-        "title": "Android CLI: Build Android apps 3x faster using any agent",
-        "description": "News and insights on the Android platform, developer tools, and events.",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxFmgZy6aUj2hWhz_Q7GYVfVjlVJ5kTKte7b_GfNnV6Bde-1UDSBiOmDuq7sEPHJX4SULxETyP5DYjBh9NKGJ8TDfJD4kvUJYHPpVGE44k0Tw9EkH3-jCTChnTLvc-TeGH1PWPhdpXRtn6ly0iAkQ5dIS9wHXsWAVuv0wPzumJ41YhYqdcia5DmnOOWs/s16000/hours-CLI_Dark-Blogger@2x.png",
-        "source": "android-developers.googleblog.com",
-        "stats": "310 points · 137 comments"
       }
     ]
   }
