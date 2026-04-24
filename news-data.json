@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-04-23T04:53:15.295Z",
+  "lastUpdated": "2026-04-24T04:57:36.042Z",
   "days": {
+    "2026-04-24": [
+      {
+        "url": "https://api-docs.deepseek.com/",
+        "title": "DeepSeek v4",
+        "description": "The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.",
+        "image": "https://api-docs.deepseek.com/img/docusaurus-social-card.jpg",
+        "source": "api-docs.deepseek.com",
+        "stats": "298 points · 93 comments"
+      },
+      {
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+        "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4-Pro.png",
+        "source": "huggingface.co",
+        "stats": "122 points · 10 comments"
+      },
+      {
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf",
+        "title": "DeepSeek-V4 Technical Report [pdf]",
+        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4-Pro.png",
+        "source": "huggingface.co",
+        "stats": "16 points · 4 comments"
+      },
+      {
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+        "title": "DeepSeek V4 Flash",
+        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4-Flash.png",
+        "source": "huggingface.co",
+        "stats": "9 points · 0 comments"
+      },
+      {
+        "url": "https://huggingface.co/collections/deepseek-ai/deepseek-v4",
+        "title": "DeepSeek-V4",
+        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/collections/deepseek-ai/deepseek-v4-69ea2d6001aafa84d4d6f6f9.png",
+        "source": "huggingface.co",
+        "stats": "7 points · 0 comments"
+      }
+    ],
     "2026-04-23": [
       {
-        "url": "https://openai.com/index/axios-developer-tool-compromise/",
-        "title": "OpenAI's response to the Axios developer tool compromise",
-        "description": "48 points · 17 comments",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "title": "GPT-5.5",
+        "description": "1209 points · 820 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-        "title": "OpenAI model for masking personally identifiable information (PII) in text",
-        "description": "15 points · 5 comments",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "title": "An update on recent Claude Code quality reports",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
+        "source": "anthropic.com",
+        "stats": "616 points · 483 comments"
+      },
+      {
+        "url": "https://blog.meshcore.io/2026/04/23/the-split",
+        "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+        "description": "Migrating to the new meshcore.io site",
+        "image": "https://blog.meshcore.io/assets/images/icon.png",
+        "source": "blog.meshcore.io",
+        "stats": "184 points · 102 comments"
+      },
+      {
+        "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+        "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+        "description": "87 points · 16 comments",
         "image": "",
-        "source": "openai.com",
+        "source": "letsdatascience.com",
         "stats": ""
       },
       {
-        "url": "https://www.fastmail.com/blog/an-mcp-server-for-fastmail/",
-        "title": "An MCP Server for Fastmail – National Email Day",
-        "description": "Connect your preferred AI client to Fastmail using MCP",
-        "image": "https://www.fastmail.com/assets/images/2026-04-22-an-mcp-server-for-fastmail-P6NvWRK3RU-1200.png",
-        "source": "fastmail.com",
-        "stats": "13 points · 1 comments"
-      },
-      {
-        "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
-        "title": "A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "flyingpenguin.com",
-        "stats": ""
-      },
-      {
-        "url": "https://m8ven.ai/preflight",
-        "title": "Show HN: Preflight – Test your MCP server before submitting to Claude/OpenAI",
-        "description": "Test your MCP server before submitting to Claude or OpenAI. Check OAuth, protocol compliance, and tool execution in one click.",
-        "image": "",
-        "source": "m8ven.ai",
-        "stats": "4 points · 0 comments"
+        "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+        "title": "Our newsroom AI policy",
+        "description": "How Ars Technica uses, and doesn&#039;t use, generative AI.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "190 points · 125 comments"
       }
     ],
     "2026-04-22": [
@@ -50,7 +92,7 @@
         "description": "An overview of Google’s eighth generation TPUs, built for the agentic era.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/two_chips_for_the_agentic_era_hero.width-1300.png",
         "source": "blog.google",
-        "stats": "424 points · 210 comments"
+        "stats": "445 points · 222 comments"
       },
       {
         "url": "https://www.adriankrebs.ch/blog/design-slop/",
@@ -58,15 +100,7 @@
         "description": "An attempt to detect AI design patterns in Show HN pages",
         "image": "https://adriankrebs.ch/_astro/og-default.B6BqwTMP.svg",
         "source": "adriankrebs.ch",
-        "stats": "291 points · 212 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=47857461",
-        "title": "Tell HN: I'm sick of AI everything",
-        "description": "325 points · 183 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "326 points · 231 comments"
       },
       {
         "url": "https://zed.dev/blog/parallel-agents",
@@ -74,22 +108,30 @@
         "description": "From the Zed Blog: Run multiple agents at once, in the same window.",
         "image": "https://zed.dev/img/post/parallel-agents/thumbnail.webp",
         "source": "zed.dev",
-        "stats": "196 points · 111 comments"
+        "stats": "275 points · 158 comments"
       },
       {
         "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
         "title": "Workspace Agents in ChatGPT",
-        "description": "124 points · 45 comments",
+        "description": "154 points · 62 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
+      },
+      {
+        "url": "https://lwn.net/Articles/1068928/",
+        "title": "Kernel code removals driven by LLM-created security reports",
+        "description": "There are a number of ongoing efforts to remove kernel code, mostly from the networking subsyst [...]",
+        "image": "",
+        "source": "lwn.net",
+        "stats": "120 points · 115 comments"
       }
     ],
     "2026-04-21": [
       {
         "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
         "title": "ChatGPT Images 2.0",
-        "description": "1005 points · 931 comments",
+        "description": "1035 points · 959 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -100,12 +142,12 @@
         "description": "It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?\n\nclaude.com/pricing",
         "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte",
         "source": "bsky.app",
-        "stats": "664 points · 627 comments"
+        "stats": "679 points · 638 comments"
       },
       {
         "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
         "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-        "description": "774 points · 512 comments",
+        "description": "791 points · 523 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -113,36 +155,28 @@
       {
         "url": "https://docs.openclaw.ai/providers/anthropic",
         "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-        "description": "501 points · 288 comments",
+        "description": "507 points · 294 comments",
         "image": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&amp;w=1200&amp;q=100",
         "source": "docs.openclaw.ai",
         "stats": ""
       },
       {
-        "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-        "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-        "description": "Amazon has made another circular AI deal: It&#039;s investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
-        "source": "techcrunch.com",
-        "stats": "274 points · 289 comments"
+        "url": "https://github.com/ENTERPILOT/GOModel/",
+        "title": "Show HN: GoModel – an open-source AI gateway in Go",
+        "description": "High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp;amp; Ollama. LiteLLM alternative with observability, guardrails &amp;amp; streaming. ...",
+        "image": "https://opengraph.githubassets.com/21c577ae23a2a494751e2c3ce8113e4a91691739c5af40a0622664dd94545b93/ENTERPILOT/GoModel",
+        "source": "github.com",
+        "stats": "205 points · 74 comments"
       }
     ],
     "2026-04-20": [
-      {
-        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-        "title": "Atlassian enables default data collection to train AI",
-        "description": "598 points · 134 comments",
-        "image": "",
-        "source": "letsdatascience.com",
-        "stats": ""
-      },
       {
         "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
         "title": "Changes to GitHub Copilot individual plans",
         "description": "We&#039;re making these changes to ensure a reliable and predictable experience for existing customers.",
         "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
         "source": "github.blog",
-        "stats": "523 points · 225 comments"
+        "stats": "530 points · 225 comments"
       },
       {
         "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
@@ -150,15 +184,7 @@
         "description": "Agents used to be a thing you talked to synchronously. Now they’re a thing that runs in the background while you work. When you make that change, the …",
         "image": "https://zknill.io/img/header.png",
         "source": "zknill.io",
-        "stats": "124 points · 75 comments"
-      },
-      {
-        "url": "https://github.com/dchu917/ctx",
-        "title": "Show HN: Ctx – a /resume that works across Claude Code and Codex",
-        "description": "Local context manager for Claude Code and Codex with workstreams, transcript binding, and branching. - dchu917/ctx",
-        "image": "https://opengraph.githubassets.com/441de7029ad1a1c1b63b6420f3bfb2ad26ff82f9b6af5dd2728448630112c03a/dchu917/ctx",
-        "source": "github.com",
-        "stats": "71 points · 27 comments"
+        "stats": "132 points · 79 comments"
       }
     ],
     "2026-04-19": [
@@ -187,16 +213,6 @@
         "image": "https://samhenri.gold/.netlify/images?url=_astro%2F20260418-claude-design.DKni9yQ3.jpg&#38;fm=jpg&#38;w=1200&#38;h=630&#38;dpl=69e51ee6a5358c0008822917",
         "source": "samhenri.gold",
         "stats": ""
-      }
-    ],
-    "2026-04-17": [
-      {
-        "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "title": "Claude Design",
-        "description": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
-        "source": "anthropic.com",
-        "stats": "1225 points · 755 comments"
       }
     ]
   }
