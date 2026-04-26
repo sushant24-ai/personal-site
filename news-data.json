@@ -1,22 +1,72 @@
 {
-  "lastUpdated": "2026-04-25T04:39:00.012Z",
+  "lastUpdated": "2026-04-26T05:15:26.435Z",
   "days": {
-    "2026-04-25": [
+    "2026-04-26": [
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-04-25/musk-drops-fraud-claims-against-openai-altman-ahead-of-trial",
-        "title": "Musk Drops Fraud Claims Against OpenAI, Altman Ahead of Trial",
-        "description": "6 points · 0 comments",
+        "url": "https://redactdesk.app/blog/openai-privacy-filter",
+        "title": "OpenAI shipped privacy-filter, a 1.5B PII tagger you can run locally",
+        "description": "OpenAI released a small open-weights model that tags eight categories of personal information before you send text to any cloud LLM. Here is what it does, what it does not, and how RedactDesk uses it.",
+        "image": "https://redactdesk.app/og-image.png",
+        "source": "redactdesk.app",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://xcancel.com/nrehiew_/status/2048009931757097079",
+        "title": "Usage limits for each of the Claude plans",
+        "description": "3 points · 0 comments",
         "image": "",
-        "source": "bloomberg.com",
+        "source": "xcancel.com",
         "stats": ""
       },
       {
-        "url": "https://www.cbc.ca/news/canada/british-columbia/sam-altman-tumbler-ridge-apology-9.7176482",
-        "title": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge",
-        "description": "Altman says his company should have alerted police about the account of activity of the Tumbler Ridge shooter.",
-        "image": "https://i.cbc.ca/ais/fca6f377-3668-4f3a-94fc-d96c42e71af8,1777056197339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C228%2C4380%2C2463%29%3BResize%3D620",
-        "source": "cbc.ca",
-        "stats": "5 points · 5 comments"
+        "url": "https://arxiv.org/abs/2604.15597",
+        "title": "LLMs Corrupt Your Documents When You Delegate",
+        "description": "Large Language Models (LLMs) are poised to disrupt knowledge work, with the emergence of delegated work as a new interaction paradigm (e.g., vibe coding). Delegation requires trust - the expectation that the LLM will faithfully execute the task without introducing errors into documents. We introduce DELEGATE-52 to study the readiness of AI systems in delegated workflows. DELEGATE-52 simulates long delegated workflows that require in-depth document editing across 52 professional domains, such as coding, crystallography, and music notation. Our large-scale experiment with 19 LLMs reveals that current models degrade documents during delegation: even frontier models (Gemini 3.1 Pro, Claude 4.6 Opus, GPT 5.4) corrupt an average of 25% of document content by the end of long workflows, with other models failing more severely. Additional experiments reveal that agentic tool use does not improve performance on DELEGATE-52, and that degradation severity is exacerbated by document size, length of interaction, or presence of distractor files. Our analysis shows that current LLMs are unreliable delegates: they introduce sparse but severe errors that silently corrupt documents, compounding over long interaction.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+        "title": "Discord Sleuths Gained Unauthorized Access to Anthropic's Mythos",
+        "description": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+        "image": "https://media.wired.com/photos/69ebf499d9b235ed1b8f0693/191:100/w_1280,c_limit/Security-News-This-Week-Discord-Group-Reportedly-Guessed-Its-Way-Into-Anthropic-Mythos-Security.jpg",
+        "source": "wired.com",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://www.sdxcentral.com/news/google-unveils-way-to-train-ai-models-across-distributed-data-centers/",
+        "title": "Google unveils way to train AI models across distributed data centers",
+        "description": "3 points · 2 comments",
+        "image": "",
+        "source": "sdxcentral.com",
+        "stats": ""
+      }
+    ],
+    "2026-04-25": [
+      {
+        "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+        "title": "The AI industry is discovering that the public hates it",
+        "description": "If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.",
+        "image": "https://images.newrepublic.com/7619b4e952a635df61a0a59005e2f476c20f36bc.jpeg?w=1200&amp;h=630&amp;crop=faces&amp;fit=crop&amp;fm=jpg",
+        "source": "newrepublic.com",
+        "stats": "220 points · 296 comments"
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+        "title": "Amateur armed with ChatGPT solves an Erdős problem",
+        "description": "A ChatGPT AI has proved a conjecture with a method no human had thought of. Experts believe it may have further uses",
+        "image": "https://static.scientificamerican.com/dam/asset/124ad289-58c2-4d51-87e8-aee854d10fc7/abstract-rubiks-cube.jpg?m=1777033076.511&w=1200",
+        "source": "scientificamerican.com",
+        "stats": "202 points · 132 comments"
+      },
+      {
+        "url": "https://github.com/nex-crm/wuphf",
+        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+        "description": "Slack for AI employees with a shared brain. Get Claudes, Codexes and OpenClaws to collaborate and do your work autonomously while never losing context. - nex-crm/wuphf",
+        "image": "https://opengraph.githubassets.com/0de1aee688977c18b3e68de1989f6f73ebf0507de2d31fbdbdf21b2193fdb854/nex-crm/wuphf",
+        "source": "github.com",
+        "stats": "229 points · 106 comments"
       },
       {
         "url": "https://alash3al.github.io/stash?_v01",
@@ -24,23 +74,15 @@
         "description": "Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.",
         "image": "https://stash.alash3al.com/og-image.png",
         "source": "alash3al.github.io",
-        "stats": "4 points · 1 comments"
+        "stats": "167 points · 70 comments"
       },
       {
-        "url": "https://whitehouse.gov/wp-content/uploads/2026/04/NSTM-4.pdf",
-        "title": "White House Memo on Adversarial Distillation of American AI Models [pdf]",
-        "description": "5 points · 1 comments",
+        "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+        "title": "GPT‑5.5 Bio Bug Bounty",
+        "description": "140 points · 100 comments",
         "image": "",
-        "source": "whitehouse.gov",
+        "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.indiatoday.in/technology/news/story/google-is-secretly-building-a-claude-code-challenger-sergey-brin-is-personally-involved-2899415-2026-04-21",
-        "title": "Google is building a Claude Code challenger, Sergey Brin is involved",
-        "description": "Google is ramping up its effort to improve coding capabilities of its AI models. The move comes at a time when the company is facing increasing competition from Anthropic.\r\n",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/ai-chip-partnerships-google-has-secured-in-recent-months-205328871-16x9.png?VersionId=ics1FoOxL_3oXYY.MPHlsanzugunTodx",
-        "source": "indiatoday.in",
-        "stats": "4 points · 1 comments"
       }
     ],
     "2026-04-24": [
@@ -50,20 +92,20 @@
         "description": "🚀 DeepSeek-V4 Preview is officially live &amp; open-sourced! Welcome to the era of cost-effective 1M context length.",
         "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
         "source": "api-docs.deepseek.com",
-        "stats": "1856 points · 1437 comments"
+        "stats": "2038 points · 1552 comments"
       },
       {
         "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
         "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-        "description": "First enthusiasm A couple of weeks ago I subscribed to Claude Code, and during the first few weeks I had a really nice experience. It was fast, the token allowance was fair, and the quality was good.\nI learned they had raised the token allowance for non-rush hours , and since they opposed some governmental rules, it felt good to support the right cause.\n(づ ￣ ³￣)づ\nHowever… for about three weeks now my initial enthusiasm has been rapidly waning.",
+        "description": "Prefix Note As this post is gaining more attention than expected on HN, I want to make some things clear - although I thought they are obvious.\nIt sounds like a rant about Claude’s quality in general - if you don’t read to the end. But my concerns are more focused on the support performance and token issues - fully aware of the challenges a company this size faces and assuming the people at Anthropic are working hard to make things better. I am pointing at some “bad design decisions” they probably made. The “quality issues” are just the cherry on top of the cake.",
         "image": "",
         "source": "nickyreinert.de",
-        "stats": "824 points · 489 comments"
+        "stats": "940 points · 564 comments"
       },
       {
         "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
         "title": "Google plans to invest up to $40B in Anthropic",
-        "description": "438 points · 461 comments",
+        "description": "799 points · 801 comments",
         "image": "",
         "source": "bloomberg.com",
         "stats": ""
@@ -74,22 +116,22 @@
         "description": "See all of the latest features and updates to the OpenAI API.",
         "image": "https://developers.openai.com/og/api/docs/changelog.png",
         "source": "developers.openai.com",
-        "stats": "226 points · 124 comments"
+        "stats": "255 points · 152 comments"
       },
       {
-        "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-        "title": "Google to invest up to $40B in Anthropic in cash and compute",
-        "description": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-        "source": "techcrunch.com",
-        "stats": "206 points · 7 comments"
+        "url": "https://arxiv.org/abs/2604.21691",
+        "title": "There Will Be a Scientific Theory of Deep Learning",
+        "description": "In this paper, we make the case that a scientific theory of deep learning is emerging. By this we mean a theory which characterizes important properties and statistics of the training process, hidden representations, final weights, and performance of neural networks. We pull together major strands of ongoing research in deep learning theory and identify five growing bodies of work that point toward such a theory: (a) solvable idealized settings that provide intuition for learning dynamics in realistic systems; (b) tractable limits that reveal insights into fundamental learning phenomena; (c) simple mathematical laws that capture important macroscopic observables; (d) theories of hyperparameters that disentangle them from the rest of the training process, leaving simpler systems behind; and (e) universal behaviors shared across systems and settings which clarify which phenomena call for explanation.\n  Taken together, these bodies of work share certain broad traits: they are concerned with the dynamics of the training process; they primarily seek to describe coarse aggregate statistics; and they emphasize falsifiable quantitative predictions. We argue that the emerging theory is best thought of as a mechanics of the learning process, and suggest the name learning mechanics. We discuss the relationship between this mechanics perspective and other approaches for building a theory of deep learning, including the statistical and information-theoretic perspectives. In particular, we anticipate a symbiotic relationship between learning mechanics and mechanistic interpretability.\n  We also review and address common arguments that fundamental theory will not be possible or is not important. We conclude with a portrait of important open directions in learning mechanics and advice for beginners. We host further introductory materials, perspectives, and open questions at learningmechanics.pub.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "343 points · 151 comments"
       }
     ],
     "2026-04-23": [
       {
         "url": "https://openai.com/index/introducing-gpt-5-5/",
         "title": "GPT-5.5",
-        "description": "1534 points · 1020 comments",
+        "description": "1559 points · 1040 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -100,15 +142,7 @@
         "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
         "source": "anthropic.com",
-        "stats": "917 points · 699 comments"
-      },
-      {
-        "url": "https://blog.meshcore.io/2026/04/23/the-split",
-        "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-        "description": "Migrating to the new meshcore.io site",
-        "image": "https://blog.meshcore.io/assets/images/icon.png",
-        "source": "blog.meshcore.io",
-        "stats": "273 points · 169 comments"
+        "stats": "932 points · 719 comments"
       },
       {
         "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
@@ -116,7 +150,7 @@
         "description": "Discover TorchTPU, Google’s new engineering stack designed to run PyTorch natively on TPU infrastructure with peak efficiency. Learn how its &quot;Eager First&quot; philosophy and XLA integration simplify model migration while unlocking massive scalability for the next generation of AI.",
         "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Meta-A.2e16d0ba.fill-1200x600.png",
         "source": "developers.googleblog.com",
-        "stats": "192 points · 18 comments"
+        "stats": "202 points · 18 comments"
       },
       {
         "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
@@ -124,41 +158,33 @@
         "description": "How Ars Technica uses, and doesn&#039;t use, generative AI.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
         "source": "arstechnica.com",
-        "stats": "205 points · 130 comments"
-      }
-    ],
-    "2026-04-22": [
-      {
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-        "title": "Our eighth generation TPUs: two chips for the agentic era",
-        "description": "An overview of Google’s eighth generation TPUs, built for the agentic era.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/two_chips_for_the_agentic_era_hero.width-1300.png",
-        "source": "blog.google",
-        "stats": "451 points · 225 comments"
+        "stats": "207 points · 130 comments"
       },
       {
-        "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-        "title": "Workspace Agents in ChatGPT",
-        "description": "159 points · 62 comments",
+        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+        "title": "OpenAI Privacy Filter",
+        "description": "158 points · 27 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
+      }
+    ],
+    "2026-04-22": [
       {
         "url": "https://github.com/Infisical/agent-vault",
         "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
         "description": "A HTTP credential proxy and vault for AI agents. Contribute to Infisical/agent-vault development by creating an account on GitHub.",
         "image": "https://repository-images.githubusercontent.com/1194056092/a7ca50e4-a2c1-4561-922e-5f16faf868c6",
         "source": "github.com",
-        "stats": "135 points · 52 comments"
+        "stats": "150 points · 55 comments"
       },
       {
-        "url": "https://lwn.net/Articles/1068928/",
-        "title": "Kernel code removals driven by LLM-created security reports",
-        "description": "There are a number of ongoing efforts to remove kernel code, mostly from the networking subsyst [...]",
-        "image": "",
-        "source": "lwn.net",
-        "stats": "123 points · 117 comments"
+        "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+        "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+        "description": "We trained an MLP that predicts 58 body shape parameters from 8 questionnaire inputs. The trick: a differentiable physics loss. Mass accuracy: 0.3 kg mean vs 3.9 kg for Ridge. No GPU at inference.",
+        "image": "https://clad.you/blog/images/questionnaire-mlp/og-image_hu13524579386116829050.jpg",
+        "source": "clad.you",
+        "stats": "128 points · 28 comments"
       }
     ],
     "2026-04-21": [
@@ -179,16 +205,6 @@
         "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
         "source": "github.blog",
         "stats": "537 points · 227 comments"
-      }
-    ],
-    "2026-04-19": [
-      {
-        "url": "https://news.ycombinator.com/item?id=47824738",
-        "title": "Recommended GPU Repairshop in Europe (Germany)",
-        "description": "30 points · 13 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
       }
     ]
   }
