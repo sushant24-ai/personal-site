@@ -1,64 +1,106 @@
 {
-  "lastUpdated": "2026-04-27T05:28:06.903Z",
+  "lastUpdated": "2026-04-28T05:34:10.851Z",
   "days": {
+    "2026-04-28": [
+      {
+        "url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
+        "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
+        "description": "32 points · 5 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/hpennington/agentswift",
+        "title": "Show HN: AgentSwift – Open-source iOS builder agent",
+        "description": "Contribute to hpennington/agentswift development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/7cfb26ece971bd444a449864e3c7b92f8b4315588468ca60c07fdfb734c7dae2/hpennington/agentswift",
+        "source": "github.com",
+        "stats": "27 points · 6 comments"
+      },
+      {
+        "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+        "title": "San Francisco, AI capital of the world, is an economic laggard",
+        "description": "12 points · 2 comments",
+        "image": "",
+        "source": "economist.com",
+        "stats": ""
+      },
+      {
+        "url": "https://technology.robbyant.com/lingbot-map",
+        "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+        "description": "Technology-driven and application-oriented. We build foundational large models for embodied AI: spatial perception (LingBot-Depth), VLA (LingBot-VLA), world models (LingBot-World), video action (LingBot-VA). Jointly embrace the new era of embodied intelligence. 技术驱动、场景导向，自研具身智能基础大模型，共迎具身智能新时代，共创幸福生活新场景。",
+        "image": "",
+        "source": "technology.robbyant.com",
+        "stats": "13 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/ftaip/waiting-game",
+        "title": "Show HN: Waiting for LLMs Suck – Give your user a game",
+        "description": "Contribute to ftaip/waiting-game development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/b3d1f7fd1c731c45360836ad1d3e64213695a79831cbe64841128bea694e282a/ftaip/waiting-game",
+        "source": "github.com",
+        "stats": "10 points · 6 comments"
+      }
+    ],
     "2026-04-27": [
       {
-        "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-        "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-        "description": "88 points · 60 comments",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "description": "821 points · 700 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "bloomberg.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/evanklem/evanflow",
-        "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-        "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → tdd → iterate, with checkpoints throughout. - evanklem/...",
-        "image": "https://opengraph.githubassets.com/9d777bca2b6cf971851dbbfbfa9907d8c6aa239252d87197712960eead132373/evanklem/evanflow",
+        "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+        "title": "GitHub Copilot is moving to usage-based billing",
+        "description": "Starting June 1, your Copilot usage will consume GitHub AI Credits.",
+        "image": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png",
+        "source": "github.blog",
+        "stats": "603 points · 443 comments"
+      },
+      {
+        "url": "https://app.oravys.com/blog/mercor-breach-2026",
+        "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+        "description": "Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.",
+        "image": "https://app.oravys.com/static/images/og-image.png",
+        "source": "app.oravys.com",
+        "stats": "490 points · 176 comments"
+      },
+      {
+        "url": "https://github.com/dirac-run/dirac",
+        "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+        "description": "Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs other agent AND improves the code quality at the same time. Uses Hash Anchored edits, massively paral...",
+        "image": "https://repository-images.githubusercontent.com/1202290616/3387b54d-bb91-4e2a-a35b-b933836bafad",
         "source": "github.com",
-        "stats": "42 points · 12 comments"
+        "stats": "320 points · 119 comments"
       },
       {
-        "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
-        "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
-        "description": "22 points · 1 comments",
+        "url": "https://talkie-lm.com/introducing-talkie",
+        "title": "Talkie: a 13B vintage language model from 1930",
+        "description": "240 points · 66 comments",
         "image": "",
-        "source": "modelrepublic.substack.com",
+        "source": "talkie-lm.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-04-07/",
-        "title": "US power demand to reach record highs in 2026–2027 driven by AI and data centers",
-        "description": "5 points · 3 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.bbc.com/news/articles/cq6je7e80r7o",
-        "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooter's account",
-        "description": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.\n",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ec15/live/307f0f70-402f-11f1-8291-7d925c845158.jpg",
-        "source": "bbc.com",
-        "stats": "3 points · 0 comments"
       }
     ],
     "2026-04-26": [
-      {
-        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-        "title": "An AI agent deleted our production database. The agent's confession is below",
-        "description": "575 points · 719 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
       {
         "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
         "title": "AI should elevate your thinking, not replace it",
         "description": "Read about the .",
         "image": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/blog_social.jpg",
         "source": "koshyjohn.com",
-        "stats": "366 points · 278 comments"
+        "stats": "826 points · 575 comments"
+      },
+      {
+        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+        "title": "An AI agent deleted our production database. The agent's confession is below",
+        "description": "825 points · 986 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
       },
       {
         "url": "https://www.edenai.co",
@@ -66,15 +108,15 @@
         "description": "Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.",
         "image": "",
         "source": "edenai.co",
-        "stats": "126 points · 67 comments"
+        "stats": "133 points · 69 comments"
       },
       {
         "url": "https://github.com/sachitrafa/YourMemory",
         "title": "Show HN: AI memory with biological decay (52% recall)",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo. - sachitrafa/YourMemory",
-        "image": "https://opengraph.githubassets.com/904d12e8f5f169e2f62997e243dbf8397f33dcfdb8d84a8d0f5be5601a50772a/sachitrafa/YourMemory",
+        "image": "https://opengraph.githubassets.com/f092ec0d77368276cf7b3c2d95df6d7dc50002596fcb777597973d41d011c2b7/sachitrafa/YourMemory",
         "source": "github.com",
-        "stats": "79 points · 37 comments"
+        "stats": "94 points · 46 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=47913561",
@@ -92,39 +134,7 @@
         "description": "A ChatGPT AI has proved a conjecture with a method no human had thought of. Experts believe it may have further uses",
         "image": "https://static.scientificamerican.com/dam/asset/124ad289-58c2-4d51-87e8-aee854d10fc7/abstract-rubiks-cube.jpg?m=1777033076.511&w=1200",
         "source": "scientificamerican.com",
-        "stats": "749 points · 529 comments"
-      },
-      {
-        "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-        "title": "The AI industry is discovering that the public hates it",
-        "description": "If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.",
-        "image": "https://images.newrepublic.com/7619b4e952a635df61a0a59005e2f476c20f36bc.jpeg?w=1200&amp;h=630&amp;crop=faces&amp;fit=crop&amp;fm=jpg",
-        "source": "newrepublic.com",
-        "stats": "269 points · 361 comments"
-      },
-      {
-        "url": "https://github.com/nex-crm/wuphf",
-        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-        "description": "Slack for AI employees with a shared brain. Get Claudes, Codexes and OpenClaws to collaborate and do your work autonomously while never losing context. - nex-crm/wuphf",
-        "image": "https://opengraph.githubassets.com/517b5803c6e8ed7313c7e9aa540ee904aadb9b7170a8b373f319059babcb096e/nex-crm/wuphf",
-        "source": "github.com",
-        "stats": "252 points · 112 comments"
-      },
-      {
-        "url": "https://alash3al.github.io/stash?_v01",
-        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-        "description": "Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.",
-        "image": "https://stash.alash3al.com/og-image.png",
-        "source": "alash3al.github.io",
-        "stats": "180 points · 75 comments"
-      },
-      {
-        "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-        "title": "GPT‑5.5 Bio Bug Bounty",
-        "description": "154 points · 104 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "stats": "785 points · 556 comments"
       }
     ],
     "2026-04-24": [
@@ -134,7 +144,7 @@
         "description": "🚀 DeepSeek-V4 Preview is officially live &amp; open-sourced! Welcome to the era of cost-effective 1M context length.",
         "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
         "source": "api-docs.deepseek.com",
-        "stats": "2062 points · 1587 comments"
+        "stats": "2081 points · 1599 comments"
       },
       {
         "url": "https://arpitbhayani.me/blogs/defensive-databases/",
@@ -142,32 +152,16 @@
         "description": "There is an implicit contract at the foundation of every database architecture decision you have ever made. You probably never wrote it down. Nobody does. It just… existed.",
         "image": "https://edge.arpitbhayani.me/img/covers/general-cover.jpg",
         "source": "arpitbhayani.me",
-        "stats": "98 points · 100 comments"
+        "stats": "112 points · 103 comments"
       }
     ],
     "2026-04-23": [
       {
         "url": "https://openai.com/index/introducing-gpt-5-5/",
         "title": "GPT-5.5",
-        "description": "1566 points · 1048 comments",
+        "description": "1573 points · 1050 comments",
         "image": "",
         "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-        "title": "OpenAI Privacy Filter",
-        "description": "287 points · 63 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://dl.acm.org/doi/10.1145/3669940.3707274",
-        "title": "Optimizing Datalog for the GPU",
-        "description": "73 points · 3 comments",
-        "image": "",
-        "source": "dl.acm.org",
         "stats": ""
       }
     ],
@@ -179,16 +173,6 @@
         "image": "https://clad.you/blog/images/questionnaire-mlp/og-image_hu13524579386116829050.jpg",
         "source": "clad.you",
         "stats": "138 points · 28 comments"
-      }
-    ],
-    "2026-04-21": [
-      {
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-        "title": "ChatGPT Images 2.0",
-        "description": "1042 points · 970 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
       }
     ]
   }
