@@ -1,14 +1,72 @@
 {
-  "lastUpdated": "2026-05-03T05:34:03.072Z",
+  "lastUpdated": "2026-05-04T05:38:32.651Z",
   "days": {
+    "2026-05-04": [
+      {
+        "url": "https://news.ycombinator.com/item?id=48003592",
+        "title": "Ask HN: Does Claude Code succeed after being asked \"should we give up?\" for you?",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+        "title": "OpenAI Codex system includes explicit directive to \"never talk about goblins\"",
+        "description": "Directions also include system instructions to act like &quot;you have a vivid inner life.&quot;",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "4 points · 3 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48003871",
+        "title": "Ask HN: Do you feel reading AI generated readme tiring?",
+        "description": "5 points · 2 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html",
+        "title": "Big Tech cut 80k jobs, blamed AI; experts say firms are overstaffed 25%-75%",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "finance.yahoo.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1",
+        "title": "ChatGPT Wrestles with Its Most Chilling Conversation: How Do I Plan an Attack?",
+        "description": "2 points · 2 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      }
+    ],
     "2026-05-03": [
+      {
+        "url": "https://github.com/aattaran/deepclaude",
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "description": "Use Claude Code&#39;s autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. - aattaran/deepclaude",
+        "image": "https://opengraph.githubassets.com/c7d1bfdee10734293641c42099ffa89116ecba98d535a954cc65c2fab3288638/aattaran/deepclaude",
+        "source": "github.com",
+        "stats": "296 points · 119 comments"
+      },
+      {
+        "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+        "title": "Agentic Coding Is a Trap",
+        "description": "Remaining vigilant about cognitive debt and atrophy.",
+        "image": "https://larsfaye.com/opengraph-agents.jpg",
+        "source": "larsfaye.com",
+        "stats": "295 points · 201 comments"
+      },
       {
         "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
         "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
         "description": "By Rohana Rezel I&#8217;m running the ongoing AI Coding Contest where I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the Word Gem Puzzle. Ten models entered. The results were not what most people would have predicted. Kimi K2.6, an open-weights model from Chinese startup Moonshot",
         "image": "https://thinkpol.ca/wp-content/uploads/2026/04/tp_cover.png",
         "source": "thinkpol.ca",
-        "stats": "98 points · 39 comments"
+        "stats": "357 points · 214 comments"
       },
       {
         "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
@@ -16,31 +74,15 @@
         "description": "Researchers say results mark a really ‘profound change in technology that will reshape medicine’",
         "image": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f",
         "source": "theguardian.com",
-        "stats": "18 points · 1 comments"
+        "stats": "342 points · 277 comments"
       },
       {
-        "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-        "title": "AI, Intimacy, and the Data You Never Meant to Share",
-        "description": "AI is quietly entering the bedroom — and taking notes. A look at connected pleasure devices, biometric data, and the privacy questions nobody is asking.",
-        "image": "",
-        "source": "fshot.org",
-        "stats": "7 points · 0 comments"
-      },
-      {
-        "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
-        "title": "Big Tech will spend nearly $700B on AI in 2026. No one knows where buildout ends",
-        "description": "The hyperscalers are pouring unprecedented capital into chips, data centers, and power—but investors remain split on how long the surge can last.",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Meta-Datacenter.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://completemusicupdate.com/suno-picks-up-songkick-as-part-of-ai-licensing-deal-with-warner-music/",
-        "title": "Suno picks up Songkick as part of AI licensing deal with Warner Music",
-        "description": "Warner Music has settled its lawsuit and agreed a licensing deal with Suno. As with Warner’s earlier Udio deal, Suno will now make changes to its platform, while creator consent will be sought for voice clones and song remixes. However, there is one difference with this deal: Suno also gets Songkick",
-        "image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2025/11/warner-x-suno.png",
-        "source": "completemusicupdate.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://acai.sh/blog/specsmaxxing",
+        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+        "description": "The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.",
+        "image": "https://acai.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DSpecsmaxxing%26description%3DOn%2Bovercoming%2BAI%2Bpsychosis%252C%2Band%2Bwhy%2BI%2Bwrite%2Bspecs%2Bin%2BYAML%2B%2528plus%2Bopen-sourcing%2Ba%2Btoolkit%2Bfor%2Byou%2Bto%2Btry%2529%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26primaryColor%3D%2523930d7a%26lightColor%3D%2523f765f7%26darkColor%3D%25231a0416%26backgroundLight%3D%2523fcf8fb%26backgroundDark%3D%2523140411&amp;w=1200&amp;q=100",
+        "source": "acai.sh",
+        "stats": "264 points · 277 comments"
       }
     ],
     "2026-05-02": [
@@ -48,9 +90,9 @@
         "url": "https://github.com/microsoft/vscode/pull/310226",
         "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
         "description": "Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/c48f2c7d1784462cb5a065195f89b0fb089500eb88519fbdf1639c258feaf3dd/microsoft/vscode/pull/310226",
+        "image": "https://opengraph.githubassets.com/ced1577829e1da364a624195e51e8cec37e08a57584d8736578bb1cabf15ce21/microsoft/vscode/pull/310226",
         "source": "github.com",
-        "stats": "993 points · 480 comments"
+        "stats": "1466 points · 813 comments"
       },
       {
         "url": "https://arxiv.org/abs/2509.00462",
@@ -58,7 +100,7 @@
         "description": "As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs&#39; self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "320 points · 171 comments"
+        "stats": "328 points · 177 comments"
       },
       {
         "url": "https://github.com/nexu-io/open-design",
@@ -66,15 +108,7 @@
         "description": "🎨 Local-first, open-source alternative to Anthropic&amp;#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · Hype...",
         "image": "https://repository-images.githubusercontent.com/1223170290/5eec4959-c821-4927-83fb-e904b5cbc396",
         "source": "github.com",
-        "stats": "196 points · 88 comments"
-      },
-      {
-        "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
-        "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-        "description": "62 points · 86 comments",
-        "image": "",
-        "source": "dailygrail.com",
-        "stats": ""
+        "stats": "219 points · 91 comments"
       },
       {
         "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
@@ -82,93 +116,77 @@
         "description": "Two architectures for running agent harnesses, the tradeoffs between them, and how we make skills and memories work when the harness isn&#x27;t local.",
         "image": "https://mendral.com/og?title=The%20Agent%20Harness%20Belongs%20Outside%20the%20Sandbox",
         "source": "mendral.com",
-        "stats": "85 points · 68 comments"
+        "stats": "165 points · 112 comments"
+      },
+      {
+        "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
+        "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+        "description": "75 points · 120 comments",
+        "image": "",
+        "source": "dailygrail.com",
+        "stats": ""
       }
     ],
     "2026-05-01": [
       {
         "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-        "title": "DeepSeek V4—almost on the frontier",
+        "title": "DeepSeek V4 – almost on the frontier",
         "description": "Chinese AI lab DeepSeek’s last model release was V3.2 (and V3.2 Speciale) last December. They just dropped the first of their hotly anticipated V4 series in the shape of two …",
         "image": "https://static.simonwillison.net/static/2026/deepseek-v4-card.jpg",
         "source": "simonwillison.net",
-        "stats": "516 points · 317 comments"
+        "stats": "627 points · 371 comments"
       },
       {
-        "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-        "title": "Uber torches 2026 AI budget on Claude Code in four months",
-        "description": "Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers&#039; API costs ranged from $500 to $2,000.",
-        "image": "https://www.briefs.co/wp-content/uploads/2026/04/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months.png",
-        "source": "briefs.co",
-        "stats": "397 points · 467 comments"
+        "url": "https://github.com/earthtojake/text-to-cad",
+        "title": "Text-to-CAD",
+        "description": "An open source harness for generating CAD models. Contribute to earthtojake/text-to-cad development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/c7d1bfdee10734293641c42099ffa89116ecba98d535a954cc65c2fab3288638/earthtojake/text-to-cad",
+        "source": "github.com",
+        "stats": "95 points · 28 comments"
       },
       {
-        "url": "https://x.com/aaronp613/status/2049986504617820551",
-        "title": "Apple accidentally left Claude.md files Apple Support app",
-        "description": "379 points · 319 comments",
-        "image": "",
-        "source": "x.com",
+        "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+        "title": "When Dawkins met Claude – Could this AI be conscious?",
+        "description": "53 points · 392 comments",
+        "image": "https://unherd.com/wp-content/uploads/2026/04/image-1.jpg",
+        "source": "unherd.com",
         "stats": ""
-      },
-      {
-        "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-        "title": "AI uses less water than the public thinks",
-        "description": "By Jay Lund . . . Artificial intelligence (AI) will affect many economic and natural resource sectors as these new technologies develop and mature. We are in the early years of this process. Like most new things, AI has become an object of small and great hopes and fears – from hopes for saving and",
-        "image": "",
-        "source": "californiawaterblog.com",
-        "stats": "400 points · 376 comments"
-      },
-      {
-        "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-        "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-        "description": "The music streaming platform will review criteria such as artists&#x27; live dates and social media presence.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d379/live/9f35a8f0-4545-11f1-8ea3-630273c214ab.jpg",
-        "source": "bbc.com",
-        "stats": "271 points · 299 comments"
       }
     ],
     "2026-04-30": [
       {
-        "url": "https://twitter.com/theo/status/2049645973350363168",
-        "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-        "description": "1328 points · 715 comments",
+        "url": "https://github.com/systalyze/utilyze",
+        "title": "Utilyze measures how efficiently your GPU is doing useful work",
+        "description": "Contribute to systalyze/utilyze development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/ab53a10c75447c634e1f4904a7014217533c30301d667c9968717293bce4c3d4/systalyze/utilyze",
+        "source": "github.com",
+        "stats": "47 points · 11 comments"
+      },
+      {
+        "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+        "title": "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
+        "description": "34 points · 1 comments",
         "image": "",
-        "source": "twitter.com",
+        "source": "blog.stuffedcow.net",
         "stats": ""
       },
       {
-        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-        "description": "The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.",
-        "image": "https://semgrep.dev/assets/blog/semgrep-blog-pytorch-lightning-advisory.png",
-        "source": "semgrep.dev",
-        "stats": "461 points · 177 comments"
-      },
-      {
-        "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-        "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-        "description": "The official code repo of Alignment Whack-a-Mole: Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models - cauchy221/Alignment-Whack-a-Mole-Code",
-        "image": "https://opengraph.githubassets.com/1e9af25df21db31bdfcd157a057d33e13d75a358a2866fc4abfa2c9d0de484af/cauchy221/Alignment-Whack-a-Mole-Code",
-        "source": "github.com",
-        "stats": "200 points · 164 comments"
+        "url": "https://blog.detail.dev/posts/bug-scanner/",
+        "title": "Benchmarking a Bug Scanner",
+        "description": "We ran a tournament pitting Detail",
+        "image": "https://blog.detail.dev/og/bug-scanner-zscore.png",
+        "source": "blog.detail.dev",
+        "stats": "17 points · 8 comments"
       }
     ],
     "2026-04-29": [
       {
-        "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-        "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-        "description": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we&#x27;re approaching a ChatGPT moment for the physical world.",
-        "image": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/191:100/w_1280,c_limit/20260320-wired-eka-robotics-0429.jpg",
-        "source": "wired.com",
-        "stats": "166 points · 233 comments"
-      },
-      {
         "url": "https://github.com/bruin-data/dac",
         "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
         "description": "dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. - bruin-data/dac",
-        "image": "https://opengraph.githubassets.com/d943bbb8697111f5ea3037e7b27bed4ea2bad30506d7d88196ded78357bb955d/bruin-data/dac",
+        "image": "https://opengraph.githubassets.com/507bfb5360adf925a02d5424ccd6b10625438a9242ff5beecc2dcd6d96370812/bruin-data/dac",
         "source": "github.com",
-        "stats": "101 points · 31 comments"
+        "stats": "109 points · 35 comments"
       }
     ],
     "2026-04-28": [
@@ -195,16 +213,6 @@
         "image": "https://github.blog/wp-content/uploads/2026/04/ConsumesActionsMinutes_NewRelease_Unfurl_TextOnly.jpg",
         "source": "github.blog",
         "stats": "310 points · 204 comments"
-      }
-    ],
-    "2026-04-27": [
-      {
-        "url": "https://talkie-lm.com/introducing-talkie",
-        "title": "Talkie: a 13B vintage language model from 1930",
-        "description": "765 points · 326 comments",
-        "image": "",
-        "source": "talkie-lm.com",
-        "stats": ""
       }
     ]
   }
