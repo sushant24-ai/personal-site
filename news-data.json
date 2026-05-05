@@ -1,56 +1,98 @@
 {
-  "lastUpdated": "2026-05-04T05:38:32.651Z",
+  "lastUpdated": "2026-05-05T05:18:07.091Z",
   "days": {
+    "2026-05-05": [
+      {
+        "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+        "title": "Y Combinator's Stake in OpenAI (0.6%)",
+        "description": "The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.",
+        "image": "https://daringfireball.net/graphics/df-wide-card.png",
+        "source": "daringfireball.net",
+        "stats": "219 points · 18 comments"
+      },
+      {
+        "url": "https://github.com/angelos-p/llm-from-scratch",
+        "title": "Train Your Own LLM from Scratch",
+        "description": "Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/0fcea82e2db56bdc2d883bd17258d746a2dfd01eef25dc2113452f3e8aa8c1bc/angelos-p/llm-from-scratch",
+        "source": "github.com",
+        "stats": "31 points · 1 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+        "title": "Fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+        "description": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation",
+        "image": "https://i.guim.co.uk/img/media/4642f2ca4299ccec57c56b3c44dc41ddb56a21cd/89_0_2219_1776/master/2219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8292fc5b88fd133a4c0d1074c7057dc",
+        "source": "theguardian.com",
+        "stats": "11 points · 2 comments"
+      },
+      {
+        "url": "https://openai.com/news/rss.xml",
+        "title": "OpenAI can't build working RSS feeds",
+        "description": "6 points · 1 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://apnews.com/article/brockman-musk-altman-openai-trial-837bdc3fbced2a02f0f93a1899260bdd",
+        "title": "OpenAI president discloses his stake in the company is worth $30B",
+        "description": "Greg Brockman, OpenAI’s president and CEO Sam Altman’s top lieutenant, disclosed in court Monday that his stake in the artificial intelligence company is worth nearly $30 billion.",
+        "image": "https://dims.apnews.com/dims4/default/963e6db/2147483647/strip/true/crop/4101x2733+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F9d%2F42feba8e8d856f7c86a0589d25be%2F2e32c7c0f9744e4fb4c3396005718a47",
+        "source": "apnews.com",
+        "stats": "6 points · 0 comments"
+      }
+    ],
     "2026-05-04": [
       {
-        "url": "https://news.ycombinator.com/item?id=48003592",
-        "title": "Ask HN: Does Claude Code succeed after being asked \"should we give up?\" for you?",
-        "description": "6 points · 0 comments",
+        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+        "title": "How OpenAI delivers low-latency voice AI at scale",
+        "description": "345 points · 110 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
-        "title": "OpenAI Codex system includes explicit directive to \"never talk about goblins\"",
-        "description": "Directions also include system instructions to act like &quot;you have a vivid inner life.&quot;",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-935113346-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "4 points · 3 comments"
+        "url": "https://addyosmani.com/blog/agent-skills/",
+        "title": "Agent Skills",
+        "description": "AI coding agents take the shortest path to done, which usually means skipping the specs, tests, and reviews that make software reliable at scale. Agent Skill...",
+        "image": "https://addyosmani.com/assets/images/addys-agent-skills.jpg",
+        "source": "addyosmani.com",
+        "stats": "187 points · 75 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=48003871",
-        "title": "Ask HN: Do you feel reading AI generated readme tiring?",
-        "description": "5 points · 2 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+        "title": "Let's talk about LLMs",
+        "description": "Everybody seems to agree we’re in the middle of _something_, though what, exactly, seems to be up for debate. It …",
+        "image": "https://www.b-list.org/static/b-list/img/og.jpg",
+        "source": "b-list.org",
+        "stats": "151 points · 126 comments"
       },
       {
-        "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-cut-80-000-211500038.html",
-        "title": "Big Tech cut 80k jobs, blamed AI; experts say firms are overstaffed 25%-75%",
-        "description": "3 points · 1 comments",
-        "image": "",
-        "source": "finance.yahoo.com",
-        "stats": ""
+        "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+        "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+        "description": "A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.",
+        "image": "https://images.unsplash.com/photo-1598032604570-d65c6680d246?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNoaWxkJTIwb24lMjBhJTIwY29tcHV0ZXIlMjBpbiUyMHNjaG9vbHxlbnwwfHx8fDE3Nzc5MDQ2NDd8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "404media.co",
+        "stats": "115 points · 106 comments"
       },
       {
-        "url": "https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1",
-        "title": "ChatGPT Wrestles with Its Most Chilling Conversation: How Do I Plan an Attack?",
-        "description": "2 points · 2 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://arxiv.org/abs/2510.19315",
+        "title": "Transformers Are Inherently Succinct (2025)",
+        "description": "We propose succinctness as a measure of the expressive power of a transformer in describing a concept. To this end, we prove that transformers are highly expressive in that they can represent formal languages substantially more succinctly than standard representations of formal languages like finite automata and Linear Temporal Logic (LTL) formulas. As a by-product of this expressivity, we show that verifying properties of transformers is provably intractable (i.e. EXPSPACE-complete).",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "44 points · 6 comments"
       }
     ],
     "2026-05-03": [
       {
         "url": "https://github.com/aattaran/deepclaude",
-        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
         "description": "Use Claude Code&#39;s autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. - aattaran/deepclaude",
-        "image": "https://opengraph.githubassets.com/c7d1bfdee10734293641c42099ffa89116ecba98d535a954cc65c2fab3288638/aattaran/deepclaude",
+        "image": "https://opengraph.githubassets.com/3ec8eff24b30f7288a9c9d55c0cca3c3d25d1d2481cdd504d371ddb64b291061/aattaran/deepclaude",
         "source": "github.com",
-        "stats": "296 points · 119 comments"
+        "stats": "654 points · 275 comments"
       },
       {
         "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
@@ -58,23 +100,15 @@
         "description": "Remaining vigilant about cognitive debt and atrophy.",
         "image": "https://larsfaye.com/opengraph-agents.jpg",
         "source": "larsfaye.com",
-        "stats": "295 points · 201 comments"
-      },
-      {
-        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-        "description": "By Rohana Rezel I&#8217;m running the ongoing AI Coding Contest where I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the Word Gem Puzzle. Ten models entered. The results were not what most people would have predicted. Kimi K2.6, an open-weights model from Chinese startup Moonshot",
-        "image": "https://thinkpol.ca/wp-content/uploads/2026/04/tp_cover.png",
-        "source": "thinkpol.ca",
-        "stats": "357 points · 214 comments"
+        "stats": "428 points · 334 comments"
       },
       {
         "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-        "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+        "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
         "description": "Researchers say results mark a really ‘profound change in technology that will reshape medicine’",
         "image": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f",
         "source": "theguardian.com",
-        "stats": "342 points · 277 comments"
+        "stats": "499 points · 451 comments"
       },
       {
         "url": "https://acai.sh/blog/specsmaxxing",
@@ -82,33 +116,25 @@
         "description": "The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.",
         "image": "https://acai.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DSpecsmaxxing%26description%3DOn%2Bovercoming%2BAI%2Bpsychosis%252C%2Band%2Bwhy%2BI%2Bwrite%2Bspecs%2Bin%2BYAML%2B%2528plus%2Bopen-sourcing%2Ba%2Btoolkit%2Bfor%2Byou%2Bto%2Btry%2529%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26primaryColor%3D%2523930d7a%26lightColor%3D%2523f765f7%26darkColor%3D%25231a0416%26backgroundLight%3D%2523fcf8fb%26backgroundDark%3D%2523140411&amp;w=1200&amp;q=100",
         "source": "acai.sh",
-        "stats": "264 points · 277 comments"
+        "stats": "281 points · 291 comments"
+      },
+      {
+        "url": "https://www.lelanthran.com/chap15/content.html",
+        "title": "LLMs Are Not a Higher Level of Abstraction",
+        "description": "159 points · 153 comments",
+        "image": "",
+        "source": "lelanthran.com",
+        "stats": ""
       }
     ],
     "2026-05-02": [
-      {
-        "url": "https://github.com/microsoft/vscode/pull/310226",
-        "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-        "description": "Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/ced1577829e1da364a624195e51e8cec37e08a57584d8736578bb1cabf15ce21/microsoft/vscode/pull/310226",
-        "source": "github.com",
-        "stats": "1466 points · 813 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2509.00462",
-        "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-        "description": "As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs&#39; self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "328 points · 177 comments"
-      },
       {
         "url": "https://github.com/nexu-io/open-design",
         "title": "Open Design: Use Your Coding Agent as a Design Engine",
         "description": "🎨 Local-first, open-source alternative to Anthropic&amp;#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · Hype...",
         "image": "https://repository-images.githubusercontent.com/1223170290/5eec4959-c821-4927-83fb-e904b5cbc396",
         "source": "github.com",
-        "stats": "219 points · 91 comments"
+        "stats": "229 points · 92 comments"
       },
       {
         "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
@@ -116,15 +142,15 @@
         "description": "Two architectures for running agent harnesses, the tradeoffs between them, and how we make skills and memories work when the harness isn&#x27;t local.",
         "image": "https://mendral.com/og?title=The%20Agent%20Harness%20Belongs%20Outside%20the%20Sandbox",
         "source": "mendral.com",
-        "stats": "165 points · 112 comments"
+        "stats": "178 points · 117 comments"
       },
       {
-        "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
-        "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
-        "description": "75 points · 120 comments",
-        "image": "",
-        "source": "dailygrail.com",
-        "stats": ""
+        "url": "https://reiner.org/neural-net-ciphers",
+        "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+        "description": "Several neural network design principles are almost identical to cipher design principles.",
+        "image": "https://reiner.org/static/banner-medium.471c8add.png",
+        "source": "reiner.org",
+        "stats": "129 points · 47 comments"
       }
     ],
     "2026-05-01": [
@@ -134,49 +160,25 @@
         "description": "Chinese AI lab DeepSeek’s last model release was V3.2 (and V3.2 Speciale) last December. They just dropped the first of their hotly anticipated V4 series in the shape of two …",
         "image": "https://static.simonwillison.net/static/2026/deepseek-v4-card.jpg",
         "source": "simonwillison.net",
-        "stats": "627 points · 371 comments"
+        "stats": "659 points · 385 comments"
       },
       {
         "url": "https://github.com/earthtojake/text-to-cad",
         "title": "Text-to-CAD",
         "description": "An open source harness for generating CAD models. Contribute to earthtojake/text-to-cad development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/c7d1bfdee10734293641c42099ffa89116ecba98d535a954cc65c2fab3288638/earthtojake/text-to-cad",
+        "image": "https://opengraph.githubassets.com/1b267f1eb3e80405afb0c799cb82938f0d7a85dce3b8cafd862afcd0e1b3bb1a/earthtojake/text-to-cad",
         "source": "github.com",
-        "stats": "95 points · 28 comments"
-      },
-      {
-        "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
-        "title": "When Dawkins met Claude – Could this AI be conscious?",
-        "description": "53 points · 392 comments",
-        "image": "https://unherd.com/wp-content/uploads/2026/04/image-1.jpg",
-        "source": "unherd.com",
-        "stats": ""
+        "stats": "178 points · 44 comments"
       }
     ],
     "2026-04-30": [
       {
-        "url": "https://github.com/systalyze/utilyze",
-        "title": "Utilyze measures how efficiently your GPU is doing useful work",
-        "description": "Contribute to systalyze/utilyze development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/ab53a10c75447c634e1f4904a7014217533c30301d667c9968717293bce4c3d4/systalyze/utilyze",
-        "source": "github.com",
-        "stats": "47 points · 11 comments"
-      },
-      {
         "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-        "title": "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
-        "description": "34 points · 1 comments",
+        "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
+        "description": "160 points · 8 comments",
         "image": "",
         "source": "blog.stuffedcow.net",
         "stats": ""
-      },
-      {
-        "url": "https://blog.detail.dev/posts/bug-scanner/",
-        "title": "Benchmarking a Bug Scanner",
-        "description": "We ran a tournament pitting Detail",
-        "image": "https://blog.detail.dev/og/bug-scanner-zscore.png",
-        "source": "blog.detail.dev",
-        "stats": "17 points · 8 comments"
       }
     ],
     "2026-04-29": [
@@ -187,32 +189,6 @@
         "image": "https://opengraph.githubassets.com/507bfb5360adf925a02d5424ccd6b10625438a9242ff5beecc2dcd6d96370812/bruin-data/dac",
         "source": "github.com",
         "stats": "109 points · 35 comments"
-      }
-    ],
-    "2026-04-28": [
-      {
-        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-        "title": "How ChatGPT serves ads",
-        "description": "OpenAI&#x27;s ad platform has two halves. On the ChatGPT side, the backend injects structured single_advertiser_ad_unit objects into the conversation SSE stream while the model is responding. On the merchant side, a tracking SDK called OAIQ runs in the visitor&#x27;s browser and reports product views back to OpenAI.",
-        "image": "",
-        "source": "buchodi.com",
-        "stats": "499 points · 361 comments"
-      },
-      {
-        "url": "https://github.com/microsoft/VibeVoice",
-        "title": "VibeVoice: Open-source frontier voice AI",
-        "description": "Open-Source Frontier Voice AI. Contribute to microsoft/VibeVoice development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/d835f0bc01f1e9416c23cdbaefbd6cae120e6953794e198af805f59114363e4a/microsoft/VibeVoice",
-        "source": "github.com",
-        "stats": "386 points · 180 comments"
-      },
-      {
-        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-        "description": "Developers and engineering teams worldwide use GitHub Copilot for high-quality, agent-powered code reviews on every pull request. We understand that any change is significant to our customers, especially when it&hellip;",
-        "image": "https://github.blog/wp-content/uploads/2026/04/ConsumesActionsMinutes_NewRelease_Unfurl_TextOnly.jpg",
-        "source": "github.blog",
-        "stats": "310 points · 204 comments"
       }
     ]
   }
