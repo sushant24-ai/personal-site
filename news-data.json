@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-05-05T05:18:07.091Z",
+  "lastUpdated": "2026-05-06T05:32:56.608Z",
   "days": {
-    "2026-05-05": [
+    "2026-05-06": [
       {
-        "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-        "title": "Y Combinator's Stake in OpenAI (0.6%)",
-        "description": "The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "219 points · 18 comments"
+        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "description": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.",
+        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
+        "source": "blog.cloudflare.com",
+        "stats": "129 points · 55 comments"
       },
       {
-        "url": "https://github.com/angelos-p/llm-from-scratch",
-        "title": "Train Your Own LLM from Scratch",
-        "description": "Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/0fcea82e2db56bdc2d883bd17258d746a2dfd01eef25dc2113452f3e8aa8c1bc/angelos-p/llm-from-scratch",
+        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+        "title": "Telus Uses AI to Alter Call-Agent Accents",
+        "description": "According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents&#x27; accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents&#x27; voices to reduce what Telus reportedly calls &quot;accent-related friction.&quot; Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.",
+        "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
+        "source": "letsdatascience.com",
+        "stats": "89 points · 54 comments"
+      },
+      {
+        "url": "https://github.com/microsoft/vscode/issues/314311",
+        "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
+        "description": "What happened? In 1.110, we added a setting to add Copilot as coauthor in commit messages by appending Co-authored-by: Copilot copilot@github.com. The setting git.addAICoAuthor has three different ...",
+        "image": "https://opengraph.githubassets.com/1b4ff902184fd16a7ba525269c4e7cfabed7b5897fdf181e3a8f73eb9af3f97c/microsoft/vscode/issues/314311",
         "source": "github.com",
-        "stats": "31 points · 1 comments"
+        "stats": "68 points · 48 comments"
+      },
+      {
+        "url": "https://github.com/OxideAV/oxideav-magicyuv/issues/3",
+        "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
+        "description": "Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?",
+        "image": "https://opengraph.githubassets.com/56dfd1713b25f129fbc113a057c416f343a003bb0b8f2bfaa5a82cd6dcac34ee/OxideAV/oxideav-magicyuv/issues/3",
+        "source": "github.com",
+        "stats": "24 points · 2 comments"
       },
       {
         "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
-        "title": "Fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
+        "title": "Canadian fiddler sues Google after AI wrongly claimed he was a sex offender",
         "description": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation",
         "image": "https://i.guim.co.uk/img/media/4642f2ca4299ccec57c56b3c44dc41ddb56a21cd/89_0_2219_1776/master/2219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8292fc5b88fd133a4c0d1074c7057dc",
         "source": "theguardian.com",
-        "stats": "11 points · 2 comments"
+        "stats": "8 points · 1 comments"
+      }
+    ],
+    "2026-05-05": [
+      {
+        "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+        "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+        "description": "Google Chrome is downloading a 4 GB Gemini Nano model onto users",
+        "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
+        "source": "thatprivacyguy.com",
+        "stats": "1348 points · 898 comments"
       },
       {
-        "url": "https://openai.com/news/rss.xml",
-        "title": "OpenAI can't build working RSS feeds",
-        "description": "6 points · 1 comments",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+        "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+        "description": "An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png",
+        "source": "blog.google",
+        "stats": "511 points · 229 comments"
+      },
+      {
+        "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+        "title": "AI didn't delete your database, you did",
+        "description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company&#039;s production database. We watched from the sidelines as he tried to get a confession from the agent:",
+        "image": "https://cdn.idiallo.com/images/assets/652/hero.jpg",
+        "source": "idiallo.com",
+        "stats": "508 points · 283 comments"
+      },
+      {
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "title": "Three Inverse Laws of AI",
+        "description": "399 points · 271 comments",
         "image": "",
-        "source": "openai.com",
+        "source": "susam.net",
         "stats": ""
       },
       {
-        "url": "https://apnews.com/article/brockman-musk-altman-openai-trial-837bdc3fbced2a02f0f93a1899260bdd",
-        "title": "OpenAI president discloses his stake in the company is worth $30B",
-        "description": "Greg Brockman, OpenAI’s president and CEO Sam Altman’s top lieutenant, disclosed in court Monday that his stake in the artificial intelligence company is worth nearly $30 billion.",
-        "image": "https://dims.apnews.com/dims4/default/963e6db/2147483647/strip/true/crop/4101x2733+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F9d%2F42feba8e8d856f7c86a0589d25be%2F2e32c7c0f9744e4fb4c3396005718a47",
-        "source": "apnews.com",
-        "stats": "6 points · 0 comments"
+        "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+        "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+        "description": "The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.",
+        "image": "https://daringfireball.net/graphics/df-wide-card.png",
+        "source": "daringfireball.net",
+        "stats": "375 points · 67 comments"
       }
     ],
     "2026-05-04": [
       {
         "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
         "title": "How OpenAI delivers low-latency voice AI at scale",
-        "description": "345 points · 110 comments",
+        "description": "495 points · 143 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "AI coding agents take the shortest path to done, which usually means skipping the specs, tests, and reviews that make software reliable at scale. Agent Skill...",
         "image": "https://addyosmani.com/assets/images/addys-agent-skills.jpg",
         "source": "addyosmani.com",
-        "stats": "187 points · 75 comments"
+        "stats": "368 points · 199 comments"
       },
       {
         "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
@@ -66,7 +108,7 @@
         "description": "Everybody seems to agree we’re in the middle of _something_, though what, exactly, seems to be up for debate. It …",
         "image": "https://www.b-list.org/static/b-list/img/og.jpg",
         "source": "b-list.org",
-        "stats": "151 points · 126 comments"
+        "stats": "182 points · 176 comments"
       },
       {
         "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
@@ -74,7 +116,7 @@
         "description": "A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.",
         "image": "https://images.unsplash.com/photo-1598032604570-d65c6680d246?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNoaWxkJTIwb24lMjBhJTIwY29tcHV0ZXIlMjBpbiUyMHNjaG9vbHxlbnwwfHx8fDE3Nzc5MDQ2NDd8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
         "source": "404media.co",
-        "stats": "115 points · 106 comments"
+        "stats": "118 points · 113 comments"
       },
       {
         "url": "https://arxiv.org/abs/2510.19315",
@@ -82,75 +124,27 @@
         "description": "We propose succinctness as a measure of the expressive power of a transformer in describing a concept. To this end, we prove that transformers are highly expressive in that they can represent formal languages substantially more succinctly than standard representations of formal languages like finite automata and Linear Temporal Logic (LTL) formulas. As a by-product of this expressivity, we show that verifying properties of transformers is provably intractable (i.e. EXPSPACE-complete).",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "44 points · 6 comments"
+        "stats": "61 points · 9 comments"
       }
     ],
     "2026-05-03": [
       {
-        "url": "https://github.com/aattaran/deepclaude",
-        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-        "description": "Use Claude Code&#39;s autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. - aattaran/deepclaude",
-        "image": "https://opengraph.githubassets.com/3ec8eff24b30f7288a9c9d55c0cca3c3d25d1d2481cdd504d371ddb64b291061/aattaran/deepclaude",
-        "source": "github.com",
-        "stats": "654 points · 275 comments"
-      },
-      {
-        "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-        "title": "Agentic Coding Is a Trap",
-        "description": "Remaining vigilant about cognitive debt and atrophy.",
-        "image": "https://larsfaye.com/opengraph-agents.jpg",
-        "source": "larsfaye.com",
-        "stats": "428 points · 334 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-        "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-        "description": "Researchers say results mark a really ‘profound change in technology that will reshape medicine’",
-        "image": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f",
-        "source": "theguardian.com",
-        "stats": "499 points · 451 comments"
-      },
-      {
-        "url": "https://acai.sh/blog/specsmaxxing",
-        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-        "description": "The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.",
-        "image": "https://acai.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DSpecsmaxxing%26description%3DOn%2Bovercoming%2BAI%2Bpsychosis%252C%2Band%2Bwhy%2BI%2Bwrite%2Bspecs%2Bin%2BYAML%2B%2528plus%2Bopen-sourcing%2Ba%2Btoolkit%2Bfor%2Byou%2Bto%2Btry%2529%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Facai%252F64tMg2VKm-ey5cuT%252Flogo-word.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D64tMg2VKm-ey5cuT%2526q%253D85%2526s%253D95b3095af445779b3cd61dc26931fa84%26primaryColor%3D%2523930d7a%26lightColor%3D%2523f765f7%26darkColor%3D%25231a0416%26backgroundLight%3D%2523fcf8fb%26backgroundDark%3D%2523140411&amp;w=1200&amp;q=100",
-        "source": "acai.sh",
-        "stats": "281 points · 291 comments"
-      },
-      {
-        "url": "https://www.lelanthran.com/chap15/content.html",
-        "title": "LLMs Are Not a Higher Level of Abstraction",
-        "description": "159 points · 153 comments",
-        "image": "",
-        "source": "lelanthran.com",
-        "stats": ""
+        "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+        "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+        "description": "Wiki Builder is an open-source Claude Code plugin that turns the LLM-knowledge-base workflow into a one-command setup. Scaffold a configurable wiki, point Claude at sources, and let the agent compile durable pages, indexes, and concept maps for you.",
+        "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
+        "source": "academy.dair.ai",
+        "stats": "35 points · 2 comments"
       }
     ],
     "2026-05-02": [
-      {
-        "url": "https://github.com/nexu-io/open-design",
-        "title": "Open Design: Use Your Coding Agent as a Design Engine",
-        "description": "🎨 Local-first, open-source alternative to Anthropic&amp;#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · Hype...",
-        "image": "https://repository-images.githubusercontent.com/1223170290/5eec4959-c821-4927-83fb-e904b5cbc396",
-        "source": "github.com",
-        "stats": "229 points · 92 comments"
-      },
-      {
-        "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-        "title": "The agent harness belongs outside the sandbox",
-        "description": "Two architectures for running agent harnesses, the tradeoffs between them, and how we make skills and memories work when the harness isn&#x27;t local.",
-        "image": "https://mendral.com/og?title=The%20Agent%20Harness%20Belongs%20Outside%20the%20Sandbox",
-        "source": "mendral.com",
-        "stats": "178 points · 117 comments"
-      },
       {
         "url": "https://reiner.org/neural-net-ciphers",
         "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
         "description": "Several neural network design principles are almost identical to cipher design principles.",
         "image": "https://reiner.org/static/banner-medium.471c8add.png",
         "source": "reiner.org",
-        "stats": "129 points · 47 comments"
+        "stats": "137 points · 47 comments"
       }
     ],
     "2026-05-01": [
@@ -160,15 +154,15 @@
         "description": "Chinese AI lab DeepSeek’s last model release was V3.2 (and V3.2 Speciale) last December. They just dropped the first of their hotly anticipated V4 series in the shape of two …",
         "image": "https://static.simonwillison.net/static/2026/deepseek-v4-card.jpg",
         "source": "simonwillison.net",
-        "stats": "659 points · 385 comments"
+        "stats": "668 points · 391 comments"
       },
       {
         "url": "https://github.com/earthtojake/text-to-cad",
         "title": "Text-to-CAD",
         "description": "An open source harness for generating CAD models. Contribute to earthtojake/text-to-cad development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/1b267f1eb3e80405afb0c799cb82938f0d7a85dce3b8cafd862afcd0e1b3bb1a/earthtojake/text-to-cad",
+        "image": "https://opengraph.githubassets.com/043cd3a6fa3d547750d8e7749a9b270165ae293d1efb514a32182b9a3d7a1a60/earthtojake/text-to-cad",
         "source": "github.com",
-        "stats": "178 points · 44 comments"
+        "stats": "184 points · 45 comments"
       }
     ],
     "2026-04-30": [
@@ -179,16 +173,6 @@
         "image": "",
         "source": "blog.stuffedcow.net",
         "stats": ""
-      }
-    ],
-    "2026-04-29": [
-      {
-        "url": "https://github.com/bruin-data/dac",
-        "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-        "description": "dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. - bruin-data/dac",
-        "image": "https://opengraph.githubassets.com/507bfb5360adf925a02d5424ccd6b10625438a9242ff5beecc2dcd6d96370812/bruin-data/dac",
-        "source": "github.com",
-        "stats": "109 points · 35 comments"
       }
     ]
   }
