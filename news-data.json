@@ -1,14 +1,72 @@
 {
-  "lastUpdated": "2026-05-06T05:32:56.608Z",
+  "lastUpdated": "2026-05-07T05:35:27.541Z",
   "days": {
+    "2026-05-07": [
+      {
+        "url": "https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/",
+        "title": "If AI cuts jobs, it would also threaten Social Security and Medicare",
+        "description": "11 points · 6 comments",
+        "image": "",
+        "source": "minnesotareformer.com",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+        "title": "How Elon Musk Left OpenAI, According to Greg Brockman",
+        "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "7 points · 2 comments"
+      },
+      {
+        "url": "https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY",
+        "title": "Discord group guessed the URL to Anthropic's Mythos model before CISA used it",
+        "description": "7 points · 6 comments",
+        "image": "",
+        "source": "msn.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+        "description": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
+        "image": "https://media.wired.com/photos/69f14b40d98ff026bfabf317/191:100/w_1280,c_limit/Made-In-China-Super-PAC-Backed-By-OpenAI-Palantir-Paying-TikTok-Influencers-Business.jpg",
+        "source": "wired.com",
+        "stats": "7 points · 2 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2605.03546",
+        "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+        "description": "Turning ideas into full software projects from scratch has become a popular use case for language models. Agents are being deployed to seed, maintain, and grow codebases over extended periods with minimal human oversight. Such settings require models to make high-level software architecture decisions. However, existing benchmarks measure focused, limited tasks such as fixing a single bug or developing a single, specified feature. We therefore introduce ProgramBench to measure the ability of software engineering agents to develop software holisitically. In ProgramBench, given only a program and its documentation, agents must architect and implement a codebase that matches the reference executable&#39;s behavior. End-to-end behavioral tests are generated via agent-driven fuzzing, enabling evaluation without prescribing implementation structure. Our 200 tasks range from compact CLI tools to widely used software such as FFmpeg, SQLite, and the PHP interpreter. We evaluate 9 LMs and find that none fully resolve any task, with the best model passing 95\\% of tests on only 3\\% of tasks. Models favor monolithic, single-file implementations that diverge sharply from human-written code.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-05-06": [
+      {
+        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "description": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …",
+        "image": "",
+        "source": "simonwillison.net",
+        "stats": "500 points · 544 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/news/higher-limits-spacex",
+        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+        "description": "We’ve raised Claude&#x27;s usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term. ",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig",
+        "source": "anthropic.com",
+        "stats": "438 points · 383 comments"
+      },
       {
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
         "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
         "description": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.",
         "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
         "source": "blog.cloudflare.com",
-        "stats": "129 points · 55 comments"
+        "stats": "630 points · 355 comments"
       },
       {
         "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
@@ -16,31 +74,15 @@
         "description": "According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents&#x27; accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents&#x27; voices to reduce what Telus reportedly calls &quot;accent-related friction.&quot; Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.",
         "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
         "source": "letsdatascience.com",
-        "stats": "89 points · 54 comments"
+        "stats": "229 points · 209 comments"
       },
       {
-        "url": "https://github.com/microsoft/vscode/issues/314311",
-        "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
-        "description": "What happened? In 1.110, we added a setting to add Copilot as coauthor in commit messages by appending Co-authored-by: Copilot copilot@github.com. The setting git.addAICoAuthor has three different ...",
-        "image": "https://opengraph.githubassets.com/1b4ff902184fd16a7ba525269c4e7cfabed7b5897fdf181e3a8f73eb9af3f97c/microsoft/vscode/issues/314311",
-        "source": "github.com",
-        "stats": "68 points · 48 comments"
-      },
-      {
-        "url": "https://github.com/OxideAV/oxideav-magicyuv/issues/3",
-        "title": "FFmpeg developer calls out OxideAV for AI license laundering of his code",
-        "description": "Where is docs/video/magicyuv/magicyuv-trace-reverse-engineering.md located?",
-        "image": "https://opengraph.githubassets.com/56dfd1713b25f129fbc113a057c416f343a003bb0b8f2bfaa5a82cd6dcac34ee/OxideAV/oxideav-magicyuv/issues/3",
-        "source": "github.com",
-        "stats": "24 points · 2 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
-        "title": "Canadian fiddler sues Google after AI wrongly claimed he was a sex offender",
-        "description": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation",
-        "image": "https://i.guim.co.uk/img/media/4642f2ca4299ccec57c56b3c44dc41ddb56a21cd/89_0_2219_1776/master/2219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8292fc5b88fd133a4c0d1074c7057dc",
-        "source": "theguardian.com",
-        "stats": "8 points · 1 comments"
+        "url": "https://tilde.run/",
+        "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+        "description": "Run AI agents and pipelines on real production data. Every run is a transaction you can roll back, with every network call audited and GitHub, S3, and Drive composed as one versioned filesystem.",
+        "image": "https://tilde.run/og-image.png",
+        "source": "tilde.run",
+        "stats": "145 points · 104 comments"
       }
     ],
     "2026-05-05": [
@@ -50,7 +92,7 @@
         "description": "Google Chrome is downloading a 4 GB Gemini Nano model onto users",
         "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
         "source": "thatprivacyguy.com",
-        "stats": "1348 points · 898 comments"
+        "stats": "1660 points · 1099 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
@@ -58,7 +100,15 @@
         "description": "An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png",
         "source": "blog.google",
-        "stats": "511 points · 229 comments"
+        "stats": "663 points · 323 comments"
+      },
+      {
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "title": "Three Inverse Laws of AI",
+        "description": "527 points · 346 comments",
+        "image": "",
+        "source": "susam.net",
+        "stats": ""
       },
       {
         "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
@@ -66,41 +116,25 @@
         "description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company&#039;s production database. We watched from the sidelines as he tried to get a confession from the agent:",
         "image": "https://cdn.idiallo.com/images/assets/652/hero.jpg",
         "source": "idiallo.com",
-        "stats": "508 points · 283 comments"
+        "stats": "538 points · 298 comments"
       },
       {
-        "url": "https://susam.net/inverse-laws-of-robotics.html",
-        "title": "Three Inverse Laws of AI",
-        "description": "399 points · 271 comments",
-        "image": "",
-        "source": "susam.net",
-        "stats": ""
-      },
-      {
-        "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-        "title": "Y Combinator's Stake in OpenAI (0.6%?)",
-        "description": "The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "375 points · 67 comments"
+        "url": "https://github.com/angelos-p/llm-from-scratch",
+        "title": "Train Your Own LLM from Scratch",
+        "description": "Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/2a6a7b09d853e4562157177479ca6ea169588b76a9e37d971b5b8db359d9b1d2/angelos-p/llm-from-scratch",
+        "source": "github.com",
+        "stats": "465 points · 50 comments"
       }
     ],
     "2026-05-04": [
       {
         "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
         "title": "How OpenAI delivers low-latency voice AI at scale",
-        "description": "495 points · 143 comments",
+        "description": "501 points · 144 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://addyosmani.com/blog/agent-skills/",
-        "title": "Agent Skills",
-        "description": "AI coding agents take the shortest path to done, which usually means skipping the specs, tests, and reviews that make software reliable at scale. Agent Skill...",
-        "image": "https://addyosmani.com/assets/images/addys-agent-skills.jpg",
-        "source": "addyosmani.com",
-        "stats": "368 points · 199 comments"
       },
       {
         "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
@@ -108,23 +142,7 @@
         "description": "Everybody seems to agree we’re in the middle of _something_, though what, exactly, seems to be up for debate. It …",
         "image": "https://www.b-list.org/static/b-list/img/og.jpg",
         "source": "b-list.org",
-        "stats": "182 points · 176 comments"
-      },
-      {
-        "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-        "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-        "description": "A new bill introduced by Senators Adam Schiff and Mike Rounds would award grants to the National Science Foundation—which has endured massive funding cuts under the Trump Administration for science research—to put “AI literacy” in schools.",
-        "image": "https://images.unsplash.com/photo-1598032604570-d65c6680d246?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDR8fGNoaWxkJTIwb24lMjBhJTIwY29tcHV0ZXIlMjBpbiUyMHNjaG9vbHxlbnwwfHx8fDE3Nzc5MDQ2NDd8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "404media.co",
-        "stats": "118 points · 113 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2510.19315",
-        "title": "Transformers Are Inherently Succinct (2025)",
-        "description": "We propose succinctness as a measure of the expressive power of a transformer in describing a concept. To this end, we prove that transformers are highly expressive in that they can represent formal languages substantially more succinctly than standard representations of formal languages like finite automata and Linear Temporal Logic (LTL) formulas. As a by-product of this expressivity, we show that verifying properties of transformers is provably intractable (i.e. EXPSPACE-complete).",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "61 points · 9 comments"
+        "stats": "192 points · 181 comments"
       }
     ],
     "2026-05-03": [
@@ -134,7 +152,7 @@
         "description": "Wiki Builder is an open-source Claude Code plugin that turns the LLM-knowledge-base workflow into a one-command setup. Scaffold a configurable wiki, point Claude at sources, and let the agent compile durable pages, indexes, and concept maps for you.",
         "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
         "source": "academy.dair.ai",
-        "stats": "35 points · 2 comments"
+        "stats": "122 points · 16 comments"
       }
     ],
     "2026-05-02": [
@@ -163,16 +181,6 @@
         "image": "https://opengraph.githubassets.com/043cd3a6fa3d547750d8e7749a9b270165ae293d1efb514a32182b9a3d7a1a60/earthtojake/text-to-cad",
         "source": "github.com",
         "stats": "184 points · 45 comments"
-      }
-    ],
-    "2026-04-30": [
-      {
-        "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-        "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-        "description": "160 points · 8 comments",
-        "image": "",
-        "source": "blog.stuffedcow.net",
-        "stats": ""
       }
     ]
   }
