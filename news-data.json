@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-07T05:35:27.541Z",
+  "lastUpdated": "2026-05-08T04:55:52.392Z",
   "days": {
+    "2026-05-08": [
+      {
+        "url": "https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319",
+        "title": "Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'",
+        "description": "Security biz Adversa AI argues users of AI tools need clearer warnings",
+        "image": "https://image.theregister.com/5235377.jpg?imageId=5235377&x=0&y=43.52&cropw=100&croph=47.78&panox=0&panoy=43.52&panow=100&panoh=47.78&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://addyosmani.com/blog/agentic-engineering/",
+        "title": "Agentic Engineering",
+        "description": "Agentic Engineering is a disciplined approach to AI-assisted software development that emphasizes human oversight and engineering rigor, distinguishing it fr...",
+        "image": "https://addyosmani.com/assets/images/agentic-engineering.jpg",
+        "source": "addyosmani.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+        "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+        "description": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+        "image": "https://media.wired.com/photos/69fa72ee0e9ace3dc3d2824b/191:100/w_1280,c_limit/AI-Lab-AI-Coming-For-Your-Brain-Business.jpg",
+        "source": "wired.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/103d73d3-7119-4dee-8c47-b3fc62d2f1e6",
+        "title": "IMF warns new AI models risk 'systemic' shock to finance",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://developers.openai.com/api/docs/deprecations",
+        "title": "OpenAI end of lifes fine-tuning",
+        "description": "Find information about OpenAI API deprecations and recommended replacements.",
+        "image": "https://developers.openai.com/og/api/docs/deprecations.png",
+        "source": "developers.openai.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
     "2026-05-07": [
       {
-        "url": "https://minnesotareformer.com/2026/04/17/if-ai-cuts-jobs-it-would-also-threaten-social-security-and-medicare/",
-        "title": "If AI cuts jobs, it would also threaten Social Security and Medicare",
-        "description": "11 points · 6 comments",
-        "image": "",
-        "source": "minnesotareformer.com",
+        "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+        "title": "AI slop is killing online communities",
+        "description": "527 points · 478 comments",
+        "image": "https://rmoff.net/images/2026/05/IMG_6442.webp",
+        "source": "rmoff.net",
         "stats": ""
       },
       {
-        "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-        "title": "How Elon Musk Left OpenAI, According to Greg Brockman",
-        "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "7 points · 2 comments"
+        "url": "https://github.com/antirez/ds4",
+        "title": "DeepSeek 4 Flash local inference engine for Metal",
+        "description": "DeepSeek 4 Flash local inference engine for Metal. Contribute to antirez/ds4 development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/969bcf12992b9b9a3f61bf29c212d4c13afaed8371f6994cca7cc60c4b805218/antirez/ds4",
+        "source": "github.com",
+        "stats": "334 points · 95 comments"
       },
       {
-        "url": "https://www.msn.com/en-us/technology/cybersecurity/discord-group-guessed-the-url-to-anthropic-s-most-dangerous-ai-and-used-it-before-cisa-did/ar-AA22enqY",
-        "title": "Discord group guessed the URL to Anthropic's Mythos model before CISA used it",
-        "description": "7 points · 6 comments",
+        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+        "title": "Agents need control flow, not more prompts",
+        "description": "Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains\r\n\r\nIf you’ve eve...",
+        "image": "https://bsuh.bearblog.dev/static/og-image.png",
+        "source": "bsuh.bearblog.dev",
+        "stats": "387 points · 201 comments"
+      },
+      {
+        "url": "https://deepmind.google/blog/alphaevolve-impact/",
+        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+        "description": "269 points · 110 comments",
         "image": "",
-        "source": "msn.com",
+        "source": "deepmind.google",
         "stats": ""
       },
       {
-        "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-        "description": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-        "image": "https://media.wired.com/photos/69f14b40d98ff026bfabf317/191:100/w_1280,c_limit/Made-In-China-Super-PAC-Backed-By-OpenAI-Palantir-Paying-TikTok-Influencers-Business.jpg",
-        "source": "wired.com",
-        "stats": "7 points · 2 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2605.03546",
-        "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-        "description": "Turning ideas into full software projects from scratch has become a popular use case for language models. Agents are being deployed to seed, maintain, and grow codebases over extended periods with minimal human oversight. Such settings require models to make high-level software architecture decisions. However, existing benchmarks measure focused, limited tasks such as fixing a single bug or developing a single, specified feature. We therefore introduce ProgramBench to measure the ability of software engineering agents to develop software holisitically. In ProgramBench, given only a program and its documentation, agents must architect and implement a codebase that matches the reference executable&#39;s behavior. End-to-end behavioral tests are generated via agent-driven fuzzing, enabling evaluation without prescribing implementation structure. Our 200 tasks range from compact CLI tools to widely used software such as FFmpeg, SQLite, and the PHP interpreter. We evaluate 9 LMs and find that none fully resolve any task, with the best model passing 95\\% of tests on only 3\\% of tasks. Models favor monolithic, single-file implementations that diverge sharply from human-written code.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "5 points · 0 comments"
+        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+        "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+        "description": "Turning Claude&#x27;s thoughts into text",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/645f8c90db35a5d392c816a90c806b2904ccad21-1280x720.png",
+        "source": "anthropic.com",
+        "stats": "229 points · 80 comments"
       }
     ],
     "2026-05-06": [
@@ -50,7 +92,7 @@
         "description": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "500 points · 544 comments"
+        "stats": "752 points · 857 comments"
       },
       {
         "url": "https://www.anthropic.com/news/higher-limits-spacex",
@@ -58,7 +100,7 @@
         "description": "We’ve raised Claude&#x27;s usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term. ",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig",
         "source": "anthropic.com",
-        "stats": "438 points · 383 comments"
+        "stats": "501 points · 472 comments"
       },
       {
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
@@ -66,15 +108,7 @@
         "description": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.",
         "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
         "source": "blog.cloudflare.com",
-        "stats": "630 points · 355 comments"
-      },
-      {
-        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-        "title": "Telus Uses AI to Alter Call-Agent Accents",
-        "description": "According to reporting by iPhone in Canada and The Globe and Mail, **Telus** is using AI through its **Telus Digital** unit to modify call-centre agents&#x27; accents in real time. iPhone in Canada reports the speech-to-speech tool is built by a company called **Tomato.ai** and is applied to offshore agents&#x27; voices to reduce what Telus reportedly calls &quot;accent-related friction.&quot; Labour groups have criticised the practice as deceptive and have urged mandatory disclosure, The Globe and Mail reports. According to The Globe and Mail, **Rogers** and **Bell** told the paper they have no plans to adopt similar voice-altering technology. The coverage says the rollout has provoked swift public backlash in Canada.",
-        "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
-        "source": "letsdatascience.com",
-        "stats": "229 points · 209 comments"
+        "stats": "651 points · 364 comments"
       },
       {
         "url": "https://tilde.run/",
@@ -82,7 +116,15 @@
         "description": "Run AI agents and pipelines on real production data. Every run is a transaction you can roll back, with every network call audited and GitHub, S3, and Drive composed as one versioned filesystem.",
         "image": "https://tilde.run/og-image.png",
         "source": "tilde.run",
-        "stats": "145 points · 104 comments"
+        "stats": "192 points · 126 comments"
+      },
+      {
+        "url": "https://sander.ai/2026/05/06/flow-maps.html",
+        "title": "Learning the Integral of a Diffusion Model",
+        "description": "A deep dive on flow maps.",
+        "image": "https://sander.ai/images/map.jpg",
+        "source": "sander.ai",
+        "stats": "156 points · 23 comments"
       }
     ],
     "2026-05-05": [
@@ -92,7 +134,7 @@
         "description": "Google Chrome is downloading a 4 GB Gemini Nano model onto users",
         "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
         "source": "thatprivacyguy.com",
-        "stats": "1660 points · 1099 comments"
+        "stats": "1718 points · 1122 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
@@ -100,31 +142,31 @@
         "description": "An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png",
         "source": "blog.google",
-        "stats": "663 points · 323 comments"
+        "stats": "679 points · 327 comments"
       },
       {
-        "url": "https://susam.net/inverse-laws-of-robotics.html",
-        "title": "Three Inverse Laws of AI",
-        "description": "527 points · 346 comments",
+        "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+        "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+        "description": "Guidelines for programming when code is cheap.",
+        "image": "https://www.dbreunig.com/img/hand_scroll.jpg",
+        "source": "dbreunig.com",
+        "stats": "266 points · 236 comments"
+      },
+      {
+        "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+        "title": "A Theory of Deep Learning",
+        "description": "We finally know why deep learning works.",
+        "image": "https://elonlit.com/images/flowers.png",
+        "source": "elonlit.com",
+        "stats": "231 points · 58 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48023496",
+        "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+        "description": "145 points · 45 comments",
         "image": "",
-        "source": "susam.net",
+        "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-        "title": "AI didn't delete your database, you did",
-        "description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company&#039;s production database. We watched from the sidelines as he tried to get a confession from the agent:",
-        "image": "https://cdn.idiallo.com/images/assets/652/hero.jpg",
-        "source": "idiallo.com",
-        "stats": "538 points · 298 comments"
-      },
-      {
-        "url": "https://github.com/angelos-p/llm-from-scratch",
-        "title": "Train Your Own LLM from Scratch",
-        "description": "Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/2a6a7b09d853e4562157177479ca6ea169588b76a9e37d971b5b8db359d9b1d2/angelos-p/llm-from-scratch",
-        "source": "github.com",
-        "stats": "465 points · 50 comments"
       }
     ],
     "2026-05-04": [
@@ -152,7 +194,7 @@
         "description": "Wiki Builder is an open-source Claude Code plugin that turns the LLM-knowledge-base workflow into a one-command setup. Scaffold a configurable wiki, point Claude at sources, and let the agent compile durable pages, indexes, and concept maps for you.",
         "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
         "source": "academy.dair.ai",
-        "stats": "122 points · 16 comments"
+        "stats": "131 points · 18 comments"
       }
     ],
     "2026-05-02": [
@@ -163,24 +205,6 @@
         "image": "https://reiner.org/static/banner-medium.471c8add.png",
         "source": "reiner.org",
         "stats": "137 points · 47 comments"
-      }
-    ],
-    "2026-05-01": [
-      {
-        "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-        "title": "DeepSeek V4 – almost on the frontier",
-        "description": "Chinese AI lab DeepSeek’s last model release was V3.2 (and V3.2 Speciale) last December. They just dropped the first of their hotly anticipated V4 series in the shape of two …",
-        "image": "https://static.simonwillison.net/static/2026/deepseek-v4-card.jpg",
-        "source": "simonwillison.net",
-        "stats": "668 points · 391 comments"
-      },
-      {
-        "url": "https://github.com/earthtojake/text-to-cad",
-        "title": "Text-to-CAD",
-        "description": "An open source harness for generating CAD models. Contribute to earthtojake/text-to-cad development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/043cd3a6fa3d547750d8e7749a9b270165ae293d1efb514a32182b9a3d7a1a60/earthtojake/text-to-cad",
-        "source": "github.com",
-        "stats": "184 points · 45 comments"
       }
     ]
   }
