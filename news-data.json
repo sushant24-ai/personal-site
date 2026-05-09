@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-05-08T04:55:52.392Z",
+  "lastUpdated": "2026-05-09T05:25:08.216Z",
   "days": {
-    "2026-05-08": [
+    "2026-05-09": [
       {
-        "url": "https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319",
-        "title": "Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'",
-        "description": "Security biz Adversa AI argues users of AI tools need clearer warnings",
-        "image": "https://image.theregister.com/5235377.jpg?imageId=5235377&x=0&y=43.52&cropw=100&croph=47.78&panox=0&panoy=43.52&panow=100&panoh=47.78&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "5 points · 0 comments"
-      },
-      {
-        "url": "https://addyosmani.com/blog/agentic-engineering/",
-        "title": "Agentic Engineering",
-        "description": "Agentic Engineering is a disciplined approach to AI-assisted software development that emphasizes human oversight and engineering rigor, distinguishing it fr...",
-        "image": "https://addyosmani.com/assets/images/agentic-engineering.jpg",
-        "source": "addyosmani.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-        "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-        "description": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
-        "image": "https://media.wired.com/photos/69fa72ee0e9ace3dc3d2824b/191:100/w_1280,c_limit/AI-Lab-AI-Coming-For-Your-Brain-Business.jpg",
-        "source": "wired.com",
-        "stats": "5 points · 0 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/103d73d3-7119-4dee-8c47-b3fc62d2f1e6",
-        "title": "IMF warns new AI models risk 'systemic' shock to finance",
-        "description": "4 points · 0 comments",
+        "url": "https://mccue.dev/pages/5-8-26-ai-art",
+        "title": "People Hate AI Art",
+        "description": "105 points · 119 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "mccue.dev",
         "stats": ""
       },
       {
-        "url": "https://developers.openai.com/api/docs/deprecations",
-        "title": "OpenAI end of lifes fine-tuning",
-        "description": "Find information about OpenAI API deprecations and recommended replacements.",
-        "image": "https://developers.openai.com/og/api/docs/deprecations.png",
-        "source": "developers.openai.com",
-        "stats": "3 points · 1 comments"
+        "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+        "title": "A recent experience with ChatGPT 5.5 Pro",
+        "description": "We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…",
+        "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+        "source": "gowers.wordpress.com",
+        "stats": "59 points · 1 comments"
+      },
+      {
+        "url": "https://twitter.com/trq212/status/2052809885763747935",
+        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+        "description": "8 points · 0 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wheresyoured.at/premium-ais-circular-psychosis/",
+        "title": "AI's Circular Psychosis",
+        "description": "In this week’s free newsletter, I explained how bad the circular AI economy is in the simplest-possible terms: \n\nAnthropic not have money to pay big cloud bills, because Anthropic company cost lots of money, more money than Anthropic make! So Anthropic only PAY cloud bills if OTHERS give it",
+        "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+        "source": "wheresyoured.at",
+        "stats": "8 points · 8 comments"
+      },
+      {
+        "url": "https://github.com/ninjahawk/KillClawd",
+        "title": "Show HN: KillClawd – a sarcastic AI desktop crab by local Ollama",
+        "description": "Contribute to ninjahawk/KillClawd development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/a7d08daf4e63e193a4fde5195ed37b6058905c89ae4e4f9d98a176d06d5eba25/ninjahawk/KillClawd",
+        "source": "github.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
+    "2026-05-08": [
+      {
+        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "title": "AI is breaking two vulnerability cultures",
+        "description": "A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the",
+        "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
+        "source": "jefftk.com",
+        "stats": "300 points · 125 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/research/teaching-claude-why",
+        "title": "Teaching Claude Why",
+        "description": "New research on how we&#x27;ve reduced agentic misalignment",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Knot&amp;backgroundColor=cactus",
+        "source": "anthropic.com",
+        "stats": "121 points · 54 comments"
+      },
+      {
+        "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+        "title": "GPT-5.5 Price Increase: What It Costs",
+        "description": "OpenAI doubled per-token prices with GPT-5.5 but the model is less verbose. We measured real usage to see the net cost impact.",
+        "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&amp;description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
+        "source": "openrouter.ai",
+        "stats": "205 points · 63 comments"
+      },
+      {
+        "url": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
+        "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
+        "description": "Back in early 2025, DOGE bros Justin Fox and Nate Cavanaugh were handed multiple government roles with a simple mandate: go find the woke stuff and kill it. Fox and Cavanaugh had zero relevant expe…",
+        "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+        "source": "techdirt.com",
+        "stats": "82 points · 17 comments"
+      },
+      {
+        "url": "https://github.com/regent-vcs/re_gent",
+        "title": "Show HN: Git for AI Agents",
+        "description": "Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/5cb77fa38fa2697bc46e32e0d23352904932628b157a05b50c71f5d7fd31c658/regent-vcs/re_gent",
+        "source": "github.com",
+        "stats": "96 points · 46 comments"
       }
     ],
     "2026-05-07": [
       {
         "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
         "title": "AI slop is killing online communities",
-        "description": "527 points · 478 comments",
+        "description": "807 points · 701 comments",
         "image": "https://rmoff.net/images/2026/05/IMG_6442.webp",
         "source": "rmoff.net",
         "stats": ""
@@ -56,9 +98,9 @@
         "url": "https://github.com/antirez/ds4",
         "title": "DeepSeek 4 Flash local inference engine for Metal",
         "description": "DeepSeek 4 Flash local inference engine for Metal. Contribute to antirez/ds4 development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/969bcf12992b9b9a3f61bf29c212d4c13afaed8371f6994cca7cc60c4b805218/antirez/ds4",
+        "image": "https://opengraph.githubassets.com/970f58e054a4e0d9288980260fa332353cbc6acec37cd295ede454940af01113/antirez/ds4",
         "source": "github.com",
-        "stats": "334 points · 95 comments"
+        "stats": "479 points · 152 comments"
       },
       {
         "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
@@ -66,15 +108,7 @@
         "description": "Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains\r\n\r\nIf you’ve eve...",
         "image": "https://bsuh.bearblog.dev/static/og-image.png",
         "source": "bsuh.bearblog.dev",
-        "stats": "387 points · 201 comments"
-      },
-      {
-        "url": "https://deepmind.google/blog/alphaevolve-impact/",
-        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-        "description": "269 points · 110 comments",
-        "image": "",
-        "source": "deepmind.google",
-        "stats": ""
+        "stats": "574 points · 285 comments"
       },
       {
         "url": "https://www.anthropic.com/research/natural-language-autoencoders",
@@ -82,7 +116,15 @@
         "description": "Turning Claude&#x27;s thoughts into text",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/645f8c90db35a5d392c816a90c806b2904ccad21-1280x720.png",
         "source": "anthropic.com",
-        "stats": "229 points · 80 comments"
+        "stats": "361 points · 119 comments"
+      },
+      {
+        "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+        "title": "Hardening Firefox with Claude Mythos Preview",
+        "description": "New details about what we found, and how agentic harnesses are now able to reproduce real bugs and dismiss false positives.",
+        "image": "https://hacks.mozilla.org/wp-content/uploads/2026/05/Cursor_Green_1920x1080-scaled.jpeg",
+        "source": "hacks.mozilla.org",
+        "stats": "344 points · 154 comments"
       }
     ],
     "2026-05-06": [
@@ -92,15 +134,7 @@
         "description": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "752 points · 857 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/news/higher-limits-spacex",
-        "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-        "description": "We’ve raised Claude&#x27;s usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term. ",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig",
-        "source": "anthropic.com",
-        "stats": "501 points · 472 comments"
+        "stats": "778 points · 874 comments"
       },
       {
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
@@ -108,7 +142,7 @@
         "description": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.",
         "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
         "source": "blog.cloudflare.com",
-        "stats": "651 points · 364 comments"
+        "stats": "654 points · 368 comments"
       },
       {
         "url": "https://tilde.run/",
@@ -116,15 +150,15 @@
         "description": "Run AI agents and pipelines on real production data. Every run is a transaction you can roll back, with every network call audited and GitHub, S3, and Drive composed as one versioned filesystem.",
         "image": "https://tilde.run/og-image.png",
         "source": "tilde.run",
-        "stats": "192 points · 126 comments"
+        "stats": "197 points · 131 comments"
       },
       {
-        "url": "https://sander.ai/2026/05/06/flow-maps.html",
-        "title": "Learning the Integral of a Diffusion Model",
-        "description": "A deep dive on flow maps.",
-        "image": "https://sander.ai/images/map.jpg",
-        "source": "sander.ai",
-        "stats": "156 points · 23 comments"
+        "url": "https://modal.com/blog/boosting-multimodal-inference-performance-by-greater-than-10-with-a-single-python-dictionary",
+        "title": "Boosting multimodal inference performance by >10% with a single Python dict",
+        "description": "If we",
+        "image": "https://modal.com/docs/social-image.png?title=Boosting+multimodal+inference+performance+by+%3E10%25+with+a+single+Python+dictionary&amp;socialType=blog",
+        "source": "modal.com",
+        "stats": "5 points · 0 comments"
       }
     ],
     "2026-05-05": [
@@ -134,39 +168,15 @@
         "description": "Google Chrome is downloading a 4 GB Gemini Nano model onto users",
         "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
         "source": "thatprivacyguy.com",
-        "stats": "1718 points · 1122 comments"
+        "stats": "1732 points · 1128 comments"
       },
       {
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-        "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-        "description": "An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png",
-        "source": "blog.google",
-        "stats": "679 points · 327 comments"
-      },
-      {
-        "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-        "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-        "description": "Guidelines for programming when code is cheap.",
-        "image": "https://www.dbreunig.com/img/hand_scroll.jpg",
-        "source": "dbreunig.com",
-        "stats": "266 points · 236 comments"
-      },
-      {
-        "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-        "title": "A Theory of Deep Learning",
-        "description": "We finally know why deep learning works.",
-        "image": "https://elonlit.com/images/flowers.png",
-        "source": "elonlit.com",
-        "stats": "231 points · 58 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48023496",
-        "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-        "description": "145 points · 45 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+        "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+        "description": "A closed-form autoencoder: PCA encoder + quadratic Ridge decoder. On FiQA it gives 4× compression of mxbai-embed-large-v1 at -0.85 p.p. NDCG@10, +2.73 p.p. over PCA. No SGD, no neural networks.",
+        "image": "https://ivanpleshkov.dev/og/blog/en/polynomial-autoencoder.png",
+        "source": "ivanpleshkov.dev",
+        "stats": "99 points · 28 comments"
       }
     ],
     "2026-05-04": [
@@ -195,16 +205,6 @@
         "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
         "source": "academy.dair.ai",
         "stats": "131 points · 18 comments"
-      }
-    ],
-    "2026-05-02": [
-      {
-        "url": "https://reiner.org/neural-net-ciphers",
-        "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
-        "description": "Several neural network design principles are almost identical to cipher design principles.",
-        "image": "https://reiner.org/static/banner-medium.471c8add.png",
-        "source": "reiner.org",
-        "stats": "137 points · 47 comments"
       }
     ]
   }
