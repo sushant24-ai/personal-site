@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-09T05:25:08.216Z",
+  "lastUpdated": "2026-05-10T05:40:34.400Z",
   "days": {
-    "2026-05-09": [
+    "2026-05-10": [
       {
-        "url": "https://mccue.dev/pages/5-8-26-ai-art",
-        "title": "People Hate AI Art",
-        "description": "105 points · 119 comments",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+        "title": "Gemini API File Search is now multimodal",
+        "description": "Updates to the Gemini API File Search tool makes building efficient, multimodal file retrieval systems easier for developers.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_File-Search_Social-Share_1920x1080.width-1300.png",
+        "source": "blog.google",
+        "stats": "40 points · 2 comments"
+      },
+      {
+        "url": "https://twitter.com/tszzl/status/2053022747765457005",
+        "title": "Opus 4.7 and DeepSeek V4-Pro select Buddhism as preferred religion",
+        "description": "10 points · 0 comments",
         "image": "",
-        "source": "mccue.dev",
+        "source": "twitter.com",
         "stats": ""
       },
+      {
+        "url": "https://247wallst.com/investing/2026/05/08/mark-zuckerberg-just-told-8000-employees-their-layoffs-are-a-line-item-in-his-145-billion-ai-bill/",
+        "title": "Mark Zuckerberg Told 8k Employees Their Layoffs Are a Line Item in AI Bill",
+        "description": "On Meta&#8217;s Q1 2026 earnings call, CFO Susan Li said the quiet part out loud. &#8220;We recently shared internally that we plan to reduce the size of our employee base in May. We believe a leaner operating model will allow us to move more quickly while also helping to offset the substantial investments we are ... Mark Zuckerberg Just Told 8,000 Employees Their Layoffs Are a Line Item in His $145 Billion AI Bill",
+        "image": "https://247wallst.com/wp-content/uploads/2018/02/zuckerberg-trillionaire.jpg",
+        "source": "247wallst.com",
+        "stats": "7 points · 4 comments"
+      },
+      {
+        "url": "https://codebrainery.com/articles/snyk-claude-code-real-time-security-scanning-for-ai-code",
+        "title": "Snyk and Claude Code: real-time security scanning of AI-generated code",
+        "description": "Set up Snyk inside Claude Code in 60 seconds. Catch SQL injection, XSS and secrets in AI-generated code before they hit your repo.",
+        "image": "https://do78670y0slnz.cloudfront.net/codebrainery/editor/images/synk_hero.png",
+        "source": "codebrainery.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/a40cafcc-0fa4-4e70-9e24-90d826aea56d",
+        "title": "Anthropic weighs deal for near $1T valuation as revenue surges",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      }
+    ],
+    "2026-05-09": [
       {
         "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
         "title": "A recent experience with ChatGPT 5.5 Pro",
         "description": "We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…",
         "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
         "source": "gowers.wordpress.com",
-        "stats": "59 points · 1 comments"
+        "stats": "620 points · 450 comments"
       },
       {
         "url": "https://twitter.com/trq212/status/2052809885763747935",
         "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-        "description": "8 points · 0 comments",
+        "description": "436 points · 248 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://www.wheresyoured.at/premium-ais-circular-psychosis/",
-        "title": "AI's Circular Psychosis",
-        "description": "In this week’s free newsletter, I explained how bad the circular AI economy is in the simplest-possible terms: \n\nAnthropic not have money to pay big cloud bills, because Anthropic company cost lots of money, more money than Anthropic make! So Anthropic only PAY cloud bills if OTHERS give it",
-        "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
-        "source": "wheresyoured.at",
-        "stats": "8 points · 8 comments"
+        "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+        "title": "Meta's embrace of AI is making its employees miserable",
+        "description": "355 points · 365 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/ninjahawk/KillClawd",
-        "title": "Show HN: KillClawd – a sarcastic AI desktop crab by local Ollama",
-        "description": "Contribute to ninjahawk/KillClawd development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/a7d08daf4e63e193a4fde5195ed37b6058905c89ae4e4f9d98a176d06d5eba25/ninjahawk/KillClawd",
-        "source": "github.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://arxiv.org/abs/2604.15597",
+        "title": "LLMs corrupt your documents when you delegate",
+        "description": "Large Language Models (LLMs) are poised to disrupt knowledge work, with the emergence of delegated work as a new interaction paradigm (e.g., vibe coding). Delegation requires trust - the expectation that the LLM will faithfully execute the task without introducing errors into documents. We introduce DELEGATE-52 to study the readiness of AI systems in delegated workflows. DELEGATE-52 simulates long delegated workflows that require in-depth document editing across 52 professional domains, such as coding, crystallography, and music notation. Our large-scale experiment with 19 LLMs reveals that current models degrade documents during delegation: even frontier models (Gemini 3.1 Pro, Claude 4.6 Opus, GPT 5.4) corrupt an average of 25% of document content by the end of long workflows, with other models failing more severely. Additional experiments reveal that agentic tool use does not improve performance on DELEGATE-52, and that degradation severity is exacerbated by document size, length of interaction, or presence of distractor files. Our analysis shows that current LLMs are unreliable delegates: they introduce sparse but severe errors that silently corrupt documents, compounding over long interaction.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "383 points · 148 comments"
+      },
+      {
+        "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+        "title": "All my clients wanted a carousel, now it's an AI chatbot",
+        "description": "Posts about SmolWeb, Gemini protocol and LowTech",
+        "image": "",
+        "source": "adele.pages.casa",
+        "stats": "181 points · 74 comments"
       }
     ],
     "2026-05-08": [
@@ -50,7 +92,7 @@
         "description": "A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the",
         "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
         "source": "jefftk.com",
-        "stats": "300 points · 125 comments"
+        "stats": "415 points · 166 comments"
       },
       {
         "url": "https://www.anthropic.com/research/teaching-claude-why",
@@ -58,7 +100,7 @@
         "description": "New research on how we&#x27;ve reduced agentic misalignment",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Knot&amp;backgroundColor=cactus",
         "source": "anthropic.com",
-        "stats": "121 points · 54 comments"
+        "stats": "252 points · 138 comments"
       },
       {
         "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
@@ -66,41 +108,41 @@
         "description": "OpenAI doubled per-token prices with GPT-5.5 but the model is less verbose. We measured real usage to see the net cost impact.",
         "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&amp;description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
         "source": "openrouter.ai",
-        "stats": "205 points · 63 comments"
+        "stats": "209 points · 68 comments"
       },
       {
-        "url": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
-        "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
-        "description": "Back in early 2025, DOGE bros Justin Fox and Nate Cavanaugh were handed multiple government roles with a simple mandate: go find the woke stuff and kill it. Fox and Cavanaugh had zero relevant expe…",
-        "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
-        "source": "techdirt.com",
-        "stats": "82 points · 17 comments"
+        "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+        "title": "Can LLMs model real-world systems in TLA+?",
+        "description": "Editors’ note: AI has been actively pushing the frontier of applied formal methods for computing systems. In this article, the Specula team wrote about their experience of evaluating LLMs on modeling system code, the basic capability for agentic model checking, using TLA+, a specification language f",
+        "image": "https://www.sigops.org/wp-content/uploads/2026/05/sysmobench-1672x941.jpg",
+        "source": "sigops.org",
+        "stats": "118 points · 31 comments"
       },
       {
         "url": "https://github.com/regent-vcs/re_gent",
         "title": "Show HN: Git for AI Agents",
-        "description": "Git for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/5cb77fa38fa2697bc46e32e0d23352904932628b157a05b50c71f5d7fd31c658/regent-vcs/re_gent",
+        "description": "Version-Control for AI coding agents. Contribute to regent-vcs/re_gent development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/d5e08ba7bf384037ea3b23ec4ba7f68d240bd629992b5ba047677fa07944a0ec/regent-vcs/re_gent",
         "source": "github.com",
-        "stats": "96 points · 46 comments"
+        "stats": "114 points · 65 comments"
       }
     ],
     "2026-05-07": [
       {
         "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
         "title": "AI slop is killing online communities",
-        "description": "807 points · 701 comments",
+        "description": "825 points · 713 comments",
         "image": "https://rmoff.net/images/2026/05/IMG_6442.webp",
         "source": "rmoff.net",
         "stats": ""
       },
       {
-        "url": "https://github.com/antirez/ds4",
-        "title": "DeepSeek 4 Flash local inference engine for Metal",
-        "description": "DeepSeek 4 Flash local inference engine for Metal. Contribute to antirez/ds4 development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/970f58e054a4e0d9288980260fa332353cbc6acec37cd295ede454940af01113/antirez/ds4",
-        "source": "github.com",
-        "stats": "479 points · 152 comments"
+        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+        "title": "OpenAI’s WebRTC problem",
+        "description": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.",
+        "image": "https://moq.dev/blog/webrtc-is-the-problem/rtt.png",
+        "source": "moq.dev",
+        "stats": "481 points · 141 comments"
       },
       {
         "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
@@ -108,15 +150,7 @@
         "description": "Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains\r\n\r\nIf you’ve eve...",
         "image": "https://bsuh.bearblog.dev/static/og-image.png",
         "source": "bsuh.bearblog.dev",
-        "stats": "574 points · 285 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-        "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-        "description": "Turning Claude&#x27;s thoughts into text",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/645f8c90db35a5d392c816a90c806b2904ccad21-1280x720.png",
-        "source": "anthropic.com",
-        "stats": "361 points · 119 comments"
+        "stats": "582 points · 287 comments"
       },
       {
         "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
@@ -124,7 +158,15 @@
         "description": "New details about what we found, and how agentic harnesses are now able to reproduce real bugs and dismiss false positives.",
         "image": "https://hacks.mozilla.org/wp-content/uploads/2026/05/Cursor_Green_1920x1080-scaled.jpeg",
         "source": "hacks.mozilla.org",
-        "stats": "344 points · 154 comments"
+        "stats": "372 points · 164 comments"
+      },
+      {
+        "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+        "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+        "description": "AI hallucinations were found in the Department of Home Affairs&#039; revised white paper on citizenship, immigration and refugee protection.",
+        "image": "https://media.citizen.co.za/wp-content/uploads/2026/05/AI.jpg",
+        "source": "citizen.co.za",
+        "stats": "139 points · 39 comments"
       }
     ],
     "2026-05-06": [
@@ -168,15 +210,15 @@
         "description": "Google Chrome is downloading a 4 GB Gemini Nano model onto users",
         "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
         "source": "thatprivacyguy.com",
-        "stats": "1732 points · 1128 comments"
+        "stats": "1737 points · 1137 comments"
       },
       {
         "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
         "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-        "description": "A closed-form autoencoder: PCA encoder + quadratic Ridge decoder. On FiQA it gives 4× compression of mxbai-embed-large-v1 at -0.85 p.p. NDCG@10, +2.73 p.p. over PCA. No SGD, no neural networks.",
+        "description": "A closed-form autoencoder: PCA encoder + quadratic Ridge decoder. On FiQA it gives 4× compression of mxbai-embed-large-v1 at -0.88 p.p. NDCG@10, +1.34 p.p. over PCA. No SGD, no neural networks.",
         "image": "https://ivanpleshkov.dev/og/blog/en/polynomial-autoencoder.png",
         "source": "ivanpleshkov.dev",
-        "stats": "99 points · 28 comments"
+        "stats": "103 points · 34 comments"
       }
     ],
     "2026-05-04": [
@@ -195,16 +237,6 @@
         "image": "https://www.b-list.org/static/b-list/img/og.jpg",
         "source": "b-list.org",
         "stats": "192 points · 181 comments"
-      }
-    ],
-    "2026-05-03": [
-      {
-        "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-        "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-        "description": "Wiki Builder is an open-source Claude Code plugin that turns the LLM-knowledge-base workflow into a one-command setup. Scaffold a configurable wiki, point Claude at sources, and let the agent compile durable pages, indexes, and concept maps for you.",
-        "image": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin/cover.png",
-        "source": "academy.dair.ai",
-        "stats": "131 points · 18 comments"
       }
     ]
   }
