@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-11T06:02:09.764Z",
+  "lastUpdated": "2026-05-12T05:41:45.115Z",
   "days": {
+    "2026-05-12": [
+      {
+        "url": "https://claude.com/blog/claude-platform-on-aws",
+        "title": "Claude Platform on AWS",
+        "description": "The Claude Platform on AWS is now generally available, offering a new way for AWS customers to access the full set of Claude platform features with AWS authentication, billing, and commitment retirement.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "93 points · 43 comments"
+      },
+      {
+        "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+        "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+        "description": "TL;DR. Claude would rather reinvent the wheel than pip install one.",
+        "image": "",
+        "source": "fireflysentinel.github.io",
+        "stats": "38 points · 37 comments"
+      },
+      {
+        "url": "https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china",
+        "title": "Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads",
+        "description": "11 points · 3 comments",
+        "image": "",
+        "source": "justice.gov",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+        "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+        "description": "6 points · 2 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369",
+        "title": "Elon Musk's Grok Is Losing Ground in AI Race",
+        "description": "6 points · 4 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      }
+    ],
     "2026-05-11": [
       {
-        "url": "https://github.com/adamjgmiller/adamsreview",
-        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-        "description": "Multi-lens code review pipeline for Claude Code: deep review (Claude or Codex), auto-fix loop, interactive walkthrough, external-finding injection. - adamjgmiller/adamsreview",
-        "image": "https://opengraph.githubassets.com/7227c1a6befac910887873f84f75482792d1c857fc9efbf0c99faf771822b8d5/adamjgmiller/adamsreview",
-        "source": "github.com",
-        "stats": "15 points · 1 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/trumps-border-spending-spurs-boom-in-ai-infused-surveillance-4714521b",
-        "title": "Trump's Border Spending Spurs Boom in AI-Infused Surveillance",
-        "description": "4 points · 0 comments",
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "title": "If AI writes your code, why use Python?",
+        "description": "332 points · 340 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "medium.com",
         "stats": ""
       },
       {
-        "url": "https://www.npmjs.com/package/miii-cli",
-        "title": "Miii – Claude Code-level terminal workflows offline, no API keys",
-        "description": "2 points · 0 comments",
+        "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+        "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+        "description": "388 points · 110 comments",
         "image": "",
-        "source": "npmjs.com",
+        "source": "nvlabs.github.io",
         "stats": ""
       },
       {
-        "url": "https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd",
-        "title": "A Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom",
-        "description": "3 points · 0 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+        "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+        "description": "A commencement speaker at the University of Central Florida was booed, with graduating humanities students yelling out, &quot;AI SUCKS!&quot;",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/05/ucf.png",
+        "source": "404media.co",
+        "stats": "154 points · 189 comments"
       },
       {
-        "url": "https://arxiv.org/abs/2601.19834",
-        "title": "Visual Generation Unlocks Human-Like Reasoning Through Multimodal World Models",
-        "description": "Humans construct internal world models and reason by manipulating the concepts within these models. Recent advances in AI, particularly chain-of-thought (CoT) reasoning, approximate such human cognitive abilities, where world models are believed to be embedded within large language models. Expert-level performance in formal and abstract domains such as mathematics and programming has been achieved in current systems by relying predominantly on verbal reasoning. However, they still lag far behind humans in domains like physical and spatial intelligence, which require richer representations and prior knowledge. The emergence of unified multimodal models (UMMs) capable of both verbal and visual generation has therefore sparked interest in more human-like reasoning grounded in complementary multimodal pathways, though their benefits remain unclear. From a world-model perspective, this paper presents the first principled study of when and how visual generation benefits reasoning. Our key position is the visual superiority hypothesis: for certain tasks--particularly those grounded in the physical world--visual generation more naturally serves as world models, whereas purely verbal world models encounter bottlenecks arising from representational limitations or insufficient prior knowledge. Theoretically, we formalize internal world modeling as a core component of CoT reasoning and analyze distinctions among different forms of world models. Empirically, we identify tasks that necessitate interleaved visual-verbal CoT reasoning, constructing a new evaluation suite, VisWorld-Eval. Controlled experiments on a state-of-the-art UMM show that interleaved CoT significantly outperforms purely verbal CoT on tasks that favor visual world modeling, but offers no clear advantage otherwise. Together, this work clarifies the potential of multimodal world modeling for more powerful, human-like multimodal AI.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "2 points · 0 comments"
+        "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+        "title": "I let AI build a tool to help me figure out what was waking me up at night",
+        "description": "I try to pay attention to the small things that affect my quality of life. When something keeps bothering me, I want to investigate, find a likely cause, and act on it.\n\nWhat changed recently is what I&#x27;m willing to build to support that. With AI tooling, projects I would",
+        "image": "https://martin.sh/content/images/size/w1200/2022/11/blog_share@3x-1.png",
+        "source": "martin.sh",
+        "stats": "118 points · 133 comments"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+        "title": "Google says criminal hackers used AI to find a major software flaw",
+        "description": "147 points · 111 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
       }
     ],
     "2026-05-10": [
@@ -50,7 +92,15 @@
         "description": "Local AI models should be the default.",
         "image": "",
         "source": "unix.foo",
-        "stats": "862 points · 385 comments"
+        "stats": "1787 points · 713 comments"
+      },
+      {
+        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+        "description": "353 points · 101 comments",
+        "image": "",
+        "source": "jamesshore.com",
+        "stats": ""
       },
       {
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
@@ -58,7 +108,15 @@
         "description": "Aren",
         "image": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg",
         "source": "tomshardware.com",
-        "stats": "213 points · 117 comments"
+        "stats": "313 points · 199 comments"
+      },
+      {
+        "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+        "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+        "description": "Here is a fun thought: if we ask Claude Code to act as a user space IP stack, how quickly will it be able to respond to a ping?",
+        "image": "https://dunkels.com/adam/assets/images/llm-ping/ping.png",
+        "source": "dunkels.com",
+        "stats": "158 points · 56 comments"
       },
       {
         "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
@@ -66,23 +124,7 @@
         "description": "The team behind RPCS3 suggests that vibe-coders &quot;learn how to debug and code&quot; instead of &quot;generating slop that you don&#039;t understand&quot;",
         "image": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg",
         "source": "kotaku.com",
-        "stats": "140 points · 88 comments"
-      },
-      {
-        "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-        "title": "Task Paralysis and AI",
-        "description": "An article about ADHD, Task Paralysis and AI.",
-        "image": "",
-        "source": "g5t.de",
-        "stats": "219 points · 111 comments"
-      },
-      {
-        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-        "description": "104 points · 22 comments",
-        "image": "",
-        "source": "jamesshore.com",
-        "stats": ""
+        "stats": "184 points · 142 comments"
       }
     ],
     "2026-05-09": [
@@ -92,23 +134,7 @@
         "description": "We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…",
         "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
         "source": "gowers.wordpress.com",
-        "stats": "688 points · 519 comments"
-      },
-      {
-        "url": "https://twitter.com/trq212/status/2052809885763747935",
-        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-        "description": "513 points · 270 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-        "title": "Meta's embrace of AI is making its employees miserable",
-        "description": "438 points · 513 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "stats": "714 points · 524 comments"
       },
       {
         "url": "https://arxiv.org/abs/2604.15597",
@@ -116,59 +142,27 @@
         "description": "Large Language Models (LLMs) are poised to disrupt knowledge work, with the emergence of delegated work as a new interaction paradigm (e.g., vibe coding). Delegation requires trust - the expectation that the LLM will faithfully execute the task without introducing errors into documents. We introduce DELEGATE-52 to study the readiness of AI systems in delegated workflows. DELEGATE-52 simulates long delegated workflows that require in-depth document editing across 52 professional domains, such as coding, crystallography, and music notation. Our large-scale experiment with 19 LLMs reveals that current models degrade documents during delegation: even frontier models (Gemini 3.1 Pro, Claude 4.6 Opus, GPT 5.4) corrupt an average of 25% of document content by the end of long workflows, with other models failing more severely. Additional experiments reveal that agentic tool use does not improve performance on DELEGATE-52, and that degradation severity is exacerbated by document size, length of interaction, or presence of distractor files. Our analysis shows that current LLMs are unreliable delegates: they introduce sparse but severe errors that silently corrupt documents, compounding over long interaction.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "465 points · 189 comments"
-      },
-      {
-        "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-        "title": "All my clients wanted a carousel, now it's an AI chatbot",
-        "description": "Posts about SmolWeb, Gemini protocol and LowTech",
-        "image": "",
-        "source": "adele.pages.casa",
-        "stats": "186 points · 77 comments"
+        "stats": "474 points · 199 comments"
       }
     ],
     "2026-05-08": [
       {
-        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-        "title": "AI is breaking two vulnerability cultures",
-        "description": "A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the",
-        "image": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
-        "source": "jefftk.com",
-        "stats": "423 points · 170 comments"
-      },
-      {
-        "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-        "title": "GPT-5.5 Price Increase: What It Costs",
-        "description": "OpenAI doubled per-token prices with GPT-5.5 but the model is less verbose. We measured real usage to see the net cost impact.",
-        "image": "https://openrouter.ai/dynamic-og?title=GPT-5.5+Price+Increase%3A+What+It+Actually+Costs&amp;description=OpenAI+doubled+per-token+prices+with+GPT-5.5+but+the+model+is+less+verbose.+We+measured+real+usage+to+see+the+net+cost+impact.",
-        "source": "openrouter.ai",
-        "stats": "212 points · 69 comments"
-      },
-      {
-        "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-        "title": "Can LLMs model real-world systems in TLA+?",
-        "description": "Editors’ note: AI has been actively pushing the frontier of applied formal methods for computing systems. In this article, the Specula team wrote about their experience of evaluating LLMs on modeling system code, the basic capability for agentic model checking, using TLA+, a specification language f",
-        "image": "https://www.sigops.org/wp-content/uploads/2026/05/sysmobench-1672x941.jpg",
-        "source": "sigops.org",
-        "stats": "121 points · 32 comments"
+        "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+        "title": "AMÁLIA and the future of European Portuguese LLMs",
+        "description": "Thoughts on the new technical report from AMÁLIA: The Open Source LLM for European Portuguese",
+        "image": "https://duarteocarmo.com/images/101/cover.webp",
+        "source": "duarteocarmo.com",
+        "stats": "125 points · 58 comments"
       }
     ],
     "2026-05-07": [
-      {
-        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-        "title": "OpenAI’s WebRTC problem",
-        "description": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.",
-        "image": "https://moq.dev/blog/webrtc-is-the-problem/rtt.png",
-        "source": "moq.dev",
-        "stats": "503 points · 146 comments"
-      },
       {
         "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
         "title": "Hardening Firefox with Claude Mythos Preview",
         "description": "New details about what we found, and how agentic harnesses are now able to reproduce real bugs and dismiss false positives.",
         "image": "https://hacks.mozilla.org/wp-content/uploads/2026/05/Cursor_Green_1920x1080-scaled.jpeg",
         "source": "hacks.mozilla.org",
-        "stats": "378 points · 167 comments"
+        "stats": "383 points · 169 comments"
       }
     ],
     "2026-05-06": [
@@ -203,24 +197,6 @@
         "image": "https://modal.com/docs/social-image.png?title=Boosting+multimodal+inference+performance+by+%3E10%25+with+a+single+Python+dictionary&amp;socialType=blog",
         "source": "modal.com",
         "stats": "5 points · 0 comments"
-      }
-    ],
-    "2026-05-05": [
-      {
-        "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-        "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-        "description": "Google Chrome is downloading a 4 GB Gemini Nano model onto users",
-        "image": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
-        "source": "thatprivacyguy.com",
-        "stats": "1737 points · 1137 comments"
-      },
-      {
-        "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-        "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-        "description": "A closed-form autoencoder: PCA encoder + quadratic Ridge decoder. On FiQA it gives 4× compression of mxbai-embed-large-v1 at -0.88 p.p. NDCG@10, +1.34 p.p. over PCA. No SGD, no neural networks.",
-        "image": "https://ivanpleshkov.dev/og/blog/en/polynomial-autoencoder.png",
-        "source": "ivanpleshkov.dev",
-        "stats": "103 points · 34 comments"
       }
     ]
   }
