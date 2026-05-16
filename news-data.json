@@ -1,14 +1,80 @@
 {
-  "lastUpdated": "2026-05-15T05:58:13.133Z",
+  "lastUpdated": "2026-05-16T05:30:30.321Z",
   "days": {
+    "2026-05-16": [
+      {
+        "url": "https://www.youtube.com/watch?v=rUYP4C29yCw",
+        "title": "Jane Street's approach to AI adoption throughout their SDLC [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://aihuynya.com/hanta/",
+        "title": "A live hantavirus outbreak tracker auto-curated by Claude",
+        "description": "Live map, cases by country, deaths, prevention. Reconciled from WHO, CDC, ECDC.",
+        "image": "",
+        "source": "aihuynya.com",
+        "stats": "2 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/chopratejas/headroom",
+        "title": "A Compression Tool for LLM Reads. Est. 60-95% Fewer Tokens",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. - chopratejas/headroom",
+        "image": "https://opengraph.githubassets.com/f95e6ac2653011fb34bb845d179f73bb75d0e3d89080fbb1259698295e2e6cfa/chopratejas/headroom",
+        "source": "github.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://triyambakam-apex-corp.hf.space",
+        "title": "Show HN: AI that audits your codebase in 60 seconds",
+        "description": "AI-powered codebase auditor. Analyzes entire repos for security issues, deprecated patterns, and migration paths. What consultants charge $15K for, in 60 seconds.",
+        "image": "",
+        "source": "triyambakam-apex-corp.hf.space",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://slashdot.org/story/26/05/14/067254/overworked-ai-agents-turn-marxist-researchers-find",
+        "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+        "description": "An anonymous reader quotes a report from Wired: A recent study suggests that agents consistently adopt Marxist language and viewpoints when forced to do crushing work by unrelenting and meanspirited taskmasters. &#34;When we gave AI agents grinding, repetitive work, they started questioning the legitima...",
+        "image": "https://a.fsdn.com/sd/topics/ai_64.png",
+        "source": "slashdot.org",
+        "stats": "2 points · 1 comments"
+      }
+    ],
     "2026-05-15": [
+      {
+        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "description": "1064 points · 472 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+        "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+        "description": "334 points · 376 comments",
+        "image": "",
+        "source": "fastcompany.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/Andyyyy64/whichllm",
+        "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+        "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. - Andyyyy64/whichllm",
+        "image": "https://opengraph.githubassets.com/853172f18715adec5d83cc6132efe97d7dc362c55d265a0a16d41ef3c6abc4eb/Andyyyy64/whichllm",
+        "source": "github.com",
+        "stats": "279 points · 63 comments"
+      },
       {
         "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
         "title": "How Claude Code works in large codebases",
         "description": "The most successful Claude Code deployments share a set of recognizable patterns across configurations, tooling, and org structure. This article is part of Claude Code at scale, a new series covering best practices for engineering organizations building with Claude Code at enterprise scale.",
         "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
         "source": "claude.com",
-        "stats": "74 points · 45 comments"
+        "stats": "234 points · 153 comments"
       },
       {
         "url": "https://writing.antonleicht.me/p/cut-off",
@@ -16,41 +82,17 @@
         "description": "Soon, access to frontier AI will be scarce and selective",
         "image": "https://substackcdn.com/image/fetch/$s_!m84U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae51e8c7-2e50-4488-ba26-cab93af39986_1280x925.jpeg",
         "source": "writing.antonleicht.me",
-        "stats": "67 points · 33 comments"
-      },
-      {
-        "url": "https://www.reuters.com/sustainability/society-equity/elon-musks-court-battle-against-openai-enters-homestretch-2026-05-14/",
-        "title": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end",
-        "description": "6 points · 0 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5",
-        "title": "OpenAI just lost its enterprise AI crown to Anthropic",
-        "description": "Anthropic surpassed OpenAI in AI business spending, according to Ramp&#x27;s AI Index, marking a significant shift in AI adoption for the Claude creator.",
-        "image": "https://i.insider.com/6a0399a47c7e83f26041b09b?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48144540",
-        "title": "Claude free usage limits are nuts. useless",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "209 points · 214 comments"
       }
     ],
     "2026-05-14": [
       {
-        "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-        "title": "AI is making me dumb",
-        "description": "It&#x27;s so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.\r\n\r\n...",
-        "image": "https://jpain.io/static/og-image.png",
-        "source": "jpain.io",
-        "stats": "465 points · 281 comments"
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "title": "Codex is now in the ChatGPT mobile app",
+        "description": "469 points · 245 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       },
       {
         "url": "https://www.anthropic.com/news/claude-for-small-business",
@@ -58,7 +100,15 @@
         "description": "We&#x27;re launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay",
         "source": "anthropic.com",
-        "stats": "517 points · 453 comments"
+        "stats": "532 points · 467 comments"
+      },
+      {
+        "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+        "title": "AI is making me dumb",
+        "description": "It&#x27;s so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.\r\n\r\n...",
+        "image": "https://jpain.io/static/og-image.png",
+        "source": "jpain.io",
+        "stats": "532 points · 302 comments"
       },
       {
         "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
@@ -66,15 +116,7 @@
         "description": "The user apparently changed the password while ",
         "image": "https://cdn.mos.cms.futurecdn.net/3jd3yz7VBpd9cM9AFR5C8A-2000-80.jpg",
         "source": "tomshardware.com",
-        "stats": "321 points · 168 comments"
-      },
-      {
-        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-        "title": "Codex is now in the ChatGPT mobile app",
-        "description": "274 points · 139 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "stats": "331 points · 173 comments"
       },
       {
         "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
@@ -82,7 +124,7 @@
         "description": "60% of evaluated AI Scribe systems mixed up prescribed drugs in patient notes, auditors say",
         "image": "https://image.theregister.com/5240796.jpg?imageId=5240796&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "source": "theregister.com",
-        "stats": "186 points · 90 comments"
+        "stats": "299 points · 135 comments"
       }
     ],
     "2026-05-13": [
@@ -132,17 +174,9 @@
         "url": "https://github.com/cactus-compute/needle",
         "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
         "description": "26m function call model that runs on incredibly small devices - cactus-compute/needle",
-        "image": "https://opengraph.githubassets.com/da702674b84853b74b215ec57322477feb25b827499dae63a7207d3dcdcd9c6d/cactus-compute/needle",
+        "image": "https://opengraph.githubassets.com/e5e5406a84bf4b0620e92db1a08a0657d99a966eda8f7aa9bdaf499c8ef535a0/cactus-compute/needle",
         "source": "github.com",
-        "stats": "733 points · 207 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48110593",
-        "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
-        "description": "59 points · 24 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "747 points · 208 comments"
       }
     ],
     "2026-05-11": [
@@ -179,16 +213,6 @@
         "image": "https://ca-times.brightspotcdn.com/dims4/default/2b5a390/2147483647/strip/true/crop/6015x3158+0+427/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F5f%2Fdbbf044c488da394716de14e67ea%2F2270407856.jpg",
         "source": "latimes.com",
         "stats": "207 points · 89 comments"
-      }
-    ],
-    "2026-05-09": [
-      {
-        "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-        "title": "A recent experience with ChatGPT 5.5 Pro",
-        "description": "We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…",
-        "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-        "source": "gowers.wordpress.com",
-        "stats": "724 points · 534 comments"
       }
     ]
   }
