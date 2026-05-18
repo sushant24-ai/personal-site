@@ -1,55 +1,105 @@
 {
-  "lastUpdated": "2026-05-17T05:52:31.932Z",
+  "lastUpdated": "2026-05-18T06:18:41.857Z",
   "days": {
+    "2026-05-18": [
+      {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+        "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
+        "description": "New research reveals how Americans are thinking about artificial intelligence.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "78 points · 68 comments"
+      },
+      {
+        "url": "https://gizmodo.com/ex-google-ceo-eric-schmidt-fails-to-read-room-on-ai-gets-booed-to-oblivion-2000759763",
+        "title": "Ex-Google CEO Eric Schmidt Fails to Read Room on AI, Gets Booed into Oblivion",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "gizmodo.com",
+        "stats": ""
+      },
+      {
+        "url": "https://ai-keys-leaks.begimher.com/",
+        "title": "AI Leak Watch: 435,608 potential AI API key matches in public GitHub code",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "ai-keys-leaks.begimher.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.ben-evans.com/presentations",
+        "title": "AI Eats the World (2026)",
+        "description": "Every year, I produce a big presentation exploring macro and strategic trends in the tech industry. New in May 2025, ‘AI eats the world’.",
+        "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0a114b9120657df20a712b/1779044683790/2026+Spring+Final.001.png?format=1500w",
+        "source": "ben-evans.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://gertlabs.com/blog/llm-performance-by-language",
+        "title": "LLM Performance by Programming Language",
+        "description": "Proprietary game environments for training and evaluating AI models. Built for AI labs and research teams.",
+        "image": "https://gertlabs.com/gert_labs_og_icon_light.png?v=20260403",
+        "source": "gertlabs.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-05-17": [
       {
-        "url": "https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
-        "title": "How to buy cheap Claude tokens in China",
-        "description": "The Transfer Station Economy, Explained",
-        "image": "https://substackcdn.com/image/fetch/$s_!hqCG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5378825-3d4d-4b23-988d-c5300198963c_1024x1024.jpeg",
-        "source": "chinatalk.media",
-        "stats": "7 points · 0 comments"
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "title": "I don't think AI will make your processes go faster",
+        "description": "Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.",
+        "image": "https://frederickvanbrabant.com/images/posts/2026-05-15%20I%20don%27t%20think%20AI%20will%20make%20your%20processes%20go%20faster/header.jpg",
+        "source": "frederickvanbrabant.com",
+        "stats": "545 points · 378 comments"
       },
       {
-        "url": "https://fly.io/docs/gpus/",
-        "title": "Fly.io is getting rid of GPU-accelerated machines",
-        "description": "Documentation and guides from the team at Fly.io.",
-        "image": "https://og-images.fly.dev/image?template=light&amp;text=Fly+GPUs",
-        "source": "fly.io",
-        "stats": "6 points · 1 comments"
+        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+        "title": "AI subscriptions are a ticking time bomb for enterprise",
+        "description": "Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.",
+        "image": "https://cdn.prod.website-files.com/69d68fe7dde9e79d19ddf151/6a02492bc7c745f849372fe4_364ffc2a-1a23-423f-b62a-3764e12ce6ab.webp",
+        "source": "thestateofbrand.com",
+        "stats": "387 points · 380 comments"
       },
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
-        "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers",
-        "description": "5 points · 3 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+        "title": "AI is a technology not a product",
+        "description": "It’s not even a feature. It’s just technology.",
+        "image": "https://daringfireball.net/graphics/df-wide-card.png",
+        "source": "daringfireball.net",
+        "stats": "383 points · 170 comments"
       },
       {
-        "url": "https://wesmckinney.com/blog/mythical-agent-month/",
-        "title": "The Mythical Agent-Month",
-        "description": "2 points · 1 comments",
-        "image": "https://wesmckinney.com/blog/mythical-agent-month/it-might-work.jpg",
-        "source": "wesmckinney.com",
-        "stats": ""
+        "url": "https://github.com/MinishLab/semble",
+        "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+        "description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read - MinishLab/semble",
+        "image": "https://opengraph.githubassets.com/fbc1956887e77f211f733eab3b2007718ae9c95bf7d4cc2ea605e5010cd710df/MinishLab/semble",
+        "source": "github.com",
+        "stats": "270 points · 88 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=48166147",
-        "title": "Ask HN: What LLM models are you using and why?",
-        "description": "2 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+        "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+        "description": "A sourced history of ThinkPad from IBM&#039;s 1992 700C to Lenovo&#039;s 2026 AI workstations: TrackPoint, keyboards, X-series, T-series and P-series.",
+        "image": "https://www.jdhodges.com/wp-content/uploads/2026/05/thinkpad-trackpoint-macro-x220-jd-2011-1200x795.webp",
+        "source": "jdhodges.com",
+        "stats": "85 points · 42 comments"
       }
     ],
     "2026-05-16": [
       {
         "url": "https://crates.io/crates/zerostack/1.0.0",
         "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-        "description": "282 points · 98 comments",
+        "description": "546 points · 299 comments",
         "image": "",
         "source": "crates.io",
+        "stats": ""
+      },
+      {
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "description": "317 points · 326 comments",
+        "image": "",
+        "source": "openai.com",
         "stats": ""
       },
       {
@@ -58,57 +108,33 @@
         "description": "Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.",
         "image": "",
         "source": "kabir.au",
-        "stats": "356 points · 354 comments"
+        "stats": "412 points · 438 comments"
       },
       {
         "url": "https://www.seangoedecke.com/steering-vectors/",
         "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-        "description": "223 points · 70 comments",
+        "description": "267 points · 75 comments",
         "image": "https://www.seangoedecke.com/og-image.jpg",
         "source": "seangoedecke.com",
         "stats": ""
       },
       {
-        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-        "description": "133 points · 122 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/steipete/status/2055346265869721905",
-        "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-        "description": "149 points · 179 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
+        "url": "https://arxiv.org/abs/2605.12357",
+        "title": "δ-mem: Efficient Online Memory for Large Language Models",
+        "description": "Large language models increasingly need to accumulate and reuse historical information in long-term assistants and agent systems. Simply expanding the context window is costly and often fails to ensure effective context utilization. We propose $δ$-mem, a lightweight memory mechanism that augments a frozen full-attention backbone with a compact online state of associative memory. $δ$-mem compresses past information into a fixed-size state matrix updated by delta-rule learning, and uses its readout to generate low-rank corrections to the backbone&#39;s attention computation during generation. With only an $8\\times8$ online memory state, $δ$-mem improves the average score to $1.10\\times$ that of the frozen backbone and $1.15\\times$ that of the strongest non-$δ$-mem memory baseline. It achieves larger gains on memory-heavy benchmarks, reaching $1.31\\times$ on MemoryAgentBench and $1.20\\times$ on LoCoMo, while largely preserving general capabilities. These results show that effective memory can be realized through a compact online state directly coupled with attention computation, without full fine-tuning, backbone replacement, or explicit context extension.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "235 points · 59 comments"
       }
     ],
     "2026-05-15": [
       {
         "url": "https://twitter.com/mitchellh/status/2055380239711457578",
         "title": "I believe there are entire companies right now under AI psychosis",
-        "description": "1931 points · 1124 comments",
+        "description": "2077 points · 1232 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-        "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-        "description": "384 points · 425 comments",
-        "image": "",
-        "source": "fastcompany.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/Andyyyy64/whichllm",
-        "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-        "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. - Andyyyy64/whichllm",
-        "image": "https://opengraph.githubassets.com/c6a9a956c951074ad4f5942c2ee1d3efe5197c22fcfeb94634a13ad41f29e6bd/Andyyyy64/whichllm",
-        "source": "github.com",
-        "stats": "283 points · 66 comments"
       },
       {
         "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
@@ -116,57 +142,33 @@
         "description": "OpenAI did this with your health data in January. Now it wants your financial data too. The company announced today that ChatGPT users can connect their bank accounts through Plaid, the financial bridging platform used by 12,000 institutions including Chase, Fidelity, Capital One, and Schwab. Once connected, ChatGPT gets a full view of your balances, transaction history, active subscriptions, investment portfolio, and liabilities like mortgages and credit card debt. In return you get a spending dashboard, personalized financial advice, and a chatbot that can flag unusual changes in your habits. It&#039;s launching in preview for Pro subscribers at $200 a month. OpenAI says Plus and eventually everyone else comes later.",
         "image": "https://firethering.com/wp-content/uploads/2026/05/ChatGPT-Wants-Access-to-Your-Bank-Account.jpg",
         "source": "firethering.com",
-        "stats": "107 points · 132 comments"
-      },
-      {
-        "url": "https://relax.ai/docs",
-        "title": "UK sovereign LLM inference",
-        "description": "107 points · 112 comments",
-        "image": "",
-        "source": "relax.ai",
-        "stats": ""
+        "stats": "119 points · 142 comments"
       }
     ],
     "2026-05-14": [
       {
-        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-        "title": "Codex is now in the ChatGPT mobile app",
-        "description": "481 points · 247 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.anthropic.com/news/claude-for-small-business",
-        "title": "Claude for Small Business",
-        "description": "We&#x27;re launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&amp;backgroundColor=clay",
-        "source": "anthropic.com",
-        "stats": "535 points · 470 comments"
-      },
-      {
         "url": "https://github.com/anthropics/claude-for-legal",
         "title": "Claude for Legal",
         "description": "A suite of plugins for legal workflows. Contribute to anthropics/claude-for-legal development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/7d771981844458cc6cbb72b7d949e413caf5330609f216a35df582fd9d323836/anthropics/claude-for-legal",
+        "image": "https://opengraph.githubassets.com/66df040d2ab1d5498fb52ab48858c609ebdd5613ed5ab32c45220837b2a537b0/anthropics/claude-for-legal",
         "source": "github.com",
-        "stats": "213 points · 190 comments"
+        "stats": "222 points · 190 comments"
       },
       {
         "url": "https://github.com/DrCatHicks/learning-opportunities",
         "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
         "description": "A Claude or Codex skill for deliberate skill development during AI-assisted coding - DrCatHicks/learning-opportunities",
-        "image": "https://opengraph.githubassets.com/fdfe635a333ba9b03f5ae59ead12cc23b4a7ca6fd3604e64db1de24787ffde4e/DrCatHicks/learning-opportunities",
+        "image": "https://opengraph.githubassets.com/39b8cf1f0f0c803399af3f4e00b9427ea25cc734ba898ad4ab1b76443804f0ec/DrCatHicks/learning-opportunities",
         "source": "github.com",
-        "stats": "249 points · 48 comments"
+        "stats": "252 points · 48 comments"
       },
       {
-        "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-        "title": "Building ML framework with Rust and Category Theory",
-        "description": "A modular, compile-checked tutorial for learning category-theory ideas through a tiny Rust ML pipeline.",
-        "image": "",
-        "source": "hghalebi.github.io",
-        "stats": "101 points · 19 comments"
+        "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+        "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+        "description": "Efficient PyTorch Hessian eigendecomposition tools! - noahgolmant/pytorch-hessian-eigenthings",
+        "image": "https://opengraph.githubassets.com/28627c0be0e55e7862980f48743f303151d932494dfcb1bfc344cdbdd24ff5ee/noahgolmant/pytorch-hessian-eigenthings",
+        "source": "github.com",
+        "stats": "87 points · 4 comments"
       }
     ],
     "2026-05-13": [
@@ -216,19 +218,9 @@
         "url": "https://github.com/cactus-compute/needle",
         "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
         "description": "26m function call model that runs on incredibly small devices - cactus-compute/needle",
-        "image": "https://opengraph.githubassets.com/8b48e5b816efb1b2564f23bdb678172dbf33f89958b133e8c8b9b3721e8ed319/cactus-compute/needle",
+        "image": "https://opengraph.githubassets.com/b104e01d8ccaf4e8311a1bed331b7356ec5a3074a83fbfb061a92b0a36e5ed92/cactus-compute/needle",
         "source": "github.com",
-        "stats": "760 points · 210 comments"
-      }
-    ],
-    "2026-05-11": [
-      {
-        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-        "title": "If AI writes your code, why use Python?",
-        "description": "905 points · 961 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
+        "stats": "768 points · 210 comments"
       }
     ]
   }
