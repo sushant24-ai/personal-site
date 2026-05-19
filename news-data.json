@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-18T06:18:41.857Z",
+  "lastUpdated": "2026-05-19T06:12:27.823Z",
   "days": {
+    "2026-05-19": [
+      {
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+        "title": "The last six months in LLMs in five minutes",
+        "description": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning …",
+        "image": "https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg",
+        "source": "simonwillison.net",
+        "stats": "208 points · 102 comments"
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+        "title": "The American Rebellion Against AI Is Gaining Steam",
+        "description": "95 points · 92 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://vas-blog.pages.dev/qwen-censorship/",
+        "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
+        "description": "75 points · 37 comments",
+        "image": "",
+        "source": "vas-blog.pages.dev",
+        "stats": ""
+      },
+      {
+        "url": "https://pytorch.landscape2.io",
+        "title": "PyTorch Landscape",
+        "description": "16 points · 0 comments",
+        "image": "https://cncf.github.io/landscape2-sites/pytorch/open_graph.png",
+        "source": "pytorch.landscape2.io",
+        "stats": ""
+      },
+      {
+        "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
+        "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
+        "description": "Download Sieve Secret Scanner by Sunitha Vaishnavi Nalainthran on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Sieve…",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/56/3a/65563ae6-a5c2-b3a9-0701-d6fa26034db4/Placeholder.mill/1200x630wa.jpg",
+        "source": "apps.apple.com",
+        "stats": "11 points · 1 comments"
+      }
+    ],
     "2026-05-18": [
       {
-        "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
-        "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
-        "description": "New research reveals how Americans are thinking about artificial intelligence.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "78 points · 68 comments"
+        "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "description": "Elon Musk&#039;s claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "894 points · 446 comments"
       },
       {
-        "url": "https://gizmodo.com/ex-google-ceo-eric-schmidt-fails-to-read-room-on-ai-gets-booed-to-oblivion-2000759763",
-        "title": "Ex-Google CEO Eric Schmidt Fails to Read Room on AI, Gets Booed into Oblivion",
-        "description": "4 points · 1 comments",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "title": "Anthropic acquires Stainless",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&amp;backgroundColor=coral",
+        "source": "anthropic.com",
+        "stats": "413 points · 287 comments"
+      },
+      {
+        "url": "https://archestra.ai/blog/only-responsible-ai",
+        "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+        "description": "Is it the end of open source we know and love?",
+        "image": "https://archestra.ai/blog/2026-04-07-only-responsible-ai.webp",
+        "source": "archestra.ai",
+        "stats": "453 points · 207 comments"
+      },
+      {
+        "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+        "title": "Eric Schmidt speech about AI booed during graduation",
+        "description": "Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260517-Eric-Schmidt-vl-358p-b8fb07.jpg",
+        "source": "nbcnews.com",
+        "stats": "350 points · 375 comments"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+        "title": "AI eats the world (Spring 26) [pdf]",
+        "description": "194 points · 109 comments",
         "image": "",
-        "source": "gizmodo.com",
+        "source": "static1.squarespace.com",
         "stats": ""
-      },
-      {
-        "url": "https://ai-keys-leaks.begimher.com/",
-        "title": "AI Leak Watch: 435,608 potential AI API key matches in public GitHub code",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "ai-keys-leaks.begimher.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.ben-evans.com/presentations",
-        "title": "AI Eats the World (2026)",
-        "description": "Every year, I produce a big presentation exploring macro and strategic trends in the tech industry. New in May 2025, ‘AI eats the world’.",
-        "image": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0a114b9120657df20a712b/1779044683790/2026+Spring+Final.001.png?format=1500w",
-        "source": "ben-evans.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://gertlabs.com/blog/llm-performance-by-language",
-        "title": "LLM Performance by Programming Language",
-        "description": "Proprietary game environments for training and evaluating AI models. Built for AI labs and research teams.",
-        "image": "https://gertlabs.com/gert_labs_og_icon_light.png?v=20260403",
-        "source": "gertlabs.com",
-        "stats": "4 points · 1 comments"
       }
     ],
     "2026-05-17": [
@@ -50,15 +92,7 @@
         "description": "Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.",
         "image": "https://frederickvanbrabant.com/images/posts/2026-05-15%20I%20don%27t%20think%20AI%20will%20make%20your%20processes%20go%20faster/header.jpg",
         "source": "frederickvanbrabant.com",
-        "stats": "545 points · 378 comments"
-      },
-      {
-        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-        "title": "AI subscriptions are a ticking time bomb for enterprise",
-        "description": "Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.",
-        "image": "https://cdn.prod.website-files.com/69d68fe7dde9e79d19ddf151/6a02492bc7c745f849372fe4_364ffc2a-1a23-423f-b62a-3764e12ce6ab.webp",
-        "source": "thestateofbrand.com",
-        "stats": "387 points · 380 comments"
+        "stats": "658 points · 445 comments"
       },
       {
         "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
@@ -66,15 +100,23 @@
         "description": "It’s not even a feature. It’s just technology.",
         "image": "https://daringfireball.net/graphics/df-wide-card.png",
         "source": "daringfireball.net",
-        "stats": "383 points · 170 comments"
+        "stats": "466 points · 206 comments"
       },
       {
         "url": "https://github.com/MinishLab/semble",
         "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
         "description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read - MinishLab/semble",
-        "image": "https://opengraph.githubassets.com/fbc1956887e77f211f733eab3b2007718ae9c95bf7d4cc2ea605e5010cd710df/MinishLab/semble",
+        "image": "https://opengraph.githubassets.com/6e34efa2dcd7bdbf6fda7a0b1d93cd153bd686f50fdc05e69aa35822b946deaf/MinishLab/semble",
         "source": "github.com",
-        "stats": "270 points · 88 comments"
+        "stats": "429 points · 143 comments"
+      },
+      {
+        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+        "title": "AI subscriptions are a ticking time bomb for enterprise",
+        "description": "Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.",
+        "image": "https://cdn.prod.website-files.com/69d68fe7dde9e79d19ddf151/6a02492bc7c745f849372fe4_364ffc2a-1a23-423f-b62a-3764e12ce6ab.webp",
+        "source": "thestateofbrand.com",
+        "stats": "410 points · 396 comments"
       },
       {
         "url": "https://www.jdhodges.com/blog/thinkpad-history/",
@@ -82,49 +124,17 @@
         "description": "A sourced history of ThinkPad from IBM&#039;s 1992 700C to Lenovo&#039;s 2026 AI workstations: TrackPoint, keyboards, X-series, T-series and P-series.",
         "image": "https://www.jdhodges.com/wp-content/uploads/2026/05/thinkpad-trackpoint-macro-x220-jd-2011-1200x795.webp",
         "source": "jdhodges.com",
-        "stats": "85 points · 42 comments"
+        "stats": "111 points · 56 comments"
       }
     ],
     "2026-05-16": [
       {
         "url": "https://crates.io/crates/zerostack/1.0.0",
         "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-        "description": "546 points · 299 comments",
+        "description": "563 points · 307 comments",
         "image": "",
         "source": "crates.io",
         "stats": ""
-      },
-      {
-        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-        "description": "317 points · 326 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-        "title": "Frontier AI has broken the open CTF format",
-        "description": "Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.",
-        "image": "",
-        "source": "kabir.au",
-        "stats": "412 points · 438 comments"
-      },
-      {
-        "url": "https://www.seangoedecke.com/steering-vectors/",
-        "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-        "description": "267 points · 75 comments",
-        "image": "https://www.seangoedecke.com/og-image.jpg",
-        "source": "seangoedecke.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arxiv.org/abs/2605.12357",
-        "title": "δ-mem: Efficient Online Memory for Large Language Models",
-        "description": "Large language models increasingly need to accumulate and reuse historical information in long-term assistants and agent systems. Simply expanding the context window is costly and often fails to ensure effective context utilization. We propose $δ$-mem, a lightweight memory mechanism that augments a frozen full-attention backbone with a compact online state of associative memory. $δ$-mem compresses past information into a fixed-size state matrix updated by delta-rule learning, and uses its readout to generate low-rank corrections to the backbone&#39;s attention computation during generation. With only an $8\\times8$ online memory state, $δ$-mem improves the average score to $1.10\\times$ that of the frozen backbone and $1.15\\times$ that of the strongest non-$δ$-mem memory baseline. It achieves larger gains on memory-heavy benchmarks, reaching $1.31\\times$ on MemoryAgentBench and $1.20\\times$ on LoCoMo, while largely preserving general capabilities. These results show that effective memory can be realized through a compact online state directly coupled with attention computation, without full fine-tuning, backbone replacement, or explicit context extension.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "235 points · 59 comments"
       }
     ],
     "2026-05-15": [
@@ -211,16 +221,6 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275321598-1152x648-1778689523.jpg",
         "source": "arstechnica.com",
         "stats": "98 points · 41 comments"
-      }
-    ],
-    "2026-05-12": [
-      {
-        "url": "https://github.com/cactus-compute/needle",
-        "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-        "description": "26m function call model that runs on incredibly small devices - cactus-compute/needle",
-        "image": "https://opengraph.githubassets.com/b104e01d8ccaf4e8311a1bed331b7356ec5a3074a83fbfb061a92b0a36e5ed92/cactus-compute/needle",
-        "source": "github.com",
-        "stats": "768 points · 210 comments"
       }
     ]
   }
