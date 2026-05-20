@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-19T06:12:27.823Z",
+  "lastUpdated": "2026-05-20T06:12:53.549Z",
   "days": {
+    "2026-05-20": [
+      {
+        "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+        "description": "How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48202774",
+        "title": "Ask HN: What are Stainless users doing now that Anthropic has killed it?",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://andlukyane.com//blog/minimax-m27-workflows",
+        "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+        "description": "An evaluation of MiniMax M2.7 used through Claude Code on three workflows I run regularly — writing code for a Kaggle competition submission, drafting and auditing Obsidian vault notes, and refactoring an old PyTorch project — with Claude Opus 4.7 as the comparison baseline.",
+        "image": "https://andlukyane.com/images/minimax_m27/2026-05-13_06-42-04.jpg",
+        "source": "andlukyane.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48202486",
+        "title": "Alternatives to HN for \"tech outside of AI\" discussion?",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://fortune.com/2026/05/14/why-is-claude-telling-users-to-go-to-sleep-anthropic-ai-sentient/",
+        "title": "Claude is telling users to go to sleep mid-session and nobody understands why",
+        "description": "A staff member at Anthropic called the behavior, a “bit of a character tic.”",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2261854833-1-e1778792716589.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
     "2026-05-19": [
+      {
+        "url": "https://twitter.com/karpathy/status/2056753169888334312",
+        "title": "I’ve joined Anthropic",
+        "description": "1257 points · 519 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "title": "Gemini 3.5 Flash",
+        "description": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
+        "source": "blog.google",
+        "stats": "701 points · 505 comments"
+      },
       {
         "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
         "title": "The last six months in LLMs in five minutes",
         "description": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning …",
         "image": "https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg",
         "source": "simonwillison.net",
-        "stats": "208 points · 102 comments"
+        "stats": "748 points · 568 comments"
       },
       {
-        "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-        "title": "The American Rebellion Against AI Is Gaining Steam",
-        "description": "95 points · 92 comments",
+        "url": "https://github.com/antoinezambelli/forge",
+        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows - antoinezambelli/forge",
+        "image": "https://opengraph.githubassets.com/6273658e2324b10901cd0c6dd6dbbf2c121b451c964b34e760da9bcc3f78a15e/antoinezambelli/forge",
+        "source": "github.com",
+        "stats": "391 points · 146 comments"
+      },
+      {
+        "url": "https://deepmind.google/models/gemini-omni/",
+        "title": "Gemini Omni",
+        "description": "298 points · 126 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "deepmind.google",
         "stats": ""
-      },
-      {
-        "url": "https://vas-blog.pages.dev/qwen-censorship/",
-        "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-        "description": "75 points · 37 comments",
-        "image": "",
-        "source": "vas-blog.pages.dev",
-        "stats": ""
-      },
-      {
-        "url": "https://pytorch.landscape2.io",
-        "title": "PyTorch Landscape",
-        "description": "16 points · 0 comments",
-        "image": "https://cncf.github.io/landscape2-sites/pytorch/open_graph.png",
-        "source": "pytorch.landscape2.io",
-        "stats": ""
-      },
-      {
-        "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
-        "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
-        "description": "Download Sieve Secret Scanner by Sunitha Vaishnavi Nalainthran on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Sieve…",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/56/3a/65563ae6-a5c2-b3a9-0701-d6fa26034db4/Placeholder.mill/1200x630wa.jpg",
-        "source": "apps.apple.com",
-        "stats": "11 points · 1 comments"
       }
     ],
     "2026-05-18": [
@@ -50,7 +92,7 @@
         "description": "Elon Musk&#039;s claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "894 points · 446 comments"
+        "stats": "1072 points · 570 comments"
       },
       {
         "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
@@ -58,7 +100,7 @@
         "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&amp;backgroundColor=coral",
         "source": "anthropic.com",
-        "stats": "413 points · 287 comments"
+        "stats": "525 points · 370 comments"
       },
       {
         "url": "https://archestra.ai/blog/only-responsible-ai",
@@ -66,7 +108,7 @@
         "description": "Is it the end of open source we know and love?",
         "image": "https://archestra.ai/blog/2026-04-07-only-responsible-ai.webp",
         "source": "archestra.ai",
-        "stats": "453 points · 207 comments"
+        "stats": "491 points · 234 comments"
       },
       {
         "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
@@ -74,12 +116,12 @@
         "description": "Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.",
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260517-Eric-Schmidt-vl-358p-b8fb07.jpg",
         "source": "nbcnews.com",
-        "stats": "350 points · 375 comments"
+        "stats": "367 points · 385 comments"
       },
       {
         "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
         "title": "AI eats the world (Spring 26) [pdf]",
-        "description": "194 points · 109 comments",
+        "description": "295 points · 162 comments",
         "image": "",
         "source": "static1.squarespace.com",
         "stats": ""
@@ -87,44 +129,12 @@
     ],
     "2026-05-17": [
       {
-        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-        "title": "I don't think AI will make your processes go faster",
-        "description": "Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.",
-        "image": "https://frederickvanbrabant.com/images/posts/2026-05-15%20I%20don%27t%20think%20AI%20will%20make%20your%20processes%20go%20faster/header.jpg",
-        "source": "frederickvanbrabant.com",
-        "stats": "658 points · 445 comments"
-      },
-      {
-        "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-        "title": "AI is a technology not a product",
-        "description": "It’s not even a feature. It’s just technology.",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "466 points · 206 comments"
-      },
-      {
-        "url": "https://github.com/MinishLab/semble",
-        "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-        "description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read - MinishLab/semble",
-        "image": "https://opengraph.githubassets.com/6e34efa2dcd7bdbf6fda7a0b1d93cd153bd686f50fdc05e69aa35822b946deaf/MinishLab/semble",
-        "source": "github.com",
-        "stats": "429 points · 143 comments"
-      },
-      {
-        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-        "title": "AI subscriptions are a ticking time bomb for enterprise",
-        "description": "Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.",
-        "image": "https://cdn.prod.website-files.com/69d68fe7dde9e79d19ddf151/6a02492bc7c745f849372fe4_364ffc2a-1a23-423f-b62a-3764e12ce6ab.webp",
-        "source": "thestateofbrand.com",
-        "stats": "410 points · 396 comments"
-      },
-      {
-        "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-        "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-        "description": "A sourced history of ThinkPad from IBM&#039;s 1992 700C to Lenovo&#039;s 2026 AI workstations: TrackPoint, keyboards, X-series, T-series and P-series.",
-        "image": "https://www.jdhodges.com/wp-content/uploads/2026/05/thinkpad-trackpoint-macro-x220-jd-2011-1200x795.webp",
-        "source": "jdhodges.com",
-        "stats": "111 points · 56 comments"
+        "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+        "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+        "description": "You can go far without writing TLA&#43; syntax now, but you still need to understand temporal logic.",
+        "image": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/robot-square.jpg",
+        "source": "emptysqua.re",
+        "stats": "127 points · 29 comments"
       }
     ],
     "2026-05-16": [
@@ -179,48 +189,6 @@
         "image": "https://opengraph.githubassets.com/28627c0be0e55e7862980f48743f303151d932494dfcb1bfc344cdbdd24ff5ee/noahgolmant/pytorch-hessian-eigenthings",
         "source": "github.com",
         "stats": "87 points · 4 comments"
-      }
-    ],
-    "2026-05-13": [
-      {
-        "url": "https://news.ycombinator.com/item?id=48128003",
-        "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-        "description": "288 points · 80 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-        "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-        "description": "A18 Pro processor in the $599 MacBook Neo. Geekbench 6 scores 3,569 single-core, between M3 and M4. Full CPU benchmarks, power draw, and thermal analysis.",
-        "image": "https://www.jdhodges.com/wp-content/uploads/2026/03/01-single-core-benchmark.png",
-        "source": "jdhodges.com",
-        "stats": "330 points · 389 comments"
-      },
-      {
-        "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-        "title": "The US is winning the AI race where it matters most: commercialization",
-        "description": "Energy matters for AI, but the decisive layers are cloud infrastructure, data, and commercialization. On those layers the United States is ahead by a wide margin.",
-        "image": "",
-        "source": "avkcode.github.io",
-        "stats": "232 points · 657 comments"
-      },
-      {
-        "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-        "title": "Meta won't let you block its AI account on Threads",
-        "description": "Hey Meta, why are Threads users angry?",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "193 points · 82 comments"
-      },
-      {
-        "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-        "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-        "description": "Very painful&quot;: Altman relives his Muskian reaction to losing control over OpenAI.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2275321598-1152x648-1778689523.jpg",
-        "source": "arstechnica.com",
-        "stats": "98 points · 41 comments"
       }
     ]
   }
