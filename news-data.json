@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-05-20T06:12:53.549Z",
+  "lastUpdated": "2026-05-21T06:14:26.838Z",
   "days": {
+    "2026-05-21": [
+      {
+        "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+        "title": "Intuit to lay off over 3k employees to refocus on AI",
+        "description": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company&#039;s corporate structure, and deliver better AI products.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
+        "source": "techcrunch.com",
+        "stats": "147 points · 96 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+        "title": "OpenAI to confidentially file for IPO as soon as Friday",
+        "description": "OpenAI is working with banks including Goldman Sachs and Morgan Stanley.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108276787-1773253292188-gettyimages-2265445220-BLACKROCK_INFRASTRUCTURE_SUMMIT.jpeg?v=1779296174&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "99 points · 37 comments"
+      },
+      {
+        "url": "https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass",
+        "title": "VPNs: The \"Most Trusted\" Security Tool Until Claude Roasts It in a Weekend",
+        "description": "How AI-assisted reverse engineering of stripped PAN-OS binaries led to finding a JWT algorithm confusion vulnerability in GlobalProtect",
+        "image": "https://www.hacktron.ai/_astro/B64KMg6B.png",
+        "source": "hacktron.ai",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.reuters.com/legal/transactional/bound-mars-elon-musks-spacex-unveils-filing-blockbuster-ipo-2026-05-20/",
+        "title": "SpaceX IPO filing lays bare losses and Musk control as it stakes future on AI",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.channelnewsasia.com/business/standard-chartered-reduce-7000-roles-2030-6129761",
+        "title": "Standard Charter CEO Replaces 8000 \"Lower Value Humans\" with AI",
+        "description": "StanChart is one of the first major global banks to lay out official plans to cut thousands of jobs, citing AI as a driver to make its operations slimmer.",
+        "image": "https://dam.mediacorp.sg/image/upload/s--MYrkmvCj--/c_crop,h_449,w_799,x_1,y_37/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-04-30T140041Z_3_LYNXMPEM3T06B_RTROPTP_3_STANCHART-RESULTS.JPG?itok=SHV9EW7M",
+        "source": "channelnewsasia.com",
+        "stats": "3 points · 2 comments"
+      }
+    ],
     "2026-05-20": [
       {
-        "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
-        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-        "description": "How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs.",
-        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
-        "source": "claude.com",
-        "stats": "4 points · 2 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48202774",
-        "title": "Ask HN: What are Stainless users doing now that Anthropic has killed it?",
-        "description": "5 points · 1 comments",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "description": "980 points · 712 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://andlukyane.com//blog/minimax-m27-workflows",
-        "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
-        "description": "An evaluation of MiniMax M2.7 used through Claude Code on three workflows I run regularly — writing code for a Kaggle competition submission, drafting and auditing Obsidian vault notes, and refactoring an old PyTorch project — with Claude Opus 4.7 as the comparison baseline.",
-        "image": "https://andlukyane.com/images/minimax_m27/2026-05-13_06-42-04.jpg",
-        "source": "andlukyane.com",
-        "stats": "5 points · 0 comments"
+        "url": "https://qwen.ai/blog?id=qwen3.7",
+        "title": "Qwen3.7-Max: The Agent Frontier",
+        "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+        "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+        "source": "qwen.ai",
+        "stats": "651 points · 257 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=48202486",
-        "title": "Alternatives to HN for \"tech outside of AI\" discussion?",
-        "description": "6 points · 0 comments",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+        "title": "College students drown out AI-praising commencement speeches with boos",
+        "description": "Arizona students reject ex-Google exec",
+        "image": "https://cdn.mos.cms.futurecdn.net/5BYVzY95Q8VmJLdbtdLfob-1024-80.jpg",
+        "source": "tomshardware.com",
+        "stats": "361 points · 361 comments"
+      },
+      {
+        "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+        "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+        "description": "A BBC investigation revealed a simple way to get AI chatbots to spit out misinformation. Google and other AI companies are now trying to fix the problem.",
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0nm547y.jpg",
+        "source": "bbc.com",
+        "stats": "294 points · 184 comments"
+      },
+      {
+        "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+        "title": "Anthropic is expanding to Colossus2. Will use GB200",
+        "description": "125 points · 113 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "twitter.com",
         "stats": ""
-      },
-      {
-        "url": "https://fortune.com/2026/05/14/why-is-claude-telling-users-to-go-to-sleep-anthropic-ai-sentient/",
-        "title": "Claude is telling users to go to sleep mid-session and nobody understands why",
-        "description": "A staff member at Anthropic called the behavior, a “bit of a character tic.”",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2261854833-1-e1778792716589.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "3 points · 1 comments"
       }
     ],
     "2026-05-19": [
       {
         "url": "https://twitter.com/karpathy/status/2056753169888334312",
         "title": "I’ve joined Anthropic",
-        "description": "1257 points · 519 comments",
+        "description": "1407 points · 604 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -58,7 +100,15 @@
         "description": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
         "source": "blog.google",
-        "stats": "701 points · 505 comments"
+        "stats": "939 points · 642 comments"
+      },
+      {
+        "url": "https://github.com/antoinezambelli/forge",
+        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows - antoinezambelli/forge",
+        "image": "https://opengraph.githubassets.com/da9f7f5f12735bab81ea9fbdde92e12a82e2da14fbf3c813484345ce058fb230/antoinezambelli/forge",
+        "source": "github.com",
+        "stats": "648 points · 238 comments"
       },
       {
         "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
@@ -66,23 +116,15 @@
         "description": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning …",
         "image": "https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg",
         "source": "simonwillison.net",
-        "stats": "748 points · 568 comments"
+        "stats": "778 points · 581 comments"
       },
       {
-        "url": "https://github.com/antoinezambelli/forge",
-        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-        "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows - antoinezambelli/forge",
-        "image": "https://opengraph.githubassets.com/6273658e2324b10901cd0c6dd6dbbf2c121b451c964b34e760da9bcc3f78a15e/antoinezambelli/forge",
-        "source": "github.com",
-        "stats": "391 points · 146 comments"
-      },
-      {
-        "url": "https://deepmind.google/models/gemini-omni/",
-        "title": "Gemini Omni",
-        "description": "298 points · 126 comments",
-        "image": "",
-        "source": "deepmind.google",
-        "stats": ""
+        "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+        "title": "Gemini CLI will stop working from June 18, 2026",
+        "description": "Announcement for the sunsetting of Gemini CLI in favor of Antigravity CLI, a more robust, agent-first platform designed to handle the multi-agent complexities of 2026.",
+        "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/GeminiCLI-AntigravityCLI_1200x630.2e16d0ba.fill-1200x600.png",
+        "source": "developers.googleblog.com",
+        "stats": "387 points · 198 comments"
       }
     ],
     "2026-05-18": [
@@ -92,39 +134,23 @@
         "description": "Elon Musk&#039;s claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "1072 points · 570 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "title": "Anthropic acquires Stainless",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&amp;backgroundColor=coral",
-        "source": "anthropic.com",
-        "stats": "525 points · 370 comments"
-      },
-      {
-        "url": "https://archestra.ai/blog/only-responsible-ai",
-        "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-        "description": "Is it the end of open source we know and love?",
-        "image": "https://archestra.ai/blog/2026-04-07-only-responsible-ai.webp",
-        "source": "archestra.ai",
-        "stats": "491 points · 234 comments"
-      },
-      {
-        "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
-        "title": "Eric Schmidt speech about AI booed during graduation",
-        "description": "Schmidt was met with boos at the University of Arizona as he likened the emergence of AI to the “technological transformation” brought about by the computer.",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260517-Eric-Schmidt-vl-358p-b8fb07.jpg",
-        "source": "nbcnews.com",
-        "stats": "367 points · 385 comments"
+        "stats": "1085 points · 588 comments"
       },
       {
         "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
         "title": "AI eats the world (Spring 26) [pdf]",
-        "description": "295 points · 162 comments",
+        "description": "302 points · 171 comments",
         "image": "",
         "source": "static1.squarespace.com",
         "stats": ""
+      },
+      {
+        "url": "https://github.com/deng-ai-lab/SFHformer",
+        "title": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
+        "description": "When Fast Fourier Transform Meets Transformer for Image Restoration (ECCV 2024) - deng-ai-lab/SFHformer",
+        "image": "https://opengraph.githubassets.com/b7e9ead3c367a1b55aeffb75afc5558dad48cd8e774d3537368c4659510f6487/deng-ai-lab/SFHformer",
+        "source": "github.com",
+        "stats": "80 points · 8 comments"
       }
     ],
     "2026-05-17": [
@@ -134,7 +160,15 @@
         "description": "You can go far without writing TLA&#43; syntax now, but you still need to understand temporal logic.",
         "image": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/robot-square.jpg",
         "source": "emptysqua.re",
-        "stats": "127 points · 29 comments"
+        "stats": "140 points · 32 comments"
+      },
+      {
+        "url": "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
+        "title": "Autoregressive next token prediction and KV Cache in transformers",
+        "description": "56 points · 0 comments",
+        "image": "",
+        "source": "medium.com",
+        "stats": ""
       }
     ],
     "2026-05-16": [
@@ -163,32 +197,6 @@
         "image": "https://firethering.com/wp-content/uploads/2026/05/ChatGPT-Wants-Access-to-Your-Bank-Account.jpg",
         "source": "firethering.com",
         "stats": "119 points · 142 comments"
-      }
-    ],
-    "2026-05-14": [
-      {
-        "url": "https://github.com/anthropics/claude-for-legal",
-        "title": "Claude for Legal",
-        "description": "A suite of plugins for legal workflows. Contribute to anthropics/claude-for-legal development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/66df040d2ab1d5498fb52ab48858c609ebdd5613ed5ab32c45220837b2a537b0/anthropics/claude-for-legal",
-        "source": "github.com",
-        "stats": "222 points · 190 comments"
-      },
-      {
-        "url": "https://github.com/DrCatHicks/learning-opportunities",
-        "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-        "description": "A Claude or Codex skill for deliberate skill development during AI-assisted coding - DrCatHicks/learning-opportunities",
-        "image": "https://opengraph.githubassets.com/39b8cf1f0f0c803399af3f4e00b9427ea25cc734ba898ad4ab1b76443804f0ec/DrCatHicks/learning-opportunities",
-        "source": "github.com",
-        "stats": "252 points · 48 comments"
-      },
-      {
-        "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
-        "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
-        "description": "Efficient PyTorch Hessian eigendecomposition tools! - noahgolmant/pytorch-hessian-eigenthings",
-        "image": "https://opengraph.githubassets.com/28627c0be0e55e7862980f48743f303151d932494dfcb1bfc344cdbdd24ff5ee/noahgolmant/pytorch-hessian-eigenthings",
-        "source": "github.com",
-        "stats": "87 points · 4 comments"
       }
     ]
   }
