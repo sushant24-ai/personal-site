@@ -1,11 +1,53 @@
 {
-  "lastUpdated": "2026-05-23T05:42:21.963Z",
+  "lastUpdated": "2026-05-24T06:05:19.710Z",
   "days": {
+    "2026-05-24": [
+      {
+        "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did",
+        "title": "AI didn't kill your junior pipeline. You did",
+        "description": "AI didn’t kill the junior pipeline; companies did, because someone saw Claude write a for loop and decided that meant they could stop training humans. The result is an industry cheerfully pulling the ladder up behind itself, hollowing out its seniors, and outsourcing its entire talent strategy to vendors that will eventually triple the price. If you don’t hire juniors now, don’t act surprised in five years when you’re surrounded by AI-generated code nobody understands and trying to buy senior engineers from a market everyone else forgot to replenish.",
+        "image": "https://andrewmurphy.io/api/og/blog/9c50175b-1dbb-4454-bc3b-ed3629198b5a?v=2026-05-22T05%3A10%3A38.356Z",
+        "source": "andrewmurphy.io",
+        "stats": "10 points · 2 comments"
+      },
+      {
+        "url": "https://github.com/anatomia-dev/anatomia",
+        "title": "Scan any codebase in 3s, then verify what your AI builds",
+        "description": "Verified AI development. Ship with proof. Contribute to anatomia-dev/anatomia development by creating an account on GitHub.",
+        "image": "https://repository-images.githubusercontent.com/1137896945/b5127058-e693-4c34-8c06-e9c1dbe1d4d0",
+        "source": "github.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://old.reddit.com/r/AIAgentsInAction/comments/1t84rlc/this_guy_won_the_anthropic_hackathon_solo_then_he/",
+        "title": "Guy Won the Anthropic Hackathon Solo. Then He Open-Sourced the Stack",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/",
+        "title": "Anthropic Says Mythos Has Found More Than 10k Vulnerabilities",
+        "description": "Anthropic has published an initial update about Project Glasswing, which it says has helped partners find bugs high and critical in severity.",
+        "image": "https://www.engadget.com/img/gallery/anthropic-says-mythos-has-already-found-more-than-10000-vulnerabilities/l-intro-1779540303.jpg",
+        "source": "engadget.com",
+        "stats": "3 points · 3 comments"
+      },
+      {
+        "url": "https://clawdcursor.com",
+        "title": "AI Can Do Anything",
+        "description": "The local MCP server that gives any agent safe desktop control. Any model. Any app. One MCP entry. Local-only. 6 compact tools, single safety chokepoint, no telemetry.",
+        "image": "",
+        "source": "clawdcursor.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-05-23": [
       {
         "url": "https://isaiprofitable.com/",
         "title": "Is AI Profitable Yet?",
-        "description": "204 points · 145 comments",
+        "description": "249 points · 194 comments",
         "image": "",
         "source": "isaiprofitable.com",
         "stats": ""
@@ -16,41 +58,49 @@
         "description": "Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.",
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262969436-e1779468619700.jpg?resize=1200,600",
         "source": "fortune.com",
-        "stats": "154 points · 40 comments"
+        "stats": "222 points · 65 comments"
       },
       {
-        "url": "https://github.com/elodin-sys/ai-grand-prix",
-        "title": "Show HN: Waiting for AI Grand Prix racing SIM? Me too So I made one",
-        "description": "Contribute to elodin-sys/ai-grand-prix development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/4ba774acc25fbfe353f9d9c755e8cd2182180e0ad496b7bcd07200112067d934/elodin-sys/ai-grand-prix",
-        "source": "github.com",
-        "stats": "8 points · 0 comments"
+        "url": "https://horace.io/brrr_intro.html",
+        "title": "Making deep learning go brrrr from first principles (2022)",
+        "description": "163 points · 59 comments",
+        "image": "",
+        "source": "horace.io",
+        "stats": ""
       },
       {
-        "url": "https://readuncut.com/94-will-keep-spending-on-ai-even-when-it-fails/",
-        "title": "94% companies will keep spending on AI even when it fails",
-        "description": "Somewhere on the 40th floor of a building you would recognize, a room full of people who could not create an email account without calling someone from IT is making the largest capital allocation decisions in the history of American business.\n\nThey are the board of directors, the people with",
-        "image": "https://readuncut.com/content/images/size/w1200/2026/05/boardroom_ignore_bad_ai.png",
-        "source": "readuncut.com",
-        "stats": "6 points · 1 comments"
+        "url": "https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/",
+        "title": "Iowa to mandate students take Intellectual Freedom classes amid low enrollment",
+        "description": "A last minute Republican legislative push could force University of Iowa college students to take classes at the newly-created Center for Intellectual Freedom. It&#x27;s exactly what a report highlighted was needed to make the center successful.",
+        "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/UBLIUBFCGNETTIVCJCWKXOKTXE.png?auth=5594562f204f7e8c16e8750a4a3abe2877b56b9ebd2f8d8a6998e462036251d6&amp;width=1200&amp;height=600&amp;smart=true",
+        "source": "kcrg.com",
+        "stats": "40 points · 33 comments"
       },
       {
-        "url": "https://cen.acs.org/policy/publishing/Sci-Hub-created-new-AI/104/web/2026/04",
-        "title": "Sci-Hub has created a new AI chatbot. Is it any good?",
-        "description": "Chemical &amp; Engineering News is a weekly news magazine published by the American Chemical Society, providing professional and technical news and analysis in the fields of chemistry and chemical engineering.",
-        "image": "https://s7d1.scene7.com/is/image/CENODS/og-cen-default:Widescreen?$responsive$&amp;qlt&#61;90,0&amp;resMode&#61;sharp2&amp;fmt&#61;webp",
-        "source": "cen.acs.org",
-        "stats": "5 points · 0 comments"
+        "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+        "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
+        "description": "But training on &quot;synthetic stories&quot; that model good AI behavior can help.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1155287857-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "22 points · 14 comments"
       }
     ],
     "2026-05-22": [
       {
         "url": "https://annas-archive.gl/blog/llms-txt.html",
         "title": "If you’re an LLM, please read this",
-        "description": "768 points · 418 comments",
+        "description": "859 points · 450 comments",
         "image": "",
         "source": "annas-archive.gl",
         "stats": ""
+      },
+      {
+        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+        "title": "Microsoft starts canceling Claude Code licenses",
+        "description": "Thousands of Microsoft developers will use GitHub Copilot CLI instead",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "462 points · 445 comments"
       },
       {
         "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
@@ -58,7 +108,7 @@
         "description": "Apple cofounder Steve Wozniak&#x27;s speech about AI at Grand Valley State University earlier this month got a laugh and applause from graduates.",
         "image": "https://i.insider.com/6a0f3ebbb1025a62a5c85a87?width=1200&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "611 points · 508 comments"
+        "stats": "641 points · 540 comments"
       },
       {
         "url": "https://api-docs.deepseek.com/quick_start/pricing",
@@ -66,7 +116,7 @@
         "description": "The prices listed below are in units of per 1M tokens. A token, the smallest unit of text that the model recognizes, can be a word, a number, or even a punctuation mark. We will bill based on the total number of input and output tokens by the model.",
         "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
         "source": "api-docs.deepseek.com",
-        "stats": "350 points · 202 comments"
+        "stats": "437 points · 249 comments"
       },
       {
         "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
@@ -74,41 +124,17 @@
         "description": "A practical OpenSCAD LLM benchmark comparing Codex 5.5 High, Claude Sonnet, Claude Opus, Cursor Composer, Google Antigravity, and ModelRift on a detailed Pantheon model.",
         "image": "https://modelrift.com/og/blog/openscad-llm-benchmark.png",
         "source": "modelrift.com",
-        "stats": "371 points · 146 comments"
-      },
-      {
-        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-        "title": "AI has a multiplying effect on existing technical skills",
-        "description": "Friendly articles and tutorials for front-end web developers. ❤️",
-        "image": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03",
-        "source": "joshwcomeau.com",
-        "stats": "301 points · 285 comments"
+        "stats": "415 points · 157 comments"
       }
     ],
     "2026-05-21": [
-      {
-        "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-        "title": "AI is just unauthorised plagiarism at a bigger scale",
-        "description": "AI takes in all the input, whether the original authors have consented or not, and do some &quot;learning&quot;, and then the AI companies sell these learned result to...",
-        "image": "https://axelk.ee/static/og-image.png",
-        "source": "axelk.ee",
-        "stats": "810 points · 719 comments"
-      },
       {
         "url": "https://noslopgrenade.com/",
         "title": "Throwing AI-generated walls of text into conversations",
         "description": "Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.",
         "image": "https://noslopgrenade.com/og-image.png",
         "source": "noslopgrenade.com",
-        "stats": "678 points · 415 comments"
-      },
-      {
-        "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-        "title": "Shunning AI is the human choice",
-        "description": "LinkedIn may be awash with boosters, but shunning AI is the human choice.",
-        "image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/12f64063-69e4-4540-8f25-5c0464768cdc/Screenshot_2026-05-20_at_4.36.54_PM.png?t=1779311494",
-        "source": "thehandbasket.co",
-        "stats": "366 points · 534 comments"
+        "stats": "698 points · 417 comments"
       },
       {
         "url": "https://arxiv.org/abs/2605.12460",
@@ -116,38 +142,30 @@
         "description": "The continued improvements in language model capability have unlocked their widespread use as drivers of autonomous agents, for example in coding or computer use applications. However, the core of these systems has not changed much since early instruction-tuned models like ChatGPT. Even advanced AI agents function on message exchange formats, successively exchanging messages with users, systems, with itself (i.e. chain-of-thought) and tools in a single stream of computation. This bottleneck to a single stream in chat models leads to a number of limitations: the agent cannot act (generate output) while reading, and in reverse, cannot react to new information while writing. Similarly, the agent cannot act while thinking and cannot think while reading or acting on information.\n  In this work, we show that models can be unblocked by switching from instruction-tuning for sequential message formats to instruction-tuning for multiple, parallel streams of computation, splitting each role into a separate stream. Every forward pass of the language model then simultaneously reads from multiple input streams and generates tokens in multiple output streams, all of which causally depend on earlier timesteps. We argue that this data-driven change remedies a number of usability limitations as outlined above, improves model efficiency through parallelization, improves model security through better separation of concerns and can further improve model monitorability.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "146 points · 16 comments"
+        "stats": "154 points · 16 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=48230104",
-        "title": "Tell HN: I'm tired of AI-generated answers",
-        "description": "116 points · 55 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://www.runtm.com/",
+        "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+        "description": "The runtime for all your team&#x27;s agents. Sandboxed coding agents with your company&#x27;s context, integrations, and guardrails — triggered from Slack, Linear, CLI, or the browser.",
+        "image": "https://runtm.com/og-image.png",
+        "source": "runtm.com",
+        "stats": "100 points · 30 comments"
       }
     ],
     "2026-05-20": [
       {
         "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
         "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "description": "1410 points · 1036 comments",
+        "description": "1417 points · 1042 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://qwen.ai/blog?id=qwen3.7",
-        "title": "Qwen3.7-Max: The Agent Frontier",
-        "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-        "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
-        "source": "qwen.ai",
-        "stats": "711 points · 290 comments"
-      },
-      {
         "url": "https://twitter.com/nottombrown/status/2057194829986300375",
         "title": "Anthropic is expanding to Colossus2. Will use GB200",
-        "description": "300 points · 346 comments",
+        "description": "304 points · 347 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -155,7 +173,7 @@
       {
         "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
         "title": "OpenAI Is Preparing to File for an IPO Soon",
-        "description": "195 points · 402 comments",
+        "description": "198 points · 403 comments",
         "image": "",
         "source": "wsj.com",
         "stats": ""
@@ -166,7 +184,7 @@
         "description": "In the past few months, I’ve been stress-testing how far AI coding agents can take us when building real, production-grade distributed systems. The result: a Rust-based multi-Paxos consensus engine that not only implements all the features of Azure’s Replicated State Library (RSL) [1] — which underpins most major Azure services — but also modernizes it for today’s hardware. The entire project took me ~3 months, with 100K lines of Rust code written in ~4 weeks and performance optimization from 23K operations/sec to 300K ops/sec achieved in ~3 weeks. Besides unprecedented productivity, I discovered several techniques that were instrumental. This post shares my most valuable learnings on: ensuring correctness with code contracts, applying lightweight spec-driven development, and pursuing aggressive performance optimization — plus my wish list for the future of AI-assisted coding. Why Modernize RSL? Azure’s RSL implements the multi-Paxos consensus protocol and forms the backbone of replication in many Azure services. However, RSL was written more than a decade ago. While robust, it hasn’t evolved to match modern hardware and workloads. There are three key gaps motivated this project: No pipelining: When a vote is in flight, new requests must wait, inflating latency. No NVM support: Non-volatile memory is now common in Azure datacenters and can drastically reduce commit time. Limited hardware awareness: RSL wasn’t built to leverage RDMA, which is now pervasive in Azure data centers. Removing these limitations could unlock significantly lower latency and higher throughput — critical for modern cloud workloads and AI-driven services. Given my interest in Rust and AI-accelerated development, I set out to build a modern RSL equivalent from scratch. Massive Productivity Boost In roughly six weeks, I’ve driven AI and implemented over 130K lines of Rust code covering the full feature set of RSL, including multi-Paxos, leader election, log replication, snapshotting, and configuration changes. I utilized many available AI coding agents: GitHub Copilot, Claude Code, Codex, Augment Code, Kiro, and Trae. My workflow evolved quickly, but today my main drivers are Claude Code and Codex CLI, with VS Code handling diffs and minor edits. I’ve found that coding from the CLI creates a perfect asynchronous flow that maximizes my productivity. I also discovered a simple psychological trick: I pay $100/month for Anthropic’s max plan. This became a forcing function — if I don’t kick off a coding task with Claude before bed, I feel like I’m wasting money. When Codex CLI arrived, I added a second ChatGPT Plus subscription to handle rate limits — one subscription for Monday–Wednesday, the other for Thursday–Sunday. Code Contracts — By AI, For AI The question I get most often is: How can AI possibly implement something as complex as Paxos correctly? Testing is the first layer of defense. My system now includes 1,300+ tests — from unit tests to minimal integration tests (e.g., proposer + acceptor only), all the way to multi-replica full integration tests with injected failures. See the project status. But the real breakthrough came from AI-driven code contracts. Code contracts specify preconditions, postconditions, and invariants for critical functions. These contracts are converted into runtime asserts during testing but can be disabled in production builds for performance. While I started using this approach long ago with .NET [2], AI has made contracts vastly more powerful. Here’s how I apply them at three levels: 1. Ask AI to write contracts. Opus 4.1 writes good contracts, but GPT-5 High writes excellent ones. I focus on reviewing and refining. For example, the process_2a method (handling phase 2a messages in Paxos) has 16 contracts, including this one: 2. Generate tests from contracts. Once contracts are defined, I ask AI to create targeted test cases for each post-condition. It excels at this, generating meaningful edge cases automatically. 3. Property-based tests for contracts. This is my favorite. AI translates contracts into property-based tests, exploring a vast space of randomized inputs. Any contract violation triggers a panic, exposing deep bugs early. For instance, one AI-generated contract found a subtle Paxos safety violation: That single contract saved what could have been a serious replication consistency issue — well before it ever hits production. Lightweight Spec-Driven Development I’ve tried various Spec-Driven Development (SDD) tools. In fact, the earlier components (such as leader election, proposer, acceptor, and learner) were all implemented following a rigid SDD approach. I would start with a requirement markdown, turn it into a design markdown, and then a task list markdown. However, I gradually found this process too rigid; making changes along the way and ensuring all documents remained consistent became a headache. I’ve now switched to a more lightweight approach. When I work on a feature (e.g., snapshotting), I use /specify from spec kit [3] to generate a spec markdown. This spec consists of a few user stories and acceptance criteria. Here is an example user story for snapshotting: I then use /clarify to ask the AI to self-critique and improve the user stories and criteria. I also ask it to suggest additional user stories not covered in the initial spec. I spend the majority of my time here. Once satisfied, I jump into plan mode and ask AI to generate a plan for a specific user story. Given the capability of today’s AI coding agents, a single user story feels like the “sweet spot” unit of work they can manage effectively. Along the way, we may discover additions or tweaks, which are easy to handle in the same coding session (agents might compress context, but I typically don’t worry about losing too much). Here is a sample /clarify interaction for configuration changes: ● Question 4: Starting Slot Determination How should the starting slot for the new configuration be determined relative to the ending slot? Recommended: Option A - Always exactly ending_slot + 1 This ensures no gaps in the slot sequence and maintains continuity between configurations, preventing any slots from being orphaned or unassigned. | Option | Description | |--------|----------------------------------------------------------------| | A | Always exactly ending_slot + 1 | | B | Allow operator to specify any value &gt; ending_slot | | C | Next multiple of 1000 after ending_slot for cleaner boundaries | | D | Same as ending_slot (both configs share final slot) | You can reply with the option letter (e.g., &quot;A&quot;), accept the recommendation by saying &quot;yes&quot; or &quot;recommended&quot;, or provide your own short answer. Aggressive Performance Optimization Performance optimization is where AI really shines. After ensuring initial correctness, I spent about three weeks purely on throughput tuning — and AI became my co-pilot in performance engineering. Through iterative cycles, we boosted throughput from ~23K ops/sec to ~300K ops/sec on a single laptop. Here’s the loop I followed repeatedly: Ask AI to instrument latency metrics across all code paths. Run performance tests and output trace logs. Let AI analyze latency breakdowns (it writes Python scripts to calculate quantiles and identify bottlenecks). Ask AI to propose optimizations, implement one, re-measure, and repeat. This process surfaced insights I might have missed — for example, lock contention on async paths, redundant memory copies, and unnecessary task spawns. Rust’s safety model made it easy to push these optimizations confidently. Key gains came from minimizing allocations, applying zero-copy techniques, avoiding locks, and selectively removing async overhead. Each improvement felt like peeling another layer of latency off a high-performance engine — without fear of corrupting memory. Wish List for AI-Assisted Coding Reflecting on my journey, I keep wondering where AI could deliver even more value. Here are some items on my wish list: End-to-End User Story Execution: I still prefer to define the user stories myself. As an architect, I feel I have a better sense of what I’m building and how I’d like to build it. However, the delivery of a perfect execution is something I believe AI can handle increasingly well. Today, I still have to spend a fair amount of time steering the AI — telling it to continue when it pauses, suggesting refactoring, reviewing test coverage, and suggesting additional tests. I would prefer the AI take more autonomy to drive this end-to-end. Automated Contract Workflows: The flow of applying contracts seems largely automatable. While I’d still want to review the contracts and offer suggestions, I’d like the AI to drive the rest: generating tests based on contracts, debugging individual test cases, ensuring consistency between tests and contracts, and writing property-based tests. When a test fails, I’d like the AI to debug and fix trivial issues automatically, only notifying me when there are genuine correctness issues in the contracts or the implementation. Autonomous Performance Optimization: Performance tuning seems ripe for more automation. Much of what I’ve done is repetitive and parallelizable. Projects like AlphaEvolve (or OpenEvolve) show promise in this direction. Ideally, I would suggest potential optimization avenues, and the AI would execute the experiments completely by itself. While current tools handle small bodies of code, applying similar techniques to larger codebases with end-to-end measurement seems feasible. Appendix: Project Status The seed of the project is an elegant design markdown authored by Jay Lorch [4] from Microsoft Research. This design greatly simplifies all the components in multi-Paxos, making it easier to implement and reason about. So far, 2 out of the 3 RSL limitations have been addressed: pipelining and NVM support (Jay integrated the fully verified persistence log for NVM which was published in the PoWER Never Corrupts paper [5] at OSDI 2025). The RDMA support is still TBD. To date, the project has grown to over 130K lines of Rust code, with 1,300+ tests accounting for more than 65% of the codebase.",
         "image": "",
         "source": "zfhuang99.github.io",
-        "stats": "185 points · 203 comments"
+        "stats": "189 points · 205 comments"
       }
     ],
     "2026-05-19": [
@@ -186,17 +204,7 @@
         "description": "In 2024 I quit my FAANG job to become an independent researcher. To do this I needed GPUs, so I built &#8220;grumbl&#8221;, a 6x 6000 Ada GPU server. This blog describes the build, some of the issu…",
         "image": "https://rosmine.ai/wp-content/uploads/2024/06/img_6161.jpg",
         "source": "rosmine.ai",
-        "stats": "554 points · 433 comments"
-      }
-    ],
-    "2026-05-17": [
-      {
-        "url": "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
-        "title": "Autoregressive next token prediction and KV Cache in transformers",
-        "description": "64 points · 0 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
+        "stats": "560 points · 444 comments"
       }
     ]
   }
