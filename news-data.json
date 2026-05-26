@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-25T06:39:28.120Z",
+  "lastUpdated": "2026-05-26T06:11:21.396Z",
   "days": {
-    "2026-05-25": [
+    "2026-05-26": [
       {
-        "url": "https://practice-exam-deploy.vercel.app/",
-        "title": "I passed Claude Certified Architect: here's my notes and a practice exam",
-        "description": "2 points · 0 comments",
+        "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
+        "title": "Notes on Pope Leo XIV's Encyclical on AI",
+        "description": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting …",
         "image": "",
-        "source": "practice-exam-deploy.vercel.app",
-        "stats": ""
+        "source": "simonwillison.net",
+        "stats": "46 points · 6 comments"
       },
       {
-        "url": "https://grith.ai/blog/just-one-more-feature?nop",
-        "title": "AI Makes Adding Features Faster – So Why Not Add Just One More?",
-        "description": "The thing that used to keep side projects honest was time. AI has quietly removed most of it, and what&#x27;s left in its place is a much harder problem: knowing when to stop.",
-        "image": "https://grith.ai/og-image.png",
-        "source": "grith.ai",
-        "stats": "2 points · 2 comments"
+        "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
+        "title": "Crypto code commits fall 75% as developers move to AI projects",
+        "description": "Developers are shifting toward artificial intelligence infrastructure as blockchain ecosystems lose contributors across major networks, from Ethereum to Solana.",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ad827d775b2f3912959ad84f4989bf85084d490d-1918x1080.jpg?auto=format",
+        "source": "coindesk.com",
+        "stats": "5 points · 0 comments"
       },
       {
-        "url": "https://github.com/damien220/code-mapper",
-        "title": "Code-mapper: Free CLI tool to reduce LLM token usage on any codebases",
-        "description": "Generate a compact PROJECT_CONTEXT.md so LLMs understand your codebase in one read — not fifty. - damien220/code-mapper",
-        "image": "https://opengraph.githubassets.com/87acca633ebe0ba7dc296956f23861bd6d03b8dbd7cac92f6c5eb3f55631950a/damien220/code-mapper",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23",
+        "title": "Ollama v0.30.0-rc23: \"directly support llama.cpp\" & \"compatibility with GGUF\"",
+        "description": "This version of Ollama will change the architecture to directly support llama.cpp instead of building on top of GGML, and allows for compatibility with GGUF file format. MLX is used to accelerate m...",
+        "image": "https://opengraph.githubassets.com/4bd09fcdb83822b341cdeb1c1e1cbaf2d0f500b4a964139545e3249374424226/ollama/ollama/releases/tag/v0.30.0-rc23",
         "source": "github.com",
         "stats": "3 points · 0 comments"
       },
       {
-        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf",
-        "title": "Global AI Diffusion: Q1 2026 Trends and Insights [pdf]",
-        "description": "3 points · 1 comments",
-        "image": "",
+        "url": "https://www.microsoft.com/en-us/research/articles/webwright-a-terminal-is-all-you-need-for-web-agents/",
+        "title": "Webwright: A Terminal Is All You Need for Web Agents",
+        "description": "By Yadong Lu1, Lingrui Xu2, Chao Huang2, Ahmed Awadallah11Microsoft Research, 2The University of Hong Kong Instead of solving web tasks by predicting where to click one at a time, we only give the model a terminal where it has the full freedom to spawn browser sessions, and to explore websites through writing code. The final [&hellip;]",
+        "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/diagram1.png",
         "source": "microsoft.com",
-        "stats": ""
+        "stats": "4 points · 0 comments"
       },
       {
-        "url": "https://geerttheys.substack.com/p/i-agent-deterministic-coding-flow",
-        "title": "My AI coding flow was burning tokens to do things code should do",
-        "description": "2 points · 1 comments",
+        "url": "https://www.telegraph.co.uk/news/2026/05/25/schoolboys-ai-girlfriends/",
+        "title": "The terrifying rise of schoolboys making AI girlfriends",
+        "description": "Boys as young as 12 are now in romantic ‘relationships’ with chatbots, and it’s affecting how they treat girls in the real world",
+        "image": "https://www.telegraph.co.uk/content/dam/news/2026/05/22/TELEMMGLPICT000486337092_17794634128810_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+        "source": "telegraph.co.uk",
+        "stats": "3 points · 2 comments"
+      }
+    ],
+    "2026-05-25": [
+      {
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "title": "Using AI to write better code more slowly",
+        "description": "A lot of people seem convinced that the point of AI coding is to write low-quality code as fast as possible. Spew out barely-passable slop, open massive PRs, and merge them unvetted. Ship it! But t…",
+        "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
+        "source": "nolanlawson.com",
+        "stats": "420 points · 159 comments"
+      },
+      {
+        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+        "description": "VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo&#039;s 83-page manifesto on AI, the pope tackles the social, economic and political challenges associated with artificial intelligence.",
+        "image": "https://religionnews.com/wp-content/uploads/2026/05/webRNS-Leo-Encyclical2.jpg",
+        "source": "religionnews.com",
+        "stats": "337 points · 68 comments"
+      },
+      {
+        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "title": "Microsoft Copilot Cowork Exfiltrates Files",
+        "description": "Microsoft Copilot Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of insecure automatic action approvals for sending Emails and Teams messages.",
+        "image": "https://framerusercontent.com/images/Fz2grPJZYphlPnkqBBNJrqqyNs.png?width=6679&amp;height=4694",
+        "source": "promptarmor.com",
+        "stats": "221 points · 46 comments"
+      },
+      {
+        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+        "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+        "description": "Norway’s National Library is developing a large language model (LLM) that understands the Norwegian  ...",
+        "image": "https://image.blocksandfiles.com/5244912.jpg?imageId=5244912&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "blocksandfiles.com",
+        "stats": "228 points · 118 comments"
+      },
+      {
+        "url": "https://support.apple.com/en-us/127115",
+        "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+        "description": "This document describes the security content of macOS Tahoe 26.5.",
         "image": "",
-        "source": "geerttheys.substack.com",
-        "stats": ""
+        "source": "support.apple.com",
+        "stats": "119 points · 52 comments"
       }
     ],
     "2026-05-24": [
@@ -50,7 +92,7 @@
         "description": "Open-source AI coding agent for your terminal. Engineered around DeepSeek",
         "image": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg",
         "source": "esengine.github.io",
-        "stats": "519 points · 217 comments"
+        "stats": "711 points · 274 comments"
       },
       {
         "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
@@ -58,7 +100,7 @@
         "description": "High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI",
         "image": "https://epoch.ai/assets/images/data-insights/ai-chip-component-cost-shares/t-ai-chip-component-cost-shares.png",
         "source": "epoch.ai",
-        "stats": "365 points · 373 comments"
+        "stats": "434 points · 483 comments"
       },
       {
         "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
@@ -66,15 +108,7 @@
         "description": "Somewhere between &#39;ask Claude for a quick opinion&#39; and &#39;Claude is writing our Jira tickets,&#39; we lost the plot. AI agents are brilliant implementers. They&#39;re also confidently wrong about every decision that matters. And when it all falls over, they won&#39;t be the ones carrying the bag.",
         "image": "https://www.hollandtech.net/og/claude-is-not-your-architect.png",
         "source": "hollandtech.net",
-        "stats": "240 points · 174 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-        "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-        "description": "206 points · 2 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "stats": "267 points · 189 comments"
       },
       {
         "url": "https://arxiv.org/abs/2605.06445",
@@ -82,7 +116,15 @@
         "description": "Large Language Model (LLM) agents demonstrate strong performance in autonomous code generation under loose specifications. However, production-grade software requires strict adherence to structural constraints, such as architectural patterns, databases, and object-relational mappings. Existing benchmarks often overlook these non-functional requirements, rewarding functionally correct but structurally arbitrary solutions. We present a systematic study evaluating how well agents handle structural constraints in multi-file backend generation. By fixing a unified API contract across 80 greenfield generation tasks and 20 feature-implementation tasks spanning eight web frameworks, we isolate the effect of structural complexity using a dual evaluation with end-to-end behavioral tests and static verifiers. Our findings reveal a phenomenon of constraint decay: as structural requirements accumulate, agent performance exhibits a substantial decline. Capable configurations lose 30 points on average in assertion pass rates from baseline to fully specified tasks, while some weaker configurations approach zero. Framework sensitivity analysis exposes significant performance disparities: agents succeed in minimal, explicit frameworks (e.g., Flask) but perform substantially worse on average in convention-heavy environments (e.g., FastAPI, Django). Finally, error analysis identifies data-layer defects (e.g., incorrect query composition and ORM runtime violations) as the leading root causes. This work highlights that jointly satisfying functional and structural requirements remains a key open challenge for coding agents.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "215 points · 116 comments"
+        "stats": "279 points · 188 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+        "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+        "description": "209 points · 2 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
       }
     ],
     "2026-05-23": [
@@ -134,31 +176,15 @@
         "description": "The prices listed below are in units of per 1M tokens. A token, the smallest unit of text that the model recognizes, can be a word, a number, or even a punctuation mark. We will bill based on the total number of input and output tokens by the model.",
         "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
         "source": "api-docs.deepseek.com",
-        "stats": "576 points · 514 comments"
+        "stats": "611 points · 543 comments"
       },
       {
-        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-        "title": "Microsoft starts canceling Claude Code licenses",
-        "description": "Thousands of Microsoft developers will use GitHub Copilot CLI instead",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "479 points · 463 comments"
-      },
-      {
-        "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-        "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-        "description": "A practical OpenSCAD LLM benchmark comparing Codex 5.5 High, Claude Sonnet, Claude Opus, Cursor Composer, Google Antigravity, and ModelRift on a detailed Pantheon model.",
-        "image": "https://modelrift.com/og/blog/openscad-llm-benchmark.png",
-        "source": "modelrift.com",
-        "stats": "418 points · 160 comments"
-      },
-      {
-        "url": "https://github.com/superset-sh/superset",
-        "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
-        "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine - superset-sh/superset",
-        "image": "https://opengraph.githubassets.com/0583ad52e6e0115271cc7d64ecf9435ef0974f15bfa5232b6c68bd69c7624225/superset-sh/superset",
-        "source": "github.com",
-        "stats": "105 points · 132 comments"
+        "url": "https://www.netmeister.org/blog/ai-errno.html",
+        "title": "AI errno(2) values",
+        "description": "errno(2) values for the AI age",
+        "image": "",
+        "source": "netmeister.org",
+        "stats": "122 points · 18 comments"
       }
     ],
     "2026-05-21": [
@@ -211,16 +237,6 @@
         "image": "",
         "source": "wsj.com",
         "stats": ""
-      }
-    ],
-    "2026-05-19": [
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-        "title": "Gemini 3.5 Flash",
-        "description": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
-        "source": "blog.google",
-        "stats": "954 points · 654 comments"
       }
     ]
   }
