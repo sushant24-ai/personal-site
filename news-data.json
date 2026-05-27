@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-26T06:11:21.396Z",
+  "lastUpdated": "2026-05-27T06:24:48.911Z",
   "days": {
+    "2026-05-27": [
+      {
+        "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+        "title": "AI tools are only as good as your judgment",
+        "description": "There&#x27;s a quiet anxiety spreading through engineering teams right now: Am I becoming dependent on AI? Is my judgment atrophying? My take: that&#x27;s the wrong…",
+        "image": "",
+        "source": "theaileverageweekly.com",
+        "stats": "78 points · 22 comments"
+      },
+      {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+        "title": "Did the Pope use AI to write about the dangers of AI?",
+        "description": "Analyses have determined that parts of the Magnifica Humanitas appear to have been written by AI.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278118480.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "10 points · 6 comments"
+      },
+      {
+        "url": "https://www.reuters.com/world/asia-pacific/openais-altman-says-ai-unlikely-lead-jobs-apocalypse-2026-05-26/",
+        "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/noah-chelednik/llm-export-analytics",
+        "title": "Open source toolkit to analyze your ChatGPT/Claude usage from exports",
+        "description": "Privacy first toolkit for analyzing your ChatGPT and Claude exports. Model tracking, prompt effectiveness analysis, cost   efficiency metrics (POD/DLOD/POE), topic classification, and industry benc...",
+        "image": "https://opengraph.githubassets.com/8abe6fbb215c19f5b62f9ffec805b69baf69de4a541b574034a1d07d6b9bfcb1/noah-chelednik/llm-export-analytics",
+        "source": "github.com",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+        "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "venturebeat.com",
+        "stats": ""
+      }
+    ],
     "2026-05-26": [
       {
-        "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
-        "title": "Notes on Pope Leo XIV's Encyclical on AI",
-        "description": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting …",
+        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+        "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+        "description": "270 points · 294 comments",
         "image": "",
-        "source": "simonwillison.net",
-        "stats": "46 points · 6 comments"
+        "source": "signalbloom.ai",
+        "stats": ""
       },
       {
-        "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
-        "title": "Crypto code commits fall 75% as developers move to AI projects",
-        "description": "Developers are shifting toward artificial intelligence infrastructure as blockchain ecosystems lose contributors across major networks, from Ethereum to Solana.",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ad827d775b2f3912959ad84f4989bf85084d490d-1918x1080.jpg?auto=format",
-        "source": "coindesk.com",
-        "stats": "5 points · 0 comments"
+        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+        "title": "Uber president says AI spending is getting 'harder to justify'",
+        "description": "﻿There’s no clear connection between AI usage and productivity.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "273 points · 137 comments"
       },
       {
-        "url": "https://github.com/ollama/ollama/releases/tag/v0.30.0-rc23",
-        "title": "Ollama v0.30.0-rc23: \"directly support llama.cpp\" & \"compatibility with GGUF\"",
-        "description": "This version of Ollama will change the architecture to directly support llama.cpp instead of building on top of GGML, and allows for compatibility with GGUF file format. MLX is used to accelerate m...",
-        "image": "https://opengraph.githubassets.com/4bd09fcdb83822b341cdeb1c1e1cbaf2d0f500b4a964139545e3249374424226/ollama/ollama/releases/tag/v0.30.0-rc23",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://arxiv.org/abs/2605.26099",
+        "title": "A sleep-like consolidation mechanism for LLMs",
+        "description": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consolidation mechanism in which a model periodically converts recent context into persistent fast weights before clearing its key-value cache. During sleep, the model performs $N$ offline recurrent passes over the accumulated context and updates the fast weights in its state-space model (SSM) blocks through a learned local rule. During inference, this shifts extra computation to sleep while preserving the latency of wake-time prediction. We test our method on controlled synthetic tasks, including cellular automata and multi-hop graph retrieval, as well as a realistic math reasoning task, on which a regular transformer as well as SSM-attention hybrid models fail. We then show that increasing sleep duration $N$ for our models improves performance, with the largest gains on examples that require deeper reasoning.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "196 points · 132 comments"
       },
       {
-        "url": "https://www.microsoft.com/en-us/research/articles/webwright-a-terminal-is-all-you-need-for-web-agents/",
-        "title": "Webwright: A Terminal Is All You Need for Web Agents",
-        "description": "By Yadong Lu1, Lingrui Xu2, Chao Huang2, Ahmed Awadallah11Microsoft Research, 2The University of Hong Kong Instead of solving web tasks by predicting where to click one at a time, we only give the model a terminal where it has the full freedom to spawn browser sessions, and to explore websites through writing code. The final [&hellip;]",
-        "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/diagram1.png",
-        "source": "microsoft.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+        "title": "The AI bubble isn't like the internet bubble",
+        "description": "72 points · 89 comments",
+        "image": "",
+        "source": "pluralistic.net",
+        "stats": ""
       },
       {
-        "url": "https://www.telegraph.co.uk/news/2026/05/25/schoolboys-ai-girlfriends/",
-        "title": "The terrifying rise of schoolboys making AI girlfriends",
-        "description": "Boys as young as 12 are now in romantic ‘relationships’ with chatbots, and it’s affecting how they treat girls in the real world",
-        "image": "https://www.telegraph.co.uk/content/dam/news/2026/05/22/TELEMMGLPICT000486337092_17794634128810_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-        "source": "telegraph.co.uk",
-        "stats": "3 points · 2 comments"
+        "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+        "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+        "description": "The EAGLE series — including EAGLE 1, EAGLE 2, and EAGLE 3 — has become one of the most widely adopted and practically deployed families of speculative decoding",
+        "image": "https://vllm.ai/og?title=EAGLE%203.1%3A%20Advancing%20Speculative%20Decoding%20Through%20Collaboration%20Between%20the%20EAGLE%20Team%2C%20vLLM%2C%20and%20TorchSpec&amp;authors=EAGLE%20Team%2C%20vLLM%20Team%2C%20and%20TorchSpec%20Team&amp;date=2026-05-26&amp;path=/blog",
+        "source": "vllm.ai",
+        "stats": "65 points · 22 comments"
       }
     ],
     "2026-05-25": [
@@ -50,23 +92,7 @@
         "description": "A lot of people seem convinced that the point of AI coding is to write low-quality code as fast as possible. Spew out barely-passable slop, open massive PRs, and merge them unvetted. Ship it! But t…",
         "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
         "source": "nolanlawson.com",
-        "stats": "420 points · 159 comments"
-      },
-      {
-        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
-        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-        "description": "VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo&#039;s 83-page manifesto on AI, the pope tackles the social, economic and political challenges associated with artificial intelligence.",
-        "image": "https://religionnews.com/wp-content/uploads/2026/05/webRNS-Leo-Encyclical2.jpg",
-        "source": "religionnews.com",
-        "stats": "337 points · 68 comments"
-      },
-      {
-        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "title": "Microsoft Copilot Cowork Exfiltrates Files",
-        "description": "Microsoft Copilot Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of insecure automatic action approvals for sending Emails and Teams messages.",
-        "image": "https://framerusercontent.com/images/Fz2grPJZYphlPnkqBBNJrqqyNs.png?width=6679&amp;height=4694",
-        "source": "promptarmor.com",
-        "stats": "221 points · 46 comments"
+        "stats": "1159 points · 430 comments"
       },
       {
         "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
@@ -74,7 +100,23 @@
         "description": "Norway’s National Library is developing a large language model (LLM) that understands the Norwegian  ...",
         "image": "https://image.blocksandfiles.com/5244912.jpg?imageId=5244912&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "source": "blocksandfiles.com",
-        "stats": "228 points · 118 comments"
+        "stats": "320 points · 202 comments"
+      },
+      {
+        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+        "description": "VATICAN CITY (RNS) — In ‘Magnifica Humanitas,’ Leo&#039;s 83-page manifesto on AI, the pope tackles the social, economic and political challenges associated with artificial intelligence.",
+        "image": "https://religionnews.com/wp-content/uploads/2026/05/webRNS-Leo-Encyclical2.jpg",
+        "source": "religionnews.com",
+        "stats": "344 points · 67 comments"
+      },
+      {
+        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "title": "Microsoft Copilot Cowork Exfiltrates Files",
+        "description": "Microsoft Copilot Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of insecure automatic action approvals for sending Emails and Teams messages.",
+        "image": "https://framerusercontent.com/images/Fz2grPJZYphlPnkqBBNJrqqyNs.png?width=6679&amp;height=4694",
+        "source": "promptarmor.com",
+        "stats": "258 points · 49 comments"
       },
       {
         "url": "https://support.apple.com/en-us/127115",
@@ -82,7 +124,7 @@
         "description": "This document describes the security content of macOS Tahoe 26.5.",
         "image": "",
         "source": "support.apple.com",
-        "stats": "119 points · 52 comments"
+        "stats": "167 points · 98 comments"
       }
     ],
     "2026-05-24": [
@@ -92,91 +134,27 @@
         "description": "Open-source AI coding agent for your terminal. Engineered around DeepSeek",
         "image": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg",
         "source": "esengine.github.io",
-        "stats": "711 points · 274 comments"
-      },
-      {
-        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-        "description": "High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI",
-        "image": "https://epoch.ai/assets/images/data-insights/ai-chip-component-cost-shares/t-ai-chip-component-cost-shares.png",
-        "source": "epoch.ai",
-        "stats": "434 points · 483 comments"
-      },
-      {
-        "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
-        "title": "Claude is not your architect. Stop letting it pretend",
-        "description": "Somewhere between &#39;ask Claude for a quick opinion&#39; and &#39;Claude is writing our Jira tickets,&#39; we lost the plot. AI agents are brilliant implementers. They&#39;re also confidently wrong about every decision that matters. And when it all falls over, they won&#39;t be the ones carrying the bag.",
-        "image": "https://www.hollandtech.net/og/claude-is-not-your-architect.png",
-        "source": "hollandtech.net",
-        "stats": "267 points · 189 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2605.06445",
-        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-        "description": "Large Language Model (LLM) agents demonstrate strong performance in autonomous code generation under loose specifications. However, production-grade software requires strict adherence to structural constraints, such as architectural patterns, databases, and object-relational mappings. Existing benchmarks often overlook these non-functional requirements, rewarding functionally correct but structurally arbitrary solutions. We present a systematic study evaluating how well agents handle structural constraints in multi-file backend generation. By fixing a unified API contract across 80 greenfield generation tasks and 20 feature-implementation tasks spanning eight web frameworks, we isolate the effect of structural complexity using a dual evaluation with end-to-end behavioral tests and static verifiers. Our findings reveal a phenomenon of constraint decay: as structural requirements accumulate, agent performance exhibits a substantial decline. Capable configurations lose 30 points on average in assertion pass rates from baseline to fully specified tasks, while some weaker configurations approach zero. Framework sensitivity analysis exposes significant performance disparities: agents succeed in minimal, explicit frameworks (e.g., Flask) but perform substantially worse on average in convention-heavy environments (e.g., FastAPI, Django). Finally, error analysis identifies data-layer defects (e.g., incorrect query composition and ORM runtime violations) as the leading root causes. This work highlights that jointly satisfying functional and structural requirements remains a key open challenge for coding agents.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "279 points · 188 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-        "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-        "description": "209 points · 2 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "stats": "723 points · 280 comments"
       }
     ],
     "2026-05-23": [
       {
-        "url": "https://horace.io/brrr_intro.html",
-        "title": "Making deep learning go brrrr from first principles (2022)",
-        "description": "188 points · 65 comments",
-        "image": "",
-        "source": "horace.io",
-        "stats": ""
-      },
-      {
-        "url": "https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/",
-        "title": "Iowa to mandate students take Intellectual Freedom classes amid low enrollment",
-        "description": "A last minute Republican legislative push could force University of Iowa college students to take classes at the newly-created Center for Intellectual Freedom. It&#x27;s exactly what a report highlighted was needed to make the center successful.",
-        "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/UBLIUBFCGNETTIVCJCWKXOKTXE.png?auth=5594562f204f7e8c16e8750a4a3abe2877b56b9ebd2f8d8a6998e462036251d6&amp;width=1200&amp;height=600&amp;smart=true",
-        "source": "kcrg.com",
-        "stats": "55 points · 62 comments"
-      },
-      {
-        "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-        "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
-        "description": "But training on &quot;synthetic stories&quot; that model good AI behavior can help.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1155287857-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "32 points · 17 comments"
-      },
-      {
-        "url": "https://www.guru3d.com/story/nvidia-removes-gaming-revenue-category-from-financial-reports/",
-        "title": "Nvidia Removes Gaming Revenue Category from Financial Reports",
-        "description": "A sign of the times? NVIDIA has introduced a major change to its financial reporting structure, removing gaming as a standalone business category and folding it into a broader “Edge Computing” division.",
-        "image": "https://www.guru3d.com/data/themes/Guru3D/images/logo_large.png",
-        "source": "guru3d.com",
-        "stats": "41 points · 10 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=jaYOskvlq18",
-        "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "29 points · 9 comments"
+        "url": "https://www.nature.com/articles/s41592-026-03066-1",
+        "title": "Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms",
+        "description": "MOSAIC is a versatile multimodal microscope that allows seamless transition between various light-sheet, two-photon, label-free and super-resolution modalities. It is demonstrated in various systems ranging from cell culture to mice.",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-026-03066-1/MediaObjects/41592_2026_3066_Fig1_HTML.png",
+        "source": "nature.com",
+        "stats": "52 points · 2 comments"
       }
     ],
     "2026-05-22": [
       {
-        "url": "https://api-docs.deepseek.com/quick_start/pricing",
-        "title": "DeepSeek makes the V4 Pro price discount permanent",
-        "description": "The prices listed below are in units of per 1M tokens. A token, the smallest unit of text that the model recognizes, can be a word, a number, or even a punctuation mark. We will bill based on the total number of input and output tokens by the model.",
-        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
-        "source": "api-docs.deepseek.com",
-        "stats": "611 points · 543 comments"
+        "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+        "title": "Use boring languages with LLMs",
+        "description": "Why coding agents perform better in cohesive ecosystems like Go than fragmented ones like JavaScript or Python",
+        "image": "https://jry.io/writing/use-boring-languages-with-llms/python_environment_2x.png",
+        "source": "jry.io",
+        "stats": "210 points · 152 comments"
       },
       {
         "url": "https://www.netmeister.org/blog/ai-errno.html",
@@ -184,7 +162,7 @@
         "description": "errno(2) values for the AI age",
         "image": "",
         "source": "netmeister.org",
-        "stats": "122 points · 18 comments"
+        "stats": "128 points · 18 comments"
       }
     ],
     "2026-05-21": [
@@ -211,32 +189,6 @@
         "image": "https://runtm.com/og-image.png",
         "source": "runtm.com",
         "stats": "101 points · 30 comments"
-      }
-    ],
-    "2026-05-20": [
-      {
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "description": "1421 points · 1047 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/nottombrown/status/2057194829986300375",
-        "title": "Anthropic is expanding to Colossus2. Will use GB200",
-        "description": "304 points · 348 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
-        "title": "OpenAI Is Preparing to File for an IPO Soon",
-        "description": "200 points · 405 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
       }
     ]
   }
