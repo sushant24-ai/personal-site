@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-28T06:16:48.968Z",
+  "lastUpdated": "2026-05-29T06:18:41.429Z",
   "days": {
+    "2026-05-29": [
+      {
+        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+        "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+        "description": "Why Hy3?",
+        "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
+        "source": "minimaxir.com",
+        "stats": "49 points · 26 comments"
+      },
+      {
+        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+        "title": "Microsoft data suggests using AI is more expensive than hiring people",
+        "description": "43 points · 4 comments",
+        "image": "",
+        "source": "finance.yahoo.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/RasmusGodske/claude-hook-utils",
+        "title": "Python utility package for building Claude Code hooks",
+        "description": "Contribute to RasmusGodske/claude-hook-utils development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/cd5bcf62e762111d38ce52e37fd4dc53d61511506386d44d9316279ddca59fe6/RasmusGodske/claude-hook-utils",
+        "source": "github.com",
+        "stats": "13 points · 1 comments"
+      },
+      {
+        "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+        "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+        "description": "Hook fields that rewrite commands mid-flight, persistent agent memory, auto-mode rules in plain English, self-improving dream loops, and every example is copy-paste ready.",
+        "image": "https://substackcdn.com/image/fetch/$s_!uQxS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde864c42-7eee-46ec-af2d-c111064bc767_1920x1035.png",
+        "source": "buildingbetter.tech",
+        "stats": "14 points · 0 comments"
+      },
+      {
+        "url": "https://www.zot.sh",
+        "title": "Zot now supports Claude Opus 4.8",
+        "description": "A lightweight, single-binary coding agent harness written in Go. Anthropic, OpenAI, Kimi, DeepSeek, Google Gemini, local models, four built-in tools, three run modes, extensions in any language, and a built-in Telegram bridge.",
+        "image": "https://www.zot.sh/og.png",
+        "source": "zot.sh",
+        "stats": "8 points · 0 comments"
+      }
+    ],
     "2026-05-28": [
       {
-        "url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
-        "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub and Why Zig Isn't 1.0 [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "35 points · 0 comments"
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "title": "Claude Opus 4.8",
+        "description": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
+        "source": "anthropic.com",
+        "stats": "1378 points · 1109 comments"
       },
       {
-        "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-        "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill",
-        "description": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-        "image": "https://media.wired.com/photos/6a1769e135f75a644600c4ac/191:100/w_1280,c_limit/Illionois-AI-Safetry-Bill-Business-2270597563.jpg",
-        "source": "wired.com",
-        "stats": "11 points · 6 comments"
+        "url": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "description": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=coral",
+        "source": "anthropic.com",
+        "stats": "317 points · 326 comments"
       },
       {
-        "url": "https://nypost.com/2026/05/22/business/data-center-debacle-roiling-midterms-as-ai-may-have-to-pay/",
-        "title": "AI Is Starting to Hit Power Grid Limits Simple, Crédible, Ouvre La Discussion",
-        "description": "One idea gaining ground among AI optimists is to pay a direct dividend from profits generated by local data centers, either to individuals or to invest in city projects.",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/NYNEXT-DIGITAL.jpg?quality=75&#038;strip=all&#038;w=1200",
-        "source": "nypost.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://lenz.io/research/llm-disagreement",
+        "title": "Disagreement among frontier LLMs on real-world fact-checks",
+        "description": "67% of real-world claims expose disagreement among the five top frontier LLMs. Methodology, breakdowns, and data CSV.",
+        "image": "https://lenz.io/research/llm-disagreement/og.png",
+        "source": "lenz.io",
+        "stats": "486 points · 341 comments"
       },
       {
-        "url": "https://github.com/nova-studios-hw/novagpu-ts1t",
-        "title": "NovaGPU – An open-source GPU architecture written in Verilog",
-        "description": "N.E.O.N. Architecture — Open source GPU RTL in Verilog. Token dataflow, hardware ray tracing, frame generation. First silicon target: 28nm. - nova-studios-hw/novagpu-ts1t",
-        "image": "https://opengraph.githubassets.com/656e639c51d69380a00f61465cd02e27b0c30dc29769248df98b835751c45e58/nova-studios-hw/novagpu-ts1t",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://shvbsle.in/various-llm-smells/",
+        "title": "Various LLM Smells",
+        "description": "Looks like this ended up on the HN front-page: HN Thread\r\n\r\n\nLate last year I started writing a math blog and decided to use LLMs to polish/enhance my writin...",
+        "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
+        "source": "shvbsle.in",
+        "stats": "272 points · 208 comments"
       },
       {
-        "url": "https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/",
-        "title": "Rust Will Save Linux from AI, Says Greg Kroah-Hartman",
-        "description": "Now that doesn&apos;t mean Linux stable kernel maintainer Greg Kroah-Hartman thinks Rust is magic.",
-        "image": "https://www.zdnet.com/a/img/resize/2e6df36326558f75c81432320859e630f36dd5ec/2026/05/27/37afd1be-e6d8-40cf-9db9-48fe3fa3fd11/greg-kh-rust-22more-fun-for-maintainers22-and-22more-secure-linux-for-users-22.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-        "source": "zdnet.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://llmgame.scalex.dev",
+        "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "description": "A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?",
+        "image": "https://llmgame.scalex.dev/continuegame.png",
+        "source": "llmgame.scalex.dev",
+        "stats": "285 points · 119 comments"
       }
     ],
     "2026-05-27": [
@@ -50,7 +92,7 @@
         "description": "I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was",
         "image": "",
         "source": "orchidfiles.com",
-        "stats": "1881 points · 902 comments"
+        "stats": "1971 points · 939 comments"
       },
       {
         "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
@@ -58,7 +100,7 @@
         "description": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "774 points · 927 comments"
+        "stats": "1076 points · 1206 comments"
       },
       {
         "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
@@ -66,7 +108,7 @@
         "description": "We&#x27;ve heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
         "source": "blog.youtube",
-        "stats": "729 points · 424 comments"
+        "stats": "1282 points · 780 comments"
       },
       {
         "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
@@ -74,7 +116,7 @@
         "description": "People just want a choice.",
         "image": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
         "source": "pcgamer.com",
-        "stats": "772 points · 371 comments"
+        "stats": "1050 points · 511 comments"
       },
       {
         "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
@@ -82,49 +124,25 @@
         "description": "&quot;CEOs are uniquely prone to AI psychosis,&quot; Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
         "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
         "source": "techcrunch.com",
-        "stats": "630 points · 313 comments"
+        "stats": "710 points · 350 comments"
       }
     ],
     "2026-05-26": [
       {
         "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
         "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-        "description": "315 points · 360 comments",
+        "description": "321 points · 365 comments",
         "image": "",
         "source": "signalbloom.ai",
         "stats": ""
       },
       {
-        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-        "title": "Uber president says AI spending is getting 'harder to justify'",
-        "description": "﻿There’s no clear connection between AI usage and productivity.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "303 points · 157 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2605.26099",
-        "title": "A sleep-like consolidation mechanism for LLMs",
-        "description": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consolidation mechanism in which a model periodically converts recent context into persistent fast weights before clearing its key-value cache. During sleep, the model performs $N$ offline recurrent passes over the accumulated context and updates the fast weights in its state-space model (SSM) blocks through a learned local rule. During inference, this shifts extra computation to sleep while preserving the latency of wake-time prediction. We test our method on controlled synthetic tasks, including cellular automata and multi-hop graph retrieval, as well as a realistic math reasoning task, on which a regular transformer as well as SSM-attention hybrid models fail. We then show that increasing sleep duration $N$ for our models improves performance, with the largest gains on examples that require deeper reasoning.",
+        "url": "https://arxiv.org/abs/2510.04950",
+        "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+        "description": "The wording of natural language prompts has been shown to influence the performance of large language models (LLMs), yet the role of politeness and tone remains underexplored. In this study, we investigate how varying levels of prompt politeness affect model accuracy on multiple-choice questions. We created a dataset of 50 base questions spanning mathematics, science, and history, each rewritten into five tone variants: Very Polite, Polite, Neutral, Rude, and Very Rude, yielding 250 unique prompts. Using ChatGPT 4o, we evaluated responses across these conditions and applied paired sample t-tests to assess statistical significance. Contrary to expectations, impolite prompts consistently outperformed polite ones, with accuracy ranging from 80.8% for Very Polite prompts to 84.8% for Very Rude prompts. These findings differ from earlier studies that associated rudeness with poorer outcomes, suggesting that newer LLMs may respond differently to tonal variation. Our results highlight the importance of studying pragmatic aspects of prompting and raise broader questions about the social dimensions of human-AI interaction.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "210 points · 139 comments"
-      },
-      {
-        "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
-        "title": "The AI bubble isn't like the internet bubble",
-        "description": "77 points · 91 comments",
-        "image": "",
-        "source": "pluralistic.net",
-        "stats": ""
-      },
-      {
-        "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-        "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-        "description": "The EAGLE series — including EAGLE 1, EAGLE 2, and EAGLE 3 — has become one of the most widely adopted and practically deployed families of speculative decoding",
-        "image": "https://vllm.ai/og?title=EAGLE%203.1%3A%20Advancing%20Speculative%20Decoding%20Through%20Collaboration%20Between%20the%20EAGLE%20Team%2C%20vLLM%2C%20and%20TorchSpec&amp;authors=EAGLE%20Team%2C%20vLLM%20Team%2C%20and%20TorchSpec%20Team&amp;date=2026-05-26&amp;path=/blog",
-        "source": "vllm.ai",
-        "stats": "69 points · 23 comments"
+        "stats": "140 points · 189 comments"
       }
     ],
     "2026-05-25": [
@@ -134,7 +152,7 @@
         "description": "A lot of people seem convinced that the point of AI coding is to write low-quality code as fast as possible. Spew out barely-passable slop, open massive PRs, and merge them unvetted. Ship it! But t…",
         "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
         "source": "nolanlawson.com",
-        "stats": "1222 points · 445 comments"
+        "stats": "1237 points · 446 comments"
       },
       {
         "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
@@ -142,7 +160,7 @@
         "description": "Three small problems pile up between the Windows clipboard and Claude Code. Each one is harmless alone. Together they make image paste fail completely. Here’s what’s happening and how to fix it.",
         "image": "",
         "source": "rajveerbachkaniwala.com",
-        "stats": "47 points · 51 comments"
+        "stats": "54 points · 84 comments"
       }
     ],
     "2026-05-24": [
@@ -163,24 +181,6 @@
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-026-03066-1/MediaObjects/41592_2026_3066_Fig1_HTML.png",
         "source": "nature.com",
         "stats": "52 points · 2 comments"
-      }
-    ],
-    "2026-05-22": [
-      {
-        "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-        "title": "Use boring languages with LLMs",
-        "description": "Why coding agents perform better in cohesive ecosystems like Go than fragmented ones like JavaScript or Python",
-        "image": "https://jry.io/writing/use-boring-languages-with-llms/python_environment_2x.png",
-        "source": "jry.io",
-        "stats": "210 points · 152 comments"
-      },
-      {
-        "url": "https://www.netmeister.org/blog/ai-errno.html",
-        "title": "AI errno(2) values",
-        "description": "errno(2) values for the AI age",
-        "image": "",
-        "source": "netmeister.org",
-        "stats": "128 points · 18 comments"
       }
     ]
   }
