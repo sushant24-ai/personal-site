@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-29T06:18:41.429Z",
+  "lastUpdated": "2026-05-30T05:51:43.731Z",
   "days": {
-    "2026-05-29": [
+    "2026-05-30": [
       {
-        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-        "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "description": "Why Hy3?",
-        "image": "https://minimaxir.com/2026/05/openrouter-hy3/featured.png",
-        "source": "minimaxir.com",
-        "stats": "49 points · 26 comments"
+        "url": "https://github.com/vinhnx/VTCode",
+        "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
+        "description": "VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management. - vinhnx...",
+        "image": "https://repository-images.githubusercontent.com/1046809510/ac380ab3-c9dc-48af-a387-089274686386",
+        "source": "github.com",
+        "stats": "9 points · 4 comments"
       },
       {
-        "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
-        "title": "Microsoft data suggests using AI is more expensive than hiring people",
-        "description": "43 points · 4 comments",
+        "url": "https://www.reuters.com/legal/government/us-judiciary-asked-adopt-rule-curb-fake-ai-generated-cases-filings-2026-05-29/",
+        "title": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings",
+        "description": "6 points · 0 comments",
         "image": "",
-        "source": "finance.yahoo.com",
+        "source": "reuters.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/RasmusGodske/claude-hook-utils",
-        "title": "Python utility package for building Claude Code hooks",
-        "description": "Contribute to RasmusGodske/claude-hook-utils development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/cd5bcf62e762111d38ce52e37fd4dc53d61511506386d44d9316279ddca59fe6/RasmusGodske/claude-hook-utils",
-        "source": "github.com",
-        "stats": "13 points · 1 comments"
+        "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
+        "title": "The Biggest Tell That Something Was Written by AI",
+        "description": "Look closely and you’ll see that every part of the text is not quite right.",
+        "image": "https://cdn.theatlantic.com/thumbor/KnZwtS1AM5wiLfqgdZjrIP8_hfc=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_05_28_Fairbanks_written_by_AI_final/original.gif",
+        "source": "theatlantic.com",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+        "title": "DeepSWE blows up AI coding leaderboard, crowns GPT-5.5, + ClaudeOpus loophole",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "venturebeat.com",
+        "stats": ""
+      },
+      {
+        "url": "https://angrystaffofficer.com/2026/05/28/what-a-98-year-old-childrens-book-teaches-us-about-ai/",
+        "title": "What a 98-Year Old Children's Book Teaches Us About AI",
+        "description": "Regular readers of this blog will know that I&#8217;m a big fan of using fiction as a lens through which to view the world &#8211; some might say, to my detriment. But we do not listen to those nay…",
+        "image": "https://angrystaffofficer.com/wp-content/uploads/2018/07/cropped-aso-2-2.png?w=200",
+        "source": "angrystaffofficer.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
+    "2026-05-29": [
+      {
+        "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+        "title": "Please Use AI",
+        "description": "726 points · 379 comments",
+        "image": "",
+        "source": "shawnsmucker.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "title": "Notes from the Mistral AI Now Summit",
+        "description": "A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.",
+        "image": "https://koenvangilst.nl/og?title=Notes%20from%20the%20AI%20Now%20Summit%20by%20Mistral&amp;description=A%20few%20days%20in%20Paris%20for%20the%20Mistral%20AI%20Now%20Summit%3A%20open%20models%2C%20on-prem%20deployment%2C%20agentic%20harnesses%2C%20and%20why%20Mistral%20wants%20to%20be%20the%20European%20full-stack%20AI%20partner.&amp;type=blog",
+        "source": "koenvangilst.nl",
+        "stats": "331 points · 122 comments"
+      },
+      {
+        "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+        "title": "Is AI causing a repeat of frontend’s lost decade?",
+        "description": "AI is doing to programming what framework-brain did to the frontend before. Deskilling, or just working at a higher level of abstraction?",
+        "image": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png",
+        "source": "mastrojs.github.io",
+        "stats": "314 points · 270 comments"
       },
       {
         "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-        "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+        "title": "Claude Code – Everything you can configure that the docs don't tell you",
         "description": "Hook fields that rewrite commands mid-flight, persistent agent memory, auto-mode rules in plain English, self-improving dream loops, and every example is copy-paste ready.",
         "image": "https://substackcdn.com/image/fetch/$s_!uQxS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde864c42-7eee-46ec-af2d-c111064bc767_1920x1035.png",
         "source": "buildingbetter.tech",
-        "stats": "14 points · 0 comments"
+        "stats": "324 points · 63 comments"
       },
       {
-        "url": "https://www.zot.sh",
-        "title": "Zot now supports Claude Opus 4.8",
-        "description": "A lightweight, single-binary coding agent harness written in Go. Anthropic, OpenAI, Kimi, DeepSeek, Google Gemini, local models, four built-in tools, three run modes, extensions in any language, and a built-in Telegram bridge.",
-        "image": "https://www.zot.sh/og.png",
-        "source": "zot.sh",
-        "stats": "8 points · 0 comments"
+        "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+        "title": "MCP is dead?",
+        "description": "150 points · 139 comments",
+        "image": "https://cdn.prod.website-files.com/668aa55ff9fc77f31f6cc2f0/6a0f2926a73de3ec41126467_post%20image%20b.webp",
+        "source": "quandri.io",
+        "stats": ""
       }
     ],
     "2026-05-28": [
@@ -50,7 +92,7 @@
         "description": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
         "source": "anthropic.com",
-        "stats": "1378 points · 1109 comments"
+        "stats": "1732 points · 1349 comments"
       },
       {
         "url": "https://www.anthropic.com/news/series-h",
@@ -58,7 +100,7 @@
         "description": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=coral",
         "source": "anthropic.com",
-        "stats": "317 points · 326 comments"
+        "stats": "359 points · 414 comments"
       },
       {
         "url": "https://lenz.io/research/llm-disagreement",
@@ -66,7 +108,7 @@
         "description": "67% of real-world claims expose disagreement among the five top frontier LLMs. Methodology, breakdowns, and data CSV.",
         "image": "https://lenz.io/research/llm-disagreement/og.png",
         "source": "lenz.io",
-        "stats": "486 points · 341 comments"
+        "stats": "503 points · 345 comments"
       },
       {
         "url": "https://shvbsle.in/various-llm-smells/",
@@ -74,75 +116,51 @@
         "description": "Looks like this ended up on the HN front-page: HN Thread\r\n\r\n\nLate last year I started writing a math blog and decided to use LLMs to polish/enhance my writin...",
         "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
         "source": "shvbsle.in",
-        "stats": "272 points · 208 comments"
+        "stats": "355 points · 283 comments"
       },
       {
         "url": "https://llmgame.scalex.dev",
         "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-        "description": "A 30-second game about LLM permission fatigue. How carefully do you really read AI commands?",
+        "description": "A 60-second game about LLM permission fatigue. How carefully do you really read AI commands?",
         "image": "https://llmgame.scalex.dev/continuegame.png",
         "source": "llmgame.scalex.dev",
-        "stats": "285 points · 119 comments"
+        "stats": "375 points · 153 comments"
       }
     ],
     "2026-05-27": [
-      {
-        "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-        "title": "I'm Tired of Talking to AI",
-        "description": "I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was",
-        "image": "",
-        "source": "orchidfiles.com",
-        "stats": "1971 points · 939 comments"
-      },
-      {
-        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-        "title": "I think Anthropic and OpenAI have found product-market fit",
-        "description": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by …",
-        "image": "",
-        "source": "simonwillison.net",
-        "stats": "1076 points · 1206 comments"
-      },
       {
         "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
         "title": "YouTube to automatically label AI-generated videos",
         "description": "We&#x27;ve heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
         "source": "blog.youtube",
-        "stats": "1282 points · 780 comments"
+        "stats": "1307 points · 817 comments"
       },
       {
-        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-        "description": "People just want a choice.",
-        "image": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
-        "source": "pcgamer.com",
-        "stats": "1050 points · 511 comments"
-      },
-      {
-        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-        "title": "Tech CEOs are apparently suffering from AI psychosis",
-        "description": "&quot;CEOs are uniquely prone to AI psychosis,&quot; Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-        "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
-        "source": "techcrunch.com",
-        "stats": "710 points · 350 comments"
+        "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+        "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+        "description": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+        "image": "https://www.tensorzero.com/tensorzero-1200x630.png?1773958245",
+        "source": "tensorzero.com",
+        "stats": "33 points · 8 comments"
       }
     ],
     "2026-05-26": [
-      {
-        "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-        "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-        "description": "321 points · 365 comments",
-        "image": "",
-        "source": "signalbloom.ai",
-        "stats": ""
-      },
       {
         "url": "https://arxiv.org/abs/2510.04950",
         "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
         "description": "The wording of natural language prompts has been shown to influence the performance of large language models (LLMs), yet the role of politeness and tone remains underexplored. In this study, we investigate how varying levels of prompt politeness affect model accuracy on multiple-choice questions. We created a dataset of 50 base questions spanning mathematics, science, and history, each rewritten into five tone variants: Very Polite, Polite, Neutral, Rude, and Very Rude, yielding 250 unique prompts. Using ChatGPT 4o, we evaluated responses across these conditions and applied paired sample t-tests to assess statistical significance. Contrary to expectations, impolite prompts consistently outperformed polite ones, with accuracy ranging from 80.8% for Very Polite prompts to 84.8% for Very Rude prompts. These findings differ from earlier studies that associated rudeness with poorer outcomes, suggesting that newer LLMs may respond differently to tonal variation. Our results highlight the importance of studying pragmatic aspects of prompting and raise broader questions about the social dimensions of human-AI interaction.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "140 points · 189 comments"
+        "stats": "148 points · 206 comments"
+      },
+      {
+        "url": "https://blog.cloudflare.com/ai-code-review/",
+        "title": "Orchestrating AI code review at scale",
+        "description": "Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code.\n",
+        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
+        "source": "blog.cloudflare.com",
+        "stats": "135 points · 52 comments"
       }
     ],
     "2026-05-25": [
@@ -171,16 +189,6 @@
         "image": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg",
         "source": "esengine.github.io",
         "stats": "723 points · 280 comments"
-      }
-    ],
-    "2026-05-23": [
-      {
-        "url": "https://www.nature.com/articles/s41592-026-03066-1",
-        "title": "Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms",
-        "description": "MOSAIC is a versatile multimodal microscope that allows seamless transition between various light-sheet, two-photon, label-free and super-resolution modalities. It is demonstrated in various systems ranging from cell culture to mice.",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-026-03066-1/MediaObjects/41592_2026_3066_Fig1_HTML.png",
-        "source": "nature.com",
-        "stats": "52 points · 2 comments"
       }
     ]
   }
