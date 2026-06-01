@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-05-31T06:23:46.273Z",
+  "lastUpdated": "2026-06-01T07:03:51.314Z",
   "days": {
+    "2026-06-01": [
+      {
+        "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+        "title": "Nvidia RTX Spark",
+        "description": "The fusion of NVIDIA AI and RTX graphics.",
+        "image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/products/rtx-spark/nvidia-rtx-spark-og-1200x630.jpg",
+        "source": "nvidia.com",
+        "stats": "54 points · 39 comments"
+      },
+      {
+        "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+        "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+        "description": "This briefing examines how standalone generative AI systems, based on unlawful web scraping, are in conflict with international human rights law (IHRL) and standards through their design, development and deployment. While these technologies promise sophisticated automation and efficiency, they rely on data collection and model training practices that abuse privacy rights, enable discrimination, and threaten [&hellip;]",
+        "image": "https://www.amnesty.org/en/documents/pol40/0996/2026/en",
+        "source": "amnesty.org",
+        "stats": "24 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/pssah4/vault-operator",
+        "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
+        "description": "Real AI agent for your vault. Coworker, Copilot &amp;amp; thinking partner, that maintains your memory &amp;amp; knowledge, adapts to your workflows, uses plugins, skills &amp;amp; tools with full safety contr...",
+        "image": "https://opengraph.githubassets.com/80fc6de1c60c1af7f2ec911f5f7fe35cc99d5f091b2f3252cb36dba8ffeff6d7/pssah4/vault-operator",
+        "source": "github.com",
+        "stats": "16 points · 5 comments"
+      },
+      {
+        "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+        "title": "Nvidia Announces RTX Spark",
+        "description": "Nvidia enters the consumer laptop realm.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spark.jpg?quality=90&amp;strip=all&amp;crop=13.2,23.707517114377,86.8,58.222136995036",
+        "source": "theverge.com",
+        "stats": "7 points · 0 comments"
+      },
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+        "title": "Nvidia and Microsoft Reinvent Windows PCs for the Age of Personal AI",
+        "description": "NVIDIA today unveiled NVIDIA RTX Spark™, a new superchip that reinvents Windows PCs for the era of personal AI agents — offering a new class of computer that moves from tool to teammate.",
+        "image": "https://iprsoftwaremedia.com/219/files/202605/154ea89a7177c7d568f2f4916c7fd53a/6a1c9d873d6332761e1d64a8_nvidia-rtx-spark/nvidia-rtx-spark_597f009e-8bc6-4bfb-bdf4-04317ae69806-prv.png",
+        "source": "nvidianews.nvidia.com",
+        "stats": "7 points · 0 comments"
+      }
+    ],
     "2026-05-31": [
       {
-        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-        "title": "AI grifters are creating fake Black people to sell Shein junk",
-        "description": "﻿Can race, guilt, and empathy get you to pay $40 for this $9 belt buckle on TikTok?",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268550_Crying_AI_avatars_AParkin_2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "35 points · 5 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "title": "We contain Claude across products",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/82d2262129af025d98a46411fbd42ee970a95cb4-2400x1260.heif",
-        "source": "anthropic.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://snapname.app",
-        "title": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
-        "description": "SnapName watches your screenshot folder and uses local AI to suggest useful filenames on your Mac.",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "description": "359 points · 127 comments",
         "image": "",
-        "source": "snapname.app",
-        "stats": "6 points · 3 comments"
+        "source": "prismml.com",
+        "stats": ""
       },
       {
-        "url": "https://omp.sh/",
-        "title": "OMP – pi agent with batteries included and a coding agent with the IDE wired in",
-        "description": "Subagents, plan mode, LSP, DAP, hindsight memory, hashline edits, time-traveling rules — with a native Rust engine doing the heavy lifting.",
-        "image": "https://omp.sh/og-image.png",
-        "source": "omp.sh",
-        "stats": "4 points · 0 comments"
+        "url": "https://thoughts.hmmz.org/2026-05-31.html",
+        "title": "The solution might be cancelling my AI subscription",
+        "description": "353 points · 225 comments",
+        "image": "",
+        "source": "thoughts.hmmz.org",
+        "stats": ""
       },
       {
-        "url": "https://github.com/anhonestboy/agentflow",
-        "title": "I'm a photographer. I built a DSL for multi-agent workflows",
-        "description": "Declarative language for multi-agent AI workflows. Compose .aflow files → MCP tools in Claude Code. No integration code. - anhonestboy/agentflow",
-        "image": "https://opengraph.githubassets.com/d33113c4068c581f2b7bac689b2623aee8c2f9bac4ab63ab0a58bc12e9c0bb49/anhonestboy/agentflow",
+        "url": "https://blog.tymscar.com/posts/v100localllm/",
+        "title": "I put a datacenter GPU in my gaming PC",
+        "description": "I bought a datacenter GPU that doesn",
+        "image": "https://blog.tymscar.com/V100-gpu-llm/front_of_v100_sxm2.jpg",
+        "source": "blog.tymscar.com",
+        "stats": "296 points · 169 comments"
+      },
+      {
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+        "description": "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing overlay attacks that affect workbooks across the victim’s account after an indirect prompt injection in a single sheet.",
+        "image": "https://framerusercontent.com/images/eJKU8yDyAKTNNHfYvQqWDm5e25s.png?width=6679&amp;height=4516",
+        "source": "promptarmor.com",
+        "stats": "179 points · 52 comments"
+      },
+      {
+        "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+        "title": "Odysseus – self-hosted AI workspace",
+        "description": "Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/ec53819d4c74cbce46eaa026de4ef98aa33a7b7cda48c28dd497d770e915006e/pewdiepie-archdaemon/odysseus",
         "source": "github.com",
-        "stats": "3 points · 0 comments"
+        "stats": "156 points · 75 comments"
       }
     ],
     "2026-05-30": [
@@ -50,12 +92,20 @@
         "description": "Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.",
         "image": "https://img.inform.kz/kazinform-photobank/media/2026-05-30/028a6a1d-84cb-4144-9a81-6a92c7d12cbf.jpeg",
         "source": "qazinform.com",
-        "stats": "400 points · 456 comments"
+        "stats": "418 points · 469 comments"
+      },
+      {
+        "url": "https://jackmaguire.org/blog/ai-job-grief/",
+        "title": "AI job grief: A psychological crisis hitting tech workers",
+        "description": "Across hundreds of Reddit threads and a small body of clinical literature, AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.",
+        "image": "https://jackmaguire.org/og-ai-job-grief.png",
+        "source": "jackmaguire.org",
+        "stats": "191 points · 193 comments"
       },
       {
         "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
         "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-        "description": "158 points · 152 comments",
+        "description": "182 points · 171 comments",
         "image": "",
         "source": "wsj.com",
         "stats": ""
@@ -66,15 +116,7 @@
         "description": "I know the technology, I understand what it&#39;s doing and I know the impact, so I am vehemently anti-AI.  I do not believe any positive out...",
         "image": "https://musings.martyn.berlin/img/avatars/m.png",
         "source": "musings.martyn.berlin",
-        "stats": "129 points · 280 comments"
-      },
-      {
-        "url": "https://jackmaguire.org/blog/ai-job-grief/",
-        "title": "AI job grief: A psychological crisis hitting tech workers",
-        "description": "Across hundreds of Reddit threads and a small body of clinical literature, AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.",
-        "image": "https://jackmaguire.org/og-ai-job-grief.png",
-        "source": "jackmaguire.org",
-        "stats": "139 points · 133 comments"
+        "stats": "142 points · 310 comments"
       },
       {
         "url": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
@@ -82,49 +124,49 @@
         "description": "So my systems recently updated to rsync 3.4.3, and as soon as that happened my backup system - which does incremental backups using multiple --compare-dest= arguments - started to fail on anything but a full backup.\n\nRevert to 3.4.1 and it works.\n\nSo I go look at the source in GitHub to see what might have changed, because there doesn&#39;t seem to be anything relevant in the changelog.\n\nSince 3.4.1,  36 commits by &quot;tridge and claude&quot;\n\nOh for fuck&#39;s sakes.",
         "image": "",
         "source": "mastodon.gamedev.place",
-        "stats": "97 points · 62 comments"
+        "stats": "115 points · 80 comments"
       }
     ],
     "2026-05-29": [
       {
-        "url": "https://shawnsmucker.substack.com/p/please-use-ai",
-        "title": "Please Use AI",
-        "description": "769 points · 390 comments",
-        "image": "",
-        "source": "shawnsmucker.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-        "title": "MCP is dead?",
-        "description": "386 points · 374 comments",
-        "image": "https://cdn.prod.website-files.com/668aa55ff9fc77f31f6cc2f0/6a0f2926a73de3ec41126467_post%20image%20b.webp",
-        "source": "quandri.io",
-        "stats": ""
-      },
-      {
         "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
         "title": "Notes from the Mistral AI Now Summit",
         "description": "A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.",
-        "image": "https://koenvangilst.nl/og?title=Notes%20from%20the%20AI%20Now%20Summit%20by%20Mistral&amp;description=A%20few%20days%20in%20Paris%20for%20the%20Mistral%20AI%20Now%20Summit%3A%20open%20models%2C%20on-prem%20deployment%2C%20agentic%20harnesses%2C%20and%20why%20Mistral%20wants%20to%20be%20the%20European%20full-stack%20AI%20partner.&amp;type=blog",
+        "image": "https://koenvangilst.nl/og/mistral-ai-now-summit.png",
         "source": "koenvangilst.nl",
-        "stats": "455 points · 199 comments"
+        "stats": "464 points · 210 comments"
       },
       {
-        "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-        "title": "Is AI causing a repeat of frontend’s lost decade?",
-        "description": "AI is doing to programming what framework-brain did to the frontend before. Deskilling, or just working at a higher level of abstraction?",
-        "image": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png",
-        "source": "mastrojs.github.io",
-        "stats": "399 points · 328 comments"
+        "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+        "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+        "description": "Today, Kog AI launches a tech preview of the Kog Inference Engine (KIE): 3,000 output tokens/s per request on 8× AMD MI300X GPUs and 2,100 on 8× NVIDIA H200 (FP16, no speculative decoding). This preview runs a 2B model, with support for large third-party MoE models coming next at similar speeds.",
+        "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
+        "source": "blog.kog.ai",
+        "stats": "217 points · 95 comments"
       },
       {
-        "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-        "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-        "description": "Today, we’re releasing LFM2.5-8B-A1B, a high-throughput edge model optimized for fast, reliable tool calling and complex instruction following on consumer hardware, delivering compressed performance competitive with much larger models and day-one support across major inference frameworks.",
-        "image": "https://cdn.prod.website-files.com/67cb8aa6e9184b6e44813189/6a17874a7db7a603d7eb3627_lfm2_5_8b_a1b_benchmarks.png",
-        "source": "liquid.ai",
-        "stats": "241 points · 94 comments"
+        "url": "https://github.com/jmaczan/tiny-vllm",
+        "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+        "description": "Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM - jmaczan/tiny-vllm",
+        "image": "https://opengraph.githubassets.com/b1134431ef11a631b647e6c1c0c411af99ed8d3e0a35adc7ccdd4d9c0e5b7371/jmaczan/tiny-vllm",
+        "source": "github.com",
+        "stats": "195 points · 17 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+        "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+        "description": "148 points · 205 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+        "title": "Expertise in the age of AI",
+        "description": "125 points · 108 comments",
+        "image": "",
+        "source": "moderndescartes.com",
+        "stats": ""
       }
     ],
     "2026-05-28": [
@@ -134,7 +176,7 @@
         "description": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
         "source": "anthropic.com",
-        "stats": "1745 points · 1361 comments"
+        "stats": "1758 points · 1364 comments"
       },
       {
         "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
@@ -142,7 +184,7 @@
         "description": "Dynamic workflows in Claude Code let Claude tackle the most challenging tasks by executing across 10s to 100s of parallel subagents, and checking its work before anything reaches you.",
         "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
         "source": "claude.com",
-        "stats": "187 points · 131 comments"
+        "stats": "192 points · 131 comments"
       },
       {
         "url": "https://openenvelope.org/docs/schema/",
@@ -150,7 +192,7 @@
         "description": "Set up AI agents for your whole team. No code, no engineers, no setup headaches. Envelope builds agents around the tools and workflows your team already uses.",
         "image": "https://openenvelope.org/og-image.png",
         "source": "openenvelope.org",
-        "stats": "40 points · 4 comments"
+        "stats": "46 points · 8 comments"
       }
     ],
     "2026-05-27": [
@@ -160,7 +202,7 @@
         "description": "We&#x27;ve heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
         "source": "blog.youtube",
-        "stats": "1311 points · 819 comments"
+        "stats": "1315 points · 820 comments"
       }
     ],
     "2026-05-26": [
@@ -179,24 +221,6 @@
         "image": "",
         "source": "asawicki.info",
         "stats": ""
-      }
-    ],
-    "2026-05-25": [
-      {
-        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-        "title": "Using AI to write better code more slowly",
-        "description": "A lot of people seem convinced that the point of AI coding is to write low-quality code as fast as possible. Spew out barely-passable slop, open massive PRs, and merge them unvetted. Ship it! But t…",
-        "image": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
-        "source": "nolanlawson.com",
-        "stats": "1237 points · 446 comments"
-      },
-      {
-        "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
-        "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-        "description": "Three small problems pile up between the Windows clipboard and Claude Code. Each one is harmless alone. Together they make image paste fail completely. Here’s what’s happening and how to fix it.",
-        "image": "",
-        "source": "rajveerbachkaniwala.com",
-        "stats": "54 points · 84 comments"
       }
     ]
   }
