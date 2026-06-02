@@ -1,61 +1,111 @@
 {
-  "lastUpdated": "2026-06-01T07:03:51.314Z",
+  "lastUpdated": "2026-06-02T06:45:45.591Z",
   "days": {
+    "2026-06-02": [
+      {
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826",
+        "title": "Angry devs vow to flee GitHub Copilot as metered billing takes hold",
+        "description": "16 points · 6 comments",
+        "image": "https://image.theregister.com/5249860.jpg?imageId=5249860&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
+        "description": "Some report burning through their whole monthly &quot;AI credit&quot; allotment in a single day.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "11 points · 2 comments"
+      },
+      {
+        "url": "https://variety.com/2026/biz/tech/florida-sues-openai-sam-altman-1236764066/",
+        "title": "Florida Sues OpenAI, Sam Altman: 'Utter Disregard for the Risk to Human Life'",
+        "description": "Florida is the first to sue OpenAI, maker of ChatGPT, over safety issues.",
+        "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2265992523.jpg?w=1000&#038;h=563&#038;crop=1",
+        "source": "variety.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/",
+        "title": "Mellum2 Goes Open Source: A Fast Model for AI Workflows",
+        "description": "Trained from scratch and designed for practical deployment, Mellum2 is built for routing, Q&amp;A, sub-agents, and private AI use in software engineering systems. Today, we’re open-sourcing Mellum2",
+        "image": "https://blog.jetbrains.com/wp-content/uploads/2026/05/Blog-Social-share-1280x720-1.png",
+        "source": "blog.jetbrains.com",
+        "stats": "7 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48366380",
+        "title": "I'm Done Using AI",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-06-01": [
       {
-        "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-        "title": "Nvidia RTX Spark",
-        "description": "The fusion of NVIDIA AI and RTX graphics.",
-        "image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/products/rtx-spark/nvidia-rtx-spark-og-1200x630.jpg",
-        "source": "nvidia.com",
-        "stats": "54 points · 39 comments"
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "title": "Anthropic confidentially submits draft S-1 to the SEC",
+        "description": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "anthropic.com",
+        "stats": "477 points · 385 comments"
       },
       {
-        "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
-        "title": "Unlawful by design: Exposing the human rights costs of generative AI",
-        "description": "This briefing examines how standalone generative AI systems, based on unlawful web scraping, are in conflict with international human rights law (IHRL) and standards through their design, development and deployment. While these technologies promise sophisticated automation and efficiency, they rely on data collection and model training practices that abuse privacy rights, enable discrimination, and threaten [&hellip;]",
-        "image": "https://www.amnesty.org/en/documents/pol40/0996/2026/en",
-        "source": "amnesty.org",
-        "stats": "24 points · 1 comments"
+        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+        "description": "261 points · 473 comments",
+        "image": "",
+        "source": "economist.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/pssah4/vault-operator",
-        "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
-        "description": "Real AI agent for your vault. Coworker, Copilot &amp;amp; thinking partner, that maintains your memory &amp;amp; knowledge, adapts to your workflows, uses plugins, skills &amp;amp; tools with full safety contr...",
-        "image": "https://opengraph.githubassets.com/80fc6de1c60c1af7f2ec911f5f7fe35cc99d5f091b2f3252cb36dba8ffeff6d7/pssah4/vault-operator",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "description": "Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics",
+        "image": "https://opengraph.githubassets.com/3b749bf87c30ab3818ef3b21fd22a911b6fbafcab08f17879bf07f307116301f/stanford-cs336/assignment1-basics",
         "source": "github.com",
-        "stats": "16 points · 5 comments"
+        "stats": "381 points · 124 comments"
       },
       {
-        "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
-        "title": "Nvidia Announces RTX Spark",
-        "description": "Nvidia enters the consumer laptop realm.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spark.jpg?quality=90&amp;strip=all&amp;crop=13.2,23.707517114377,86.8,58.222136995036",
-        "source": "theverge.com",
-        "stats": "7 points · 0 comments"
+        "url": "https://cs336.stanford.edu/",
+        "title": "CS336: Language Modeling from Scratch",
+        "description": "Official course website for Stanford CS336: Language Modeling from Scratch (Spring 2026), including logistics, schedule, assignments, and course materials.",
+        "image": "https://cs336.stanford.edu/assets/images/stanford-nlp-logo-new.jpg",
+        "source": "cs336.stanford.edu",
+        "stats": "428 points · 45 comments"
       },
       {
-        "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
-        "title": "Nvidia and Microsoft Reinvent Windows PCs for the Age of Personal AI",
-        "description": "NVIDIA today unveiled NVIDIA RTX Spark™, a new superchip that reinvents Windows PCs for the era of personal AI agents — offering a new class of computer that moves from tool to teammate.",
-        "image": "https://iprsoftwaremedia.com/219/files/202605/154ea89a7177c7d568f2f4916c7fd53a/6a1c9d873d6332761e1d64a8_nvidia-rtx-spark/nvidia-rtx-spark_597f009e-8bc6-4bfb-bdf4-04317ae69806-prv.png",
-        "source": "nvidianews.nvidia.com",
-        "stats": "7 points · 0 comments"
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "description": "227 points · 79 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       }
     ],
     "2026-05-31": [
       {
         "url": "https://prismml.com/news/bonsai-image-4b",
         "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-        "description": "359 points · 127 comments",
+        "description": "451 points · 196 comments",
         "image": "",
         "source": "prismml.com",
         "stats": ""
       },
       {
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+        "description": "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing overlay attacks that affect workbooks across the victim’s account after an indirect prompt injection in a single sheet.",
+        "image": "https://framerusercontent.com/images/eJKU8yDyAKTNNHfYvQqWDm5e25s.png?width=6679&amp;height=4516",
+        "source": "promptarmor.com",
+        "stats": "319 points · 122 comments"
+      },
+      {
         "url": "https://thoughts.hmmz.org/2026-05-31.html",
         "title": "The solution might be cancelling my AI subscription",
-        "description": "353 points · 225 comments",
+        "description": "377 points · 233 comments",
         "image": "",
         "source": "thoughts.hmmz.org",
         "stats": ""
@@ -66,23 +116,15 @@
         "description": "I bought a datacenter GPU that doesn",
         "image": "https://blog.tymscar.com/V100-gpu-llm/front_of_v100_sxm2.jpg",
         "source": "blog.tymscar.com",
-        "stats": "296 points · 169 comments"
-      },
-      {
-        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-        "description": "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing overlay attacks that affect workbooks across the victim’s account after an indirect prompt injection in a single sheet.",
-        "image": "https://framerusercontent.com/images/eJKU8yDyAKTNNHfYvQqWDm5e25s.png?width=6679&amp;height=4516",
-        "source": "promptarmor.com",
-        "stats": "179 points · 52 comments"
+        "stats": "325 points · 184 comments"
       },
       {
         "url": "https://github.com/pewdiepie-archdaemon/odysseus",
         "title": "Odysseus – self-hosted AI workspace",
         "description": "Self-hosted AI workspace. . Contribute to pewdiepie-archdaemon/odysseus development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/ec53819d4c74cbce46eaa026de4ef98aa33a7b7cda48c28dd497d770e915006e/pewdiepie-archdaemon/odysseus",
+        "image": "https://opengraph.githubassets.com/58d7f4a3f2acc628749ee0f28491d8ecb5df0fee0304b19e069d9d22c1e19226/pewdiepie-archdaemon/odysseus",
         "source": "github.com",
-        "stats": "156 points · 75 comments"
+        "stats": "215 points · 94 comments"
       }
     ],
     "2026-05-30": [
@@ -129,44 +171,20 @@
     ],
     "2026-05-29": [
       {
-        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-        "title": "Notes from the Mistral AI Now Summit",
-        "description": "A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.",
-        "image": "https://koenvangilst.nl/og/mistral-ai-now-summit.png",
-        "source": "koenvangilst.nl",
-        "stats": "464 points · 210 comments"
-      },
-      {
-        "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-        "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-        "description": "Today, Kog AI launches a tech preview of the Kog Inference Engine (KIE): 3,000 output tokens/s per request on 8× AMD MI300X GPUs and 2,100 on 8× NVIDIA H200 (FP16, no speculative decoding). This preview runs a 2B model, with support for large third-party MoE models coming next at similar speeds.",
-        "image": "https://storage.ghost.io/c/07/80/0780d8de-243c-4e4d-9876-7e3ee2a55df5/content/images/size/w1200/2026/05/blog-post-reduced-2.png",
-        "source": "blog.kog.ai",
-        "stats": "217 points · 95 comments"
-      },
-      {
-        "url": "https://github.com/jmaczan/tiny-vllm",
-        "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-        "description": "Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM - jmaczan/tiny-vllm",
-        "image": "https://opengraph.githubassets.com/b1134431ef11a631b647e6c1c0c411af99ed8d3e0a35adc7ccdd4d9c0e5b7371/jmaczan/tiny-vllm",
-        "source": "github.com",
-        "stats": "195 points · 17 comments"
-      },
-      {
         "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
         "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-        "description": "148 points · 205 comments",
+        "description": "256 points · 357 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
       },
       {
-        "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-        "title": "Expertise in the age of AI",
-        "description": "125 points · 108 comments",
-        "image": "",
-        "source": "moderndescartes.com",
-        "stats": ""
+        "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+        "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+        "description": "Fresh SurrealDB 3.x benchmarks: 141k ops/s CRUD, scans 164× faster than 2.x, and head-to-head numbers vs. Postgres, Mongo, Neo4j, and Redis.",
+        "image": "https://cdn.surrealdb.com/x7nk2jo3hcahhf5cx69mlbps.auto",
+        "source": "surrealdb.com",
+        "stats": "73 points · 30 comments"
       }
     ],
     "2026-05-28": [
@@ -203,24 +221,6 @@
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
         "source": "blog.youtube",
         "stats": "1315 points · 820 comments"
-      }
-    ],
-    "2026-05-26": [
-      {
-        "url": "https://blog.cloudflare.com/ai-code-review/",
-        "title": "Orchestrating AI code review at scale",
-        "description": "Learn about how we built a CI-native AI code reviewer using OpenCode that helps our engineers ship better, safer code.\n",
-        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/3g2Vqql5biqvjvXwxhDb3b/b0c7fd707437eff2a7acb9d3172368e4/BLOG-3284_OG.png",
-        "source": "blog.cloudflare.com",
-        "stats": "143 points · 55 comments"
-      },
-      {
-        "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-        "title": "Floor and Ceil versus Denormals on CPU and GPU",
-        "description": "46 points · 17 comments",
-        "image": "",
-        "source": "asawicki.info",
-        "stats": ""
       }
     ]
   }
