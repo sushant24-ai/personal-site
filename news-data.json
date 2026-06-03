@@ -1,72 +1,114 @@
 {
-  "lastUpdated": "2026-06-02T06:45:45.591Z",
+  "lastUpdated": "2026-06-03T06:56:50.772Z",
   "days": {
-    "2026-06-02": [
+    "2026-06-03": [
       {
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826",
-        "title": "Angry devs vow to flee GitHub Copilot as metered billing takes hold",
-        "description": "16 points · 6 comments",
-        "image": "https://image.theregister.com/5249860.jpg?imageId=5249860&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
+        "url": "https://agenticmotherfucking.website",
+        "title": "Agentic Mfw",
+        "description": "🖕 The vibe-coded motherfucking website. Clean code is dead. Burn the tokens.",
+        "image": "",
+        "source": "agenticmotherfucking.website",
+        "stats": "168 points · 52 comments"
+      },
+      {
+        "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+        "title": "U of T researchers demonstrate AI worm could target any online device",
+        "description": "A team of researchers at the University of Toronto has discovered a new class of cyberthreat that gives hackers more power and reach at far less cost. It can be built with free AI models. Every online device is a potential target. And current cyber defences are not yet ready for it.",
+        "image": "https://www.utoronto.ca/sites/default/files/2026-06/0521NicolasPapernot019-crop.jpg",
+        "source": "utoronto.ca",
+        "stats": "14 points · 2 comments"
+      },
+      {
+        "url": "https://www.msn.com/en-us/money/companies/gitlab-announces-14-reduction-in-global-workforce-expects-to-exit-22-countries/ar-AA24FoMd",
+        "title": "GitLab to cut workforce by 14% and exit 22 countries in restructure around AI",
+        "description": "8 points · 0 comments",
+        "image": "",
+        "source": "msn.com",
         "stats": ""
       },
       {
-        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
-        "description": "Some report burning through their whole monthly &quot;AI credit&quot; allotment in a single day.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2254059922-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "11 points · 2 comments"
+        "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+        "title": "Google Is Quietly Buying Code from Play Store Developers to Train AI",
+        "description": "Google is trying to buy code from some Android developers as part of a &quot;confidential&quot; program.",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-02-at-17.15.56@2x.png",
+        "source": "404media.co",
+        "stats": "11 points · 1 comments"
       },
       {
-        "url": "https://variety.com/2026/biz/tech/florida-sues-openai-sam-altman-1236764066/",
-        "title": "Florida Sues OpenAI, Sam Altman: 'Utter Disregard for the Risk to Human Life'",
-        "description": "Florida is the first to sue OpenAI, maker of ChatGPT, over safety issues.",
-        "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2265992523.jpg?w=1000&#038;h=563&#038;crop=1",
-        "source": "variety.com",
-        "stats": "6 points · 2 comments"
-      },
-      {
-        "url": "https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/",
-        "title": "Mellum2 Goes Open Source: A Fast Model for AI Workflows",
-        "description": "Trained from scratch and designed for practical deployment, Mellum2 is built for routing, Q&amp;A, sub-agents, and private AI use in software engineering systems. Today, we’re open-sourcing Mellum2",
-        "image": "https://blog.jetbrains.com/wp-content/uploads/2026/05/Blog-Social-share-1280x720-1.png",
-        "source": "blog.jetbrains.com",
-        "stats": "7 points · 0 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48366380",
-        "title": "I'm Done Using AI",
-        "description": "6 points · 0 comments",
+        "url": "https://news.ycombinator.com/item?id=48380045",
+        "title": "OpenAI new privacy policy to include info about ads in ChatGPT",
+        "description": "4 points · 1 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       }
     ],
+    "2026-06-02": [
+      {
+        "url": "https://blog.adafruit.com/",
+        "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+        "description": "electronics, open source hardware, hacking and more...",
+        "image": "https://cdn-blog.adafruit.com/uploads/2026/06/ptlimor.jpeg",
+        "source": "blog.adafruit.com",
+        "stats": "646 points · 262 comments"
+      },
+      {
+        "url": "https://github.com/c0dejedi/nbd-vram",
+        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+        "description": "Use your NVIDIA GPU&amp;#39;s VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you&amp;#39;re getting swap...",
+        "image": "https://opengraph.githubassets.com/98f4dbd3294009f4973cebded78c477383fe6615f0242b269503b56a924ccd59/c0deJedi/nbd-vram",
+        "source": "github.com",
+        "stats": "250 points · 65 comments"
+      },
+      {
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "title": "AI outperforms law professors in Stanford Law study",
+        "description": "A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st",
+        "image": "https://law.stanford.edu/wp-content/uploads/2026/02/GettyImages-2224544837-1200x630.jpg",
+        "source": "law.stanford.edu",
+        "stats": "182 points · 150 comments"
+      },
+      {
+        "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+        "title": "Trump signs downsized AI order after weeks of reversals",
+        "description": "201 points · 146 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6",
+        "title": "Michael Burry says neither SpaceX nor Anthropic is worth $1T",
+        "description": "Michael Burry said there&#x27;s &quot;nothing&quot; in SpaceX&#x27;s IPO filing to warrant a trillion-dollar valuation, and Anthropic might never be worth that much.",
+        "image": "https://i.insider.com/6a1d6f202ab5f9757add768e?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "127 points · 149 comments"
+      }
+    ],
     "2026-06-01": [
+      {
+        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+        "description": "689 points · 1204 comments",
+        "image": "",
+        "source": "economist.com",
+        "stats": ""
+      },
       {
         "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
         "title": "Anthropic confidentially submits draft S-1 to the SEC",
         "description": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "source": "anthropic.com",
-        "stats": "477 points · 385 comments"
+        "stats": "525 points · 443 comments"
       },
       {
-        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-        "description": "261 points · 473 comments",
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "description": "360 points · 126 comments",
         "image": "",
-        "source": "economist.com",
+        "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-        "title": "AI Agent Guidelines for CS336 at Stanford",
-        "description": "Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics",
-        "image": "https://opengraph.githubassets.com/3b749bf87c30ab3818ef3b21fd22a911b6fbafcab08f17879bf07f307116301f/stanford-cs336/assignment1-basics",
-        "source": "github.com",
-        "stats": "381 points · 124 comments"
       },
       {
         "url": "https://cs336.stanford.edu/",
@@ -74,15 +116,15 @@
         "description": "Official course website for Stanford CS336: Language Modeling from Scratch (Spring 2026), including logistics, schedule, assignments, and course materials.",
         "image": "https://cs336.stanford.edu/assets/images/stanford-nlp-logo-new.jpg",
         "source": "cs336.stanford.edu",
-        "stats": "428 points · 45 comments"
+        "stats": "546 points · 51 comments"
       },
       {
-        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-        "title": "OpenAI frontier models and Codex are now available on AWS",
-        "description": "227 points · 79 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "description": "Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics",
+        "image": "https://opengraph.githubassets.com/39ac6eeff535f2c9f6d10b2e627e677b152e95eaf6110e06ba744e9f8a1855f9/stanford-cs336/assignment1-basics",
+        "source": "github.com",
+        "stats": "491 points · 153 comments"
       }
     ],
     "2026-05-31": [
@@ -211,16 +253,6 @@
         "image": "https://openenvelope.org/og-image.png",
         "source": "openenvelope.org",
         "stats": "46 points · 8 comments"
-      }
-    ],
-    "2026-05-27": [
-      {
-        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-        "title": "YouTube to automatically label AI-generated videos",
-        "description": "We&#x27;ve heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png",
-        "source": "blog.youtube",
-        "stats": "1315 points · 820 comments"
       }
     ]
   }
