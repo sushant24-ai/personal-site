@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+    <meta name="description"
+        content="How to build a custom agent harness with LangChain's create_agent — middleware, context delivery, and task-harness fit explained with diagrams.">
+    <title>How to Build a Custom Agent Harness - Sushant Sikare</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css?v=3">
+    <style>
+        .callout {
+            border-left: 4px solid var(--accent);
+            background: rgba(100, 100, 255, 0.06);
+            padding: 1rem 1.25rem;
+            border-radius: 0 8px 8px 0;
+            margin: 1.5rem 0;
+            font-size: 0.92rem;
+        }
+
+        .callout-tip {
+            border-left-color: #4caf50;
+            background: rgba(76, 175, 80, 0.06);
+        }
+
+        .callout strong {
+            display: block;
+            margin-bottom: 0.3rem;
+        }
+
+        .formula-box {
+            text-align: center;
+            font-size: 1.35rem;
+            font-weight: 700;
+            padding: 1.75rem 1.5rem;
+            margin: 2rem 0;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            background: var(--bg-card);
+            letter-spacing: 0.02em;
+        }
+
+        .formula-box .eq {
+            color: var(--accent);
+        }
+
+        .formula-box .plus {
+            opacity: 0.5;
+            margin: 0 0.5rem;
+        }
+
+        /* Animated agent loop */
+        .agent-loop {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 2rem 0;
+            padding: 1.5rem;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            background: var(--bg-card);
+        }
+
+        .loop-step {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.85rem 1.1rem;
+            border-radius: 10px;
+            border: 2px solid var(--border);
+            background: var(--bg);
+            min-width: 100px;
+            transition: border-color 0.3s, box-shadow 0.3s, transform 0.3s;
+        }
+
+        .loop-step .icon {
+            font-size: 1.5rem;
+        }
+
+        .loop-step .label {
+            font-size: 0.78rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            text-align: center;
+        }
+
+        .loop-arrow {
+            font-size: 1.25rem;
+            color: var(--accent);
+            opacity: 0.6;
+        }
+
+        .loop-step.active {
+            border-color: var(--accent);
+            box-shadow: 0 0 16px rgba(99, 102, 241, 0.25);
+            transform: scale(1.05);
+        }
+
+        .loop-step.active .label {
+            color: var(--accent);
+        }
+
+        .loop-caption {
+            width: 100%;
+            text-align: center;
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            margin-top: 0.5rem;
+        }
+
+        .section-number {
+            display: inline-block;
+            width: 2rem;
+            height: 2rem;
+            line-height: 2rem;
+            text-align: center;
+            background: var(--accent);
+            color: #fff;
+            border-radius: 50%;
+            font-weight: 700;
+            font-size: 0.85rem;
+            margin-right: 0.5rem;
+            vertical-align: middle;
+        }
+
+        .capability-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.25rem 0;
+            font-size: 0.9rem;
+        }
+
+        .capability-table th,
+        .capability-table td {
+            text-align: left;
+            padding: 0.65rem 0.85rem;
+            border-bottom: 1px solid var(--border);
+            vertical-align: top;
+        }
+
+        .capability-table th {
+            font-weight: 600;
+            color: var(--accent);
+            font-size: 0.82rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+
+        .capability-table tr:hover td {
+            background: rgba(100, 100, 255, 0.04);
+        }
+
+        .lever-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        .lever-card {
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.25rem;
+            background: var(--bg-card);
+            transition: border-color 0.2s, transform 0.2s;
+        }
+
+        .lever-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        .lever-card .lever-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .lever-card h4 {
+            margin: 0 0 0.5rem;
+            font-size: 0.95rem;
+            color: var(--accent);
+        }
+
+        .lever-card p {
+            margin: 0;
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        .comparison-col {
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.25rem;
+            background: var(--bg-card);
+        }
+
+        .comparison-col h4 {
+            margin-top: 0;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 0.75rem;
+        }
+
+        .comparison-col.opinionated h4 { color: #f59e0b; }
+        .comparison-col.minimal h4 { color: #6366f1; }
+
+        .comparison-col ul {
+            padding-left: 1.2rem;
+            margin: 0;
+        }
+
+        .comparison-col li {
+            font-size: 0.9rem;
+            margin-bottom: 0.4rem;
+        }
+
+        .task-fit-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        .task-card {
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.25rem;
+            background: var(--bg-card);
+        }
+
+        .task-card h4 {
+            margin: 0 0 0.5rem;
+            font-size: 0.95rem;
+        }
+
+        .task-card .task-tag {
+            display: inline-block;
+            font-size: 0.72rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            background: rgba(99, 102, 241, 0.12);
+            color: var(--accent);
+            margin-bottom: 0.75rem;
+        }
+
+        .task-card p {
+            margin: 0;
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        .mermaid {
+            margin: 1.5rem 0;
+        }
+
+        @media (max-width: 600px) {
+            .comparison-grid { grid-template-columns: 1fr; }
+            .loop-arrow { display: none; }
+            .agent-loop { flex-direction: column; }
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <a href="../index.html" class="nav-brand">Sushant Sikare</a>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="active">Blog</a></li>
+                <li><a href="../news.html">Daily AI News</a></li>
+                <li><a href="../about.html">About Me</a></li>
+                <li><button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()"
+                        aria-label="Toggle theme">🌙</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <header class="post-header">
+                <h1>How to Build a Custom Agent Harness</h1>
+                <div class="post-meta">
+                    June 5, 2026
+                    <span class="post-tags">
+                        <span class="tag">AI Agents</span>
+                        <span class="tag">LangChain</span>
+                        <span class="tag">Middleware</span>
+                        <span class="tag">Architecture</span>
+                    </span>
+                </div>
+            </header>
+
+            <article class="post-content">
+
+                <p>
+                    building useful agents is largely about <strong>customization</strong>: connecting your agent to
+                    the right context, data, and environment(s) for the task at hand.
+                </p>
+                <p>
+                    at its core, an agent is a model calling tools in a loop until it completes a task and returns
+                    a result. watch the loop cycle below — this is the heartbeat of every agent:
+                </p>
+
+                <!-- Animated agent loop -->
+                <div class="agent-loop" id="agent-loop">
+                    <div class="loop-step" data-step="0">
+                        <span class="icon">📥</span>
+                        <span class="label">Context In</span>
+                    </div>
+                    <span class="loop-arrow">→</span>
+                    <div class="loop-step" data-step="1">
+                        <span class="icon">🧠</span>
+                        <span class="label">Model Call</span>
+                    </div>
+                    <span class="loop-arrow">→</span>
+                    <div class="loop-step" data-step="2">
+                        <span class="icon">🔧</span>
+                        <span class="label">Tool Call</span>
+                    </div>
+                    <span class="loop-arrow">→</span>
+                    <div class="loop-step" data-step="3">
+                        <span class="icon">📤</span>
+                        <span class="label">Result Out</span>
+                    </div>
+                    <span class="loop-caption">repeats until the task is done</span>
+                </div>
+
+                <p>you can also define an agent as:</p>
+
+                <div class="formula-box">
+                    <span class="eq">agent</span> = <span class="eq">model</span>
+                    <span class="plus">+</span>
+                    <span class="eq">harness</span>
+                </div>
+
+                <p>
+                    the <strong>harness</strong> is the scaffolding around the model that connects it to the real
+                    world. the model reasons; the harness <em>grounds</em> that reasoning in your systems, policies,
+                    and data.
+                </p>
+
+                <div class="callout">
+                    <strong>🎯 Two assumptions for the rest of this post</strong>
+                    1. An agent is only as good as the context provided to the model.<br>
+                    2. The job of a harness is to provide context to the model at <em>every step</em>.
+                </div>
+
+                <p>
+                    so, to build a useful agent, you need a harness that's great at delivering the right context
+                    for the given task to the model — at the right time, in the right shape.
+                </p>
+
+                <hr>
+
+                <h2><span class="section-number">1</span> The Base Harness</h2>
+
+                <p>
+                    <code>create_agent</code> is LangChain's primitive for building a harness. pass in a model, tools,
+                    and a system prompt, and you have a working agent:
+                </p>
+
+                <pre><code>from langchain.agents import create_agent
+
+agent = create_agent(
+    model="anthropic:claude-sonnet-4-6",
+    tools=tools,
+    system_prompt="you are a helpful assistant..."
+)</code></pre>
+
+                <p>under the hood, this wires up the core loop:</p>
+
+                <div class="mermaid">
+                    sequenceDiagram
+                    participant U as User / Caller
+                    participant H as Harness
+                    participant M as Model
+                    participant T as Tools
+
+                    U->>H: task + initial context
+                    loop until task complete
+                        H->>M: messages + tool schemas
+                        M-->>H: tool call or final answer
+                        alt tool call
+                            H->>T: execute tool
+                            T-->>H: tool result
+                            H->>H: append result to history
+                        else final answer
+                            H-->>U: return result
+                        end
+                    end
+                </div>
+
+                <p>but not all harnesses are built the same way. there are two broad approaches:</p>
+
+                <div class="comparison-grid">
+                    <div class="comparison-col opinionated">
+                        <h4>⚡ Pre-assembled harnesses</h4>
+                        <ul>
+                            <li>Deep Agents, Claude Agent SDK</li>
+                            <li>Memory, context mgmt, sandboxing baked in</li>
+                            <li>Production-ready out of the box</li>
+                            <li>Great for most cases</li>
+                            <li>Less room for fine-grained control</li>
+                        </ul>
+                    </div>
+                    <div class="comparison-col minimal">
+                        <h4>🔧 create_agent (minimal)</h4>
+                        <ul>
+                            <li>Implements only the core agent loop</li>
+                            <li>Middleware as the customization primitive</li>
+                            <li>Similar philosophy to Pi (coding agent)</li>
+                            <li>You compose exactly what you need</li>
+                            <li>More work upfront, tighter task fit</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="callout callout-tip">
+                    <strong>💡 When to go custom</strong>
+                    Many agents need finer-grained customization than pre-assembled harnesses support: custom prompting,
+                    business logic, guardrails, model routing, and domain-specific tool lifecycles. That's where
+                    <code>create_agent</code> + middleware shines.
+                </div>
+
+                <hr>
+
+                <h2><span class="section-number">2</span> Middleware — How You Customize the Harness</h2>
+
+                <p>
+                    middleware hooks into the agent loop at each step: before and after model calls, before and after
+                    tool calls, at agent startup and teardown. each piece handles <strong>one concern</strong> and
+                    composes freely with any other:
+                </p>
+
+                <div class="mermaid">
+                    flowchart TB
+                    subgraph Startup["🚀 Startup"]
+                        S1[on_agent_start]
+                    end
+
+                    subgraph Loop["🔄 Agent Loop"]
+                        direction TB
+                        B1[before_model] --> M[Model Call] --> A1[after_model]
+                        A1 -->|"tool call?"| B2[before_tool]
+                        B2 --> T[Tool Call] --> A2[after_tool]
+                        A2 --> B1
+                        A1 -->|"done?"| Done[Return Result]
+                    end
+
+                    subgraph Teardown["🛑 Teardown"]
+                        S2[on_agent_end]
+                    end
+
+                    S1 --> Loop
+                    Done --> S2
+
+                    style M fill:#6366f1,color:#fff,stroke:none
+                    style T fill:#f59e0b,color:#fff,stroke:none
+                    style Done fill:#10b981,color:#fff,stroke:none
+                </div>
+
+                <p>middleware gives you four levers that often work together:</p>
+
+                <div class="lever-grid">
+                    <div class="lever-card">
+                        <div class="lever-icon">⚙️</div>
+                        <h4>Deterministic Logic</h4>
+                        <p>Business rules, policy enforcement, model swapping, prompt adjustment, message history
+                            compaction — anything that can't (or shouldn't) live in a prompt.</p>
+                    </div>
+                    <div class="lever-card">
+                        <div class="lever-icon">🔧</div>
+                        <h4>Tools</h4>
+                        <p>Full tool lifecycle: setup, teardown, registration. Keeps tool config close to the logic
+                            that governs it, not scattered across the agent definition.</p>
+                    </div>
+                    <div class="lever-card">
+                        <div class="lever-icon">📦</div>
+                        <h4>Custom State</h4>
+                        <p>Extend agent state with counters, flags, or values that persist across hooks and share data
+                            between middleware pieces.</p>
+                    </div>
+                    <div class="lever-card">
+                        <div class="lever-icon">📡</div>
+                        <h4>Stream Handlers</h4>
+                        <p>Intercept and transform the output stream — filter events, inject metadata, route token
+                            deltas to UI, tool calls to audit logs, latency to monitoring.</p>
+                    </div>
+                </div>
+
+                <p>the beauty of middleware:</p>
+                <ul>
+                    <li><strong>Customize at any point</strong> in the agent loop</li>
+                    <li><strong>Bundle related logic</strong> in composable, sharable units of code</li>
+                    <li><strong>Reuse across agents</strong> — new agents inherit battle-tested behavior without
+                        rebuilding it</li>
+                </ul>
+
+                <h3>example: a simple guardrail middleware</h3>
+
+                <pre><code>from langchain.agents.middleware import AgentMiddleware
+
+class BudgetGuardrail(AgentMiddleware):
+    """Stop the agent if token spend exceeds budget."""
+
+    def __init__(self, max_tokens: int):
+        self.max_tokens = max_tokens
+        self.tokens_used = 0
+
+    async def after_model(self, state, response):
+        self.tokens_used += response.usage.total_tokens
+        if self.tokens_used > self.max_tokens:
+            raise RuntimeError(f"Budget exceeded: {self.tokens_used} tokens")
+        return state
+
+agent = create_agent(
+    model="anthropic:claude-sonnet-4-6",
+    tools=tools,
+    middleware=[BudgetGuardrail(max_tokens=50_000)],
+)</code></pre>
+
+                <hr>
+
+                <h2><span class="section-number">3</span> Harness Capabilities</h2>
+
+                <p>
+                    the job of a harness is to get the model the <strong>right context at the right time</strong> for
+                    the given task. here's how common production needs map to middleware:
+                </p>
+
+                <table class="capability-table">
+                    <thead>
+                        <tr>
+                            <th>Capability</th>
+                            <th>What It Does</th>
+                            <th>Middleware Pattern</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Context compaction</strong></td>
+                            <td>Summarize or trim message history before the context window overflows</td>
+                            <td><code>before_model</code> — rewrite history, inject summary</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Memory & retrieval</strong></td>
+                            <td>Pull relevant past conversations or facts into the current turn</td>
+                            <td><code>before_model</code> — RAG injection, episodic recall</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Guardrails</strong></td>
+                            <td>Enforce policies, block unsafe actions, cap spend</td>
+                            <td><code>before_tool</code>, <code>after_model</code> — deterministic checks</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Human-in-the-loop</strong></td>
+                            <td>Pause for approval on sensitive tool calls</td>
+                            <td><code>before_tool</code> — interrupt, await confirmation</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Model routing</strong></td>
+                            <td>Swap to a cheaper or stronger model based on task complexity</td>
+                            <td><code>before_model</code> — dynamic model selection</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tool lifecycle</strong></td>
+                            <td>Initialize connections, tear down sandboxes, scope tools per run</td>
+                            <td><code>on_agent_start</code>, <code>on_agent_end</code></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Observability</strong></td>
+                            <td>Trace latency, token usage, tool outcomes</td>
+                            <td>Stream handlers + <code>after_model</code> / <code>after_tool</code></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Prompt injection defense</strong></td>
+                            <td>Sanitize tool outputs before they re-enter the model context</td>
+                            <td><code>after_tool</code> — filter / redact untrusted content</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>
+                    most production agents end up using <strong>several middleware pieces together</strong>, depending
+                    on the agent's needs: is it long-running? how complex are the tasks? how sensitive are the agent's
+                    actions?
+                </p>
+
+                <div class="mermaid">
+                    graph LR
+                    subgraph Harness["Custom Harness"]
+                        MW1["🛡️ Guardrails"]
+                        MW2["🧠 Memory"]
+                        MW3["📊 Observability"]
+                        MW4["🔀 Model Router"]
+                        MW5["✋ Human-in-loop"]
+                    end
+
+                    MW1 --> Core["create_agent<br/>core loop"]
+                    MW2 --> Core
+                    MW3 --> Core
+                    MW4 --> Core
+                    MW5 --> Core
+                    Core --> Model["LLM"]
+                    Core --> Tools["Tools"]
+
+                    style Core fill:#6366f1,color:#fff,stroke:none
+                    style Model fill:#8b5cf6,color:#fff,stroke:none
+                    style Tools fill:#f59e0b,color:#fff,stroke:none
+                </div>
+
+                <hr>
+
+                <h2><span class="section-number">4</span> Task-Harness Fit</h2>
+
+                <p>
+                    <strong>task-harness fit</strong> is how well your harness matches the actual demands of the task:
+                    the context it needs, the failures it'll encounter, the policies it must enforce, the environment
+                    it operates in.
+                </p>
+                <p>
+                    a harness for a customer service agent looks <em>very different</em> from one built for a
+                    long-running coding agent. same model, different scaffolding:
+                </p>
+
+                <div class="task-fit-cards">
+                    <div class="task-card">
+                        <span class="task-tag">Customer Service</span>
+                        <h4>Short turns, high stakes</h4>
+                        <p>Needs: CRM tool access, response guardrails, escalation to human, conversation memory.
+                            Middleware focus: guardrails, HITL, retrieval from knowledge base.</p>
+                    </div>
+                    <div class="task-card">
+                        <span class="task-tag">Coding Agent</span>
+                        <h4>Long-running, tool-heavy</h4>
+                        <p>Needs: filesystem + shell tools, sandboxing, context compaction, streaming to UI.
+                            Middleware focus: tool lifecycle, compaction, stream handlers.</p>
+                    </div>
+                    <div class="task-card">
+                        <span class="task-tag">GTM / Sales Agent</span>
+                        <h4>Data-rich, policy-bound</h4>
+                        <p>Needs: CRM + email tools, spend caps, audit logging, model routing for drafts vs. sends.
+                            Middleware focus: observability, guardrails, model routing.</p>
+                    </div>
+                </div>
+
+                <p>
+                    every agent LangChain builds — including their GTM agent, asynchronous coding agent, and no-code
+                    agent builder — is built on <code>create_agent</code> with a middleware stack tailored to that
+                    agent's mission.
+                </p>
+
+                <div class="mermaid">
+                    flowchart LR
+                    Task["📋 Task Demands"] --> Fit{"Task-Harness<br/>Fit?"}
+                    Fit -->|"Good fit"| Prod["✅ Reliable agent"]
+                    Fit -->|"Poor fit"| Fail["❌ Wrong context,<br/>wrong guardrails,<br/>wrong tools"]
+                    Custom["🔧 Custom middleware<br/>stack"] --> Fit
+
+                    style Prod fill:#10b981,color:#fff,stroke:none
+                    style Fail fill:#ef4444,color:#fff,stroke:none
+                    style Custom fill:#6366f1,color:#fff,stroke:none
+                </div>
+
+                <hr>
+
+                <h2>Putting It Together</h2>
+
+                <p>building a custom harness is a three-step exercise:</p>
+
+                <ol>
+                    <li><strong>Start with <code>create_agent</code></strong> — model, tools, system prompt. You have
+                        a working loop.</li>
+                    <li><strong>Identify context gaps</strong> — what does the model need at each step that the base
+                        harness doesn't provide?</li>
+                    <li><strong>Add middleware</strong> — one piece per concern. Compose, don't monolith.</li>
+                </ol>
+
+                <blockquote>
+                    <p>the best agents aren't just built with capable models.</p>
+                    <p>they're built with harnesses that <strong>tightly fit the task</strong>.</p>
+                    <p>the easiest way to build a custom harness is with <code>create_agent</code>.</p>
+                </blockquote>
+
+                <div class="callout callout-tip">
+                    <strong>📚 Related reading on this site</strong>
+                    <a href="ai-agent-building-blocks.html">AI Agent Building Blocks</a> covers configuration files
+                    (rules, skills, MCP). <a href="building-production-ai-agents.html">Building Production-Ready AI
+                        Agents</a> covers deployment, observability, and resilience. This post fills the gap between
+                    them: the runtime harness that wires model to world.
+                </div>
+
+            </article>
+
+            <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <a href="../index.html">← Back to Blog</a>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="mailto:sushantshikare24@gmail.com">Mail</a>
+                    <a href="https://x.com/SikareSushant" target="_blank">X</a>
+                    <a href="https://www.linkedin.com/in/sushant-s-31b799224/" target="_blank">LinkedIn</a>
+                    <a href="https://github.com/sushant24-ai" target="_blank">GitHub</a>
+                </div>
+                <p class="footer-copy">Sushant Sikare © 2026</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js?v=3"></script>
+    <script>
+        // Animate the agent loop steps
+        (function () {
+            const steps = document.querySelectorAll('#agent-loop .loop-step');
+            if (!steps.length) return;
+            let current = 0;
+            function highlight() {
+                steps.forEach((s, i) => s.classList.toggle('active', i === current));
+                current = (current + 1) % steps.length;
+            }
+            highlight();
+            setInterval(highlight, 1200);
+        })();
+    </script>
+</body>
+
+</html>
