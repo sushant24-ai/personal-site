@@ -24,7 +24,7 @@ jobs:
       - name: Prepare site
         run: |
           mkdir _site
-          cp -r css js blog favicon.svg news-data.json _site/
+          cp -r css js blog favicon.svg news-data.json CNAME _site/
           cp index.html about.html news.html projects.html generator.html _site/
 
       - name: Configure Pages
