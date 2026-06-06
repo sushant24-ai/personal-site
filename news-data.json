@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-05T06:35:32.285Z",
+  "lastUpdated": "2026-06-06T05:57:02.747Z",
   "days": {
-    "2026-06-05": [
+    "2026-06-06": [
       {
-        "url": "https://github.com/alibaba/open-code-review",
-        "title": "Open Code Review – An AI-powered code review CLI tool",
-        "description": "Battle-tested at Alibaba&amp;#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...",
-        "image": "https://opengraph.githubassets.com/08f3a9e2abc2f25b2d510aed8cb4ed0fa04048c597d0ca32603f3f7aa2eafa7a/alibaba/open-code-review",
-        "source": "github.com",
-        "stats": "129 points · 29 comments"
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "description": "SpaceX won’t get easy access to billions of dollars from passive investors.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg",
+        "source": "arstechnica.com",
+        "stats": "77 points · 9 comments"
       },
       {
-        "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
-        "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-        "description": "La Tilde publishes an unusual mix of personal finance guides and articles extolling American military efforts in Latin America.",
-        "image": "https://theintercept.com/wp-content/uploads/2026/05/Propaganda-sites-_-La-Tilde.jpg?fit=2000%2C1000&#038;w=1200&#038;h=800",
-        "source": "theintercept.com",
-        "stats": "28 points · 11 comments"
-      },
-      {
-        "url": "https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6",
-        "title": "CEO to staff: You're not getting a raise. We're spending on AI instead",
-        "description": "Cloud software firm Teradata has told employees not to expect annual salary raises in 2026, and says it is putting the money towards AI instead.",
-        "image": "https://i.insider.com/6a1844ca2ab5f9757add55c4?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "31 points · 8 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48407998",
-        "title": "Show HN: Lessons learned from running Claude Code swarms at scale",
-        "description": "6 points · 0 comments",
+        "url": "https://news.ycombinator.com/item?id=48420827",
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "description": "78 points · 144 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://www.bbc.com/news/articles/crrpggegwe0o",
-        "title": "'World-first' vaccine designed by artificial intelligence",
-        "description": "Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5399/live/5dceca40-6066-11f1-89f7-47e36b8faab0.jpg",
-        "source": "bbc.com",
-        "stats": "8 points · 1 comments"
+        "url": "https://www.businessinsider.com/worker-got-religious-exemption-using-ai-at-work-2026-6",
+        "title": "She won a religious exemption from using AI at work",
+        "description": "Legal experts say employers must take AI-related religious objections seriously, as a 2023 ruling raised the bar for denying such accommodations.",
+        "image": "https://i.insider.com/6a20a6852e5a80cfe050344a?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "19 points · 12 comments"
+      },
+      {
+        "url": "https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/",
+        "title": "Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://thenewstack.io/torvalds-ai-programming-productivity/",
+        "title": "Linus Torvalds on AI",
+        "description": "Linus Torvalds says AI boosts programmer productivity but can&#039;t replace human understanding of code, system architecture at Open Source Summit keynote.",
+        "image": "https://cdn.thenewstack.io/media/2026/05/bb227d2e-daniil-komov-bglsbqqwmwa-unsplash-scaled.jpg",
+        "source": "thenewstack.io",
+        "stats": "4 points · 0 comments"
+      }
+    ],
+    "2026-06-05": [
+      {
+        "url": "https://alexispurslane.github.io/rsync-analysis/",
+        "title": "Did Claude increase bugs in rsync?",
+        "description": "370 points · 375 comments",
+        "image": "",
+        "source": "alexispurslane.github.io",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+        "title": "Programmers will document for Claude, but not for each other",
+        "description": "From the highly eclectic blog of Mark Dominus",
+        "image": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg",
+        "source": "blog.plover.com",
+        "stats": "178 points · 152 comments"
+      },
+      {
+        "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+        "title": "Hacker News, Sans AI",
+        "description": "160 points · 88 comments",
+        "image": "",
+        "source": "elijahpotter.dev",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/alibaba/open-code-review",
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "description": "Battle-tested at Alibaba&amp;#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...",
+        "image": "https://opengraph.githubassets.com/280369267b9c5be7a02881a2d4b9ea9fed45d8c4154cce37078a48ed50574af4/alibaba/open-code-review",
+        "source": "github.com",
+        "stats": "262 points · 67 comments"
+      },
+      {
+        "url": "https://passo.uno/fine-tuning-docs-llm/",
+        "title": "Fine-tuning an LLM to write docs like it's 1995",
+        "description": "In my predictions for 2030 I wrote that tech writers would be using specialized LLMs, running locally on powerful hardware. I see hints of this move to “local first” among engineering pundits, but we’re not there yet, in part because of how much more powerful connected frontier models are. That doesn’t mean we can’t experiment, though. That’s precisely what I did last week, trying to fine-tune an instruct model to write like a software technical writer from the 80s and 90s.",
+        "image": "https://passo.uno/uploads/finetuned.png",
+        "source": "passo.uno",
+        "stats": "181 points · 64 comments"
       }
     ],
     "2026-06-04": [
@@ -48,9 +90,9 @@
         "url": "https://github.com/anthropics/defending-code-reference-harness",
         "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
         "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness",
-        "image": "https://opengraph.githubassets.com/aa13c0565eb511eda5eb9c478df9baa4f796c79dbf1296438b5712f1f367d8fb/anthropics/defending-code-reference-harness",
+        "image": "https://opengraph.githubassets.com/d75ea04cbf718618cea8fa134d6fb317ae9213faf046286c19b7af140bf34568/anthropics/defending-code-reference-harness",
         "source": "github.com",
-        "stats": "364 points · 110 comments"
+        "stats": "522 points · 140 comments"
       },
       {
         "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
@@ -58,7 +100,7 @@
         "description": "The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department&rsquo;s grading guidelines.",
         "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&amp;resize=1200%2C630&amp;order=crop%2Cresize",
         "source": "dailycal.org",
-        "stats": "756 points · 729 comments"
+        "stats": "813 points · 777 comments"
       },
       {
         "url": "https://www.anthropic.com/institute/recursive-self-improvement",
@@ -66,7 +108,15 @@
         "description": "Our progress toward recursive self-improvement, and its implications.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "source": "anthropic.com",
-        "stats": "420 points · 555 comments"
+        "stats": "509 points · 683 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48406174",
+        "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+        "description": "257 points · 507 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
         "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
@@ -74,15 +124,7 @@
         "description": "As a part of my work I do security research for various apps and websites. I wanted to see if LLMs could reproduce a common class of exploits I",
         "image": "https://kasra.blog/favicon-512.png",
         "source": "kasra.blog",
-        "stats": "383 points · 210 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "title": "The ways we contain Claude across products",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/82d2262129af025d98a46411fbd42ee970a95cb4-2400x1260.heif",
-        "source": "anthropic.com",
-        "stats": "222 points · 95 comments"
+        "stats": "398 points · 216 comments"
       }
     ],
     "2026-06-03": [
@@ -92,7 +134,7 @@
         "description": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
         "source": "blog.google",
-        "stats": "1028 points · 382 comments"
+        "stats": "1047 points · 388 comments"
       },
       {
         "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
@@ -100,7 +142,7 @@
         "description": "Taken to its logical conclusion, this line of thinking is absurd—and damning.",
         "image": "https://cdn.theatlantic.com/thumbor/fdONLsUPMiSaP_UQenVaAXAt2nI=/40x45:1998x1065/1200x625/media/img/mt/2026/06/2026_06_01_chiang_Consciousness_Trap_final_horizontal/original.gif",
         "source": "theatlantic.com",
-        "stats": "749 points · 1296 comments"
+        "stats": "771 points · 1350 comments"
       },
       {
         "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
@@ -108,23 +150,23 @@
         "description": "I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn&#x27;t particularly surprising given they would have set that budget in 2025, …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "607 points · 752 comments"
+        "stats": "614 points · 762 comments"
       },
       {
-        "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-        "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-        "description": "Lower-priced kits are disappearing by the day",
-        "image": "https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k-2560-80.jpg",
-        "source": "tomshardware.com",
-        "stats": "422 points · 383 comments"
+        "url": "https://github.com/duanebester/gooey",
+        "title": "Gooey: A GPU-accelerated UI framework for Zig",
+        "description": "Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan - duanebester/gooey",
+        "image": "https://opengraph.githubassets.com/2d67e8b78169209481bb43084554b70e2c13b34c5cce641aea9ea2b979d21d57/duanebester/gooey",
+        "source": "github.com",
+        "stats": "196 points · 84 comments"
       },
       {
-        "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-        "title": "Mathematicians issue warning as AI rapidly gains ground",
-        "description": "290 points · 337 comments",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "title": "How LLMs work",
+        "description": "A from-the-ground-up walkthrough of how modern LLMs work, from tokens to transformer blocks to the next-token loop",
         "image": "",
-        "source": "science.org",
-        "stats": ""
+        "source": "0xkato.xyz",
+        "stats": "130 points · 25 comments"
       }
     ],
     "2026-06-02": [
@@ -171,48 +213,6 @@
         "image": "",
         "source": "medium.com",
         "stats": ""
-      }
-    ],
-    "2026-05-30": [
-      {
-        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-        "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-        "description": "Anthropic has become the most valuable artificial intelligence startup in the world, surpassing OpenAI in market valuation. Following a new funding round, the valuation of the developer behind the Claude AI assistant has approached the $1 trillion mark, reports a Qazinform News Agency correspondent.",
-        "image": "https://img.inform.kz/kazinform-photobank/media/2026-05-30/028a6a1d-84cb-4144-9a81-6a92c7d12cbf.jpeg",
-        "source": "qazinform.com",
-        "stats": "418 points · 469 comments"
-      },
-      {
-        "url": "https://jackmaguire.org/blog/ai-job-grief/",
-        "title": "AI job grief: A psychological crisis hitting tech workers",
-        "description": "Across hundreds of Reddit threads and a small body of clinical literature, AI-driven displacement is producing an emotional category that most closely resembles grief, and the institutions causing it have no language for it.",
-        "image": "https://jackmaguire.org/og-ai-job-grief.png",
-        "source": "jackmaguire.org",
-        "stats": "191 points · 193 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-        "description": "182 points · 171 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
-        "title": "To have a moral stance on AI is to be an outcast, and it sucks",
-        "description": "I know the technology, I understand what it&#39;s doing and I know the impact, so I am vehemently anti-AI.  I do not believe any positive out...",
-        "image": "https://musings.martyn.berlin/img/avatars/m.png",
-        "source": "musings.martyn.berlin",
-        "stats": "142 points · 310 comments"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
-        "title": "Rsync 3.4.3 has hundreds of Claude commits",
-        "description": "So my systems recently updated to rsync 3.4.3, and as soon as that happened my backup system - which does incremental backups using multiple --compare-dest= arguments - started to fail on anything but a full backup.\n\nRevert to 3.4.1 and it works.\n\nSo I go look at the source in GitHub to see what might have changed, because there doesn&#39;t seem to be anything relevant in the changelog.\n\nSince 3.4.1,  36 commits by &quot;tridge and claude&quot;\n\nOh for fuck&#39;s sakes.",
-        "image": "",
-        "source": "mastodon.gamedev.place",
-        "stats": "115 points · 80 comments"
       }
     ]
   }
