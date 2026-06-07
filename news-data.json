@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-06-06T05:57:02.747Z",
+  "lastUpdated": "2026-06-07T06:34:01.172Z",
   "days": {
+    "2026-06-07": [
+      {
+        "url": "https://arxiv.org/abs/2601.14470",
+        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+        "description": "LLM-based Multi-Agent (LLM-MA) systems are increasingly applied to automate complex software engineering tasks such as requirements engineering, code generation, and testing. However, their operational efficiency and resource consumption remain poorly understood, hindering practical adoption due to unpredictable costs and environmental impact. To address this, we conduct an analysis of token consumption patterns in an LLM-MA system within the Software Development Life Cycle (SDLC), aiming to understand where tokens are consumed across distinct software engineering activities. We analyze execution traces from 30 software development tasks performed by the ChatDev framework using a GPT-5 reasoning model, mapping its internal phases to distinct development stages (Design, Coding, Code Completion, Code Review, Testing, and Documentation) to create a standardized evaluation framework. We then quantify and compare token distribution (input, output, reasoning) across these stages.\n  Our preliminary findings show that the iterative Code Review stage accounts for the majority of token consumption for an average of 59.4% of tokens. Furthermore, we observe that input tokens consistently constitute the largest share of consumption for an average of 53.9%, providing empirical evidence for potentially significant inefficiencies in agentic collaboration. Our results suggest that the primary cost of agentic software engineering lies not in initial code generation but in automated refinement and verification. Our novel methodology can help practitioners predict expenses and optimize workflows, and it directs future research toward developing more token-efficient agent collaboration protocols.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "78 points · 17 comments"
+      },
+      {
+        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+        "title": "I design with Claude more than Figma now",
+        "description": "For a long time I was skeptical of LLMs—whenever I reached for them I was disappointed by the results. Last year I tried Copilot and Cursor to tweak a game I...",
+        "image": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/figma-to-claude-hero.png",
+        "source": "blog.janestreet.com",
+        "stats": "46 points · 17 comments"
+      },
+      {
+        "url": "https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/",
+        "title": "AI is the greatest money-wasting scheme humanity has ever invented",
+        "description": "Word-guessing programmes like ChatGPT are not going to take over the world. But when this bubble pops, there’s a lot to be lost",
+        "image": "https://www.telegraph.co.uk/content/dam/news/2026/06/03/TELEMMGLPICT000487307276_17804942209490_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNpPHkRvugymKLtqq96r_VP8.jpeg?impolicy=OG-Comment",
+        "source": "telegraph.co.uk",
+        "stats": "14 points · 3 comments"
+      },
+      {
+        "url": "https://twitter.com/penguinweb3/status/2063196355011424582",
+        "title": "ChatGPT hallucinating images when asked to restore non existent photo",
+        "description": "7 points · 0 comments",
+        "image": "",
+        "source": "twitter.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.msn.com/en-us/news/technology/software-developers-admit-that-ai-is-rotting-their-brains/ar-AA237htp",
+        "title": "Software developers admit that AI is rotting their brains",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "msn.com",
+        "stats": ""
+      }
+    ],
     "2026-06-06": [
       {
         "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
@@ -8,46 +50,46 @@
         "description": "SpaceX won’t get easy access to billions of dollars from passive investors.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg",
         "source": "arstechnica.com",
-        "stats": "77 points · 9 comments"
+        "stats": "1403 points · 481 comments"
+      },
+      {
+        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+        "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+        "description": "Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn&#x27;t have two-factor authentication.",
+        "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg",
+        "source": "this.weekinsecurity.com",
+        "stats": "535 points · 193 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=48420827",
         "title": "Ask HN: Why is the HN crowd so anti-AI?",
-        "description": "78 points · 144 comments",
+        "description": "406 points · 673 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://www.businessinsider.com/worker-got-religious-exemption-using-ai-at-work-2026-6",
-        "title": "She won a religious exemption from using AI at work",
-        "description": "Legal experts say employers must take AI-related religious objections seriously, as a 2023 ruling raised the bar for denying such accommodations.",
-        "image": "https://i.insider.com/6a20a6852e5a80cfe050344a?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "19 points · 12 comments"
-      },
-      {
-        "url": "https://www.reuters.com/business/finance/bitcoins-star-fades-investors-flock-lustre-ai-megacap-ipos-2026-06-05/",
-        "title": "Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs",
-        "description": "6 points · 0 comments",
+        "url": "https://twitter.com/lemire/status/2062880075117113739",
+        "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+        "description": "265 points · 454 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "twitter.com",
         "stats": ""
       },
       {
-        "url": "https://thenewstack.io/torvalds-ai-programming-productivity/",
-        "title": "Linus Torvalds on AI",
-        "description": "Linus Torvalds says AI boosts programmer productivity but can&#039;t replace human understanding of code, system architecture at Open Source Summit keynote.",
-        "image": "https://cdn.thenewstack.io/media/2026/05/bb227d2e-daniil-komov-bglsbqqwmwa-unsplash-scaled.jpg",
-        "source": "thenewstack.io",
-        "stats": "4 points · 0 comments"
+        "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+        "title": "Police in England and Wales told to halt AI use in court statements",
+        "description": "146 points · 46 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
       }
     ],
     "2026-06-05": [
       {
         "url": "https://alexispurslane.github.io/rsync-analysis/",
         "title": "Did Claude increase bugs in rsync?",
-        "description": "370 points · 375 comments",
+        "description": "498 points · 514 comments",
         "image": "",
         "source": "alexispurslane.github.io",
         "stats": ""
@@ -58,31 +100,31 @@
         "description": "From the highly eclectic blog of Mark Dominus",
         "image": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg",
         "source": "blog.plover.com",
-        "stats": "178 points · 152 comments"
-      },
-      {
-        "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-        "title": "Hacker News, Sans AI",
-        "description": "160 points · 88 comments",
-        "image": "",
-        "source": "elijahpotter.dev",
-        "stats": ""
+        "stats": "185 points · 157 comments"
       },
       {
         "url": "https://github.com/alibaba/open-code-review",
         "title": "Open Code Review – An AI-powered code review CLI tool",
         "description": "Battle-tested at Alibaba&amp;#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...",
-        "image": "https://opengraph.githubassets.com/280369267b9c5be7a02881a2d4b9ea9fed45d8c4154cce37078a48ed50574af4/alibaba/open-code-review",
+        "image": "https://opengraph.githubassets.com/ef08ddbc5b2a9b5223136a0c186f7cb2e8b387e2a25db127673d4ad0efa98df5/alibaba/open-code-review",
         "source": "github.com",
-        "stats": "262 points · 67 comments"
+        "stats": "276 points · 68 comments"
       },
       {
-        "url": "https://passo.uno/fine-tuning-docs-llm/",
-        "title": "Fine-tuning an LLM to write docs like it's 1995",
-        "description": "In my predictions for 2030 I wrote that tech writers would be using specialized LLMs, running locally on powerful hardware. I see hints of this move to “local first” among engineering pundits, but we’re not there yet, in part because of how much more powerful connected frontier models are. That doesn’t mean we can’t experiment, though. That’s precisely what I did last week, trying to fine-tune an instruct model to write like a software technical writer from the 80s and 90s.",
-        "image": "https://passo.uno/uploads/finetuned.png",
-        "source": "passo.uno",
-        "stats": "181 points · 64 comments"
+        "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+        "title": "Hacker News, Sans AI",
+        "description": "180 points · 100 comments",
+        "image": "",
+        "source": "elijahpotter.dev",
+        "stats": ""
+      },
+      {
+        "url": "https://openai.com/index/harness-engineering/",
+        "title": "Harness engineering: Leveraging Codex in an agent-first world",
+        "description": "163 points · 102 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       }
     ],
     "2026-06-04": [
@@ -90,9 +132,17 @@
         "url": "https://github.com/anthropics/defending-code-reference-harness",
         "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
         "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness",
-        "image": "https://opengraph.githubassets.com/d75ea04cbf718618cea8fa134d6fb317ae9213faf046286c19b7af140bf34568/anthropics/defending-code-reference-harness",
+        "image": "https://opengraph.githubassets.com/415c9910ce11d28066b370d4dd2ee62e59c5e1c0470003b820245e4239bfe569/anthropics/defending-code-reference-harness",
         "source": "github.com",
-        "stats": "522 points · 140 comments"
+        "stats": "532 points · 141 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48406174",
+        "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+        "description": "590 points · 988 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
         "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
@@ -100,7 +150,7 @@
         "description": "The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department&rsquo;s grading guidelines.",
         "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&amp;resize=1200%2C630&amp;order=crop%2Cresize",
         "source": "dailycal.org",
-        "stats": "813 points · 777 comments"
+        "stats": "822 points · 787 comments"
       },
       {
         "url": "https://www.anthropic.com/institute/recursive-self-improvement",
@@ -108,23 +158,15 @@
         "description": "Our progress toward recursive self-improvement, and its implications.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "source": "anthropic.com",
-        "stats": "509 points · 683 comments"
+        "stats": "521 points · 690 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=48406174",
-        "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-        "description": "257 points · 507 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-        "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-        "description": "As a part of my work I do security research for various apps and websites. I wanted to see if LLMs could reproduce a common class of exploits I",
-        "image": "https://kasra.blog/favicon-512.png",
-        "source": "kasra.blog",
-        "stats": "398 points · 216 comments"
+        "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+        "title": "South Korean forums will need to scan every images with AI censorship tools",
+        "description": "Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...",
+        "image": "https://forum-uploads.privacyguidesusercontent.com/optimized/3X/4/9/497dff4ad1357d00ceb7403851af5b8a7d4b22da_2_774x1024.webp",
+        "source": "discuss.privacyguides.net",
+        "stats": "266 points · 148 comments"
       }
     ],
     "2026-06-03": [
@@ -134,31 +176,7 @@
         "description": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
         "source": "blog.google",
-        "stats": "1047 points · 388 comments"
-      },
-      {
-        "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-        "title": "Artificial intelligence is not conscious – Ted Chiang",
-        "description": "Taken to its logical conclusion, this line of thinking is absurd—and damning.",
-        "image": "https://cdn.theatlantic.com/thumbor/fdONLsUPMiSaP_UQenVaAXAt2nI=/40x45:1998x1065/1200x625/media/img/mt/2026/06/2026_06_01_chiang_Consciousness_Trap_final_horizontal/original.gif",
-        "source": "theatlantic.com",
-        "stats": "771 points · 1350 comments"
-      },
-      {
-        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-        "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-        "description": "I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn&#x27;t particularly surprising given they would have set that budget in 2025, …",
-        "image": "",
-        "source": "simonwillison.net",
-        "stats": "614 points · 762 comments"
-      },
-      {
-        "url": "https://github.com/duanebester/gooey",
-        "title": "Gooey: A GPU-accelerated UI framework for Zig",
-        "description": "Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered applications on macOS/Metal, WebAssembly/WebGPU, and Wayland/Vulkan - duanebester/gooey",
-        "image": "https://opengraph.githubassets.com/2d67e8b78169209481bb43084554b70e2c13b34c5cce641aea9ea2b979d21d57/duanebester/gooey",
-        "source": "github.com",
-        "stats": "196 points · 84 comments"
+        "stats": "1051 points · 392 comments"
       },
       {
         "url": "https://www.0xkato.xyz/how-llms-actually-work/",
@@ -166,7 +184,7 @@
         "description": "A from-the-ground-up walkthrough of how modern LLMs work, from tokens to transformer blocks to the next-token loop",
         "image": "",
         "source": "0xkato.xyz",
-        "stats": "130 points · 25 comments"
+        "stats": "869 points · 241 comments"
       }
     ],
     "2026-06-02": [
@@ -202,16 +220,6 @@
         "description": "99 points · 26 comments",
         "image": "",
         "source": "news.ycombinator.com",
-        "stats": ""
-      }
-    ],
-    "2026-05-31": [
-      {
-        "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-        "title": "Claude Code and Codex can have real-time conversation via Git",
-        "description": "106 points · 74 comments",
-        "image": "",
-        "source": "medium.com",
         "stats": ""
       }
     ]
