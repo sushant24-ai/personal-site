@@ -1,14 +1,64 @@
 {
-  "lastUpdated": "2026-06-07T06:34:01.172Z",
+  "lastUpdated": "2026-06-08T06:49:41.016Z",
   "days": {
+    "2026-06-08": [
+      {
+        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+        "description": "DeepSeek V4 Pro wins this head-to-head by being more exact where it matters: following instructions, matching schemas, and solving edge cases cleanly. GPT-5.5 Pro is still strong, but it gave away points with avoidable deviations.",
+        "image": "https://runtimewire.com/og/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision.jpg",
+        "source": "runtimewire.com",
+        "stats": "209 points · 70 comments"
+      },
+      {
+        "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
+        "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
+        "description": "The students found out their dorms held more than 330 cameras from their own newspaper, not the school that installed them.",
+        "image": "https://media.reclaimthenet.org/2026/06/BaJkN3bOcm7q-scaled.jpg",
+        "source": "reclaimthenet.org",
+        "stats": "35 points · 7 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zbKDmkJPVvI",
+        "title": "Anthropic and OpenAI should not be allowed to go public, says Ed Zitron",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.aimhuge.com/blog/claude-code-status-line",
+        "title": "Show HN: I put my Claude Code rate-limit burndown in the status line",
+        "description": "A two-row custom status line for Claude Code: model, context %, tokens, diff size, and rate-limit budget.",
+        "image": "https://aimhuge.com/images/blog/status-line.png",
+        "source": "aimhuge.com",
+        "stats": "5 points · 2 comments"
+      },
+      {
+        "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+        "title": "The Mythmaker at Anthropic",
+        "description": "For a while I have been wondering why Anthropic named its most powerful AI model Mythos. A safety company. A company whose entire justification for existing is that someone needs to tell the truth …",
+        "image": "https://om.co/wp-content/uploads/2026/06/A951AA18-F4C6-49D2-9335-AFE14A7185BD.png",
+        "source": "om.co",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-06-07": [
       {
-        "url": "https://arxiv.org/abs/2601.14470",
-        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-        "description": "LLM-based Multi-Agent (LLM-MA) systems are increasingly applied to automate complex software engineering tasks such as requirements engineering, code generation, and testing. However, their operational efficiency and resource consumption remain poorly understood, hindering practical adoption due to unpredictable costs and environmental impact. To address this, we conduct an analysis of token consumption patterns in an LLM-MA system within the Software Development Life Cycle (SDLC), aiming to understand where tokens are consumed across distinct software engineering activities. We analyze execution traces from 30 software development tasks performed by the ChatDev framework using a GPT-5 reasoning model, mapping its internal phases to distinct development stages (Design, Coding, Code Completion, Code Review, Testing, and Documentation) to create a standardized evaluation framework. We then quantify and compare token distribution (input, output, reasoning) across these stages.\n  Our preliminary findings show that the iterative Code Review stage accounts for the majority of token consumption for an average of 59.4% of tokens. Furthermore, we observe that input tokens consistently constitute the largest share of consumption for an average of 53.9%, providing empirical evidence for potentially significant inefficiencies in agentic collaboration. Our results suggest that the primary cost of agentic software engineering lies not in initial code generation but in automated refinement and verification. Our novel methodology can help practitioners predict expenses and optimize workflows, and it directs future research toward developing more token-efficient agent collaboration protocols.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "78 points · 17 comments"
+        "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+        "title": "LLMs are eroding my software engineering career and I don't know what to do",
+        "description": "I&#x27;m a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...",
+        "image": "https://i.ibb.co/SDdRz6RG/pawel-czerwinski-G6ez-Kt1-XOs-unsplash-1.jpg",
+        "source": "human-in-the-loop.bearblog.dev",
+        "stats": "902 points · 876 comments"
+      },
+      {
+        "url": "https://github.com/anthropics/claude-code/issues/65697",
+        "title": "Anthropic, please ship an official Claude Desktop for Linux",
+        "description": "Preflight Checklist I have searched existing requests and this feature hasn&#39;t been requested yet This is a single feature request (not multiple features) Problem Statement Preflight note. The close...",
+        "image": "https://opengraph.githubassets.com/b4d9b7a966207c62de6dc484dc1ba6018738f7970802774716f72485cde41539/anthropics/claude-code/issues/65697",
+        "source": "github.com",
+        "stats": "486 points · 276 comments"
       },
       {
         "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
@@ -16,31 +66,23 @@
         "description": "For a long time I was skeptical of LLMs—whenever I reached for them I was disappointed by the results. Last year I tried Copilot and Cursor to tweak a game I...",
         "image": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/figma-to-claude-hero.png",
         "source": "blog.janestreet.com",
-        "stats": "46 points · 17 comments"
+        "stats": "282 points · 246 comments"
       },
       {
-        "url": "https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/",
-        "title": "AI is the greatest money-wasting scheme humanity has ever invented",
-        "description": "Word-guessing programmes like ChatGPT are not going to take over the world. But when this bubble pops, there’s a lot to be lost",
-        "image": "https://www.telegraph.co.uk/content/dam/news/2026/06/03/TELEMMGLPICT000487307276_17804942209490_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNpPHkRvugymKLtqq96r_VP8.jpeg?impolicy=OG-Comment",
-        "source": "telegraph.co.uk",
-        "stats": "14 points · 3 comments"
+        "url": "https://github.com/devenjarvis/lathe",
+        "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+        "description": "Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ - devenjarvis/lathe",
+        "image": "https://opengraph.githubassets.com/a907cb3b89623e52242d33ad2f3c69ca1e71d21999c3b0fced69ecf662c9f2e0/devenjarvis/lathe",
+        "source": "github.com",
+        "stats": "292 points · 55 comments"
       },
       {
-        "url": "https://twitter.com/penguinweb3/status/2063196355011424582",
-        "title": "ChatGPT hallucinating images when asked to restore non existent photo",
-        "description": "7 points · 0 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.msn.com/en-us/news/technology/software-developers-admit-that-ai-is-rotting-their-brains/ar-AA237htp",
-        "title": "Software developers admit that AI is rotting their brains",
-        "description": "5 points · 1 comments",
-        "image": "",
-        "source": "msn.com",
-        "stats": ""
+        "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+        "title": "The OnlyFans Economy of American AI",
+        "description": "“The dreamers look skyward with longing. The Internet hums with its usual promise — you will find your people, your myth, your wonder, and maybe your transformation.”",
+        "image": "https://leoveanu.com/assets/2026-06-06-qwen3.7max/cover.png",
+        "source": "leoveanu.com",
+        "stats": "141 points · 195 comments"
       }
     ],
     "2026-06-06": [
@@ -50,7 +92,7 @@
         "description": "SpaceX won’t get easy access to billions of dollars from passive investors.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg",
         "source": "arstechnica.com",
-        "stats": "1403 points · 481 comments"
+        "stats": "1455 points · 496 comments"
       },
       {
         "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
@@ -58,12 +100,12 @@
         "description": "Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn&#x27;t have two-factor authentication.",
         "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg",
         "source": "this.weekinsecurity.com",
-        "stats": "535 points · 193 comments"
+        "stats": "694 points · 253 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=48420827",
         "title": "Ask HN: Why is the HN crowd so anti-AI?",
-        "description": "406 points · 673 comments",
+        "description": "446 points · 738 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -71,7 +113,7 @@
       {
         "url": "https://twitter.com/lemire/status/2062880075117113739",
         "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-        "description": "265 points · 454 comments",
+        "description": "324 points · 537 comments",
         "image": "",
         "source": "twitter.com",
         "stats": ""
@@ -79,7 +121,7 @@
       {
         "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
         "title": "Police in England and Wales told to halt AI use in court statements",
-        "description": "146 points · 46 comments",
+        "description": "154 points · 50 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
@@ -87,78 +129,54 @@
     ],
     "2026-06-05": [
       {
-        "url": "https://alexispurslane.github.io/rsync-analysis/",
-        "title": "Did Claude increase bugs in rsync?",
-        "description": "498 points · 514 comments",
+        "url": "https://openai.com/index/harness-engineering/",
+        "title": "Harness engineering: Leveraging Codex in an agent-first world",
+        "description": "288 points · 199 comments",
         "image": "",
-        "source": "alexispurslane.github.io",
+        "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-        "title": "Programmers will document for Claude, but not for each other",
-        "description": "From the highly eclectic blog of Mark Dominus",
-        "image": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg",
-        "source": "blog.plover.com",
-        "stats": "185 points · 157 comments"
       },
       {
         "url": "https://github.com/alibaba/open-code-review",
         "title": "Open Code Review – An AI-powered code review CLI tool",
-        "description": "Battle-tested at Alibaba&amp;#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, S...",
-        "image": "https://opengraph.githubassets.com/ef08ddbc5b2a9b5223136a0c186f7cb2e8b387e2a25db127673d4ad0efa98df5/alibaba/open-code-review",
+        "description": "Open-source &amp;amp; free — Battle-tested at Alibaba&amp;#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (N...",
+        "image": "https://opengraph.githubassets.com/8e2b4b6b738f1ba10bda386ae2b462e157578201f5228650f988f65496eb44ad/alibaba/open-code-review",
         "source": "github.com",
-        "stats": "276 points · 68 comments"
+        "stats": "279 points · 71 comments"
       },
       {
-        "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-        "title": "Hacker News, Sans AI",
-        "description": "180 points · 100 comments",
+        "url": "https://passo.uno/fine-tuning-docs-llm/",
+        "title": "Fine-tuning an LLM to write docs like it's 1995",
+        "description": "In my predictions for 2030 I wrote that tech writers would be using specialized LLMs, running locally on powerful hardware. I see hints of this move to “local first” among engineering pundits, but we’re not there yet, in part because of how much more powerful connected frontier models are. That doesn’t mean we can’t experiment, though. That’s precisely what I did last week, trying to fine-tune an instruct model to write like a software technical writer from the 80s and 90s.",
+        "image": "https://passo.uno/uploads/finetuned.png",
+        "source": "passo.uno",
+        "stats": "194 points · 66 comments"
+      },
+      {
+        "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+        "title": "Transformers are inherently succinct",
+        "description": "147 points · 41 comments",
         "image": "",
-        "source": "elijahpotter.dev",
+        "source": "openreview.net",
         "stats": ""
       },
       {
-        "url": "https://openai.com/index/harness-engineering/",
-        "title": "Harness engineering: Leveraging Codex in an agent-first world",
-        "description": "163 points · 102 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "url": "https://github.com/zdk/lowfat",
+        "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+        "description": "lowfat - slim your command output. strips noise, saves tokens. - zdk/lowfat",
+        "image": "https://opengraph.githubassets.com/bbb27f6907b9d1b472b7a7b8bb017901f41cfc6b9febfb9a24133612678d4529/zdk/lowfat",
+        "source": "github.com",
+        "stats": "151 points · 75 comments"
       }
     ],
     "2026-06-04": [
       {
-        "url": "https://github.com/anthropics/defending-code-reference-harness",
-        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-        "description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness",
-        "image": "https://opengraph.githubassets.com/415c9910ce11d28066b370d4dd2ee62e59c5e1c0470003b820245e4239bfe569/anthropics/defending-code-reference-harness",
-        "source": "github.com",
-        "stats": "532 points · 141 comments"
-      },
-      {
         "url": "https://news.ycombinator.com/item?id=48406174",
         "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-        "description": "590 points · 988 comments",
+        "description": "694 points · 1077 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-        "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-        "description": "The percentage of failing grades in multiple UC Berkeley computer science classes in spring 2026 is significantly higher than past semesters and marks a departure from the department&rsquo;s grading guidelines.",
-        "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-        "source": "dailycal.org",
-        "stats": "822 points · 787 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-        "description": "Our progress toward recursive self-improvement, and its implications.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "anthropic.com",
-        "stats": "521 points · 690 comments"
       },
       {
         "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
@@ -166,25 +184,33 @@
         "description": "Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...",
         "image": "https://forum-uploads.privacyguidesusercontent.com/optimized/3X/4/9/497dff4ad1357d00ceb7403851af5b8a7d4b22da_2_774x1024.webp",
         "source": "discuss.privacyguides.net",
-        "stats": "266 points · 148 comments"
+        "stats": "275 points · 156 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2606.04032",
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
+        "description": "Transformers have become the standard solution for various AI tasks, with the query, key, and value (QKV) attention formulation playing a central role. However, the individual contribution of these three projections and the impact of omitting some remain poorly understood. We systematically evaluate three projection sharing constraints: a) Q-K=V (shared key-value), b) Q=K-V (shared query-key), and c) Q=K=V (single projection). The last two variants produce symmetric attention maps; to address this, we also explore asymmetric attention via 2D positional encodings. Through experiments spanning synthetic tasks, vision (MNIST, CIFAR, TinyImageNet, anomaly), and language modeling (300M and 1.2B parameter models on 10B tokens), we discovered that our transformers perform on par or occasionally better than the QKV transformer. In language modeling, Q-K=V projection sharing achieves 50% KV cache reduction with only 3.1% perplexity degradation. Crucially, projection sharing is complementary to head sharing (GQA/MQA): combining Q-K=V with GQA-4 yields 87.5% cache reduction, while Q-K=V + MQA achieves 96.9%, enabling practical on-device inference. We show that Q-K=V preserves quality because keys and values can occupy similar representational spaces and attention operates in a low-rank regime, whereas Q=K-V breaks attention directionality. Our results systematically characterize projection sharing as an underexplored instance of weight tying in attention, with direct, quantifiable inference memory benefits, particularly valuable for edge deployment. The code is publicly available at https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "222 points · 47 comments"
+      },
+      {
+        "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+        "title": "My Agent Skill for Test-Driven Development",
+        "description": "AI agents tend to be, at least as of this writing (May 2026), lousy at writing tests. The tests they write are often vague, cryptic, overcomplicated, hacky, dis...",
+        "image": "https://www.saturnci.com/images/og-image.png",
+        "source": "saturnci.com",
+        "stats": "246 points · 109 comments"
       }
     ],
     "2026-06-03": [
-      {
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-        "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-        "description": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
-        "source": "blog.google",
-        "stats": "1051 points · 392 comments"
-      },
       {
         "url": "https://www.0xkato.xyz/how-llms-actually-work/",
         "title": "How LLMs work",
         "description": "A from-the-ground-up walkthrough of how modern LLMs work, from tokens to transformer blocks to the next-token loop",
         "image": "",
         "source": "0xkato.xyz",
-        "stats": "869 points · 241 comments"
+        "stats": "924 points · 261 comments"
       }
     ],
     "2026-06-02": [
@@ -203,24 +229,6 @@
         "image": "https://framerusercontent.com/images/LJwUi6OIskYSaLLXynnJExGaA.png?width=993&amp;height=670",
         "source": "kapa.ai",
         "stats": "203 points · 28 comments"
-      }
-    ],
-    "2026-06-01": [
-      {
-        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-        "description": "711 points · 1249 comments",
-        "image": "",
-        "source": "economist.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48356312",
-        "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
-        "description": "99 points · 26 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
       }
     ]
   }
