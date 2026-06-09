@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-08T06:49:41.016Z",
+  "lastUpdated": "2026-06-09T06:13:18.335Z",
   "days": {
+    "2026-06-09": [
+      {
+        "url": "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon",
+        "title": "What Apple Knows About AI That Silicon Valley Won't Admit",
+        "description": "Apple looked at AI and said: this changes nothing",
+        "image": "https://substackcdn.com/image/fetch/$s_!4vcH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c52689e-4037-4a26-a3a7-d74ddb4f3e2c_992x558.avif",
+        "source": "thealgorithmicbridge.com",
+        "stats": "5 points · 3 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+        "title": "OpenAI Preps Overhaul of ChatGPT",
+        "description": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg",
+        "source": "arstechnica.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2602.14690",
+        "title": "Configuring Agentic AI Coding Tools: An Exploratory Study",
+        "description": "Agentic AI coding tools increasingly automate software development tasks. Developers can configure these tools through versioned repository-level artifacts such as Markdown and JSON files. We present a systematic analysis of configuration mechanisms for agentic AI coding tools, covering Claude Code, GitHub Copilot, Cursor, Gemini, and Codex. We identify eight configuration mechanisms spanning from static context to executable and external integrations and, in an empirical study of 2,853 GitHub repositories, examine whether and how they are adopted, with a detailed analysis of Context Files, Skills, and Subagents. First, Context Files dominate the configuration landscape and are often the sole mechanism in a repository, with AGENTS$.$md emerging as an interoperable standard across tools. Second, few repositories adopt advanced mechanisms such as Skills and Subagents. Skills predominantly rely on static instructions rather than executable scripts. Third, distinct configuration practices are forming around different tools, with Claude Code users employing the broadest range of mechanisms. These findings establish an empirical baseline for understanding how developers configure agentic tools, suggest that AGENTS$.$md serves as a natural starting point, and motivate longitudinal and experimental research on how configuration strategies evolve and affect agent performance.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://github.com/wiztek-llc/context-ledger/tree/main",
+        "title": "How to have Claude Code run 28× longer before auto-compaction",
+        "description": "Commit-boundary context compaction for long-horizon coding agents — ties full-context retention at ~5x lower cost, proven Pareto-dominant - wiztek-llc/context-ledger",
+        "image": "https://opengraph.githubassets.com/9b548d137e8382af602dbe6c86907bca061d00324368e530d4da57d4658a1d83/wiztek-llc/context-ledger",
+        "source": "github.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48455882",
+        "title": "Ask HN: I see AI valuation coming down as soon as next year. What do you think?",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-06-08": [
+      {
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "title": "Apple reveals new AI architecture built around Google Gemini models",
+        "description": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.",
+        "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
+        "source": "macrumors.com",
+        "stats": "495 points · 382 comments"
+      },
+      {
+        "url": "https://www.apple.com/apple-intelligence/",
+        "title": "Siri AI",
+        "description": "Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.",
+        "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607",
+        "source": "apple.com",
+        "stats": "513 points · 446 comments"
+      },
+      {
+        "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+        "title": "AI is slowing down",
+        "description": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s",
+        "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+        "source": "wheresyoured.at",
+        "stats": "482 points · 505 comments"
+      },
       {
         "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
         "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
         "description": "DeepSeek V4 Pro wins this head-to-head by being more exact where it matters: following instructions, matching schemas, and solving edge cases cleanly. GPT-5.5 Pro is still strong, but it gave away points with avoidable deviations.",
         "image": "https://runtimewire.com/og/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision.jpg",
         "source": "runtimewire.com",
-        "stats": "209 points · 70 comments"
+        "stats": "390 points · 217 comments"
       },
       {
-        "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
-        "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
-        "description": "The students found out their dorms held more than 330 cameras from their own newspaper, not the school that installed them.",
-        "image": "https://media.reclaimthenet.org/2026/06/BaJkN3bOcm7q-scaled.jpg",
-        "source": "reclaimthenet.org",
-        "stats": "35 points · 7 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=zbKDmkJPVvI",
-        "title": "Anthropic and OpenAI should not be allowed to go public, says Ed Zitron",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://www.aimhuge.com/blog/claude-code-status-line",
-        "title": "Show HN: I put my Claude Code rate-limit burndown in the status line",
-        "description": "A two-row custom status line for Claude Code: model, context %, tokens, diff size, and rate-limit budget.",
-        "image": "https://aimhuge.com/images/blog/status-line.png",
-        "source": "aimhuge.com",
-        "stats": "5 points · 2 comments"
-      },
-      {
-        "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
-        "title": "The Mythmaker at Anthropic",
-        "description": "For a while I have been wondering why Anthropic named its most powerful AI model Mythos. A safety company. A company whose entire justification for existing is that someone needs to tell the truth …",
-        "image": "https://om.co/wp-content/uploads/2026/06/A951AA18-F4C6-49D2-9335-AFE14A7185BD.png",
-        "source": "om.co",
-        "stats": "3 points · 0 comments"
+        "url": "https://developer.apple.com/documentation/coreai/",
+        "title": "Apple Core AI Framework",
+        "description": "Run AI models in your app on Apple silicon.",
+        "image": "https://docs.developer.apple.com/tutorials/developer-og.jpg",
+        "source": "developer.apple.com",
+        "stats": "250 points · 61 comments"
       }
     ],
     "2026-06-07": [
@@ -50,15 +92,15 @@
         "description": "I&#x27;m a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...",
         "image": "https://i.ibb.co/SDdRz6RG/pawel-czerwinski-G6ez-Kt1-XOs-unsplash-1.jpg",
         "source": "human-in-the-loop.bearblog.dev",
-        "stats": "902 points · 876 comments"
+        "stats": "1111 points · 1050 comments"
       },
       {
         "url": "https://github.com/anthropics/claude-code/issues/65697",
         "title": "Anthropic, please ship an official Claude Desktop for Linux",
         "description": "Preflight Checklist I have searched existing requests and this feature hasn&#39;t been requested yet This is a single feature request (not multiple features) Problem Statement Preflight note. The close...",
-        "image": "https://opengraph.githubassets.com/b4d9b7a966207c62de6dc484dc1ba6018738f7970802774716f72485cde41539/anthropics/claude-code/issues/65697",
+        "image": "https://opengraph.githubassets.com/189bdf5b2195083079d4dcd59cfa5e863079f5f2b534249cff7d8f5a4aa47f27/anthropics/claude-code/issues/65697",
         "source": "github.com",
-        "stats": "486 points · 276 comments"
+        "stats": "526 points · 300 comments"
       },
       {
         "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
@@ -66,23 +108,23 @@
         "description": "For a long time I was skeptical of LLMs—whenever I reached for them I was disappointed by the results. Last year I tried Copilot and Cursor to tweak a game I...",
         "image": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/figma-to-claude-hero.png",
         "source": "blog.janestreet.com",
-        "stats": "282 points · 246 comments"
+        "stats": "311 points · 267 comments"
       },
       {
         "url": "https://github.com/devenjarvis/lathe",
         "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
         "description": "Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ - devenjarvis/lathe",
-        "image": "https://opengraph.githubassets.com/a907cb3b89623e52242d33ad2f3c69ca1e71d21999c3b0fced69ecf662c9f2e0/devenjarvis/lathe",
+        "image": "https://opengraph.githubassets.com/7b90a279034c60b6f24ee0f838ac1de2ac0917910c93888e0e0aa606363c64c9/devenjarvis/lathe",
         "source": "github.com",
-        "stats": "292 points · 55 comments"
+        "stats": "384 points · 69 comments"
       },
       {
-        "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
-        "title": "The OnlyFans Economy of American AI",
-        "description": "“The dreamers look skyward with longing. The Internet hums with its usual promise — you will find your people, your myth, your wonder, and maybe your transformation.”",
-        "image": "https://leoveanu.com/assets/2026-06-06-qwen3.7max/cover.png",
-        "source": "leoveanu.com",
-        "stats": "141 points · 195 comments"
+        "url": "https://arxiv.org/abs/2601.14470",
+        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+        "description": "LLM-based Multi-Agent (LLM-MA) systems are increasingly applied to automate complex software engineering tasks such as requirements engineering, code generation, and testing. However, their operational efficiency and resource consumption remain poorly understood, hindering practical adoption due to unpredictable costs and environmental impact. To address this, we conduct an analysis of token consumption patterns in an LLM-MA system within the Software Development Life Cycle (SDLC), aiming to understand where tokens are consumed across distinct software engineering activities. We analyze execution traces from 30 software development tasks performed by the ChatDev framework using a GPT-5 reasoning model, mapping its internal phases to distinct development stages (Design, Coding, Code Completion, Code Review, Testing, and Documentation) to create a standardized evaluation framework. We then quantify and compare token distribution (input, output, reasoning) across these stages.\n  Our preliminary findings show that the iterative Code Review stage accounts for the majority of token consumption for an average of 59.4% of tokens. Furthermore, we observe that input tokens consistently constitute the largest share of consumption for an average of 53.9%, providing empirical evidence for potentially significant inefficiencies in agentic collaboration. Our results suggest that the primary cost of agentic software engineering lies not in initial code generation but in automated refinement and verification. Our novel methodology can help practitioners predict expenses and optimize workflows, and it directs future research toward developing more token-efficient agent collaboration protocols.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "172 points · 74 comments"
       }
     ],
     "2026-06-06": [
@@ -131,42 +173,34 @@
       {
         "url": "https://openai.com/index/harness-engineering/",
         "title": "Harness engineering: Leveraging Codex in an agent-first world",
-        "description": "288 points · 199 comments",
+        "description": "295 points · 203 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/alibaba/open-code-review",
-        "title": "Open Code Review – An AI-powered code review CLI tool",
-        "description": "Open-source &amp;amp; free — Battle-tested at Alibaba&amp;#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (N...",
-        "image": "https://opengraph.githubassets.com/8e2b4b6b738f1ba10bda386ae2b462e157578201f5228650f988f65496eb44ad/alibaba/open-code-review",
+        "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+        "title": "Playing with Vision Embeddings",
+        "description": "Poking at the geometry of an image model&#x27;s feature space.",
+        "image": "https://prestonbjensen.com/assets/blog/dino-viz/og_image.jpg",
+        "source": "prestonbjensen.com",
+        "stats": "152 points · 13 comments"
+      },
+      {
+        "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+        "title": "Arithmetic Without Numbers – How LLMs Do Math",
+        "description": "What happens inside an LLM when it tries to calculate with nothing but matrices.",
+        "image": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/assets/repo-card.png",
+        "source": "alvaro-videla.com",
+        "stats": "122 points · 39 comments"
+      },
+      {
+        "url": "https://github.com/markusheimerl/gpt",
+        "title": "Tiny hackable CUDA language model implementation",
+        "description": "A generative pretrained transformer implementation - markusheimerl/gpt",
+        "image": "https://opengraph.githubassets.com/dc386278194a855b1b4b1de6302c29fea1e1ebd4bd7ba17fb6a549b4f7b1834b/markusheimerl/gpt",
         "source": "github.com",
-        "stats": "279 points · 71 comments"
-      },
-      {
-        "url": "https://passo.uno/fine-tuning-docs-llm/",
-        "title": "Fine-tuning an LLM to write docs like it's 1995",
-        "description": "In my predictions for 2030 I wrote that tech writers would be using specialized LLMs, running locally on powerful hardware. I see hints of this move to “local first” among engineering pundits, but we’re not there yet, in part because of how much more powerful connected frontier models are. That doesn’t mean we can’t experiment, though. That’s precisely what I did last week, trying to fine-tune an instruct model to write like a software technical writer from the 80s and 90s.",
-        "image": "https://passo.uno/uploads/finetuned.png",
-        "source": "passo.uno",
-        "stats": "194 points · 66 comments"
-      },
-      {
-        "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-        "title": "Transformers are inherently succinct",
-        "description": "147 points · 41 comments",
-        "image": "",
-        "source": "openreview.net",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/zdk/lowfat",
-        "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-        "description": "lowfat - slim your command output. strips noise, saves tokens. - zdk/lowfat",
-        "image": "https://opengraph.githubassets.com/bbb27f6907b9d1b472b7a7b8bb017901f41cfc6b9febfb9a24133612678d4529/zdk/lowfat",
-        "source": "github.com",
-        "stats": "151 points · 75 comments"
+        "stats": "78 points · 13 comments"
       }
     ],
     "2026-06-04": [
@@ -211,24 +245,6 @@
         "image": "",
         "source": "0xkato.xyz",
         "stats": "924 points · 261 comments"
-      }
-    ],
-    "2026-06-02": [
-      {
-        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-        "title": "AI outperforms law professors in Stanford Law study",
-        "description": "A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st",
-        "image": "https://law.stanford.edu/wp-content/uploads/2026/02/GettyImages-2224544837-1200x630.jpg",
-        "source": "law.stanford.edu",
-        "stats": "409 points · 357 comments"
-      },
-      {
-        "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-        "title": "How we index images for RAG",
-        "description": "Reading the screenshots, diagrams and tables in technical documentation for LLMs",
-        "image": "https://framerusercontent.com/images/LJwUi6OIskYSaLLXynnJExGaA.png?width=993&amp;height=670",
-        "source": "kapa.ai",
-        "stats": "203 points · 28 comments"
       }
     ]
   }
