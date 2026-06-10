@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-09T06:13:18.335Z",
+  "lastUpdated": "2026-06-10T06:35:21.761Z",
   "days": {
+    "2026-06-10": [
+      {
+        "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+        "title": "German ruling declares Google liable for false answers in AI Overviews",
+        "description": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don&#039;t apply to AI overviews. In this case, Google&#039;s AI had falsely linked two publishers to fraud and made claims that didn&#039;t appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.",
+        "image": "https://the-decoder.com/wp-content/uploads/2026/06/ai_overviews_hammer_law.png",
+        "source": "the-decoder.com",
+        "stats": "319 points · 203 comments"
+      },
+      {
+        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+        "title": "Rich Sutton on AI creativity and discovery",
+        "description": "A new and possibly controversial perspective:\nIn this video, I explain the sense in which generative AI trained by supervised learning is incapable of making novel discoveries.\nhttps://t.co/LhAU6AyDkh\n\nThe text of the speech:\n\nAI Creativity and Discovery\n\nGood day ladies and",
+        "image": "https://pbs.twimg.com/profile_images/1797759934811254786/XsJes4Sk_200x200.jpg",
+        "source": "twitter.com",
+        "stats": "78 points · 42 comments"
+      },
+      {
+        "url": "https://www.matteast.io/competition-is-for-losers.html",
+        "title": "Apple pays Google $1B/yr for Gemini. Google pays Apple $20B/yr for search",
+        "description": "The market scored Apple as a loser in the AI race. It",
+        "image": "",
+        "source": "matteast.io",
+        "stats": "6 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/jianzhichun/permafrost",
+        "title": "Permafrost – freeze Claude Code's prompt prefix, cut your DeepSeek bill 64%",
+        "description": "Freeze Claude Code&amp;#39;s prompt prefix so DeepSeek&amp;#39;s automatic cache always hits — alignment proxy + coalescing + keepalive, installable as a CC plugin. Measured 64% cheaper on real Claude Code...",
+        "image": "https://opengraph.githubassets.com/220b7e3d2dc993a0eceb4a68eb34dd3ce77199baf6408c897cf50de13ed5edc9/jianzhichun/permafrost",
+        "source": "github.com",
+        "stats": "3 points · 2 comments"
+      },
+      {
+        "url": "https://www.beontheloop.com/deck",
+        "title": "Fundamental of Running Agentic Loops",
+        "description": "Your agents don&#x27;t finish — and it&#x27;s not the model, it&#x27;s the harness. Beontheloop is the runnable system that makes a long agent run (Claude Code, Codex, Cursor) actually finish, verified — not vibes. Read the free Deck; join the waitlist to lock the founding price on the Harness Starter Kit.",
+        "image": "https://beontheloop.com/deck/opengraph-image?165988b980a9e839",
+        "source": "beontheloop.com",
+        "stats": "3 points · 6 comments"
+      }
+    ],
     "2026-06-09": [
       {
-        "url": "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon",
-        "title": "What Apple Knows About AI That Silicon Valley Won't Admit",
-        "description": "Apple looked at AI and said: this changes nothing",
-        "image": "https://substackcdn.com/image/fetch/$s_!4vcH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c52689e-4037-4a26-a3a7-d74ddb4f3e2c_992x558.avif",
-        "source": "thealgorithmicbridge.com",
-        "stats": "5 points · 3 comments"
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "title": "Claude Fable 5",
+        "description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
+        "source": "anthropic.com",
+        "stats": "2046 points · 1576 comments"
       },
       {
-        "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-        "title": "OpenAI Preps Overhaul of ChatGPT",
-        "description": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg",
-        "source": "arstechnica.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2602.14690",
-        "title": "Configuring Agentic AI Coding Tools: An Exploratory Study",
-        "description": "Agentic AI coding tools increasingly automate software development tasks. Developers can configure these tools through versioned repository-level artifacts such as Markdown and JSON files. We present a systematic analysis of configuration mechanisms for agentic AI coding tools, covering Claude Code, GitHub Copilot, Cursor, Gemini, and Codex. We identify eight configuration mechanisms spanning from static context to executable and external integrations and, in an empirical study of 2,853 GitHub repositories, examine whether and how they are adopted, with a detailed analysis of Context Files, Skills, and Subagents. First, Context Files dominate the configuration landscape and are often the sole mechanism in a repository, with AGENTS$.$md emerging as an interoperable standard across tools. Second, few repositories adopt advanced mechanisms such as Skills and Subagents. Skills predominantly rely on static instructions rather than executable scripts. Third, distinct configuration practices are forming around different tools, with Claude Code users employing the broadest range of mechanisms. These findings establish an empirical baseline for understanding how developers configure agentic tools, suggest that AGENTS$.$md serves as a natural starting point, and motivate longitudinal and experimental research on how configuration strategies evolve and affect agent performance.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://github.com/wiztek-llc/context-ledger/tree/main",
-        "title": "How to have Claude Code run 28× longer before auto-compaction",
-        "description": "Commit-boundary context compaction for long-horizon coding agents — ties full-context retention at ~5x lower cost, proven Pareto-dominant - wiztek-llc/context-ledger",
-        "image": "https://opengraph.githubassets.com/9b548d137e8382af602dbe6c86907bca061d00324368e530d4da57d4658a1d83/wiztek-llc/context-ledger",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48455882",
-        "title": "Ask HN: I see AI valuation coming down as soon as next year. What do you think?",
-        "description": "3 points · 0 comments",
+        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+        "title": "If Claude Fable stops helping you, you'll never know",
+        "description": "Anthropic",
         "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "source": "jonready.com",
+        "stats": "706 points · 353 comments"
+      },
+      {
+        "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+        "title": "CEOs who think AI replaces their employees are just bad CEOs",
+        "description": "In the last three months I&#8217;ve had people forward me four separate examples of a CEO losing his or her mind over AI. What&#8217;s been striking to me is the similarity in each case: It would b…",
+        "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+        "source": "techdirt.com",
+        "stats": "584 points · 226 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+        "description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/07/Microsoft-e1658216731934.jpg?resize=1200,675",
+        "source": "techcrunch.com",
+        "stats": "534 points · 184 comments"
+      },
+      {
+        "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+        "title": "Cleaning up after AI rockstar developers",
+        "description": "We",
+        "image": "https://www.codingwithjesse.com/images/2026-06-08-rockstar-developers.jpg",
+        "source": "codingwithjesse.com",
+        "stats": "461 points · 333 comments"
       }
     ],
     "2026-06-08": [
@@ -50,7 +92,7 @@
         "description": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.",
         "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
         "source": "macrumors.com",
-        "stats": "495 points · 382 comments"
+        "stats": "716 points · 554 comments"
       },
       {
         "url": "https://www.apple.com/apple-intelligence/",
@@ -58,7 +100,7 @@
         "description": "Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.",
         "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607",
         "source": "apple.com",
-        "stats": "513 points · 446 comments"
+        "stats": "665 points · 687 comments"
       },
       {
         "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
@@ -66,15 +108,15 @@
         "description": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s",
         "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
         "source": "wheresyoured.at",
-        "stats": "482 points · 505 comments"
+        "stats": "649 points · 750 comments"
       },
       {
-        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-        "description": "DeepSeek V4 Pro wins this head-to-head by being more exact where it matters: following instructions, matching schemas, and solving edge cases cleanly. GPT-5.5 Pro is still strong, but it gave away points with avoidable deviations.",
-        "image": "https://runtimewire.com/og/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision.jpg",
-        "source": "runtimewire.com",
-        "stats": "390 points · 217 comments"
+        "url": "https://news.ycombinator.com/item?id=48449187",
+        "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+        "description": "417 points · 712 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
         "url": "https://developer.apple.com/documentation/coreai/",
@@ -82,169 +124,47 @@
         "description": "Run AI models in your app on Apple silicon.",
         "image": "https://docs.developer.apple.com/tutorials/developer-og.jpg",
         "source": "developer.apple.com",
-        "stats": "250 points · 61 comments"
+        "stats": "357 points · 106 comments"
       }
     ],
     "2026-06-07": [
-      {
-        "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-        "title": "LLMs are eroding my software engineering career and I don't know what to do",
-        "description": "I&#x27;m a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...",
-        "image": "https://i.ibb.co/SDdRz6RG/pawel-czerwinski-G6ez-Kt1-XOs-unsplash-1.jpg",
-        "source": "human-in-the-loop.bearblog.dev",
-        "stats": "1111 points · 1050 comments"
-      },
-      {
-        "url": "https://github.com/anthropics/claude-code/issues/65697",
-        "title": "Anthropic, please ship an official Claude Desktop for Linux",
-        "description": "Preflight Checklist I have searched existing requests and this feature hasn&#39;t been requested yet This is a single feature request (not multiple features) Problem Statement Preflight note. The close...",
-        "image": "https://opengraph.githubassets.com/189bdf5b2195083079d4dcd59cfa5e863079f5f2b534249cff7d8f5a4aa47f27/anthropics/claude-code/issues/65697",
-        "source": "github.com",
-        "stats": "526 points · 300 comments"
-      },
       {
         "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
         "title": "I design with Claude more than Figma now",
         "description": "For a long time I was skeptical of LLMs—whenever I reached for them I was disappointed by the results. Last year I tried Copilot and Cursor to tweak a game I...",
         "image": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/figma-to-claude-hero.png",
         "source": "blog.janestreet.com",
-        "stats": "311 points · 267 comments"
-      },
-      {
-        "url": "https://github.com/devenjarvis/lathe",
-        "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-        "description": "Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ - devenjarvis/lathe",
-        "image": "https://opengraph.githubassets.com/7b90a279034c60b6f24ee0f838ac1de2ac0917910c93888e0e0aa606363c64c9/devenjarvis/lathe",
-        "source": "github.com",
-        "stats": "384 points · 69 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2601.14470",
-        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-        "description": "LLM-based Multi-Agent (LLM-MA) systems are increasingly applied to automate complex software engineering tasks such as requirements engineering, code generation, and testing. However, their operational efficiency and resource consumption remain poorly understood, hindering practical adoption due to unpredictable costs and environmental impact. To address this, we conduct an analysis of token consumption patterns in an LLM-MA system within the Software Development Life Cycle (SDLC), aiming to understand where tokens are consumed across distinct software engineering activities. We analyze execution traces from 30 software development tasks performed by the ChatDev framework using a GPT-5 reasoning model, mapping its internal phases to distinct development stages (Design, Coding, Code Completion, Code Review, Testing, and Documentation) to create a standardized evaluation framework. We then quantify and compare token distribution (input, output, reasoning) across these stages.\n  Our preliminary findings show that the iterative Code Review stage accounts for the majority of token consumption for an average of 59.4% of tokens. Furthermore, we observe that input tokens consistently constitute the largest share of consumption for an average of 53.9%, providing empirical evidence for potentially significant inefficiencies in agentic collaboration. Our results suggest that the primary cost of agentic software engineering lies not in initial code generation but in automated refinement and verification. Our novel methodology can help practitioners predict expenses and optimize workflows, and it directs future research toward developing more token-efficient agent collaboration protocols.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "172 points · 74 comments"
+        "stats": "316 points · 266 comments"
       }
     ],
     "2026-06-06": [
       {
-        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-        "description": "SpaceX won’t get easy access to billions of dollars from passive investors.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg",
-        "source": "arstechnica.com",
-        "stats": "1455 points · 496 comments"
-      },
-      {
-        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-        "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-        "description": "Meta fixed the bug that let anyone trick its Meta AI chatbot into resetting the password on Instagram accounts that didn&#x27;t have two-factor authentication.",
-        "image": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/06/meta-ai-chatbot-twis-story-2.jpg",
-        "source": "this.weekinsecurity.com",
-        "stats": "694 points · 253 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48420827",
-        "title": "Ask HN: Why is the HN crowd so anti-AI?",
-        "description": "446 points · 738 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/lemire/status/2062880075117113739",
-        "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-        "description": "324 points · 537 comments",
-        "image": "",
-        "source": "twitter.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-        "title": "Police in England and Wales told to halt AI use in court statements",
-        "description": "154 points · 50 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
+        "url": "https://opencv.org/opencv-5/",
+        "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+        "description": "OpenCV 5 is here! A massive modernization brings a graph-based DNN engine, over 80% ONNX coverage, hardware acceleration, LLM/VLM support, and a faster Python-first core. Learn why this isn&#039;t just an incremental update.",
+        "image": "https://opencv.org/wp-content/uploads/2026/06/opencv-5.png",
+        "source": "opencv.org",
+        "stats": "738 points · 133 comments"
       }
     ],
     "2026-06-05": [
-      {
-        "url": "https://openai.com/index/harness-engineering/",
-        "title": "Harness engineering: Leveraging Codex in an agent-first world",
-        "description": "295 points · 203 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
       {
         "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
         "title": "Playing with Vision Embeddings",
         "description": "Poking at the geometry of an image model&#x27;s feature space.",
         "image": "https://prestonbjensen.com/assets/blog/dino-viz/og_image.jpg",
         "source": "prestonbjensen.com",
-        "stats": "152 points · 13 comments"
-      },
-      {
-        "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-        "title": "Arithmetic Without Numbers – How LLMs Do Math",
-        "description": "What happens inside an LLM when it tries to calculate with nothing but matrices.",
-        "image": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/assets/repo-card.png",
-        "source": "alvaro-videla.com",
-        "stats": "122 points · 39 comments"
-      },
-      {
-        "url": "https://github.com/markusheimerl/gpt",
-        "title": "Tiny hackable CUDA language model implementation",
-        "description": "A generative pretrained transformer implementation - markusheimerl/gpt",
-        "image": "https://opengraph.githubassets.com/dc386278194a855b1b4b1de6302c29fea1e1ebd4bd7ba17fb6a549b4f7b1834b/markusheimerl/gpt",
-        "source": "github.com",
-        "stats": "78 points · 13 comments"
+        "stats": "158 points · 14 comments"
       }
     ],
     "2026-06-04": [
       {
-        "url": "https://news.ycombinator.com/item?id=48406174",
-        "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-        "description": "694 points · 1077 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-        "title": "South Korean forums will need to scan every images with AI censorship tools",
-        "description": "Due to recent regulation changes (전기통신사업법), the South Korean government is requiring internet communities and forum owners to scan every user uploaded images and videos on their website, by AI.  The hardware to run these AI models are also not provided by government, website owners have to buy datacenter grade Nvidia GPUs by themselves, putting financial pressure to small businesses and forums.  Websites will need to implement these hardware and software features, starting immediately from July ...",
-        "image": "https://forum-uploads.privacyguidesusercontent.com/optimized/3X/4/9/497dff4ad1357d00ceb7403851af5b8a7d4b22da_2_774x1024.webp",
-        "source": "discuss.privacyguides.net",
-        "stats": "275 points · 156 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2606.04032",
-        "title": "Do transformers need three projections? Systematic study of QKV variants",
-        "description": "Transformers have become the standard solution for various AI tasks, with the query, key, and value (QKV) attention formulation playing a central role. However, the individual contribution of these three projections and the impact of omitting some remain poorly understood. We systematically evaluate three projection sharing constraints: a) Q-K=V (shared key-value), b) Q=K-V (shared query-key), and c) Q=K=V (single projection). The last two variants produce symmetric attention maps; to address this, we also explore asymmetric attention via 2D positional encodings. Through experiments spanning synthetic tasks, vision (MNIST, CIFAR, TinyImageNet, anomaly), and language modeling (300M and 1.2B parameter models on 10B tokens), we discovered that our transformers perform on par or occasionally better than the QKV transformer. In language modeling, Q-K=V projection sharing achieves 50% KV cache reduction with only 3.1% perplexity degradation. Crucially, projection sharing is complementary to head sharing (GQA/MQA): combining Q-K=V with GQA-4 yields 87.5% cache reduction, while Q-K=V + MQA achieves 96.9%, enabling practical on-device inference. We show that Q-K=V preserves quality because keys and values can occupy similar representational spaces and attention operates in a low-rank regime, whereas Q=K-V breaks attention directionality. Our results systematically characterize projection sharing as an underexplored instance of weight tying in attention, with direct, quantifiable inference memory benefits, particularly valuable for edge deployment. The code is publicly available at https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "222 points · 47 comments"
-      },
-      {
-        "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-        "title": "My Agent Skill for Test-Driven Development",
-        "description": "AI agents tend to be, at least as of this writing (May 2026), lousy at writing tests. The tests they write are often vague, cryptic, overcomplicated, hacky, dis...",
-        "image": "https://www.saturnci.com/images/og-image.png",
-        "source": "saturnci.com",
-        "stats": "246 points · 109 comments"
-      }
-    ],
-    "2026-06-03": [
-      {
-        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-        "title": "How LLMs work",
-        "description": "A from-the-ground-up walkthrough of how modern LLMs work, from tokens to transformer blocks to the next-token loop",
-        "image": "",
-        "source": "0xkato.xyz",
-        "stats": "924 points · 261 comments"
+        "url": "https://cost.dev/",
+        "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+        "description": "Install in minutes and eliminate cloud waste from your IaC configurations — before you go to PR review.",
+        "image": "https://cost.dev/images/og-image.png",
+        "source": "cost.dev",
+        "stats": "47 points · 26 comments"
       }
     ]
   }
