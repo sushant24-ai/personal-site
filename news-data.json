@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-06-10T06:35:21.761Z",
+  "lastUpdated": "2026-06-11T06:53:27.122Z",
   "days": {
+    "2026-06-11": [
+      {
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "description": "Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]",
+        "image": "",
+        "source": "lwn.net",
+        "stats": "328 points · 99 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+        "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+        "description": "OpenAI is reportedly mulling drastic price cuts to its AI models, as it looks to woo consumers from rival AI company Anthropic, the WSJ reported on Wednesday.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "55 points · 62 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+        "title": "Anthropic Walks Back Policy That Could Have 'Sabotaged' Researchers Using Claude",
+        "description": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+        "image": "https://media.wired.com/photos/6a2a20ee0ce2fad63750b97b/191:100/w_1280,c_limit/2280239203",
+        "source": "wired.com",
+        "stats": "33 points · 17 comments"
+      },
+      {
+        "url": "https://twitter.com/antirez/status/2064766429887352971",
+        "title": "Antirez on X: I believe what Anthropic is doing is *deeply* wrong",
+        "description": "I want to say a final thing about my Fable first reaction: I dedicated my life to programming and I&#x27;ll use every innovation in the field, also to extract value and bring it to the local inference world, to Redis, and so forth. But:",
+        "image": "https://pbs.twimg.com/profile_images/1779914746159882240/v6h2w9g0_200x200.jpg",
+        "source": "twitter.com",
+        "stats": "34 points · 5 comments"
+      },
+      {
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/10/anthropic-claude-fable-5-refuses-innocuous-prompts/5253754",
+        "title": "It blocked us at 'hello ' Anthropic Fable 5 refusing innocuous prompts",
+        "description": "Hyper-vigilant safety classifiers turn Fable into cautionary tale",
+        "image": "https://image.theregister.com/5230481.jpg?imageId=5230481&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "14 points · 1 comments"
+      }
+    ],
     "2026-06-10": [
       {
         "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
@@ -8,39 +50,39 @@
         "description": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don&#039;t apply to AI overviews. In this case, Google&#039;s AI had falsely linked two publishers to fraud and made claims that didn&#039;t appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.",
         "image": "https://the-decoder.com/wp-content/uploads/2026/06/ai_overviews_hammer_law.png",
         "source": "the-decoder.com",
-        "stats": "319 points · 203 comments"
+        "stats": "976 points · 516 comments"
       },
       {
-        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-        "title": "Rich Sutton on AI creativity and discovery",
-        "description": "A new and possibly controversial perspective:\nIn this video, I explain the sense in which generative AI trained by supervised learning is incapable of making novel discoveries.\nhttps://t.co/LhAU6AyDkh\n\nThe text of the speech:\n\nAI Creativity and Discovery\n\nGood day ladies and",
-        "image": "https://pbs.twimg.com/profile_images/1797759934811254786/XsJes4Sk_200x200.jpg",
-        "source": "twitter.com",
-        "stats": "78 points · 42 comments"
-      },
-      {
-        "url": "https://www.matteast.io/competition-is-for-losers.html",
-        "title": "Apple pays Google $1B/yr for Gemini. Google pays Apple $20B/yr for search",
-        "description": "The market scored Apple as a loser in the AI race. It",
-        "image": "",
-        "source": "matteast.io",
-        "stats": "6 points · 1 comments"
-      },
-      {
-        "url": "https://github.com/jianzhichun/permafrost",
-        "title": "Permafrost – freeze Claude Code's prompt prefix, cut your DeepSeek bill 64%",
-        "description": "Freeze Claude Code&amp;#39;s prompt prefix so DeepSeek&amp;#39;s automatic cache always hits — alignment proxy + coalescing + keepalive, installable as a CC plugin. Measured 64% cheaper on real Claude Code...",
-        "image": "https://opengraph.githubassets.com/220b7e3d2dc993a0eceb4a68eb34dd3ce77199baf6408c897cf50de13ed5edc9/jianzhichun/permafrost",
+        "url": "https://github.com/anthropics/claude-code/issues/29045",
+        "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+        "description": "Preflight Checklist I have searched existing issues and this hasn&#39;t been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...",
+        "image": "https://opengraph.githubassets.com/7548f25cbb7f27292f39867bc10f65e857bb330323d7af42dd896e91fc853d87/anthropics/claude-code/issues/29045",
         "source": "github.com",
-        "stats": "3 points · 2 comments"
+        "stats": "394 points · 280 comments"
       },
       {
-        "url": "https://www.beontheloop.com/deck",
-        "title": "Fundamental of Running Agentic Loops",
-        "description": "Your agents don&#x27;t finish — and it&#x27;s not the model, it&#x27;s the harness. Beontheloop is the runnable system that makes a long agent run (Claude Code, Codex, Cursor) actually finish, verified — not vibes. Read the free Deck; join the waitlist to lock the founding price on the Harness Starter Kit.",
-        "image": "https://beontheloop.com/deck/opengraph-image?165988b980a9e839",
-        "source": "beontheloop.com",
-        "stats": "3 points · 6 comments"
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+        "description": "Cybersecurity researchers are complaining that Anthropic&#039;s new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+        "source": "techcrunch.com",
+        "stats": "368 points · 334 comments"
+      },
+      {
+        "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+        "title": "Anthropic's model naming, extrapolated",
+        "description": "299 points · 87 comments",
+        "image": "",
+        "source": "samwilkinson.io",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48473166",
+        "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+        "description": "401 points · 242 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-06-09": [
@@ -50,7 +92,7 @@
         "description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
         "source": "anthropic.com",
-        "stats": "2046 points · 1576 comments"
+        "stats": "2562 points · 2099 comments"
       },
       {
         "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
@@ -58,7 +100,7 @@
         "description": "Anthropic",
         "image": "",
         "source": "jonready.com",
-        "stats": "706 points · 353 comments"
+        "stats": "1010 points · 494 comments"
       },
       {
         "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
@@ -66,7 +108,7 @@
         "description": "In the last three months I&#8217;ve had people forward me four separate examples of a CEO losing his or her mind over AI. What&#8217;s been striking to me is the similarity in each case: It would b…",
         "image": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
         "source": "techdirt.com",
-        "stats": "584 points · 226 comments"
+        "stats": "817 points · 298 comments"
       },
       {
         "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
@@ -74,15 +116,15 @@
         "description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
         "image": "https://techcrunch.com/wp-content/uploads/2022/07/Microsoft-e1658216731934.jpg?resize=1200,675",
         "source": "techcrunch.com",
-        "stats": "534 points · 184 comments"
+        "stats": "554 points · 193 comments"
       },
       {
-        "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-        "title": "Cleaning up after AI rockstar developers",
-        "description": "We",
-        "image": "https://www.codingwithjesse.com/images/2026-06-08-rockstar-developers.jpg",
-        "source": "codingwithjesse.com",
-        "stats": "461 points · 333 comments"
+        "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+        "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+        "description": "351 points · 165 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
+        "stats": ""
       }
     ],
     "2026-06-08": [
@@ -92,39 +134,15 @@
         "description": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.",
         "image": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg",
         "source": "macrumors.com",
-        "stats": "716 points · 554 comments"
+        "stats": "730 points · 557 comments"
       },
       {
         "url": "https://www.apple.com/apple-intelligence/",
         "title": "Siri AI",
         "description": "Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.",
-        "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607",
+        "image": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606101415",
         "source": "apple.com",
-        "stats": "665 points · 687 comments"
-      },
-      {
-        "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-        "title": "AI is slowing down",
-        "description": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s",
-        "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
-        "source": "wheresyoured.at",
-        "stats": "649 points · 750 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48449187",
-        "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-        "description": "417 points · 712 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://developer.apple.com/documentation/coreai/",
-        "title": "Apple Core AI Framework",
-        "description": "Run AI models in your app on Apple silicon.",
-        "image": "https://docs.developer.apple.com/tutorials/developer-og.jpg",
-        "source": "developer.apple.com",
-        "stats": "357 points · 106 comments"
+        "stats": "671 points · 697 comments"
       }
     ],
     "2026-06-07": [
@@ -144,7 +162,7 @@
         "description": "OpenCV 5 is here! A massive modernization brings a graph-based DNN engine, over 80% ONNX coverage, hardware acceleration, LLM/VLM support, and a faster Python-first core. Learn why this isn&#039;t just an incremental update.",
         "image": "https://opencv.org/wp-content/uploads/2026/06/opencv-5.png",
         "source": "opencv.org",
-        "stats": "738 points · 133 comments"
+        "stats": "825 points · 145 comments"
       }
     ],
     "2026-06-05": [
@@ -155,16 +173,6 @@
         "image": "https://prestonbjensen.com/assets/blog/dino-viz/og_image.jpg",
         "source": "prestonbjensen.com",
         "stats": "158 points · 14 comments"
-      }
-    ],
-    "2026-06-04": [
-      {
-        "url": "https://cost.dev/",
-        "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-        "description": "Install in minutes and eliminate cloud waste from your IaC configurations — before you go to PR review.",
-        "image": "https://cost.dev/images/og-image.png",
-        "source": "cost.dev",
-        "stats": "47 points · 26 comments"
       }
     ]
   }
