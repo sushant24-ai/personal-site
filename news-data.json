@@ -1,45 +1,87 @@
 {
-  "lastUpdated": "2026-06-12T06:46:22.243Z",
+  "lastUpdated": "2026-06-13T06:21:02.926Z",
   "days": {
+    "2026-06-13": [
+      {
+        "url": "https://opensourceaimustwin.com/?share=v2",
+        "title": "Open source AI must win",
+        "description": "Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.",
+        "image": "https://opensourceaimustwin.com/og-image.png",
+        "source": "opensourceaimustwin.com",
+        "stats": "655 points · 207 comments"
+      },
+      {
+        "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+        "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+        "description": "Claude&#39;s Status Page - We’ve suspended access to Claude Mythos 5 and Claude Fable 5.",
+        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+        "source": "status.claude.com",
+        "stats": "247 points · 5 comments"
+      },
+      {
+        "url": "https://honeypot.net/2026/06/12/anthropics-leaning-in-to-the.html",
+        "title": "Anthropic's leaning in to the whole nanny state thing",
+        "description": "Anthropic&rsquo;s leaning in to the whole nanny state thing.\n(This is a real, actual screenshot.)\n",
+        "image": "https://s3.amazonaws.com/micro.blog/opengraph/2026/06/12/5909899.png",
+        "source": "honeypot.net",
+        "stats": "17 points · 2 comments"
+      },
+      {
+        "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+        "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+        "description": "A few days ago Anthropic released a model that was initially too dangerous for the world. I tested it with my personal benchmark - can it create a game idea I&#x27;ve had for years in one shot?",
+        "image": "https://koenvangilst.nl/og/claude-fable-shepherds-dog.png",
+        "source": "koenvangilst.nl",
+        "stats": "7 points · 1 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48511828",
+        "title": "Tell HN: I'm making 1K USD per hour with AI",
+        "description": "7 points · 14 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-06-12": [
+      {
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "description": "1406 points · 509 comments",
+        "image": "https://lantian.pub/apple-touch-icon.png",
+        "source": "lantian.pub",
+        "stats": ""
+      },
       {
         "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
         "title": "Claude Fable is relentlessly proactive",
         "description": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will …",
         "image": "https://static.simonwillison.net/static/2026/jump-to-bug.jpg",
         "source": "simonwillison.net",
-        "stats": "323 points · 268 comments"
+        "stats": "734 points · 634 comments"
       },
       {
-        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "title": "AI agent bankrupted their operator while trying to scan DN42",
-        "description": "152 points · 25 comments",
-        "image": "https://lantian.pub/apple-touch-icon.png",
-        "source": "lantian.pub",
-        "stats": ""
+        "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+        "title": "\"Don't You Just Upload It to ChatGPT?\"",
+        "description": "Can ChatGPT replace translators? A freelance translator shares a funny Ottawa story about AI translation, professional judgment and why human expertise still matters.",
+        "image": "https://correresmidestino.com/wp-content/uploads/2026/06/1000014905-rotated-e1781079040455.jpg",
+        "source": "correresmidestino.com",
+        "stats": "383 points · 303 comments"
       },
       {
-        "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
-        "title": "Don't let the LLM speak, just probe it",
-        "description": "18 points · 1 comments",
+        "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+        "title": "How to setup a local coding agent on macOS",
+        "description": "Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent.",
+        "image": "https://ikyle.me/images/hero.png",
+        "source": "ikyle.me",
+        "stats": "334 points · 81 comments"
+      },
+      {
+        "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+        "title": "Slightly reducing the sloppiness of AI generated front end",
+        "description": "182 points · 115 comments",
         "image": "",
-        "source": "blog.j11y.io",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.avas.space/llm-circus/",
-        "title": "Our workplace LLM mass delusion",
-        "description": "The in-house sessions showing off the tech are embarrassing; led by the wrong people, and should likely not even happen in the first place.",
-        "image": "https://blog.avas.space/llm-circus/none",
-        "source": "blog.avas.space",
-        "stats": "14 points · 1 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e",
-        "title": "OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic",
-        "description": "5 points · 1 comments",
-        "image": "",
-        "source": "wsj.com",
+        "source": "envs.net",
         "stats": ""
       }
     ],
@@ -50,7 +92,7 @@
         "description": "Anthropic said users ‘should have visibility into the safeguards we have in place, and why.’ ",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
         "source": "theverge.com",
-        "stats": "383 points · 363 comments"
+        "stats": "501 points · 439 comments"
       },
       {
         "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
@@ -58,7 +100,7 @@
         "description": "We benchmarked Claude Fable 5 on 200 real-world coding tasks for the Agent Security League.",
         "image": "https://cdn.prod.website-files.com/6574c9e538a34feac8cec013/6a2a386899570e6f8d646e19_new%20model%20claude.png",
         "source": "endorlabs.com",
-        "stats": "289 points · 134 comments"
+        "stats": "397 points · 239 comments"
       },
       {
         "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
@@ -66,7 +108,15 @@
         "description": "Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]",
         "image": "",
         "source": "lwn.net",
-        "stats": "542 points · 239 comments"
+        "stats": "548 points · 243 comments"
+      },
+      {
+        "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+        "title": "Why AI hasn't replaced software engineers, and won't",
+        "description": "Coding agents as normal technology",
+        "image": "https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+        "source": "normaltech.ai",
+        "stats": "305 points · 352 comments"
       },
       {
         "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
@@ -74,15 +124,7 @@
         "description": "Workers are spending an average of 6.4 hours a week — almost a full working day — &quot;botsitting&quot; AI, pushing some to look for an exit, researchers say.",
         "image": "https://i.insider.com/6a2a9528457accd9f7cea838?width=1200&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "267 points · 214 comments"
-      },
-      {
-        "url": "https://github.com/huggingface/open-r1",
-        "title": "Open Reproduction of DeepSeek-R1",
-        "description": "Fully open reproduction of DeepSeek-R1. Contribute to huggingface/open-r1 development by creating an account on GitHub.",
-        "image": "https://repository-images.githubusercontent.com/921777121/b4fb83a0-5322-47ef-be39-e316db4de9ca",
-        "source": "github.com",
-        "stats": "226 points · 18 comments"
+        "stats": "278 points · 220 comments"
       }
     ],
     "2026-06-10": [
@@ -92,39 +134,15 @@
         "description": "Cybersecurity researchers are complaining that Anthropic&#039;s new model Fable has guardrails that are too strict for any cybersecurity work.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
         "source": "techcrunch.com",
-        "stats": "582 points · 515 comments"
+        "stats": "586 points · 522 comments"
       },
       {
-        "url": "https://github.com/anthropics/claude-code/issues/29045",
-        "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-        "description": "Preflight Checklist I have searched existing issues and this hasn&#39;t been reported yet This is a single bug report (please file separate reports for different bugs) I am using the latest version of ...",
-        "image": "https://opengraph.githubassets.com/a79d3b6e175520b734f014b1f6dc7cb6859c89b9af6971e4213619e90d3ce664/anthropics/claude-code/issues/29045",
-        "source": "github.com",
-        "stats": "429 points · 300 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48473166",
-        "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-        "description": "418 points · 251 comments",
+        "url": "https://burr.apache.org/",
+        "title": "Apache Burr: Build reliable AI agents and applications",
+        "description": "Apache Burr (Incubating) - develop AI applications that make decisions. Pure Python, no magic.",
         "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-        "title": "Anthropic's model naming, extrapolated",
-        "description": "318 points · 94 comments",
-        "image": "",
-        "source": "samwilkinson.io",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-        "title": "DiffusionGemma: 4x Faster Text Generation",
-        "description": "An overview of DiffusionGemma, an exceptionally fast text generation model with up to 4x faster speeds.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
-        "source": "blog.google",
-        "stats": "323 points · 87 comments"
+        "source": "burr.apache.org",
+        "stats": "244 points · 115 comments"
       }
     ],
     "2026-06-09": [
@@ -134,12 +152,12 @@
         "description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
         "source": "anthropic.com",
-        "stats": "2602 points · 2142 comments"
+        "stats": "2612 points · 2148 comments"
       },
       {
         "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
         "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-        "description": "590 points · 297 comments",
+        "description": "599 points · 302 comments",
         "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
         "source": "support.claude.com",
         "stats": ""
@@ -147,7 +165,7 @@
       {
         "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
         "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-        "description": "131 points · 52 comments",
+        "description": "137 points · 53 comments",
         "image": "",
         "source": "medium.com",
         "stats": ""
@@ -156,9 +174,9 @@
         "url": "https://github.com/denoland/clawpatrol",
         "title": "Show HN: Claw Patrol, a security firewall for agents",
         "description": "Security firewall for agents. Contribute to denoland/clawpatrol development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/30f6e73ba04550b30f0de069f0fe3bbcadbe315b43c3ff1d3fc96ea76bb138bc/denoland/clawpatrol",
+        "image": "https://opengraph.githubassets.com/7ea3b3d41da9b065e4a19779a00c4f51c590cd13b24633cbd3b0b943a76a2708/denoland/clawpatrol",
         "source": "github.com",
-        "stats": "92 points · 26 comments"
+        "stats": "103 points · 28 comments"
       }
     ],
     "2026-06-08": [
@@ -168,7 +186,7 @@
         "description": "With automated proof&#x2d;checkers, a problem can be broken up into small chunks, solved bit&#x2d;by&#x2d;bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research.",
         "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg",
         "source": "quantamagazine.org",
-        "stats": "109 points · 81 comments"
+        "stats": "172 points · 157 comments"
       }
     ],
     "2026-06-07": [
@@ -179,16 +197,6 @@
         "image": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/figma-to-claude-hero.png",
         "source": "blog.janestreet.com",
         "stats": "316 points · 266 comments"
-      }
-    ],
-    "2026-06-06": [
-      {
-        "url": "https://opencv.org/opencv-5/",
-        "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-        "description": "OpenCV 5 is here! A massive modernization brings a graph-based DNN engine, over 80% ONNX coverage, hardware acceleration, LLM/VLM support, and a faster Python-first core. Learn why this isn&#039;t just an incremental update.",
-        "image": "https://opencv.org/wp-content/uploads/2026/06/opencv-5.png",
-        "source": "opencv.org",
-        "stats": "843 points · 147 comments"
       }
     ]
   }
