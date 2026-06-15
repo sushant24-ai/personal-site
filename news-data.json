@@ -1,61 +1,95 @@
 {
-  "lastUpdated": "2026-06-14T06:45:50.292Z",
+  "lastUpdated": "2026-06-15T07:25:45.829Z",
   "days": {
+    "2026-06-15": [
+      {
+        "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+        "title": "Apple Foundation Models",
+        "description": "Use Claude on Apple platforms through the Foundation Models framework with the Claude for Foundation Models Swift package.",
+        "image": "https://platform.claude.com/docs/og?locale=en&amp;path=cli-sdks-libraries/libraries/apple-foundation-models",
+        "source": "platform.claude.com",
+        "stats": "23 points · 1 comments"
+      },
+      {
+        "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
+        "title": "AI Has Amnesia. Here's Every System Built to Fix It",
+        "description": "11 points · 2 comments",
+        "image": "",
+        "source": "medium.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.brandlm.ai/",
+        "title": "Show HN: I used Claude Mythos to build my startup in 1 day",
+        "description": "Measure how your brand appears across ChatGPT, Claude, Perplexity, Google AI Overview and AI Mode: who gets named, how positively, and which sources the AI reads.",
+        "image": "https://brandlm.ai/assets/og-image.png",
+        "source": "brandlm.ai",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://clor.com/blog/anthropics-new-agent-sdk-pricing",
+        "title": "Anthropic's new Agent SDK pricing is a win for Codex",
+        "description": "Claude subscriptions were designed for developers. Many devs use the $200/mo &#34;Max 20x&#34; plan, which covers someone writing code all day with agents. But more and more people (not just devs) are using agents like Claude for async work, which triggered a major policy and pricing change from Anthropic.",
+        "image": "https://clor.com/static/clor-logo-inverse.png",
+        "source": "clor.com",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://www.dataleadsfuture.com/deepseek-v4-cant-read-images-i-made-it-read/",
+        "title": "DeepSeek-V4 Can't Read Images? I Made It Read",
+        "description": "Don&#x27;t wait for a multimodal model, you can use it now",
+        "image": "https://storage.ghost.io/c/33/67/33678c00-2c15-4961-93e9-497b427e2006/content/images/size/w1200/2026/06/cover.webp",
+        "source": "dataleadsfuture.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-06-14": [
       {
-        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-        "title": "Meta’s chaotic AI strategy",
-        "description": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
-        "image": "https://media.wired.com/photos/6a2c555e0473de232b255ae6/191:100/w_1280,c_limit/Meta-Employee-Interrupts-AI-Training-Business-2261841192.jpg",
-        "source": "wired.com",
-        "stats": "66 points · 67 comments"
+        "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+        "title": "Not everyone is using AI for everything",
+        "description": "People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.",
+        "image": "https://substackcdn.com/image/fetch/$s_!n_r-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F957dc207-33f4-4e66-a821-66f340c9a623_1424x1404.png",
+        "source": "gabrielweinberg.com",
+        "stats": "456 points · 490 comments"
       },
       {
-        "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-        "title": "Making Claude a Chemist",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadCube&amp;backgroundColor=cactus",
-        "source": "anthropic.com",
-        "stats": "23 points · 10 comments"
-      },
-      {
-        "url": "https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519",
-        "title": "The whirlwind 24 hours that led to export controls on Anthropic",
-        "description": "16 points · 3 comments",
-        "image": "",
-        "source": "politico.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48522763",
-        "title": "Is there a name for the type of comments agents add where they leak the prompt?",
-        "description": "12 points · 8 comments",
+        "url": "https://news.ycombinator.com/item?id=48528029",
+        "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+        "description": "351 points · 86 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://news.ycombinator.com/item?id=48523455",
-        "title": "Ask HN: Which cheap Chinese LLM are you using?",
-        "description": "10 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "description": "prefeitura-rio/Rio-3.5-Open-397B is presented as an original 397B model trained by IplanRIO. It is not. Its weights are a direct element-wise merge of our model, Nex, with the official Qwen3.5-397B...",
+        "image": "https://opengraph.githubassets.com/d472508b7e82064a7344f369c98eb8e182b69aeee8809826d52e8399ab2e87b2/nex-agi/Nex-N2/issues/4",
+        "source": "github.com",
+        "stats": "329 points · 182 comments"
+      },
+      {
+        "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+        "title": "Did Anthropic ask for this?",
+        "description": "This past Friday, the US Government issued an export control directive that prohibits Anthropic from giving foreign nationals access to Claude Fable or Claude Mythos, their latest models.",
+        "image": "https://substackcdn.com/image/fetch/$s_!eErw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c7c5126-190f-4119-a68f-5d0e417ce754_1700x828.png",
+        "source": "verysane.ai",
+        "stats": "180 points · 152 comments"
+      },
+      {
+        "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+        "title": "Why Is Claude Turning into an a**Hole?",
+        "description": "Let&#x27;s hope this trend reverses",
+        "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DUAK7t3Lf8s",
+        "source": "bramcohen.com",
+        "stats": "109 points · 174 comments"
       }
     ],
     "2026-06-13": [
       {
-        "url": "https://opensourceaimustwin.com/?share=v2",
-        "title": "Open source AI must win",
-        "description": "Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.",
-        "image": "https://opensourceaimustwin.com/og-image.png",
-        "source": "opensourceaimustwin.com",
-        "stats": "1532 points · 466 comments"
-      },
-      {
         "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
         "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-        "description": "638 points · 466 comments",
+        "description": "784 points · 587 comments",
         "image": "",
         "source": "wsj.com",
         "stats": ""
@@ -63,7 +97,7 @@
       {
         "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
         "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-        "description": "299 points · 140 comments",
+        "description": "375 points · 190 comments",
         "image": "",
         "source": "news.sky.com",
         "stats": ""
@@ -74,7 +108,7 @@
         "description": "There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...",
         "image": "",
         "source": "stephen.bochinski.dev",
-        "stats": "275 points · 232 comments"
+        "stats": "338 points · 280 comments"
       },
       {
         "url": "https://github.com/tensorzero/tensorzero",
@@ -82,75 +116,43 @@
         "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero",
         "image": "https://repository-images.githubusercontent.com/829640443/56e9b8da-eabc-4dff-bac7-73d459e7880d",
         "source": "github.com",
-        "stats": "254 points · 163 comments"
+        "stats": "276 points · 170 comments"
+      },
+      {
+        "url": "https://github.com/Paca-AI/paca",
+        "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+        "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp;amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...",
+        "image": "https://opengraph.githubassets.com/1dc09d1bdfdfcbca2c243584211b7363892733d4b790b6ca1e87b127a28711e8/Paca-AI/paca",
+        "source": "github.com",
+        "stats": "163 points · 58 comments"
       }
     ],
     "2026-06-12": [
-      {
-        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "title": "AI agent bankrupted their operator while trying to scan DN42",
-        "description": "1446 points · 525 comments",
-        "image": "https://lantian.pub/apple-touch-icon.png",
-        "source": "lantian.pub",
-        "stats": ""
-      },
-      {
-        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "title": "Claude Fable is relentlessly proactive",
-        "description": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will …",
-        "image": "https://static.simonwillison.net/static/2026/jump-to-bug.jpg",
-        "source": "simonwillison.net",
-        "stats": "761 points · 654 comments"
-      },
-      {
-        "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-        "title": "\"Don't You Just Upload It to ChatGPT?\"",
-        "description": "Can ChatGPT replace translators? A freelance translator shares a funny Ottawa story about AI translation, professional judgment and why human expertise still matters.",
-        "image": "https://correresmidestino.com/wp-content/uploads/2026/06/1000014905-rotated-e1781079040455.jpg",
-        "source": "correresmidestino.com",
-        "stats": "459 points · 366 comments"
-      },
       {
         "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
         "title": "How to setup a local coding agent on macOS",
         "description": "Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent.",
         "image": "https://ikyle.me/images/hero.png",
         "source": "ikyle.me",
-        "stats": "481 points · 117 comments"
+        "stats": "497 points · 119 comments"
       },
       {
-        "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-        "title": "Slightly reducing the sloppiness of AI generated front end",
-        "description": "218 points · 130 comments",
-        "image": "",
-        "source": "envs.net",
-        "stats": ""
+        "url": "https://bitboard.work/",
+        "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+        "description": "Connect your data, build with your agent, share with your team. BitBoard turns AI analyses into durable, traceable dashboards.",
+        "image": "https://bitboard.work/brand/social-preview.png",
+        "source": "bitboard.work",
+        "stats": "55 points · 24 comments"
       }
     ],
     "2026-06-11": [
       {
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "description": "Anthropic said users ‘should have visibility into the safeguards we have in place, and why.’ ",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "507 points · 442 comments"
-      },
-      {
-        "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
-        "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
-        "description": "OpenAI is reportedly mulling drastic price cuts to its AI models, as it looks to woo consumers from rival AI company Anthropic, the WSJ reported on Wednesday.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "133 points · 142 comments"
-      },
-      {
-        "url": "https://crlf.link/log/entries/260525-1/",
-        "title": "Making a vintage LLM from scratch",
-        "description": "101 points · 28 comments",
+        "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+        "title": "Inverse Rubric Optimization: A testbed for agent science",
+        "description": "We propose inverse rubric optimization (IRO): tasks where an agent must learn the preferences of a black-box judge under a label budget. IRO tasks induce rich agent behavior and smooth scaling, making them a useful testbed for agent science.",
         "image": "",
-        "source": "crlf.link",
-        "stats": ""
+        "source": "fulcrum.inc",
+        "stats": "27 points · 0 comments"
       }
     ],
     "2026-06-10": [
@@ -178,17 +180,7 @@
         "description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
         "source": "anthropic.com",
-        "stats": "2618 points · 2149 comments"
-      }
-    ],
-    "2026-06-08": [
-      {
-        "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-        "title": "How Terry Tao became an evangelist for AI in math",
-        "description": "With automated proof&#x2d;checkers, a problem can be broken up into small chunks, solved bit&#x2d;by&#x2d;bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research.",
-        "image": "https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg",
-        "source": "quantamagazine.org",
-        "stats": "186 points · 163 comments"
+        "stats": "2621 points · 2152 comments"
       }
     ]
   }
