@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-15T07:25:45.829Z",
+  "lastUpdated": "2026-06-16T07:31:12.266Z",
   "days": {
+    "2026-06-16": [
+      {
+        "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+        "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+        "description": "Microsoft is adding AWS capacity for GitHub after AI-driven usage strained the developer platform, exposing Azure constraints and the infrastructure cost of agentic coding.",
+        "image": "https://runtimewire.com/og/microsoft-github-aws-ai-capacity-crunch.jpg",
+        "source": "runtimewire.com",
+        "stats": "150 points · 66 comments"
+      },
+      {
+        "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+        "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+        "description": "Soundtrack: In Flames - Colony\n\nTo further support my independent journalism, please subscribe to my premium newsletter. It’s $7 a month or $70 a year. If you’re subscribed to the free newsletter and logged in, you should see at the bottom right hand corner of your screen a little",
+        "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+        "source": "wheresyoured.at",
+        "stats": "58 points · 25 comments"
+      },
+      {
+        "url": "https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/",
+        "title": "Can open-source beat OpenAI?",
+        "description": "Former Hugging Face executive Tiezhen Wang explains how China&#039;s open-source strategy is reshaping the AI race.",
+        "image": "https://restofworld.org/wp-content/uploads/2026/06/HuggingFace-QA-HED-1600x900.jpg",
+        "source": "restofworld.org",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content",
+        "title": "EU Icons for labelling AI-generated content",
+        "description": "Deployers of generative AI systems can use the EU set of icons to label certain AI-generated content, in accordance with the AI Act transparency rules.",
+        "image": "",
+        "source": "digital-strategy.ec.europa.eu",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://digg.com/tech/lxwv71a1?rank=6",
+        "title": "DeepSeek raises $7B at $50B valuation",
+        "description": "DeepSeek targets RMB 50 billion ($7.35 billion) in its first external funding round, valuing the Chinese AI company at $50 billion post-money. Founder Liang Wenfeng, who owns 90%…",
+        "image": "https://digg.com/tech/lxwv71a1/opengraph-image?cf450e53d7e772c4",
+        "source": "digg.com",
+        "stats": "3 points · 3 comments"
+      }
+    ],
     "2026-06-15": [
+      {
+        "url": "https://news.ycombinator.com/item?id=48542100",
+        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+        "description": "903 points · 415 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://crankgpt.com",
+        "title": "CrankGPT",
+        "description": "A human-powered, fully local, fully private AI solution.",
+        "image": "https://crankgpt.com/Images/og.jpg",
+        "source": "crankgpt.com",
+        "stats": "576 points · 220 comments"
+      },
       {
         "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
         "title": "Apple Foundation Models",
         "description": "Use Claude on Apple platforms through the Foundation Models framework with the Claude for Foundation Models Swift package.",
         "image": "https://platform.claude.com/docs/og?locale=en&amp;path=cli-sdks-libraries/libraries/apple-foundation-models",
         "source": "platform.claude.com",
-        "stats": "23 points · 1 comments"
+        "stats": "472 points · 218 comments"
       },
       {
-        "url": "https://medium.com/@alanayalag/your-ai-has-amnesia-heres-every-system-built-to-fix-it-ad7dee117a75",
-        "title": "AI Has Amnesia. Here's Every System Built to Fix It",
-        "description": "11 points · 2 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
+        "url": "https://rsgm.dev/post/ai-dev-platform/",
+        "title": "My Homelab AI Dev Platform",
+        "description": "Self-hosting OpenCode Web for GitOps style homelab changes.",
+        "image": "https://rsgm.dev/_astro/ai-pr-1.PYIiaDRf.png",
+        "source": "rsgm.dev",
+        "stats": "294 points · 51 comments"
       },
       {
-        "url": "https://www.brandlm.ai/",
-        "title": "Show HN: I used Claude Mythos to build my startup in 1 day",
-        "description": "Measure how your brand appears across ChatGPT, Claude, Perplexity, Google AI Overview and AI Mode: who gets named, how positively, and which sources the AI reads.",
-        "image": "https://brandlm.ai/assets/og-image.png",
-        "source": "brandlm.ai",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://clor.com/blog/anthropics-new-agent-sdk-pricing",
-        "title": "Anthropic's new Agent SDK pricing is a win for Codex",
-        "description": "Claude subscriptions were designed for developers. Many devs use the $200/mo &#34;Max 20x&#34; plan, which covers someone writing code all day with agents. But more and more people (not just devs) are using agents like Claude for async work, which triggered a major policy and pricing change from Anthropic.",
-        "image": "https://clor.com/static/clor-logo-inverse.png",
-        "source": "clor.com",
-        "stats": "3 points · 1 comments"
-      },
-      {
-        "url": "https://www.dataleadsfuture.com/deepseek-v4-cant-read-images-i-made-it-read/",
-        "title": "DeepSeek-V4 Can't Read Images? I Made It Read",
-        "description": "Don&#x27;t wait for a multimodal model, you can use it now",
-        "image": "https://storage.ghost.io/c/33/67/33678c00-2c15-4961-93e9-497b427e2006/content/images/size/w1200/2026/06/cover.webp",
-        "source": "dataleadsfuture.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+        "title": "Anthropic's Safety Superpower",
+        "description": "Anthropic&#8217;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+        "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+        "source": "stratechery.com",
+        "stats": "209 points · 185 comments"
       }
     ],
     "2026-06-14": [
@@ -50,12 +92,12 @@
         "description": "People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.",
         "image": "https://substackcdn.com/image/fetch/$s_!n_r-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F957dc207-33f4-4e66-a821-66f340c9a623_1424x1404.png",
         "source": "gabrielweinberg.com",
-        "stats": "456 points · 490 comments"
+        "stats": "501 points · 538 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=48528029",
         "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-        "description": "351 points · 86 comments",
+        "description": "423 points · 111 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -64,9 +106,9 @@
         "url": "https://github.com/nex-agi/Nex-N2/issues/4",
         "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
         "description": "prefeitura-rio/Rio-3.5-Open-397B is presented as an original 397B model trained by IplanRIO. It is not. Its weights are a direct element-wise merge of our model, Nex, with the official Qwen3.5-397B...",
-        "image": "https://opengraph.githubassets.com/d472508b7e82064a7344f369c98eb8e182b69aeee8809826d52e8399ab2e87b2/nex-agi/Nex-N2/issues/4",
+        "image": "https://opengraph.githubassets.com/90ddf0a4feb8e611966d446e8e6f44fc69a041e09e8524d000fd4a93bfa1c1e3/nex-agi/Nex-N2/issues/4",
         "source": "github.com",
-        "stats": "329 points · 182 comments"
+        "stats": "397 points · 218 comments"
       },
       {
         "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
@@ -74,7 +116,7 @@
         "description": "This past Friday, the US Government issued an export control directive that prohibits Anthropic from giving foreign nationals access to Claude Fable or Claude Mythos, their latest models.",
         "image": "https://substackcdn.com/image/fetch/$s_!eErw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c7c5126-190f-4119-a68f-5d0e417ce754_1700x828.png",
         "source": "verysane.ai",
-        "stats": "180 points · 152 comments"
+        "stats": "194 points · 164 comments"
       },
       {
         "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
@@ -82,7 +124,7 @@
         "description": "Let&#x27;s hope this trend reverses",
         "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DUAK7t3Lf8s",
         "source": "bramcohen.com",
-        "stats": "109 points · 174 comments"
+        "stats": "119 points · 181 comments"
       }
     ],
     "2026-06-13": [
@@ -147,12 +189,12 @@
     ],
     "2026-06-11": [
       {
-        "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
-        "title": "Inverse Rubric Optimization: A testbed for agent science",
-        "description": "We propose inverse rubric optimization (IRO): tasks where an agent must learn the preferences of a black-box judge under a label budget. IRO tasks induce rich agent behavior and smooth scaling, making them a useful testbed for agent science.",
+        "url": "https://fata.dev",
+        "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+        "description": "You can&#x27;t direct what you don&#x27;t understand. fata builds the full-stack fundamentals to lead a coding agent through frontend, backend, and the technical design that holds up in production.",
         "image": "",
-        "source": "fulcrum.inc",
-        "stats": "27 points · 0 comments"
+        "source": "fata.dev",
+        "stats": "97 points · 49 comments"
       }
     ],
     "2026-06-10": [
@@ -171,16 +213,6 @@
         "image": "",
         "source": "burr.apache.org",
         "stats": "244 points · 115 comments"
-      }
-    ],
-    "2026-06-09": [
-      {
-        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "title": "Claude Fable 5",
-        "description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
-        "source": "anthropic.com",
-        "stats": "2621 points · 2152 comments"
       }
     ]
   }
