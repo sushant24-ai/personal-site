@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-06-16T07:31:12.266Z",
+  "lastUpdated": "2026-06-17T07:15:52.654Z",
   "days": {
+    "2026-06-17": [
+      {
+        "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
+        "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+        "description": "Audited OpenAI financials viewed by Ed Zitron and verified by the Financial Times show $13.07B in 2025 revenue, $34B in costs, and a $38.5B loss attributable to OpenAI.",
+        "image": "https://runtimewire.com/og/openai-leaked-financials-altman-compute-burn.jpg",
+        "source": "runtimewire.com",
+        "stats": "194 points · 207 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+        "title": "France to ditch Palantir's AI data tools in favour of domestic provider",
+        "description": "Move to ChapsVision is to avoid ‘strategic dependencies’, says PM amid concern about reliance on US-controlled tools",
+        "image": "https://i.guim.co.uk/img/media/942b0bdfb08be89d9ecbc6bd39111c016108451c/404_0_4038_3231/master/4038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=debced440562731c659cf95d6b935317",
+        "source": "theguardian.com",
+        "stats": "33 points · 2 comments"
+      },
+      {
+        "url": "https://elolup.com/",
+        "title": "HN rates AI coding agents",
+        "description": "Content reaction pad",
+        "image": "",
+        "source": "elolup.com",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+        "title": "Meta CTO Andrew Bosworth Admits the Company's AI Reorg Was 'Atrocious'",
+        "description": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+        "image": "https://media.wired.com/photos/6a3066677da677701d8b62cd/191:100/w_1280,c_limit/Andrew-Bosworth-Urges-Employees-Business-2235573265.jpg",
+        "source": "wired.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48565600",
+        "title": "Ask HN: What are your best Claude hacks?",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-06-16": [
       {
-        "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
-        "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-        "description": "Microsoft is adding AWS capacity for GitHub after AI-driven usage strained the developer platform, exposing Azure constraints and the infrastructure cost of agentic coding.",
-        "image": "https://runtimewire.com/og/microsoft-github-aws-ai-capacity-crunch.jpg",
-        "source": "runtimewire.com",
-        "stats": "150 points · 66 comments"
+        "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+        "title": "Has AI already killed self-help nonfiction books?",
+        "description": "My head has been spinning after getting a spreadsheet roughly a week ago. Before we dive into my dirty laundry, let’s state the obvious: millions of people have a vague sense that AI is changing things. And LLMs sure are convenient for getting answers quickly. My team and I use Claude and other tools daily. [&hellip;]",
+        "image": "https://tim.blog/wp-content/uploads/2020/09/socialmedia_timFerriss_200114_005.jpg",
+        "source": "tim.blog",
+        "stats": "261 points · 270 comments"
       },
       {
-        "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
-        "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
-        "description": "Soundtrack: In Flames - Colony\n\nTo further support my independent journalism, please subscribe to my premium newsletter. It’s $7 a month or $70 a year. If you’re subscribed to the free newsletter and logged in, you should see at the bottom right hand corner of your screen a little",
-        "image": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
-        "source": "wheresyoured.at",
-        "stats": "58 points · 25 comments"
+        "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+        "title": "Claude: Elevated errors across many models [resolved]",
+        "description": "Claude&#39;s Status Page - Elevated errors across many models.",
+        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+        "source": "status.claude.com",
+        "stats": "184 points · 154 comments"
       },
       {
-        "url": "https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/",
-        "title": "Can open-source beat OpenAI?",
-        "description": "Former Hugging Face executive Tiezhen Wang explains how China&#039;s open-source strategy is reshaping the AI race.",
-        "image": "https://restofworld.org/wp-content/uploads/2026/06/HuggingFace-QA-HED-1600x900.jpg",
-        "source": "restofworld.org",
-        "stats": "5 points · 0 comments"
+        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+        "title": "GPT‑NL: a sovereign language model for the Netherlands",
+        "description": "With GPT‑NL, TNO - together with SURF and the Netherlands Forensic Institute (NFI) is building an independent Dutch language model and ecosystem. This strengthens the digital autonomy of the Netherlands and Europe, and provides a solid foundation for responsible AI applications.",
+        "image": "https://www.tno.nl/publish/pages/14621/genai.jpg",
+        "source": "tno.nl",
+        "stats": "192 points · 173 comments"
       },
       {
-        "url": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content",
-        "title": "EU Icons for labelling AI-generated content",
-        "description": "Deployers of generative AI systems can use the EU set of icons to label certain AI-generated content, in accordance with the AI Act transparency rules.",
-        "image": "",
-        "source": "digital-strategy.ec.europa.eu",
-        "stats": "6 points · 0 comments"
+        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+        "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+        "description": "AI-related upgrades like the built-in AI Assistant, extended computation-augmented generation and the Wolfram Agent Tools framework. Advances in TimeSeries & Tabular. New categorical data, ModelFit automated model selection, symbolic music. Efficient handling of gigabyte-sized notebooks. Gains in the already-robust visualization functionality. New functions for algebra, matrices, PDE modeling.",
+        "image": "https://content.wolfram.com/sites/43/2026/06/v15-tile-wolframblog.png",
+        "source": "writings.stephenwolfram.com",
+        "stats": "147 points · 64 comments"
       },
       {
-        "url": "https://digg.com/tech/lxwv71a1?rank=6",
-        "title": "DeepSeek raises $7B at $50B valuation",
-        "description": "DeepSeek targets RMB 50 billion ($7.35 billion) in its first external funding round, valuing the Chinese AI company at $50 billion post-money. Founder Liang Wenfeng, who owns 90%…",
-        "image": "https://digg.com/tech/lxwv71a1/opengraph-image?cf450e53d7e772c4",
-        "source": "digg.com",
-        "stats": "3 points · 3 comments"
+        "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+        "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+        "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+        "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+        "source": "qwen.ai",
+        "stats": "162 points · 27 comments"
       }
     ],
     "2026-06-15": [
       {
         "url": "https://news.ycombinator.com/item?id=48542100",
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-        "description": "903 points · 415 comments",
+        "description": "1252 points · 534 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "A human-powered, fully local, fully private AI solution.",
         "image": "https://crankgpt.com/Images/og.jpg",
         "source": "crankgpt.com",
-        "stats": "576 points · 220 comments"
+        "stats": "599 points · 233 comments"
       },
       {
         "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
@@ -66,7 +108,7 @@
         "description": "Use Claude on Apple platforms through the Foundation Models framework with the Claude for Foundation Models Swift package.",
         "image": "https://platform.claude.com/docs/og?locale=en&amp;path=cli-sdks-libraries/libraries/apple-foundation-models",
         "source": "platform.claude.com",
-        "stats": "472 points · 218 comments"
+        "stats": "479 points · 222 comments"
       },
       {
         "url": "https://rsgm.dev/post/ai-dev-platform/",
@@ -74,7 +116,7 @@
         "description": "Self-hosting OpenCode Web for GitOps style homelab changes.",
         "image": "https://rsgm.dev/_astro/ai-pr-1.PYIiaDRf.png",
         "source": "rsgm.dev",
-        "stats": "294 points · 51 comments"
+        "stats": "358 points · 57 comments"
       },
       {
         "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
@@ -82,7 +124,7 @@
         "description": "Anthropic&#8217;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
         "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
         "source": "stratechery.com",
-        "stats": "209 points · 185 comments"
+        "stats": "213 points · 190 comments"
       }
     ],
     "2026-06-14": [
@@ -194,25 +236,7 @@
         "description": "You can&#x27;t direct what you don&#x27;t understand. fata builds the full-stack fundamentals to lead a coding agent through frontend, backend, and the technical design that holds up in production.",
         "image": "",
         "source": "fata.dev",
-        "stats": "97 points · 49 comments"
-      }
-    ],
-    "2026-06-10": [
-      {
-        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-        "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-        "description": "Cybersecurity researchers are complaining that Anthropic&#039;s new model Fable has guardrails that are too strict for any cybersecurity work.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-        "source": "techcrunch.com",
-        "stats": "586 points · 522 comments"
-      },
-      {
-        "url": "https://burr.apache.org/",
-        "title": "Apache Burr: Build reliable AI agents and applications",
-        "description": "Apache Burr (Incubating) - develop AI applications that make decisions. Pure Python, no magic.",
-        "image": "",
-        "source": "burr.apache.org",
-        "stats": "244 points · 115 comments"
+        "stats": "111 points · 51 comments"
       }
     ]
   }
