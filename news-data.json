@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-17T07:15:52.654Z",
+  "lastUpdated": "2026-06-18T06:56:51.298Z",
   "days": {
+    "2026-06-18": [
+      {
+        "url": "https://www.midjourney.com/medical/blogpost",
+        "title": "Midjourney Medical",
+        "description": "515 points · 364 comments",
+        "image": "",
+        "source": "midjourney.com",
+        "stats": ""
+      },
+      {
+        "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+        "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+        "description": "Viral prompt shows that ChatGPT’s content filters don’t work",
+        "image": "",
+        "source": "mindgard.ai",
+        "stats": "86 points · 125 comments"
+      },
+      {
+        "url": "https://www.midjourney.com/medical/blogpost",
+        "title": "Midjourney Full Body Ultrasonic CT Scanner",
+        "description": "81 points · 5 comments",
+        "image": "",
+        "source": "midjourney.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/",
+        "title": "Noam Shazeer is joining OpenAI",
+        "description": "37 points · 4 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+        "title": "[x86] AI Compute Extensions (ACE) Specification",
+        "description": "28 points · 13 comments",
+        "image": "",
+        "source": "x86ecosystem.org",
+        "stats": ""
+      }
+    ],
     "2026-06-17": [
       {
-        "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-        "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
-        "description": "Audited OpenAI financials viewed by Ed Zitron and verified by the Financial Times show $13.07B in 2025 revenue, $34B in costs, and a $38.5B loss attributable to OpenAI.",
-        "image": "https://runtimewire.com/og/openai-leaked-financials-altman-compute-burn.jpg",
-        "source": "runtimewire.com",
-        "stats": "194 points · 207 comments"
+        "url": "https://wpvip.com/future-of-the-web-2026/",
+        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+        "description": "Original research from 2,000 decision-makers and consumers on AI brand visibility, content trust, and what brands need to do as the web feels less human. 74% say the internet feels less human than it did 10 years ago.",
+        "image": "https://wpvip.com/wp-content/uploads/sites/3/2026/06/FOW-REPORT_f53628.jpg",
+        "source": "wpvip.com",
+        "stats": "1034 points · 542 comments"
       },
       {
-        "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
-        "title": "France to ditch Palantir's AI data tools in favour of domestic provider",
-        "description": "Move to ChapsVision is to avoid ‘strategic dependencies’, says PM amid concern about reliance on US-controlled tools",
-        "image": "https://i.guim.co.uk/img/media/942b0bdfb08be89d9ecbc6bd39111c016108451c/404_0_4038_3231/master/4038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=debced440562731c659cf95d6b935317",
-        "source": "theguardian.com",
-        "stats": "33 points · 2 comments"
+        "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+        "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+        "description": "Audited accounting shows growing revenues being dwarfed by R&amp;D, other expenses.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "352 points · 4 comments"
       },
       {
-        "url": "https://elolup.com/",
-        "title": "HN rates AI coding agents",
-        "description": "Content reaction pad",
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+        "description": "432 points · 480 comments",
         "image": "",
-        "source": "elolup.com",
-        "stats": "3 points · 1 comments"
-      },
-      {
-        "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-        "title": "Meta CTO Andrew Bosworth Admits the Company's AI Reorg Was 'Atrocious'",
-        "description": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
-        "image": "https://media.wired.com/photos/6a3066677da677701d8b62cd/191:100/w_1280,c_limit/Andrew-Bosworth-Urges-Employees-Business-2235573265.jpg",
-        "source": "wired.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48565600",
-        "title": "Ask HN: What are your best Claude hacks?",
-        "description": "3 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "source": "reuters.com",
         "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+        "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+        "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "376 points · 457 comments"
+      },
+      {
+        "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+        "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+        "description": "A 30-game battle royale across eleven LLMs, $482 of inference, and one finding that should change how you read model benchmarks.",
+        "image": "",
+        "source": "openrouter.ai",
+        "stats": "234 points · 184 comments"
       }
     ],
     "2026-06-16": [
@@ -50,15 +92,7 @@
         "description": "My head has been spinning after getting a spreadsheet roughly a week ago. Before we dive into my dirty laundry, let’s state the obvious: millions of people have a vague sense that AI is changing things. And LLMs sure are convenient for getting answers quickly. My team and I use Claude and other tools daily. [&hellip;]",
         "image": "https://tim.blog/wp-content/uploads/2020/09/socialmedia_timFerriss_200114_005.jpg",
         "source": "tim.blog",
-        "stats": "261 points · 270 comments"
-      },
-      {
-        "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-        "title": "Claude: Elevated errors across many models [resolved]",
-        "description": "Claude&#39;s Status Page - Elevated errors across many models.",
-        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-        "source": "status.claude.com",
-        "stats": "184 points · 154 comments"
+        "stats": "398 points · 467 comments"
       },
       {
         "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
@@ -66,15 +100,15 @@
         "description": "With GPT‑NL, TNO - together with SURF and the Netherlands Forensic Institute (NFI) is building an independent Dutch language model and ecosystem. This strengthens the digital autonomy of the Netherlands and Europe, and provides a solid foundation for responsible AI applications.",
         "image": "https://www.tno.nl/publish/pages/14621/genai.jpg",
         "source": "tno.nl",
-        "stats": "192 points · 173 comments"
+        "stats": "249 points · 289 comments"
       },
       {
-        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-        "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-        "description": "AI-related upgrades like the built-in AI Assistant, extended computation-augmented generation and the Wolfram Agent Tools framework. Advances in TimeSeries & Tabular. New categorical data, ModelFit automated model selection, symbolic music. Efficient handling of gigabyte-sized notebooks. Gains in the already-robust visualization functionality. New functions for algebra, matrices, PDE modeling.",
-        "image": "https://content.wolfram.com/sites/43/2026/06/v15-tile-wolframblog.png",
-        "source": "writings.stephenwolfram.com",
-        "stats": "147 points · 64 comments"
+        "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+        "title": "Claude: Elevated errors across many models [resolved]",
+        "description": "Claude&#39;s Status Page - Elevated errors across many models.",
+        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+        "source": "status.claude.com",
+        "stats": "189 points · 157 comments"
       },
       {
         "url": "https://qwen.ai/blog?id=qwen-robotsuite",
@@ -82,49 +116,33 @@
         "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
         "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
         "source": "qwen.ai",
-        "stats": "162 points · 27 comments"
+        "stats": "210 points · 41 comments"
+      },
+      {
+        "url": "https://github.com/nvlabs/cutile-rs",
+        "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+        "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions. -...",
+        "image": "https://repository-images.githubusercontent.com/1179410901/891ec7b7-a5bf-4cd3-87f1-0d2ad1043b9f",
+        "source": "github.com",
+        "stats": "102 points · 17 comments"
       }
     ],
     "2026-06-15": [
       {
         "url": "https://news.ycombinator.com/item?id=48542100",
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-        "description": "1252 points · 534 comments",
+        "description": "1286 points · 548 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://crankgpt.com",
-        "title": "CrankGPT",
-        "description": "A human-powered, fully local, fully private AI solution.",
-        "image": "https://crankgpt.com/Images/og.jpg",
-        "source": "crankgpt.com",
-        "stats": "599 points · 233 comments"
-      },
-      {
-        "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-        "title": "Apple Foundation Models",
-        "description": "Use Claude on Apple platforms through the Foundation Models framework with the Claude for Foundation Models Swift package.",
-        "image": "https://platform.claude.com/docs/og?locale=en&amp;path=cli-sdks-libraries/libraries/apple-foundation-models",
-        "source": "platform.claude.com",
-        "stats": "479 points · 222 comments"
-      },
-      {
-        "url": "https://rsgm.dev/post/ai-dev-platform/",
-        "title": "My Homelab AI Dev Platform",
-        "description": "Self-hosting OpenCode Web for GitOps style homelab changes.",
-        "image": "https://rsgm.dev/_astro/ai-pr-1.PYIiaDRf.png",
-        "source": "rsgm.dev",
-        "stats": "358 points · 57 comments"
-      },
-      {
-        "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-        "title": "Anthropic's Safety Superpower",
-        "description": "Anthropic&#8217;s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
-        "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-        "source": "stratechery.com",
-        "stats": "213 points · 190 comments"
+        "url": "https://www.anthropic.com/news/claude-corps",
+        "title": "Claude Corps",
+        "description": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg",
+        "source": "anthropic.com",
+        "stats": "161 points · 119 comments"
       }
     ],
     "2026-06-14": [
@@ -227,16 +245,6 @@
         "image": "https://bitboard.work/brand/social-preview.png",
         "source": "bitboard.work",
         "stats": "55 points · 24 comments"
-      }
-    ],
-    "2026-06-11": [
-      {
-        "url": "https://fata.dev",
-        "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-        "description": "You can&#x27;t direct what you don&#x27;t understand. fata builds the full-stack fundamentals to lead a coding agent through frontend, backend, and the technical design that holds up in production.",
-        "image": "",
-        "source": "fata.dev",
-        "stats": "111 points · 51 comments"
       }
     ]
   }
