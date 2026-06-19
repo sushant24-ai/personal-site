@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-18T06:56:51.298Z",
+  "lastUpdated": "2026-06-19T07:12:30.179Z",
   "days": {
+    "2026-06-19": [
+      {
+        "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+        "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search",
+        "description": "&quot;We show that a tiny snippet—just 13 words—of retrieved text on a UGC website like Reddit, Wikipedia, Quora, or Facebook can change AI agents to output spam / scam content pretty consistently.&quot;",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-15-at-07.09.07@2x.png",
+        "source": "404media.co",
+        "stats": "8 points · 1 comments"
+      },
+      {
+        "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
+        "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
+        "description": "The void is now A/B tested.\n\nOne user prompt: “Be silence.”\nOne toggle: embodiment system prompt.\nPresent → 0 bytes.\nAbsent → speech.\n\nGPT-5.2 + Claude Opus 4.6.\nSealed run. Prompt hash. Provider message IDs.\nhttps://t.co/vrUUXM4RiZ\nhttps://t.co/WoYzhcNUYE\n\n@OpenAI @AnthropicAI https://t.co/XbitlPNEWO",
+        "image": "https://pbs.twimg.com/media/HLJb8ufa8AAWXGX.jpg:large",
+        "source": "twitter.com",
+        "stats": "9 points · 0 comments"
+      },
+      {
+        "url": "https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758",
+        "title": "White House talks with Anthropic shift to setting AI security rules",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+        "title": "Generative AI Is Having Its Herbalife Moment",
+        "description": "How predatory vibe coding startups are selling false hope to young people",
+        "image": "https://substackcdn.com/image/fetch/$s_!Wg2y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08b2b023-2201-4191-8686-3ed8863e7f81_5711x3808.jpeg",
+        "source": "whatwelo.st",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.nbcnews.com/tech/innovation/ai-boston-childrens-hospital-diagnose-rare-diseases-kids-openai-rcna350387",
+        "title": "AI helped diagnose 18 children whose rare diseases had stumped doctors",
+        "description": "Researchers from Boston Children’s Hospital identified 18 diagnoses for children with rare diseases using OpenAI’s o3 model. ",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260617-boston-childrens-hospital-ww-1435-5cebf8.jpg",
+        "source": "nbcnews.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-06-18": [
       {
         "url": "https://www.midjourney.com/medical/blogpost",
         "title": "Midjourney Medical",
-        "description": "515 points · 364 comments",
+        "description": "1298 points · 848 comments",
         "image": "",
         "source": "midjourney.com",
         "stats": ""
       },
       {
-        "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-        "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
-        "description": "Viral prompt shows that ChatGPT’s content filters don’t work",
+        "url": "https://chat.deepseek.com/",
+        "title": "DeepSeek Introduces Vision",
+        "description": "468 points · 189 comments",
         "image": "",
-        "source": "mindgard.ai",
-        "stats": "86 points · 125 comments"
-      },
-      {
-        "url": "https://www.midjourney.com/medical/blogpost",
-        "title": "Midjourney Full Body Ultrasonic CT Scanner",
-        "description": "81 points · 5 comments",
-        "image": "",
-        "source": "midjourney.com",
+        "source": "chat.deepseek.com",
         "stats": ""
       },
       {
-        "url": "https://www.reuters.com/technology/googles-gemini-co-lead-noam-shazeer-join-openai-2026-06-18/",
-        "title": "Noam Shazeer is joining OpenAI",
-        "description": "37 points · 4 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+        "title": "Noam Shazeer Joins OpenAI",
+        "description": "I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there.\n\nIt was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together.  It has been an honor and a pleasure to",
+        "image": "https://pbs.twimg.com/profile_images/1991028016471027714/bHMv9VwR_200x200.jpg",
+        "source": "twitter.com",
+        "stats": "325 points · 314 comments"
       },
       {
-        "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-        "title": "[x86] AI Compute Extensions (ACE) Specification",
-        "description": "28 points · 13 comments",
-        "image": "",
-        "source": "x86ecosystem.org",
-        "stats": ""
+        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+        "title": "Zero-Touch OAuth for MCP",
+        "description": "The Enterprise-Managed Authorization extension to the Model Context Protocol is now stable, enabling organizations to centrally provision MCP server access through their identity provider so users get connected servers on first login without per-app OAuth.",
+        "image": "https://blog.modelcontextprotocol.io/og-image.png",
+        "source": "blog.modelcontextprotocol.io",
+        "stats": "177 points · 65 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+        "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+        "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+        "image": "https://media.wired.com/photos/6a22ce03ffc48019a74127a3/191:100/w_1280,c_limit/GettyImages-2272066793.jpg",
+        "source": "wired.com",
+        "stats": "108 points · 87 comments"
       }
     ],
     "2026-06-17": [
@@ -50,7 +92,15 @@
         "description": "Original research from 2,000 decision-makers and consumers on AI brand visibility, content trust, and what brands need to do as the web feels less human. 74% say the internet feels less human than it did 10 years ago.",
         "image": "https://wpvip.com/wp-content/uploads/sites/3/2026/06/FOW-REPORT_f53628.jpg",
         "source": "wpvip.com",
-        "stats": "1034 points · 542 comments"
+        "stats": "1068 points · 573 comments"
+      },
+      {
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+        "description": "527 points · 592 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
         "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
@@ -58,15 +108,7 @@
         "description": "Audited accounting shows growing revenues being dwarfed by R&amp;D, other expenses.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg",
         "source": "arstechnica.com",
-        "stats": "352 points · 4 comments"
-      },
-      {
-        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-        "description": "432 points · 480 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "stats": "357 points · 4 comments"
       },
       {
         "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
@@ -74,75 +116,35 @@
         "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "376 points · 457 comments"
+        "stats": "393 points · 489 comments"
       },
       {
-        "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-        "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-        "description": "A 30-game battle royale across eleven LLMs, $482 of inference, and one finding that should change how you read model benchmarks.",
+        "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+        "title": "AI demands more engineering discipline. Not less",
+        "description": "410 points · 206 comments",
         "image": "",
-        "source": "openrouter.ai",
-        "stats": "234 points · 184 comments"
+        "source": "charitydotwtf.substack.com",
+        "stats": ""
       }
     ],
     "2026-06-16": [
       {
-        "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-        "title": "Has AI already killed self-help nonfiction books?",
-        "description": "My head has been spinning after getting a spreadsheet roughly a week ago. Before we dive into my dirty laundry, let’s state the obvious: millions of people have a vague sense that AI is changing things. And LLMs sure are convenient for getting answers quickly. My team and I use Claude and other tools daily. [&hellip;]",
-        "image": "https://tim.blog/wp-content/uploads/2020/09/socialmedia_timFerriss_200114_005.jpg",
-        "source": "tim.blog",
-        "stats": "398 points · 467 comments"
-      },
-      {
-        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-        "title": "GPT‑NL: a sovereign language model for the Netherlands",
-        "description": "With GPT‑NL, TNO - together with SURF and the Netherlands Forensic Institute (NFI) is building an independent Dutch language model and ecosystem. This strengthens the digital autonomy of the Netherlands and Europe, and provides a solid foundation for responsible AI applications.",
-        "image": "https://www.tno.nl/publish/pages/14621/genai.jpg",
-        "source": "tno.nl",
-        "stats": "249 points · 289 comments"
-      },
-      {
-        "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-        "title": "Claude: Elevated errors across many models [resolved]",
-        "description": "Claude&#39;s Status Page - Elevated errors across many models.",
-        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-        "source": "status.claude.com",
-        "stats": "189 points · 157 comments"
-      },
-      {
-        "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-        "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-        "description": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-        "image": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
-        "source": "qwen.ai",
-        "stats": "210 points · 41 comments"
-      },
-      {
-        "url": "https://github.com/nvlabs/cutile-rs",
-        "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
-        "description": "cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions. -...",
-        "image": "https://repository-images.githubusercontent.com/1179410901/891ec7b7-a5bf-4cd3-87f1-0d2ad1043b9f",
-        "source": "github.com",
-        "stats": "102 points · 17 comments"
+        "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+        "title": "Zen and the Art of Machine Learning Research",
+        "description": "if you want to do world-class research, temperament matters more than talent",
+        "image": "https://substackcdn.com/image/fetch/$s_!gBx6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6477dc42-dd38-4b92-8fa0-e4e6ab7f2bc1_1918x820.png",
+        "source": "blog.jxmo.io",
+        "stats": "22 points · 1 comments"
       }
     ],
     "2026-06-15": [
       {
         "url": "https://news.ycombinator.com/item?id=48542100",
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-        "description": "1286 points · 548 comments",
+        "description": "1300 points · 552 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.anthropic.com/news/claude-corps",
-        "title": "Claude Corps",
-        "description": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg",
-        "source": "anthropic.com",
-        "stats": "161 points · 119 comments"
       }
     ],
     "2026-06-14": [
@@ -227,24 +229,6 @@
         "image": "https://opengraph.githubassets.com/1dc09d1bdfdfcbca2c243584211b7363892733d4b790b6ca1e87b127a28711e8/Paca-AI/paca",
         "source": "github.com",
         "stats": "163 points · 58 comments"
-      }
-    ],
-    "2026-06-12": [
-      {
-        "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-        "title": "How to setup a local coding agent on macOS",
-        "description": "Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent.",
-        "image": "https://ikyle.me/images/hero.png",
-        "source": "ikyle.me",
-        "stats": "497 points · 119 comments"
-      },
-      {
-        "url": "https://bitboard.work/",
-        "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-        "description": "Connect your data, build with your agent, share with your team. BitBoard turns AI analyses into durable, traceable dashboards.",
-        "image": "https://bitboard.work/brand/social-preview.png",
-        "source": "bitboard.work",
-        "stats": "55 points · 24 comments"
       }
     ]
   }
