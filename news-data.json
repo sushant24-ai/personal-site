@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-06-19T07:12:30.179Z",
+  "lastUpdated": "2026-06-20T06:25:42.642Z",
   "days": {
-    "2026-06-19": [
+    "2026-06-20": [
       {
-        "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
-        "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search",
-        "description": "&quot;We show that a tiny snippet—just 13 words—of retrieved text on a UGC website like Reddit, Wikipedia, Quora, or Facebook can change AI agents to output spam / scam content pretty consistently.&quot;",
-        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/CleanShot-2026-06-15-at-07.09.07@2x.png",
-        "source": "404media.co",
-        "stats": "8 points · 1 comments"
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
+        "title": "China will have a Fable 5-class AI model before next year",
+        "description": "A Chinese AI lab is allegedly catching up with Anthropic.",
+        "image": "https://cdn.mos.cms.futurecdn.net/JU5bgu2ekXcxS9oyxZ8uMo-2000-80.jpg",
+        "source": "tomshardware.com",
+        "stats": "8 points · 0 comments"
       },
       {
-        "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
-        "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
-        "description": "The void is now A/B tested.\n\nOne user prompt: “Be silence.”\nOne toggle: embodiment system prompt.\nPresent → 0 bytes.\nAbsent → speech.\n\nGPT-5.2 + Claude Opus 4.6.\nSealed run. Prompt hash. Provider message IDs.\nhttps://t.co/vrUUXM4RiZ\nhttps://t.co/WoYzhcNUYE\n\n@OpenAI @AnthropicAI https://t.co/XbitlPNEWO",
-        "image": "https://pbs.twimg.com/media/HLJb8ufa8AAWXGX.jpg:large",
-        "source": "twitter.com",
-        "stats": "9 points · 0 comments"
+        "url": "https://hex.tech/blog/evaluate-data-agents/",
+        "title": "We built a lab to evaluate data agents – Hex",
+        "description": "Inside Hex&#x27;s eval architecture and the synthetic business it runs on.",
+        "image": "https://cdn.sanity.io/images/e92memrj/production/52b8bc125d788815d61fa48ad140aa89794ace79-3600x1890.png?w=1200&amp;auto=format",
+        "source": "hex.tech",
+        "stats": "7 points · 0 comments"
       },
       {
-        "url": "https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758",
-        "title": "White House talks with Anthropic shift to setting AI security rules",
-        "description": "5 points · 1 comments",
+        "url": "https://dri.es/ai-and-the-great-cms-unbundling",
+        "title": "AI and the Great CMS Unbundling",
+        "description": "AI is not killing the CMS. It is unbundling creation from control. That may replace the CMS for simple publishing, but it makes the CMS more important wherever content is shared, reused, approved, or trusted across systems.",
+        "image": "https://dri.es/files/cache/blog/ai-cms-unbundling-grid-1280w.png",
+        "source": "dri.es",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48606728",
+        "title": "Ask HN: Using OPA/Rego to secure MCP tool execution. Does it make sense?",
+        "description": "3 points · 0 comments",
         "image": "",
-        "source": "politico.com",
+        "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
-        "title": "Generative AI Is Having Its Herbalife Moment",
-        "description": "How predatory vibe coding startups are selling false hope to young people",
-        "image": "https://substackcdn.com/image/fetch/$s_!Wg2y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08b2b023-2201-4191-8686-3ed8863e7f81_5711x3808.jpeg",
-        "source": "whatwelo.st",
-        "stats": "4 points · 0 comments"
+        "url": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based...",
+        "title": "The New Calculus of AI-Based Coding",
+        "description": "A collection of posts by Joe Magerramov",
+        "image": "",
+        "source": "blog.joemag.dev",
+        "stats": "3 points · 1 comments"
+      }
+    ],
+    "2026-06-19": [
+      {
+        "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+        "title": "Norway imposes near ban on AI in elementary school",
+        "description": "580 points · 389 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
-        "url": "https://www.nbcnews.com/tech/innovation/ai-boston-childrens-hospital-diagnose-rare-diseases-kids-openai-rcna350387",
-        "title": "AI helped diagnose 18 children whose rare diseases had stumped doctors",
-        "description": "Researchers from Boston Children’s Hospital identified 18 diagnoses for children with rare diseases using OpenAI’s o3 model. ",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260617-boston-childrens-hospital-ww-1435-5cebf8.jpg",
-        "source": "nbcnews.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://aiclambake.com/clamtakes/linear-a/",
+        "title": "AI Engineer Claims to Have Cracked Linear A",
+        "description": "AI Engineer Claims to Have Cracked Linear A",
+        "image": "https://aiclambake.com/images/og-default.png",
+        "source": "aiclambake.com",
+        "stats": "419 points · 163 comments"
+      },
+      {
+        "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+        "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+        "description": "Luca Guadagnino’s nearly completed biopic stars Andrew Garfield as the controversial OpenAI founder",
+        "image": "https://static.the-independent.com/2026/06/19/16/16/Sam-Altman.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "source": "the-independent.com",
+        "stats": "185 points · 66 comments"
+      },
+      {
+        "url": "https://www.nature.com/articles/d41586-026-01947-1",
+        "title": "Is AI ruining our skills? Early results are in – and they're not good",
+        "description": "Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.",
+        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_52722978.jpg",
+        "source": "nature.com",
+        "stats": "215 points · 283 comments"
+      },
+      {
+        "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+        "title": "John Jumper to join Anthropic",
+        "description": "A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some time to recharge). I am incredibly grateful for my time at GDM. @demishassabis took a real chance letting me lead the AlphaFold team just six months after finishing",
+        "image": "https://pbs.twimg.com/profile_images/1920152152657342464/4Cv3m4qx_200x200.jpg",
+        "source": "twitter.com",
+        "stats": "107 points · 76 comments"
       }
     ],
     "2026-06-18": [
       {
         "url": "https://www.midjourney.com/medical/blogpost",
         "title": "Midjourney Medical",
-        "description": "1298 points · 848 comments",
+        "description": "1340 points · 869 comments",
         "image": "",
         "source": "midjourney.com",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://chat.deepseek.com/",
         "title": "DeepSeek Introduces Vision",
-        "description": "468 points · 189 comments",
+        "description": "491 points · 200 comments",
         "image": "",
         "source": "chat.deepseek.com",
         "stats": ""
@@ -66,7 +108,7 @@
         "description": "I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there.\n\nIt was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together.  It has been an honor and a pleasure to",
         "image": "https://pbs.twimg.com/profile_images/1991028016471027714/bHMv9VwR_200x200.jpg",
         "source": "twitter.com",
-        "stats": "325 points · 314 comments"
+        "stats": "351 points · 379 comments"
       },
       {
         "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
@@ -74,7 +116,7 @@
         "description": "The Enterprise-Managed Authorization extension to the Model Context Protocol is now stable, enabling organizations to centrally provision MCP server access through their identity provider so users get connected servers on first login without per-app OAuth.",
         "image": "https://blog.modelcontextprotocol.io/og-image.png",
         "source": "blog.modelcontextprotocol.io",
-        "stats": "177 points · 65 comments"
+        "stats": "268 points · 101 comments"
       },
       {
         "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
@@ -82,48 +124,48 @@
         "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
         "image": "https://media.wired.com/photos/6a22ce03ffc48019a74127a3/191:100/w_1280,c_limit/GettyImages-2272066793.jpg",
         "source": "wired.com",
-        "stats": "108 points · 87 comments"
+        "stats": "136 points · 134 comments"
       }
     ],
     "2026-06-17": [
       {
-        "url": "https://wpvip.com/future-of-the-web-2026/",
-        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-        "description": "Original research from 2,000 decision-makers and consumers on AI brand visibility, content trust, and what brands need to do as the web feels less human. 74% say the internet feels less human than it did 10 years ago.",
-        "image": "https://wpvip.com/wp-content/uploads/sites/3/2026/06/FOW-REPORT_f53628.jpg",
-        "source": "wpvip.com",
-        "stats": "1068 points · 573 comments"
-      },
-      {
         "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
         "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-        "description": "527 points · 592 comments",
+        "description": "531 points · 597 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
       },
       {
-        "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-        "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-        "description": "Audited accounting shows growing revenues being dwarfed by R&amp;D, other expenses.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "357 points · 4 comments"
+        "url": "https://claude.com/blog/the-founders-playbook",
+        "title": "The founder's playbook: Building an AI-native startup",
+        "description": "We share how AI-native founders are using Claude at every stage of the startup journey, with practical exercises, frameworks, and prompts.",
+        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
+        "source": "claude.com",
+        "stats": "244 points · 167 comments"
       },
       {
-        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-        "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-        "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "393 points · 489 comments"
+        "url": "https://github.com/Adam-CAD/CADAM",
+        "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+        "description": "CADAM is the open source text-to-CAD web application - Adam-CAD/CADAM",
+        "image": "https://opengraph.githubassets.com/8ddabbec6f3b4e60702eb831052bd7325ace529fe87436925e909f5eabb2e59c/Adam-CAD/CADAM",
+        "source": "github.com",
+        "stats": "211 points · 97 comments"
       },
       {
-        "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-        "title": "AI demands more engineering discipline. Not less",
-        "description": "410 points · 206 comments",
+        "url": "https://artificialanalysis.ai/models/glm-5-2",
+        "title": "GLM 5.2 Performance Benchmarks",
+        "description": "Analysis of Z AI&#x27;s GLM-5.2 (max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
+        "image": "https://artificialanalysis.ai/models/glm-5-2/opengraph-image-oimwka?160c194f916e2ad0",
+        "source": "artificialanalysis.ai",
+        "stats": "158 points · 48 comments"
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+        "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+        "description": "91 points · 115 comments",
         "image": "",
-        "source": "charitydotwtf.substack.com",
+        "source": "wsj.com",
         "stats": ""
       }
     ],
@@ -134,7 +176,7 @@
         "description": "if you want to do world-class research, temperament matters more than talent",
         "image": "https://substackcdn.com/image/fetch/$s_!gBx6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6477dc42-dd38-4b92-8fa0-e4e6ab7f2bc1_1918x820.png",
         "source": "blog.jxmo.io",
-        "stats": "22 points · 1 comments"
+        "stats": "248 points · 89 comments"
       }
     ],
     "2026-06-15": [
@@ -187,48 +229,6 @@
         "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DUAK7t3Lf8s",
         "source": "bramcohen.com",
         "stats": "119 points · 181 comments"
-      }
-    ],
-    "2026-06-13": [
-      {
-        "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-        "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-        "description": "784 points · 587 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-        "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-        "description": "375 points · 190 comments",
-        "image": "",
-        "source": "news.sky.com",
-        "stats": ""
-      },
-      {
-        "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-        "title": "AI coding at home without going broke",
-        "description": "There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...",
-        "image": "",
-        "source": "stephen.bochinski.dev",
-        "stats": "338 points · 280 comments"
-      },
-      {
-        "url": "https://github.com/tensorzero/tensorzero",
-        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-        "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. - tensorzero/tensorzero",
-        "image": "https://repository-images.githubusercontent.com/829640443/56e9b8da-eabc-4dff-bac7-73d459e7880d",
-        "source": "github.com",
-        "stats": "276 points · 170 comments"
-      },
-      {
-        "url": "https://github.com/Paca-AI/paca",
-        "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-        "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp;amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...",
-        "image": "https://opengraph.githubassets.com/1dc09d1bdfdfcbca2c243584211b7363892733d4b790b6ca1e87b127a28711e8/Paca-AI/paca",
-        "source": "github.com",
-        "stats": "163 points · 58 comments"
       }
     ]
   }
