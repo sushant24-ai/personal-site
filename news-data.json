@@ -1,56 +1,106 @@
 {
-  "lastUpdated": "2026-06-20T06:25:42.642Z",
+  "lastUpdated": "2026-06-21T06:55:18.160Z",
   "days": {
-    "2026-06-20": [
+    "2026-06-21": [
       {
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
-        "title": "China will have a Fable 5-class AI model before next year",
-        "description": "A Chinese AI lab is allegedly catching up with Anthropic.",
-        "image": "https://cdn.mos.cms.futurecdn.net/JU5bgu2ekXcxS9oyxZ8uMo-2000-80.jpg",
-        "source": "tomshardware.com",
-        "stats": "8 points · 0 comments"
+        "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+        "title": "When I reject AI code even if it works",
+        "description": "AI can make implementation cheap while making review and judgment more expensive.",
+        "image": "https://vinibrasil.com/og/when-i-reject-ai-code-even-if-it-works.png",
+        "source": "vinibrasil.com",
+        "stats": "139 points · 78 comments"
       },
       {
-        "url": "https://hex.tech/blog/evaluate-data-agents/",
-        "title": "We built a lab to evaluate data agents – Hex",
-        "description": "Inside Hex&#x27;s eval architecture and the synthetic business it runs on.",
-        "image": "https://cdn.sanity.io/images/e92memrj/production/52b8bc125d788815d61fa48ad140aa89794ace79-3600x1890.png?w=1200&amp;auto=format",
-        "source": "hex.tech",
-        "stats": "7 points · 0 comments"
-      },
-      {
-        "url": "https://dri.es/ai-and-the-great-cms-unbundling",
-        "title": "AI and the Great CMS Unbundling",
-        "description": "AI is not killing the CMS. It is unbundling creation from control. That may replace the CMS for simple publishing, but it makes the CMS more important wherever content is shared, reused, approved, or trusted across systems.",
-        "image": "https://dri.es/files/cache/blog/ai-cms-unbundling-grid-1280w.png",
-        "source": "dri.es",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48606728",
-        "title": "Ask HN: Using OPA/Rego to secure MCP tool execution. Does it make sense?",
-        "description": "3 points · 0 comments",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "title": "Building reliable agentic AI systems",
+        "description": "54 points · 10 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "martinfowler.com",
         "stats": ""
       },
       {
-        "url": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based...",
-        "title": "The New Calculus of AI-Based Coding",
-        "description": "A collection of posts by Joe Magerramov",
+        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "title": "The 100k Whys of AI",
+        "description": "34 points · 7 comments",
         "image": "",
-        "source": "blog.joemag.dev",
-        "stats": "3 points · 1 comments"
+        "source": "lcamtuf.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
+        "title": "Secretive Wall Street Powerhouse Jane Street Seizes the AI Spotlight",
+        "description": "7 points · 0 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48615488",
+        "title": "Ask HN: Is Claude Code with Fable 5 worth switching back from Codex?",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
+    "2026-06-20": [
+      {
+        "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+        "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+        "description": "166 points · 108 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.cloudflare.com/temporary-accounts/",
+        "title": "Temporary Cloudflare accounts for AI agents",
+        "description": "The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we",
+        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/60PB1NmcYFywT5TDlwDR0v/a9e72c980e108702e00b57343ea1ccb2/OG_Share_2024-2025-2026__39_.png",
+        "source": "blog.cloudflare.com",
+        "stats": "200 points · 104 comments"
+      },
+      {
+        "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+        "title": "LLMs Are Complicated Now",
+        "description": "Back in 2022 and 2023 there were two big branches of machine learning happening at Meta1. The LLM work that led to Llama was a clean, smooth stack of repeated Transformer modules; the recommendatio…",
+        "image": "https://ianbarber.blog/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-8.56.02-AM.png",
+        "source": "ianbarber.blog",
+        "stats": "182 points · 62 comments"
+      },
+      {
+        "url": "https://clickhouse.com/blog/postgresbench",
+        "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+        "description": "Discover how Postgres managed by ClickHouse compares to its peers in a reproducible, open benchmark.",
+        "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpostgres_bench_banner_48e7472b90.jpg&amp;w=1200&amp;h=630&amp;q=80",
+        "source": "clickhouse.com",
+        "stats": "99 points · 22 comments"
+      },
+      {
+        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+        "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+        "description": "75 points · 10 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       }
     ],
     "2026-06-19": [
       {
         "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
         "title": "Norway imposes near ban on AI in elementary school",
-        "description": "580 points · 389 comments",
+        "description": "795 points · 569 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
+      },
+      {
+        "url": "https://arrowtsx.dev/bigger-models/",
+        "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+        "description": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+        "image": "",
+        "source": "arrowtsx.dev",
+        "stats": "523 points · 251 comments"
       },
       {
         "url": "https://aiclambake.com/clamtakes/linear-a/",
@@ -58,7 +108,7 @@
         "description": "AI Engineer Claims to Have Cracked Linear A",
         "image": "https://aiclambake.com/images/og-default.png",
         "source": "aiclambake.com",
-        "stats": "419 points · 163 comments"
+        "stats": "440 points · 173 comments"
       },
       {
         "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
@@ -66,7 +116,7 @@
         "description": "Luca Guadagnino’s nearly completed biopic stars Andrew Garfield as the controversial OpenAI founder",
         "image": "https://static.the-independent.com/2026/06/19/16/16/Sam-Altman.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
         "source": "the-independent.com",
-        "stats": "185 points · 66 comments"
+        "stats": "202 points · 70 comments"
       },
       {
         "url": "https://www.nature.com/articles/d41586-026-01947-1",
@@ -74,49 +124,17 @@
         "description": "Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.",
         "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_52722978.jpg",
         "source": "nature.com",
-        "stats": "215 points · 283 comments"
-      },
-      {
-        "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-        "title": "John Jumper to join Anthropic",
-        "description": "A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some time to recharge). I am incredibly grateful for my time at GDM. @demishassabis took a real chance letting me lead the AlphaFold team just six months after finishing",
-        "image": "https://pbs.twimg.com/profile_images/1920152152657342464/4Cv3m4qx_200x200.jpg",
-        "source": "twitter.com",
-        "stats": "107 points · 76 comments"
+        "stats": "238 points · 313 comments"
       }
     ],
     "2026-06-18": [
       {
         "url": "https://www.midjourney.com/medical/blogpost",
         "title": "Midjourney Medical",
-        "description": "1340 points · 869 comments",
+        "description": "1355 points · 873 comments",
         "image": "",
         "source": "midjourney.com",
         "stats": ""
-      },
-      {
-        "url": "https://chat.deepseek.com/",
-        "title": "DeepSeek Introduces Vision",
-        "description": "491 points · 200 comments",
-        "image": "",
-        "source": "chat.deepseek.com",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-        "title": "Noam Shazeer Joins OpenAI",
-        "description": "I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there.\n\nIt was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together.  It has been an honor and a pleasure to",
-        "image": "https://pbs.twimg.com/profile_images/1991028016471027714/bHMv9VwR_200x200.jpg",
-        "source": "twitter.com",
-        "stats": "351 points · 379 comments"
-      },
-      {
-        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-        "title": "Zero-Touch OAuth for MCP",
-        "description": "The Enterprise-Managed Authorization extension to the Model Context Protocol is now stable, enabling organizations to centrally provision MCP server access through their identity provider so users get connected servers on first login without per-app OAuth.",
-        "image": "https://blog.modelcontextprotocol.io/og-image.png",
-        "source": "blog.modelcontextprotocol.io",
-        "stats": "268 points · 101 comments"
       },
       {
         "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
@@ -124,49 +142,25 @@
         "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
         "image": "https://media.wired.com/photos/6a22ce03ffc48019a74127a3/191:100/w_1280,c_limit/GettyImages-2272066793.jpg",
         "source": "wired.com",
-        "stats": "136 points · 134 comments"
+        "stats": "145 points · 141 comments"
+      },
+      {
+        "url": "https://tester.army",
+        "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+        "description": "TesterArmy runs real tests against your site or mobile app. Get screenshots, recordings, and bug reports - no test scripts to maintain.",
+        "image": "https://tester.army/og-image.png",
+        "source": "tester.army",
+        "stats": "126 points · 68 comments"
       }
     ],
     "2026-06-17": [
       {
-        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-        "description": "531 points · 597 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://claude.com/blog/the-founders-playbook",
-        "title": "The founder's playbook: Building an AI-native startup",
-        "description": "We share how AI-native founders are using Claude at every stage of the startup journey, with practical exercises, frameworks, and prompts.",
-        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_70ed020ecf8fa028b9bc95fa819720b6_og_claude-generic.jpg",
-        "source": "claude.com",
-        "stats": "244 points · 167 comments"
-      },
-      {
         "url": "https://github.com/Adam-CAD/CADAM",
         "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
         "description": "CADAM is the open source text-to-CAD web application - Adam-CAD/CADAM",
-        "image": "https://opengraph.githubassets.com/8ddabbec6f3b4e60702eb831052bd7325ace529fe87436925e909f5eabb2e59c/Adam-CAD/CADAM",
+        "image": "https://opengraph.githubassets.com/ee82a9c9caaab67483b4c062d21abb6bc5e945e0bd4b7d6203755c2304ee7c4c/Adam-CAD/CADAM",
         "source": "github.com",
-        "stats": "211 points · 97 comments"
-      },
-      {
-        "url": "https://artificialanalysis.ai/models/glm-5-2",
-        "title": "GLM 5.2 Performance Benchmarks",
-        "description": "Analysis of Z AI&#x27;s GLM-5.2 (max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
-        "image": "https://artificialanalysis.ai/models/glm-5-2/opengraph-image-oimwka?160c194f916e2ad0",
-        "source": "artificialanalysis.ai",
-        "stats": "158 points · 48 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-        "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-        "description": "91 points · 115 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "stats": "212 points · 97 comments"
       }
     ],
     "2026-06-16": [
@@ -176,7 +170,15 @@
         "description": "if you want to do world-class research, temperament matters more than talent",
         "image": "https://substackcdn.com/image/fetch/$s_!gBx6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6477dc42-dd38-4b92-8fa0-e4e6ab7f2bc1_1918x820.png",
         "source": "blog.jxmo.io",
-        "stats": "248 points · 89 comments"
+        "stats": "284 points · 105 comments"
+      },
+      {
+        "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
+        "title": "Inference cost at scale with napkin math",
+        "description": "74 points · 15 comments",
+        "image": "",
+        "source": "injuly.in",
+        "stats": ""
       }
     ],
     "2026-06-15": [
@@ -187,48 +189,6 @@
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
-      }
-    ],
-    "2026-06-14": [
-      {
-        "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-        "title": "Not everyone is using AI for everything",
-        "description": "People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.",
-        "image": "https://substackcdn.com/image/fetch/$s_!n_r-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F957dc207-33f4-4e66-a821-66f340c9a623_1424x1404.png",
-        "source": "gabrielweinberg.com",
-        "stats": "501 points · 538 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48528029",
-        "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-        "description": "423 points · 111 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-        "description": "prefeitura-rio/Rio-3.5-Open-397B is presented as an original 397B model trained by IplanRIO. It is not. Its weights are a direct element-wise merge of our model, Nex, with the official Qwen3.5-397B...",
-        "image": "https://opengraph.githubassets.com/90ddf0a4feb8e611966d446e8e6f44fc69a041e09e8524d000fd4a93bfa1c1e3/nex-agi/Nex-N2/issues/4",
-        "source": "github.com",
-        "stats": "397 points · 218 comments"
-      },
-      {
-        "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-        "title": "Did Anthropic ask for this?",
-        "description": "This past Friday, the US Government issued an export control directive that prohibits Anthropic from giving foreign nationals access to Claude Fable or Claude Mythos, their latest models.",
-        "image": "https://substackcdn.com/image/fetch/$s_!eErw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c7c5126-190f-4119-a68f-5d0e417ce754_1700x828.png",
-        "source": "verysane.ai",
-        "stats": "194 points · 164 comments"
-      },
-      {
-        "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-        "title": "Why Is Claude Turning into an a**Hole?",
-        "description": "Let&#x27;s hope this trend reverses",
-        "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DUAK7t3Lf8s",
-        "source": "bramcohen.com",
-        "stats": "119 points · 181 comments"
       }
     ]
   }
