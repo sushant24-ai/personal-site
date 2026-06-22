@@ -1,64 +1,106 @@
 {
-  "lastUpdated": "2026-06-21T06:55:18.160Z",
+  "lastUpdated": "2026-06-22T07:29:13.806Z",
   "days": {
+    "2026-06-22": [
+      {
+        "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+        "title": "You're probably using Agent Skills wrong",
+        "description": "Skills have quickly become the most important feature for writing code with agents. Here is how to use them well, and bad patterns to avoid.",
+        "image": "https://images.unsplash.com/photo-1685773253905-915ce8dd470b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDEzNnx8YmVlaGl2ZXxlbnwwfHx8fDE3NzEzMDEyMjd8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "notes.ansonbiggs.com",
+        "stats": "23 points · 11 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48624168",
+        "title": "Ask HN: Are you being \"529 Overloaded\" by Anthropic too?",
+        "description": "6 points · 2 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
+        "title": "Microsoft's Satya Nadella: We Can't Let AI Giants Eat the Economy",
+        "description": "4 points · 2 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://news.err.ee/1610060290/estonia-to-become-first-country-to-issue-id-codes-to-ai-agents",
+        "title": "Estonia to become first country to create digital identities for AI agents",
+        "description": "Estonia plans to become the first country in the world to introduce digital identities for AI agents to better regulate the industry, Prime Minister Kristen Michal (Reform) has said.",
+        "image": "https://s.err.ee/photo/crop/2026/06/16/3661414h9c41t24.jpg",
+        "source": "news.err.ee",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
+        "title": "Tensordyne makes a big bet on log math to beat Nvidia",
+        "description": "Who needs compute-hungry multiplications when you can just add logarithms",
+        "image": "https://image.theregister.com/5258676.jpg?imageId=5258676&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-06-21": [
+      {
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+        "title": "Identity verification on Claude",
+        "description": "706 points · 590 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
+        "stats": ""
+      },
+      {
+        "url": "https://apertvs.ai/",
+        "title": "Apertus – Open Foundation Model for Sovereign AI",
+        "description": "344 points · 113 comments",
+        "image": "",
+        "source": "apertvs.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/raiyanyahya/recall",
+        "title": "Show HN: Recall – Local project memory for Claude Code",
+        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline. - raiyanyahya/recall",
+        "image": "https://opengraph.githubassets.com/3e83a0158d2f518d06e1ca1eb9a362ca48408f952aa2ff6136a4438c9cd0cbb5/raiyanyahya/recall",
+        "source": "github.com",
+        "stats": "102 points · 67 comments"
+      },
+      {
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "title": "Building reliable agentic AI systems",
+        "description": "189 points · 47 comments",
+        "image": "",
+        "source": "martinfowler.com",
+        "stats": ""
+      },
       {
         "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
         "title": "When I reject AI code even if it works",
         "description": "AI can make implementation cheap while making review and judgment more expensive.",
         "image": "https://vinibrasil.com/og/when-i-reject-ai-code-even-if-it-works.png",
         "source": "vinibrasil.com",
-        "stats": "139 points · 78 comments"
-      },
-      {
-        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "title": "Building reliable agentic AI systems",
-        "description": "54 points · 10 comments",
-        "image": "",
-        "source": "martinfowler.com",
-        "stats": ""
-      },
-      {
-        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-        "title": "The 100k Whys of AI",
-        "description": "34 points · 7 comments",
-        "image": "",
-        "source": "lcamtuf.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
-        "title": "Secretive Wall Street Powerhouse Jane Street Seizes the AI Spotlight",
-        "description": "7 points · 0 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48615488",
-        "title": "Ask HN: Is Claude Code with Fable 5 worth switching back from Codex?",
-        "description": "5 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "222 points · 165 comments"
       }
     ],
     "2026-06-20": [
-      {
-        "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-        "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-        "description": "166 points · 108 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
       {
         "url": "https://blog.cloudflare.com/temporary-accounts/",
         "title": "Temporary Cloudflare accounts for AI agents",
         "description": "The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we",
         "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/60PB1NmcYFywT5TDlwDR0v/a9e72c980e108702e00b57343ea1ccb2/OG_Share_2024-2025-2026__39_.png",
         "source": "blog.cloudflare.com",
-        "stats": "200 points · 104 comments"
+        "stats": "243 points · 141 comments"
+      },
+      {
+        "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+        "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+        "description": "175 points · 117 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
         "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
@@ -66,7 +108,7 @@
         "description": "Back in 2022 and 2023 there were two big branches of machine learning happening at Meta1. The LLM work that led to Llama was a clean, smooth stack of repeated Transformer modules; the recommendatio…",
         "image": "https://ianbarber.blog/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-8.56.02-AM.png",
         "source": "ianbarber.blog",
-        "stats": "182 points · 62 comments"
+        "stats": "205 points · 74 comments"
       },
       {
         "url": "https://clickhouse.com/blog/postgresbench",
@@ -74,12 +116,12 @@
         "description": "Discover how Postgres managed by ClickHouse compares to its peers in a reproducible, open benchmark.",
         "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpostgres_bench_banner_48e7472b90.jpg&amp;w=1200&amp;h=630&amp;q=80",
         "source": "clickhouse.com",
-        "stats": "99 points · 22 comments"
+        "stats": "110 points · 23 comments"
       },
       {
         "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
         "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-        "description": "75 points · 10 comments",
+        "description": "77 points · 10 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -87,44 +129,12 @@
     ],
     "2026-06-19": [
       {
-        "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-        "title": "Norway imposes near ban on AI in elementary school",
-        "description": "795 points · 569 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
         "url": "https://arrowtsx.dev/bigger-models/",
         "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
         "description": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
         "image": "",
         "source": "arrowtsx.dev",
-        "stats": "523 points · 251 comments"
-      },
-      {
-        "url": "https://aiclambake.com/clamtakes/linear-a/",
-        "title": "AI Engineer Claims to Have Cracked Linear A",
-        "description": "AI Engineer Claims to Have Cracked Linear A",
-        "image": "https://aiclambake.com/images/og-default.png",
-        "source": "aiclambake.com",
-        "stats": "440 points · 173 comments"
-      },
-      {
-        "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-        "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-        "description": "Luca Guadagnino’s nearly completed biopic stars Andrew Garfield as the controversial OpenAI founder",
-        "image": "https://static.the-independent.com/2026/06/19/16/16/Sam-Altman.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-        "source": "the-independent.com",
-        "stats": "202 points · 70 comments"
-      },
-      {
-        "url": "https://www.nature.com/articles/d41586-026-01947-1",
-        "title": "Is AI ruining our skills? Early results are in – and they're not good",
-        "description": "Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.",
-        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01947-1/d41586-026-01947-1_52722978.jpg",
-        "source": "nature.com",
-        "stats": "238 points · 313 comments"
+        "stats": "557 points · 286 comments"
       }
     ],
     "2026-06-18": [
@@ -178,16 +188,6 @@
         "description": "74 points · 15 comments",
         "image": "",
         "source": "injuly.in",
-        "stats": ""
-      }
-    ],
-    "2026-06-15": [
-      {
-        "url": "https://news.ycombinator.com/item?id=48542100",
-        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-        "description": "1300 points · 552 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
         "stats": ""
       }
     ]
