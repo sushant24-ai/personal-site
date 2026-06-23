@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-06-22T07:29:13.806Z",
+  "lastUpdated": "2026-06-23T06:11:23.489Z",
   "days": {
+    "2026-06-23": [
+      {
+        "url": "https://openai.com/index/daybreak-securing-the-world/",
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "description": "18 points · 0 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
+        "title": "AWS Lambda MicroVMs for isolated execution of user and AI-generated code",
+        "description": "Discover more about what",
+        "image": "",
+        "source": "aws.amazon.com",
+        "stats": "22 points · 3 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+        "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
+        "description": "Barrister who was given material produced by Garfield AI says advocacy at trial ‘remained fundamentally human’",
+        "image": "https://i.guim.co.uk/img/media/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a51232ad426a8abf09c0a7532eb80eb6",
+        "source": "theguardian.com",
+        "stats": "7 points · 0 comments"
+      },
+      {
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "title": "GLM-5.2 is the step change for open agents",
+        "description": "A capability threshold I&#x27;ve been carefully monitoring.",
+        "image": "https://substackcdn.com/image/fetch/$s_!Of7h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png",
+        "source": "interconnects.ai",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://brunelly.com/",
+        "title": "AI Wrote the Code. Nobody Knows Why It Made Those Decisions",
+        "description": "Brunelly is the AI native delivery platform that orchestrates your full software lifecycle governed, auditable, and built for engineering teams that need to scale.",
+        "image": "https://brunelly.com/og-home.png",
+        "source": "brunelly.com",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-06-22": [
+      {
+        "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+        "title": "The text in Claude Code’s “Extended Thinking” output",
+        "description": "294 points · 205 comments",
+        "image": "",
+        "source": "patrickmccanna.net",
+        "stats": ""
+      },
+      {
+        "url": "https://oak.space/oak/oak",
+        "title": "Show HN: Oak – Git alternative designed for agents",
+        "description": "oak/oak — Version control for agents",
+        "image": "https://oak.space/oak/oak/og.png?v=c9d14f01",
+        "source": "oak.space",
+        "stats": "174 points · 157 comments"
+      },
+      {
+        "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+        "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+        "description": "Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.",
+        "image": "https://i.insider.com/6a39921e36d7e6f260b7815c?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "76 points · 19 comments"
+      },
+      {
+        "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/",
+        "title": "Nvidia Halos",
+        "description": "Solutions for Autonomous Vehicle (AV) Safety.",
+        "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/safety/nvidia-halos-og.jpg",
+        "source": "nvidia.com",
+        "stats": "82 points · 47 comments"
+      },
       {
         "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
         "title": "You're probably using Agent Skills wrong",
         "description": "Skills have quickly become the most important feature for writing code with agents. Here is how to use them well, and bad patterns to avoid.",
         "image": "https://images.unsplash.com/photo-1685773253905-915ce8dd470b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDEzNnx8YmVlaGl2ZXxlbnwwfHx8fDE3NzEzMDEyMjd8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
         "source": "notes.ansonbiggs.com",
-        "stats": "23 points · 11 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48624168",
-        "title": "Ask HN: Are you being \"529 Overloaded\" by Anthropic too?",
-        "description": "6 points · 2 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f",
-        "title": "Microsoft's Satya Nadella: We Can't Let AI Giants Eat the Economy",
-        "description": "4 points · 2 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.err.ee/1610060290/estonia-to-become-first-country-to-issue-id-codes-to-ai-agents",
-        "title": "Estonia to become first country to create digital identities for AI agents",
-        "description": "Estonia plans to become the first country in the world to introduce digital identities for AI agents to better regulate the industry, Prime Minister Kristen Michal (Reform) has said.",
-        "image": "https://s.err.ee/photo/crop/2026/06/16/3661414h9c41t24.jpg",
-        "source": "news.err.ee",
-        "stats": "4 points · 2 comments"
-      },
-      {
-        "url": "https://www.theregister.com/systems/2026/06/19/tensordyne-makes-a-big-bet-on-log-math-to-beat-nvidia/5258662",
-        "title": "Tensordyne makes a big bet on log math to beat Nvidia",
-        "description": "Who needs compute-hungry multiplications when you can just add logarithms",
-        "image": "https://image.theregister.com/5258676.jpg?imageId=5258676&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "3 points · 0 comments"
+        "stats": "70 points · 24 comments"
       }
     ],
     "2026-06-21": [
       {
         "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
         "title": "Identity verification on Claude",
-        "description": "706 points · 590 comments",
+        "description": "847 points · 708 comments",
         "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
         "source": "support.claude.com",
         "stats": ""
@@ -55,34 +97,34 @@
       {
         "url": "https://apertvs.ai/",
         "title": "Apertus – Open Foundation Model for Sovereign AI",
-        "description": "344 points · 113 comments",
+        "description": "523 points · 179 comments",
         "image": "",
         "source": "apertvs.ai",
         "stats": ""
       },
       {
+        "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+        "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+        "description": "&lt;p&gt;As a fun personal project, I have been working on a chatbot for answering general questions about my household on anything from maintenance questions to doctor’s appointments. &lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nThe general idea is that the chatbot will get its household knowledge through RAG from querying a vector database, but for better results I have made the vector searches metadata aware. \r\n&lt;/p&gt;\r\n&lt;p&gt;\r\nBasically, I am running questions through a pre-processing step to categorize questions into known metadata categories (e.g. pool, car, hvac, cooking). The main goal of this is to narrow down the search space for vector ranking to only indexed entries that match the category of the question. As an example, the question “When did we replace our pool pump?” will be mapped to a category called “pool” before querying the Index database. \r\n&lt;/p&gt;",
+        "image": "https://www.teachmecoolstuff.com/img/tor.jpg",
+        "source": "teachmecoolstuff.com",
+        "stats": "205 points · 48 comments"
+      },
+      {
         "url": "https://github.com/raiyanyahya/recall",
         "title": "Show HN: Recall – Local project memory for Claude Code",
         "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline. - raiyanyahya/recall",
-        "image": "https://opengraph.githubassets.com/3e83a0158d2f518d06e1ca1eb9a362ca48408f952aa2ff6136a4438c9cd0cbb5/raiyanyahya/recall",
+        "image": "https://opengraph.githubassets.com/1cdfd2a963658addaf84be620c6985add562d541d0ec632548b659096c7c4634/raiyanyahya/recall",
         "source": "github.com",
-        "stats": "102 points · 67 comments"
+        "stats": "130 points · 81 comments"
       },
       {
         "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
         "title": "Building reliable agentic AI systems",
-        "description": "189 points · 47 comments",
+        "description": "195 points · 49 comments",
         "image": "",
         "source": "martinfowler.com",
         "stats": ""
-      },
-      {
-        "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-        "title": "When I reject AI code even if it works",
-        "description": "AI can make implementation cheap while making review and judgment more expensive.",
-        "image": "https://vinibrasil.com/og/when-i-reject-ai-code-even-if-it-works.png",
-        "source": "vinibrasil.com",
-        "stats": "222 points · 165 comments"
       }
     ],
     "2026-06-20": [
@@ -134,7 +176,15 @@
         "description": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
         "image": "",
         "source": "arrowtsx.dev",
-        "stats": "557 points · 286 comments"
+        "stats": "574 points · 291 comments"
+      },
+      {
+        "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+        "title": "Munich 1991: The Roots of the Current AI Boom",
+        "description": "219 points · 96 comments",
+        "image": "https://people.idsia.ch/~juergen/munichAIboom.jpg",
+        "source": "people.idsia.ch",
+        "stats": ""
       }
     ],
     "2026-06-18": [
@@ -171,24 +221,6 @@
         "image": "https://opengraph.githubassets.com/ee82a9c9caaab67483b4c062d21abb6bc5e945e0bd4b7d6203755c2304ee7c4c/Adam-CAD/CADAM",
         "source": "github.com",
         "stats": "212 points · 97 comments"
-      }
-    ],
-    "2026-06-16": [
-      {
-        "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-        "title": "Zen and the Art of Machine Learning Research",
-        "description": "if you want to do world-class research, temperament matters more than talent",
-        "image": "https://substackcdn.com/image/fetch/$s_!gBx6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6477dc42-dd38-4b92-8fa0-e4e6ab7f2bc1_1918x820.png",
-        "source": "blog.jxmo.io",
-        "stats": "284 points · 105 comments"
-      },
-      {
-        "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
-        "title": "Inference cost at scale with napkin math",
-        "description": "74 points · 15 comments",
-        "image": "",
-        "source": "injuly.in",
-        "stats": ""
       }
     ]
   }
