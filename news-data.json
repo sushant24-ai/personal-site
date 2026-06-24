@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-06-23T06:11:23.489Z",
+  "lastUpdated": "2026-06-24T06:10:43.847Z",
   "days": {
-    "2026-06-23": [
+    "2026-06-24": [
       {
-        "url": "https://openai.com/index/daybreak-securing-the-world/",
-        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-        "description": "18 points · 0 comments",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "description": "A world model predicts environment dynamics based on current observations and actions, serving as a core cognitive mechanism for reasoning and planning. In this work, we investigate how world modeling based on language models can further push the boundaries of general agents. (i) We first focus on building foundation models for agentic environment simulation. We introduce Qwen-AgentWorld-35B-A3B and Qwen-AgentWorld-397B-A17B, the first language world models capable of simulating agentic environments covering 7 domains via long chain-of-thought reasoning. Leveraging more than 10M environment interaction trajectories of 7 domains in real-world environments, we develop Qwen-AgentWorld through a three-stage training pipeline: CPT injects general-purpose world modeling capabilities from the state transition dynamics and augmented professional corpora, SFT activates next-state-prediction reasoning, and RL sharpens simulation fidelity through a tailored framework with hybrid rubric-and-rule rewards. To evaluate language world models, we present AgentWorldBench, a comprehensive benchmark constructed from real-world interactions of 5 frontier models on 9 established benchmarks. Empirical results demonstrate that Qwen-AgentWorld significantly outperforms existing frontier models. (ii) Beyond foundation models, we further investigate two complementary paradigms through which world modeling enhances general agents. First, as a decoupled environment simulator, Qwen-AgentWorld supports scalable and controllable simulation of thousands of real-world environments for agentic RL, yielding gains that surpass real-environment training alone. Second, as a unified agent foundation model, world-model training acts as a highly effective warm-up that improves downstream performance across 7 agentic benchmarks. Code: https://github.com/QwenLM/Qwen-AgentWorld",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "41 points · 8 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+        "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+        "description": "Losses spread globally as investors questioned soaring valuations and spending on AI infrastructure",
+        "image": "https://i.guim.co.uk/img/media/1576ea0394b4abc522ee470f30ec213f183150fb/416_0_4602_3682/master/4602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc716298ca64c8b13894c2805eafa265",
+        "source": "theguardian.com",
+        "stats": "29 points · 2 comments"
+      },
+      {
+        "url": "https://github.com/y-times-y/y",
+        "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+        "description": "A malleable coding agent app. Use Claude Code and Codex to build your projects and reshape y itself live. - y-times-y/y",
+        "image": "https://opengraph.githubassets.com/d8a410beb338c6b87c5657558174773274b20127f8b8a70ceaa63e34df736a4f/y-times-y/y",
+        "source": "github.com",
+        "stats": "27 points · 15 comments"
+      },
+      {
+        "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
+        "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
+        "description": "28 points · 1 comments",
         "image": "",
-        "source": "openai.com",
+        "source": "inc.com",
         "stats": ""
       },
       {
-        "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
-        "title": "AWS Lambda MicroVMs for isolated execution of user and AI-generated code",
-        "description": "Discover more about what",
+        "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+        "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+        "description": "Towards Holistic evaluation of Generative Diffusion Transformers! - End2End-Diffusion/diffusion-bench",
+        "image": "https://opengraph.githubassets.com/7388978fe16dce0d84d19295ad2a995bca41fa15b6444a989f2ba1f8ac61fafb/End2End-Diffusion/diffusion-bench",
+        "source": "github.com",
+        "stats": "25 points · 0 comments"
+      }
+    ],
+    "2026-06-23": [
+      {
+        "url": "https://mistral.ai/news/ocr-4/",
+        "title": "Mistral OCR 4",
+        "description": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
+        "image": "https://mistral.ai/cms-media/api/media/file/OCR-OG.png",
+        "source": "mistral.ai",
+        "stats": "449 points · 115 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/news/introducing-claude-tag",
+        "title": "Claude Tag",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
+        "source": "anthropic.com",
+        "stats": "243 points · 166 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/legal/privacy",
+        "title": "Anthropic updates their terms to verify age or identity",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "anthropic.com",
+        "stats": "188 points · 173 comments"
+      },
+      {
+        "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+        "title": "AI's Affordability Crisis",
+        "description": "A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer&#39;s algorithm, &quot;the first one&#39;s fr...",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuTLj-6oHxAz8yvEo1928xM8bxW3K58OrmxbvNnesyd-o37-lY8Pw6fPFmMupStauhJB8xXh6l7FY-rVHwwPqKyBFsI-WLbaXLSytoAuk6FTRcf02DIWUo7ib3FpP5yc0AKOH6XxmNL9gcIr4H8_K5oxDlhU-_voTtMPgbPY-u2OfM4TuEFG5ukArx99S9/w1200-h630-p-k-no-nu/200B-Question.png",
+        "source": "blog.dshr.org",
+        "stats": "274 points · 358 comments"
+      },
+      {
+        "url": "https://openai.com/index/daybreak-securing-the-world/",
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "description": "208 points · 167 comments",
         "image": "",
-        "source": "aws.amazon.com",
-        "stats": "22 points · 3 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
-        "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
-        "description": "Barrister who was given material produced by Garfield AI says advocacy at trial ‘remained fundamentally human’",
-        "image": "https://i.guim.co.uk/img/media/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a51232ad426a8abf09c0a7532eb80eb6",
-        "source": "theguardian.com",
-        "stats": "7 points · 0 comments"
-      },
-      {
-        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "title": "GLM-5.2 is the step change for open agents",
-        "description": "A capability threshold I&#x27;ve been carefully monitoring.",
-        "image": "https://substackcdn.com/image/fetch/$s_!Of7h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png",
-        "source": "interconnects.ai",
-        "stats": "6 points · 0 comments"
-      },
-      {
-        "url": "https://brunelly.com/",
-        "title": "AI Wrote the Code. Nobody Knows Why It Made Those Decisions",
-        "description": "Brunelly is the AI native delivery platform that orchestrates your full software lifecycle governed, auditable, and built for engineering teams that need to scale.",
-        "image": "https://brunelly.com/og-home.png",
-        "source": "brunelly.com",
-        "stats": "5 points · 0 comments"
+        "source": "openai.com",
+        "stats": ""
       }
     ],
     "2026-06-22": [
       {
         "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
         "title": "The text in Claude Code’s “Extended Thinking” output",
-        "description": "294 points · 205 comments",
+        "description": "319 points · 220 comments",
         "image": "",
         "source": "patrickmccanna.net",
         "stats": ""
@@ -56,9 +98,9 @@
         "url": "https://oak.space/oak/oak",
         "title": "Show HN: Oak – Git alternative designed for agents",
         "description": "oak/oak — Version control for agents",
-        "image": "https://oak.space/oak/oak/og.png?v=c9d14f01",
+        "image": "https://oak.space/oak/oak/og.png?v=3816fb63",
         "source": "oak.space",
-        "stats": "174 points · 157 comments"
+        "stats": "211 points · 185 comments"
       },
       {
         "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
@@ -66,7 +108,7 @@
         "description": "Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.",
         "image": "https://i.insider.com/6a39921e36d7e6f260b7815c?width=1200&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "76 points · 19 comments"
+        "stats": "120 points · 31 comments"
       },
       {
         "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/",
@@ -74,56 +116,24 @@
         "description": "Solutions for Autonomous Vehicle (AV) Safety.",
         "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/safety/nvidia-halos-og.jpg",
         "source": "nvidia.com",
-        "stats": "82 points · 47 comments"
+        "stats": "83 points · 47 comments"
       },
       {
-        "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
-        "title": "You're probably using Agent Skills wrong",
-        "description": "Skills have quickly become the most important feature for writing code with agents. Here is how to use them well, and bad patterns to avoid.",
-        "image": "https://images.unsplash.com/photo-1685773253905-915ce8dd470b?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDEzNnx8YmVlaGl2ZXxlbnwwfHx8fDE3NzEzMDEyMjd8MA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "notes.ansonbiggs.com",
-        "stats": "70 points · 24 comments"
+        "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
+        "title": "AI has already killed academia as we know it?",
+        "description": "No AI was used in writing this post.\n\nIf academia was a game, I&#x27;ve won it. Tenure, an endowed research chair, awards, leadership positions, an international journal I helped to found and now serve as the Editor-in-Chief, students I have supervised to their own successes, a good",
+        "image": "https://storage.ghost.io/c/cf/ef/cfef5939-aa56-467c-8fb0-0d9fa6e79ac6/content/images/2026/06/Use-AI-Image-Jun-22--2026--10_37_27.png",
+        "source": "truths-and-loves.ghost.io",
+        "stats": "65 points · 51 comments"
       }
     ],
     "2026-06-21": [
       {
-        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "title": "Identity verification on Claude",
-        "description": "847 points · 708 comments",
-        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-        "source": "support.claude.com",
-        "stats": ""
-      },
-      {
         "url": "https://apertvs.ai/",
         "title": "Apertus – Open Foundation Model for Sovereign AI",
-        "description": "523 points · 179 comments",
+        "description": "531 points · 181 comments",
         "image": "",
         "source": "apertvs.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-        "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-        "description": "&lt;p&gt;As a fun personal project, I have been working on a chatbot for answering general questions about my household on anything from maintenance questions to doctor’s appointments. &lt;/p&gt;\r\n\r\n&lt;p&gt;\r\nThe general idea is that the chatbot will get its household knowledge through RAG from querying a vector database, but for better results I have made the vector searches metadata aware. \r\n&lt;/p&gt;\r\n&lt;p&gt;\r\nBasically, I am running questions through a pre-processing step to categorize questions into known metadata categories (e.g. pool, car, hvac, cooking). The main goal of this is to narrow down the search space for vector ranking to only indexed entries that match the category of the question. As an example, the question “When did we replace our pool pump?” will be mapped to a category called “pool” before querying the Index database. \r\n&lt;/p&gt;",
-        "image": "https://www.teachmecoolstuff.com/img/tor.jpg",
-        "source": "teachmecoolstuff.com",
-        "stats": "205 points · 48 comments"
-      },
-      {
-        "url": "https://github.com/raiyanyahya/recall",
-        "title": "Show HN: Recall – Local project memory for Claude Code",
-        "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline. - raiyanyahya/recall",
-        "image": "https://opengraph.githubassets.com/1cdfd2a963658addaf84be620c6985add562d541d0ec632548b659096c7c4634/raiyanyahya/recall",
-        "source": "github.com",
-        "stats": "130 points · 81 comments"
-      },
-      {
-        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "title": "Building reliable agentic AI systems",
-        "description": "195 points · 49 comments",
-        "image": "",
-        "source": "martinfowler.com",
         "stats": ""
       }
     ],
@@ -171,17 +181,9 @@
     ],
     "2026-06-19": [
       {
-        "url": "https://arrowtsx.dev/bigger-models/",
-        "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-        "description": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-        "image": "",
-        "source": "arrowtsx.dev",
-        "stats": "574 points · 291 comments"
-      },
-      {
         "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
         "title": "Munich 1991: The Roots of the Current AI Boom",
-        "description": "219 points · 96 comments",
+        "description": "228 points · 101 comments",
         "image": "https://people.idsia.ch/~juergen/munichAIboom.jpg",
         "source": "people.idsia.ch",
         "stats": ""
@@ -211,16 +213,6 @@
         "image": "https://tester.army/og-image.png",
         "source": "tester.army",
         "stats": "126 points · 68 comments"
-      }
-    ],
-    "2026-06-17": [
-      {
-        "url": "https://github.com/Adam-CAD/CADAM",
-        "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-        "description": "CADAM is the open source text-to-CAD web application - Adam-CAD/CADAM",
-        "image": "https://opengraph.githubassets.com/ee82a9c9caaab67483b4c062d21abb6bc5e945e0bd4b7d6203755c2304ee7c4c/Adam-CAD/CADAM",
-        "source": "github.com",
-        "stats": "212 points · 97 comments"
       }
     ]
   }
