@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-24T06:10:43.847Z",
+  "lastUpdated": "2026-06-25T06:11:52.306Z",
   "days": {
-    "2026-06-24": [
+    "2026-06-25": [
       {
-        "url": "https://arxiv.org/abs/2606.24597",
-        "title": "Qwen-AgentWorld: Language World Models for General Agents",
-        "description": "A world model predicts environment dynamics based on current observations and actions, serving as a core cognitive mechanism for reasoning and planning. In this work, we investigate how world modeling based on language models can further push the boundaries of general agents. (i) We first focus on building foundation models for agentic environment simulation. We introduce Qwen-AgentWorld-35B-A3B and Qwen-AgentWorld-397B-A17B, the first language world models capable of simulating agentic environments covering 7 domains via long chain-of-thought reasoning. Leveraging more than 10M environment interaction trajectories of 7 domains in real-world environments, we develop Qwen-AgentWorld through a three-stage training pipeline: CPT injects general-purpose world modeling capabilities from the state transition dynamics and augmented professional corpora, SFT activates next-state-prediction reasoning, and RL sharpens simulation fidelity through a tailored framework with hybrid rubric-and-rule rewards. To evaluate language world models, we present AgentWorldBench, a comprehensive benchmark constructed from real-world interactions of 5 frontier models on 9 established benchmarks. Empirical results demonstrate that Qwen-AgentWorld significantly outperforms existing frontier models. (ii) Beyond foundation models, we further investigate two complementary paradigms through which world modeling enhances general agents. First, as a decoupled environment simulator, Qwen-AgentWorld supports scalable and controllable simulation of thousands of real-world environments for agentic RL, yielding gains that surpass real-environment training alone. Second, as a unified agent foundation model, world-model training acts as a highly effective warm-up that improves downstream performance across 7 agentic benchmarks. Code: https://github.com/QwenLM/Qwen-AgentWorld",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "41 points · 8 comments"
+        "url": "https://www.crosscanon.com/",
+        "title": "Bible as RAG Database",
+        "description": "Search Scripture by theme. Related passages. No commentary.",
+        "image": "https://www.crosscanon.com/og-image.png",
+        "source": "crosscanon.com",
+        "stats": "80 points · 48 comments"
       },
       {
-        "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
-        "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-        "description": "Losses spread globally as investors questioned soaring valuations and spending on AI infrastructure",
-        "image": "https://i.guim.co.uk/img/media/1576ea0394b4abc522ee470f30ec213f183150fb/416_0_4602_3682/master/4602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc716298ca64c8b13894c2805eafa265",
-        "source": "theguardian.com",
-        "stats": "29 points · 2 comments"
-      },
-      {
-        "url": "https://github.com/y-times-y/y",
-        "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-        "description": "A malleable coding agent app. Use Claude Code and Codex to build your projects and reshape y itself live. - y-times-y/y",
-        "image": "https://opengraph.githubassets.com/d8a410beb338c6b87c5657558174773274b20127f8b8a70ceaa63e34df736a4f/y-times-y/y",
-        "source": "github.com",
-        "stats": "27 points · 15 comments"
-      },
-      {
-        "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
-        "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
-        "description": "28 points · 1 comments",
+        "url": "https://www.jimmont.com/llm-style-token-costs",
+        "title": "What I'm Finding About LLM Code Style and Token Costs",
+        "description": "26 points · 9 comments",
         "image": "",
-        "source": "inc.com",
+        "source": "jimmont.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-        "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-        "description": "Towards Holistic evaluation of Generative Diffusion Transformers! - End2End-Diffusion/diffusion-bench",
-        "image": "https://opengraph.githubassets.com/7388978fe16dce0d84d19295ad2a995bca41fa15b6444a989f2ba1f8ac61fafb/End2End-Diffusion/diffusion-bench",
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "title": "AI-website-cloner-template: Clone any website using AI coding agents",
+        "description": "Clone any website with one command using AI coding agents - JCodesMore/ai-website-cloner-template",
+        "image": "https://opengraph.githubassets.com/257e65578e195552dd018731899d249e763a6c22090274b54258b43e34655939/JCodesMore/ai-website-cloner-template",
         "source": "github.com",
-        "stats": "25 points · 0 comments"
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/",
+        "title": "Bernie Sanders Wants a U.S. Sovereign Wealth Fund for AI",
+        "description": "Bernie Sanders wants Americans to own a stake in AI through a national sovereign wealth fund.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a37ca65d4497380a50ec760/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+        "source": "forbes.com",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://help.dropbox.com/integrations/connect-dropbox-to-claude",
+        "title": "Connect Dropbox to Claude",
+        "description": "Connect Dropbox to Claude to find and organize content, create share links and file requests, and save generated text without leaving Claude.",
+        "image": "",
+        "source": "help.dropbox.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
+    "2026-06-24": [
+      {
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI&#039;s inference systems.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+        "source": "techcrunch.com",
+        "stats": "641 points · 365 comments"
+      },
+      {
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "description": "274 points · 468 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://rubyllm.com/",
+        "title": "RubyLLM: A Ruby framework for all major AI providers",
+        "description": "A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.",
+        "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
+        "source": "rubyllm.com",
+        "stats": "372 points · 60 comments"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+        "title": "NSA lost access to Mythos amid Anthropic dispute",
+        "description": "240 points · 252 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+        "title": "Computer use in Gemini 3.5 Flash",
+        "description": "A look at the built-in computer use tool in Gemini 3.5 Flash.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
+        "source": "blog.google",
+        "stats": "197 points · 129 comments"
       }
     ],
     "2026-06-23": [
@@ -50,7 +92,7 @@
         "description": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
         "image": "https://mistral.ai/cms-media/api/media/file/OCR-OG.png",
         "source": "mistral.ai",
-        "stats": "449 points · 115 comments"
+        "stats": "493 points · 133 comments"
       },
       {
         "url": "https://www.anthropic.com/news/introducing-claude-tag",
@@ -58,15 +100,7 @@
         "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
         "source": "anthropic.com",
-        "stats": "243 points · 166 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/legal/privacy",
-        "title": "Anthropic updates their terms to verify age or identity",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "anthropic.com",
-        "stats": "188 points · 173 comments"
+        "stats": "264 points · 181 comments"
       },
       {
         "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
@@ -74,12 +108,20 @@
         "description": "A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer&#39;s algorithm, &quot;the first one&#39;s fr...",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuTLj-6oHxAz8yvEo1928xM8bxW3K58OrmxbvNnesyd-o37-lY8Pw6fPFmMupStauhJB8xXh6l7FY-rVHwwPqKyBFsI-WLbaXLSytoAuk6FTRcf02DIWUo7ib3FpP5yc0AKOH6XxmNL9gcIr4H8_K5oxDlhU-_voTtMPgbPY-u2OfM4TuEFG5ukArx99S9/w1200-h630-p-k-no-nu/200B-Question.png",
         "source": "blog.dshr.org",
-        "stats": "274 points · 358 comments"
+        "stats": "323 points · 411 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/legal/privacy",
+        "title": "Anthropic updates their terms to verify age or identity",
+        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "anthropic.com",
+        "stats": "195 points · 183 comments"
       },
       {
         "url": "https://openai.com/index/daybreak-securing-the-world/",
         "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-        "description": "208 points · 167 comments",
+        "description": "220 points · 173 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -187,32 +229,6 @@
         "image": "https://people.idsia.ch/~juergen/munichAIboom.jpg",
         "source": "people.idsia.ch",
         "stats": ""
-      }
-    ],
-    "2026-06-18": [
-      {
-        "url": "https://www.midjourney.com/medical/blogpost",
-        "title": "Midjourney Medical",
-        "description": "1355 points · 873 comments",
-        "image": "",
-        "source": "midjourney.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-        "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-        "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-        "image": "https://media.wired.com/photos/6a22ce03ffc48019a74127a3/191:100/w_1280,c_limit/GettyImages-2272066793.jpg",
-        "source": "wired.com",
-        "stats": "145 points · 141 comments"
-      },
-      {
-        "url": "https://tester.army",
-        "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-        "description": "TesterArmy runs real tests against your site or mobile app. Get screenshots, recordings, and bug reports - no test scripts to maintain.",
-        "image": "https://tester.army/og-image.png",
-        "source": "tester.army",
-        "stats": "126 points · 68 comments"
       }
     ]
   }
