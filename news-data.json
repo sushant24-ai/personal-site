@@ -1,64 +1,106 @@
 {
-  "lastUpdated": "2026-06-25T06:11:52.306Z",
+  "lastUpdated": "2026-06-26T06:14:53.823Z",
   "days": {
-    "2026-06-25": [
+    "2026-06-26": [
       {
-        "url": "https://www.crosscanon.com/",
-        "title": "Bible as RAG Database",
-        "description": "Search Scripture by theme. Related passages. No commentary.",
-        "image": "https://www.crosscanon.com/og-image.png",
-        "source": "crosscanon.com",
-        "stats": "80 points · 48 comments"
-      },
-      {
-        "url": "https://www.jimmont.com/llm-style-token-costs",
-        "title": "What I'm Finding About LLM Code Style and Token Costs",
-        "description": "26 points · 9 comments",
+        "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+        "title": "AI children's books, body horror edition",
+        "description": "173 points · 54 comments",
         "image": "",
-        "source": "jimmont.com",
+        "source": "lcamtuf.substack.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-        "title": "AI-website-cloner-template: Clone any website using AI coding agents",
-        "description": "Clone any website with one command using AI coding agents - JCodesMore/ai-website-cloner-template",
-        "image": "https://opengraph.githubassets.com/257e65578e195552dd018731899d249e763a6c22090274b54258b43e34655939/JCodesMore/ai-website-cloner-template",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://www.forbes.com/sites/jamesbroughel/2026/06/22/bernie-sanders-wants-a-us-sovereign-wealth-fund-for-ai/",
-        "title": "Bernie Sanders Wants a U.S. Sovereign Wealth Fund for AI",
-        "description": "Bernie Sanders wants Americans to own a stake in AI through a national sovereign wealth fund.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a37ca65d4497380a50ec760/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
-        "source": "forbes.com",
-        "stats": "4 points · 2 comments"
-      },
-      {
-        "url": "https://help.dropbox.com/integrations/connect-dropbox-to-claude",
-        "title": "Connect Dropbox to Claude",
-        "description": "Connect Dropbox to Claude to find and organize content, create share links and file requests, and save generated text without leaving Claude.",
+        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+        "title": "What happened after 2k people tried to hack my AI assistant",
+        "description": "74 points · 20 comments",
         "image": "",
-        "source": "help.dropbox.com",
-        "stats": "2 points · 0 comments"
+        "source": "fernandoi.cl",
+        "stats": ""
+      },
+      {
+        "url": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
+        "title": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
+        "description": "So much for voluntary review.",
+        "image": "https://www.engadget.com/img/gallery/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/l-intro-1782427340.jpg",
+        "source": "engadget.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
+        "title": "DeepSeek Is Recruiting",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "app.mokahr.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.appaca.ai/",
+        "title": "Show HN: Appaca – AI Workspace for Operators",
+        "description": "Build and run custom internal tools in minutes with AI. Work smarter with AI agents that understand your business, workflows, and operations.",
+        "image": "https://www.appaca.ai/og.png",
+        "source": "appaca.ai",
+        "stats": "4 points · 0 comments"
+      }
+    ],
+    "2026-06-25": [
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+        "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+        "description": "584 points · 309 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/inkeep/open-knowledge",
+        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+        "description": "Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/df9c80a3a85cf1a909ba4d1dace346f93369c8b02e0b7b0124b1bb28d75e4822/inkeep/open-knowledge",
+        "source": "github.com",
+        "stats": "249 points · 123 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+        "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+        "description": "192 points · 156 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+        "description": "200 points · 79 comments",
+        "image": "",
+        "source": "syracuse.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+        "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+        "description": "109 points · 91 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
       }
     ],
     "2026-06-24": [
+      {
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "description": "757 points · 1231 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
       {
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI&#039;s inference systems.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
         "source": "techcrunch.com",
-        "stats": "641 points · 365 comments"
-      },
-      {
-        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "description": "274 points · 468 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "stats": "809 points · 459 comments"
       },
       {
         "url": "https://rubyllm.com/",
@@ -66,12 +108,12 @@
         "description": "A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.",
         "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
         "source": "rubyllm.com",
-        "stats": "372 points · 60 comments"
+        "stats": "442 points · 78 comments"
       },
       {
         "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
         "title": "NSA lost access to Mythos amid Anthropic dispute",
-        "description": "240 points · 252 comments",
+        "description": "262 points · 283 comments",
         "image": "",
         "source": "nytimes.com",
         "stats": ""
@@ -82,91 +124,59 @@
         "description": "A look at the built-in computer use tool in Gemini 3.5 Flash.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
         "source": "blog.google",
-        "stats": "197 points · 129 comments"
+        "stats": "239 points · 165 comments"
       }
     ],
     "2026-06-23": [
       {
-        "url": "https://mistral.ai/news/ocr-4/",
-        "title": "Mistral OCR 4",
-        "description": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
-        "image": "https://mistral.ai/cms-media/api/media/file/OCR-OG.png",
-        "source": "mistral.ai",
-        "stats": "493 points · 133 comments"
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "title": "GLM-5.2 is a step change for open agents",
+        "description": "A capability threshold I&#x27;ve been carefully monitoring.",
+        "image": "https://substackcdn.com/image/fetch/$s_!Of7h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png",
+        "source": "interconnects.ai",
+        "stats": "354 points · 209 comments"
       },
       {
-        "url": "https://www.anthropic.com/news/introducing-claude-tag",
-        "title": "Claude Tag",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
-        "source": "anthropic.com",
-        "stats": "264 points · 181 comments"
-      },
-      {
-        "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-        "title": "AI's Affordability Crisis",
-        "description": "A year ago in The Back Of The AI Envelope  I pointed out that the AI platforms were running the drug-dealer&#39;s algorithm, &quot;the first one&#39;s fr...",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuTLj-6oHxAz8yvEo1928xM8bxW3K58OrmxbvNnesyd-o37-lY8Pw6fPFmMupStauhJB8xXh6l7FY-rVHwwPqKyBFsI-WLbaXLSytoAuk6FTRcf02DIWUo7ib3FpP5yc0AKOH6XxmNL9gcIr4H8_K5oxDlhU-_voTtMPgbPY-u2OfM4TuEFG5ukArx99S9/w1200-h630-p-k-no-nu/200B-Question.png",
-        "source": "blog.dshr.org",
-        "stats": "323 points · 411 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/legal/privacy",
-        "title": "Anthropic updates their terms to verify age or identity",
-        "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "anthropic.com",
-        "stats": "195 points · 183 comments"
-      },
-      {
-        "url": "https://openai.com/index/daybreak-securing-the-world/",
-        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-        "description": "220 points · 173 comments",
+        "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+        "title": "I built a GPU back end for Emacs",
+        "description": "184 points · 92 comments",
         "image": "",
-        "source": "openai.com",
+        "source": "en.andros.dev",
         "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48644463",
+        "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+        "description": "83 points · 42 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
+        "title": "Lies, Damn Lies and Database Benchmarks",
+        "description": "We take ClickBench, change one fair-but-different thing in each scenario, and watch the overall hot-run rankings reshuffle. A reminder to read every benchmark closely, including our own.",
+        "image": "https://questdb.com/images/blog/2026-06-18/banner.webp",
+        "source": "questdb.com",
+        "stats": "55 points · 24 comments"
+      },
+      {
+        "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+        "title": "Record type inference for dummies",
+        "description": "Gentle tour of type inference for records",
+        "image": "https://haskellforall.com/2026/06/record-type-inference-for-dummies/opengraph-image?133960dfd41055ac",
+        "source": "haskellforall.com",
+        "stats": "29 points · 1 comments"
       }
     ],
     "2026-06-22": [
       {
-        "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-        "title": "The text in Claude Code’s “Extended Thinking” output",
-        "description": "319 points · 220 comments",
-        "image": "",
-        "source": "patrickmccanna.net",
-        "stats": ""
-      },
-      {
-        "url": "https://oak.space/oak/oak",
-        "title": "Show HN: Oak – Git alternative designed for agents",
-        "description": "oak/oak — Version control for agents",
-        "image": "https://oak.space/oak/oak/og.png?v=3816fb63",
-        "source": "oak.space",
-        "stats": "211 points · 185 comments"
-      },
-      {
-        "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-        "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-        "description": "Meta pauses an AI training program after sensitive employee data leaks, sparking internal backlash and highlighting security concerns.",
-        "image": "https://i.insider.com/6a39921e36d7e6f260b7815c?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "120 points · 31 comments"
-      },
-      {
-        "url": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/",
-        "title": "Nvidia Halos",
-        "description": "Solutions for Autonomous Vehicle (AV) Safety.",
-        "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/safety/nvidia-halos-og.jpg",
-        "source": "nvidia.com",
-        "stats": "83 points · 47 comments"
-      },
-      {
-        "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
-        "title": "AI has already killed academia as we know it?",
-        "description": "No AI was used in writing this post.\n\nIf academia was a game, I&#x27;ve won it. Tenure, an endowed research chair, awards, leadership positions, an international journal I helped to found and now serve as the Editor-in-Chief, students I have supervised to their own successes, a good",
-        "image": "https://storage.ghost.io/c/cf/ef/cfef5939-aa56-467c-8fb0-0d9fa6e79ac6/content/images/2026/06/Use-AI-Image-Jun-22--2026--10_37_27.png",
-        "source": "truths-and-loves.ghost.io",
-        "stats": "65 points · 51 comments"
+        "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+        "title": "The annotated PyTorch training loop",
+        "description": "What every line of a PyTorch training loop does, why it belongs where it is, and what breaks if you move it.",
+        "image": "https://idlemachines.co.uk/api/og/essay?title=The%20annotated%20PyTorch%20training%20loop",
+        "source": "idlemachines.co.uk",
+        "stats": "67 points · 14 comments"
       }
     ],
     "2026-06-21": [
@@ -181,54 +191,12 @@
     ],
     "2026-06-20": [
       {
-        "url": "https://blog.cloudflare.com/temporary-accounts/",
-        "title": "Temporary Cloudflare accounts for AI agents",
-        "description": "The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we",
-        "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/60PB1NmcYFywT5TDlwDR0v/a9e72c980e108702e00b57343ea1ccb2/OG_Share_2024-2025-2026__39_.png",
-        "source": "blog.cloudflare.com",
-        "stats": "243 points · 141 comments"
-      },
-      {
-        "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-        "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-        "description": "175 points · 117 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-        "title": "LLMs Are Complicated Now",
-        "description": "Back in 2022 and 2023 there were two big branches of machine learning happening at Meta1. The LLM work that led to Llama was a clean, smooth stack of repeated Transformer modules; the recommendatio…",
-        "image": "https://ianbarber.blog/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-8.56.02-AM.png",
-        "source": "ianbarber.blog",
-        "stats": "205 points · 74 comments"
-      },
-      {
-        "url": "https://clickhouse.com/blog/postgresbench",
-        "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-        "description": "Discover how Postgres managed by ClickHouse compares to its peers in a reproducible, open benchmark.",
-        "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpostgres_bench_banner_48e7472b90.jpg&amp;w=1200&amp;h=630&amp;q=80",
-        "source": "clickhouse.com",
-        "stats": "110 points · 23 comments"
-      },
-      {
-        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
-        "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-        "description": "77 points · 10 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      }
-    ],
-    "2026-06-19": [
-      {
-        "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-        "title": "Munich 1991: The Roots of the Current AI Boom",
-        "description": "228 points · 101 comments",
-        "image": "https://people.idsia.ch/~juergen/munichAIboom.jpg",
-        "source": "people.idsia.ch",
-        "stats": ""
+        "url": "https://github.com/runtypelabs/persona",
+        "title": "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
+        "description": "Create agentic front-end experiences for the web in VanillaJS™️. Lightweight, extensible, and WebMCP-native. - runtypelabs/persona",
+        "image": "https://opengraph.githubassets.com/1e74965324b427b60b7af28b503e0b02fb41e0480fa32b0a555e4ed0ad111d4d/runtypelabs/persona",
+        "source": "github.com",
+        "stats": "24 points · 17 comments"
       }
     ]
   }
