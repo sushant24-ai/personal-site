@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-06-26T06:14:53.823Z",
+  "lastUpdated": "2026-06-27T05:56:51.606Z",
   "days": {
+    "2026-06-27": [
+      {
+        "url": "https://news.ycombinator.com/item?id=48694802",
+        "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
+        "description": "22 points · 44 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
+        "title": "AI Erodes a Legacy of Reading",
+        "description": "10 points · 4 comments",
+        "image": "",
+        "source": "molochinations.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626",
+        "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
+        "description": "4 points · 5 comments",
+        "image": "",
+        "source": "qz.com",
+        "stats": ""
+      },
+      {
+        "url": "https://robinhood.com/us/en/agentic-trading/",
+        "title": "Agentic Trading on Robinhood",
+        "description": "Connect AI agents to Robinhood with built-in safety controls. Trade in a dedicated agentic account to stay in control of every trade your agent makes.",
+        "image": "https://images.ctfassets.net/ilblxxee70tt/130GHiIf6oghZdjGa2YCBd/7461d9b134ca999c916f8d41e7570052/meta-image.jpeg",
+        "source": "robinhood.com",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero",
+        "title": "AI glasses help students cheat in exams – test-obsessed Asia is ground zero",
+        "description": "For as long as there have been tests in schools, students have found ways to cheat, whether it is peeking over a classmate&#x27;s shoulder or scribbling notes on a palm or crib sheet.",
+        "image": "https://media.rnztools.nz/rnz/image/upload/s--8FLdZY4v--/t_tohu-badge-facebook/f_auto/q_auto/4JMDKDQ_AFP__20260307__cros_mobilewo260305_npFbt__v1__HighRes__MobileWorldCongress_jpg",
+        "source": "rnz.co.nz",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-06-26": [
       {
-        "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-        "title": "AI children's books, body horror edition",
-        "description": "173 points · 54 comments",
+        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+        "title": "U.S. government will decide who gets to use GPT-5.6",
+        "description": "938 points · 1003 comments",
         "image": "",
-        "source": "lcamtuf.substack.com",
+        "source": "washingtonpost.com",
         "stats": ""
+      },
+      {
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "description": "925 points · 562 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "description": "The move comes the same day as a new OpenAI model sees a limited release.",
+        "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
+        "source": "semafor.com",
+        "stats": "339 points · 335 comments"
       },
       {
         "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
         "title": "What happened after 2k people tried to hack my AI assistant",
-        "description": "74 points · 20 comments",
+        "description": "356 points · 160 comments",
         "image": "",
         "source": "fernandoi.cl",
         "stats": ""
       },
       {
-        "url": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
-        "title": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
-        "description": "So much for voluntary review.",
-        "image": "https://www.engadget.com/img/gallery/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/l-intro-1782427340.jpg",
-        "source": "engadget.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
-        "title": "DeepSeek Is Recruiting",
-        "description": "3 points · 0 comments",
+        "url": "https://blog.doubleword.ai/frontier-os-llm",
+        "title": "The gap between open weights LLMs and closed source LLMs",
+        "description": "Using artificial analysis benchmarks we try to predict when an open source LLM will be released that matches frontier LLMs. ",
         "image": "",
-        "source": "app.mokahr.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.appaca.ai/",
-        "title": "Show HN: Appaca – AI Workspace for Operators",
-        "description": "Build and run custom internal tools in minutes with AI. Work smarter with AI agents that understand your business, workflows, and operations.",
-        "image": "https://www.appaca.ai/og.png",
-        "source": "appaca.ai",
-        "stats": "4 points · 0 comments"
+        "source": "blog.doubleword.ai",
+        "stats": "173 points · 141 comments"
       }
     ],
     "2026-06-25": [
       {
         "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
         "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-        "description": "584 points · 309 comments",
+        "description": "598 points · 320 comments",
         "image": "",
         "source": "bloomberg.com",
         "stats": ""
@@ -56,32 +98,32 @@
         "url": "https://github.com/inkeep/open-knowledge",
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
         "description": "Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/df9c80a3a85cf1a909ba4d1dace346f93369c8b02e0b7b0124b1bb28d75e4822/inkeep/open-knowledge",
+        "image": "https://opengraph.githubassets.com/56fbe1308901d85b7a2de11960ca68643ea3ce96488d601305e006799e12d620/inkeep/open-knowledge",
         "source": "github.com",
-        "stats": "249 points · 123 comments"
+        "stats": "364 points · 170 comments"
       },
       {
         "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
         "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-        "description": "192 points · 156 comments",
+        "description": "306 points · 361 comments",
         "image": "",
         "source": "bloomberg.com",
         "stats": ""
       },
       {
-        "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
-        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
-        "description": "200 points · 79 comments",
+        "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+        "title": "OpenAI leans toward waiting until next year for IPO",
+        "description": "159 points · 138 comments",
         "image": "",
-        "source": "syracuse.com",
+        "source": "nytimes.com",
         "stats": ""
       },
       {
-        "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-        "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
-        "description": "109 points · 91 comments",
+        "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+        "description": "212 points · 80 comments",
         "image": "",
-        "source": "nytimes.com",
+        "source": "syracuse.com",
         "stats": ""
       }
     ],
@@ -89,7 +131,7 @@
       {
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "description": "757 points · 1231 comments",
+        "description": "794 points · 1290 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -100,7 +142,7 @@
         "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI&#039;s inference systems.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
         "source": "techcrunch.com",
-        "stats": "809 points · 459 comments"
+        "stats": "818 points · 463 comments"
       },
       {
         "url": "https://rubyllm.com/",
@@ -108,23 +150,15 @@
         "description": "A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.",
         "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
         "source": "rubyllm.com",
-        "stats": "442 points · 78 comments"
+        "stats": "445 points · 82 comments"
       },
       {
-        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-        "title": "NSA lost access to Mythos amid Anthropic dispute",
-        "description": "262 points · 283 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-        "title": "Computer use in Gemini 3.5 Flash",
-        "description": "A look at the built-in computer use tool in Gemini 3.5 Flash.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
-        "source": "blog.google",
-        "stats": "239 points · 165 comments"
+        "url": "https://arxiv.org/abs/2606.24597",
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "description": "A world model predicts environment dynamics based on current observations and actions, serving as a core cognitive mechanism for reasoning and planning. In this work, we investigate how world modeling based on language models can further push the boundaries of general agents. (i) We first focus on building foundation models for agentic environment simulation. We introduce Qwen-AgentWorld-35B-A3B and Qwen-AgentWorld-397B-A17B, the first language world models capable of simulating agentic environments covering 7 domains via long chain-of-thought reasoning. Leveraging more than 10M environment interaction trajectories of 7 domains in real-world environments, we develop Qwen-AgentWorld through a three-stage training pipeline: CPT injects general-purpose world modeling capabilities from the state transition dynamics and augmented professional corpora, SFT activates next-state-prediction reasoning, and RL sharpens simulation fidelity through a tailored framework with hybrid rubric-and-rule rewards. To evaluate language world models, we present AgentWorldBench, a comprehensive benchmark constructed from real-world interactions of 5 frontier models on 9 established benchmarks. Empirical results demonstrate that Qwen-AgentWorld significantly outperforms existing frontier models. (ii) Beyond foundation models, we further investigate two complementary paradigms through which world modeling enhances general agents. First, as a decoupled environment simulator, Qwen-AgentWorld supports scalable and controllable simulation of thousands of real-world environments for agentic RL, yielding gains that surpass real-environment training alone. Second, as a unified agent foundation model, world-model training acts as a highly effective warm-up that improves downstream performance across 7 agentic benchmarks. Code: https://github.com/QwenLM/Qwen-AgentWorld",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "198 points · 55 comments"
       }
     ],
     "2026-06-23": [
@@ -134,31 +168,23 @@
         "description": "A capability threshold I&#x27;ve been carefully monitoring.",
         "image": "https://substackcdn.com/image/fetch/$s_!Of7h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png",
         "source": "interconnects.ai",
-        "stats": "354 points · 209 comments"
+        "stats": "362 points · 218 comments"
       },
       {
         "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
         "title": "I built a GPU back end for Emacs",
-        "description": "184 points · 92 comments",
+        "description": "191 points · 112 comments",
         "image": "",
         "source": "en.andros.dev",
         "stats": ""
       },
       {
         "url": "https://news.ycombinator.com/item?id=48644463",
-        "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
-        "description": "83 points · 42 comments",
+        "title": "Show HN: Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+        "description": "100 points · 61 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
-        "title": "Lies, Damn Lies and Database Benchmarks",
-        "description": "We take ClickBench, change one fair-but-different thing in each scenario, and watch the overall hot-run rankings reshuffle. A reminder to read every benchmark closely, including our own.",
-        "image": "https://questdb.com/images/blog/2026-06-18/banner.webp",
-        "source": "questdb.com",
-        "stats": "55 points · 24 comments"
       },
       {
         "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
@@ -166,7 +192,15 @@
         "description": "Gentle tour of type inference for records",
         "image": "https://haskellforall.com/2026/06/record-type-inference-for-dummies/opengraph-image?133960dfd41055ac",
         "source": "haskellforall.com",
-        "stats": "29 points · 1 comments"
+        "stats": "75 points · 4 comments"
+      },
+      {
+        "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+        "title": "Modern GPU Programming for MLSys",
+        "description": "71 points · 15 comments",
+        "image": "",
+        "source": "mlc.ai",
+        "stats": ""
       }
     ],
     "2026-06-22": [
@@ -176,7 +210,7 @@
         "description": "What every line of a PyTorch training loop does, why it belongs where it is, and what breaks if you move it.",
         "image": "https://idlemachines.co.uk/api/og/essay?title=The%20annotated%20PyTorch%20training%20loop",
         "source": "idlemachines.co.uk",
-        "stats": "67 points · 14 comments"
+        "stats": "78 points · 19 comments"
       }
     ],
     "2026-06-21": [
@@ -187,16 +221,6 @@
         "image": "",
         "source": "apertvs.ai",
         "stats": ""
-      }
-    ],
-    "2026-06-20": [
-      {
-        "url": "https://github.com/runtypelabs/persona",
-        "title": "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
-        "description": "Create agentic front-end experiences for the web in VanillaJS™️. Lightweight, extensible, and WebMCP-native. - runtypelabs/persona",
-        "image": "https://opengraph.githubassets.com/1e74965324b427b60b7af28b503e0b02fb41e0480fa32b0a555e4ed0ad111d4d/runtypelabs/persona",
-        "source": "github.com",
-        "stats": "24 points · 17 comments"
       }
     ]
   }
