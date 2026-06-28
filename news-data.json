@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-06-27T05:56:51.606Z",
+  "lastUpdated": "2026-06-28T06:23:13.768Z",
   "days": {
+    "2026-06-28": [
+      {
+        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "title": "Response to AI slop is from Robin Williams",
+        "description": "There",
+        "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w",
+        "source": "jayacunzo.com",
+        "stats": "162 points · 89 comments"
+      },
+      {
+        "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+        "title": "Ford hired AI and sacked humans. It backfired badly",
+        "description": "‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker",
+        "image": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/07/22/12/ford-uk-factory.jpg?width=1200&height=800&crop=1200:800",
+        "source": "the-independent.com",
+        "stats": "112 points · 57 comments"
+      },
+      {
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "description": "Simple CLI tool for deterministic routing of queries between local and hosted LLM models - itsthelore/wayfinder-router",
+        "image": "https://repository-images.githubusercontent.com/1271892689/88c43e02-cd49-45ba-9926-2f82880b57a0",
+        "source": "github.com",
+        "stats": "28 points · 1 comments"
+      },
+      {
+        "url": "https://www.ibtimes.co.uk/us-layoffs-skyrocket-highest-level-since-pandemic-tech-giants-blame-ai-40-cuts-1805380",
+        "title": "US Layoffs Skyrocket to Highest Level Since Pandemic AI Blamed for 40% of Cuts",
+        "description": "US layoffs reached their highest May level since 2020, with AI cited in 40% of cases. The trend raises questions about AI&#039;s true impact on the labour market.",
+        "image": "https://d.ibtimes.co.uk/en/full/1815732/job-layoffs.jpg",
+        "source": "ibtimes.co.uk",
+        "stats": "14 points · 2 comments"
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
+        "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+        "description": "10 points · 3 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      }
+    ],
     "2026-06-27": [
       {
-        "url": "https://news.ycombinator.com/item?id=48694802",
-        "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
-        "description": "22 points · 44 comments",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec",
+        "image": "https://opengraph.githubassets.com/e12bc65ac343c706d46a7858e35c5e06824bb2c4556ba032f04c70de1a31311a/deepseek-ai/DeepSpec",
+        "source": "github.com",
+        "stats": "751 points · 312 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "title": "Asian AI startups launch Mythos-like models",
+        "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+        "source": "techcrunch.com",
+        "stats": "204 points · 156 comments"
+      },
+      {
+        "url": "https://github.com/kageroumado/adrafinil",
+        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+        "description": "Keep your Mac awake only while AI coding agents are working - kageroumado/adrafinil",
+        "image": "https://opengraph.githubassets.com/8284b055c19e8c6dee6c423165ad227a8aaaaaaa545ca7786b7999bae5d00879/kageroumado/adrafinil",
+        "source": "github.com",
+        "stats": "107 points · 71 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48701615",
+        "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+        "description": "52 points · 24 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://molochinations.substack.com/p/ai-erodes-a-legacy-of-reading",
-        "title": "AI Erodes a Legacy of Reading",
-        "description": "10 points · 4 comments",
-        "image": "",
-        "source": "molochinations.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://qz.com/enterprise-ai-spending-openai-anthropic-roi-pullback-062626",
-        "title": "Enterprise AI customers pulling back from OpenAI and Anthropic as costs mount",
-        "description": "4 points · 5 comments",
-        "image": "",
-        "source": "qz.com",
-        "stats": ""
-      },
-      {
-        "url": "https://robinhood.com/us/en/agentic-trading/",
-        "title": "Agentic Trading on Robinhood",
-        "description": "Connect AI agents to Robinhood with built-in safety controls. Trade in a dedicated agentic account to stay in control of every trade your agent makes.",
-        "image": "https://images.ctfassets.net/ilblxxee70tt/130GHiIf6oghZdjGa2YCBd/7461d9b134ca999c916f8d41e7570052/meta-image.jpeg",
-        "source": "robinhood.com",
-        "stats": "4 points · 2 comments"
-      },
-      {
-        "url": "https://www.rnz.co.nz/news/world/628396/ai-glasses-are-helping-students-cheat-in-exams-test-obsessed-asia-is-ground-zero",
-        "title": "AI glasses help students cheat in exams – test-obsessed Asia is ground zero",
-        "description": "For as long as there have been tests in schools, students have found ways to cheat, whether it is peeking over a classmate&#x27;s shoulder or scribbling notes on a palm or crib sheet.",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--8FLdZY4v--/t_tohu-badge-facebook/f_auto/q_auto/4JMDKDQ_AFP__20260307__cros_mobilewo260305_npFbt__v1__HighRes__MobileWorldCongress_jpg",
-        "source": "rnz.co.nz",
-        "stats": "4 points · 1 comments"
+        "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+        "title": "Anthropic says Alibaba used 25k accounts to mine Claude",
+        "description": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "34 points · 30 comments"
       }
     ],
     "2026-06-26": [
       {
         "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
         "title": "U.S. government will decide who gets to use GPT-5.6",
-        "description": "938 points · 1003 comments",
+        "description": "1155 points · 1206 comments",
         "image": "",
         "source": "washingtonpost.com",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "description": "925 points · 562 comments",
+        "description": "1109 points · 722 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -66,15 +108,7 @@
         "description": "The move comes the same day as a new OpenAI model sees a limited release.",
         "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
         "source": "semafor.com",
-        "stats": "339 points · 335 comments"
-      },
-      {
-        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-        "title": "What happened after 2k people tried to hack my AI assistant",
-        "description": "356 points · 160 comments",
-        "image": "",
-        "source": "fernandoi.cl",
-        "stats": ""
+        "stats": "544 points · 757 comments"
       },
       {
         "url": "https://blog.doubleword.ai/frontier-os-llm",
@@ -82,56 +116,40 @@
         "description": "Using artificial analysis benchmarks we try to predict when an open source LLM will be released that matches frontier LLMs. ",
         "image": "",
         "source": "blog.doubleword.ai",
-        "stats": "173 points · 141 comments"
+        "stats": "298 points · 234 comments"
+      },
+      {
+        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+        "title": "What happened after 2k people tried to hack my AI assistant",
+        "description": "370 points · 160 comments",
+        "image": "",
+        "source": "fernandoi.cl",
+        "stats": ""
       }
     ],
     "2026-06-25": [
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-        "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-        "description": "598 points · 320 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/inkeep/open-knowledge",
-        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-        "description": "Beautiful, AI-native markdown editor and LLM Wiki. Contribute to inkeep/open-knowledge development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/56fbe1308901d85b7a2de11960ca68643ea3ce96488d601305e006799e12d620/inkeep/open-knowledge",
-        "source": "github.com",
-        "stats": "364 points · 170 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-        "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-        "description": "306 points · 361 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
-      },
-      {
         "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
         "title": "OpenAI leans toward waiting until next year for IPO",
-        "description": "159 points · 138 comments",
+        "description": "176 points · 150 comments",
         "image": "",
         "source": "nytimes.com",
         "stats": ""
       },
       {
-        "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
-        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
-        "description": "212 points · 80 comments",
-        "image": "",
-        "source": "syracuse.com",
-        "stats": ""
+        "url": "https://trakkr.ai/bias",
+        "title": "Political bias in AI: Where the AI models stand",
+        "description": "Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...",
+        "image": "https://trakkr.ai/og-bias.png",
+        "source": "trakkr.ai",
+        "stats": "176 points · 306 comments"
       }
     ],
     "2026-06-24": [
       {
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "description": "794 points · 1290 comments",
+        "description": "803 points · 1298 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -142,62 +160,30 @@
         "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI&#039;s inference systems.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
         "source": "techcrunch.com",
-        "stats": "818 points · 463 comments"
+        "stats": "820 points · 467 comments"
       },
       {
-        "url": "https://rubyllm.com/",
-        "title": "RubyLLM: A Ruby framework for all major AI providers",
-        "description": "A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.",
-        "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
-        "source": "rubyllm.com",
-        "stats": "445 points · 82 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2606.24597",
-        "title": "Qwen-AgentWorld: Language World Models for General Agents",
-        "description": "A world model predicts environment dynamics based on current observations and actions, serving as a core cognitive mechanism for reasoning and planning. In this work, we investigate how world modeling based on language models can further push the boundaries of general agents. (i) We first focus on building foundation models for agentic environment simulation. We introduce Qwen-AgentWorld-35B-A3B and Qwen-AgentWorld-397B-A17B, the first language world models capable of simulating agentic environments covering 7 domains via long chain-of-thought reasoning. Leveraging more than 10M environment interaction trajectories of 7 domains in real-world environments, we develop Qwen-AgentWorld through a three-stage training pipeline: CPT injects general-purpose world modeling capabilities from the state transition dynamics and augmented professional corpora, SFT activates next-state-prediction reasoning, and RL sharpens simulation fidelity through a tailored framework with hybrid rubric-and-rule rewards. To evaluate language world models, we present AgentWorldBench, a comprehensive benchmark constructed from real-world interactions of 5 frontier models on 9 established benchmarks. Empirical results demonstrate that Qwen-AgentWorld significantly outperforms existing frontier models. (ii) Beyond foundation models, we further investigate two complementary paradigms through which world modeling enhances general agents. First, as a decoupled environment simulator, Qwen-AgentWorld supports scalable and controllable simulation of thousands of real-world environments for agentic RL, yielding gains that surpass real-environment training alone. Second, as a unified agent foundation model, world-model training acts as a highly effective warm-up that improves downstream performance across 7 agentic benchmarks. Code: https://github.com/QwenLM/Qwen-AgentWorld",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "198 points · 55 comments"
+        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+        "title": "AI learns the “dark art” of RFIC design",
+        "description": "Freed from intelligibility and aesthetics, AI designs faster",
+        "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
+        "source": "spectrum.ieee.org",
+        "stats": "220 points · 145 comments"
       }
     ],
     "2026-06-23": [
-      {
-        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "title": "GLM-5.2 is a step change for open agents",
-        "description": "A capability threshold I&#x27;ve been carefully monitoring.",
-        "image": "https://substackcdn.com/image/fetch/$s_!Of7h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F267cdc82-6fbc-4f68-bcba-160091396dfd_3182x1790.png",
-        "source": "interconnects.ai",
-        "stats": "362 points · 218 comments"
-      },
-      {
-        "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
-        "title": "I built a GPU back end for Emacs",
-        "description": "191 points · 112 comments",
-        "image": "",
-        "source": "en.andros.dev",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48644463",
-        "title": "Show HN: Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
-        "description": "100 points · 61 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
       {
         "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
         "title": "Record type inference for dummies",
         "description": "Gentle tour of type inference for records",
         "image": "https://haskellforall.com/2026/06/record-type-inference-for-dummies/opengraph-image?133960dfd41055ac",
         "source": "haskellforall.com",
-        "stats": "75 points · 4 comments"
+        "stats": "80 points · 8 comments"
       },
       {
         "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
         "title": "Modern GPU Programming for MLSys",
-        "description": "71 points · 15 comments",
+        "description": "77 points · 21 comments",
         "image": "",
         "source": "mlc.ai",
         "stats": ""
@@ -211,16 +197,6 @@
         "image": "https://idlemachines.co.uk/api/og/essay?title=The%20annotated%20PyTorch%20training%20loop",
         "source": "idlemachines.co.uk",
         "stats": "78 points · 19 comments"
-      }
-    ],
-    "2026-06-21": [
-      {
-        "url": "https://apertvs.ai/",
-        "title": "Apertus – Open Foundation Model for Sovereign AI",
-        "description": "531 points · 181 comments",
-        "image": "",
-        "source": "apertvs.ai",
-        "stats": ""
       }
     ]
   }
