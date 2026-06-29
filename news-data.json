@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-28T06:23:13.768Z",
+  "lastUpdated": "2026-06-29T06:53:20.942Z",
   "days": {
+    "2026-06-29": [
+      {
+        "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+        "title": "AI boom risks global financial crash, warn central bankers",
+        "description": "Reversal of ‘excessive’ tech investments could have serious economic consequences, report finds",
+        "image": "https://www.telegraph.co.uk/content/dam/business/2026/06/28/TELEMMGLPICT000492564394_17826523826990_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+        "source": "telegraph.co.uk",
+        "stats": "118 points · 129 comments"
+      },
+      {
+        "url": "https://github.com/ogulcancelik/herdr",
+        "title": "Herdr: Agent multiplexer that lives in your terminal",
+        "description": "agent multiplexer that lives in your terminal. Contribute to ogulcancelik/herdr development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/7e2c8400f61eb60dcca112886f74cc52d61d65eff0e1823a56a35d40b8ac643a/ogulcancelik/herdr",
+        "source": "github.com",
+        "stats": "30 points · 10 comments"
+      },
+      {
+        "url": "https://github.com/itsthelore/rac-core",
+        "title": "Lore – give your coding agent the decisions your team made",
+        "description": "Give your coding agent the decisions your team already made — so it stops re-doing things you ruled out, treating product knowledge like code. - itsthelore/rac-core",
+        "image": "https://repository-images.githubusercontent.com/1255866572/8702002c-6eb6-4689-b725-868c5177c008",
+        "source": "github.com",
+        "stats": "16 points · 9 comments"
+      },
+      {
+        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/",
+        "title": "OpenAI limits latest ChatGPT product to Trump-approved customers",
+        "description": "ChatGPT maker OpenAI said it is restricting the release of its new artificial intelligence model at the request of U.S. President Donald Trump.",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/DJGIS464BRPGUH5SDGRA4MLWBM.jpg?smart=true&amp;auth=26979b94f54e1dbdab291ead5e74804a575a3f5e93cfbfa8579e7c46986e2497&amp;width=1200&amp;height=630",
+        "source": "bnnbloomberg.ca",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/raiyanyahya/llmaker",
+        "title": "Show HN: Self hosting a modern LLM stack",
+        "description": "Self-host the modern LLM stack. Contribute to raiyanyahya/llmaker development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/751687afe9e694e117e83fb9eedcbe3ab30a653d04e42de74bd5f56f4228056e/raiyanyahya/llmaker",
+        "source": "github.com",
+        "stats": "5 points · 1 comments"
+      }
+    ],
     "2026-06-28": [
       {
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "description": "Among models given nothing but a prompt, the best open-weight option beat Claude Opus 4.8.",
+        "image": "https://semgrep.dev/assets/blog/glm-5.2-beats-claude-in-our-cybersecurity-benchmarks.png",
+        "source": "semgrep.dev",
+        "stats": "705 points · 340 comments"
+      },
+      {
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "description": "Welcome to my personal blog! I use it to share what I&#39;m currently learning or thinking about, usually on topics related to technology, business, and health.",
+        "image": "https://antoine.fi/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4LCJwdXIiOiJibG9iX2lkIn19--d3e6efb19dc4b4dc72f3345968d90c00d2d027fb/avatar.jpeg",
+        "source": "antoine.fi",
+        "stats": "404 points · 524 comments"
+      },
+      {
+        "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+        "title": "Professor denounces mass AI fraud on an exam at Brown",
+        "description": "The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his students cheated. He thinks the time has come for an in-depth debate so the technology does not signal the end of higher education",
+        "image": "https://imagenes.elpais.com/resizer/v2/J6ITLVPHQNHI3BHNR3FPIX5URE.jpg?auth=29cc39cd3e10fbe5a5266dd40100f1d61e4fe145ccd2e4ab13b6a6bd0b67f1dd&amp;width=1200",
+        "source": "english.elpais.com",
+        "stats": "365 points · 480 comments"
+      },
+      {
         "url": "https://jayacunzo.com/blog/your-move-chief",
-        "title": "Response to AI slop is from Robin Williams",
+        "title": "The best response to AI slop and online noise is from Robin Williams",
         "description": "There",
         "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w",
         "source": "jayacunzo.com",
-        "stats": "162 points · 89 comments"
+        "stats": "379 points · 207 comments"
       },
       {
-        "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-        "title": "Ford hired AI and sacked humans. It backfired badly",
-        "description": "‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker",
-        "image": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/07/22/12/ford-uk-factory.jpg?width=1200&height=800&crop=1200:800",
-        "source": "the-independent.com",
-        "stats": "112 points · 57 comments"
-      },
-      {
-        "url": "https://github.com/itsthelore/wayfinder-router",
-        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-        "description": "Simple CLI tool for deterministic routing of queries between local and hosted LLM models - itsthelore/wayfinder-router",
-        "image": "https://repository-images.githubusercontent.com/1271892689/88c43e02-cd49-45ba-9926-2f82880b57a0",
+        "url": "https://github.com/openai/codex/issues/2847",
+        "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+        "description": "What feature would you like to see? A mechanism to explicitly mark files/paths that the agent must not read or send to the model, at both repository and global levels (e.g., a repo-local .codexigno...",
+        "image": "https://opengraph.githubassets.com/ea0197195495edea819d4309b56e92e9ac742fdb7d3da2ca88fc8a4dd2eaf30e/openai/codex/issues/2847",
         "source": "github.com",
-        "stats": "28 points · 1 comments"
-      },
-      {
-        "url": "https://www.ibtimes.co.uk/us-layoffs-skyrocket-highest-level-since-pandemic-tech-giants-blame-ai-40-cuts-1805380",
-        "title": "US Layoffs Skyrocket to Highest Level Since Pandemic AI Blamed for 40% of Cuts",
-        "description": "US layoffs reached their highest May level since 2020, with AI cited in 40% of cases. The trend raises questions about AI&#039;s true impact on the labour market.",
-        "image": "https://d.ibtimes.co.uk/en/full/1815732/job-layoffs.jpg",
-        "source": "ibtimes.co.uk",
-        "stats": "14 points · 2 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2",
-        "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
-        "description": "10 points · 3 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "stats": "197 points · 129 comments"
       }
     ],
     "2026-06-27": [
@@ -48,9 +90,9 @@
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec",
-        "image": "https://opengraph.githubassets.com/e12bc65ac343c706d46a7858e35c5e06824bb2c4556ba032f04c70de1a31311a/deepseek-ai/DeepSpec",
+        "image": "https://opengraph.githubassets.com/2ae0a5b2f6ca7852e4a11703007bbc72a3a08fb1210d4af44400df82a509baba/deepseek-ai/DeepSpec",
         "source": "github.com",
-        "stats": "751 points · 312 comments"
+        "stats": "788 points · 354 comments"
       },
       {
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -58,20 +100,20 @@
         "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
         "source": "techcrunch.com",
-        "stats": "204 points · 156 comments"
+        "stats": "270 points · 193 comments"
       },
       {
         "url": "https://github.com/kageroumado/adrafinil",
         "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
         "description": "Keep your Mac awake only while AI coding agents are working - kageroumado/adrafinil",
-        "image": "https://opengraph.githubassets.com/8284b055c19e8c6dee6c423165ad227a8aaaaaaa545ca7786b7999bae5d00879/kageroumado/adrafinil",
+        "image": "https://opengraph.githubassets.com/5473412753bc93d58c1d2d56a8396f865ce9c408aac3324bfda6eacf8556d8c2/kageroumado/adrafinil",
         "source": "github.com",
-        "stats": "107 points · 71 comments"
+        "stats": "120 points · 78 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=48701615",
         "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
-        "description": "52 points · 24 comments",
+        "description": "107 points · 71 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -82,49 +124,33 @@
         "description": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg",
         "source": "arstechnica.com",
-        "stats": "34 points · 30 comments"
+        "stats": "40 points · 30 comments"
       }
     ],
     "2026-06-26": [
       {
-        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-        "title": "U.S. government will decide who gets to use GPT-5.6",
-        "description": "1155 points · 1206 comments",
-        "image": "",
-        "source": "washingtonpost.com",
-        "stats": ""
-      },
-      {
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "description": "1109 points · 722 comments",
+        "description": "1124 points · 737 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-        "description": "The move comes the same day as a new OpenAI model sees a limited release.",
-        "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
-        "source": "semafor.com",
-        "stats": "544 points · 757 comments"
+        "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
+        "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+        "description": "Jim Parkinson—lettering artist, type designer, and painter—died today at his home in Oakland, California, after a long struggle with Alzheimer’s.",
+        "image": "https://typographica.org/wp-content/uploads/2025/06/Jim_Parkinsin_at_typnic_Photo_by_Stephen_Coles-315x236.jpg",
+        "source": "typographica.org",
+        "stats": "28 points · 1 comments"
       },
       {
-        "url": "https://blog.doubleword.ai/frontier-os-llm",
-        "title": "The gap between open weights LLMs and closed source LLMs",
-        "description": "Using artificial analysis benchmarks we try to predict when an open source LLM will be released that matches frontier LLMs. ",
-        "image": "",
-        "source": "blog.doubleword.ai",
-        "stats": "298 points · 234 comments"
-      },
-      {
-        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-        "title": "What happened after 2k people tried to hack my AI assistant",
-        "description": "370 points · 160 comments",
-        "image": "",
-        "source": "fernandoi.cl",
-        "stats": ""
+        "url": "https://www.appaca.ai/",
+        "title": "Show HN: Appaca – AI Workspace for Operators",
+        "description": "Build and run custom internal tools in minutes with AI. Work smarter with AI agents that understand your business, workflows, and operations.",
+        "image": "https://www.appaca.ai/og.png",
+        "source": "appaca.ai",
+        "stats": "18 points · 11 comments"
       }
     ],
     "2026-06-25": [
@@ -147,28 +173,12 @@
     ],
     "2026-06-24": [
       {
-        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "description": "803 points · 1298 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "title": "OpenAI unveils its first custom chip, built by Broadcom",
-        "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI&#039;s inference systems.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
-        "source": "techcrunch.com",
-        "stats": "820 points · 467 comments"
-      },
-      {
         "url": "https://spectrum.ieee.org/ai-radio-chip-design",
         "title": "AI learns the “dark art” of RFIC design",
         "description": "Freed from intelligibility and aesthetics, AI designs faster",
         "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
         "source": "spectrum.ieee.org",
-        "stats": "220 points · 145 comments"
+        "stats": "262 points · 173 comments"
       }
     ],
     "2026-06-23": [
@@ -187,16 +197,6 @@
         "image": "",
         "source": "mlc.ai",
         "stats": ""
-      }
-    ],
-    "2026-06-22": [
-      {
-        "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-        "title": "The annotated PyTorch training loop",
-        "description": "What every line of a PyTorch training loop does, why it belongs where it is, and what breaks if you move it.",
-        "image": "https://idlemachines.co.uk/api/og/essay?title=The%20annotated%20PyTorch%20training%20loop",
-        "source": "idlemachines.co.uk",
-        "stats": "78 points · 19 comments"
       }
     ]
   }
