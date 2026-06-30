@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-06-29T06:53:20.942Z",
+  "lastUpdated": "2026-06-30T06:16:09.028Z",
   "days": {
+    "2026-06-30": [
+      {
+        "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+        "title": "Popping the GPU Bubble",
+        "description": "Photon, Moondream&#x27;s inference engine, achieves near-realtime VLM inference (~33ms on NVIDIA B200). This is a peek into how it delivers up to 35% higher decode throughput by optimizing how the GPU works.",
+        "image": "https://moondream.ai/images/blog/popping-the-gpu-bubble/cover.jpg",
+        "source": "moondream.ai",
+        "stats": "45 points · 12 comments"
+      },
+      {
+        "url": "https://github.com/SMJAI/open-memory-protocol",
+        "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+        "description": "An open standard for portable, interoperable AI memory across tools, sessions, and devices. - SMJAI/open-memory-protocol",
+        "image": "https://opengraph.githubassets.com/28374684313f8efa31a9e4d019dad0acb599c9ff3f5c94d80add70353f857cae/SMJAI/open-memory-protocol",
+        "source": "github.com",
+        "stats": "26 points · 9 comments"
+      },
+      {
+        "url": "https://github.com/doordash-oss/agentic-orchestrator",
+        "title": "Show HN: Agentic Orchestrator, a TUI for long-running coding agents",
+        "description": "Contribute to doordash-oss/agentic-orchestrator development by creating an account on GitHub.",
+        "image": "https://avatars.githubusercontent.com/u/81776447?s=400&amp;v=4",
+        "source": "github.com",
+        "stats": "8 points · 0 comments"
+      },
+      {
+        "url": "https://www.inc.com/chris-morris/an-explosion-of-ai-slop-is-pushing-people-offline-and-back-into-the-real-world/91366357",
+        "title": "An Explosion of AI Slop Is Pushing People Offline and Back into the Real World",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "inc.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.fastcompany.com/91564629/a-berkeley-ai-professor-makes-a-provocative-argument-for-decelerating-ai-research",
+        "title": "A Berkeley AI professor makes provocative argument for decelerating AI research",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "fastcompany.com",
+        "stats": ""
+      }
+    ],
     "2026-06-29": [
+      {
+        "url": "https://tidal.com/ai-policy",
+        "title": "Tidal AI Policy",
+        "description": "298 points · 329 comments",
+        "image": "",
+        "source": "tidal.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/deepreinforce-ai/Ornith-1",
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "description": "Contribute to deepreinforce-ai/Ornith-1 development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/8e87517a58efdb01cfdb7f25d3f6753c57d2041bc81c2c1603b460a5d4bf3b35/deepreinforce-ai/Ornith-1",
+        "source": "github.com",
+        "stats": "187 points · 37 comments"
+      },
+      {
+        "url": "https://htmx.org/essays/working-with-ai/",
+        "title": "Working With AI: A concrete example",
+        "description": "In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.",
+        "image": "",
+        "source": "htmx.org",
+        "stats": "128 points · 41 comments"
+      },
       {
         "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
         "title": "AI boom risks global financial crash, warn central bankers",
         "description": "Reversal of ‘excessive’ tech investments could have serious economic consequences, report finds",
         "image": "https://www.telegraph.co.uk/content/dam/business/2026/06/28/TELEMMGLPICT000492564394_17826523826990_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
         "source": "telegraph.co.uk",
-        "stats": "118 points · 129 comments"
+        "stats": "155 points · 205 comments"
       },
       {
         "url": "https://github.com/ogulcancelik/herdr",
         "title": "Herdr: Agent multiplexer that lives in your terminal",
         "description": "agent multiplexer that lives in your terminal. Contribute to ogulcancelik/herdr development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/7e2c8400f61eb60dcca112886f74cc52d61d65eff0e1823a56a35d40b8ac643a/ogulcancelik/herdr",
+        "image": "https://opengraph.githubassets.com/6ddf8b851f96d603d56ac1a30abaf12663184c7b83224d0e6e27ca1d9b98feff/ogulcancelik/herdr",
         "source": "github.com",
-        "stats": "30 points · 10 comments"
-      },
-      {
-        "url": "https://github.com/itsthelore/rac-core",
-        "title": "Lore – give your coding agent the decisions your team made",
-        "description": "Give your coding agent the decisions your team already made — so it stops re-doing things you ruled out, treating product knowledge like code. - itsthelore/rac-core",
-        "image": "https://repository-images.githubusercontent.com/1255866572/8702002c-6eb6-4689-b725-868c5177c008",
-        "source": "github.com",
-        "stats": "16 points · 9 comments"
-      },
-      {
-        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/26/openai-limits-its-latest-chatgpt-product-to-trump-approved-customers-during-cybersecurity-review/",
-        "title": "OpenAI limits latest ChatGPT product to Trump-approved customers",
-        "description": "ChatGPT maker OpenAI said it is restricting the release of its new artificial intelligence model at the request of U.S. President Donald Trump.",
-        "image": "https://www.bnnbloomberg.ca/resizer/v2/DJGIS464BRPGUH5SDGRA4MLWBM.jpg?smart=true&amp;auth=26979b94f54e1dbdab291ead5e74804a575a3f5e93cfbfa8579e7c46986e2497&amp;width=1200&amp;height=630",
-        "source": "bnnbloomberg.ca",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://github.com/raiyanyahya/llmaker",
-        "title": "Show HN: Self hosting a modern LLM stack",
-        "description": "Self-host the modern LLM stack. Contribute to raiyanyahya/llmaker development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/751687afe9e694e117e83fb9eedcbe3ab30a653d04e42de74bd5f56f4228056e/raiyanyahya/llmaker",
-        "source": "github.com",
-        "stats": "5 points · 1 comments"
+        "stats": "147 points · 94 comments"
       }
     ],
     "2026-06-28": [
@@ -50,7 +92,7 @@
         "description": "Among models given nothing but a prompt, the best open-weight option beat Claude Opus 4.8.",
         "image": "https://semgrep.dev/assets/blog/glm-5.2-beats-claude-in-our-cybersecurity-benchmarks.png",
         "source": "semgrep.dev",
-        "stats": "705 points · 340 comments"
+        "stats": "1072 points · 499 comments"
       },
       {
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
@@ -58,7 +100,7 @@
         "description": "Welcome to my personal blog! I use it to share what I&#39;m currently learning or thinking about, usually on topics related to technology, business, and health.",
         "image": "https://antoine.fi/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4LCJwdXIiOiJibG9iX2lkIn19--d3e6efb19dc4b4dc72f3345968d90c00d2d027fb/avatar.jpeg",
         "source": "antoine.fi",
-        "stats": "404 points · 524 comments"
+        "stats": "552 points · 685 comments"
       },
       {
         "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
@@ -66,23 +108,23 @@
         "description": "The renowned economist Roberto Serrano has ‘overwhelming evidence’ that his students cheated. He thinks the time has come for an in-depth debate so the technology does not signal the end of higher education",
         "image": "https://imagenes.elpais.com/resizer/v2/J6ITLVPHQNHI3BHNR3FPIX5URE.jpg?auth=29cc39cd3e10fbe5a5266dd40100f1d61e4fe145ccd2e4ab13b6a6bd0b67f1dd&amp;width=1200",
         "source": "english.elpais.com",
-        "stats": "365 points · 480 comments"
-      },
-      {
-        "url": "https://jayacunzo.com/blog/your-move-chief",
-        "title": "The best response to AI slop and online noise is from Robin Williams",
-        "description": "There",
-        "image": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/t/6a343855d688d00b2ef2a283/1781807193174/Screenshot+2026-06-18+at+6.55.30%E2%80%AFAM.png?format=1500w",
-        "source": "jayacunzo.com",
-        "stats": "379 points · 207 comments"
+        "stats": "533 points · 692 comments"
       },
       {
         "url": "https://github.com/openai/codex/issues/2847",
         "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
         "description": "What feature would you like to see? A mechanism to explicitly mark files/paths that the agent must not read or send to the model, at both repository and global levels (e.g., a repo-local .codexigno...",
-        "image": "https://opengraph.githubassets.com/ea0197195495edea819d4309b56e92e9ac742fdb7d3da2ca88fc8a4dd2eaf30e/openai/codex/issues/2847",
+        "image": "https://opengraph.githubassets.com/1bd4b672a03753294f5c0b42c258b612ee1b146849b109f03bef02f2501b70da/openai/codex/issues/2847",
         "source": "github.com",
-        "stats": "197 points · 129 comments"
+        "stats": "224 points · 142 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+        "title": "Google limits Meta's use of its Gemini AI models",
+        "description": "Meta had sought more computing capacity than Google could provide, the Financial Times reports.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108194138-1756981037270-gettyimages-2214393202-avdtnmymay25lot2jj.jpeg?v=1761941786&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "158 points · 72 comments"
       }
     ],
     "2026-06-27": [
@@ -90,9 +132,9 @@
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec",
-        "image": "https://opengraph.githubassets.com/2ae0a5b2f6ca7852e4a11703007bbc72a3a08fb1210d4af44400df82a509baba/deepseek-ai/DeepSpec",
+        "image": "https://opengraph.githubassets.com/4d057b7851073ac998bab18a8ea8d3a77ca50e4a2e4ba72d945b95f58fcffdcc/deepseek-ai/DeepSpec",
         "source": "github.com",
-        "stats": "788 points · 354 comments"
+        "stats": "791 points · 360 comments"
       },
       {
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -100,57 +142,17 @@
         "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
         "source": "techcrunch.com",
-        "stats": "270 points · 193 comments"
-      },
-      {
-        "url": "https://github.com/kageroumado/adrafinil",
-        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-        "description": "Keep your Mac awake only while AI coding agents are working - kageroumado/adrafinil",
-        "image": "https://opengraph.githubassets.com/5473412753bc93d58c1d2d56a8396f865ce9c408aac3324bfda6eacf8556d8c2/kageroumado/adrafinil",
-        "source": "github.com",
-        "stats": "120 points · 78 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48701615",
-        "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
-        "description": "107 points · 71 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-        "title": "Anthropic says Alibaba used 25k accounts to mine Claude",
-        "description": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "40 points · 30 comments"
+        "stats": "278 points · 197 comments"
       }
     ],
     "2026-06-26": [
       {
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "description": "1124 points · 737 comments",
+        "description": "1130 points · 741 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-        "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-        "description": "Jim Parkinson—lettering artist, type designer, and painter—died today at his home in Oakland, California, after a long struggle with Alzheimer’s.",
-        "image": "https://typographica.org/wp-content/uploads/2025/06/Jim_Parkinsin_at_typnic_Photo_by_Stephen_Coles-315x236.jpg",
-        "source": "typographica.org",
-        "stats": "28 points · 1 comments"
-      },
-      {
-        "url": "https://www.appaca.ai/",
-        "title": "Show HN: Appaca – AI Workspace for Operators",
-        "description": "Build and run custom internal tools in minutes with AI. Work smarter with AI agents that understand your business, workflows, and operations.",
-        "image": "https://www.appaca.ai/og.png",
-        "source": "appaca.ai",
-        "stats": "18 points · 11 comments"
       }
     ],
     "2026-06-25": [
@@ -178,25 +180,7 @@
         "description": "Freed from intelligibility and aesthetics, AI designs faster",
         "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
         "source": "spectrum.ieee.org",
-        "stats": "262 points · 173 comments"
-      }
-    ],
-    "2026-06-23": [
-      {
-        "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
-        "title": "Record type inference for dummies",
-        "description": "Gentle tour of type inference for records",
-        "image": "https://haskellforall.com/2026/06/record-type-inference-for-dummies/opengraph-image?133960dfd41055ac",
-        "source": "haskellforall.com",
-        "stats": "80 points · 8 comments"
-      },
-      {
-        "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-        "title": "Modern GPU Programming for MLSys",
-        "description": "77 points · 21 comments",
-        "image": "",
-        "source": "mlc.ai",
-        "stats": ""
+        "stats": "270 points · 175 comments"
       }
     ]
   }
