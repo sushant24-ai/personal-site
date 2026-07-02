@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-07-01T06:37:19.633Z",
+  "lastUpdated": "2026-07-02T06:03:32.490Z",
   "days": {
+    "2026-07-02": [
+      {
+        "url": "https://senior-swe-bench.snorkel.ai/",
+        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+        "description": "Evaluating agents as senior engineers on the work we actually give them",
+        "image": "https://senior-swe-bench.snorkel.ai/og?v=0239cf7316",
+        "source": "senior-swe-bench.snorkel.ai",
+        "stats": "52 points · 33 comments"
+      },
+      {
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "description": "Kimi K2.7 Code, an open-weight model, is now generally available in GitHub Copilot. This is the first open-weight model offered as a selectable option in the Copilot model picker, giving&hellip;",
+        "image": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
+        "source": "github.blog",
+        "stats": "12 points · 1 comments"
+      },
+      {
+        "url": "https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note",
+        "title": "I'm Begging You to Leave Your AI Note-Taker at Home",
+        "description": "Stop Bringing Your AI to Coffee",
+        "image": "https://substackcdn.com/image/fetch/$s_!easm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7f72070-15e8-4075-be43-3cd90c06e8e8_1920x1080.png",
+        "source": "joanwestenberg.com",
+        "stats": "13 points · 14 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
+        "title": "OpenAI proposes handing Trump administration 5% stake",
+        "description": "7 points · 5 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+        "title": "Why is Apple asking me to pay more for Big Tech's AI obsession?",
+        "description": "Why should I have to outbid Sam Altman just to buy a new MacBook?",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "7 points · 3 comments"
+      }
+    ],
     "2026-07-01": [
       {
-        "url": "https://twitter.com/synthwavedd/status/2072103052635451559",
-        "title": "Claude Fable 5 export control lifted",
-        "description": "🚨 BREAKING: Commerce Sec. Howard Lutnick has officially lifted the export control order on Anthropic&#x27;s Fable 5 https://t.co/996tXyeQru",
-        "image": "https://pbs.twimg.com/media/HMGWvd-WEAA2nG1.jpg:large",
-        "source": "twitter.com",
-        "stats": "66 points · 2 comments"
+        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+        "title": "Godot will no longer accept AI-authored code contributions",
+        "description": "At risk of drowning in AI slop code, Godot is firming up its contribution requirements.",
+        "image": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg",
+        "source": "pcgamer.com",
+        "stats": "535 points · 378 comments"
       },
       {
-        "url": "https://ramp.com/data/ai-jobs-impact",
-        "title": "How employment changes when firms adopt generative AI",
-        "description": "Firm-level evidence on how employment changes when companies adopt AI, using Ramp AI spending linked to Revelio Labs workforce records.",
-        "image": "https://next.ramp.com/assets/images/data/EconomicsLabOG.webp",
-        "source": "ramp.com",
-        "stats": "33 points · 15 comments"
+        "url": "https://zcode.z.ai/cn",
+        "title": "ZCode: Claude Code from the Makers of GLM",
+        "description": "ZCode 将强大的 AI Agents 与现有工具链结合，帮助你在熟悉流程中完成规划、编码、评审与上线。",
+        "image": "https://zcode.z.ai/images/summary_large_image.png?v=20260628",
+        "source": "zcode.z.ai",
+        "stats": "271 points · 13 comments"
       },
       {
-        "url": "https://twitter.com/anthropicai/status/2072163884430229756",
-        "title": "Claude Fable 5 available globally tomorrow",
-        "description": "Claude Fable 5 will be available again globally tomorrow.\n\nAfter a series of productive conversations with the US government, we&#x27;re redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding",
-        "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
-        "source": "twitter.com",
-        "stats": "21 points · 1 comments"
+        "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+        "title": "Meta caps internal AI token spending",
+        "description": "134 points · 116 comments",
+        "image": "",
+        "source": "mlq.ai",
+        "stats": ""
       },
       {
-        "url": "https://www.euronews.com/my-europe/2026/06/30/america-can-switch-off-the-worlds-ai-europe-must-switch-gears-before-its-too-late",
-        "title": "America can switch off AI. Europe must switch gears before it's too late",
-        "description": "&#039;Europe is becoming a digital colony between two AI empires&#039; writes Dr. Sergey Lagodinsky, Vice Chair of the Greens/EFA Group in the European Parlament in an OpEd for Euronews. For Brussels, it is time to act. Europe needs a smart strategy of cooperation that will keep the European economy alive. #EuropeNews",
-        "image": "https://images.euronews.com/articles/stories/09/81/03/84/1200x675_cmsv2_e3266276-ec60-514e-bb1d-71401214a881-9810384.jpg",
-        "source": "euronews.com",
-        "stats": "22 points · 6 comments"
+        "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+        "title": "Claude Fable 5 Promotional Access",
+        "description": "95 points · 80 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
+        "stats": ""
       },
       {
-        "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/",
-        "title": "What's new in Claude Sonnet 5",
-        "description": "Claude Sonnet 5 came out this morning. I always head straight for the &quot;what&#x27;s new&quot; developer docs because they tend to have more actionable information than the official announcement post. …",
-        "image": "https://static.simonwillison.net/static/2026/sonnet-5-pelican.png",
-        "source": "simonwillison.net",
-        "stats": "6 points · 0 comments"
+        "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php",
+        "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
+        "description": "39 points · 11 comments",
+        "image": "",
+        "source": "sfgate.com",
+        "stats": ""
       }
     ],
     "2026-06-30": [
       {
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "title": "Claude Code is steganographically marking requests",
-        "description": "1719 points · 496 comments",
+        "description": "2374 points · 718 comments",
         "image": "",
         "source": "thereallo.dev",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
         "source": "anthropic.com",
-        "stats": "1044 points · 610 comments"
+        "stats": "1242 points · 771 comments"
       },
       {
         "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
@@ -66,7 +108,7 @@
         "description": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n\nWe&#x27;ll begin restoring access tomorrow, and will share an update soon.\n\nWe’re grateful to our users for their patience, and to everyone who worked with us on",
         "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
         "source": "twitter.com",
-        "stats": "556 points · 293 comments"
+        "stats": "930 points · 644 comments"
       },
       {
         "url": "https://claude.com/product/claude-science",
@@ -74,7 +116,7 @@
         "description": "Claude Science is your AI workbench for scientific research. Works through your research like a skilled scientist, running the analysis and tracing every step. Spend less time stitching pipelines together, and more time on the science.",
         "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg",
         "source": "claude.com",
-        "stats": "451 points · 134 comments"
+        "stats": "556 points · 172 comments"
       },
       {
         "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
@@ -82,49 +124,17 @@
         "description": "Photon, Moondream&#x27;s inference engine, achieves near-realtime VLM inference (~33ms on NVIDIA B200). This is a peek into how it delivers up to 35% higher decode throughput by optimizing how the GPU works.",
         "image": "https://moondream.ai/images/blog/popping-the-gpu-bubble/cover.jpg",
         "source": "moondream.ai",
-        "stats": "188 points · 47 comments"
+        "stats": "197 points · 49 comments"
       }
     ],
     "2026-06-29": [
       {
-        "url": "https://github.com/deepreinforce-ai/Ornith-1",
-        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-        "description": "Contribute to deepreinforce-ai/Ornith-1 development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/64f4c5361dde1e826751c347e4f421f5e5b37f703bdc1626ac501b56e3da8307/deepreinforce-ai/Ornith-1",
-        "source": "github.com",
-        "stats": "260 points · 50 comments"
-      },
-      {
-        "url": "https://tidal.com/ai-policy",
-        "title": "Tidal AI Policy",
-        "description": "305 points · 343 comments",
-        "image": "",
-        "source": "tidal.com",
-        "stats": ""
-      },
-      {
-        "url": "https://htmx.org/essays/working-with-ai/",
-        "title": "Working With AI: A concrete example",
-        "description": "In this essay, Carson Gross walks through a concrete bug fix in hyperscript to show where AI helped, where it fell short, and why keeping a knowledgeable human in the loop is what kept complexity in check.",
-        "image": "",
-        "source": "htmx.org",
-        "stats": "190 points · 66 comments"
-      },
-      {
-        "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-        "description": "How vLLM Semantic Router turns vllm-sr/auto into a bounded micro-agent runtime for Confidence, Ratings, ReMoM, Fusion, Workflows, and benchmark-shaped collabora",
-        "image": "https://vllm.ai/blog-assets/figures/2026-06-29-micro-agent-frontier-models/looper-micro-agents.png",
-        "source": "vllm.ai",
-        "stats": "78 points · 21 comments"
-      },
-      {
-        "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
-        "title": "DeepSeek V4 Peak Valley Pricing Change",
-        "description": "ME News reports that, as monitored by Beating on June 29 (UTC+8), DeepSeek officially announced that the official release of DeepSeek V4 is scheduled for mid-Ju",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.5.7/assets/og-ea52b6f9440e857c.jpg",
-        "source": "kucoin.com",
-        "stats": "54 points · 33 comments"
+        "url": "https://pmbai.dev",
+        "title": "Show HN: PMB – local memory for coding agents that shows if it is used",
+        "description": "PMB gives Claude Code, Cursor, Codex and Zed a real memory: decisions, lessons and facts in one SQLite file on your disk. Offline, no API keys, no cloud.",
+        "image": "https://pmbai.dev/og.png",
+        "source": "pmbai.dev",
+        "stats": "23 points · 8 comments"
       }
     ],
     "2026-06-28": [
@@ -171,24 +181,6 @@
         "image": "",
         "source": "sedona.apache.org",
         "stats": "38 points · 4 comments"
-      }
-    ],
-    "2026-06-25": [
-      {
-        "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-        "title": "OpenAI leans toward waiting until next year for IPO",
-        "description": "176 points · 150 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
-      },
-      {
-        "url": "https://trakkr.ai/bias",
-        "title": "Political bias in AI: Where the AI models stand",
-        "description": "Political bias in AI measures where every major AI model stands on charged political and ethical questions: run many times, no web search, plotted with error...",
-        "image": "https://trakkr.ai/og-bias.png",
-        "source": "trakkr.ai",
-        "stats": "176 points · 306 comments"
       }
     ]
   }
