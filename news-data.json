@@ -1,14 +1,56 @@
 {
-  "lastUpdated": "2026-07-02T06:03:32.490Z",
+  "lastUpdated": "2026-07-03T05:57:24.136Z",
   "days": {
+    "2026-07-03": [
+      {
+        "url": "https://news.ycombinator.com/item?id=48770319",
+        "title": "AI coding is a nightmare. Am I the only one experiencing this?",
+        "description": "12 points · 5 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+        "title": "AI is 'not smart' so what's next in artificial intelligence?",
+        "description": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
+        "source": "bbc.com",
+        "stats": "15 points · 1 comments"
+      },
+      {
+        "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+        "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+        "description": "Released in Manticore Search 27.1.5, the new ONNX Runtime backend makes auto-embeddings ~14× faster on average than the previous SentenceTransformers/Candle path on the same hardware, same model, same weights — and the margin holds whether you run 1 client thread or 32.",
+        "image": "https://manticoresearch.com/images/blog/onnx-embeddings-speedup.png",
+        "source": "manticoresearch.com",
+        "stats": "12 points · 0 comments"
+      },
+      {
+        "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+        "title": "The Safari MCP server for web developers",
+        "description": "In Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
+        "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
+        "source": "webkit.org",
+        "stats": "15 points · 0 comments"
+      },
+      {
+        "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+        "title": "Every AI Visibility Tool Is Lying to You",
+        "description": "A software engineer&#x27;s critique of AI visibility dashboards that sell precise rankings without showing distribution, variance, methodology, or raw evidence.",
+        "image": "https://canonry.ai/og-canonry.png",
+        "source": "canonry.ai",
+        "stats": "9 points · 1 comments"
+      }
+    ],
     "2026-07-02": [
       {
-        "url": "https://senior-swe-bench.snorkel.ai/",
-        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-        "description": "Evaluating agents as senior engineers on the work we actually give them",
-        "image": "https://senior-swe-bench.snorkel.ai/og?v=0239cf7316",
-        "source": "senior-swe-bench.snorkel.ai",
-        "stats": "52 points · 33 comments"
+        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+        "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+        "description": "366 points · 193 comments",
+        "image": "",
+        "source": "japannews.yomiuri.co.jp",
+        "stats": ""
       },
       {
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
@@ -16,31 +58,31 @@
         "description": "Kimi K2.7 Code, an open-weight model, is now generally available in GitHub Copilot. This is the first open-weight model offered as a selectable option in the Copilot model picker, giving&hellip;",
         "image": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
         "source": "github.blog",
-        "stats": "12 points · 1 comments"
+        "stats": "406 points · 165 comments"
       },
       {
-        "url": "https://www.joanwestenberg.com/p/im-begging-you-to-leave-your-ai-note",
-        "title": "I'm Begging You to Leave Your AI Note-Taker at Home",
-        "description": "Stop Bringing Your AI to Coffee",
-        "image": "https://substackcdn.com/image/fetch/$s_!easm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7f72070-15e8-4075-be43-3cd90c06e8e8_1920x1080.png",
-        "source": "joanwestenberg.com",
-        "stats": "13 points · 14 comments"
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "title": "Claude-real-video － any LLM can watch a video",
+        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT. - HUANGCHIHHUNGLeo/claude-real-video",
+        "image": "https://opengraph.githubassets.com/7eb51bcac9e47f4be465c922d7c306ca235c6d25ea2c9ab96fc0335d9685be00/HUANGCHIHHUNGLeo/claude-real-video",
+        "source": "github.com",
+        "stats": "115 points · 33 comments"
       },
       {
-        "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
-        "title": "OpenAI proposes handing Trump administration 5% stake",
-        "description": "7 points · 5 comments",
+        "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+        "description": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report says",
+        "image": "https://i.guim.co.uk/img/media/76da7fb7c521edfd0fc738f9b9eb5354bb771bd1/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c8d79a1b21d6785073234005b9ff31d",
+        "source": "theguardian.com",
+        "stats": "130 points · 137 comments"
+      },
+      {
+        "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+        "title": "AI fake news complaining about how AI fake news is the death of real news",
+        "description": "156 points · 53 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "niemanlab.org",
         "stats": ""
-      },
-      {
-        "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-        "title": "Why is Apple asking me to pay more for Big Tech's AI obsession?",
-        "description": "Why should I have to outbid Sam Altman just to buy a new MacBook?",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "7 points · 3 comments"
       }
     ],
     "2026-07-01": [
@@ -50,7 +92,7 @@
         "description": "At risk of drowning in AI slop code, Godot is firming up its contribution requirements.",
         "image": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg",
         "source": "pcgamer.com",
-        "stats": "535 points · 378 comments"
+        "stats": "556 points · 395 comments"
       },
       {
         "url": "https://zcode.z.ai/cn",
@@ -58,12 +100,12 @@
         "description": "ZCode 将强大的 AI Agents 与现有工具链结合，帮助你在熟悉流程中完成规划、编码、评审与上线。",
         "image": "https://zcode.z.ai/images/summary_large_image.png?v=20260628",
         "source": "zcode.z.ai",
-        "stats": "271 points · 13 comments"
+        "stats": "276 points · 14 comments"
       },
       {
         "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
         "title": "Meta caps internal AI token spending",
-        "description": "134 points · 116 comments",
+        "description": "146 points · 146 comments",
         "image": "",
         "source": "mlq.ai",
         "stats": ""
@@ -71,36 +113,28 @@
       {
         "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
         "title": "Claude Fable 5 Promotional Access",
-        "description": "95 points · 80 comments",
+        "description": "102 points · 90 comments",
         "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
         "source": "support.claude.com",
         "stats": ""
       },
       {
-        "url": "https://www.sfgate.com/tech/article/san-francisco-ai-backlash-22325141.php",
-        "title": "'It's like having a dumb friend': Young San Franciscans hate AI",
-        "description": "39 points · 11 comments",
-        "image": "",
-        "source": "sfgate.com",
-        "stats": ""
+        "url": "https://github.com/emson/claudoro",
+        "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+        "description": "Claudoro: Feature rich Pomodoro timer embedded into Claude Code - emson/claudoro",
+        "image": "https://opengraph.githubassets.com/6b7716b9abd82435e8b6faf3e054a11955e681100284f949bb39de2137a69f4b/emson/claudoro",
+        "source": "github.com",
+        "stats": "45 points · 33 comments"
       }
     ],
     "2026-06-30": [
       {
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "title": "Claude Code is steganographically marking requests",
-        "description": "2374 points · 718 comments",
+        "description": "2415 points · 738 comments",
         "image": "",
         "source": "thereallo.dev",
         "stats": ""
-      },
-      {
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "title": "Claude Sonnet 5",
-        "description": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
-        "source": "anthropic.com",
-        "stats": "1242 points · 771 comments"
       },
       {
         "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
@@ -108,23 +142,7 @@
         "description": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n\nWe&#x27;ll begin restoring access tomorrow, and will share an update soon.\n\nWe’re grateful to our users for their patience, and to everyone who worked with us on",
         "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
         "source": "twitter.com",
-        "stats": "930 points · 644 comments"
-      },
-      {
-        "url": "https://claude.com/product/claude-science",
-        "title": "Claude Science",
-        "description": "Claude Science is your AI workbench for scientific research. Works through your research like a skilled scientist, running the analysis and tracing every step. Spend less time stitching pipelines together, and more time on the science.",
-        "image": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg",
-        "source": "claude.com",
-        "stats": "556 points · 172 comments"
-      },
-      {
-        "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
-        "title": "Popping the GPU Bubble",
-        "description": "Photon, Moondream&#x27;s inference engine, achieves near-realtime VLM inference (~33ms on NVIDIA B200). This is a peek into how it delivers up to 35% higher decode throughput by optimizing how the GPU works.",
-        "image": "https://moondream.ai/images/blog/popping-the-gpu-bubble/cover.jpg",
-        "source": "moondream.ai",
-        "stats": "197 points · 49 comments"
+        "stats": "963 points · 682 comments"
       }
     ],
     "2026-06-29": [
@@ -171,16 +189,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
         "source": "techcrunch.com",
         "stats": "278 points · 197 comments"
-      }
-    ],
-    "2026-06-26": [
-      {
-        "url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
-        "title": "SedonaDB 0.4: GPU-accelerated spatial joins",
-        "description": "Apache Sedona is a cluster computing system for processing large-scale spatial data. Sedona extends existing cluster computing systems, such as Apache Spark, Apache Flink, and Snowflake, with a set of out-of-the-box distributed Spatial Datasets and Spatial SQL that efficiently load, process, and analyze large-scale spatial data across machines.",
-        "image": "",
-        "source": "sedona.apache.org",
-        "stats": "38 points · 4 comments"
       }
     ]
   }
