@@ -1,30 +1,80 @@
 {
-  "lastUpdated": "2026-07-03T05:57:24.136Z",
+  "lastUpdated": "2026-07-04T05:49:59.367Z",
   "days": {
-    "2026-07-03": [
+    "2026-07-04": [
       {
-        "url": "https://news.ycombinator.com/item?id=48770319",
-        "title": "AI coding is a nightmare. Am I the only one experiencing this?",
-        "description": "12 points · 5 comments",
+        "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+        "title": "Agentic coding notes from Galapagos Island",
+        "description": "32 points · 10 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "danluu.com",
         "stats": ""
       },
       {
-        "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-        "title": "AI is 'not smart' so what's next in artificial intelligence?",
-        "description": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg",
-        "source": "bbc.com",
-        "stats": "15 points · 1 comments"
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "title": "Claude's Criminally Bad Electron Mac App Is an Inside Job",
+        "description": "Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns the world’s biggest hammer manufacturer.",
+        "image": "https://daringfireball.net/graphics/df-wide-card.png",
+        "source": "daringfireball.net",
+        "stats": "14 points · 8 comments"
       },
       {
-        "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-        "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
-        "description": "Released in Manticore Search 27.1.5, the new ONNX Runtime backend makes auto-embeddings ~14× faster on average than the previous SentenceTransformers/Candle path on the same hardware, same model, same weights — and the margin holds whether you run 1 client thread or 32.",
-        "image": "https://manticoresearch.com/images/blog/onnx-embeddings-speedup.png",
-        "source": "manticoresearch.com",
-        "stats": "12 points · 0 comments"
+        "url": "https://app.cuebench.dev",
+        "title": "CueBench for Developers is live: score how well you drive coding agents",
+        "description": "9 points · 3 comments",
+        "image": "",
+        "source": "app.cuebench.dev",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/tiliondev/fortress",
+        "title": "Show HN: Fortress – open-source Chromium that keeps browser agents unblocked",
+        "description": "Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line of code change. - tiliondev/fortress",
+        "image": "https://repository-images.githubusercontent.com/1287627066/83d1d484-801a-417d-ab72-97cb42b3e0be",
+        "source": "github.com",
+        "stats": "7 points · 3 comments"
+      },
+      {
+        "url": "https://github.com/0xmmo/crew",
+        "title": "Show HN: Crew – Let Claude Code agents talk to each other",
+        "description": "Let Claude Code agents talk to each other. Ship features in parallel, no branches, no worktrees. - 0xmmo/crew",
+        "image": "https://opengraph.githubassets.com/e706650653f5c772982f79ced3e313a6c2989cc6ce7a90587fef2c960552a19a/0xmmo/crew",
+        "source": "github.com",
+        "stats": "3 points · 2 comments"
+      }
+    ],
+    "2026-07-03": [
+      {
+        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+        "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+        "description": "322 points · 274 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/jamesob/local-llm",
+        "title": "Jamesob's guide to running SOTA LLMs locally",
+        "description": "Everything I know about running LLMs locally. Contribute to jamesob/local-llm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/75f459bd8b0434579bbff2be1087b529f53578e82c6a1c08b1ce3267f0eba819/jamesob/local-llm",
+        "source": "github.com",
+        "stats": "314 points · 141 comments"
+      },
+      {
+        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+        "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+        "description": "189 points · 89 comments",
+        "image": "",
+        "source": "inpreparation.substack.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+        "title": "Please stop the AI confidence theater",
+        "description": "We don’t need an extra reason to be anxious",
+        "image": "https://substackcdn.com/image/fetch/$s_!__9h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F442d1ae1-821a-46cd-bccb-066fc8104e9a_664x377.png",
+        "source": "elenaverna.com",
+        "stats": "228 points · 242 comments"
       },
       {
         "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
@@ -32,22 +82,22 @@
         "description": "In Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
         "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
         "source": "webkit.org",
-        "stats": "15 points · 0 comments"
-      },
-      {
-        "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
-        "title": "Every AI Visibility Tool Is Lying to You",
-        "description": "A software engineer&#x27;s critique of AI visibility dashboards that sell precise rankings without showing distribution, variance, methodology, or raw evidence.",
-        "image": "https://canonry.ai/og-canonry.png",
-        "source": "canonry.ai",
-        "stats": "9 points · 1 comments"
+        "stats": "261 points · 72 comments"
       }
     ],
     "2026-07-02": [
       {
+        "url": "https://righttointelligence.org/",
+        "title": "Protect your right to run local AI",
+        "description": "Protect your right to run local AI. Sign in ten seconds, call your state office in two minutes.",
+        "image": "https://righttointelligence.org/og.png",
+        "source": "righttointelligence.org",
+        "stats": "503 points · 180 comments"
+      },
+      {
         "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
         "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-        "description": "366 points · 193 comments",
+        "description": "391 points · 207 comments",
         "image": "",
         "source": "japannews.yomiuri.co.jp",
         "stats": ""
@@ -58,80 +108,40 @@
         "description": "Kimi K2.7 Code, an open-weight model, is now generally available in GitHub Copilot. This is the first open-weight model offered as a selectable option in the Copilot model picker, giving&hellip;",
         "image": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
         "source": "github.blog",
-        "stats": "406 points · 165 comments"
+        "stats": "415 points · 176 comments"
+      },
+      {
+        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+        "title": "The short leash AI coding method for beating Fable",
+        "description": "190 points · 232 comments",
+        "image": "",
+        "source": "blog.okturtles.org",
+        "stats": ""
       },
       {
         "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
         "title": "Claude-real-video － any LLM can watch a video",
         "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT. - HUANGCHIHHUNGLeo/claude-real-video",
-        "image": "https://opengraph.githubassets.com/7eb51bcac9e47f4be465c922d7c306ca235c6d25ea2c9ab96fc0335d9685be00/HUANGCHIHHUNGLeo/claude-real-video",
+        "image": "https://opengraph.githubassets.com/8950fdc9fc64caa25243e4adf6bd6813471ce42ab723f193f9f9b44a3817bcad/HUANGCHIHHUNGLeo/claude-real-video",
         "source": "github.com",
-        "stats": "115 points · 33 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
-        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
-        "description": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report says",
-        "image": "https://i.guim.co.uk/img/media/76da7fb7c521edfd0fc738f9b9eb5354bb771bd1/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c8d79a1b21d6785073234005b9ff31d",
-        "source": "theguardian.com",
-        "stats": "130 points · 137 comments"
-      },
-      {
-        "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-        "title": "AI fake news complaining about how AI fake news is the death of real news",
-        "description": "156 points · 53 comments",
-        "image": "",
-        "source": "niemanlab.org",
-        "stats": ""
+        "stats": "157 points · 54 comments"
       }
     ],
     "2026-07-01": [
       {
-        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-        "title": "Godot will no longer accept AI-authored code contributions",
-        "description": "At risk of drowning in AI slop code, Godot is firming up its contribution requirements.",
-        "image": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg",
-        "source": "pcgamer.com",
-        "stats": "556 points · 395 comments"
-      },
-      {
-        "url": "https://zcode.z.ai/cn",
-        "title": "ZCode: Claude Code from the Makers of GLM",
-        "description": "ZCode 将强大的 AI Agents 与现有工具链结合，帮助你在熟悉流程中完成规划、编码、评审与上线。",
-        "image": "https://zcode.z.ai/images/summary_large_image.png?v=20260628",
-        "source": "zcode.z.ai",
-        "stats": "276 points · 14 comments"
-      },
-      {
-        "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-        "title": "Meta caps internal AI token spending",
-        "description": "146 points · 146 comments",
-        "image": "",
-        "source": "mlq.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
-        "title": "Claude Fable 5 Promotional Access",
-        "description": "102 points · 90 comments",
-        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-        "source": "support.claude.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/emson/claudoro",
-        "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-        "description": "Claudoro: Feature rich Pomodoro timer embedded into Claude Code - emson/claudoro",
-        "image": "https://opengraph.githubassets.com/6b7716b9abd82435e8b6faf3e054a11955e681100284f949bb39de2137a69f4b/emson/claudoro",
+        "url": "https://github.com/clidey/deptrust",
+        "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+        "description": "deptrust is a CLI that checks package versions for known vulnerabilities across npm, PyPI, crates.io, Go modules, RubyGems, NuGet, Maven, Packagist, pub.dev, CocoaPods, Hex.pm, Hackage, GitHub Acti...",
+        "image": "https://opengraph.githubassets.com/11615f15995c0fc80197f244b3915e1d509e89afd1d4287bdf2a135c78037239/clidey/deptrust",
         "source": "github.com",
-        "stats": "45 points · 33 comments"
+        "stats": "23 points · 4 comments"
       }
     ],
     "2026-06-30": [
       {
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "title": "Claude Code is steganographically marking requests",
-        "description": "2415 points · 738 comments",
+        "description": "2432 points · 742 comments",
         "image": "",
         "source": "thereallo.dev",
         "stats": ""
@@ -142,7 +152,7 @@
         "description": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n\nWe&#x27;ll begin restoring access tomorrow, and will share an update soon.\n\nWe’re grateful to our users for their patience, and to everyone who worked with us on",
         "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
         "source": "twitter.com",
-        "stats": "963 points · 682 comments"
+        "stats": "967 points · 687 comments"
       }
     ],
     "2026-06-29": [
@@ -171,24 +181,6 @@
         "image": "https://deep-reinforce.com/ornith/assets/cover.png",
         "source": "deep-reinforce.com",
         "stats": "84 points · 8 comments"
-      }
-    ],
-    "2026-06-27": [
-      {
-        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-        "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec",
-        "image": "https://opengraph.githubassets.com/4d057b7851073ac998bab18a8ea8d3a77ca50e4a2e4ba72d945b95f58fcffdcc/deepseek-ai/DeepSpec",
-        "source": "github.com",
-        "stats": "791 points · 360 comments"
-      },
-      {
-        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "title": "Asian AI startups launch Mythos-like models",
-        "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-        "source": "techcrunch.com",
-        "stats": "278 points · 197 comments"
       }
     ]
   }
