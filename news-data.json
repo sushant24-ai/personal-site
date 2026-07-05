@@ -1,69 +1,111 @@
 {
-  "lastUpdated": "2026-07-04T05:49:59.367Z",
+  "lastUpdated": "2026-07-05T06:09:08.109Z",
   "days": {
+    "2026-07-05": [
+      {
+        "url": "https://hic-ai.com",
+        "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+        "description": "HIC Mouse gives AI coding agents precision file editing tools — 56% higher accuracy, 58% lower cost, and 3.6× faster than built-in tools.",
+        "image": "https://hic-ai.com/opengraph-image?0965d50c6d8fc51d",
+        "source": "hic-ai.com",
+        "stats": "10 points · 9 comments"
+      },
+      {
+        "url": "https://old.reddit.com/r/LLMDevs/comments/1udpw9h/just_got_this_response_from_claude_what_is_going/",
+        "title": "Anthropic performing prompt injection on its users",
+        "description": "13 points · 0 comments",
+        "image": "",
+        "source": "old.reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arxiv.org/abs/2605.21997",
+        "title": "The Log Is the Agent",
+        "description": "Most agent frameworks are built around the language model: a conversation loop comes first, then tools, then rules, and finally a logging layer bolted on for observability, with state persisted as retrievable &#34;memory.&#34; We describe ActiveGraph, a runtime that inverts this arrangement. The append-only event log is the source of truth; the working graph is a deterministic projection of that log; and behaviors--ordinary functions, classes, LLM-backed routines, or logic attached to typed edges--react to changes in the graph and emit new events. No component instructs another; coordination happens entirely through the shared graph. This single design decision yields three properties that retrieval-and-summarization memory systems do not provide: deterministic replay of any run from its log, cheap forking that branches a run at any event without re-executing the shared prefix, and end-to-end lineage from a high-level goal down to the individual model call that produced each artifact. We present the architecture, a determinism contract that makes replay sound, and a worked diligence example whose full causal structure is reconstructable from the log alone. We discuss--without claiming to demonstrate--why this substrate is unusually well suited to self-improving agents, and how it extends the BabyAGI lineage and prior graph-memory research.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "14 points · 0 comments"
+      },
+      {
+        "url": "https://www.scmp.com/tech/big-tech/article/3359335/alibabas-elements-claw-ai-agent-unearths-four-new-superconductors",
+        "title": "Damo Academy unveils an AI agent able to discover superconductors",
+        "description": "Damo Academy unveils an AI agent able to discover superconductors, which could revolutionise scientific materials research and innovation.",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/03/7e6e306d-fea1-4a14-819c-ecfada13467f_86de02be.jpg?itok=BI32A9RC&amp;v=1783073669",
+        "source": "scmp.com",
+        "stats": "7 points · 0 comments"
+      },
+      {
+        "url": "https://www.local-mcp.com/en",
+        "title": "Show HN: Local MCP – Claude/ChatGPT read your iMessage, Teams, files on-device",
+        "description": "Tell your AI what to automate. Local MCP reads Outlook, writes Excel, manages Teams, accesses OneDrive — all locally on your machine. Free.",
+        "image": "https://www.local-mcp.com/opengraph-image?5e058de93e650c30",
+        "source": "local-mcp.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-07-04": [
+      {
+        "url": "https://github.com/openai/codex/issues/30364",
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "description": "Summary I found an aggregate pattern in Codex token_count metadata: gpt-5.5 responses disproportionately land at exactly reasoning_output_tokens = 516, with additional fixed-boundary spikes around ...",
+        "image": "https://opengraph.githubassets.com/ffbbab78200b20ea2059ce77013613a65200aacf088a173d19f66167742be24a/openai/codex/issues/30364",
+        "source": "github.com",
+        "stats": "219 points · 76 comments"
+      },
       {
         "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
         "title": "Agentic coding notes from Galapagos Island",
-        "description": "32 points · 10 comments",
+        "description": "167 points · 78 comments",
         "image": "",
         "source": "danluu.com",
         "stats": ""
       },
       {
-        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-        "title": "Claude's Criminally Bad Electron Mac App Is an Inside Job",
-        "description": "Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns the world’s biggest hammer manufacturer.",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "14 points · 8 comments"
-      },
-      {
-        "url": "https://app.cuebench.dev",
-        "title": "CueBench for Developers is live: score how well you drive coding agents",
-        "description": "9 points · 3 comments",
+        "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+        "title": "AI has torched the market for junior programmers",
+        "description": "Junior programmers are getting destroyed by AI — down 19%, while devs over 40 thrive. Meanwhile, millions of non-developers are shipping real software without the job title. The credential market collapsed; the activity exploded. The problem: nobody&#x27;s building the next generation of senior engineers.",
         "image": "",
-        "source": "app.cuebench.dev",
-        "stats": ""
+        "source": "seldo.com",
+        "stats": "89 points · 167 comments"
       },
       {
-        "url": "https://github.com/tiliondev/fortress",
-        "title": "Show HN: Fortress – open-source Chromium that keeps browser agents unblocked",
-        "description": "Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line of code change. - tiliondev/fortress",
-        "image": "https://repository-images.githubusercontent.com/1287627066/83d1d484-801a-417d-ab72-97cb42b3e0be",
-        "source": "github.com",
-        "stats": "7 points · 3 comments"
+        "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
+        "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
+        "description": "Receiving millions of views online, the Lily Jay Foundation claims to help children across the world. She was even given an award for her work. But what is real and what is AI-generated? ABC NEWS Verify investigates.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/23d41d4ad0b62d7c89027b7d18e798d3?impolicy=wcms_watermark_news&amp;cropH=595&amp;cropW=1058&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485&amp;imformat=generic",
+        "source": "abc.net.au",
+        "stats": "41 points · 5 comments"
       },
       {
-        "url": "https://github.com/0xmmo/crew",
-        "title": "Show HN: Crew – Let Claude Code agents talk to each other",
-        "description": "Let Claude Code agents talk to each other. Ship features in parallel, no branches, no worktrees. - 0xmmo/crew",
-        "image": "https://opengraph.githubassets.com/e706650653f5c772982f79ced3e313a6c2989cc6ce7a90587fef2c960552a19a/0xmmo/crew",
-        "source": "github.com",
-        "stats": "3 points · 2 comments"
+        "url": "https://www.hyperstitionai.com/unslop-results",
+        "title": "2026 Unslop AI-Written Fiction Contest Results",
+        "description": "Fingers on the scale",
+        "image": "",
+        "source": "hyperstitionai.com",
+        "stats": "61 points · 141 comments"
       }
     ],
     "2026-07-03": [
       {
+        "url": "https://github.com/jamesob/local-llm",
+        "title": "Jamesob's guide to running SOTA LLMs locally",
+        "description": "Everything I know about running LLMs locally. Contribute to jamesob/local-llm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/e5d02bf712b49cfc07a9931e33d98f04efb2390f5506ffa2f125e6af98be83d6/jamesob/local-llm",
+        "source": "github.com",
+        "stats": "398 points · 180 comments"
+      },
+      {
         "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
         "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-        "description": "322 points · 274 comments",
+        "description": "331 points · 279 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/jamesob/local-llm",
-        "title": "Jamesob's guide to running SOTA LLMs locally",
-        "description": "Everything I know about running LLMs locally. Contribute to jamesob/local-llm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/75f459bd8b0434579bbff2be1087b529f53578e82c6a1c08b1ce3267f0eba819/jamesob/local-llm",
-        "source": "github.com",
-        "stats": "314 points · 141 comments"
-      },
-      {
         "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
         "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-        "description": "189 points · 89 comments",
+        "description": "224 points · 137 comments",
         "image": "",
         "source": "inpreparation.substack.com",
         "stats": ""
@@ -74,15 +116,15 @@
         "description": "We don’t need an extra reason to be anxious",
         "image": "https://substackcdn.com/image/fetch/$s_!__9h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F442d1ae1-821a-46cd-bccb-066fc8104e9a_664x377.png",
         "source": "elenaverna.com",
-        "stats": "228 points · 242 comments"
+        "stats": "232 points · 257 comments"
       },
       {
-        "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-        "title": "The Safari MCP server for web developers",
-        "description": "In Safari Technology Preview 247, we’re introducing the Safari MCP server — a Model Context Protocol server for web developers that makes your web development and debugging workflow faster and more powerful.",
-        "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
-        "source": "webkit.org",
-        "stats": "261 points · 72 comments"
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+        "description": "Notable organizations disclosed ~1,300 high- and critical-severity CVEs in June 2026, roughly 3.5× the pre-Mythos monthly record. Epoch AI",
+        "image": "https://epoch.ai/assets/images/data-insights/cve-severity-spike/t-cve-severity-spike-di.png",
+        "source": "epoch.ai",
+        "stats": "152 points · 72 comments"
       }
     ],
     "2026-07-02": [
@@ -92,39 +134,7 @@
         "description": "Protect your right to run local AI. Sign in ten seconds, call your state office in two minutes.",
         "image": "https://righttointelligence.org/og.png",
         "source": "righttointelligence.org",
-        "stats": "503 points · 180 comments"
-      },
-      {
-        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-        "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-        "description": "391 points · 207 comments",
-        "image": "",
-        "source": "japannews.yomiuri.co.jp",
-        "stats": ""
-      },
-      {
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-        "description": "Kimi K2.7 Code, an open-weight model, is now generally available in GitHub Copilot. This is the first open-weight model offered as a selectable option in the Copilot model picker, giving&hellip;",
-        "image": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
-        "source": "github.blog",
-        "stats": "415 points · 176 comments"
-      },
-      {
-        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-        "title": "The short leash AI coding method for beating Fable",
-        "description": "190 points · 232 comments",
-        "image": "",
-        "source": "blog.okturtles.org",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "title": "Claude-real-video － any LLM can watch a video",
-        "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT. - HUANGCHIHHUNGLeo/claude-real-video",
-        "image": "https://opengraph.githubassets.com/8950fdc9fc64caa25243e4adf6bd6813471ce42ab723f193f9f9b44a3817bcad/HUANGCHIHHUNGLeo/claude-real-video",
-        "source": "github.com",
-        "stats": "157 points · 54 comments"
+        "stats": "541 points · 194 comments"
       }
     ],
     "2026-07-01": [
@@ -163,24 +173,6 @@
         "image": "https://pmbai.dev/og.png",
         "source": "pmbai.dev",
         "stats": "23 points · 8 comments"
-      }
-    ],
-    "2026-06-28": [
-      {
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "title": "GLM 5.2 beats Claude in our benchmarks",
-        "description": "Among models given nothing but a prompt, the best open-weight option beat Claude Opus 4.8.",
-        "image": "https://semgrep.dev/assets/blog/glm-5.2-beats-claude-in-our-cybersecurity-benchmarks.png",
-        "source": "semgrep.dev",
-        "stats": "1098 points · 506 comments"
-      },
-      {
-        "url": "https://deep-reinforce.com/ornith_1_0.html",
-        "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-        "description": "Introducing Ornith-1.0, a self-improving family of open-source models specially for agentic coding tasks.",
-        "image": "https://deep-reinforce.com/ornith/assets/cover.png",
-        "source": "deep-reinforce.com",
-        "stats": "84 points · 8 comments"
       }
     ]
   }
