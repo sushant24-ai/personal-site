@@ -1,72 +1,114 @@
 {
-  "lastUpdated": "2026-07-06T06:40:48.039Z",
+  "lastUpdated": "2026-07-07T06:12:49.102Z",
   "days": {
+    "2026-07-07": [
+      {
+        "url": "https://tech.yahoo.com/ai/claude/articles/claude-fable-5-backlash-grows-213000534.html",
+        "title": "Claude Fable 5 Backlash Grows",
+        "description": "Claude Fable 5 faces backlash as BridgeBench scores crash and users blame Anthropic&#x27;s strict new AI guardrails.",
+        "image": "https://s.yimg.com/lo/mysterio/api/79291e91cccd31c91ce23c83a5e554ce6ec23624ca416b5f70eba2fef1a059e1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2a569199b0ab622e37aef9376ebe6c57",
+        "source": "tech.yahoo.com",
+        "stats": "16 points · 4 comments"
+      },
+      {
+        "url": "https://www.usestitch.ai/",
+        "title": "OSS Local AI Workspace",
+        "description": "Stitch is a local-first AI desktop app. Record meetings, manage todos, automate daily workflows, and let AI remember what matters — all running privately on your machine.",
+        "image": "",
+        "source": "usestitch.ai",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://maestro.dev/",
+        "title": "Maestro: Agentic Mobile UI Testing",
+        "description": "Create reliable UI tests fast. Run free on CLI or Maestro Studio, then scale on Maestro Cloud. Automate iOS, Android and web with simple setup.",
+        "image": "https://maestro.dev/og.png",
+        "source": "maestro.dev",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://www.buildaslackagent.dev/",
+        "title": "Show HN: Build a Slack Agent",
+        "description": "Build a Slack agent in three API calls with durable agent sessions on OpenComputer. Define an agent, connect Slack, tag it in a channel — mentions start durable sessions, replies land in the thread.",
+        "image": "https://buildaslackagent.dev/social-preview.png",
+        "source": "buildaslackagent.dev",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://hydradb.com/blog/ai-context-graph-ontology-infrastructure",
+        "title": "Every AI Company Needs a Context Graph. None of Them Need the Same One",
+        "description": "AI context graph infrastructure for agent memory. Learn why your ontology, schema, provenance, temporal state, and permissions should remain yours.",
+        "image": "https://framerusercontent.com/images/R20Ufz4COhoDtfs0B8UfsHA2LK4.png",
+        "source": "hydradb.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-07-06": [
+      {
+        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "title": "GLM 5.2 and the coming AI margin collapse",
+        "description": "GLM 5.2 is the first open weights model I&#39;d call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.",
+        "image": "https://martinalderson.com/img/og/glm-5-2-and-the-coming-ai-margin-collapse-part-1.png",
+        "source": "martinalderson.com",
+        "stats": "296 points · 189 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/research/global-workspace",
+        "title": "A global workspace in language models",
+        "description": "Interpretability research on Claude&#x27;s internal thoughts.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/fbdc967f9f3d88566f25b21cce7ef523b3fabbbb-1280x720.jpg",
+        "source": "anthropic.com",
+        "stats": "327 points · 124 comments"
+      },
       {
         "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
         "title": "GPT-5.6 Sol Ultra will be in Codex",
         "description": "@haider1 Ultra will be in codex.",
         "image": "https://pbs.twimg.com/profile_images/1953339828738899968/WWQlU2RT_200x200.jpg",
         "source": "twitter.com",
-        "stats": "203 points · 133 comments"
+        "stats": "405 points · 387 comments"
       },
       {
-        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-        "description": "Instead, buy domestic product, and out in the open.",
-        "image": "https://images.unsplash.com/photo-1713345248737-2698000f143d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMnx8YWl8ZW58MHx8fHwxNzgxNjIwMjk1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080",
-        "source": "readtheline.ca",
-        "stats": "137 points · 57 comments"
+        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+        "description": "307 points · 218 comments",
+        "image": "",
+        "source": "lttlabs.com",
+        "stats": ""
       },
       {
-        "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-        "title": "People Who Will Thrive in the AI Age",
-        "description": "What will differentiate people is not how smart they are but their relationship to mental effort.",
-        "image": "https://cdn.theatlantic.com/thumbor/qYbMj2NrXUMTcZRMJ39SEUKt3f4=/0x61:2876x1559/1200x625/media/img/mt/2026/06/2026_06_21_AI_users/original.jpg",
-        "source": "theatlantic.com",
-        "stats": "9 points · 3 comments"
-      },
-      {
-        "url": "https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom",
-        "title": "ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom",
-        "description": "With Beijing’s rules on humanlike AI interaction services taking effect on July 15, Doubao and Qwen move to disable customised features.",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/05/5d6aa18b-a94a-4e36-8049-39e3c1a52f6f_03028fab.jpg?itok=oZFLJb5F&amp;v=1783251171",
-        "source": "scmp.com",
-        "stats": "5 points · 0 comments"
-      },
-      {
-        "url": "https://github.com/ai4s-research/open-science",
-        "title": "Show HN: Open Science, open-source alternative to Claude Science",
-        "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS &amp;amp; Windows), built on Tauri + ...",
-        "image": "https://opengraph.githubassets.com/4f2caf6531bbe705e0a632150d4eb6094e11fe496c48ef4dad1de60f33b6c8cb/ai4s-research/open-science",
-        "source": "github.com",
-        "stats": "4 points · 2 comments"
+        "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
+        "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+        "description": "243 points · 183 comments",
+        "image": "",
+        "source": "raheeljunaid.com",
+        "stats": ""
       }
     ],
     "2026-07-05": [
-      {
-        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-        "description": "154 points · 93 comments",
-        "image": "",
-        "source": "intextbooks.science.uu.nl",
-        "stats": ""
-      },
       {
         "url": "https://arxiv.org/abs/2605.20049",
         "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
         "description": "As autonomous coding agents see rapid adoption, their evaluation has primarily focused on task completion rates holding the target codebase fixed. This leaves a critical question unanswered: does the structural and stylistic quality, or ``cleanliness&#39;&#39; of the underlying code affect an agent&#39;s ability to navigate and modify it? To isolate the effect of code cleanliness from agent capability, we introduce an evaluation protocol built around minimal pairs: repositories that match on architecture, dependencies, and external behaviour, but differ on static-analysis rule violations and cognitive complexity. The pairs are constructed in both directions, by agent pipelines that either degrade a clean repository or clean a messy one. We author 33 tasks across six such pairs, evaluated through hidden tests at the application&#39;s public surface. Across 660 trials with Claude Code, code cleanliness does not change the agent&#39;s pass rate. However, it substantially alters the agent&#39;s operational footprint: agents working on cleaner code use 7 to 8% fewer tokens and reduce file revisitations by 34%. Our findings suggest that traditional maintainability principles remain highly relevant in the era of AI-driven development, shaping the computational cost and navigational efficiency of coding agents. Code cleanliness joins model choice, harness, and prompting as a factor that materially affects agent behaviours.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "89 points · 44 comments"
+        "stats": "194 points · 90 comments"
+      },
+      {
+        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+        "description": "176 points · 111 comments",
+        "image": "",
+        "source": "intextbooks.science.uu.nl",
+        "stats": ""
       },
       {
         "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
         "title": "Claude Design System Prompt",
         "description": "Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator. - Trystan-SA/claude-design-system-prompt",
-        "image": "https://opengraph.githubassets.com/04b61576e31bc8f30571447bb6f5fb56c2993c5dea69e45d6513681a0229bfa0/Trystan-SA/claude-design-system-prompt",
+        "image": "https://opengraph.githubassets.com/44a4a24b8628d35d3998221e96e0dee3878217802b8d9d7b9ebc5a8c3ec90976/Trystan-SA/claude-design-system-prompt",
         "source": "github.com",
-        "stats": "119 points · 31 comments"
+        "stats": "121 points · 31 comments"
       },
       {
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
@@ -82,7 +124,7 @@
         "description": "The growing adoption of AI-driven smart home devices has introduced new privacy risks for domestic workers (DWs), who are frequently monitored in employers&#39; homes while also using smart devices in their own households. We conducted semi-structured interviews with 18 UK-based DWs and performed a human-centered threat modeling analysis of their experiences through the lens of Communication Privacy Management (CPM). Our findings extend existing threat models beyond abstract adversaries and single-household contexts by showing how AI analytics, residual data logs, and cross-household data flows shaped the privacy risks faced by participants. In employer-controlled homes, AI-enabled features and opaque, agency-mediated employment arrangements intensified surveillance and constrained participants&#39; ability to negotiate privacy boundaries. In their own homes, participants had greater control as device owners but still faced challenges, including gendered administrative roles, opaque AI functionalities, and uncertainty around data retention. We synthesize these insights into a sociotechnical threat model that identifies DW agencies as institutional adversaries and maps AI-driven privacy risks across interconnected households, and we outline social and practical implications for strengthening DW privacy and agency.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "81 points · 66 comments"
+        "stats": "83 points · 68 comments"
       }
     ],
     "2026-07-04": [
@@ -113,51 +155,27 @@
     ],
     "2026-07-03": [
       {
-        "url": "https://github.com/jamesob/local-llm",
-        "title": "Jamesob's guide to running SOTA LLMs locally",
-        "description": "Everything I know about running LLMs locally. Contribute to jamesob/local-llm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/e5d02bf712b49cfc07a9931e33d98f04efb2390f5506ffa2f125e6af98be83d6/jamesob/local-llm",
-        "source": "github.com",
-        "stats": "398 points · 180 comments"
-      },
-      {
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-        "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-        "description": "331 points · 279 comments",
+        "url": "https://www.youtube.com/watch?v=4nzzpUKhj1M",
+        "title": "Behind the scenes with the Midjourney scanner [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "source": "youtube.com",
+        "stats": "78 points · 50 comments"
       },
       {
-        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-        "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-        "description": "224 points · 137 comments",
+        "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
+        "title": "Giving a domain a hill to climb: benchmarking as data activation",
+        "description": "benchmarks as a way to turn messy domain data into a measurable, optimizable substrate for models.",
         "image": "",
-        "source": "inpreparation.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-        "title": "Please stop the AI confidence theater",
-        "description": "We don’t need an extra reason to be anxious",
-        "image": "https://substackcdn.com/image/fetch/$s_!__9h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F442d1ae1-821a-46cd-bccb-066fc8104e9a_664x377.png",
-        "source": "elenaverna.com",
-        "stats": "232 points · 257 comments"
-      },
-      {
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-        "description": "Notable organizations disclosed ~1,300 high- and critical-severity CVEs in June 2026, roughly 3.5× the pre-Mythos monthly record. Epoch AI",
-        "image": "https://epoch.ai/assets/images/data-insights/cve-severity-spike/t-cve-severity-spike-di.png",
-        "source": "epoch.ai",
-        "stats": "152 points · 72 comments"
+        "source": "sparsethought.com",
+        "stats": "10 points · 5 comments"
       }
     ],
     "2026-07-02": [
       {
         "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
         "title": "Zuckerberg says AI agent development going slower than expected",
-        "description": "165 points · 314 comments",
+        "description": "333 points · 602 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -168,27 +186,9 @@
         "url": "https://github.com/langchain-ai/openwiki",
         "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
         "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase. - langchain-ai/openwiki",
-        "image": "https://opengraph.githubassets.com/004c68338e2d39e9c8719fe076e95cf5b13608268e87a1429c493452ee6f745d/langchain-ai/openwiki",
+        "image": "https://opengraph.githubassets.com/ce33c0950a1e42965fbd2fdf3cab6439e736754ad2b3563ea7037c95dbbdda47/langchain-ai/openwiki",
         "source": "github.com",
-        "stats": "86 points · 27 comments"
-      }
-    ],
-    "2026-06-30": [
-      {
-        "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-        "title": "Claude Code is steganographically marking requests",
-        "description": "2432 points · 742 comments",
-        "image": "",
-        "source": "thereallo.dev",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-        "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-        "description": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n\nWe&#x27;ll begin restoring access tomorrow, and will share an update soon.\n\nWe’re grateful to our users for their patience, and to everyone who worked with us on",
-        "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
-        "source": "twitter.com",
-        "stats": "967 points · 687 comments"
+        "stats": "94 points · 29 comments"
       }
     ]
   }
