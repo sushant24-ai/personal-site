@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-07T06:12:49.102Z",
+  "lastUpdated": "2026-07-08T05:25:30.219Z",
   "days": {
+    "2026-07-08": [
+      {
+        "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+        "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+        "description": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview access globally now.",
+        "image": "https://pbs.twimg.com/media/HMrU7U7bwAEO8yf.jpg:large",
+        "source": "twitter.com",
+        "stats": "50 points · 6 comments"
+      },
+      {
+        "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
+        "title": "Honey, We Bought an AI Story",
+        "description": "Bona Books share a hard-learned lesson: we accidentally bought AI-generated fiction. This deep dive into our experience with submission fraud covers the &quot;red flags&quot; we missed, the toll it took on our small press, and our call for industry-wide solidarity against AI-written content. Learn h",
+        "image": "http://static1.squarespace.com/static/66a641379c880e1571665d31/t/6a4d086bd6827d540de10806/1783433323216/Untitled+-+02+July+2026+at+21.24.06-4.png?format=1500w",
+        "source": "bona-books.com",
+        "stats": "31 points · 8 comments"
+      },
+      {
+        "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
+        "title": "Trump administration lifts restrictions on OpenAI's GPT 5.6",
+        "description": "5 points · 4 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
+        "title": "Claude Fable extended to July 12",
+        "description": "Anthropic extended Claude Fable 5 on paid plans through July 12. These 10 moves, from building Claude Skills to rebuilding Projects, create assets you keep after it ends.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4d815b4e4805c87bc9307a/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+        "source": "forbes.com",
+        "stats": "8 points · 1 comments"
+      },
+      {
+        "url": "https://www.bangordailynews.com/2026/07/02/midcoast/midcoast-culture/maine-librarians-are-helping-patrons-resist-ai-joam40zk0w/",
+        "title": "Maine librarians are helping patrons resist AI and Big Tech",
+        "description": "Despite breathless reporting on how AI is going to change the world, Hannah Cyrus, a Bangor librarian, said that, in her experience, most library patrons aren’t finding it helpful.",
+        "image": "https://bdn-data.s3.amazonaws.com/uploads/2026/07/Untitled-design-2026-07-01T190830.702.jpg",
+        "source": "bangordailynews.com",
+        "stats": "8 points · 0 comments"
+      }
+    ],
     "2026-07-07": [
       {
-        "url": "https://tech.yahoo.com/ai/claude/articles/claude-fable-5-backlash-grows-213000534.html",
-        "title": "Claude Fable 5 Backlash Grows",
-        "description": "Claude Fable 5 faces backlash as BridgeBench scores crash and users blame Anthropic&#x27;s strict new AI guardrails.",
-        "image": "https://s.yimg.com/lo/mysterio/api/79291e91cccd31c91ce23c83a5e554ce6ec23624ca416b5f70eba2fef1a059e1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2a569199b0ab622e37aef9376ebe6c57",
-        "source": "tech.yahoo.com",
-        "stats": "16 points · 4 comments"
-      },
-      {
-        "url": "https://www.usestitch.ai/",
-        "title": "OSS Local AI Workspace",
-        "description": "Stitch is a local-first AI desktop app. Record meetings, manage todos, automate daily workflows, and let AI remember what matters — all running privately on your machine.",
+        "url": "https://30papers.com/",
+        "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+        "description": "A curated reading list of foundational AI and deep learning papers, hosted in full with plain-language explanations of difficult terms.",
         "image": "",
-        "source": "usestitch.ai",
-        "stats": "4 points · 2 comments"
+        "source": "30papers.com",
+        "stats": "435 points · 70 comments"
       },
       {
-        "url": "https://maestro.dev/",
-        "title": "Maestro: Agentic Mobile UI Testing",
-        "description": "Create reliable UI tests fast. Run free on CLI or Maestro Studio, then scale on Maestro Cloud. Automate iOS, Android and web with simple setup.",
-        "image": "https://maestro.dev/og.png",
-        "source": "maestro.dev",
-        "stats": "2 points · 0 comments"
+        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "description": "Just a few years ago, realistic local speech generation seemed unimaginable. Today, its quality is exceptional and, crucially, it delivers these results without compromising privacy.",
+        "image": "https://ariya.io//images/2026/03/kokoro.png",
+        "source": "ariya.io",
+        "stats": "355 points · 72 comments"
       },
       {
-        "url": "https://www.buildaslackagent.dev/",
-        "title": "Show HN: Build a Slack Agent",
-        "description": "Build a Slack agent in three API calls with durable agent sessions on OpenComputer. Define an agent, connect Slack, tag it in a channel — mentions start durable sessions, replies land in the thread.",
-        "image": "https://buildaslackagent.dev/social-preview.png",
-        "source": "buildaslackagent.dev",
-        "stats": "2 points · 0 comments"
+        "url": "https://odra.dev/slopfix/",
+        "title": "We charge $10k a week to delete AI-generated code",
+        "description": "Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.",
+        "image": "",
+        "source": "odra.dev",
+        "stats": "248 points · 154 comments"
       },
       {
-        "url": "https://hydradb.com/blog/ai-context-graph-ontology-infrastructure",
-        "title": "Every AI Company Needs a Context Graph. None of Them Need the Same One",
-        "description": "AI context graph infrastructure for agent memory. Learn why your ontology, schema, provenance, temporal state, and permissions should remain yours.",
-        "image": "https://framerusercontent.com/images/R20Ufz4COhoDtfs0B8UfsHA2LK4.png",
-        "source": "hydradb.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "description": "Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/a34992ff15837d44ee64a528736e96be339f602efcb4b4f23f62326a0505a10f/rowboatlabs/rowboat",
+        "source": "github.com",
+        "stats": "130 points · 36 comments"
+      },
+      {
+        "url": "https://replicated.live/blog/away",
+        "title": "Automating AI Away",
+        "description": "110 points · 52 comments",
+        "image": "",
+        "source": "replicated.live",
+        "stats": ""
       }
     ],
     "2026-07-06": [
@@ -50,7 +92,7 @@
         "description": "GLM 5.2 is the first open weights model I&#39;d call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.",
         "image": "https://martinalderson.com/img/og/glm-5-2-and-the-coming-ai-margin-collapse-part-1.png",
         "source": "martinalderson.com",
-        "stats": "296 points · 189 comments"
+        "stats": "669 points · 451 comments"
       },
       {
         "url": "https://www.anthropic.com/research/global-workspace",
@@ -58,31 +100,31 @@
         "description": "Interpretability research on Claude&#x27;s internal thoughts.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/fbdc967f9f3d88566f25b21cce7ef523b3fabbbb-1280x720.jpg",
         "source": "anthropic.com",
-        "stats": "327 points · 124 comments"
-      },
-      {
-        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-        "title": "GPT-5.6 Sol Ultra will be in Codex",
-        "description": "@haider1 Ultra will be in codex.",
-        "image": "https://pbs.twimg.com/profile_images/1953339828738899968/WWQlU2RT_200x200.jpg",
-        "source": "twitter.com",
-        "stats": "405 points · 387 comments"
+        "stats": "448 points · 191 comments"
       },
       {
         "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
         "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-        "description": "307 points · 218 comments",
+        "description": "371 points · 258 comments",
         "image": "",
         "source": "lttlabs.com",
         "stats": ""
       },
       {
-        "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
-        "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
-        "description": "243 points · 183 comments",
+        "url": "https://ternlight-demo.vercel.app/",
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "description": "On-device sentence embeddings — engine, weights, and tokenizer in 7 MB of WASM. Search the React docs entirely on your CPU.",
         "image": "",
-        "source": "raheeljunaid.com",
-        "stats": ""
+        "source": "ternlight-demo.vercel.app",
+        "stats": "318 points · 65 comments"
+      },
+      {
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "title": "Small AI Models Gain Traction In places with unreliable networks",
+        "description": "In places with unreliable networks and no data-center infrastructure, smaller is better",
+        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67101133&width=1200&height=600&coordinates=0%2C889%2C0%2C361",
+        "source": "spectrum.ieee.org",
+        "stats": "265 points · 78 comments"
       }
     ],
     "2026-07-05": [
@@ -92,39 +134,7 @@
         "description": "As autonomous coding agents see rapid adoption, their evaluation has primarily focused on task completion rates holding the target codebase fixed. This leaves a critical question unanswered: does the structural and stylistic quality, or ``cleanliness&#39;&#39; of the underlying code affect an agent&#39;s ability to navigate and modify it? To isolate the effect of code cleanliness from agent capability, we introduce an evaluation protocol built around minimal pairs: repositories that match on architecture, dependencies, and external behaviour, but differ on static-analysis rule violations and cognitive complexity. The pairs are constructed in both directions, by agent pipelines that either degrade a clean repository or clean a messy one. We author 33 tasks across six such pairs, evaluated through hidden tests at the application&#39;s public surface. Across 660 trials with Claude Code, code cleanliness does not change the agent&#39;s pass rate. However, it substantially alters the agent&#39;s operational footprint: agents working on cleaner code use 7 to 8% fewer tokens and reduce file revisitations by 34%. Our findings suggest that traditional maintainability principles remain highly relevant in the era of AI-driven development, shaping the computational cost and navigational efficiency of coding agents. Code cleanliness joins model choice, harness, and prompting as a factor that materially affects agent behaviours.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "194 points · 90 comments"
-      },
-      {
-        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-        "description": "176 points · 111 comments",
-        "image": "",
-        "source": "intextbooks.science.uu.nl",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "title": "Claude Design System Prompt",
-        "description": "Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator. - Trystan-SA/claude-design-system-prompt",
-        "image": "https://opengraph.githubassets.com/44a4a24b8628d35d3998221e96e0dee3878217802b8d9d7b9ebc5a8c3ec90976/Trystan-SA/claude-design-system-prompt",
-        "source": "github.com",
-        "stats": "121 points · 31 comments"
-      },
-      {
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-        "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "133 points · 2 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2602.09239",
-        "title": "A sociotechnical threat model for AI-driven smart home devices",
-        "description": "The growing adoption of AI-driven smart home devices has introduced new privacy risks for domestic workers (DWs), who are frequently monitored in employers&#39; homes while also using smart devices in their own households. We conducted semi-structured interviews with 18 UK-based DWs and performed a human-centered threat modeling analysis of their experiences through the lens of Communication Privacy Management (CPM). Our findings extend existing threat models beyond abstract adversaries and single-household contexts by showing how AI analytics, residual data logs, and cross-household data flows shaped the privacy risks faced by participants. In employer-controlled homes, AI-enabled features and opaque, agency-mediated employment arrangements intensified surveillance and constrained participants&#39; ability to negotiate privacy boundaries. In their own homes, participants had greater control as device owners but still faced challenges, including gendered administrative roles, opaque AI functionalities, and uncertainty around data retention. We synthesize these insights into a sociotechnical threat model that identifies DW agencies as institutional adversaries and maps AI-driven privacy risks across interconnected households, and we outline social and practical implications for strengthening DW privacy and agency.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "83 points · 68 comments"
+        "stats": "207 points · 93 comments"
       }
     ],
     "2026-07-04": [
@@ -179,16 +189,6 @@
         "image": "",
         "source": "reuters.com",
         "stats": ""
-      }
-    ],
-    "2026-07-01": [
-      {
-        "url": "https://github.com/langchain-ai/openwiki",
-        "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-        "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase. - langchain-ai/openwiki",
-        "image": "https://opengraph.githubassets.com/ce33c0950a1e42965fbd2fdf3cab6439e736754ad2b3563ea7037c95dbbdda47/langchain-ai/openwiki",
-        "source": "github.com",
-        "stats": "94 points · 29 comments"
       }
     ]
   }
