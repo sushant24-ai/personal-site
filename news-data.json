@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-08T05:25:30.219Z",
+  "lastUpdated": "2026-07-09T06:14:25.572Z",
   "days": {
+    "2026-07-09": [
+      {
+        "url": "https://www.alecscollon.com/blog/llm-burnout/",
+        "title": "I think I have LLM burnout",
+        "description": "I didn",
+        "image": "",
+        "source": "alecscollon.com",
+        "stats": "272 points · 202 comments"
+      },
+      {
+        "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+        "title": "What's slowing down the AI buildout",
+        "description": "America has the electricity to power its data centers; the problem is getting it where it&#x27;s needed.",
+        "image": "https://substackcdn.com/image/fetch/$s_!K2fi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30156c47-e47a-443c-9f87-47070ad2ce75_2640x1760.jpeg",
+        "source": "worksinprogress.news",
+        "stats": "21 points · 21 comments"
+      },
+      {
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383",
+        "title": "AI bills are baffling the C-suite after shift to usage-based pricing",
+        "description": "KPMG finds nearly a third of execs struggle to understand costs as companies rethink deployments",
+        "image": "https://image.theregister.com/261823.jpg?imageId=261823&x=0&y=37.07&cropw=100&croph=62.93&panox=0&panoy=37.07&panow=100&panoh=62.93&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "9 points · 0 comments"
+      },
+      {
+        "url": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+        "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
+        "description": "Imagine a wearable device that records every moment of your day and makes suggestions based on your mood.",
+        "image": "https://images.unsplash.com/photo-1586120695969-927e34a95cef?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxBSSUyMHdhdGNoaW5nfGVufDB8fHx8MTc4MzUzMDUwNnww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "404media.co",
+        "stats": "7 points · 0 comments"
+      },
+      {
+        "url": "https://www.irishtimes.com/world/europe/2026/07/08/ai-software-that-generates-rage-bait-developed-by-germanys-far-right-afd/",
+        "title": "AI software that generates 'rage bait' developed by Germany's far-right AfD",
+        "description": "Alternita platform uses Google Gemini, OpenAI and Claude to create provocative social media posts",
+        "image": "https://www.irishtimes.com/resizer/v2/ATUKLJE36FAY7I56E3YCECLCWM.jpg?smart=true&amp;auth=6d9a286ed0491b3f1c8e2b1c1e9c7fc00f7ac82b700d556b739e8f9f20c6a074&amp;width=1200&amp;height=630",
+        "source": "irishtimes.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-07-08": [
       {
-        "url": "https://twitter.com/OpenAI/status/2074704958419792299",
-        "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-        "description": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.\n\nWe’re expanding preview access globally now.",
-        "image": "https://pbs.twimg.com/media/HMrU7U7bwAEO8yf.jpg:large",
-        "source": "twitter.com",
-        "stats": "50 points · 6 comments"
-      },
-      {
-        "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
-        "title": "Honey, We Bought an AI Story",
-        "description": "Bona Books share a hard-learned lesson: we accidentally bought AI-generated fiction. This deep dive into our experience with submission fraud covers the &quot;red flags&quot; we missed, the toll it took on our small press, and our call for industry-wide solidarity against AI-written content. Learn h",
-        "image": "http://static1.squarespace.com/static/66a641379c880e1571665d31/t/6a4d086bd6827d540de10806/1783433323216/Untitled+-+02+July+2026+at+21.24.06-4.png?format=1500w",
-        "source": "bona-books.com",
-        "stats": "31 points · 8 comments"
-      },
-      {
-        "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
-        "title": "Trump administration lifts restrictions on OpenAI's GPT 5.6",
-        "description": "5 points · 4 comments",
+        "url": "https://openai.com/index/introducing-gpt-live/",
+        "title": "GPT‑Live",
+        "description": "664 points · 431 comments",
         "image": "",
-        "source": "axios.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
-        "title": "Claude Fable extended to July 12",
-        "description": "Anthropic extended Claude Fable 5 on paid plans through July 12. These 10 moves, from building Claude Skills to rebuilding Projects, create assets you keep after it ends.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4d815b4e4805c87bc9307a/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
-        "source": "forbes.com",
-        "stats": "8 points · 1 comments"
+        "url": "https://mistral.ai/news/robostral-navigate/",
+        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+        "description": "Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.",
+        "image": "https://mistral.ai/cms-media/api/media/file/Robostral-navigate.jpg",
+        "source": "mistral.ai",
+        "stats": "458 points · 100 comments"
       },
       {
-        "url": "https://www.bangordailynews.com/2026/07/02/midcoast/midcoast-culture/maine-librarians-are-helping-patrons-resist-ai-joam40zk0w/",
-        "title": "Maine librarians are helping patrons resist AI and Big Tech",
-        "description": "Despite breathless reporting on how AI is going to change the world, Hannah Cyrus, a Bangor librarian, said that, in her experience, most library patrons aren’t finding it helpful.",
-        "image": "https://bdn-data.s3.amazonaws.com/uploads/2026/07/Untitled-design-2026-07-01T190830.702.jpg",
-        "source": "bangordailynews.com",
-        "stats": "8 points · 0 comments"
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "description": "513 points · 195 comments",
+        "image": "https://noma.security/wp-content/uploads/Screenshot-2026-06-29-at-14.16.35.png",
+        "source": "noma.security",
+        "stats": ""
+      },
+      {
+        "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+        "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+        "description": "COMBINE-lab develops algorithms, data structures, and software for high-throughput genomics.",
+        "image": "https://combine-lab.github.io/icons/share-thumbnail.jpg",
+        "source": "combine-lab.github.io",
+        "stats": "202 points · 185 comments"
+      },
+      {
+        "url": "https://cognition.com/blog/swe-1-7",
+        "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+        "description": "Today, we’re launching SWE-1.7, the most capable model we’ve trained so far. It reaches frontier-level intelligence at a much lower cost, advancing the cost-performance Pareto curve.",
+        "image": "https://cognition.com/images/swe-1-7/swe-1-7-og.png",
+        "source": "cognition.com",
+        "stats": "262 points · 132 comments"
       }
     ],
     "2026-07-07": [
@@ -50,7 +92,7 @@
         "description": "A curated reading list of foundational AI and deep learning papers, hosted in full with plain-language explanations of difficult terms.",
         "image": "",
         "source": "30papers.com",
-        "stats": "435 points · 70 comments"
+        "stats": "623 points · 104 comments"
       },
       {
         "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
@@ -58,7 +100,7 @@
         "description": "Just a few years ago, realistic local speech generation seemed unimaginable. Today, its quality is exceptional and, crucially, it delivers these results without compromising privacy.",
         "image": "https://ariya.io//images/2026/03/kokoro.png",
         "source": "ariya.io",
-        "stats": "355 points · 72 comments"
+        "stats": "509 points · 95 comments"
       },
       {
         "url": "https://odra.dev/slopfix/",
@@ -66,20 +108,20 @@
         "description": "Your AI-built product works, but past 100,000 lines every change breaks two things. Three senior engineers make your codebase maintainable again. One week, fixed price, guaranteed.",
         "image": "",
         "source": "odra.dev",
-        "stats": "248 points · 154 comments"
+        "stats": "297 points · 232 comments"
       },
       {
         "url": "https://github.com/rowboatlabs/rowboat",
         "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
         "description": "Open-source AI coworker, with memory. Contribute to rowboatlabs/rowboat development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/a34992ff15837d44ee64a528736e96be339f602efcb4b4f23f62326a0505a10f/rowboatlabs/rowboat",
+        "image": "https://opengraph.githubassets.com/e690c7d2c6caab3aa9b0140facc6bc6fcca956bd420630f2ed45e25e5f1b61d2/rowboatlabs/rowboat",
         "source": "github.com",
-        "stats": "130 points · 36 comments"
+        "stats": "213 points · 91 comments"
       },
       {
         "url": "https://replicated.live/blog/away",
         "title": "Automating AI Away",
-        "description": "110 points · 52 comments",
+        "description": "132 points · 61 comments",
         "image": "",
         "source": "replicated.live",
         "stats": ""
@@ -87,54 +129,22 @@
     ],
     "2026-07-06": [
       {
-        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-        "title": "GLM 5.2 and the coming AI margin collapse",
-        "description": "GLM 5.2 is the first open weights model I&#39;d call a genuine competitor to Opus and GPT for agentic work - at ~15-20% of the price. Part one of why AI inference margins are about to collapse.",
-        "image": "https://martinalderson.com/img/og/glm-5-2-and-the-coming-ai-margin-collapse-part-1.png",
-        "source": "martinalderson.com",
-        "stats": "669 points · 451 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/global-workspace",
-        "title": "A global workspace in language models",
-        "description": "Interpretability research on Claude&#x27;s internal thoughts.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/fbdc967f9f3d88566f25b21cce7ef523b3fabbbb-1280x720.jpg",
-        "source": "anthropic.com",
-        "stats": "448 points · 191 comments"
-      },
-      {
-        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-        "description": "371 points · 258 comments",
-        "image": "",
-        "source": "lttlabs.com",
-        "stats": ""
-      },
-      {
-        "url": "https://ternlight-demo.vercel.app/",
-        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-        "description": "On-device sentence embeddings — engine, weights, and tokenizer in 7 MB of WASM. Search the React docs entirely on your CPU.",
-        "image": "",
-        "source": "ternlight-demo.vercel.app",
-        "stats": "318 points · 65 comments"
-      },
-      {
-        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-        "title": "Small AI Models Gain Traction In places with unreliable networks",
-        "description": "In places with unreliable networks and no data-center infrastructure, smaller is better",
-        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67101133&width=1200&height=600&coordinates=0%2C889%2C0%2C361",
-        "source": "spectrum.ieee.org",
-        "stats": "265 points · 78 comments"
+        "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+        "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+        "description": "Drag a box, say what you want, and an AI agent draws it inside the box. Here&#x27;s how we built it on tldraw&#x27;s Agent starter kit, and what we learned.",
+        "image": "https://techstackups.com/img/articles/tldraw-agent-draw/cover.jpg",
+        "source": "techstackups.com",
+        "stats": "31 points · 14 comments"
       }
     ],
     "2026-07-05": [
       {
-        "url": "https://arxiv.org/abs/2605.20049",
-        "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-        "description": "As autonomous coding agents see rapid adoption, their evaluation has primarily focused on task completion rates holding the target codebase fixed. This leaves a critical question unanswered: does the structural and stylistic quality, or ``cleanliness&#39;&#39; of the underlying code affect an agent&#39;s ability to navigate and modify it? To isolate the effect of code cleanliness from agent capability, we introduce an evaluation protocol built around minimal pairs: repositories that match on architecture, dependencies, and external behaviour, but differ on static-analysis rule violations and cognitive complexity. The pairs are constructed in both directions, by agent pipelines that either degrade a clean repository or clean a messy one. We author 33 tasks across six such pairs, evaluated through hidden tests at the application&#39;s public surface. Across 660 trials with Claude Code, code cleanliness does not change the agent&#39;s pass rate. However, it substantially alters the agent&#39;s operational footprint: agents working on cleaner code use 7 to 8% fewer tokens and reduce file revisitations by 34%. Our findings suggest that traditional maintainability principles remain highly relevant in the era of AI-driven development, shaping the computational cost and navigational efficiency of coding agents. Code cleanliness joins model choice, harness, and prompting as a factor that materially affects agent behaviours.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "207 points · 93 comments"
+        "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
+        "title": "Home made GPU escalated quickly [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "176 points · 61 comments"
       }
     ],
     "2026-07-04": [
@@ -179,16 +189,6 @@
         "image": "",
         "source": "sparsethought.com",
         "stats": "10 points · 5 comments"
-      }
-    ],
-    "2026-07-02": [
-      {
-        "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-        "title": "Zuckerberg says AI agent development going slower than expected",
-        "description": "333 points · 602 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
       }
     ]
   }
