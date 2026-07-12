@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-11T05:16:57.816Z",
+  "lastUpdated": "2026-07-12T05:32:16.146Z",
   "days": {
+    "2026-07-12": [
+      {
+        "url": "https://tilion.dev/blog/anubis-proof-of-work",
+        "title": "Show HN: We beat Anubis with our stealth MCP",
+        "description": "What Anubis checks, how Fortress and Tilion Cloud clear it across live deployments and every difficulty tier, and how to reproduce it.",
+        "image": "",
+        "source": "tilion.dev",
+        "stats": "8 points · 3 comments"
+      },
+      {
+        "url": "https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race",
+        "title": "Big Tech piles on $350B in debt to fuel AI data center race",
+        "description": "Alphabet Inc., Amazon.com Inc., Meta Platforms Inc., Microsoft Corp. and Oracle Corp., the five biggest spenders on new data centers in the U.S., are betting heavily that cutting-edge AI services will mean a flood of new revenue.",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/517a623/2147483647/strip/true/crop/1913x1004+0+135/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fea%2F67d8d84b424a87afadc4867ec977%2Fce557757f66f43109ce3595dc49b787e.jpg",
+        "source": "latimes.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+        "title": "Run Claude and Codex in the Browser [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://github.com/ninjahawk/Confessor",
+        "title": "Show HN: Confessor – replay what private info Claude Code accessed on your PC",
+        "description": "See what your AI coding agent actually did on your computer. 100% local: every file it opened, every secret that entered its context, every sensitive-read-then-network-call. Zero dependencies, zero...",
+        "image": "https://opengraph.githubassets.com/daf7e29e8dc52f1d7491bea02a156825d9f33b76a1772eea3638ad08092cc3c7/ninjahawk/Confessor",
+        "source": "github.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f",
+        "title": "AI notetakers promise easy meeting recaps, but some question their use",
+        "description": "AI notetakers can quickly summarize meetings and create to-do lists, but they raise privacy concerns.",
+        "image": "https://dims.apnews.com/dims4/default/fec908f/2147483647/strip/true/crop/1920x1279+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F3c%2F8ee88156e8a38247fc56de441251%2Fbbe6352404fb47f1afba40c0ca237240",
+        "source": "apnews.com",
+        "stats": "5 points · 2 comments"
+      }
+    ],
     "2026-07-11": [
       {
-        "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-        "title": "Meta pulls new AI image feature after days of backlash",
-        "description": "Meta&#x27;s release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png",
-        "source": "bbc.com",
-        "stats": "35 points · 12 comments"
+        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+        "title": "Stop Telling Me to Ask an LLM",
+        "description": "I already did.",
+        "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "blog.yaelwrites.com",
+        "stats": "173 points · 102 comments"
       },
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
-        "title": "Big Tech Doubles Debt Load to $350B in AI Spending Spree",
-        "description": "7 points · 2 comments",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "description": "How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.",
+        "image": "https://www.iroh.computer/api/og?title=Blog&amp;subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
+        "source": "iroh.computer",
+        "stats": "174 points · 39 comments"
+      },
+      {
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "title": "AI 2040 and the cult of intelligence",
+        "description": "I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.",
         "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "source": "geohot.github.io",
+        "stats": "195 points · 227 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=48867021",
-        "title": "One Wikipedia page costs your AI agent 68,000 tokens",
-        "description": "8 points · 5 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+        "description": "Neoclouds are one of the more hotly debated AI business models, with CoreWeave and Nebius being the two most widely recognized names. These companies have seen their sales, backlog, and share prices soar. Yet, supporting their growth is extremely expensive, and neoclouds do not have the same cash nor operating cash flow profiles of Big Tech. This is leading neoclouds to employ unique and circular financing structures, raising some red flags.",
+        "image": "https://images.prismic.io/bethtechnology/aitsR6lQnVZVEPNy_Nvidia%2CCoreWeave%2CandNebius%E2%80%93InsidetheCircularFinancingoftheGPUBoom.png?auto=format,compress",
+        "source": "io-fund.com",
+        "stats": "212 points · 69 comments"
       },
       {
-        "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-        "title": "Meta removes AI feature on Instagram after global backlash",
-        "description": "Meta has backed down on a controversial feature that allowed people&#x27;s public Instagram posts to be used by anyone for AI generation.",
-        "image": "https://media.rnztools.nz/rnz/image/upload/s--kB53D7EO--/t_tohu-badge-facebook/f_auto/q_auto/4JLRK9Z_Screenshot_2026_07_09_at_10_24_22_AM_png",
-        "source": "rnz.co.nz",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://www.latimes.com/business/story/2026-07-10/apple-accuses-openai-of-stealing-trade-secrets-in-blockbuster-silicon-valley-lawsuit",
-        "title": "Apple sues OpenAI for stealing trade secrets, blockbuster Silicon Valley lawsuit",
-        "description": "Apple Sues OpenAI for Trade Secret Theft in Blockbuster Case",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/624b454/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F79%2Ffe%2F8572e68d16576e44d44346aad253%2F1x-1.jpg",
-        "source": "latimes.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://www.mixfont.com/ghost-font",
+        "title": "Ghost Font: A font that humans can read but AI cannot",
+        "description": "An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.",
+        "image": "https://static.mixfont.com/assets/20260711-092742-ghostfont-og-j3qj8h8p.webp",
+        "source": "mixfont.com",
+        "stats": "204 points · 150 comments"
       }
     ],
     "2026-07-10": [
@@ -50,14 +92,22 @@
         "description": "Apple has filed a lawsuit against OpenAI today, accusing the company of trade secret theft. Specifically, Apple alleges that its...",
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "source": "9to5mac.com",
-        "stats": "790 points · 394 comments"
+        "stats": "1595 points · 900 comments"
       },
       {
         "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-        "description": "402 points · 309 comments",
+        "description": "514 points · 424 comments",
         "image": "",
         "source": "cdn.openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://nevo-project.epfl.ch/",
+        "title": "AI-generated videos to maximally drive a target brain region",
+        "description": "290 points · 236 comments",
+        "image": "",
+        "source": "nevo-project.epfl.ch",
         "stats": ""
       },
       {
@@ -66,7 +116,7 @@
         "description": "GPT-5.6&#x27;s new Sol, Terra, and Luna tiers go head-to-head with Grok 4.5, Claude, Meta&#x27;s Muse Spark, and the open-weights crew on a raycaster, a Rubik&#x27;s cube, a calculator, and Game of Life. Here&#x27;s every build, with cost and latency.",
         "image": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models/opengraph-image-yqks0s?3313ef8f7f360358",
         "source": "tryai.dev",
-        "stats": "140 points · 80 comments"
+        "stats": "154 points · 86 comments"
       },
       {
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
@@ -74,49 +124,25 @@
         "description": "The Cambridge Programme on AI Science &amp; Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.",
         "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/AwmrFUJUl1Miu5dNMpFBx8P372K3/social-images/social-1783516958074-CASP_Social_Logos_White.webp",
         "source": "casp.ac",
-        "stats": "199 points · 163 comments"
-      },
-      {
-        "url": "https://nevo-project.epfl.ch/",
-        "title": "AI-generated videos to maximally drive a target brain region",
-        "description": "273 points · 227 comments",
-        "image": "",
-        "source": "nevo-project.epfl.ch",
-        "stats": ""
+        "stats": "227 points · 196 comments"
       }
     ],
     "2026-07-09": [
       {
         "url": "https://openai.com/index/gpt-5-6/",
         "title": "GPT-5.6",
-        "description": "1521 points · 1082 comments",
+        "description": "1542 points · 1094 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-        "title": "ChatGPT Work",
-        "description": "348 points · 184 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "title": "AI content is everywhere on social media, especially LinkedIn",
-        "description": "We scanned over 1 million social media posts for AI content. It turned up on every platform we checked, and 1 in 3 top LinkedIn posts flagged as AI-generated.",
-        "image": "https://cdn.sanity.io/images/6vunltag/production/3c7bf7b542469d5572d664f321ec376ef719a9fe-1200x630.png",
-        "source": "pangram.com",
-        "stats": "237 points · 214 comments"
       },
       {
         "url": "https://ai-2040.com/",
         "title": "AI 2040: Plan A",
         "description": "A detailed forecast and recommendation for how the US, China and the rest of the world should navigate superintelligence.",
-        "image": "https://ai-2040.com/opengraph-plan-a.jpg",
+        "image": "https://ai-2040.com/opengraph-choose-a-path.png",
         "source": "ai-2040.com",
-        "stats": "196 points · 202 comments"
+        "stats": "381 points · 496 comments"
       },
       {
         "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
@@ -124,7 +150,23 @@
         "description": "We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can&#x27;t wait for a slow reply, can&#x27;t read a chat interface, and can&#x27;t unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.",
         "image": "https://cdn.sanity.io/images/syk5spr9/production/ec494ad4e15d0f28ec8b04d522147735034ba902-1200x630.webp",
         "source": "ello.com",
-        "stats": "139 points · 392 comments"
+        "stats": "148 points · 398 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=48847834",
+        "title": "Show HN: Reverse-engineering web apps into agent tools",
+        "description": "89 points · 37 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.fadingmaize.com",
+        "title": "Show HN: Reviving my 2001 college band with AI",
+        "description": "Original human-written college band songs, transparently reimagined with 2026 AI tools.",
+        "image": "https://www.fadingmaize.com/images/fading-maize-og.jpg",
+        "source": "fadingmaize.com",
+        "stats": "55 points · 59 comments"
       }
     ],
     "2026-07-08": [
@@ -155,20 +197,28 @@
     ],
     "2026-07-07": [
       {
-        "url": "https://github.com/Rodiun/frugon",
-        "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-        "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine. - Rodiun/frugon",
-        "image": "https://opengraph.githubassets.com/93883e76b772c2bf7b5ca1d957aeec7d85d86eb62d379fa17e0f9fbd5dbb49d9/Rodiun/frugon",
-        "source": "github.com",
-        "stats": "57 points · 10 comments"
-      },
-      {
         "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
         "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
         "description": "An end-to-end engineering practice for the MiMo-V2.5 series inference system, covering KVCache management, tiered caching, SWA-aware prefix cache trees, scheduling, Prefill/Decode pipelines, and multimodal optimizations.",
         "image": "",
         "source": "mimo.xiaomi.com",
-        "stats": "60 points · 24 comments"
+        "stats": "114 points · 47 comments"
+      },
+      {
+        "url": "https://thebeach.dev/posts/lisp-agent/",
+        "title": "An agent in 100 lines of Lisp",
+        "description": "Around 2000 I took an AI course at the University of Guelph. I don&rsquo;t think I learned too much. We didn&rsquo;t talk about neural networks, as far as I can remember. My end of term project was, I think, a pathfinding algorithm wearing an AI costume. There were certainly no discussions of transformers. No CUDA. No PyTorch. None of that existed.\nBut what I remember doing a lot of was coding in Lisp - a lot of Lisp in the dark University of Guelph CIS lab.",
+        "image": "https://thebeach.dev/images/lisp-agent.jpg",
+        "source": "thebeach.dev",
+        "stats": "83 points · 5 comments"
+      },
+      {
+        "url": "https://github.com/Rodiun/frugon",
+        "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+        "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine. - Rodiun/frugon",
+        "image": "https://opengraph.githubassets.com/d2b958d5d043335fae121d35ecc921fe6e7df232987d94ab1cbb0e3afe7e7250/Rodiun/frugon",
+        "source": "github.com",
+        "stats": "65 points · 19 comments"
       }
     ],
     "2026-07-06": [
@@ -178,17 +228,7 @@
         "description": "Apple&#039;s Mac mini and Mac Studio have become the machines of choice for running AI agents, according to Doug Brooks, Apple&#039;s senior product manager of Apple silicon. Brooks made the claim while discussing Apple&#039;s chip strategy in a newly published interview with The Deep View conducted just prior to WWDC 2026 in June. Brooks says that the company has seen &quot;incredible demand&quot; for the two desktop Macs.",
         "image": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
         "source": "macrumors.com",
-        "stats": "199 points · 290 comments"
-      }
-    ],
-    "2026-07-05": [
-      {
-        "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
-        "title": "Home made GPU escalated quickly [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "180 points · 69 comments"
+        "stats": "214 points · 308 comments"
       }
     ]
   }
