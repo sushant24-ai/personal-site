@@ -1,72 +1,98 @@
 {
-  "lastUpdated": "2026-07-12T05:32:16.146Z",
+  "lastUpdated": "2026-07-13T05:41:32.189Z",
   "days": {
+    "2026-07-13": [
+      {
+        "url": "https://news.ycombinator.com/item?id=48886741",
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "description": "336 points · 182 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/apples-thermonuclear-response-to-the-openai-threat-8d51c814",
+        "title": "Apple's \"Thermonuclear\" Response to OpenAI's Threat",
+        "description": "7 points · 2 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://ads.openai.com/",
+        "title": "Advertise in ChatGPT – OpenAI Ads",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "ads.openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/Arman-Luthra/aftr",
+        "title": "Show HN: Use After Effects with Claude Code, Cursor and Antigravity",
+        "description": "Puppeteer for After Effects. Use AE with Claude Code to make production-ready videos. - Arman-Luthra/aftr",
+        "image": "https://opengraph.githubassets.com/084648424c86bfa48abb89a5de2fb841e89dc0f138ed8f10e8541d652aef607e/Arman-Luthra/aftr",
+        "source": "github.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://www.seattletimes.com/nation-world/why-recruiters-cant-find-workers-and-new-grads-cant-find-jobs-its-not-ai/",
+        "title": "Why recruiters can't find workers and new grads can't find jobs (it's not AI)",
+        "description": "4 points · 8 comments",
+        "image": "",
+        "source": "seattletimes.com",
+        "stats": ""
+      }
+    ],
     "2026-07-12": [
       {
-        "url": "https://tilion.dev/blog/anubis-proof-of-work",
-        "title": "Show HN: We beat Anubis with our stealth MCP",
-        "description": "What Anubis checks, how Fortress and Tilion Cloud clear it across live deployments and every difficulty tier, and how to reproduce it.",
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "description": "Claude Code vs OpenCode token overhead measured at the API boundary. Out-of-the-box baselines, instruction file weight, MCP schema tax, subagent multipliers, and cache-write behaviour.",
+        "image": "https://systima.ai/images/claude-code-vs-opencode-banner.png",
+        "source": "systima.ai",
+        "stats": "529 points · 297 comments"
+      },
+      {
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "title": "I love LLMs, I hate hype",
+        "description": "I think from this blog you may misunderestimate how absolutely giddy I am about AI. I did hacking from 2007-2014, after that my whole career has been devoted to AI. I love the progress. I’m so excited for the new LLMs, self driving cars, video generation models, and coding agents. I set up a Linux box with opencode on my local GLM-5.2 last week and wow like just saying install tmux with the geohot configuration works; the Year of the Linux Desktop is finally here!",
         "image": "",
-        "source": "tilion.dev",
-        "stats": "8 points · 3 comments"
+        "source": "geohot.github.io",
+        "stats": "383 points · 241 comments"
       },
       {
-        "url": "https://www.latimes.com/business/story/2026-07-10/big-tech-piles-on-350-billion-in-debt-to-fuel-ai-data-center-race",
-        "title": "Big Tech piles on $350B in debt to fuel AI data center race",
-        "description": "Alphabet Inc., Amazon.com Inc., Meta Platforms Inc., Microsoft Corp. and Oracle Corp., the five biggest spenders on new data centers in the U.S., are betting heavily that cutting-edge AI services will mean a flood of new revenue.",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/517a623/2147483647/strip/true/crop/1913x1004+0+135/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fea%2F67d8d84b424a87afadc4867ec977%2Fce557757f66f43109ce3595dc49b787e.jpg",
-        "source": "latimes.com",
-        "stats": "5 points · 0 comments"
+        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "title": "Old and new apps, via modern coding agents",
+        "description": "I have been interested in machine-assisted ways to do and teach mathematics from as far back as 1999, when I started coding several applets in Java 1.0, both for my complex analysis and linear alge…",
+        "image": "https://terrytao.wordpress.com/wp-content/uploads/2026/07/image-2.png",
+        "source": "terrytao.wordpress.com",
+        "stats": "425 points · 126 comments"
       },
       {
-        "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
-        "title": "Run Claude and Codex in the Browser [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "4 points · 2 comments"
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+        "description": "We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here&#x27;s the migration guide we wish we&#x27;d had.",
+        "image": "https://storage.googleapis.com/ployai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/fcebce5c-colorful-hero-opus-vs-gpt.png",
+        "source": "ploy.ai",
+        "stats": "175 points · 65 comments"
       },
       {
-        "url": "https://github.com/ninjahawk/Confessor",
-        "title": "Show HN: Confessor – replay what private info Claude Code accessed on your PC",
-        "description": "See what your AI coding agent actually did on your computer. 100% local: every file it opened, every secret that entered its context, every sensitive-read-then-network-call. Zero dependencies, zero...",
-        "image": "https://opengraph.githubassets.com/daf7e29e8dc52f1d7491bea02a156825d9f33b76a1772eea3638ad08092cc3c7/ninjahawk/Confessor",
-        "source": "github.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://apnews.com/article/ai-notetaker-work-meetings-privacy-data-c700299371ca7cfec77dafdfb948067f",
-        "title": "AI notetakers promise easy meeting recaps, but some question their use",
-        "description": "AI notetakers can quickly summarize meetings and create to-do lists, but they raise privacy concerns.",
-        "image": "https://dims.apnews.com/dims4/default/fec908f/2147483647/strip/true/crop/1920x1279+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F3c%2F8ee88156e8a38247fc56de441251%2Fbbe6352404fb47f1afba40c0ca237240",
-        "source": "apnews.com",
-        "stats": "5 points · 2 comments"
+        "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+        "title": "AI boosts research careers but narrow the span of ideas explored: study",
+        "description": "New analysis suggests AI tools narrow the range of ideas explored",
+        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62826557&width=1200&height=600&coordinates=0%2C1189%2C0%2C61",
+        "source": "spectrum.ieee.org",
+        "stats": "143 points · 102 comments"
       }
     ],
     "2026-07-11": [
-      {
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-        "title": "Stop Telling Me to Ask an LLM",
-        "description": "I already did.",
-        "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "blog.yaelwrites.com",
-        "stats": "173 points · 102 comments"
-      },
       {
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "title": "Mesh LLM: distributed AI computing on iroh",
         "description": "How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.",
         "image": "https://www.iroh.computer/api/og?title=Blog&amp;subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
         "source": "iroh.computer",
-        "stats": "174 points · 39 comments"
-      },
-      {
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-        "title": "AI 2040 and the cult of intelligence",
-        "description": "I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.",
-        "image": "",
-        "source": "geohot.github.io",
-        "stats": "195 points · 227 comments"
+        "stats": "338 points · 79 comments"
       },
       {
         "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
@@ -74,7 +100,23 @@
         "description": "Neoclouds are one of the more hotly debated AI business models, with CoreWeave and Nebius being the two most widely recognized names. These companies have seen their sales, backlog, and share prices soar. Yet, supporting their growth is extremely expensive, and neoclouds do not have the same cash nor operating cash flow profiles of Big Tech. This is leading neoclouds to employ unique and circular financing structures, raising some red flags.",
         "image": "https://images.prismic.io/bethtechnology/aitsR6lQnVZVEPNy_Nvidia%2CCoreWeave%2CandNebius%E2%80%93InsidetheCircularFinancingoftheGPUBoom.png?auto=format,compress",
         "source": "io-fund.com",
-        "stats": "212 points · 69 comments"
+        "stats": "362 points · 167 comments"
+      },
+      {
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "title": "AI 2040 and the cult of intelligence",
+        "description": "I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.",
+        "image": "",
+        "source": "geohot.github.io",
+        "stats": "221 points · 261 comments"
+      },
+      {
+        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+        "title": "Stop Telling Me to Ask an LLM",
+        "description": "I already did.",
+        "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "blog.yaelwrites.com",
+        "stats": "195 points · 115 comments"
       },
       {
         "url": "https://www.mixfont.com/ghost-font",
@@ -82,7 +124,7 @@
         "description": "An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.",
         "image": "https://static.mixfont.com/assets/20260711-092742-ghostfont-og-j3qj8h8p.webp",
         "source": "mixfont.com",
-        "stats": "204 points · 150 comments"
+        "stats": "231 points · 170 comments"
       }
     ],
     "2026-07-10": [
@@ -131,42 +173,10 @@
       {
         "url": "https://openai.com/index/gpt-5-6/",
         "title": "GPT-5.6",
-        "description": "1542 points · 1094 comments",
+        "description": "1550 points · 1101 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://ai-2040.com/",
-        "title": "AI 2040: Plan A",
-        "description": "A detailed forecast and recommendation for how the US, China and the rest of the world should navigate superintelligence.",
-        "image": "https://ai-2040.com/opengraph-choose-a-path.png",
-        "source": "ai-2040.com",
-        "stats": "381 points · 496 comments"
-      },
-      {
-        "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-        "title": "Building a real-time AI tutor for 5-year-olds",
-        "description": "We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can&#x27;t wait for a slow reply, can&#x27;t read a chat interface, and can&#x27;t unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.",
-        "image": "https://cdn.sanity.io/images/syk5spr9/production/ec494ad4e15d0f28ec8b04d522147735034ba902-1200x630.webp",
-        "source": "ello.com",
-        "stats": "148 points · 398 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48847834",
-        "title": "Show HN: Reverse-engineering web apps into agent tools",
-        "description": "89 points · 37 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.fadingmaize.com",
-        "title": "Show HN: Reviving my 2001 college band with AI",
-        "description": "Original human-written college band songs, transparently reimagined with 2026 AI tools.",
-        "image": "https://www.fadingmaize.com/images/fading-maize-og.jpg",
-        "source": "fadingmaize.com",
-        "stats": "55 points · 59 comments"
       }
     ],
     "2026-07-08": [
@@ -219,16 +229,6 @@
         "image": "https://opengraph.githubassets.com/d2b958d5d043335fae121d35ecc921fe6e7df232987d94ab1cbb0e3afe7e7250/Rodiun/frugon",
         "source": "github.com",
         "stats": "65 points · 19 comments"
-      }
-    ],
-    "2026-07-06": [
-      {
-        "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-        "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-        "description": "Apple&#039;s Mac mini and Mac Studio have become the machines of choice for running AI agents, according to Doug Brooks, Apple&#039;s senior product manager of Apple silicon. Brooks made the claim while discussing Apple&#039;s chip strategy in a newly published interview with The Deep View conducted just prior to WWDC 2026 in June. Brooks says that the company has seen &quot;incredible demand&quot; for the two desktop Macs.",
-        "image": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-        "source": "macrumors.com",
-        "stats": "214 points · 308 comments"
       }
     ]
   }
