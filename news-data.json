@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-13T05:41:32.189Z",
+  "lastUpdated": "2026-07-14T04:54:30.099Z",
   "days": {
+    "2026-07-14": [
+      {
+        "url": "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff",
+        "title": "Agents.md – Dumb Human",
+        "description": "dumb human. GitHub Gist: instantly share code, notes, and snippets.",
+        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+        "source": "gist.github.com",
+        "stats": "33 points · 8 comments"
+      },
+      {
+        "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+        "title": "Building Food Metadata with LLM Juries",
+        "description": "22 points · 5 comments",
+        "image": "",
+        "source": "careersatdoordash.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
+        "title": "Georgia family says they're forced to sell home to power AI data centers",
+        "description": "Georgia Power says building a new transmission line will require acquiring more than 300 parcels of land, including residential properties.",
+        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/13/438a9974-0c71-43d0-b46e-302ed309f6cf/thumbnail/1200x630/dd885f494cec28a709d1f89ded93322b/georgia-family-data-center.jpg",
+        "source": "cbsnews.com",
+        "stats": "12 points · 1 comments"
+      },
+      {
+        "url": "https://www.nationalmemo.com/ai-bubble-2677214150",
+        "title": "Boom? If AI Sales in the US Go South, Let's Not Bail Out Big Money Bettors",
+        "description": "I was struck by a graph showing OpenRouter’s measure of AI usage this year. (It appears in a newsletter published by Deutsche Bank’s chief economist, Jim Reid.)There are two striking features to the graph. The first is that usage of Chinese AI passed the usage of U.S. AI in the last week in May. Thi...",
+        "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NzE0ODcwMy9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc4NDgwMjA5MX0.6einrZlXwKJrTmqXC6Pzp9iXQkKkGz2LDMYCmFHPMT0/img.png?width=1200&height=600&coordinates=0%2C65%2C0%2C66",
+        "source": "nationalmemo.com",
+        "stats": "9 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/DaqulaLin/MemStitch",
+        "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
+        "description": "Zero-Copy Context Bridging Gateway for Multi-Agent GPU Inference. Bypasses the expensive prefill phase by dynamically stitching KV Caches at the memory level using PagedAttention. Cuts TTFT latency...",
+        "image": "https://opengraph.githubassets.com/29172d2804507c72bcc8f3c8a17f1987249270848f34a8befc6c75fcbf8ca5ef/DaqulaLin/MemStitch",
+        "source": "github.com",
+        "stats": "6 points · 1 comments"
+      }
+    ],
     "2026-07-13": [
+      {
+        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "description": "1437 points · 721 comments",
+        "image": "",
+        "source": "raymyers.org",
+        "stats": ""
+      },
       {
         "url": "https://news.ycombinator.com/item?id=48886741",
         "title": "Ask HN: Add flag for AI-generated articles",
-        "description": "336 points · 182 comments",
+        "description": "1018 points · 441 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://www.wsj.com/tech/ai/apples-thermonuclear-response-to-the-openai-threat-8d51c814",
-        "title": "Apple's \"Thermonuclear\" Response to OpenAI's Threat",
-        "description": "7 points · 2 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "description": "SpeechAnalyzer vs SFSpeechRecognizer vs Whisper on 5,559 LibriSpeech utterances. Apple never published accuracy numbers. Here they are, with raw transcripts you can rescore.",
+        "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200&amp;h=600&amp;fit=crop&amp;q=80",
+        "source": "get-inscribe.com",
+        "stats": "497 points · 195 comments"
       },
       {
-        "url": "https://ads.openai.com/",
-        "title": "Advertise in ChatGPT – OpenAI Ads",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "ads.openai.com",
-        "stats": ""
+        "url": "https://neow.in/cWsyMTV3",
+        "title": "Samsung Health app threatens data deletion if users opt out AI training",
+        "description": "Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.",
+        "image": "https://cdn.neowin.com/news/images/uploaded/2026/07/1783952968_samsung-health_story.webp",
+        "source": "neow.in",
+        "stats": "296 points · 82 comments"
       },
       {
-        "url": "https://github.com/Arman-Luthra/aftr",
-        "title": "Show HN: Use After Effects with Claude Code, Cursor and Antigravity",
-        "description": "Puppeteer for After Effects. Use AE with Claude Code to make production-ready videos. - Arman-Luthra/aftr",
-        "image": "https://opengraph.githubassets.com/084648424c86bfa48abb89a5de2fb841e89dc0f138ed8f10e8541d652aef607e/Arman-Luthra/aftr",
+        "url": "https://github.com/thephw/claude-meseeks",
+        "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+        "description": "Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you. - thephw/claude-meseeks",
+        "image": "https://opengraph.githubassets.com/6bc291b96342e7dd330cfcea55744d53683a76fec66578bc17019c5b920c7b2d/thephw/claude-meseeks",
         "source": "github.com",
-        "stats": "6 points · 2 comments"
-      },
-      {
-        "url": "https://www.seattletimes.com/nation-world/why-recruiters-cant-find-workers-and-new-grads-cant-find-jobs-its-not-ai/",
-        "title": "Why recruiters can't find workers and new grads can't find jobs (it's not AI)",
-        "description": "4 points · 8 comments",
-        "image": "",
-        "source": "seattletimes.com",
-        "stats": ""
+        "stats": "128 points · 54 comments"
       }
     ],
     "2026-07-12": [
@@ -50,7 +92,7 @@
         "description": "Claude Code vs OpenCode token overhead measured at the API boundary. Out-of-the-box baselines, instruction file weight, MCP schema tax, subagent multipliers, and cache-write behaviour.",
         "image": "https://systima.ai/images/claude-code-vs-opencode-banner.png",
         "source": "systima.ai",
-        "stats": "529 points · 297 comments"
+        "stats": "686 points · 378 comments"
       },
       {
         "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
@@ -58,7 +100,7 @@
         "description": "I think from this blog you may misunderestimate how absolutely giddy I am about AI. I did hacking from 2007-2014, after that my whole career has been devoted to AI. I love the progress. I’m so excited for the new LLMs, self driving cars, video generation models, and coding agents. I set up a Linux box with opencode on my local GLM-5.2 last week and wow like just saying install tmux with the geohot configuration works; the Year of the Linux Desktop is finally here!",
         "image": "",
         "source": "geohot.github.io",
-        "stats": "383 points · 241 comments"
+        "stats": "474 points · 310 comments"
       },
       {
         "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
@@ -66,15 +108,15 @@
         "description": "I have been interested in machine-assisted ways to do and teach mathematics from as far back as 1999, when I started coding several applets in Java 1.0, both for my complex analysis and linear alge…",
         "image": "https://terrytao.wordpress.com/wp-content/uploads/2026/07/image-2.png",
         "source": "terrytao.wordpress.com",
-        "stats": "425 points · 126 comments"
+        "stats": "447 points · 132 comments"
       },
       {
         "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
         "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-        "description": "We hold frontier models to a high bar, and for four months nothing beat Claude Opus. GPT-5.6 did. Here&#x27;s the migration guide we wish we&#x27;d had.",
+        "description": "For four months, no frontier model beat Claude Opus in our production evals. GPT-5.6 did. This is what we learned while migrating.",
         "image": "https://storage.googleapis.com/ployai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/fcebce5c-colorful-hero-opus-vs-gpt.png",
         "source": "ploy.ai",
-        "stats": "175 points · 65 comments"
+        "stats": "254 points · 126 comments"
       },
       {
         "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
@@ -82,49 +124,17 @@
         "description": "New analysis suggests AI tools narrow the range of ideas explored",
         "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62826557&width=1200&height=600&coordinates=0%2C1189%2C0%2C61",
         "source": "spectrum.ieee.org",
-        "stats": "143 points · 102 comments"
+        "stats": "154 points · 106 comments"
       }
     ],
     "2026-07-11": [
-      {
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "title": "Mesh LLM: distributed AI computing on iroh",
-        "description": "How Mesh LLM pools existing GPU resources across machines into a single OpenAI-compatible API, built on iroh.",
-        "image": "https://www.iroh.computer/api/og?title=Blog&amp;subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
-        "source": "iroh.computer",
-        "stats": "338 points · 79 comments"
-      },
-      {
-        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-        "description": "Neoclouds are one of the more hotly debated AI business models, with CoreWeave and Nebius being the two most widely recognized names. These companies have seen their sales, backlog, and share prices soar. Yet, supporting their growth is extremely expensive, and neoclouds do not have the same cash nor operating cash flow profiles of Big Tech. This is leading neoclouds to employ unique and circular financing structures, raising some red flags.",
-        "image": "https://images.prismic.io/bethtechnology/aitsR6lQnVZVEPNy_Nvidia%2CCoreWeave%2CandNebius%E2%80%93InsidetheCircularFinancingoftheGPUBoom.png?auto=format,compress",
-        "source": "io-fund.com",
-        "stats": "362 points · 167 comments"
-      },
-      {
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-        "title": "AI 2040 and the cult of intelligence",
-        "description": "I used to be one of these people. I read Yudkowsky and was like, OMG recursive self improvement hard takeoff AI is coming. Then I joined the real world and actually tried to do things. At comma, we ship a hardware product of similar complexity to a cell phone, and it’s really hard. Reality has lots of finicky details. I would like to see the authors of this document try to change a bike tire. Even with a superintelligent ChatGPT, I suspect they would struggle.",
-        "image": "",
-        "source": "geohot.github.io",
-        "stats": "221 points · 261 comments"
-      },
       {
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
         "title": "Stop Telling Me to Ask an LLM",
         "description": "I already did.",
         "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
         "source": "blog.yaelwrites.com",
-        "stats": "195 points · 115 comments"
-      },
-      {
-        "url": "https://www.mixfont.com/ghost-font",
-        "title": "Ghost Font: A font that humans can read but AI cannot",
-        "description": "An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.",
-        "image": "https://static.mixfont.com/assets/20260711-092742-ghostfont-og-j3qj8h8p.webp",
-        "source": "mixfont.com",
-        "stats": "231 points · 170 comments"
+        "stats": "237 points · 135 comments"
       }
     ],
     "2026-07-10": [
@@ -203,32 +213,6 @@
         "image": "https://abralo.com/og.png",
         "source": "abralo.com",
         "stats": "32 points · 23 comments"
-      }
-    ],
-    "2026-07-07": [
-      {
-        "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-        "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-        "description": "An end-to-end engineering practice for the MiMo-V2.5 series inference system, covering KVCache management, tiered caching, SWA-aware prefix cache trees, scheduling, Prefill/Decode pipelines, and multimodal optimizations.",
-        "image": "",
-        "source": "mimo.xiaomi.com",
-        "stats": "114 points · 47 comments"
-      },
-      {
-        "url": "https://thebeach.dev/posts/lisp-agent/",
-        "title": "An agent in 100 lines of Lisp",
-        "description": "Around 2000 I took an AI course at the University of Guelph. I don&rsquo;t think I learned too much. We didn&rsquo;t talk about neural networks, as far as I can remember. My end of term project was, I think, a pathfinding algorithm wearing an AI costume. There were certainly no discussions of transformers. No CUDA. No PyTorch. None of that existed.\nBut what I remember doing a lot of was coding in Lisp - a lot of Lisp in the dark University of Guelph CIS lab.",
-        "image": "https://thebeach.dev/images/lisp-agent.jpg",
-        "source": "thebeach.dev",
-        "stats": "83 points · 5 comments"
-      },
-      {
-        "url": "https://github.com/Rodiun/frugon",
-        "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-        "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine. - Rodiun/frugon",
-        "image": "https://opengraph.githubassets.com/d2b958d5d043335fae121d35ecc921fe6e7df232987d94ab1cbb0e3afe7e7250/Rodiun/frugon",
-        "source": "github.com",
-        "stats": "65 points · 19 comments"
       }
     ]
   }
