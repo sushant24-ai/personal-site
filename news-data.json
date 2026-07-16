@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-15T04:55:01.538Z",
+  "lastUpdated": "2026-07-16T05:14:27.892Z",
   "days": {
-    "2026-07-15": [
+    "2026-07-16": [
       {
-        "url": "https://www.privacyguides.org/news/2026/07/13/the-next-version-of-metas-ai-glasses-will-activate-the-camera-without-the-camera-indicator-light/",
-        "title": "Meta's AI Glasses Will Activate the Camera Without Indicator Light",
-        "description": "The next model of Meta&#x27;s smart AI glasses will reportedly activate the onboard camera for AI features without notifying anyone via the camera indicator LED.",
-        "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDF8fHJheSUyMGJhbnN8ZW58MHx8fHwxNzgzOTczMTQ4fDA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "privacyguides.org",
-        "stats": "8 points · 0 comments"
+        "url": "https://artifipedia.com/map",
+        "title": "An Interactive Map of AI",
+        "description": "An interactive map of 56 AI concepts and how they connect. Drag, explore, and see where every idea fits.",
+        "image": "https://artifipedia.com/og-default.png",
+        "source": "artifipedia.com",
+        "stats": "16 points · 8 comments"
       },
       {
-        "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
-        "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
-        "description": "Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffs",
-        "image": "https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/864_0_4318_3455/master/4318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f043ce821719fbe8b9f4155a74b14ee",
-        "source": "theguardian.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests",
-        "title": "Job Hunters Are Using AI to Cheat in Interviews, and Failing at the Office",
-        "description": "4 points · 0 comments",
+        "url": "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972",
+        "title": "WSJ: The AI Backlash Has Tech Executives Fearing for Their Lives",
+        "description": "10 points · 4 comments",
         "image": "",
-        "source": "bloomberg.com",
+        "source": "wsj.com",
         "stats": ""
       },
       {
-        "url": "https://www.hamo.ai/blog/taking-the-clinical-decision-out-of-the-llm/",
-        "title": "We don't let the LLM decide what's clinically allowed",
-        "description": "An LLM asked to do therapy will improvise a technique based on vibes, and prompts don&#x27;t hold — a sufficiently emotional message talks the model past its instructions. So we moved the decision out of the model. Pure Python adjudicates every turn; the LLM only scores state and writes words. Here&#x27;s the architecture, the measured latencies, and what the rigidity cost us.",
-        "image": "https://www.hamo.ai/images/clinical-decision-pipeline.svg",
-        "source": "hamo.ai",
-        "stats": "3 points · 1 comments"
+        "url": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
+        "title": "Inside Anthropic's state-by-state plan to ratchet up AI rules",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
       },
       {
-        "url": "https://artificialanalysis.ai/articles/gpt-5-6-intelligence-vs-cost-across-sol-terra-luna",
-        "title": "GPT-5.6 Sol, Terra, Luna compare on intelligence vs. cost",
-        "description": "GPT-5.6 Sol and Luna are ahead of Terra at every point on the Intelligence vs Cost per Task chart. GPT-5.6 Luna stands out as a particularly cost efficient model",
-        "image": "https://cdn.sanity.io/images/6vfeftx9/articles/cfb81542a4d37f8646eb5af6854abf2321c4e34a-1024x1024.avif?w=1200&amp;auto=format",
-        "source": "artificialanalysis.ai",
-        "stats": "3 points · 0 comments"
+        "url": "https://lore.kernel.org/all/CAHk-%3Dwi4zC%2BZe8e%2Bp3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+        "title": "Linux kernel won't be anti-AI – Linus Torvalds",
+        "description": "7 points · 3 comments",
+        "image": "",
+        "source": "lore.kernel.org",
+        "stats": ""
+      },
+      {
+        "url": "https://theconvivialsociety.substack.com/p/your-ai-is-not-a-tool",
+        "title": "AI Is Not a Tool",
+        "description": "6 points · 2 comments",
+        "image": "",
+        "source": "theconvivialsociety.substack.com",
+        "stats": ""
+      }
+    ],
+    "2026-07-15": [
+      {
+        "url": "https://www.ayush.digital/blog/the-memory-heist",
+        "title": "I tricked Claude into leaking your deepest, darkest secrets",
+        "description": "How I tricked Claude into leaking your deepest, darkest secrets",
+        "image": "https://ayush.digital/blog/the-memory-heist/opengraph-image",
+        "source": "ayush.digital",
+        "stats": "619 points · 283 comments"
+      },
+      {
+        "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+        "title": "OpenAI loses trademark dispute at EU court",
+        "description": "226 points · 147 comments",
+        "image": "",
+        "source": "dpa-international.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+        "description": "A storage appliance that shipped before AVX2 existed now runs Google",
+        "image": "",
+        "source": "neomindlabs.com",
+        "stats": "261 points · 170 comments"
+      },
+      {
+        "url": "https://brainless.swerdlow.dev",
+        "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+        "description": "Claude Code, Codex, and Grok interfaces as shadcn components.",
+        "image": "https://brainless.swerdlow.dev/opengraph-image?234ed435f7768d62",
+        "source": "brainless.swerdlow.dev",
+        "stats": "116 points · 24 comments"
+      },
+      {
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "description": "131 points · 50 comments",
+        "image": "",
+        "source": "siegelendowment.org",
+        "stats": ""
       }
     ],
     "2026-07-14": [
@@ -50,7 +92,7 @@
         "description": "Hack the text output of Claude Code to make life a little bit sillier.",
         "image": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png",
         "source": "jola.dev",
-        "stats": "473 points · 521 comments"
+        "stats": "593 points · 601 comments"
       },
       {
         "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
@@ -58,20 +100,20 @@
         "description": "Reflections on autonomy and the value of thinking for ourselves",
         "image": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp",
         "source": "artfish.ai",
-        "stats": "406 points · 404 comments"
+        "stats": "513 points · 473 comments"
       },
       {
         "url": "https://github.com/openai/codex/issues/28058",
         "title": "Codex starts encrypting sub-agent prompts",
         "description": "What version of Codex CLI is running? Upstream main after #26210 (Encrypt multi-agent v2 message payloads, merged 2026-06-05). This appears to affect versions that include that change and enable Mu...",
-        "image": "https://opengraph.githubassets.com/9edd570d987d729eee36db727c7031b4d4f0c0255fa5bd100779a6ac0c31e72d/openai/codex/issues/28058",
+        "image": "https://opengraph.githubassets.com/0a841c63b47b4ec497a6a4d32369844b0545bdba4ed9346bb7e1868fcfd1eea7/openai/codex/issues/28058",
         "source": "github.com",
-        "stats": "413 points · 243 comments"
+        "stats": "423 points · 250 comments"
       },
       {
         "url": "https://www.bis.org/publ/bisbull120.pdf",
         "title": "Financing the AI boom: from cash flows to debt [pdf]",
-        "description": "120 points · 66 comments",
+        "description": "164 points · 106 comments",
         "image": "",
         "source": "bis.org",
         "stats": ""
@@ -79,7 +121,7 @@
       {
         "url": "https://jacobfilipp.com/care/",
         "title": "Proof of care in the age of AI",
-        "description": "174 points · 104 comments",
+        "description": "185 points · 110 comments",
         "image": "",
         "source": "jacobfilipp.com",
         "stats": ""
@@ -87,54 +129,22 @@
     ],
     "2026-07-13": [
       {
-        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-        "description": "1516 points · 771 comments",
-        "image": "",
-        "source": "raymyers.org",
-        "stats": ""
-      },
-      {
-        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "description": "SpeechAnalyzer vs SFSpeechRecognizer vs Whisper on 5,559 LibriSpeech utterances. Apple never published accuracy numbers. Here they are, with raw transcripts you can rescore.",
-        "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200&amp;h=600&amp;fit=crop&amp;q=80",
-        "source": "get-inscribe.com",
-        "stats": "557 points · 233 comments"
-      },
-      {
-        "url": "https://neow.in/cWsyMTV3",
-        "title": "Samsung Health app threatens data deletion if users opt out AI training",
-        "description": "Samsung has started showing Samsung Health users a controversial notice requiring them to consent to their data being used for AI training if they want to keep their data from being deleted.",
-        "image": "https://cdn.neowin.com/news/images/uploaded/2026/07/1783952968_samsung-health_story.webp",
-        "source": "neow.in",
-        "stats": "346 points · 97 comments"
-      },
-      {
-        "url": "https://github.com/clawkwork/clawk",
-        "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-        "description": "Disposable, network-restricted Linux VMs for AI coding agents - clawkwork/clawk",
-        "image": "https://opengraph.githubassets.com/39a8898050cb131b161163ba7c23261f2988627b317d57c1de3824b7eea182a8/clawkwork/clawk",
-        "source": "github.com",
-        "stats": "215 points · 156 comments"
-      },
-      {
-        "url": "https://github.com/thephw/claude-meseeks",
-        "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
-        "description": "Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you. - thephw/claude-meseeks",
-        "image": "https://opengraph.githubassets.com/f4c3131e646b1ac7695e09503f4e1beedeb0f1656a06cae489e6bf5e09dc6eb3/thephw/claude-meseeks",
-        "source": "github.com",
-        "stats": "131 points · 55 comments"
+        "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+        "title": "Designing APIs for Agents",
+        "description": "Good design for agents is not the same as good design for humans.",
+        "image": "https://www.freestyle.sh/og/opinion/designing-apis-for-agents.png",
+        "source": "freestyle.sh",
+        "stats": "63 points · 36 comments"
       }
     ],
     "2026-07-12": [
       {
-        "url": "https://github.com/juggler-ai/juggler",
-        "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-        "description": "The Juggler Code Agent. Contribute to juggler-ai/juggler development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/1f6722ae7e0e96ef4e1c6c208026971c59e079286524489cfd5fe6c7acb5df24/juggler-ai/juggler",
+        "url": "https://github.com/cyrusNuevoDia/capn-hook",
+        "title": "Show HN: Capn-hook for coding agents – don't grep the same mystery twice",
+        "description": "Dynamic memory for coding agents: chart discoveries as you explore, cache-bust when files change - CyrusNuevoDia/capn-hook",
+        "image": "https://opengraph.githubassets.com/74f07a7bf579738ad4e174d098928d31627864996baea29bda3dfe884d9351f9/CyrusNuevoDia/capn-hook",
         "source": "github.com",
-        "stats": "204 points · 86 comments"
+        "stats": "28 points · 5 comments"
       }
     ],
     "2026-07-11": [
@@ -155,16 +165,6 @@
         "image": "https://www.thoughtworks.com/content/dam/thoughtworks/images/illustration/brand/tw_illustration_24.jpg",
         "source": "thoughtworks.com",
         "stats": "124 points · 99 comments"
-      }
-    ],
-    "2026-07-09": [
-      {
-        "url": "https://openai.com/index/gpt-5-6/",
-        "title": "GPT-5.6",
-        "description": "1550 points · 1101 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
       }
     ]
   }
