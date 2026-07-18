@@ -1,64 +1,98 @@
 {
-  "lastUpdated": "2026-07-17T05:17:13.315Z",
+  "lastUpdated": "2026-07-18T04:52:02.157Z",
   "days": {
+    "2026-07-18": [
+      {
+        "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+        "title": "A grumpy screed about AI in software engineering",
+        "description": "A post about how AI slop has completely ovetaken software engineering.",
+        "image": "",
+        "source": "sam.sutch.net",
+        "stats": "50 points · 57 comments"
+      },
+      {
+        "url": "https://twitter.com/claudeai/status/2078302415804379218",
+        "title": "Beginning July 20, Claude Fable 5 will be included in all Max plans",
+        "description": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\n\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nDemand for Fable has been challenging to",
+        "image": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg",
+        "source": "twitter.com",
+        "stats": "13 points · 4 comments"
+      },
+      {
+        "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+        "title": "Nadella Blasts AI Industry's Double Standard",
+        "description": "Microsoft CEO Satya Nadella published a lengthy essay on X titled &quot;The Reverse Information Paradox,&quot; sharply criticizing major AI model providers like…",
+        "image": "https://img.biggo.com/lmIasvR2uSXswqNOmDBwQK1QpfgjGfJTpmwWhtC7qdw/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzQzOGYyOTliLWNhMjMtNDY4ZC1iMzdkLTBmZmUwOWE0Y2E1NV8xNzgzOTUyMDMzX2RlZmF1bHQuanBn.webp",
+        "source": "finance.biggo.com",
+        "stats": "18 points · 4 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+        "title": "Anthropic in early talks with Meta to acquire compute power",
+        "description": "The talks come weeks after Anthropic announced a similar deal with Elon Musk&#x27;s SpaceX to use the computing capacity at its Colossus 1 data center",
+        "image": "https://image.cnbcfm.com/api/v1/image/108269269-1771956501574-gettyimages-2261852583-INDIA_AI_SUMMIT.jpeg?v=1774360265&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "7 points · 2 comments"
+      },
+      {
+        "url": "https://twitter.com/darrenrovell/status/2078207366625964058",
+        "title": "Nvidia CEO Jensen Huang's jacket has sold at Sotheby's for $960k",
+        "description": "Nvidia CEO Jensen Huang’s jacket has sold at Sotheby’s for $960,000. The auction house had a $60,000 high estimate. \n\nDestroys Steve Jobs’ Birkenstocks ($218,000) as the most paid for a piece of CEO apparel.",
+        "image": "https://pbs.twimg.com/media/HNdGlNKWIAA4Y6O.jpg:large",
+        "source": "twitter.com",
+        "stats": "7 points · 2 comments"
+      }
+    ],
     "2026-07-17": [
       {
-        "url": "https://github.com/Robbyant/lingbot-map",
-        "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data - Robbyant/lingbot-map",
-        "image": "https://opengraph.githubassets.com/2474b50723c3bd1a981f36658b74a52563005768802f01fadd2d6d87fbad067f/Robbyant/lingbot-map",
-        "source": "github.com",
-        "stats": "13 points · 0 comments"
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+        "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+        "description": "KAISER PERMANENTE NURSES who answer advice and triage calls say their duty of care for patients is being increasingly threatened by workplace",
+        "image": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1",
+        "source": "localnewsmatters.org",
+        "stats": "392 points · 262 comments"
       },
       {
-        "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-        "title": "OpenAI Staffers Are Funding a Rival Super Pac to Take on Their Boss",
-        "description": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-        "image": "https://media.wired.com/photos/6a554454e782ee66fec754f3/191:100/w_1280,c_limit/OpenAI-Employees-Launch-Super-PAC-to-Push-for-AI-Guardrails-Business-2274040983.jpg",
-        "source": "wired.com",
-        "stats": "6 points · 0 comments"
-      },
-      {
-        "url": "https://www.reddit.com/r/AIDiscussion/s/MxOxble1Kd",
-        "title": "AI Censorship Tested Across India, China, US, and Europe",
-        "description": "4 points · 0 comments",
+        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+        "title": "Apple targets dozens of OpenAI employees with legal letters",
+        "description": "383 points · 332 comments",
         "image": "",
-        "source": "reddit.com",
+        "source": "ft.com",
         "stats": ""
       },
       {
-        "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
-        "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
-        "description": "2 points · 2 comments",
+        "url": "https://stateofopensource.ai/",
+        "title": "The state of open source AI",
+        "description": "399 points · 293 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "stateofopensource.ai",
         "stats": ""
       },
       {
-        "url": "https://www.qolca.org/blog/stop-sending-giant-system-prompts",
-        "title": "Stop sending giant system prompts: treat LLM tokens as a scarce resource",
-        "description": "Most AI products overpay because they stuff everything into one enormous prompt and send it to the most expensive model on every request. The fix is not a cheaper vendor. It is treating tokens like a scarce resource: decompose the flow, retrieve instead of context-stuffing, cache the static parts, and reserve the expensive model for the one step that needs it.",
-        "image": "https://www.qolca.org/logo.png",
-        "source": "qolca.org",
-        "stats": "3 points · 0 comments"
+        "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+        "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+        "description": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their “most capable model to date, with 2.8 trillion parameters”. It’s currently available via their website and …",
+        "image": "https://static.simonwillison.net/static/2026/kimi-3-pelican.jpg",
+        "source": "simonwillison.net",
+        "stats": "296 points · 158 comments"
+      },
+      {
+        "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+        "title": "Claude Code: Anatomy of a Misfeature",
+        "description": "On Canada Day (July 1), 2026, Anthropic shipped a surprising ",
+        "image": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/featured.jpeg",
+        "source": "olafalders.com",
+        "stats": "136 points · 117 comments"
       }
     ],
     "2026-07-16": [
-      {
-        "url": "https://joinedanthropic.com",
-        "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
-        "description": "A chronological ledger of 105 YC founders connected to OpenAI or Anthropic, from their earliest YC batches to where they went next.",
-        "image": "",
-        "source": "joinedanthropic.com",
-        "stats": "295 points · 212 comments"
-      },
       {
         "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
         "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
         "description": "We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.",
         "image": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
         "source": "tryai.dev",
-        "stats": "198 points · 232 comments"
+        "stats": "385 points · 520 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
@@ -66,7 +100,15 @@
         "description": "NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.width-1300.png",
         "source": "blog.google",
-        "stats": "277 points · 141 comments"
+        "stats": "364 points · 179 comments"
+      },
+      {
+        "url": "https://joinedanthropic.com",
+        "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
+        "description": "A chronological ledger of 105 YC founders connected to OpenAI or Anthropic, from their earliest YC batches to where they went next.",
+        "image": "",
+        "source": "joinedanthropic.com",
+        "stats": "302 points · 217 comments"
       },
       {
         "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
@@ -74,7 +116,7 @@
         "description": "The AI agent made for open models, built to get things done.",
         "image": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
         "source": "lmstudio.ai",
-        "stats": "195 points · 71 comments"
+        "stats": "319 points · 126 comments"
       },
       {
         "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
@@ -82,7 +124,7 @@
         "description": "I almost agree with all of the LLM critics, yet I still use LLMs a lot. I know this sounds like I am delusional, but I don",
         "image": "https://www.theocharis.dev/jeremy-headshot.png",
         "source": "theocharis.dev",
-        "stats": "208 points · 210 comments"
+        "stats": "289 points · 290 comments"
       }
     ],
     "2026-07-15": [
@@ -187,16 +229,6 @@
         "image": "https://opengraph.githubassets.com/74f07a7bf579738ad4e174d098928d31627864996baea29bda3dfe884d9351f9/CyrusNuevoDia/capn-hook",
         "source": "github.com",
         "stats": "28 points · 5 comments"
-      }
-    ],
-    "2026-07-11": [
-      {
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-        "title": "Stop Telling Me to Ask an LLM",
-        "description": "I already did.",
-        "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTc4MzU0Nzk3OXww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "blog.yaelwrites.com",
-        "stats": "237 points · 135 comments"
       }
     ]
   }
