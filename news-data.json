@@ -1,64 +1,114 @@
 {
-  "lastUpdated": "2026-07-19T05:26:06.107Z",
+  "lastUpdated": "2026-07-20T05:43:41.658Z",
   "days": {
+    "2026-07-20": [
+      {
+        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+        "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+        "description": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determinant -2, and sends (0, 0, -1/4), (1, -3/2, 13/2), and (-1, 3/2, 13/2) to (-1/4, 0, 0)",
+        "image": "",
+        "source": "xcancel.com",
+        "stats": "196 points · 106 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+        "description": "16 points · 5 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
+        "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
+        "description": "Waves of layoffs and growing pressure to automate jobs are creating existential panic in the tech industry. Economists say other white-collar workers are next.",
+        "image": "https://www.adn.com/resizer/v2/PSCX5EYNPFQEXCOMPQPJZGOE3Q.jpg?smart=true&amp;auth=1e94916ca9aad588d3e77b02f8ee8d1af8a04073e6069d17c9f1ceab7b54b77f&amp;width=1200&amp;height=630",
+        "source": "adn.com",
+        "stats": "9 points · 3 comments"
+      },
+      {
+        "url": "https://twitter.com/__alpoge__/status/2079028340955197566",
+        "title": "Tweet claiming Claude Fable 5 has helped disprove the Jacobian conjecture",
+        "description": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3,",
+        "image": "https://pbs.twimg.com/profile_images/1824948681877155840/VqVHY3gF_200x200.jpg",
+        "source": "twitter.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://growtika.com/blog/reddit-ai-visibility-research",
+        "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+        "description": "6 points · 0 comments",
+        "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/07408b95-8a24-4e65-9623-bb0b7195a764/id-preview-6f7d7a9f--405bda5b-0825-4669-8943-05d20e381ef2.lovable.app-1784501370355.png",
+        "source": "growtika.com",
+        "stats": ""
+      }
+    ],
     "2026-07-19": [
+      {
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "title": "Claude Code uses Bun written in Rust now",
+        "description": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on …",
+        "image": "",
+        "source": "simonwillison.net",
+        "stats": "455 points · 613 comments"
+      },
+      {
+        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+        "title": "AI advice made people less accurate but more confident – sudy",
+        "description": "A study found that access to AI advice collapsed people&#039;s willingness to say &quot;I don&#039;t know&quot; from 44% to 3%, while accuracy dropped from 27% to 9%.",
+        "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
+        "source": "thenextweb.com",
+        "stats": "317 points · 181 comments"
+      },
+      {
+        "url": "https://github.com/openai/codex/pull/33972/files",
+        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "description": "Summary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, perm...",
+        "image": "https://avatars.githubusercontent.com/u/244841968?s=400&amp;v=4",
+        "source": "github.com",
+        "stats": "336 points · 156 comments"
+      },
       {
         "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
         "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "description": "112 points · 46 comments",
+        "description": "392 points · 245 comments",
         "image": "",
         "source": "ludic.mataroa.blog",
         "stats": ""
       },
       {
-        "url": "https://calculus.academa.ai/",
-        "title": "LLM-Integrated Multivariable Calculus Course",
-        "description": "The world",
-        "image": "https://calculus.academa.ai/og/vectors?locale=en",
-        "source": "calculus.academa.ai",
-        "stats": "26 points · 20 comments"
-      },
-      {
-        "url": "https://github.com/agentty-xyz/agentty",
-        "title": "Agentty ADE: reliable L2 multi-agent orchestrator",
-        "description": "Agentic Development Environment (ADE) in your terminal - agentty-xyz/agentty",
-        "image": "https://opengraph.githubassets.com/b83f92001448c5f4b564c21e135b7a4ac2d18b426ce8989e9ff58e8e01469a80/agentty-xyz/agentty",
-        "source": "github.com",
-        "stats": "5 points · 5 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=48964237",
-        "title": "Claude Is Painful",
-        "description": "5 points · 4 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222",
-        "title": "Disney Has Started Feeding Your Kids AI Slop",
-        "description": "Bluey who?",
-        "image": "https://kotaku.com/app/uploads/2026/07/foxy-ai-disney.jpg",
-        "source": "kotaku.com",
-        "stats": "6 points · 0 comments"
+        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "description": "Kimi K3 has received far more love than we expected, and our GPUs are feeling it.\n\nOver the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we&#x27;re temporarily pausing new subscriptions and",
+        "image": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_200x200.png",
+        "source": "twitter.com",
+        "stats": "246 points · 103 comments"
       }
     ],
     "2026-07-18": [
       {
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "description": "531 points · 343 comments",
+        "description": "585 points · 385 comments",
         "image": "",
         "source": "old.reddit.com",
         "stats": ""
       },
       {
         "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-        "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+        "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
         "description": "No more AI-edited listings without disclosures.",
         "image": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg",
         "source": "petapixel.com",
-        "stats": "369 points · 164 comments"
+        "stats": "571 points · 260 comments"
+      },
+      {
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+        "title": "What AI did to stackoverflow in a graph",
+        "description": "453 points · 550 comments",
+        "image": "",
+        "source": "data.stackexchange.com",
+        "stats": ""
       },
       {
         "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
@@ -66,15 +116,7 @@
         "description": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.",
         "image": "https://velvetshark.com/images/ai-company-logos-that-look-like-buttholes/why-do-AI-company-logos-look-like-buttholes.png",
         "source": "velvetshark.com",
-        "stats": "419 points · 139 comments"
-      },
-      {
-        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-        "title": "What AI did to stackoverflow in a graph",
-        "description": "390 points · 484 comments",
-        "image": "",
-        "source": "data.stackexchange.com",
-        "stats": ""
+        "stats": "443 points · 146 comments"
       },
       {
         "url": "https://ykdojo.github.io/claude-controls-mac/",
@@ -82,7 +124,7 @@
         "description": "Step-by-step guide to turning your spare Mac into an always-on machine Claude Code can fully control - talk to it from your phone through the Claude app or from your main Mac over SSH.",
         "image": "",
         "source": "ykdojo.github.io",
-        "stats": "207 points · 140 comments"
+        "stats": "245 points · 179 comments"
       }
     ],
     "2026-07-17": [
@@ -129,46 +171,22 @@
     ],
     "2026-07-16": [
       {
-        "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-        "description": "We gave Claude Fable 5 and GPT-5.6 Sol the same song, a budget, web search, and local ffmpeg, then let each autonomously direct a music video.",
-        "image": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
-        "source": "tryai.dev",
-        "stats": "396 points · 528 comments"
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-        "title": "NotebookLM is now Gemini Notebook",
-        "description": "NotebookLM is now Gemini Notebook: the same standalone product with deeper Google integration and a secure cloud computer.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.width-1300.png",
-        "source": "blog.google",
-        "stats": "368 points · 185 comments"
-      },
-      {
         "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
         "title": "The LLM Critics Are Right. I Use LLMs Anyway",
         "description": "I almost agree with all of the LLM critics, yet I still use LLMs a lot. I know this sounds like I am delusional, but I don",
         "image": "https://www.theocharis.dev/jeremy-headshot.png",
         "source": "theocharis.dev",
-        "stats": "307 points · 304 comments"
-      },
-      {
-        "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-        "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-        "description": "163 points · 84 comments",
-        "image": "",
-        "source": "zhinit.dev",
-        "stats": ""
+        "stats": "309 points · 305 comments"
       }
     ],
     "2026-07-15": [
       {
-        "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
-        "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-        "description": "Karpathy&#39;s nanochat normally runs on an 8×H100 GPU node, and several ports of it to JAX already exist. Among them, my aim was to keep the config and architecture as close to nanochat as possible (p...",
-        "image": "https://opengraph.githubassets.com/de43fcbbeaf6e1c7f1cc6034dd4ce122a483350ea5b06e6051f278eff165c237/tucan9389/nanochat-jax/discussions/1",
+        "url": "https://github.com/loopgain-ai/loopgain",
+        "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
+        "description": "An open-source cost controller for AI agent loops — stops a loop when it&amp;#39;s actually converged and rolls back before it degrades, instead of running to a fixed max_iterations cap. Real-time loop...",
+        "image": "https://opengraph.githubassets.com/69c823bff918046ca0e95607b77cf637970169fe089289c017fe0727dff7ff00/loopgain-ai/loopgain",
         "source": "github.com",
-        "stats": "53 points · 9 comments"
+        "stats": "29 points · 12 comments"
       }
     ],
     "2026-07-14": [
@@ -211,16 +229,6 @@
         "image": "",
         "source": "jacobfilipp.com",
         "stats": ""
-      }
-    ],
-    "2026-07-13": [
-      {
-        "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-        "title": "Designing APIs for Agents",
-        "description": "Good design for agents is not the same as good design for humans.",
-        "image": "https://www.freestyle.sh/og/opinion/designing-apis-for-agents.png",
-        "source": "freestyle.sh",
-        "stats": "63 points · 36 comments"
       }
     ]
   }
