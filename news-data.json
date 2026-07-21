@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-20T05:43:41.658Z",
+  "lastUpdated": "2026-07-21T05:24:35.888Z",
   "days": {
+    "2026-07-21": [
+      {
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "description": "Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F9%2F9%2F12819974-2-eng-GB%2F04ab7b8b57e0-photo_SXM2026071800000547.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
+        "source": "asia.nikkei.com",
+        "stats": "84 points · 14 comments"
+      },
+      {
+        "url": "https://portraify.app",
+        "title": "Show HN: Turn casual photos into professional headshots with AI",
+        "description": "Turn casual photos into professional headshots with AI. Fast, private, no studio required.",
+        "image": "https://portraify.app/og.png",
+        "source": "portraify.app",
+        "stats": "6 points · 7 comments"
+      },
+      {
+        "url": "https://www.thedial.world/articles/news/copyright-law-ai-intellectual-property",
+        "title": "Writers need new strategies to stand up to AI",
+        "description": "Why writers need new strategies to stand up to AI.",
+        "image": "http://static1.squarespace.com/static/6317a497832bf15c3b30f236/t/6a4a27aff8f57e1a9469f659/1783244719194/July2026_AI+copyright_banner.png?format=1500w",
+        "source": "thedial.world",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+        "title": "Hugging Face warns an autonomous AI agent hacked its network",
+        "description": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system.",
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/Hugging-Face-headpic.jpg",
+        "source": "bleepingcomputer.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
+        "title": "Gary Marcus: US won't \"win\" AI war with China. What we should do instead.",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "garymarcus.substack.com",
+        "stats": ""
+      }
+    ],
     "2026-07-20": [
+      {
+        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+        "title": "China’s open-weights AI strategy is winning",
+        "description": "China&#x27;s open-weights AI strategy is winning: its companies are taking the lead. America&#x27;s closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.",
+        "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "werd.io",
+        "stats": "1030 points · 817 comments"
+      },
       {
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "description": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determinant -2, and sends (0, 0, -1/4), (1, -3/2, 13/2), and (-1, 3/2, 13/2) to (-1/4, 0, 0)",
         "image": "",
         "source": "xcancel.com",
-        "stats": "196 points · 106 comments"
+        "stats": "720 points · 453 comments"
       },
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
-        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
-        "description": "16 points · 5 comments",
+        "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+        "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+        "description": "Kimi K3 and Qwen 3.8 prove open models can reach the frontier. Why the economics of frontier labs favor infrastructure owners — and why Anthropic&#x27;s model-only position risks unravelling.",
+        "image": "https://www.emergingtrajectories.com/assets/677d5ee3d185dd5dede0a75e/67a0d0ade0b78706efd6a5d8_heropink.png",
+        "source": "emergingtrajectories.com",
+        "stats": "321 points · 302 comments"
+      },
+      {
+        "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+        "title": "I found a WordPress RCEs with GPT5.6 and $25",
+        "description": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you&#039;re running WordPress and want to check if your instance is vulnerable, you can use our tool we&#039;ve hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during",
+        "image": "https://slcyber.io/wp-content/uploads/2026/07/Searchlight-Security-Research_Social_Dark_General.webp",
+        "source": "slcyber.io",
+        "stats": "388 points · 212 comments"
+      },
+      {
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+        "description": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.",
         "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
-        "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
-        "description": "Waves of layoffs and growing pressure to automate jobs are creating existential panic in the tech industry. Economists say other white-collar workers are next.",
-        "image": "https://www.adn.com/resizer/v2/PSCX5EYNPFQEXCOMPQPJZGOE3Q.jpg?smart=true&amp;auth=1e94916ca9aad588d3e77b02f8ee8d1af8a04073e6069d17c9f1ceab7b54b77f&amp;width=1200&amp;height=630",
-        "source": "adn.com",
-        "stats": "9 points · 3 comments"
-      },
-      {
-        "url": "https://twitter.com/__alpoge__/status/2079028340955197566",
-        "title": "Tweet claiming Claude Fable 5 has helped disprove the Jacobian conjecture",
-        "description": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3,",
-        "image": "https://pbs.twimg.com/profile_images/1824948681877155840/VqVHY3gF_200x200.jpg",
-        "source": "twitter.com",
-        "stats": "6 points · 2 comments"
-      },
-      {
-        "url": "https://growtika.com/blog/reddit-ai-visibility-research",
-        "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
-        "description": "6 points · 0 comments",
-        "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/07408b95-8a24-4e65-9623-bb0b7195a764/id-preview-6f7d7a9f--405bda5b-0825-4669-8943-05d20e381ef2.lovable.app-1784501370355.png",
-        "source": "growtika.com",
-        "stats": ""
+        "source": "unslop.run",
+        "stats": "203 points · 149 comments"
       }
     ],
     "2026-07-19": [
@@ -50,15 +92,7 @@
         "description": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "455 points · 613 comments"
-      },
-      {
-        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-        "title": "AI advice made people less accurate but more confident – sudy",
-        "description": "A study found that access to AI advice collapsed people&#039;s willingness to say &quot;I don&#039;t know&quot; from 44% to 3%, while accuracy dropped from 27% to 9%.",
-        "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
-        "source": "thenextweb.com",
-        "stats": "317 points · 181 comments"
+        "stats": "595 points · 820 comments"
       },
       {
         "url": "https://github.com/openai/codex/pull/33972/files",
@@ -66,15 +100,15 @@
         "description": "Summary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, perm...",
         "image": "https://avatars.githubusercontent.com/u/244841968?s=400&amp;v=4",
         "source": "github.com",
-        "stats": "336 points · 156 comments"
+        "stats": "367 points · 162 comments"
       },
       {
-        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-        "title": "AI Mania Is Eviscerating Global Decision-Making",
-        "description": "392 points · 245 comments",
-        "image": "",
-        "source": "ludic.mataroa.blog",
-        "stats": ""
+        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+        "title": "AI advice made people less accurate but more confident – sudy",
+        "description": "A study found that access to AI advice collapsed people&#039;s willingness to say &quot;I don&#039;t know&quot; from 44% to 3%, while accuracy dropped from 27% to 9%.",
+        "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
+        "source": "thenextweb.com",
+        "stats": "359 points · 207 comments"
       },
       {
         "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
@@ -82,7 +116,15 @@
         "description": "Kimi K3 has received far more love than we expected, and our GPUs are feeling it.\n\nOver the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we&#x27;re temporarily pausing new subscriptions and",
         "image": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_200x200.png",
         "source": "twitter.com",
-        "stats": "246 points · 103 comments"
+        "stats": "283 points · 110 comments"
+      },
+      {
+        "url": "https://ollama.com/blog/all-aboard-open-models",
+        "title": "Ollama: All Aboard Open Models",
+        "description": "Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.",
+        "image": "https://ollama.com/public/og.png",
+        "source": "ollama.com",
+        "stats": "136 points · 57 comments"
       }
     ],
     "2026-07-18": [
@@ -171,12 +213,12 @@
     ],
     "2026-07-16": [
       {
-        "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-        "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-        "description": "I almost agree with all of the LLM critics, yet I still use LLMs a lot. I know this sounds like I am delusional, but I don",
-        "image": "https://www.theocharis.dev/jeremy-headshot.png",
-        "source": "theocharis.dev",
-        "stats": "309 points · 305 comments"
+        "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+        "title": "1-Bit LLM in the Browser",
+        "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
+        "image": "https://cdn-uploads.huggingface.co/production/uploads/61b253b7ac5ecaae3d1efe0c/L3a8EbjXSSJX_cJvRl6S3.png",
+        "source": "huggingface.co",
+        "stats": "113 points · 46 comments"
       }
     ],
     "2026-07-15": [
@@ -187,48 +229,6 @@
         "image": "https://opengraph.githubassets.com/69c823bff918046ca0e95607b77cf637970169fe089289c017fe0727dff7ff00/loopgain-ai/loopgain",
         "source": "github.com",
         "stats": "29 points · 12 comments"
-      }
-    ],
-    "2026-07-14": [
-      {
-        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-        "title": "How to stop Claude from saying load-bearing",
-        "description": "Hack the text output of Claude Code to make life a little bit sillier.",
-        "image": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png",
-        "source": "jola.dev",
-        "stats": "593 points · 601 comments"
-      },
-      {
-        "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-        "title": "Are we offloading too much of our thinking to AI?",
-        "description": "Reflections on autonomy and the value of thinking for ourselves",
-        "image": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp",
-        "source": "artfish.ai",
-        "stats": "513 points · 473 comments"
-      },
-      {
-        "url": "https://github.com/openai/codex/issues/28058",
-        "title": "Codex starts encrypting sub-agent prompts",
-        "description": "What version of Codex CLI is running? Upstream main after #26210 (Encrypt multi-agent v2 message payloads, merged 2026-06-05). This appears to affect versions that include that change and enable Mu...",
-        "image": "https://opengraph.githubassets.com/0a841c63b47b4ec497a6a4d32369844b0545bdba4ed9346bb7e1868fcfd1eea7/openai/codex/issues/28058",
-        "source": "github.com",
-        "stats": "423 points · 250 comments"
-      },
-      {
-        "url": "https://www.bis.org/publ/bisbull120.pdf",
-        "title": "Financing the AI boom: from cash flows to debt [pdf]",
-        "description": "164 points · 106 comments",
-        "image": "",
-        "source": "bis.org",
-        "stats": ""
-      },
-      {
-        "url": "https://jacobfilipp.com/care/",
-        "title": "Proof of care in the age of AI",
-        "description": "185 points · 110 comments",
-        "image": "",
-        "source": "jacobfilipp.com",
-        "stats": ""
       }
     ]
   }
