@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-21T05:24:35.888Z",
+  "lastUpdated": "2026-07-22T05:23:01.684Z",
   "days": {
+    "2026-07-22": [
+      {
+        "url": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
+        "title": "How Anthropic runs large-scale code migrations with Claude Code",
+        "description": "https://t.co/rx3FQSosu0",
+        "image": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_200x200.png",
+        "source": "twitter.com",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+        "title": "The AI Bubble Is No Ordinary Bubble",
+        "description": "Tech companies need to generate huge revenues fast, or the economy could be in trouble.",
+        "image": "https://cdn.theatlantic.com/thumbor/m1f_v5YxaNVdbwkEWHIJu89udCs=/0x33:3715x1968/1200x625/media/img/mt/2026/07/2026_07_22_Why_the_AI_Bubble_Is_Totally_Different_Annie_Lowrey/original.jpg",
+        "source": "theatlantic.com",
+        "stats": "6 points · 3 comments"
+      },
+      {
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "title": "Terry Tao's ChatGPT Session about the Jacobian Conjecture",
+        "description": "Here&#x27;s a chat someone thought you&#x27;d want to see.",
+        "image": "https://cdn.openai.com/chatgpt/share-og.png",
+        "source": "chatgpt.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec",
+        "title": "Samsung in talks to invest in Mistral at €20B valuation",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
+        "title": "AI's solution to 87-year-old riddle takes mathematicians by surprise",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "newscientist.com",
+        "stats": ""
+      }
+    ],
     "2026-07-21": [
       {
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "description": "Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F9%2F9%2F12819974-2-eng-GB%2F04ab7b8b57e0-photo_SXM2026071800000547.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630",
-        "source": "asia.nikkei.com",
-        "stats": "84 points · 14 comments"
-      },
-      {
-        "url": "https://portraify.app",
-        "title": "Show HN: Turn casual photos into professional headshots with AI",
-        "description": "Turn casual photos into professional headshots with AI. Fast, private, no studio required.",
-        "image": "https://portraify.app/og.png",
-        "source": "portraify.app",
-        "stats": "6 points · 7 comments"
-      },
-      {
-        "url": "https://www.thedial.world/articles/news/copyright-law-ai-intellectual-property",
-        "title": "Writers need new strategies to stand up to AI",
-        "description": "Why writers need new strategies to stand up to AI.",
-        "image": "http://static1.squarespace.com/static/6317a497832bf15c3b30f236/t/6a4a27aff8f57e1a9469f659/1783244719194/July2026_AI+copyright_banner.png?format=1500w",
-        "source": "thedial.world",
-        "stats": "6 points · 0 comments"
-      },
-      {
-        "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-        "title": "Hugging Face warns an autonomous AI agent hacked its network",
-        "description": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system.",
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/Hugging-Face-headpic.jpg",
-        "source": "bleepingcomputer.com",
-        "stats": "6 points · 0 comments"
-      },
-      {
-        "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
-        "title": "Gary Marcus: US won't \"win\" AI war with China. What we should do instead.",
-        "description": "5 points · 0 comments",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "description": "898 points · 634 comments",
         "image": "",
-        "source": "garymarcus.substack.com",
+        "source": "openai.com",
         "stats": ""
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
+        "source": "blog.google",
+        "stats": "645 points · 511 comments"
+      },
+      {
+        "url": "https://ads.openai.com/",
+        "title": "Advertise in ChatGPT",
+        "description": "545 points · 409 comments",
+        "image": "",
+        "source": "ads.openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+        "description": "A federal judge has approved a $1.5 billion copyright settlement involving AI company Anthropic. The company will pay thousands of authors about $3,000 per book for using pirated copies to train its Claude chatbot.",
+        "image": "https://dims.apnews.com/dims4/default/fe6d93f/2147483647/strip/true/crop/7105x4734+0+170/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F02%2F03fe2aab40cb16ec606291293712%2F3ac9a8e98cd0455f980d89ba81ec27a4",
+        "source": "apnews.com",
+        "stats": "221 points · 160 comments"
+      },
+      {
+        "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+        "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+        "description": "Four frontier models, a blank canvas, and colored pencils. We tracked every stroke, dollar, and output as they tried to draw the Mona Lisa.",
+        "image": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358",
+        "source": "tryai.dev",
+        "stats": "152 points · 52 comments"
       }
     ],
     "2026-07-20": [
@@ -50,15 +92,7 @@
         "description": "China&#x27;s open-weights AI strategy is winning: its companies are taking the lead. America&#x27;s closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.",
         "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
         "source": "werd.io",
-        "stats": "1030 points · 817 comments"
-      },
-      {
-        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-        "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-        "description": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determinant -2, and sends (0, 0, -1/4), (1, -3/2, 13/2), and (-1, 3/2, 13/2) to (-1/4, 0, 0)",
-        "image": "",
-        "source": "xcancel.com",
-        "stats": "720 points · 453 comments"
+        "stats": "1216 points · 921 comments"
       },
       {
         "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
@@ -66,7 +100,7 @@
         "description": "Kimi K3 and Qwen 3.8 prove open models can reach the frontier. Why the economics of frontier labs favor infrastructure owners — and why Anthropic&#x27;s model-only position risks unravelling.",
         "image": "https://www.emergingtrajectories.com/assets/677d5ee3d185dd5dede0a75e/67a0d0ade0b78706efd6a5d8_heropink.png",
         "source": "emergingtrajectories.com",
-        "stats": "321 points · 302 comments"
+        "stats": "363 points · 333 comments"
       },
       {
         "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
@@ -74,7 +108,15 @@
         "description": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you&#039;re running WordPress and want to check if your instance is vulnerable, you can use our tool we&#039;ve hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during",
         "image": "https://slcyber.io/wp-content/uploads/2026/07/Searchlight-Security-Research_Social_Dark_General.webp",
         "source": "slcyber.io",
-        "stats": "388 points · 212 comments"
+        "stats": "401 points · 224 comments"
+      },
+      {
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "title": "Agent swarms and the new model economics",
+        "description": "We compared old and new agent swarms building SQLite from scratch and found that better coordination delivers similar quality at a fraction of the cost.",
+        "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/swarm-og.png",
+        "source": "cursor.com",
+        "stats": "270 points · 135 comments"
       },
       {
         "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
@@ -82,7 +124,7 @@
         "description": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.",
         "image": "",
         "source": "unslop.run",
-        "stats": "203 points · 149 comments"
+        "stats": "240 points · 165 comments"
       }
     ],
     "2026-07-19": [
@@ -219,16 +261,6 @@
         "image": "https://cdn-uploads.huggingface.co/production/uploads/61b253b7ac5ecaae3d1efe0c/L3a8EbjXSSJX_cJvRl6S3.png",
         "source": "huggingface.co",
         "stats": "113 points · 46 comments"
-      }
-    ],
-    "2026-07-15": [
-      {
-        "url": "https://github.com/loopgain-ai/loopgain",
-        "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
-        "description": "An open-source cost controller for AI agent loops — stops a loop when it&amp;#39;s actually converged and rolls back before it degrades, instead of running to a fixed max_iterations cap. Real-time loop...",
-        "image": "https://opengraph.githubassets.com/69c823bff918046ca0e95607b77cf637970169fe089289c017fe0727dff7ff00/loopgain-ai/loopgain",
-        "source": "github.com",
-        "stats": "29 points · 12 comments"
       }
     ]
   }
