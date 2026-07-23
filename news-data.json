@@ -1,55 +1,105 @@
 {
-  "lastUpdated": "2026-07-22T05:23:01.684Z",
+  "lastUpdated": "2026-07-23T05:29:08.952Z",
   "days": {
+    "2026-07-23": [
+      {
+        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+        "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+        "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model’s guardrail features turned off. Rather than solve the test, the …",
+        "image": "",
+        "source": "simonwillison.net",
+        "stats": "81 points · 74 comments"
+      },
+      {
+        "url": "https://petals.dev/",
+        "title": "Petals: Run LLMs at home, BitTorrent-style",
+        "description": "86 points · 28 comments",
+        "image": "",
+        "source": "petals.dev",
+        "stats": ""
+      },
+      {
+        "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
+        "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
+        "description": "7 points · 0 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+        "title": "Protecting our FLOSS commons from LLMs",
+        "description": ".codeberg-design ul { padding-left: revert !important; } In Brief: Two...",
+        "image": "",
+        "source": "blog.codeberg.org",
+        "stats": "9 points · 0 comments"
+      },
+      {
+        "url": "https://www.economist.com/science-and-technology/2026/07/22/why-the-openai-escape-is-the-most-worrying-ai-mishap-yet",
+        "title": "Why the OpenAI escape is the most worrying AI mishap yet",
+        "description": "5 points · 3 comments",
+        "image": "",
+        "source": "economist.com",
+        "stats": ""
+      }
+    ],
     "2026-07-22": [
       {
-        "url": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
-        "title": "How Anthropic runs large-scale code migrations with Claude Code",
-        "description": "https://t.co/rx3FQSosu0",
-        "image": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_200x200.png",
-        "source": "twitter.com",
-        "stats": "3 points · 1 comments"
-      },
-      {
-        "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
-        "title": "The AI Bubble Is No Ordinary Bubble",
-        "description": "Tech companies need to generate huge revenues fast, or the economy could be in trouble.",
-        "image": "https://cdn.theatlantic.com/thumbor/m1f_v5YxaNVdbwkEWHIJu89udCs=/0x33:3715x1968/1200x625/media/img/mt/2026/07/2026_07_22_Why_the_AI_Bubble_Is_Totally_Different_Annie_Lowrey/original.jpg",
-        "source": "theatlantic.com",
-        "stats": "6 points · 3 comments"
-      },
-      {
         "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-        "title": "Terry Tao's ChatGPT Session about the Jacobian Conjecture",
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
         "description": "Here&#x27;s a chat someone thought you&#x27;d want to see.",
         "image": "https://cdn.openai.com/chatgpt/share-og.png",
         "source": "chatgpt.com",
-        "stats": "3 points · 0 comments"
+        "stats": "729 points · 437 comments"
       },
       {
-        "url": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec",
-        "title": "Samsung in talks to invest in Mistral at €20B valuation",
-        "description": "3 points · 0 comments",
+        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "title": "Are AI labs pelicanmaxxing?",
+        "description": "I generated 1,000+ SVGs across 7 frontier models to test whether AI labs are training on Simon Willison’s pelican-riding-a-bicycle benchmark.",
+        "image": "https://dylancastillo.co/posts/images/social_media_card.webp",
+        "source": "dylancastillo.co",
+        "stats": "447 points · 174 comments"
+      },
+      {
+        "url": "https://github.com/marcelroed/gigatoken/",
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "description": "Language model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/c500f0fd4b3812c173bf9b5adef649696d39c9fef16a257b52cb884e58f323f7/marcelroed/gigatoken",
+        "source": "github.com",
+        "stats": "425 points · 86 comments"
+      },
+      {
+        "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+        "title": "Quality non-fiction books are the antithesis of AI slop",
+        "description": "255 points · 97 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "resobscura.substack.com",
         "stats": ""
       },
       {
-        "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
-        "title": "AI's solution to 87-year-old riddle takes mathematicians by surprise",
-        "description": "3 points · 0 comments",
-        "image": "",
-        "source": "newscientist.com",
-        "stats": ""
+        "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+        "title": "Businesses with ugly AI menu redesigns",
+        "description": "I like supporting local businesses but it&#x27;s so disheartening to see the increasing use of genAI in their branding/marketing/etc. Yuck yuck YUCK!!!",
+        "image": "https://blog.fiddery.com/static/og-image.png",
+        "source": "blog.fiddery.com",
+        "stats": "221 points · 163 comments"
       }
     ],
     "2026-07-21": [
       {
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "title": "OpenAI and Hugging Face address security incident during model evaluation",
-        "description": "898 points · 634 comments",
+        "description": "1564 points · 1097 comments",
         "image": "",
         "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://ads.openai.com/",
+        "title": "Advertise in ChatGPT",
+        "description": "1060 points · 827 comments",
+        "image": "",
+        "source": "ads.openai.com",
         "stats": ""
       },
       {
@@ -58,15 +108,7 @@
         "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
         "source": "blog.google",
-        "stats": "645 points · 511 comments"
-      },
-      {
-        "url": "https://ads.openai.com/",
-        "title": "Advertise in ChatGPT",
-        "description": "545 points · 409 comments",
-        "image": "",
-        "source": "ads.openai.com",
-        "stats": ""
+        "stats": "743 points · 566 comments"
       },
       {
         "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
@@ -74,7 +116,7 @@
         "description": "A federal judge has approved a $1.5 billion copyright settlement involving AI company Anthropic. The company will pay thousands of authors about $3,000 per book for using pirated copies to train its Claude chatbot.",
         "image": "https://dims.apnews.com/dims4/default/fe6d93f/2147483647/strip/true/crop/7105x4734+0+170/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F02%2F03fe2aab40cb16ec606291293712%2F3ac9a8e98cd0455f980d89ba81ec27a4",
         "source": "apnews.com",
-        "stats": "221 points · 160 comments"
+        "stats": "550 points · 569 comments"
       },
       {
         "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
@@ -82,91 +124,27 @@
         "description": "Four frontier models, a blank canvas, and colored pencils. We tracked every stroke, dollar, and output as they tried to draw the Mona Lisa.",
         "image": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358",
         "source": "tryai.dev",
-        "stats": "152 points · 52 comments"
+        "stats": "247 points · 103 comments"
       }
     ],
     "2026-07-20": [
       {
-        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-        "title": "China’s open-weights AI strategy is winning",
-        "description": "China&#x27;s open-weights AI strategy is winning: its companies are taking the lead. America&#x27;s closed-first, locked-down strategy is doomed to failure - and it could take the US economy down with it.",
-        "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "werd.io",
-        "stats": "1216 points · 921 comments"
-      },
-      {
-        "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-        "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-        "description": "Kimi K3 and Qwen 3.8 prove open models can reach the frontier. Why the economics of frontier labs favor infrastructure owners — and why Anthropic&#x27;s model-only position risks unravelling.",
-        "image": "https://www.emergingtrajectories.com/assets/677d5ee3d185dd5dede0a75e/67a0d0ade0b78706efd6a5d8_heropink.png",
-        "source": "emergingtrajectories.com",
-        "stats": "363 points · 333 comments"
-      },
-      {
-        "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-        "title": "I found a WordPress RCEs with GPT5.6 and $25",
-        "description": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you&#039;re running WordPress and want to check if your instance is vulnerable, you can use our tool we&#039;ve hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during",
-        "image": "https://slcyber.io/wp-content/uploads/2026/07/Searchlight-Security-Research_Social_Dark_General.webp",
-        "source": "slcyber.io",
-        "stats": "401 points · 224 comments"
-      },
-      {
-        "url": "https://cursor.com/blog/agent-swarm-model-economics",
-        "title": "Agent swarms and the new model economics",
-        "description": "We compared old and new agent swarms building SQLite from scratch and found that better coordination delivers similar quality at a fraction of the cost.",
-        "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/swarm-og.png",
-        "source": "cursor.com",
-        "stats": "270 points · 135 comments"
-      },
-      {
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-        "description": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.",
-        "image": "",
-        "source": "unslop.run",
-        "stats": "240 points · 165 comments"
+        "url": "https://deepsql.ai/",
+        "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+        "description": "DeepSQL is a 24/7 DBA that cuts database cost: rewrites slow queries, recommends indexes and materialized views, and ships context-aware SQL through Claude MCP, Codex, CLI, and Slack.",
+        "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/25bf4951-bced-4319-88e5-59f1f808a9db/id-preview-3f071886--adb44615-e209-47a5-a098-471bf2988a04.lovable.app-1784752983290.png",
+        "source": "deepsql.ai",
+        "stats": "46 points · 25 comments"
       }
     ],
     "2026-07-19": [
       {
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "title": "Claude Code uses Bun written in Rust now",
-        "description": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on …",
-        "image": "",
-        "source": "simonwillison.net",
-        "stats": "595 points · 820 comments"
-      },
-      {
-        "url": "https://github.com/openai/codex/pull/33972/files",
-        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-        "description": "Summary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, perm...",
-        "image": "https://avatars.githubusercontent.com/u/244841968?s=400&amp;v=4",
-        "source": "github.com",
-        "stats": "367 points · 162 comments"
-      },
-      {
-        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-        "title": "AI advice made people less accurate but more confident – sudy",
-        "description": "A study found that access to AI advice collapsed people&#039;s willingness to say &quot;I don&#039;t know&quot; from 44% to 3%, while accuracy dropped from 27% to 9%.",
-        "image": "https://media.thenextweb.com/2026/07/ai-advice-suppresses-critical-thinking-wrong-answers-study.avif",
-        "source": "thenextweb.com",
-        "stats": "359 points · 207 comments"
-      },
-      {
-        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-        "description": "Kimi K3 has received far more love than we expected, and our GPUs are feeling it.\n\nOver the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we&#x27;re temporarily pausing new subscriptions and",
-        "image": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_200x200.png",
-        "source": "twitter.com",
-        "stats": "283 points · 110 comments"
-      },
-      {
-        "url": "https://ollama.com/blog/all-aboard-open-models",
-        "title": "Ollama: All Aboard Open Models",
-        "description": "Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.",
-        "image": "https://ollama.com/public/og.png",
-        "source": "ollama.com",
-        "stats": "136 points · 57 comments"
+        "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
+        "title": "Nvidia DGX Spark as a daily driver",
+        "description": "I bought an NVIDIA DGX Spark!\nIt&#x27;s actually quite a competent general purpose computer while being super tiny and power efficient.\nIt basically just has an ARM CPU, a decent NVIDIA GPU (with the same number of CUDA cores as the RTX 5070), 128 GB of unified memory, and a 4 TB SSD.",
+        "image": "https://i.dllu.net/2026-05-16-14-06-47_DSCF8875_e8ac2c2936fe9241c5e3436262d7e6034369ad50_0af4368a28eb7d95-2400.jpg",
+        "source": "daniel.lawrence.lu",
+        "stats": "89 points · 72 comments"
       }
     ],
     "2026-07-18": [
@@ -251,16 +229,6 @@
         "image": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/featured.jpeg",
         "source": "olafalders.com",
         "stats": "140 points · 119 comments"
-      }
-    ],
-    "2026-07-16": [
-      {
-        "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-        "title": "1-Bit LLM in the Browser",
-        "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
-        "image": "https://cdn-uploads.huggingface.co/production/uploads/61b253b7ac5ecaae3d1efe0c/L3a8EbjXSSJX_cJvRl6S3.png",
-        "source": "huggingface.co",
-        "stats": "113 points · 46 comments"
       }
     ]
   }
