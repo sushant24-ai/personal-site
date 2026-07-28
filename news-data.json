@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-27T05:54:13.315Z",
+  "lastUpdated": "2026-07-28T05:18:25.421Z",
   "days": {
+    "2026-07-28": [
+      {
+        "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
+        "title": "Gemini Distillation Service",
+        "description": "Learn how to use Gemini Distillation to train smaller, efficient student models using the output and reasoning paths of larger teacher models.",
+        "image": "https://docs.cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+        "source": "docs.cloud.google.com",
+        "stats": "16 points · 3 comments"
+      },
+      {
+        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+        "title": "Don't ask an LLM for a confidence score",
+        "description": "Hello, Reader",
+        "image": "https://justinflick.com/assets/images/generated/llm-confidence-scores-header.jpeg",
+        "source": "justinflick.com",
+        "stats": "16 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49078710",
+        "title": "Claude's code comments – too much or just enough?",
+        "description": "7 points · 2 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+        "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+        "description": "10 points · 5 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
+        "title": "Is This What Comes After AI Slop?",
+        "description": "Daggermouth could be the first best-selling novel partly written by a chatbot.",
+        "image": "https://cdn.theatlantic.com/thumbor/xLb7xcblP8yskhs6ZsiIFdjBij8=/0x43:2000x1085/1200x625/media/img/mt/2026/07/2026_07_23_Oremus_AI_bestseller_final/original.jpg",
+        "source": "theatlantic.com",
+        "stats": "6 points · 1 comments"
+      }
+    ],
     "2026-07-27": [
       {
-        "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
-        "title": "Nvidia in Talks with OpenAI to Guarantee $250B Financing for Data Center",
-        "description": "7 points · 1 comments",
+        "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+        "title": "AI companies are shredding rare books",
+        "description": "🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they&#x27;re",
+        "image": "https://pbs.twimg.com/media/HOMX3t1XYAA3Pr7.jpg:large",
+        "source": "twitter.com",
+        "stats": "753 points · 476 comments"
+      },
+      {
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "title": "Benchmarking Opus 5 on SlopCodeBench",
+        "description": "Contribute to humanlayer/advanced-context-engineering-for-coding-agents development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/9f3398e71ebbc70a5bc925aa1a71f5afa2e3c226eb4feacfeeeabb7d5b4a7588/humanlayer/advanced-context-engineering-for-coding-agents",
+        "source": "github.com",
+        "stats": "206 points · 52 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+        "title": "AI companies spend record sums on Washington lobbying",
+        "description": "263 points · 141 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "ft.com",
         "stats": ""
       },
       {
-        "url": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99",
-        "title": "Big Firms Are Starting to Hire Again, Defying Predictions of AI Wipeout",
-        "description": "11 points · 3 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+        "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+        "description": "Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where&#039;s Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom&#039;s most &quot;acerbic gadfly&quot; – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he&#039;s right. You&#039;ve been calling AI a bubble since before it was fashionable.",
+        "image": "https://images.macrumors.com/t/bDSnDh5rJkwhN6iKwOzp-X_CeWo=/2500x/article-new/2025/08/Apple-Intelligence-Comes-Under-Fire-Feature.jpg",
+        "source": "macrumors.com",
+        "stats": "237 points · 317 comments"
       },
       {
-        "url": "https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/",
-        "title": "Quebec scraps AI and automation projects in the public sector",
-        "description": "Quebec has abandoned initiatives related to automation and artificial intelligence (AI) within the public sector, including the implementation of a chatbot on the government website “Quebec.ca,” following pilot projects that encountered “significant challenges.”",
-        "image": "https://www.ctvnews.ca/resizer/v2/CPUYLK5OQY4TRN2Z4LXEGWSE6Q.jpg?smart=true&amp;auth=5d96781ba1349efe8c6f8825f9ee1b8d6059cdc90757ff9d426062d63f65a21a&amp;width=1200&amp;height=630",
-        "source": "ctvnews.ca",
-        "stats": "9 points · 0 comments"
-      },
-      {
-        "url": "https://fortune.com/2026/07/26/james-cameron-terminator-skynet-day-openai-ai-agent-hack-hugging-face/",
-        "title": "'Skynet Day' is now shorthand for OpenAI's agent going rogue",
-        "description": "In what OpenAI said was the first-ever incident of its kind, an advanced AI model escaped its “sandbox” to the internet and used stolen credentials to break into the servers of Hugging Face.",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-457286444-e1785088537562.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "3 points · 1 comments"
-      },
-      {
-        "url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
-        "title": "He Was Right About AI. What About the Fate of Mankind?",
-        "description": "Hans Moravec predicted human-level AI by 2028. Now he contemplates our species’ end—and his own.",
-        "image": "https://pyxis.nymag.com/v1/imgs/860/c8e/fcc5c1640476bc14c6e659e1f289e3f88e-moravec-wired-1.1x.rsocial.w1200.jpg",
-        "source": "nymag.com",
-        "stats": "4 points · 2 comments"
+        "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+        "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
+        "description": "In an online discussion post, Alcorn State University history professor Dr. Jason Gibson posed a question that represented part of his students&#039; midterm. It was about the...",
+        "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-27-image-2.jpg",
+        "source": "techspot.com",
+        "stats": "95 points · 81 comments"
       }
     ],
     "2026-07-26": [
@@ -50,12 +92,12 @@
         "description": "Burnout is on the rise again, with an ironic twist.",
         "image": "https://substackcdn.com/image/fetch/$s_!R31O!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a57282a-143c-41d8-a777-084d8e097340_498x498.gif",
         "source": "rickmanelius.com",
-        "stats": "183 points · 53 comments"
+        "stats": "214 points · 80 comments"
       },
       {
         "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
         "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-        "description": "115 points · 49 comments",
+        "description": "159 points · 62 comments",
         "image": "",
         "source": "teorth.github.io",
         "stats": ""
@@ -63,26 +105,10 @@
       {
         "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
         "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
-        "description": "EDIT - please read the below post with the following quote in mind from Oscar Wilde on the art of writing things in public, this is in the preface prologue thing for A Picture of Dorien Grey (1890):\n\n&quot;When the critics disagree, the artist is in accord with himself.&quot;\n\nI believe",
+        "description": "EDIT - please read the below post with the following quote in mind from Oscar Wilde on the art of writing things in public, this is in the preface prologue thing for A Picture of Dorien Grey (1890 - and it feels like that was how long ago i read it too)",
         "image": "https://trattner.github.io/img/icon/x-tile.png",
         "source": "andys.blog",
-        "stats": "52 points · 105 comments"
-      },
-      {
-        "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
-        "title": "Multiway Turing Machines (2021 pre-ai)",
-        "description": "21 points · 3 comments",
-        "image": "",
-        "source": "bulletins.wolframphysics.org",
-        "stats": ""
-      },
-      {
-        "url": "https://asteriskmag.com/issues/15/rust-and-boll",
-        "title": "Anthropic should learn from those cotton-picking socialists",
-        "description": "Anthropic should learn from those cotton-picking socialists.",
-        "image": "https://asteriskmag.com/media/pages/issues/15/34173b487a-1784388742/asterisk15_cover-1600x900-crop-sharpen50.png",
-        "source": "asteriskmag.com",
-        "stats": "13 points · 2 comments"
+        "stats": "54 points · 171 comments"
       }
     ],
     "2026-07-25": [
@@ -92,23 +118,7 @@
         "description": "We removed over 80% of Claude Code&#x27;s system prompt for more advanced models. How to apply the lessons we learned to your own context engineering in Claude Code and with your own agents.",
         "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a639c6b2e881afef80764c6_og_the-new-rules-of-context-engineering-for-claude-5-generation-models.jpg",
         "source": "claude.com",
-        "stats": "443 points · 367 comments"
-      },
-      {
-        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "title": "Open-weight AI is having its Kubernetes moment",
-        "description": "400 points · 316 comments",
-        "image": "",
-        "source": "tobi.knaup.me",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/15c6504be51b884a0adc5d77e4dba41f94431454/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "description": "梁文锋四小时投资人会议实录. Contribute to demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22 development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/bda8dd442980c087edcab9231addaedf5a5810e70a8542d70cbc7f68a3f0577b/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22",
-        "source": "github.com",
-        "stats": "246 points · 195 comments"
+        "stats": "458 points · 392 comments"
       },
       {
         "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
@@ -116,15 +126,7 @@
         "description": "Other",
         "image": "",
         "source": "siepr.stanford.edu",
-        "stats": "256 points · 328 comments"
-      },
-      {
-        "url": "https://github.com/slvDev/esp32-ai",
-        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "description": "Contribute to slvDev/esp32-ai development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/a5f112bc9af788e5a2b3a8b10b2b94317966854b858c9b403e00b259992263cd/slvDev/esp32-ai",
-        "source": "github.com",
-        "stats": "273 points · 69 comments"
+        "stats": "293 points · 377 comments"
       }
     ],
     "2026-07-24": [
@@ -171,16 +173,6 @@
         "image": "https://opengraph.githubassets.com/3650b5bd4edc43101b21116dbc325d3940db99458ae4d977c11144ced6bc51b8/sktkkoo/Yorishiro",
         "source": "github.com",
         "stats": "41 points · 13 comments"
-      }
-    ],
-    "2026-07-21": [
-      {
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "title": "OpenAI and Hugging Face address security incident during model evaluation",
-        "description": "1619 points · 1150 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
       }
     ]
   }
