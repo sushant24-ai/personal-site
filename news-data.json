@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-07-28T05:18:25.421Z",
+  "lastUpdated": "2026-07-29T05:25:53.400Z",
   "days": {
+    "2026-07-29": [
+      {
+        "url": "https://learnvector.ai/",
+        "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+        "description": "A new AI company from Andrew Ng, with a $100M investment from Coursera — building one-to-one learning that stays with you until you",
+        "image": "https://learnvector.ai/assets/social-card.jpg",
+        "source": "learnvector.ai",
+        "stats": "108 points · 60 comments"
+      },
+      {
+        "url": "https://www.hubble.md/",
+        "title": "Hubble: Open-source notetaking app for you and your agents",
+        "description": "Hubble.md",
+        "image": "https://hubble.md/og-image.png",
+        "source": "hubble.md",
+        "stats": "76 points · 20 comments"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+        "description": "Trading on South Korea&#x27;s Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e056/live/347f61f0-8a31-11f1-949c-5b05e00ab03c.jpg",
+        "source": "bbc.com",
+        "stats": "40 points · 31 comments"
+      },
+      {
+        "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+        "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
+        "description": "Former Trump campaign manager Brad Parscale is overseeing an operation posting hundreds of blog posts on behalf of Israel, with the goal of infiltrating artificial intelligence.",
+        "image": "https://substackcdn.com/image/fetch/$s_!BdFA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd97bb376-6b8e-4c67-9da8-ec95a7c0a12e_4323x2882.jpeg",
+        "source": "dropsitenews.com",
+        "stats": "14 points · 2 comments"
+      },
+      {
+        "url": "https://transformer-transformer.github.io/",
+        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+        "description": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design. Project website.",
+        "image": "",
+        "source": "transformer-transformer.github.io",
+        "stats": "15 points · 0 comments"
+      }
+    ],
     "2026-07-28": [
       {
-        "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
-        "title": "Gemini Distillation Service",
-        "description": "Learn how to use Gemini Distillation to train smaller, efficient student models using the output and reasoning paths of larger teacher models.",
-        "image": "https://docs.cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
-        "source": "docs.cloud.google.com",
-        "stats": "16 points · 3 comments"
+        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+        "title": "Discovering Cryptographic Weaknesses with Claude",
+        "description": "Anthropic researchers find weaknesses in cryptographic algorithms with Claude Mythos Preview",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=sky",
+        "source": "anthropic.com",
+        "stats": "196 points · 132 comments"
       },
       {
-        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "title": "Don't ask an LLM for a confidence score",
-        "description": "Hello, Reader",
-        "image": "https://justinflick.com/assets/images/generated/llm-confidence-scores-header.jpeg",
-        "source": "justinflick.com",
-        "stats": "16 points · 0 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=49078710",
-        "title": "Claude's code comments – too much or just enough?",
-        "description": "7 points · 2 comments",
+        "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+        "title": "Now is the time to give LLMs access to the ACM digital library",
+        "description": "135 points · 113 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "cacm.acm.org",
         "stats": ""
       },
       {
-        "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
-        "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
-        "description": "10 points · 5 comments",
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "description": "147 points · 75 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "spawn-queue.acm.org",
         "stats": ""
       },
       {
-        "url": "https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/",
-        "title": "Is This What Comes After AI Slop?",
-        "description": "Daggermouth could be the first best-selling novel partly written by a chatbot.",
-        "image": "https://cdn.theatlantic.com/thumbor/xLb7xcblP8yskhs6ZsiIFdjBij8=/0x43:2000x1085/1200x625/media/img/mt/2026/07/2026_07_23_Oremus_AI_bestseller_final/original.jpg",
-        "source": "theatlantic.com",
-        "stats": "6 points · 1 comments"
+        "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+        "title": "MCP 2026-07-28 Specification: transport going stateless",
+        "description": "The 2026-07-28 Model Context Protocol specification is out, bringing a stateless protocol core, Multi Round-Trip Requests, header-based routing, cacheable list results, authorization hardening, a formal extensions framework, and updated Tier 1 SDKs.",
+        "image": "https://blog.modelcontextprotocol.io/og-image.png",
+        "source": "blog.modelcontextprotocol.io",
+        "stats": "111 points · 37 comments"
+      },
+      {
+        "url": "https://github.com/reflex-dev/xy",
+        "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
+        "description": "Ultra-fast and customizable Python charts. Contribute to reflex-dev/xy development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/788b14cee19060bdb1a08603a4d34f5f44ca9f50a164a378116b593d734dbdb3/reflex-dev/xy",
+        "source": "github.com",
+        "stats": "117 points · 44 comments"
       }
     ],
     "2026-07-27": [
@@ -50,20 +92,20 @@
         "description": "🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they&#x27;re",
         "image": "https://pbs.twimg.com/media/HOMX3t1XYAA3Pr7.jpg:large",
         "source": "twitter.com",
-        "stats": "753 points · 476 comments"
+        "stats": "784 points · 508 comments"
       },
       {
         "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
         "title": "Benchmarking Opus 5 on SlopCodeBench",
         "description": "Contribute to humanlayer/advanced-context-engineering-for-coding-agents development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/9f3398e71ebbc70a5bc925aa1a71f5afa2e3c226eb4feacfeeeabb7d5b4a7588/humanlayer/advanced-context-engineering-for-coding-agents",
+        "image": "https://opengraph.githubassets.com/09d38f3a334def0d0e67e751a3cb305921c9957a361d9c594ad7e1fff256e90d/humanlayer/advanced-context-engineering-for-coding-agents",
         "source": "github.com",
-        "stats": "206 points · 52 comments"
+        "stats": "391 points · 116 comments"
       },
       {
         "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
         "title": "AI companies spend record sums on Washington lobbying",
-        "description": "263 points · 141 comments",
+        "description": "273 points · 144 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
@@ -74,15 +116,15 @@
         "description": "Memory prices have doubled, Macs and iPads have gone up, and iPhones are expected to follow. Ed Zitron – who writes the Where&#039;s Your Ed At newsletter, hosts the Better Offline podcast, and has been described by Politico as the AI boom&#039;s most &quot;acerbic gadfly&quot; – has spent years arguing the buildout driving those costs will never pay for itself. We asked him what happens to Apple if he&#039;s right. You&#039;ve been calling AI a bubble since before it was fashionable.",
         "image": "https://images.macrumors.com/t/bDSnDh5rJkwhN6iKwOzp-X_CeWo=/2500x/article-new/2025/08/Apple-Intelligence-Comes-Under-Fire-Feature.jpg",
         "source": "macrumors.com",
-        "stats": "237 points · 317 comments"
+        "stats": "249 points · 351 comments"
       },
       {
-        "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-        "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-        "description": "In an online discussion post, Alcorn State University history professor Dr. Jason Gibson posed a question that represented part of his students&#039; midterm. It was about the...",
-        "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-27-image-2.jpg",
-        "source": "techspot.com",
-        "stats": "95 points · 81 comments"
+        "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+        "title": "Kimi K3 Now Available via Telnyx Inference API",
+        "description": "Kimi K3, the first 2.8T parameter open-source model, is now on Telnyx Inference. 1M context window, native vision, configurable reasoning. Input $2.70/1M tokens.",
+        "image": "https://dotcom-payload-assets-prod.s3.us-east-1.amazonaws.com/cms-media/58db2ca1-0d1d-40c8-9ef5-a79897cb9ce9-a2f51d62.jpeg",
+        "source": "telnyx.com",
+        "stats": "129 points · 85 comments"
       }
     ],
     "2026-07-26": [
@@ -163,16 +205,6 @@
         "image": "",
         "source": "law.uchicago.edu",
         "stats": "146 points · 91 comments"
-      }
-    ],
-    "2026-07-22": [
-      {
-        "url": "https://github.com/sktkkoo/Yorishiro",
-        "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
-        "description": "A terminal that gives AI a body and a living space. - sktkkoo/Yorishiro",
-        "image": "https://opengraph.githubassets.com/3650b5bd4edc43101b21116dbc325d3940db99458ae4d977c11144ced6bc51b8/sktkkoo/Yorishiro",
-        "source": "github.com",
-        "stats": "41 points · 13 comments"
       }
     ]
   }
