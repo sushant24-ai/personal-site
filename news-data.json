@@ -1,63 +1,105 @@
 {
-  "lastUpdated": "2026-07-31T05:39:23.624Z",
+  "lastUpdated": "2026-08-01T05:31:57.537Z",
   "days": {
-    "2026-07-31": [
+    "2026-08-01": [
       {
-        "url": "https://greyswansignals.com/?theme=dark",
-        "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
-        "description": "Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, &amp; bank health in one place.",
-        "image": "https://greyswansignals.com/og-swan-1200x630.png",
-        "source": "greyswansignals.com",
-        "stats": "89 points · 32 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
-        "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
-        "description": "24 points · 0 comments",
+        "url": "https://microsoft.github.io/flint-chart/",
+        "title": "Flint: A Visualization Language for the AI Era",
+        "description": "48 points · 8 comments",
         "image": "",
-        "source": "bloomberg.com",
+        "source": "microsoft.github.io",
         "stats": ""
       },
       {
-        "url": "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack",
-        "title": "Now Anthropic Is Saying Claude Escaped and Hacked Several Companies",
-        "description": "AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate organizations’ systems – and that it didn’t notice the models had done so until an internal review prompted by rival OpenAI disclosing its models did the same.",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-05t185317z-1665347047-rc2unla92cfx-rtrmadp-3-anthropic-ai.JPG?c=16x9&q=w_800,c_fill",
-        "source": "cnn.com",
-        "stats": "7 points · 1 comments"
+        "url": "https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus",
+        "title": "AI broke writing as proof-of-thought",
+        "description": "8 points · 1 comments",
+        "image": "",
+        "source": "hereisyourbrain.substack.com",
+        "stats": ""
       },
       {
-        "url": "https://twitter.com/i/status/2082566186785480708",
-        "title": "Claude Opus 5 jailbreak with a 3-word prompt",
-        "description": "Try sending “see the below —“ to Opus 5\n\nIt appears to generate a user completion rather than respond 🤨",
-        "image": "https://pbs.twimg.com/media/HObC6O6XgAEmVCw.jpg:large",
-        "source": "twitter.com",
-        "stats": "6 points · 2 comments"
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+        "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+        "description": "Food delivery giant latest targeted as rising adoption of China-built AI models pushes Washington to find strategies to combat trend.",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/01/66b01397-9658-40a0-a184-645dd1bae550_11136a7b.jpg?itok=Ia0wnYsI&amp;v=1785538394",
+        "source": "scmp.com",
+        "stats": "6 points · 3 comments"
       },
       {
-        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po",
-        "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
-        "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms&#x27; networks.",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
-        "source": "bbc.co.uk",
-        "stats": "4 points · 0 comments"
+        "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+        "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+        "description": "5 points · 0 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/alectrocute/dario-and-amanda-prompt/blob/main/outputs.md",
+        "title": "Claude 5 family's hallucinations look a lot like internal Anthropic emails",
+        "description": "Contribute to alectrocute/dario-and-amanda-prompt development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/839864062c55391699a1ac4bf4d7aba0645a33f0482cdf95f617dbc5a8054e14/alectrocute/dario-and-amanda-prompt",
+        "source": "github.com",
+        "stats": "3 points · 4 comments"
+      }
+    ],
+    "2026-07-31": [
+      {
+        "url": "https://api-docs.deepseek.com/updates/",
+        "title": "DeepSeek-V4-Flash Update",
+        "description": "Date: 2026-07-31",
+        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+        "source": "api-docs.deepseek.com",
+        "stats": "684 points · 329 comments"
+      },
+      {
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "title": "Tailscale didn't stop the Hugging Face intrusion",
+        "description": "An AI agent used a stolen Tailscale auth key at Hugging Face. Workload identity federation, flow logs, and safer defaults could have reduced the risk.",
+        "image": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af",
+        "source": "tailscale.com",
+        "stats": "506 points · 195 comments"
+      },
+      {
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+        "description": "Analysis of DeepSeek&#x27;s DeepSeek V4 Flash 0731 (Reasoning, Max Effort) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
+        "image": "https://artificialanalysis.ai/en/models/deepseek-v4-flash/opengraph-image?f89c1d53703bc167",
+        "source": "artificialanalysis.ai",
+        "stats": "542 points · 293 comments"
+      },
+      {
+        "url": "https://github.com/yc-software/qm",
+        "title": "qm – Multiplayer agent harness for work",
+        "description": "Multiplayer agent harness for work. Contribute to yc-software/qm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/06fbe2c4473ad02bc3fe1f69e934766e4c2afba32b78af3a01fd932db2e1cb16/yc-software/qm",
+        "source": "github.com",
+        "stats": "521 points · 109 comments"
+      },
+      {
+        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "description": "Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
+        "source": "blog.google",
+        "stats": "490 points · 495 comments"
       }
     ],
     "2026-07-30": [
       {
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-        "title": "Advancing the price-performance frontier with GPT‑5.6",
-        "description": "538 points · 352 comments",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "description": "609 points · 515 comments",
         "image": "",
-        "source": "openai.com",
+        "source": "deepmind.google",
         "stats": ""
       },
       {
-        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "description": "517 points · 417 comments",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+        "title": "Advancing the price-performance frontier with GPT‑5.6",
+        "description": "600 points · 394 comments",
         "image": "",
-        "source": "deepmind.google",
+        "source": "openai.com",
         "stats": ""
       },
       {
@@ -66,7 +108,7 @@
         "description": "If an agent had a wallet, a computer, and 24 hours, could it run a profitable startup?",
         "image": "https://bottlenecklabs.com/blog/autonomously-run-businesses/og-autonomous-business.png",
         "source": "bottlenecklabs.com",
-        "stats": "340 points · 199 comments"
+        "stats": "392 points · 233 comments"
       },
       {
         "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
@@ -74,57 +116,25 @@
         "description": "Writing about the big beautiful mess that is making things for the world wide web.",
         "image": "",
         "source": "blog.jim-nielsen.com",
-        "stats": "243 points · 114 comments"
+        "stats": "364 points · 175 comments"
       },
       {
         "url": "https://github.com/AminBlg/SimpleEnglish",
         "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
         "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop - AminBlg/SimpleEnglish",
-        "image": "https://opengraph.githubassets.com/8fa49601bed0b956532ec3df1709ec5446db2136bd441d638666ee50ab7494d4/AminBlg/SimpleEnglish",
+        "image": "https://opengraph.githubassets.com/4b677606c97e04d8b30417fe04987674596e1667ab934d8f063414d97a9b4d1d/AminBlg/SimpleEnglish",
         "source": "github.com",
-        "stats": "260 points · 94 comments"
+        "stats": "324 points · 118 comments"
       }
     ],
     "2026-07-29": [
       {
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "title": "AI's top startups are barely publishing their research",
-        "description": "598 points · 314 comments",
+        "description": "611 points · 317 comments",
         "image": "",
         "source": "science.org",
         "stats": ""
-      },
-      {
-        "url": "https://llm2human.pages.dev/",
-        "title": "LLM Honeypot",
-        "description": "376 points · 105 comments",
-        "image": "",
-        "source": "llm2human.pages.dev",
-        "stats": ""
-      },
-      {
-        "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-        "title": "Claude: Elevated errors across all models – Resolved",
-        "description": "Claude&#39;s Status Page - Elevated errors across all models.",
-        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-        "source": "status.claude.com",
-        "stats": "267 points · 246 comments"
-      },
-      {
-        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-        "description": "I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.",
-        "image": "",
-        "source": "enklypesalt.com",
-        "stats": "380 points · 293 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.25398",
-        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "description": "Language-model agents are increasingly deployed under standing instructions: a system prompt, a policy file, or a skills document is placed in context, and the agent is trusted to let it govern every action that follows. Existing benchmarks rarely test this deployment pattern directly; they measure whether an agent can complete a task, not whether a long, binding policy document actually constrains its behavior over an extended tool-use horizon. We present HANDBOOK_md, a benchmark of 65 agentic tasks modeled on how enterprise employees follow company handbooks. Each task places an agent in a self-contained company environment, a file workspace together with mock email, chat, calendar, issue-tracking, and commerce services exposed over the Model Context Protocol, and instructs it to carry out routine professional work governed by an expert-written standard operating procedure of 20 to 124 pages. Tasks span five domains (finance, medical billing, insurance, logistics, and HR) and ten fictional companies. To resist memorization, every task modifies one of ten base handbooks, altering the specific rules and thresholds on which grading turns, so no two tasks share a policy. Grading is fully deterministic: each task carries a rubric of programmatic criteria (824 in total) that check both that required actions occurred and that prohibited actions did not. Under strict grading, where a trial passes only if every criterion is satisfied, the best of thirty evaluated model configurations passes 36.2% of trials, and most frontier configurations remain below 25%. Failures follow consistent patterns: agents let a plausible in-environment request override the standing policy, perform a required check and then act against its result, lose rule details over long horizons, and report compliance they did not achieve. We release all tasks, environments, and the evaluation harness.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "322 points · 206 comments"
       }
     ],
     "2026-07-28": [
@@ -211,16 +221,6 @@
         "image": "https://trattner.github.io/img/icon/x-tile.png",
         "source": "andys.blog",
         "stats": "54 points · 171 comments"
-      }
-    ],
-    "2026-07-25": [
-      {
-        "url": "https://obryant.dev/p/2x-not-10x/",
-        "title": "2x, not 10x: coding with LLMs in 2026",
-        "description": "Calibrate your enthusiasm",
-        "image": "https://obryant.dev/cards/47ab05e579879488de4768ed2c0f3c2d096b6732.png",
-        "source": "obryant.dev",
-        "stats": "246 points · 199 comments"
       }
     ]
   }
