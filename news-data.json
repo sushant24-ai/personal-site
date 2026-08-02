@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-01T05:31:57.537Z",
+  "lastUpdated": "2026-08-02T05:32:42.998Z",
   "days": {
+    "2026-08-02": [
+      {
+        "url": "https://philarchive.org/archive/NIEWTCv17",
+        "title": "OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+        "description": "30 points · 14 comments",
+        "image": "",
+        "source": "philarchive.org",
+        "stats": ""
+      },
+      {
+        "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+        "title": "Don't credit the LLM",
+        "description": "22 points · 22 comments",
+        "image": "",
+        "source": "isaacsu.com",
+        "stats": ""
+      },
+      {
+        "url": "https://costperprompt.com/",
+        "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "description": "Live pricing for 232+ AI models (GPT, Claude, Gemini, Llama, DeepSeek) plus real-world cost calculators: chatbots, API budgets, and token math. Updated 2026-08-02.",
+        "image": "",
+        "source": "costperprompt.com",
+        "stats": "11 points · 4 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49139845",
+        "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+        "description": "9 points · 6 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://zenodo.org/records/21753002",
+        "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+        "description": "8 points · 2 comments",
+        "image": "",
+        "source": "zenodo.org",
+        "stats": ""
+      }
+    ],
     "2026-08-01": [
+      {
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "description": "Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.",
+        "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&amp;itok=Zfv-5Ys6",
+        "source": "mitsloan.mit.edu",
+        "stats": "240 points · 210 comments"
+      },
+      {
+        "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+        "title": "AI doesn't generate working products, that's still your job",
+        "description": "AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.",
+        "image": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
+        "source": "weeraman.com",
+        "stats": "251 points · 268 comments"
+      },
       {
         "url": "https://microsoft.github.io/flint-chart/",
         "title": "Flint: A Visualization Language for the AI Era",
-        "description": "48 points · 8 comments",
+        "description": "258 points · 67 comments",
         "image": "",
         "source": "microsoft.github.io",
         "stats": ""
       },
       {
-        "url": "https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus",
-        "title": "AI broke writing as proof-of-thought",
-        "description": "8 points · 1 comments",
+        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "title": "On the non-use of AI in my writing process",
+        "description": "129 points · 119 comments",
         "image": "",
-        "source": "hereisyourbrain.substack.com",
+        "source": "antipope.org",
         "stats": ""
       },
       {
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
-        "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
-        "description": "Food delivery giant latest targeted as rising adoption of China-built AI models pushes Washington to find strategies to combat trend.",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/01/66b01397-9658-40a0-a184-645dd1bae550_11136a7b.jpg?itok=Ia0wnYsI&amp;v=1785538394",
-        "source": "scmp.com",
-        "stats": "6 points · 3 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
-        "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
-        "description": "5 points · 0 comments",
+        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+        "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/alectrocute/dario-and-amanda-prompt/blob/main/outputs.md",
-        "title": "Claude 5 family's hallucinations look a lot like internal Anthropic emails",
-        "description": "Contribute to alectrocute/dario-and-amanda-prompt development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/839864062c55391699a1ac4bf4d7aba0645a33f0482cdf95f617dbc5a8054e14/alectrocute/dario-and-amanda-prompt",
-        "source": "github.com",
-        "stats": "3 points · 4 comments"
+        "source": "youtube.com",
+        "stats": "49 points · 26 comments"
       }
     ],
     "2026-07-31": [
@@ -50,15 +92,15 @@
         "description": "Date: 2026-07-31",
         "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
         "source": "api-docs.deepseek.com",
-        "stats": "684 points · 329 comments"
+        "stats": "730 points · 343 comments"
       },
       {
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "title": "Tailscale didn't stop the Hugging Face intrusion",
-        "description": "An AI agent used a stolen Tailscale auth key at Hugging Face. Workload identity federation, flow logs, and safer defaults could have reduced the risk.",
-        "image": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af",
-        "source": "tailscale.com",
-        "stats": "506 points · 195 comments"
+        "url": "https://github.com/yc-software/qm",
+        "title": "qm – Multiplayer agent harness for work",
+        "description": "Multiplayer agent harness for work. Contribute to yc-software/qm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/adebd811f540dc914a5ad01946e707d312e7c8ecc395a2e90ec7c57b31188390/yc-software/qm",
+        "source": "github.com",
+        "stats": "650 points · 152 comments"
       },
       {
         "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
@@ -66,15 +108,15 @@
         "description": "Analysis of DeepSeek&#x27;s DeepSeek V4 Flash 0731 (Reasoning, Max Effort) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
         "image": "https://artificialanalysis.ai/en/models/deepseek-v4-flash/opengraph-image?f89c1d53703bc167",
         "source": "artificialanalysis.ai",
-        "stats": "542 points · 293 comments"
+        "stats": "581 points · 311 comments"
       },
       {
-        "url": "https://github.com/yc-software/qm",
-        "title": "qm – Multiplayer agent harness for work",
-        "description": "Multiplayer agent harness for work. Contribute to yc-software/qm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/06fbe2c4473ad02bc3fe1f69e934766e4c2afba32b78af3a01fd932db2e1cb16/yc-software/qm",
-        "source": "github.com",
-        "stats": "521 points · 109 comments"
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "title": "Tailscale didn't stop the Hugging Face intrusion",
+        "description": "An AI agent used a stolen Tailscale auth key at Hugging Face. Workload identity federation, flow logs, and safer defaults could have reduced the risk.",
+        "image": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af",
+        "source": "tailscale.com",
+        "stats": "597 points · 215 comments"
       },
       {
         "url": "https://blog.google/security/chrome-stronger-with-every-update/",
@@ -82,7 +124,7 @@
         "description": "Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
         "source": "blog.google",
-        "stats": "490 points · 495 comments"
+        "stats": "557 points · 605 comments"
       }
     ],
     "2026-07-30": [
@@ -195,32 +237,6 @@
         "image": "https://dotcom-payload-assets-prod.s3.us-east-1.amazonaws.com/cms-media/58db2ca1-0d1d-40c8-9ef5-a79897cb9ce9-a2f51d62.jpeg",
         "source": "telnyx.com",
         "stats": "129 points · 85 comments"
-      }
-    ],
-    "2026-07-26": [
-      {
-        "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-        "title": "The New AI Superpowers: Focus and Followthrough",
-        "description": "Burnout is on the rise again, with an ironic twist.",
-        "image": "https://substackcdn.com/image/fetch/$s_!R31O!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a57282a-143c-41d8-a777-084d8e097340_498x498.gif",
-        "source": "rickmanelius.com",
-        "stats": "214 points · 80 comments"
-      },
-      {
-        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-        "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-        "description": "159 points · 62 comments",
-        "image": "",
-        "source": "teorth.github.io",
-        "stats": ""
-      },
-      {
-        "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
-        "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
-        "description": "EDIT - please read the below post with the following quote in mind from Oscar Wilde on the art of writing things in public, this is in the preface prologue thing for A Picture of Dorien Grey (1890 - and it feels like that was how long ago i read it too)",
-        "image": "https://trattner.github.io/img/icon/x-tile.png",
-        "source": "andys.blog",
-        "stats": "54 points · 171 comments"
       }
     ]
   }
