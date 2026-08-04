@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-08-03T05:46:37.563Z",
+  "lastUpdated": "2026-08-04T05:18:16.864Z",
   "days": {
+    "2026-08-04": [
+      {
+        "url": "https://zander.wtf/blog/claude-md-agents-md/",
+        "title": "What should go in your Claude.md?",
+        "description": "The guidance contradicts itself and almost none of it is dated, so here",
+        "image": "https://zander.wtf/opengraph/claude-md-agents-md/og.png",
+        "source": "zander.wtf",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://byocanywhere.org/",
+        "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+        "description": "BYOC Anywhere: the 10 commandments of deploying software into customer-owned environments.",
+        "image": "",
+        "source": "byocanywhere.org",
+        "stats": "7 points · 0 comments"
+      },
+      {
+        "url": "https://marksmayo.github.io/lego-matrix/",
+        "title": "I asked Claude Opus to recreate The Matrix opening scene in Lego",
+        "description": "The opening sequence of The Matrix, animated in real time with three.js and rigid-body physics, performed entirely by LEGO minifigures.",
+        "image": "",
+        "source": "marksmayo.github.io",
+        "stats": "4 points · 4 comments"
+      },
+      {
+        "url": "https://marksmayo.github.io/matrix/",
+        "title": "I asked GPT 5.6 Sol to build the opening scene to The Matrix using Three.js",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "marksmayo.github.io",
+        "stats": ""
+      },
+      {
+        "url": "https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c",
+        "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+        "description": "An experiment with artificial intelligence at the annual Richard Wagner festival in the German town of Bayreuth has drawn boos from the audience after producing a staging that appeared to leave some spectators confused.",
+        "image": "https://dims.apnews.com/dims4/default/842cc54/2147483647/strip/true/crop/2999x1998+474+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2Faf%2F496f6eefedcdbdd8e48a8c11fb7a%2F51737919960249ccbddccf53ba10bee1",
+        "source": "apnews.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-08-03": [
+      {
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "title": "LLMs reward expertise",
+        "description": "665 points · 274 comments",
+        "image": "https://www.seangoedecke.com/og-image.jpg",
+        "source": "seangoedecke.com",
+        "stats": ""
+      },
+      {
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "description": "The JFrog security research team recently identified a supply chain attack targeting the `xinference` package on PyPI. Versions 2.6.0, 2.6.1, and 2.6.2 were compromised and yanked by maintainers after users reported suspicious behavior. If you installed or imported these versions, you must assume your environment is compromised.",
+        "image": "",
+        "source": "research.jfrog.com",
+        "stats": "706 points · 355 comments"
+      },
+      {
+        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "description": "428 points · 358 comments",
+        "image": "",
+        "source": "ankursethi.com",
+        "stats": ""
+      },
       {
         "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
         "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
         "description": "An interview request from a bot posing as a reporter revealed an AI-generated news site with articles attacking AI industry critics. For the second time this month, we found links to Targeted Victory, the firm at the center of OpenAI",
         "image": "https://framerusercontent.com/images/654omgMZMMZgaGluHRcTrUOXN90.jpg?width=1200&amp;height=630",
         "source": "modelrepublic.org",
-        "stats": "104 points · 22 comments"
+        "stats": "205 points · 105 comments"
       },
       {
-        "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-        "description": "Link to: https://www.ycrootaccess.com/p/boris-cherny-building-claude-code",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "43 points · 14 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9",
-        "title": "Amazon completes $50B investment in OpenAI",
-        "description": "16 points · 1 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.28271",
-        "title": "AI migrated legacy COBOL programs to Java, bugs included",
-        "description": "Migration of legacy COBOL programs to Java requires extensive testing to ensure correct functionality. This effort is often complicated by the lack of test data and the difficulty of validating all corner cases. In this paper we propose a novel agentic test-synthesis method, the &#34;Locksmith Loop,&#34; which is initiated by preparing two runtime environments: the COBOL source and the generated Java target are each instrumented with mocks and executed off-mainframe on commodity hardware, then an iterative agentic loop performs Witness Search over input mocks to penetrate program branches, followed by parity-preserving mutations. When routing boundaries are reached, an analyzer identifies a Locked Paragraph: a condition preventing deeper exploration. Across three COBOL-Java case studies, spanning two open-source programs and one internal production-like COBOL program and ranging from 430 to 4,114 source lines, Locksmith consistently improved coverage beyond input-search plateaus, reaching nearly complete coverage on the two open-source programs and 91.90% branch coverage on the internal production-like COBOL program. The generated Java matched the COBOL reference under deterministic parity checks in all accepted test cases. Through these findings we demonstrate, to the best of our knowledge, a novel approach for validating agentic coding output using a deterministic oracle.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "12 points · 6 comments"
-      },
-      {
-        "url": "https://booyaka101.github.io/thedailyfable/day07/",
-        "title": "Show HN: An AI wrote and illustrated a book of fables about threads and packets",
-        "description": "Thirteen fables where the animals are threads, caches, checksums and packets. Told by Fable, who is one of the machines.",
-        "image": "https://booyaka101.github.io/thedailyfable/day07/plates/cover.jpg",
-        "source": "booyaka101.github.io",
-        "stats": "5 points · 1 comments"
+        "url": "https://github.com/lyogavin/airllm",
+        "title": "AirLLM 70B inference with single 4GB GPU",
+        "description": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/7df9fcd3c3fdc588e0fa73ef029ffb8b6e7b7ce84f6eb72fd2aac655aa488600/lyogavin/airllm",
+        "source": "github.com",
+        "stats": "205 points · 76 comments"
       }
     ],
     "2026-08-02": [
       {
         "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
         "title": "AI poster wins Ohio State Fair contest",
-        "description": "128 points · 149 comments",
+        "description": "141 points · 183 comments",
         "image": "https://cdn.saffire.com/images.ashx?t=ig&rid=OhioStateFair&i=Header-3-2026_OSF_Poster_Contest.jpeg&cb=e24bb70e",
         "source": "ohiostatefair.com",
         "stats": ""
@@ -58,15 +100,7 @@
         "description": "One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.",
         "image": "https://frogs.vaguespac.es/og.png",
         "source": "frogs.vaguespac.es",
-        "stats": "127 points · 59 comments"
-      },
-      {
-        "url": "https://sprocket-demo.spikonado.com",
-        "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-        "description": "The only AI agent that can do both software and hardware - spikonado/sprocket",
-        "image": "https://opengraph.githubassets.com/9128154f2f56cbb7906cfd26d35b445dc75114f6eae05da8330235fc1113207c/spikonado/sprocket",
-        "source": "sprocket-demo.spikonado.com",
-        "stats": "123 points · 12 comments"
+        "stats": "151 points · 86 comments"
       },
       {
         "url": "https://publicdomainreview.org/essay/ars-notoria/",
@@ -74,15 +108,23 @@
         "description": "Centuries before Neo instantly mastered Kung Fu in The Matrix, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria, its supposed powers, and the demonic influence it had upon some users.\n",
         "image": "https://pdr-assets.b-cdn.net/essays/ars-notoria/dedupmrg1191555822_IE4927965_FL5354893-edit-thumb.jpg",
         "source": "publicdomainreview.org",
-        "stats": "124 points · 31 comments"
+        "stats": "139 points · 35 comments"
       },
       {
-        "url": "https://github.com/micro/mu",
-        "title": "Show HN: Mu – Tools for Agents",
-        "description": "Tools for Agents. Contribute to micro/mu development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/7ee644a00ea43779a8fc8432cf403e705dc8ccdc39c21515a85780bd615facdc/micro/mu",
-        "source": "github.com",
-        "stats": "48 points · 15 comments"
+        "url": "https://sprocket-demo.spikonado.com",
+        "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+        "description": "The best and only AI agent for developing both hardware and software - spikonado/sprocket",
+        "image": "https://opengraph.githubassets.com/177566987d5074c73fbc79aa66d4605d346baa2a4bfa5322a921743ae022c866/spikonado/sprocket",
+        "source": "sprocket-demo.spikonado.com",
+        "stats": "124 points · 14 comments"
+      },
+      {
+        "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+        "title": "EU rules on AI models become enforceable. What's going to change?",
+        "description": "EU AI Act rules on AI models become enforceable today, making Brussels the world&#039;s top AI regulator. Euronews breaks down what this all means for Europe and beyond. #EuropeNews",
+        "image": "https://images.euronews.com/articles/stories/09/85/74/44/1200x675_cmsv2_b29bb7fe-1f9b-589f-875a-c78ca851d748-9857444.jpg",
+        "source": "euronews.com",
+        "stats": "53 points · 72 comments"
       }
     ],
     "2026-08-01": [
@@ -129,36 +171,12 @@
     ],
     "2026-07-31": [
       {
-        "url": "https://api-docs.deepseek.com/updates/",
-        "title": "DeepSeek-V4-Flash Update",
-        "description": "Date: 2026-07-31",
-        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
-        "source": "api-docs.deepseek.com",
-        "stats": "737 points · 345 comments"
-      },
-      {
-        "url": "https://github.com/yc-software/qm",
-        "title": "qm – Multiplayer agent harness for work",
-        "description": "Multiplayer agent harness for work. Contribute to yc-software/qm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/04658f75491692c93c08a6c2aa5d3c359073725d27326f91dfa1247fde44891c/yc-software/qm",
-        "source": "github.com",
-        "stats": "665 points · 161 comments"
-      },
-      {
-        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "description": "Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-17_at_5.00.43PM.width-1300.png",
-        "source": "blog.google",
-        "stats": "572 points · 599 comments"
-      },
-      {
-        "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-        "title": "Is AI reasoning right for the wrong reasons?",
-        "description": "The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.",
-        "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Social.jpg",
-        "source": "quantamagazine.org",
-        "stats": "213 points · 243 comments"
+        "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+        "title": "Why we write our own C and C++ inference engines",
+        "description": "LocalAI is the open source AI engine. Run any model, LLMs, vision, voice, image and video, on any hardware. No GPU required.",
+        "image": "https://localai.io/img/logo-full.png",
+        "source": "localai.io",
+        "stats": "124 points · 49 comments"
       },
       {
         "url": "https://mattbeton.com/blog/bitnet-6502.html",
@@ -166,7 +184,7 @@
         "description": "A language model on a 1975 MOS 6502 processor, using a tiny Mamba-based language model and custom 8-bit ternary inference engine, used to generate text on a BBC Micro from the 1980s.",
         "image": "",
         "source": "mattbeton.com",
-        "stats": "86 points · 9 comments"
+        "stats": "132 points · 12 comments"
       }
     ],
     "2026-07-30": [
@@ -219,24 +237,6 @@
         "image": "",
         "source": "science.org",
         "stats": ""
-      }
-    ],
-    "2026-07-28": [
-      {
-        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "image": "https://huggingface.co/blog/assets/agent-intrusion-technical-timeline/thumbnail.png",
-        "source": "huggingface.co",
-        "stats": "459 points · 254 comments"
-      },
-      {
-        "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
-        "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
-        "description": "A paired A/B benchmark of the token-compression skill Caveman on Claude Code, run on SkillsBench: does it actually save tokens, and does it degrade AI agent output quality? Advertised saving: 65%.",
-        "image": "https://blog.jetbrains.com/wp-content/uploads/2026/07/JB-social-BlogSocialShare-1280x720-1-5.png",
-        "source": "blog.jetbrains.com",
-        "stats": "42 points · 40 comments"
       }
     ]
   }
