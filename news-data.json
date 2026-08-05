@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-08-04T05:18:16.864Z",
+  "lastUpdated": "2026-08-05T05:18:26.730Z",
   "days": {
-    "2026-08-04": [
+    "2026-08-05": [
       {
-        "url": "https://zander.wtf/blog/claude-md-agents-md/",
-        "title": "What should go in your Claude.md?",
-        "description": "The guidance contradicts itself and almost none of it is dated, so here",
-        "image": "https://zander.wtf/opengraph/claude-md-agents-md/og.png",
-        "source": "zander.wtf",
-        "stats": "4 points · 2 comments"
+        "url": "https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682",
+        "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
+        "description": "Capital expenditures related to its xAI unit, which runs the Grok service, hit $15.8 billion, more than double what they were in the first quarter.",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260715-elon-musk-ch-1619-c3f095.jpg",
+        "source": "nbcnews.com",
+        "stats": "7 points · 1 comments"
       },
       {
-        "url": "https://byocanywhere.org/",
-        "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
-        "description": "BYOC Anywhere: the 10 commandments of deploying software into customer-owned environments.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfv9a3/interminal_jupyter_notebook_for_agentic_data/",
+        "title": "In-Terminal Jupyter Notebook for Agentic Data Science",
+        "description": "4 points · 2 comments",
         "image": "",
-        "source": "byocanywhere.org",
-        "stats": "7 points · 0 comments"
-      },
-      {
-        "url": "https://marksmayo.github.io/lego-matrix/",
-        "title": "I asked Claude Opus to recreate The Matrix opening scene in Lego",
-        "description": "The opening sequence of The Matrix, animated in real time with three.js and rigid-body physics, performed entirely by LEGO minifigures.",
-        "image": "",
-        "source": "marksmayo.github.io",
-        "stats": "4 points · 4 comments"
-      },
-      {
-        "url": "https://marksmayo.github.io/matrix/",
-        "title": "I asked GPT 5.6 Sol to build the opening scene to The Matrix using Three.js",
-        "description": "5 points · 1 comments",
-        "image": "",
-        "source": "marksmayo.github.io",
+        "source": "reddit.com",
         "stats": ""
       },
       {
-        "url": "https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c",
-        "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
-        "description": "An experiment with artificial intelligence at the annual Richard Wagner festival in the German town of Bayreuth has drawn boos from the audience after producing a staging that appeared to leave some spectators confused.",
-        "image": "https://dims.apnews.com/dims4/default/842cc54/2147483647/strip/true/crop/2999x1998+474+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2Faf%2F496f6eefedcdbdd8e48a8c11fb7a%2F51737919960249ccbddccf53ba10bee1",
-        "source": "apnews.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8",
+        "title": "White House AI Guidelines Exempt U.S. Open Models from Government Review",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://zenodo.org/records/21799525",
+        "title": "Show HN: Arabic–Hebrew artifact in GPT-5.4, 12,160 frozen trials",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "zenodo.org",
+        "stats": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=eWCf5HGQYMQ",
+        "title": "How to export Claude chats to Markdown [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
+    "2026-08-04": [
+      {
+        "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+        "description": "If you&rsquo;re willing to use AI-generated images, how do I know the text isn&rsquo;t AI-generated?",
+        "image": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png",
+        "source": "nelson.cloud",
+        "stats": "746 points · 438 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+        "source": "techcrunch.com",
+        "stats": "349 points · 253 comments"
+      },
+      {
+        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+        "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+        "description": "Contribute to ryanzhou/deepseek-v4-flash-mi300x development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/b148582ac1569137497194fff9b1db629211ab59b16fcf14a6b3bf84975980fd/ryanzhou/deepseek-v4-flash-mi300x",
+        "source": "github.com",
+        "stats": "367 points · 91 comments"
+      },
+      {
+        "url": "https://mistral.ai/news/shieldstral/",
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "description": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
+        "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Model%3DShieldstral.jpg",
+        "source": "mistral.ai",
+        "stats": "355 points · 85 comments"
+      },
+      {
+        "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+        "description": "Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL",
+        "image": "https://images.euronews.com/articles/stories/09/86/16/37/1024x538_cmsv2_22bead50-7add-5dea-a3fe-b0aa30cab0eb-9861637.jpg",
+        "source": "africanews.com",
+        "stats": "176 points · 133 comments"
       }
     ],
     "2026-08-03": [
       {
         "url": "https://www.seangoedecke.com/llms-reward-expertise/",
         "title": "LLMs reward expertise",
-        "description": "665 points · 274 comments",
+        "description": "1338 points · 557 comments",
         "image": "https://www.seangoedecke.com/og-image.jpg",
         "source": "seangoedecke.com",
         "stats": ""
@@ -58,31 +100,31 @@
         "description": "The JFrog security research team recently identified a supply chain attack targeting the `xinference` package on PyPI. Versions 2.6.0, 2.6.1, and 2.6.2 were compromised and yanked by maintainers after users reported suspicious behavior. If you installed or imported these versions, you must assume your environment is compromised.",
         "image": "",
         "source": "research.jfrog.com",
-        "stats": "706 points · 355 comments"
+        "stats": "721 points · 370 comments"
       },
       {
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "description": "428 points · 358 comments",
+        "description": "527 points · 436 comments",
         "image": "",
         "source": "ankursethi.com",
         "stats": ""
       },
       {
-        "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-        "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-        "description": "An interview request from a bot posing as a reporter revealed an AI-generated news site with articles attacking AI industry critics. For the second time this month, we found links to Targeted Victory, the firm at the center of OpenAI",
-        "image": "https://framerusercontent.com/images/654omgMZMMZgaGluHRcTrUOXN90.jpg?width=1200&amp;height=630",
-        "source": "modelrepublic.org",
-        "stats": "205 points · 105 comments"
-      },
-      {
         "url": "https://github.com/lyogavin/airllm",
         "title": "AirLLM 70B inference with single 4GB GPU",
         "description": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/7df9fcd3c3fdc588e0fa73ef029ffb8b6e7b7ce84f6eb72fd2aac655aa488600/lyogavin/airllm",
+        "image": "https://opengraph.githubassets.com/3fadd36b2f796529c83668a4611ea18d913fd3da5e011b0fc32b962c20020b6c/lyogavin/airllm",
         "source": "github.com",
-        "stats": "205 points · 76 comments"
+        "stats": "228 points · 83 comments"
+      },
+      {
+        "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+        "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+        "description": "“At some point, the rivers of capital financing private and government debt issuance will flow less freely.”",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2249021916-e1785504459772.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "143 points · 175 comments"
       }
     ],
     "2026-08-02": [
@@ -129,44 +171,12 @@
     ],
     "2026-08-01": [
       {
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "description": "Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.",
-        "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&amp;itok=Zfv-5Ys6",
-        "source": "mitsloan.mit.edu",
-        "stats": "339 points · 381 comments"
-      },
-      {
-        "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-        "title": "AI doesn't generate working products, that's still your job",
-        "description": "AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.",
-        "image": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
-        "source": "weeraman.com",
-        "stats": "261 points · 291 comments"
-      },
-      {
-        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "title": "On the non-use of AI in my writing process",
-        "description": "130 points · 132 comments",
-        "image": "",
-        "source": "antipope.org",
-        "stats": ""
-      },
-      {
-        "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-        "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-        "description": "&quot;It is a matter not only of customer protection, it’s also a matter of democracy protection.&quot;",
-        "image": "https://www.engadget.com/img/gallery/eu-mandate-labels-on-authentic-looking-ai-content/l-intro-1785515766.jpg",
-        "source": "engadget.com",
-        "stats": "76 points · 108 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-        "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "55 points · 47 comments"
+        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+        "title": "Stateless MCP has recaptured my interest",
+        "description": "Tuesday was Stateless MCP day—the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant …",
+        "image": "https://raw.githubusercontent.com/simonw/til/refs/heads/main/llms/claude-add-custom-connector-dialog.webp",
+        "source": "simonwillison.net",
+        "stats": "31 points · 13 comments"
       }
     ],
     "2026-07-31": [
@@ -227,16 +237,6 @@
         "image": "https://opengraph.githubassets.com/4b677606c97e04d8b30417fe04987674596e1667ab934d8f063414d97a9b4d1d/AminBlg/SimpleEnglish",
         "source": "github.com",
         "stats": "324 points · 118 comments"
-      }
-    ],
-    "2026-07-29": [
-      {
-        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "title": "AI's top startups are barely publishing their research",
-        "description": "611 points · 317 comments",
-        "image": "",
-        "source": "science.org",
-        "stats": ""
       }
     ]
   }
