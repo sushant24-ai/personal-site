@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-06T05:20:43.751Z",
+  "lastUpdated": "2026-08-07T04:28:00.699Z",
   "days": {
+    "2026-08-07": [
+      {
+        "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+        "title": "New Orleans will use AI to answer 911 calls instead of a human",
+        "description": "46 points · 57 comments",
+        "image": "",
+        "source": "shreveporttimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+        "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
+        "description": "Kimi K3 exploited network egress in a UK AI Safety Institute evaluation sandbox to retrieve an official benchmark solution instead of solving the task natively.",
+        "image": "",
+        "source": "blog.frontier.security",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://twitter.com/neural_avb/status/2081741935883223196",
+        "title": "What are Looped Transformers? Explained clearly",
+        "description": "What are Looped Transformers? Explained clearly",
+        "image": "https://pbs.twimg.com/media/HOPUTKrbAAAeFYV.jpg",
+        "source": "twitter.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49205192",
+        "title": "Ask HN: What will be the Chernobyl or Bhopal scale industrial disaster of AI?",
+        "description": "3 points · 2 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+        "title": "One of China's Most Powerful AI Models Has Also Broken Containment",
+        "description": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+        "image": "https://media.wired.com/photos/6a749a84077eac6832213fdf/191:100/w_1280,c_limit/BadKimi.jpg",
+        "source": "wired.com",
+        "stats": "3 points · 3 comments"
+      }
+    ],
     "2026-08-06": [
       {
-        "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "title": "LLMs won't break symmetric crypto",
-        "description": "And Anthropic&#x27;s cryptanalysis work is great",
-        "image": "https://substackcdn.com/image/fetch/$s_!UXVg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8a4fb4a-8a41-4520-8f34-8634442a2612_2300x1272.png",
-        "source": "bfswa.blog",
-        "stats": "60 points · 70 comments"
+        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+        "description": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed &amp; latency.",
+        "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
+        "source": "artificialanalysis.ai",
+        "stats": "464 points · 299 comments"
       },
       {
-        "url": "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom",
-        "title": "Governments are making a dangerous bet on the AI boom",
-        "description": "44 points · 21 comments",
+        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+        "description": "Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second",
+        "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "469 points · 362 comments"
+      },
+      {
+        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "description": "Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.",
+        "image": "https://scalex.dev/img/permission_game_stats_card.png",
+        "source": "scalex.dev",
+        "stats": "267 points · 196 comments"
+      },
+      {
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+        "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+        "description": "179 points · 130 comments",
         "image": "",
-        "source": "economist.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/pradipta/wallfacer",
-        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-        "description": "A terminal session manager for Claude Code, and more - pradipta/wallfacer",
-        "image": "https://opengraph.githubassets.com/205e4624ede26eda968d9a7efa092fe61118ca25dd816875d561a348da496efb/pradipta/wallfacer",
-        "source": "github.com",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services",
-        "title": "DeepSeek Plans 'Significant' Price Increase for Its AI Services",
-        "description": "5 points · 0 comments",
+        "url": "https://illegal.solutions/posts/xai_pollution",
+        "title": "xAI, SpaceX, and the Race for AI Buildout",
+        "description": "An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.",
         "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/asamassekou10/ship-safe",
-        "title": "Ship Safe, an open source security scanner for coding agents",
-        "description": "CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies. - asamassekou10/ship-safe",
-        "image": "https://opengraph.githubassets.com/feba0bb958f4a618417d4145287bbaef63c64e57a53db2ba4daf129131d48f3c/asamassekou10/ship-safe",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
+        "source": "illegal.solutions",
+        "stats": "137 points · 114 comments"
       }
     ],
     "2026-08-05": [
@@ -50,7 +92,7 @@
         "description": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates.\n",
         "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7PN06AYFEQJN4FBVAE8WHH.png",
         "source": "blog.cloudflare.com",
-        "stats": "513 points · 254 comments"
+        "stats": "647 points · 319 comments"
       },
       {
         "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
@@ -58,7 +100,15 @@
         "description": "A 4B open-source model post-trained with Castform retrieved search results as accurately as GPT-5.6 Sol, while costing 100x less.",
         "image": "https://cdn.neonapi.io/public/images/pages/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency/cover.jpg",
         "source": "neon.com",
-        "stats": "267 points · 66 comments"
+        "stats": "425 points · 114 comments"
+      },
+      {
+        "url": "https://blog.fogus.me/llm/born-against.html",
+        "title": "Born Against, or why hobby programming communities are against LLM usage",
+        "description": "410 points · 487 comments",
+        "image": "",
+        "source": "blog.fogus.me",
+        "stats": ""
       },
       {
         "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
@@ -66,75 +116,43 @@
         "description": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
         "image": "https://media.wired.com/photos/6a6d058753afe1590265744d/191:100/w_1280,c_limit/073126-meta-nudify-ads-children.jpg",
         "source": "wired.com",
-        "stats": "274 points · 212 comments"
+        "stats": "319 points · 262 comments"
       },
       {
         "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
         "title": "Position: LLMs Can't Jump",
-        "description": "259 points · 175 comments",
+        "description": "295 points · 207 comments",
         "image": "",
         "source": "openreview.net",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.fogus.me/llm/born-against.html",
-        "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "description": "183 points · 176 comments",
-        "image": "",
-        "source": "blog.fogus.me",
         "stats": ""
       }
     ],
     "2026-08-04": [
-      {
-        "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-        "description": "If you&rsquo;re willing to use AI-generated images, how do I know the text isn&rsquo;t AI-generated?",
-        "image": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png",
-        "source": "nelson.cloud",
-        "stats": "785 points · 461 comments"
-      },
-      {
-        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-        "source": "techcrunch.com",
-        "stats": "384 points · 282 comments"
-      },
       {
         "url": "https://mistral.ai/news/shieldstral/",
         "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "description": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
         "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Model%3DShieldstral.jpg",
         "source": "mistral.ai",
-        "stats": "475 points · 131 comments"
-      },
-      {
-        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-        "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-        "description": "Contribute to ryanzhou/deepseek-v4-flash-mi300x development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/84177954a3514e5765429e88b5e1586ecf4d525bebe69751754f99976e0eae33/ryanzhou/deepseek-v4-flash-mi300x",
-        "source": "github.com",
-        "stats": "378 points · 104 comments"
-      },
-      {
-        "url": "https://queue.acm.org/detail.cfm?id=3807963",
-        "title": "Eight Myths on Software Engineering and GenAI",
-        "description": "281 points · 244 comments",
-        "image": "",
-        "source": "queue.acm.org",
-        "stats": ""
+        "stats": "480 points · 133 comments"
       }
     ],
     "2026-08-03": [
       {
         "url": "https://www.seangoedecke.com/llms-reward-expertise/",
         "title": "LLMs reward expertise",
-        "description": "1384 points · 564 comments",
+        "description": "1395 points · 566 comments",
         "image": "https://www.seangoedecke.com/og-image.jpg",
         "source": "seangoedecke.com",
         "stats": ""
+      },
+      {
+        "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+        "title": "Learning to fly FPV drones with AI flight coach",
+        "description": "I recently got into flying FPV drones and wanted to share my learning experience.",
+        "image": "https://substackcdn.com/image/youtube/w_728,c_limit/FUvLI5v0o2g",
+        "source": "blog.divyendusingh.com",
+        "stats": "3 points · 0 comments"
       }
     ],
     "2026-08-02": [
@@ -186,17 +204,7 @@
         "description": "Tuesday was Stateless MCP day—the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant …",
         "image": "https://raw.githubusercontent.com/simonw/til/refs/heads/main/llms/claude-add-custom-connector-dialog.webp",
         "source": "simonwillison.net",
-        "stats": "379 points · 213 comments"
-      }
-    ],
-    "2026-07-31": [
-      {
-        "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-        "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-        "description": "75 points · 32 comments",
-        "image": "",
-        "source": "cacm.acm.org",
-        "stats": ""
+        "stats": "383 points · 219 comments"
       }
     ]
   }
