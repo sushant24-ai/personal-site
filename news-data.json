@@ -1,64 +1,122 @@
 {
-  "lastUpdated": "2026-08-07T04:28:00.699Z",
+  "lastUpdated": "2026-08-08T03:36:27.052Z",
   "days": {
-    "2026-08-07": [
+    "2026-08-08": [
       {
-        "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-        "title": "New Orleans will use AI to answer 911 calls instead of a human",
-        "description": "46 points · 57 comments",
+        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "title": "Should AI labs be treated like the owners of dangerous animals?",
+        "description": "36 points · 50 comments",
         "image": "",
-        "source": "shreveporttimes.com",
+        "source": "economist.com",
         "stats": ""
       },
       {
-        "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
-        "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
-        "description": "Kimi K3 exploited network egress in a UK AI Safety Institute evaluation sandbox to retrieve an official benchmark solution instead of solving the task natively.",
-        "image": "",
-        "source": "blog.frontier.security",
+        "url": "https://code.claude.com/docs/en/cross-session-messaging",
+        "title": "Message your other Claude Code sessions",
+        "description": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.",
+        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DAgents%2Band%2Bparallel%2Bwork%26appearance%3Dsystem%26title%3DMessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%26description%3DLet%2BClaude%2Blist%2Band%2Bmessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%2Bon%2Bone%2Bmachine%252C%2Band%2Breply%2Bto%2Byour%2Bsessions%2Bon%2Bother%2Bmachines%2Bor%2Bon%2Bthe%2Bweb%2Bthrough%2BRemote%2BControl.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
+        "source": "code.claude.com",
         "stats": "4 points · 0 comments"
       },
       {
-        "url": "https://twitter.com/neural_avb/status/2081741935883223196",
-        "title": "What are Looped Transformers? Explained clearly",
-        "description": "What are Looped Transformers? Explained clearly",
-        "image": "https://pbs.twimg.com/media/HOPUTKrbAAAeFYV.jpg",
-        "source": "twitter.com",
+        "url": "https://www.youtube.com/watch?v=87DyyMV0kCY",
+        "title": "Black Hat USA 2026: The OpenAI–Hugging Face Incident [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
         "stats": "3 points · 0 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49205192",
-        "title": "Ask HN: What will be the Chernobyl or Bhopal scale industrial disaster of AI?",
-        "description": "3 points · 2 comments",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
+        "title": "AI struggles to patch vulns without adult supervision",
+        "description": "Left alone, autonomous fixes often fail to fully remediate flaws",
+        "image": "https://image.theregister.com/5255449.jpg?imageId=5255449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+        "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
+        "description": "Download Buddy: the AI mobile browser by Whim Studio, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Buddy: the AI…",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/dc/d4/46dcd42b-f45b-4b05-37a7-6229583ab8a7/Placeholder.mill/1200x630wa.jpg",
+        "source": "apps.apple.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
+    "2026-08-07": [
+      {
+        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "title": "DeepSeek V4 Flash 0731",
+        "description": "DeepSeek V4 Flash 0731 reasoning variants across ARC-AGI-1, ARC-AGI-2, and ARC-AGI-3.",
+        "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
+        "source": "arcprize.org",
+        "stats": "501 points · 304 comments"
+      },
+      {
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "description": "Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.\n\nThe policy contrasts sharply with Oracle&#x27;s internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle&#x27;s code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.\n\nOracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle&#x27;s rating to BBB-, one notch above junk status, citing uncertain returns on investment.",
+        "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
+        "source": "app.dealroom.co",
+        "stats": "409 points · 277 comments"
+      },
+      {
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "title": "Managing AI Coding Costs at Scale",
+        "description": "AI coding tools deli",
+        "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
+        "source": "databricks.com",
+        "stats": "179 points · 179 comments"
+      },
+      {
+        "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+        "title": "AI psychosis is the new leadership blind spot",
+        "description": "162 points · 103 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "fastcompany.com",
         "stats": ""
       },
       {
-        "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-        "title": "One of China's Most Powerful AI Models Has Also Broken Containment",
-        "description": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-        "image": "https://media.wired.com/photos/6a749a84077eac6832213fdf/191:100/w_1280,c_limit/BadKimi.jpg",
-        "source": "wired.com",
-        "stats": "3 points · 3 comments"
+        "url": "https://blog.cloudflare.com/kitesurf/",
+        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+        "description": "We should be giving all agents tools that excel at what’s important for an AI model. Kitesurf is Cloudflare’s new stateless, highly scalable, and cost-effective web browser that runs entirely on top of Workers and was designed specifically for the Agentic Cloud.",
+        "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZBWYMKT77FDVB07PHA3R5WM.png",
+        "source": "blog.cloudflare.com",
+        "stats": "172 points · 44 comments"
       }
     ],
     "2026-08-06": [
-      {
-        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-        "description": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed &amp; latency.",
-        "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
-        "source": "artificialanalysis.ai",
-        "stats": "464 points · 299 comments"
-      },
       {
         "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "description": "Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second",
         "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "source": "theregister.com",
-        "stats": "469 points · 362 comments"
+        "stats": "895 points · 669 comments"
+      },
+      {
+        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+        "description": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed &amp; latency.",
+        "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
+        "source": "artificialanalysis.ai",
+        "stats": "533 points · 341 comments"
+      },
+      {
+        "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+        "title": "Software development with AI is starting to feel like cooking steak",
+        "description": "Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.",
+        "image": "",
+        "source": "blog.sydorets.com",
+        "stats": "400 points · 415 comments"
+      },
+      {
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+        "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+        "description": "309 points · 257 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       },
       {
         "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
@@ -66,23 +124,7 @@
         "description": "Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.",
         "image": "https://scalex.dev/img/permission_game_stats_card.png",
         "source": "scalex.dev",
-        "stats": "267 points · 196 comments"
-      },
-      {
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-        "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-        "description": "179 points · 130 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://illegal.solutions/posts/xai_pollution",
-        "title": "xAI, SpaceX, and the Race for AI Buildout",
-        "description": "An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.",
-        "image": "",
-        "source": "illegal.solutions",
-        "stats": "137 points · 114 comments"
+        "stats": "330 points · 244 comments"
       }
     ],
     "2026-08-05": [
@@ -92,39 +134,39 @@
         "description": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates.\n",
         "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7PN06AYFEQJN4FBVAE8WHH.png",
         "source": "blog.cloudflare.com",
-        "stats": "647 points · 319 comments"
+        "stats": "658 points · 331 comments"
       },
       {
         "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
         "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
         "description": "A 4B open-source model post-trained with Castform retrieved search results as accurately as GPT-5.6 Sol, while costing 100x less.",
-        "image": "https://cdn.neonapi.io/public/images/pages/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency/cover.jpg",
+        "image": "https://cdn.neonapi.io/public/images/pages/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency/cover-1.jpg",
         "source": "neon.com",
-        "stats": "425 points · 114 comments"
+        "stats": "429 points · 122 comments"
       },
       {
         "url": "https://blog.fogus.me/llm/born-against.html",
         "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "description": "410 points · 487 comments",
+        "description": "427 points · 517 comments",
         "image": "",
         "source": "blog.fogus.me",
         "stats": ""
       },
       {
-        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-        "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-        "description": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
-        "image": "https://media.wired.com/photos/6a6d058753afe1590265744d/191:100/w_1280,c_limit/073126-meta-nudify-ads-children.jpg",
-        "source": "wired.com",
-        "stats": "319 points · 262 comments"
+        "url": "https://arxiv.org/abs/2510.01395",
+        "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+        "description": "Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users&#39; actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants&#39; willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "172 points · 104 comments"
       },
       {
-        "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-        "title": "Position: LLMs Can't Jump",
-        "description": "295 points · 207 comments",
-        "image": "",
-        "source": "openreview.net",
-        "stats": ""
+        "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+        "title": "Why Erdős Problems Are Falling to AI",
+        "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid&#x2d;20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.",
+        "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Social.jpg",
+        "source": "quantamagazine.org",
+        "stats": "151 points · 139 comments"
       }
     ],
     "2026-08-04": [
@@ -141,18 +183,10 @@
       {
         "url": "https://www.seangoedecke.com/llms-reward-expertise/",
         "title": "LLMs reward expertise",
-        "description": "1395 points · 566 comments",
+        "description": "1404 points · 568 comments",
         "image": "https://www.seangoedecke.com/og-image.jpg",
         "source": "seangoedecke.com",
         "stats": ""
-      },
-      {
-        "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
-        "title": "Learning to fly FPV drones with AI flight coach",
-        "description": "I recently got into flying FPV drones and wanted to share my learning experience.",
-        "image": "https://substackcdn.com/image/youtube/w_728,c_limit/FUvLI5v0o2g",
-        "source": "blog.divyendusingh.com",
-        "stats": "3 points · 0 comments"
       }
     ],
     "2026-08-02": [
@@ -195,16 +229,6 @@
         "image": "https://images.euronews.com/articles/stories/09/85/74/44/1200x675_cmsv2_b29bb7fe-1f9b-589f-875a-c78ca851d748-9857444.jpg",
         "source": "euronews.com",
         "stats": "53 points · 72 comments"
-      }
-    ],
-    "2026-08-01": [
-      {
-        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-        "title": "Stateless MCP has recaptured my interest",
-        "description": "Tuesday was Stateless MCP day—the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant …",
-        "image": "https://raw.githubusercontent.com/simonw/til/refs/heads/main/llms/claude-add-custom-connector-dialog.webp",
-        "source": "simonwillison.net",
-        "stats": "383 points · 219 comments"
       }
     ]
   }
