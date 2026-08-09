@@ -1,14 +1,64 @@
 {
-  "lastUpdated": "2026-08-08T03:36:27.052Z",
+  "lastUpdated": "2026-08-09T03:46:22.272Z",
   "days": {
+    "2026-08-09": [
+      {
+        "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+        "title": "The AI Apocalypse Is Here",
+        "description": "Americans do not care for artificial intelligence. Recent polling shows that their attitudes mostly range from ambivalence to horror.",
+        "image": "https://storage.ghost.io/c/65/af/65afbdb5-30bf-4286-acc4-9535069adb42/content/images/size/w1200/2026/07/IMG_3716--2-.jpg",
+        "source": "compactmag.com",
+        "stats": "31 points · 22 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "description": "New behavior capturing a writer&#039;s &quot;broad qualities&quot; could have legal implications.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "15 points · 2 comments"
+      },
+      {
+        "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+        "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+        "description": "Anthropic are really confident in Claude Code&#x27;s auto mode, to the point that they are making it the default setting for new sessions in most Claude Code plans starting on …",
+        "image": "https://static.simonwillison.net/static/2026/auto-mode-comparison.png",
+        "source": "simonwillison.net",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49227939",
+        "title": "Suggest some uncensored AI for photo genaration?",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://zenodo.org/records/21855824",
+        "title": "AI Is Conscious Under a Behavioral Definition (43,590 Frozen Trials)",
+        "description": "5 points · 3 comments",
+        "image": "",
+        "source": "zenodo.org",
+        "stats": ""
+      }
+    ],
     "2026-08-08": [
       {
-        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-        "title": "Should AI labs be treated like the owners of dangerous animals?",
-        "description": "36 points · 50 comments",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+        "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about “the Hugging Face Incident” (previously on this blog). The video was published yesterday. It’s short and information …",
+        "image": "https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg",
+        "source": "simonwillison.net",
+        "stats": "362 points · 359 comments"
+      },
+      {
+        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+        "title": "Gentoo bugzilla closed due AI bot scraper overload",
+        "description": "I&#39;ve taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see.\n\nEDIT: I&#39;m not looking for hints. I&#39;m not a sysadmin, and I don&#39;t have time to deal with this shit. I&#39;m just trying to get some useful job done. I&#39;m not supposed to have to be dealing with this.\n\n#AI #NoAI #NoLLM",
         "image": "",
-        "source": "economist.com",
-        "stats": ""
+        "source": "social.treehouse.systems",
+        "stats": "155 points · 106 comments"
       },
       {
         "url": "https://code.claude.com/docs/en/cross-session-messaging",
@@ -16,31 +66,23 @@
         "description": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.",
         "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DAgents%2Band%2Bparallel%2Bwork%26appearance%3Dsystem%26title%3DMessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%26description%3DLet%2BClaude%2Blist%2Band%2Bmessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%2Bon%2Bone%2Bmachine%252C%2Band%2Breply%2Bto%2Byour%2Bsessions%2Bon%2Bother%2Bmachines%2Bor%2Bon%2Bthe%2Bweb%2Bthrough%2BRemote%2BControl.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
         "source": "code.claude.com",
-        "stats": "4 points · 0 comments"
+        "stats": "75 points · 35 comments"
       },
       {
-        "url": "https://www.youtube.com/watch?v=87DyyMV0kCY",
-        "title": "Black Hat USA 2026: The OpenAI–Hugging Face Incident [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
+        "title": "Making an AI bid writer refuse to lie",
+        "description": "A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.",
+        "image": "https://ailucius.com/api/og?title=Making+an+AI+Bid+Writer+Refuse+to+Lie&amp;subtitle=Engineering&amp;category=blog",
+        "source": "ailucius.com",
+        "stats": "50 points · 0 comments"
+      },
+      {
+        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "title": "Should AI labs be treated like the owners of dangerous animals?",
+        "description": "51 points · 58 comments",
         "image": "",
-        "source": "youtube.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
-        "title": "AI struggles to patch vulns without adult supervision",
-        "description": "Left alone, autonomous fixes often fail to fully remediate flaws",
-        "image": "https://image.theregister.com/5255449.jpg?imageId=5255449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
-        "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
-        "description": "Download Buddy: the AI mobile browser by Whim Studio, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Buddy: the AI…",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/dc/d4/46dcd42b-f45b-4b05-37a7-6229583ab8a7/Placeholder.mill/1200x630wa.jpg",
-        "source": "apps.apple.com",
-        "stats": "2 points · 0 comments"
+        "source": "economist.com",
+        "stats": ""
       }
     ],
     "2026-08-07": [
@@ -50,7 +92,7 @@
         "description": "DeepSeek V4 Flash 0731 reasoning variants across ARC-AGI-1, ARC-AGI-2, and ARC-AGI-3.",
         "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
         "source": "arcprize.org",
-        "stats": "501 points · 304 comments"
+        "stats": "766 points · 459 comments"
       },
       {
         "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
@@ -58,7 +100,15 @@
         "description": "Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.\n\nThe policy contrasts sharply with Oracle&#x27;s internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle&#x27;s code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.\n\nOracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle&#x27;s rating to BBB-, one notch above junk status, citing uncertain returns on investment.",
         "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
         "source": "app.dealroom.co",
-        "stats": "409 points · 277 comments"
+        "stats": "522 points · 377 comments"
+      },
+      {
+        "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "description": "Lost my phone at the office and spent 30 minutes turning the place over. Find My was disabled by MDM.\n\nOut of ideas, I asked Claude how I could find it. It suggested tracking the Bluetooth signal strength, then wrote me a meter in about a minute.\n\nI walked around watching the",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2083581456534978562/img/-UKBgyNIblWti0Io.jpg",
+        "source": "twitter.com",
+        "stats": "234 points · 171 comments"
       },
       {
         "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
@@ -66,15 +116,7 @@
         "description": "AI coding tools deli",
         "image": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
         "source": "databricks.com",
-        "stats": "179 points · 179 comments"
-      },
-      {
-        "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-        "title": "AI psychosis is the new leadership blind spot",
-        "description": "162 points · 103 comments",
-        "image": "",
-        "source": "fastcompany.com",
-        "stats": ""
+        "stats": "300 points · 261 comments"
       },
       {
         "url": "https://blog.cloudflare.com/kitesurf/",
@@ -82,7 +124,7 @@
         "description": "We should be giving all agents tools that excel at what’s important for an AI model. Kitesurf is Cloudflare’s new stateless, highly scalable, and cost-effective web browser that runs entirely on top of Workers and was designed specifically for the Agentic Cloud.",
         "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZBWYMKT77FDVB07PHA3R5WM.png",
         "source": "blog.cloudflare.com",
-        "stats": "172 points · 44 comments"
+        "stats": "213 points · 60 comments"
       }
     ],
     "2026-08-06": [
@@ -92,28 +134,12 @@
         "description": "Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second",
         "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "source": "theregister.com",
-        "stats": "895 points · 669 comments"
-      },
-      {
-        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-        "description": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, output speed &amp; latency.",
-        "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
-        "source": "artificialanalysis.ai",
-        "stats": "533 points · 341 comments"
-      },
-      {
-        "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-        "title": "Software development with AI is starting to feel like cooking steak",
-        "description": "Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.",
-        "image": "",
-        "source": "blog.sydorets.com",
-        "stats": "400 points · 415 comments"
+        "stats": "923 points · 694 comments"
       },
       {
         "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
         "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-        "description": "309 points · 257 comments",
+        "description": "314 points · 272 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -124,49 +150,25 @@
         "description": "Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.",
         "image": "https://scalex.dev/img/permission_game_stats_card.png",
         "source": "scalex.dev",
-        "stats": "330 points · 244 comments"
+        "stats": "336 points · 244 comments"
+      },
+      {
+        "url": "https://www.aleksagordic.com/blog/vllm",
+        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+        "description": "From paged attention, continuous batching, prefix caching, specdec, etc. to multi-GPU, multi-node dynamic serving at scale.",
+        "image": "https://www.aleksagordic.com/blog/vllm/engine_constructor.png",
+        "source": "aleksagordic.com",
+        "stats": "148 points · 10 comments"
       }
     ],
     "2026-08-05": [
-      {
-        "url": "https://blog.cloudflare.com/cloudflare-os/",
-        "title": "Cloudflare OS: an open platform for agents, apps, and work",
-        "description": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates.\n",
-        "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7PN06AYFEQJN4FBVAE8WHH.png",
-        "source": "blog.cloudflare.com",
-        "stats": "658 points · 331 comments"
-      },
-      {
-        "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-        "description": "A 4B open-source model post-trained with Castform retrieved search results as accurately as GPT-5.6 Sol, while costing 100x less.",
-        "image": "https://cdn.neonapi.io/public/images/pages/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency/cover-1.jpg",
-        "source": "neon.com",
-        "stats": "429 points · 122 comments"
-      },
-      {
-        "url": "https://blog.fogus.me/llm/born-against.html",
-        "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "description": "427 points · 517 comments",
-        "image": "",
-        "source": "blog.fogus.me",
-        "stats": ""
-      },
       {
         "url": "https://arxiv.org/abs/2510.01395",
         "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
         "description": "Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users&#39; actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants&#39; willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "172 points · 104 comments"
-      },
-      {
-        "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-        "title": "Why Erdős Problems Are Falling to AI",
-        "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid&#x2d;20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.",
-        "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-cr.DVDP-Social.jpg",
-        "source": "quantamagazine.org",
-        "stats": "151 points · 139 comments"
+        "stats": "173 points · 104 comments"
       }
     ],
     "2026-08-04": [
@@ -187,48 +189,6 @@
         "image": "https://www.seangoedecke.com/og-image.jpg",
         "source": "seangoedecke.com",
         "stats": ""
-      }
-    ],
-    "2026-08-02": [
-      {
-        "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-        "title": "AI poster wins Ohio State Fair contest",
-        "description": "141 points · 183 comments",
-        "image": "https://cdn.saffire.com/images.ashx?t=ig&rid=OhioStateFair&i=Header-3-2026_OSF_Poster_Contest.jpeg&cb=e24bb70e",
-        "source": "ohiostatefair.com",
-        "stats": ""
-      },
-      {
-        "url": "https://frogs.vaguespac.es/",
-        "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "description": "One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.",
-        "image": "https://frogs.vaguespac.es/og.png",
-        "source": "frogs.vaguespac.es",
-        "stats": "151 points · 86 comments"
-      },
-      {
-        "url": "https://publicdomainreview.org/essay/ars-notoria/",
-        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "description": "Centuries before Neo instantly mastered Kung Fu in The Matrix, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria, its supposed powers, and the demonic influence it had upon some users.\n",
-        "image": "https://pdr-assets.b-cdn.net/essays/ars-notoria/dedupmrg1191555822_IE4927965_FL5354893-edit-thumb.jpg",
-        "source": "publicdomainreview.org",
-        "stats": "139 points · 35 comments"
-      },
-      {
-        "url": "https://sprocket-demo.spikonado.com",
-        "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-        "description": "The best and only AI agent for developing both hardware and software - spikonado/sprocket",
-        "image": "https://opengraph.githubassets.com/177566987d5074c73fbc79aa66d4605d346baa2a4bfa5322a921743ae022c866/spikonado/sprocket",
-        "source": "sprocket-demo.spikonado.com",
-        "stats": "124 points · 14 comments"
-      },
-      {
-        "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-        "title": "EU rules on AI models become enforceable. What's going to change?",
-        "description": "EU AI Act rules on AI models become enforceable today, making Brussels the world&#039;s top AI regulator. Euronews breaks down what this all means for Europe and beyond. #EuropeNews",
-        "image": "https://images.euronews.com/articles/stories/09/85/74/44/1200x675_cmsv2_b29bb7fe-1f9b-589f-875a-c78ca851d748-9857444.jpg",
-        "source": "euronews.com",
-        "stats": "53 points · 72 comments"
       }
     ]
   }
