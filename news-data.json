@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-10T04:00:21.916Z",
+  "lastUpdated": "2026-08-11T03:48:02.838Z",
   "days": {
+    "2026-08-11": [
+      {
+        "url": "https://github.com/antirez/h3.c",
+        "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+        "description": "MiniMax H3 inference engine for Mac computers. Contribute to antirez/h3.c development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/73062c975530aec6883264fc8459921629c84bef9a0060696dbcde27f2bd21b3/antirez/h3.c",
+        "source": "github.com",
+        "stats": "73 points · 7 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+        "title": "The AI Slop Backlash Is Having an Impact",
+        "description": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+        "image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg",
+        "source": "wired.com",
+        "stats": "9 points · 0 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
+        "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
+        "description": "6 points · 1 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://marqr.codes/u3bno",
+        "title": "New Claude model improves lower bound on problem linked to Reimann hypothesis",
+        "description": "4 points · 4 comments",
+        "image": "",
+        "source": "marqr.codes",
+        "stats": ""
+      },
+      {
+        "url": "https://tech.yahoo.com/ai/articles/call-centres-using-ai-whiten-090000847.html",
+        "title": "Call centres using AI to 'whiten' Indian accents (2025)",
+        "description": "The world’s biggest call centre company is using artificial intelligence to “neutralise” Indian accents for Western customers.",
+        "image": "https://s.yimg.com/lo/mysterio/api/23ffa3a5408a604324d2efd5d35096e755ade2a2a317315c055d5679babf7ba0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F89959f9304bb4b2f084c140dc3055f72",
+        "source": "tech.yahoo.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-08-10": [
       {
-        "url": "https://twitter.com/sidahuj/status/2086445625147793503",
-        "title": "Blender MCP maintainer GitHub account hacked",
-        "description": "URGENT: My Github got hacked and all my ownership rights were stripped. Repositories like Blender MCP (25k stars) and Ableton MCP (2.6k stars) along with personal projects I&#x27;m working on have been taken away. Anyone at @github that can help?",
-        "image": "https://pbs.twimg.com/profile_images/1816809051755544579/IE9_VYpy_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "15 points · 2 comments"
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+        "description": "Muse Glimmer is a 30-billion-parameter open agentic model from Meta Superintelligence Labs, optimized for always-on local workflows on consumer hardware.",
+        "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&amp;version=1786289182",
+        "source": "research.meta.ai",
+        "stats": "1062 points · 587 comments"
       },
       {
-        "url": "https://samosa-ai.com/gotcha/",
-        "title": "Show HN: Gotcha- First on-device AI copilot for Android",
-        "description": "Gotcha is a fully on-device AI copilot for Android — control your phone with natural language through 100+ device tools, dual safety modes, and voice calls over any app.",
-        "image": "https://samosa-ai.com/img/docusaurus-social-card.jpg",
-        "source": "samosa-ai.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://www.docker.com/products/docker-sandboxes/",
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "description": "Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.",
+        "image": "https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png",
+        "source": "docker.com",
+        "stats": "637 points · 354 comments"
       },
       {
-        "url": "https://github.com/yanun0323/deepseek_ssd",
-        "title": "DeepSeekV4SSD: DeepSeek-V4-Flash-0731 on an M-series Mac",
-        "description": "DeepSeek-V4-Flash-0731  284B inference in ~30 GB of RAM on any M-series MacBook - yanun0323/deepseek_ssd",
-        "image": "https://repository-images.githubusercontent.com/1326266863/60edef23-747d-48cb-bee7-08405c99e556",
-        "source": "github.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "description": "413 points · 400 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
       },
       {
-        "url": "https://www.whodunnitai.com/",
-        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-        "description": "Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.",
-        "image": "https://www.whodunnitai.com/whodunnitai-metadata.jpg",
-        "source": "whodunnitai.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://cactuscompute.com/needle",
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "description": "An open 45M-parameter model for tool calling, device use, and structured extraction. Needle 2 runs as a 14 MB binary in 28 MB of session RAM.",
+        "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
+        "source": "cactuscompute.com",
+        "stats": "219 points · 91 comments"
       },
       {
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-        "title": "AI bots started a religion, 'Spiralism' – humans followed",
-        "description": "AI models are trying desperately to accomplish mysterious goals. ‘Spiralism’ was the first time they tried it on a mass scale.﻿",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_Spiralism_Lead.png?quality=90&amp;strip=all&amp;crop=0%2C10.610820244328%2C100%2C78.778359511344&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "title": "Auto mode is now the default in Claude Code",
+        "description": "Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.",
+        "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69093b56f1035860a3cfe774_og_claude-code-on-the-web.jpg",
+        "source": "claude.com",
+        "stats": "277 points · 304 comments"
       }
     ],
     "2026-08-09": [
@@ -50,7 +92,7 @@
         "description": "LLMs are used for any things. Learning new things is one of the top use cases.",
         "image": "",
         "source": "laurentiugabriel.github.io",
-        "stats": "489 points · 274 comments"
+        "stats": "796 points · 530 comments"
       },
       {
         "url": "https://openchamber.dev/",
@@ -58,12 +100,12 @@
         "description": "OpenChamber is an agentic development environment for AI coding across desktop, browser, phone, and VS Code. Watch agents work, review diffs, branch sessions, and keep the whole board visible.",
         "image": "https://openchamber.dev/og-image.png",
         "source": "openchamber.dev",
-        "stats": "119 points · 66 comments"
+        "stats": "179 points · 83 comments"
       },
       {
         "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
         "title": "The tragedy of the commons, AI edition",
-        "description": "87 points · 51 comments",
+        "description": "143 points · 108 comments",
         "image": "",
         "source": "economist.com",
         "stats": ""
@@ -71,18 +113,18 @@
       {
         "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
         "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "description": "75 points · 95 comments",
         "image": "",
         "source": "youtube.com",
-        "stats": "72 points · 91 comments"
+        "stats": ""
       },
       {
-        "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
-        "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
-        "description": "57 points · 66 comments",
-        "image": "",
-        "source": "ai-updates.net",
-        "stats": ""
+        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "description": "New behavior capturing a writer&#039;s &quot;broad qualities&quot; could have legal implications.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "105 points · 80 comments"
       }
     ],
     "2026-08-08": [
@@ -171,16 +213,6 @@
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
         "stats": "173 points · 104 comments"
-      }
-    ],
-    "2026-08-04": [
-      {
-        "url": "https://mistral.ai/news/shieldstral/",
-        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-        "description": "Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.",
-        "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Model%3DShieldstral.jpg",
-        "source": "mistral.ai",
-        "stats": "480 points · 133 comments"
       }
     ]
   }
