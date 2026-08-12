@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-11T03:48:02.838Z",
+  "lastUpdated": "2026-08-12T04:10:41.403Z",
   "days": {
+    "2026-08-12": [
+      {
+        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+        "description": "Research Gold&#x27;s team of human methodologists are either AI generated or using the identity of real people without their permission",
+        "image": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDExfHxyZXNlYXJjaGVyfGVufDB8fHx8MTc4NjM2OTE1Mnww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "404media.co",
+        "stats": "54 points · 11 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+        "description": "But will Gemini&#039;s surge survive slowing model releases?",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "13 points · 9 comments"
+      },
+      {
+        "url": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
+        "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
+        "description": "DignifAI, a 4chan-led campaign to put clothes on thots, is just another way trolls are using AI to humiliate women. ",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2024/02/isla-david-portrait.jpg?crop=0px%2C47px%2C1800px%2C1015px&#038;resize=1600%2C900",
+        "source": "rollingstone.com",
+        "stats": "14 points · 1 comments"
+      },
+      {
+        "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
+        "title": "What happens when the AI bubble pops?",
+        "description": "From the bicycle frenzy to the dot-com boom to today’s AI race, financial history is littered with bubbles. So what happens when they pop? ",
+        "image": "https://thehustle.co/hubfs/AI-Bubble-1.png",
+        "source": "thehustle.co",
+        "stats": "7 points · 1 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=OunJtLnyPT4",
+        "title": "The 7T AI Gamble Is Failing. Big Tech Is Trapped",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-08-11": [
       {
-        "url": "https://github.com/antirez/h3.c",
-        "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
-        "description": "MiniMax H3 inference engine for Mac computers. Contribute to antirez/h3.c development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/73062c975530aec6883264fc8459921629c84bef9a0060696dbcde27f2bd21b3/antirez/h3.c",
+        "url": "https://stolen-thoughts.com/",
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "description": "Encrypted chain-of-thought blocks returned by Anthropic, OpenAI and Google APIs are interchangeable across sessions, users and models. We exploit this to decode hidden reasoning at scale.",
+        "image": "",
+        "source": "stolen-thoughts.com",
+        "stats": "542 points · 228 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+        "title": "OpenAI’s head of ethics leaves less than a year after joining",
+        "description": "333 points · 357 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "title": "Go is an ideal language for AI-assisted software engineering",
+        "description": "As AI shifts software engineering from writing to reviewing, discover how Go&#x27;s strict compiler and unified toolchain ensure reliable AI-generated code.",
+        "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Go_Logo_-_Blue.2e16d0ba.fill-1200x600.png",
+        "source": "developers.googleblog.com",
+        "stats": "307 points · 362 comments"
+      },
+      {
+        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. - trycua/cua",
+        "image": "https://opengraph.githubassets.com/d67a5644878e34ea201c4a0dfc9059a6e6677364c1a0f1e998df344dee32a3bf/trycua/cua",
         "source": "github.com",
-        "stats": "73 points · 7 comments"
+        "stats": "289 points · 43 comments"
       },
       {
-        "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-        "title": "The AI Slop Backlash Is Having an Impact",
-        "description": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-        "image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg",
-        "source": "wired.com",
-        "stats": "9 points · 0 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
-        "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
-        "description": "6 points · 1 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
-      },
-      {
-        "url": "https://marqr.codes/u3bno",
-        "title": "New Claude model improves lower bound on problem linked to Reimann hypothesis",
-        "description": "4 points · 4 comments",
-        "image": "",
-        "source": "marqr.codes",
-        "stats": ""
-      },
-      {
-        "url": "https://tech.yahoo.com/ai/articles/call-centres-using-ai-whiten-090000847.html",
-        "title": "Call centres using AI to 'whiten' Indian accents (2025)",
-        "description": "The world’s biggest call centre company is using artificial intelligence to “neutralise” Indian accents for Western customers.",
-        "image": "https://s.yimg.com/lo/mysterio/api/23ffa3a5408a604324d2efd5d35096e755ade2a2a317315c055d5679babf7ba0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F89959f9304bb4b2f084c140dc3055f72",
-        "source": "tech.yahoo.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://github.com/antirez/h3.c",
+        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+        "description": "MiniMax H3 inference engine for Mac computers. Contribute to antirez/h3.c development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/b1844db03603b79387b6aa90c79eddc4206727b24ecb11a8e7c92fbd9e5b42eb/antirez/h3.c",
+        "source": "github.com",
+        "stats": "428 points · 94 comments"
       }
     ],
     "2026-08-10": [
@@ -50,20 +92,28 @@
         "description": "Muse Glimmer is a 30-billion-parameter open agentic model from Meta Superintelligence Labs, optimized for always-on local workflows on consumer hardware.",
         "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&amp;version=1786289182",
         "source": "research.meta.ai",
-        "stats": "1062 points · 587 comments"
+        "stats": "1182 points · 636 comments"
       },
       {
-        "url": "https://www.docker.com/products/docker-sandboxes/",
-        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-        "description": "Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.",
-        "image": "https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png",
-        "source": "docker.com",
-        "stats": "637 points · 354 comments"
+        "url": "https://thewalrus.ca/google-search-is-dying/",
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "description": "877 points · 893 comments",
+        "image": "",
+        "source": "thewalrus.ca",
+        "stats": ""
+      },
+      {
+        "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+        "title": "How Claude marks AI-generated content",
+        "description": "425 points · 391 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
+        "stats": ""
       },
       {
         "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
         "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-        "description": "413 points · 400 comments",
+        "description": "630 points · 594 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
@@ -74,15 +124,7 @@
         "description": "An open 45M-parameter model for tool calling, device use, and structured extraction. Needle 2 runs as a 14 MB binary in 28 MB of session RAM.",
         "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
         "source": "cactuscompute.com",
-        "stats": "219 points · 91 comments"
-      },
-      {
-        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "title": "Auto mode is now the default in Claude Code",
-        "description": "Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.",
-        "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69093b56f1035860a3cfe774_og_claude-code-on-the-web.jpg",
-        "source": "claude.com",
-        "stats": "277 points · 304 comments"
+        "stats": "510 points · 171 comments"
       }
     ],
     "2026-08-09": [
@@ -203,16 +245,6 @@
         "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "source": "theregister.com",
         "stats": "937 points · 704 comments"
-      }
-    ],
-    "2026-08-05": [
-      {
-        "url": "https://arxiv.org/abs/2510.01395",
-        "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-        "description": "Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users&#39; actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants&#39; willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "173 points · 104 comments"
       }
     ]
   }
