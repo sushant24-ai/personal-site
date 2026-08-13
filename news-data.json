@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-12T04:10:41.403Z",
+  "lastUpdated": "2026-08-13T04:15:19.067Z",
   "days": {
+    "2026-08-13": [
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+        "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+        "description": "18 points · 2 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
+        "title": "Video game lawyer says all her clients have anti-AI contracts",
+        "description": "&quot;Don",
+        "image": "https://cdn.mos.cms.futurecdn.net/RpwAGo8wiBn3WGfd4EGH3A-1920-80.jpg",
+        "source": "gamesradar.com",
+        "stats": "13 points · 3 comments"
+      },
+      {
+        "url": "https://www.whenwillaitakemyjob.ai/",
+        "title": "When Will AI Take My Job?",
+        "description": "Explore projected AI-driven unemployment across 725 U.S. occupations from 2025 to 2039.",
+        "image": "https://whenwillaitakemyjob.ai/opengraph-image.png",
+        "source": "whenwillaitakemyjob.ai",
+        "stats": "11 points · 5 comments"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/c20d292gdp4o",
+        "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+        "description": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dc9e/live/5a173db0-9662-11f1-a654-971f565de941.jpg",
+        "source": "bbc.com",
+        "stats": "12 points · 2 comments"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html",
+        "title": "AI Hype Is Running into Reality",
+        "description": "6 points · 1 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      }
+    ],
     "2026-08-12": [
       {
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-        "description": "Research Gold&#x27;s team of human methodologists are either AI generated or using the identity of real people without their permission",
-        "image": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDExfHxyZXNlYXJjaGVyfGVufDB8fHx8MTc4NjM2OTE1Mnww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "404media.co",
-        "stats": "54 points · 11 comments"
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "title": "DeepSeek V4 Pro 0813",
+        "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. $0.435 per million input tokens, $0.87 per million output tokens. 1,048,576 token context window, maximum output of 384,000 tokens. Includes independent benchmarks from Artificial Analysis.",
+        "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
+        "source": "openrouter.ai",
+        "stats": "806 points · 315 comments"
       },
       {
-        "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-        "description": "But will Gemini&#039;s surge survive slowing model releases?",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "13 points · 9 comments"
-      },
-      {
-        "url": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
-        "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
-        "description": "DignifAI, a 4chan-led campaign to put clothes on thots, is just another way trolls are using AI to humiliate women. ",
-        "image": "https://www.rollingstone.com/wp-content/uploads/2024/02/isla-david-portrait.jpg?crop=0px%2C47px%2C1800px%2C1015px&#038;resize=1600%2C900",
-        "source": "rollingstone.com",
-        "stats": "14 points · 1 comments"
-      },
-      {
-        "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
-        "title": "What happens when the AI bubble pops?",
-        "description": "From the bicycle frenzy to the dot-com boom to today’s AI race, financial history is littered with bubbles. So what happens when they pop? ",
-        "image": "https://thehustle.co/hubfs/AI-Bubble-1.png",
-        "source": "thehustle.co",
-        "stats": "7 points · 1 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=OunJtLnyPT4",
-        "title": "The 7T AI Gamble Is Failing. Big Tech Is Trapped",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "title": "AI is removing the middle class of software engineering?",
+        "description": "AI makes projects with weak engineering culture fail much faster.",
         "image": "",
-        "source": "youtube.com",
-        "stats": "5 points · 0 comments"
+        "source": "blog.florianherrengt.com",
+        "stats": "779 points · 722 comments"
+      },
+      {
+        "url": "https://knownagents.com/insights",
+        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "description": "A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.",
+        "image": "https://knownagents.com/assets/hero.png",
+        "source": "knownagents.com",
+        "stats": "246 points · 186 comments"
+      },
+      {
+        "url": "https://llama.app",
+        "title": "llama.cpp",
+        "description": "Official website for the llama.cpp project",
+        "image": "https://llama.app/og-image-llama-cpp.png",
+        "source": "llama.app",
+        "stats": "351 points · 167 comments"
+      },
+      {
+        "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+        "title": "What sort of maths are LLMs good at?",
+        "description": "For the sake of anyone who might read this blog post in the distant future (a month from now, say), let me mention that I am writing it a few days after OpenAI announced that it had solved ten majo…",
+        "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+        "source": "gowers.wordpress.com",
+        "stats": "242 points · 137 comments"
       }
     ],
     "2026-08-11": [
@@ -50,12 +92,12 @@
         "description": "Encrypted chain-of-thought blocks returned by Anthropic, OpenAI and Google APIs are interchangeable across sessions, users and models. We exploit this to decode hidden reasoning at scale.",
         "image": "",
         "source": "stolen-thoughts.com",
-        "stats": "542 points · 228 comments"
+        "stats": "684 points · 300 comments"
       },
       {
         "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
         "title": "OpenAI’s head of ethics leaves less than a year after joining",
-        "description": "333 points · 357 comments",
+        "description": "507 points · 472 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
@@ -66,23 +108,23 @@
         "description": "As AI shifts software engineering from writing to reviewing, discover how Go&#x27;s strict compiler and unified toolchain ensure reliable AI-generated code.",
         "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Go_Logo_-_Blue.2e16d0ba.fill-1200x600.png",
         "source": "developers.googleblog.com",
-        "stats": "307 points · 362 comments"
+        "stats": "425 points · 500 comments"
+      },
+      {
+        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+        "title": "WorldClaw Agentic 3D open-world generation at scale",
+        "description": "From one open-ended prompt to an explicit, explorable, and editable 3D world.",
+        "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
+        "source": "tencent-hunyuan.github.io",
+        "stats": "269 points · 91 comments"
       },
       {
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. - trycua/cua",
-        "image": "https://opengraph.githubassets.com/d67a5644878e34ea201c4a0dfc9059a6e6677364c1a0f1e998df344dee32a3bf/trycua/cua",
+        "image": "https://opengraph.githubassets.com/e8fa14080345ef0fb5074e0f1350b6619252531914a4db5a7f3c9d04336b482d/trycua/cua",
         "source": "github.com",
-        "stats": "289 points · 43 comments"
-      },
-      {
-        "url": "https://github.com/antirez/h3.c",
-        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-        "description": "MiniMax H3 inference engine for Mac computers. Contribute to antirez/h3.c development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/b1844db03603b79387b6aa90c79eddc4206727b24ecb11a8e7c92fbd9e5b42eb/antirez/h3.c",
-        "source": "github.com",
-        "stats": "428 points · 94 comments"
+        "stats": "302 points · 43 comments"
       }
     ],
     "2026-08-10": [
@@ -92,12 +134,12 @@
         "description": "Muse Glimmer is a 30-billion-parameter open agentic model from Meta Superintelligence Labs, optimized for always-on local workflows on consumer hardware.",
         "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&amp;version=1786289182",
         "source": "research.meta.ai",
-        "stats": "1182 points · 636 comments"
+        "stats": "1198 points · 637 comments"
       },
       {
         "url": "https://thewalrus.ca/google-search-is-dying/",
         "title": "As AI eats the web, the internet’s collective memory is disappearing",
-        "description": "877 points · 893 comments",
+        "description": "927 points · 963 comments",
         "image": "",
         "source": "thewalrus.ca",
         "stats": ""
@@ -105,26 +147,18 @@
       {
         "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
         "title": "How Claude marks AI-generated content",
-        "description": "425 points · 391 comments",
+        "description": "443 points · 408 comments",
         "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
         "source": "support.claude.com",
         "stats": ""
       },
       {
-        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-        "description": "630 points · 594 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://cactuscompute.com/needle",
-        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-        "description": "An open 45M-parameter model for tool calling, device use, and structured extraction. Needle 2 runs as a 14 MB binary in 28 MB of session RAM.",
-        "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
-        "source": "cactuscompute.com",
-        "stats": "510 points · 171 comments"
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "title": "Learning more about Claude's mathematical capabilities",
+        "description": "An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "276 points · 177 comments"
       }
     ],
     "2026-08-09": [
@@ -235,16 +269,6 @@
         "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZBWYMKT77FDVB07PHA3R5WM.png",
         "source": "blog.cloudflare.com",
         "stats": "217 points · 62 comments"
-      }
-    ],
-    "2026-08-06": [
-      {
-        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-        "description": "Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second",
-        "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "937 points · 704 comments"
       }
     ]
   }
