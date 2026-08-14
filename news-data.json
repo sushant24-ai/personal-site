@@ -1,56 +1,98 @@
 {
-  "lastUpdated": "2026-08-13T04:15:19.067Z",
+  "lastUpdated": "2026-08-14T04:11:51.401Z",
   "days": {
+    "2026-08-14": [
+      {
+        "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+        "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d",
+        "title": "Even Claude Is in the Dark About Dario Amodei's Wife",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/",
+        "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
+        "description": "For years, advocates of statically typed languages have made the same argument: types catch mistakes earlier, compilers provide better feedback, IDEs offer better assistance, and large codebases become safer to maintain. That argument rests on an assumption that is rapidly becoming outdated: The person writing the code is human. AI …",
+        "image": "",
+        "source": "yyhh.org",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+        "title": "Error by AI scribe during medical appointment leaves patient devastated",
+        "description": "Artificial Intelligence is listening to many people&#x27;s medical appointments, but it is not always hearing things correctly.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/bc2d354d77c68b0cab2dd861e4944c7d?impolicy=wcms_watermark_news&amp;cropH=1550&amp;cropW=2756&amp;xPos=2033&amp;yPos=318&amp;width=862&amp;height=485&amp;imformat=generic",
+        "source": "abc.net.au",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
+        "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
+        "description": "Opinion: Congress should prove that publicly financed tax benefits from last year&#x27;s tax law changed corporate behavior for companies investing in AI rather than merely rewarded them for investments they were already racing to make, writes Andrew Leahey.",
+        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/549c38f/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Ffb%2F3a%2F7d4d0d724497a2cd8c346a7d0b69%2Fbli-technically-speaking-2026.png",
+        "source": "news.bloombergtax.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-08-13": [
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-        "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-        "description": "18 points · 2 comments",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "title": "Gemini 3.7 Flash",
+        "description": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
+        "source": "blog.google",
+        "stats": "676 points · 380 comments"
+      },
+      {
+        "url": "https://deepseek.com/harness/en/",
+        "title": "DeepSeek Harness developer preview",
+        "description": "DeepSeek Harness is now available in developer preview to developers building agent harnesses worldwide, with the source code released at the same time. Every agent capability is implemented as a plugin that can be swapped or recomposed.",
         "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "source": "deepseek.com",
+        "stats": "589 points · 248 comments"
       },
       {
-        "url": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
-        "title": "Video game lawyer says all her clients have anti-AI contracts",
-        "description": "&quot;Don",
-        "image": "https://cdn.mos.cms.futurecdn.net/RpwAGo8wiBn3WGfd4EGH3A-1920-80.jpg",
-        "source": "gamesradar.com",
-        "stats": "13 points · 3 comments"
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "description": "Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.",
+        "image": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
+        "source": "cerebras.ai",
+        "stats": "478 points · 202 comments"
       },
       {
-        "url": "https://www.whenwillaitakemyjob.ai/",
-        "title": "When Will AI Take My Job?",
-        "description": "Explore projected AI-driven unemployment across 725 U.S. occupations from 2025 to 2039.",
-        "image": "https://whenwillaitakemyjob.ai/opengraph-image.png",
-        "source": "whenwillaitakemyjob.ai",
-        "stats": "11 points · 5 comments"
+        "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+        "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+        "description": "Linux users, this one’s for you! 🐧    ChatGPT desktop app for Linux is now available in preview, bringing ChatGPT, Work, and Codex together in one native desktop experience.  Currently supported:   Ubuntu 24.04 LTS and 26.04 LTS Debian 13 Fedora 43 and 44 x64 and ARM64 architectures .deb and .rpm packages  The desktop app is designed as a workspace for managing projects, working with files, using browser workflows, and running Codex alongside ChatGPT.   Download now You can learn more ab...",
+        "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
+        "source": "community.openai.com",
+        "stats": "449 points · 301 comments"
       },
       {
-        "url": "https://www.bbc.com/news/articles/c20d292gdp4o",
-        "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-        "description": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dc9e/live/5a173db0-9662-11f1-a654-971f565de941.jpg",
-        "source": "bbc.com",
-        "stats": "12 points · 2 comments"
-      },
-      {
-        "url": "https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html",
-        "title": "AI Hype Is Running into Reality",
-        "description": "6 points · 1 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "url": "https://docs.mistral.ai/models/ocr-4-1",
+        "title": "Mistral OCR 4.1",
+        "description": "Our latest OCR service powering our Document AI stack, with native paragraph-level bounding box extraction, structural block labels, and block-level confidence scores.",
+        "image": "https://docs.mistral.ai//api/og?title=OCR+4.1&amp;description=Our+latest+OCR+service+powering+our+Document+AI+stack%2C+with+native+paragraph-level+bounding+box+extraction%2C+structural+block+labels%2C+and+block-level+confidence+scores.&amp;eyebraw=v4.1&amp;image=&amp;type=model&amp;v=4243b0a37a826352a18b2b06ebf09a2d2e90b402&amp;modelIcon=ocr",
+        "source": "docs.mistral.ai",
+        "stats": "271 points · 108 comments"
       }
     ],
     "2026-08-12": [
       {
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "title": "DeepSeek V4 Pro 0813",
-        "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. $0.435 per million input tokens, $0.87 per million output tokens. 1,048,576 token context window, maximum output of 384,000 tokens. Includes independent benchmarks from Artificial Analysis.",
+        "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. $0.435 per million input tokens, $0.87 per million output tokens. 1,048,576 token context window, maximum output of 384,000 tokens. Higher uptime with 4 providers. Includes independent benchmarks from Artificial Analysis.",
         "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
         "source": "openrouter.ai",
-        "stats": "806 points · 315 comments"
+        "stats": "1018 points · 441 comments"
       },
       {
         "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
@@ -58,7 +100,7 @@
         "description": "AI makes projects with weak engineering culture fail much faster.",
         "image": "",
         "source": "blog.florianherrengt.com",
-        "stats": "779 points · 722 comments"
+        "stats": "966 points · 894 comments"
       },
       {
         "url": "https://knownagents.com/insights",
@@ -66,7 +108,7 @@
         "description": "A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.",
         "image": "https://knownagents.com/assets/hero.png",
         "source": "knownagents.com",
-        "stats": "246 points · 186 comments"
+        "stats": "300 points · 224 comments"
       },
       {
         "url": "https://llama.app",
@@ -74,7 +116,7 @@
         "description": "Official website for the llama.cpp project",
         "image": "https://llama.app/og-image-llama-cpp.png",
         "source": "llama.app",
-        "stats": "351 points · 167 comments"
+        "stats": "361 points · 162 comments"
       },
       {
         "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
@@ -82,7 +124,7 @@
         "description": "For the sake of anyone who might read this blog post in the distant future (a month from now, say), let me mention that I am writing it a few days after OpenAI announced that it had solved ten majo…",
         "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
         "source": "gowers.wordpress.com",
-        "stats": "242 points · 137 comments"
+        "stats": "259 points · 156 comments"
       }
     ],
     "2026-08-11": [
@@ -129,36 +171,12 @@
     ],
     "2026-08-10": [
       {
-        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-        "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-        "description": "Muse Glimmer is a 30-billion-parameter open agentic model from Meta Superintelligence Labs, optimized for always-on local workflows on consumer hardware.",
-        "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&amp;version=1786289182",
-        "source": "research.meta.ai",
-        "stats": "1198 points · 637 comments"
-      },
-      {
         "url": "https://thewalrus.ca/google-search-is-dying/",
         "title": "As AI eats the web, the internet’s collective memory is disappearing",
-        "description": "927 points · 963 comments",
+        "description": "933 points · 973 comments",
         "image": "",
         "source": "thewalrus.ca",
         "stats": ""
-      },
-      {
-        "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-        "title": "How Claude marks AI-generated content",
-        "description": "443 points · 408 comments",
-        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-        "source": "support.claude.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.anthropic.com/research/riemann-zeta",
-        "title": "Learning more about Claude's mathematical capabilities",
-        "description": "An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "276 points · 177 comments"
       }
     ],
     "2026-08-09": [
@@ -235,40 +253,6 @@
         "image": "https://ailucius.com/api/og?title=Making+an+AI+Bid+Writer+Refuse+to+Lie&amp;subtitle=Engineering&amp;category=blog",
         "source": "ailucius.com",
         "stats": "69 points · 0 comments"
-      }
-    ],
-    "2026-08-07": [
-      {
-        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "title": "DeepSeek V4 Flash 0731",
-        "description": "DeepSeek V4 Flash 0731 reasoning variants across ARC-AGI-1, ARC-AGI-2, and ARC-AGI-3.",
-        "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
-        "source": "arcprize.org",
-        "stats": "783 points · 470 comments"
-      },
-      {
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "description": "Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.\n\nThe policy contrasts sharply with Oracle&#x27;s internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle&#x27;s code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.\n\nOracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle&#x27;s rating to BBB-, one notch above junk status, citing uncertain returns on investment.",
-        "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
-        "source": "app.dealroom.co",
-        "stats": "534 points · 377 comments"
-      },
-      {
-        "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "description": "Lost my phone at the office and spent 30 minutes turning the place over. Find My was disabled by MDM.\n\nOut of ideas, I asked Claude how I could find it. It suggested tracking the Bluetooth signal strength, then wrote me a meter in about a minute.\n\nI walked around watching the",
-        "image": "https://pbs.twimg.com/amplify_video_thumb/2083581456534978562/img/-UKBgyNIblWti0Io.jpg",
-        "source": "twitter.com",
-        "stats": "292 points · 212 comments"
-      },
-      {
-        "url": "https://blog.cloudflare.com/kitesurf/",
-        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-        "description": "We should be giving all agents tools that excel at what’s important for an AI model. Kitesurf is Cloudflare’s new stateless, highly scalable, and cost-effective web browser that runs entirely on top of Workers and was designed specifically for the Agentic Cloud.",
-        "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZBWYMKT77FDVB07PHA3R5WM.png",
-        "source": "blog.cloudflare.com",
-        "stats": "217 points · 62 comments"
       }
     ]
   }
