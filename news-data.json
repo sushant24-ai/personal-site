@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-14T04:11:51.401Z",
+  "lastUpdated": "2026-08-15T02:54:19.852Z",
   "days": {
+    "2026-08-15": [
+      {
+        "url": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b",
+        "title": "Nvidia discloses $21B stake in SpaceX",
+        "description": "11 points · 2 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nature.com/articles/s44168-026-00411-0",
+        "title": "AI productivity gains drive net CO₂ increase in global energy–economy model",
+        "description": "The net climate impacts of artificial intelligence (AI) depend largely on how its applications propagate through competing energy pathways. Predominant analyses examine the relationship between datacenter energy demand, renewables optimization, and demand-side efficiencies, but insufficiently address how AI also reshapes fossil fuel supply economics. We instead model AI as a bidirectional productivity amplifier in a global computable general equilibrium model, quantifying both enabled emissions from fossil fuel productivity gains and avoided emissions from renewables productivity gains. Under parallel adoption scenarios, net annual CO&#8322; emissions increase by 0.47&#8211;1.8 gigatonnes (1.2&#8211;4.8% of 2024 global energy-related CO&#8322; emissions). Enabled emissions exceed avoided emissions whenever fossil-sector gains are nonzero; net emissions reductions require renewables gains 4&#8211;5&#215; greater than fossil fuel gains. Absent policy steering, AI&#8217;s modeled effects increase the carbon intensity of the global economy and reinforce fossil fuel incumbency&#8212;outcomes that current analytical and governance frameworks do not fully capture.",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44168-026-00411-0/MediaObjects/44168_2026_411_Fig1_HTML.png",
+        "source": "nature.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3",
+        "title": "Nvidia Downsizes Plans for $250B Guarantee of OpenAI Data Center",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=z9QiBMdvgRE",
+        "title": "Yester World Asking for Help from Google De-Monitization and AI [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "3 points · 2 comments"
+      },
+      {
+        "url": "https://www.startribune.com/federal-agents-led-by-jan-6-participant-surveilled-minnesota-unions-in-hunt-for-antifa-conspiracy-case/601877491",
+        "title": "Federal agents surveilled Minnesota unions in hunt for Antifa conspiracy case",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "startribune.com",
+        "stats": ""
+      }
+    ],
     "2026-08-14": [
       {
-        "url": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
-        "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
-        "description": "6 points · 0 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "description": "Today we&#x27;re excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…",
+        "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260729-1718",
+        "source": "blog.google",
+        "stats": "297 points · 176 comments"
       },
       {
-        "url": "https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d",
-        "title": "Even Claude Is in the Dark About Dario Amodei's Wife",
-        "description": "4 points · 1 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://api-docs.deepseek.com/news/news260813/",
+        "title": "DeepSeek peak/off-peak pricing update",
+        "description": "We’re launching DeepSeek-V4-Pro today! 🚀",
+        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+        "source": "api-docs.deepseek.com",
+        "stats": "237 points · 3 comments"
       },
       {
-        "url": "https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/",
-        "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
-        "description": "For years, advocates of statically typed languages have made the same argument: types catch mistakes earlier, compilers provide better feedback, IDEs offer better assistance, and large codebases become safer to maintain. That argument rests on an assumption that is rapidly becoming outdated: The person writing the code is human. AI …",
-        "image": "",
-        "source": "yyhh.org",
-        "stats": "4 points · 1 comments"
+        "url": "https://www.byhand.ai/",
+        "title": "AI by Hand",
+        "description": "Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.",
+        "image": "https://substackcdn.com/image/fetch/$s_!uug6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Faibyhand.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-636237388%26version%3D9",
+        "source": "byhand.ai",
+        "stats": "215 points · 18 comments"
       },
       {
-        "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-        "title": "Error by AI scribe during medical appointment leaves patient devastated",
-        "description": "Artificial Intelligence is listening to many people&#x27;s medical appointments, but it is not always hearing things correctly.",
-        "image": "https://live-production.wcms.abc-cdn.net.au/bc2d354d77c68b0cab2dd861e4944c7d?impolicy=wcms_watermark_news&amp;cropH=1550&amp;cropW=2756&amp;xPos=2033&amp;yPos=318&amp;width=862&amp;height=485&amp;imformat=generic",
-        "source": "abc.net.au",
-        "stats": "4 points · 1 comments"
+        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+        "title": "Maximizing the value of your Claude Code sessions",
+        "description": "Practical tips for how to run efficient sessions that get the most value from every token.",
+        "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a7f1f51730ca89a4d571062_og_maximizing-the-value-of-your-claude-code-sessions.jpg",
+        "source": "claude.com",
+        "stats": "139 points · 95 comments"
       },
       {
-        "url": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
-        "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
-        "description": "Opinion: Congress should prove that publicly financed tax benefits from last year&#x27;s tax law changed corporate behavior for companies investing in AI rather than merely rewarded them for investments they were already racing to make, writes Andrew Leahey.",
-        "image": "https://bwrite-static.bloombergindustry.com/dims4/default/549c38f/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Ffb%2F3a%2F7d4d0d724497a2cd8c346a7d0b69%2Fbli-technically-speaking-2026.png",
-        "source": "news.bloombergtax.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+        "description": "From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack",
+        "image": "https://substackcdn.com/image/fetch/$s_!PLI0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3790af-8609-45cc-bb7b-e4f006e27538_1536x1024.jpeg",
+        "source": "weightythoughts.com",
+        "stats": "170 points · 186 comments"
       }
     ],
     "2026-08-13": [
@@ -50,7 +92,7 @@
         "description": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
         "source": "blog.google",
-        "stats": "676 points · 380 comments"
+        "stats": "949 points · 482 comments"
       },
       {
         "url": "https://deepseek.com/harness/en/",
@@ -58,7 +100,7 @@
         "description": "DeepSeek Harness is now available in developer preview to developers building agent harnesses worldwide, with the source code released at the same time. Every agent capability is implemented as a plugin that can be swapped or recomposed.",
         "image": "",
         "source": "deepseek.com",
-        "stats": "589 points · 248 comments"
+        "stats": "720 points · 300 comments"
       },
       {
         "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
@@ -66,7 +108,7 @@
         "description": "Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.",
         "image": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
         "source": "cerebras.ai",
-        "stats": "478 points · 202 comments"
+        "stats": "698 points · 272 comments"
       },
       {
         "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
@@ -74,57 +116,33 @@
         "description": "Linux users, this one’s for you! 🐧    ChatGPT desktop app for Linux is now available in preview, bringing ChatGPT, Work, and Codex together in one native desktop experience.  Currently supported:   Ubuntu 24.04 LTS and 26.04 LTS Debian 13 Fedora 43 and 44 x64 and ARM64 architectures .deb and .rpm packages  The desktop app is designed as a workspace for managing projects, working with files, using browser workflows, and running Codex alongside ChatGPT.   Download now You can learn more ab...",
         "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
         "source": "community.openai.com",
-        "stats": "449 points · 301 comments"
+        "stats": "463 points · 316 comments"
       },
       {
         "url": "https://docs.mistral.ai/models/ocr-4-1",
         "title": "Mistral OCR 4.1",
         "description": "Our latest OCR service powering our Document AI stack, with native paragraph-level bounding box extraction, structural block labels, and block-level confidence scores.",
-        "image": "https://docs.mistral.ai//api/og?title=OCR+4.1&amp;description=Our+latest+OCR+service+powering+our+Document+AI+stack%2C+with+native+paragraph-level+bounding+box+extraction%2C+structural+block+labels%2C+and+block-level+confidence+scores.&amp;eyebraw=v4.1&amp;image=&amp;type=model&amp;v=4243b0a37a826352a18b2b06ebf09a2d2e90b402&amp;modelIcon=ocr",
+        "image": "https://docs.mistral.ai//api/og?title=OCR+4.1&amp;description=Our+latest+OCR+service+powering+our+Document+AI+stack%2C+with+native+paragraph-level+bounding+box+extraction%2C+structural+block+labels%2C+and+block-level+confidence+scores.&amp;eyebraw=v4.1&amp;image=&amp;type=model&amp;v=019d62909957b786bc48bc8b89308bfbe44b1e84&amp;modelIcon=ocr",
         "source": "docs.mistral.ai",
-        "stats": "271 points · 108 comments"
+        "stats": "403 points · 160 comments"
       }
     ],
     "2026-08-12": [
       {
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "title": "DeepSeek V4 Pro 0813",
-        "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. $0.435 per million input tokens, $0.87 per million output tokens. 1,048,576 token context window, maximum output of 384,000 tokens. Higher uptime with 4 providers. Includes independent benchmarks from Artificial Analysis.",
+        "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. $0.435 per million input tokens, $0.87 per million output tokens. 1,048,576 token context window, maximum output of 384,000 tokens. Higher uptime with 7 providers. Includes independent benchmarks from Artificial Analysis.",
         "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
         "source": "openrouter.ai",
-        "stats": "1018 points · 441 comments"
+        "stats": "1027 points · 446 comments"
       },
       {
-        "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-        "title": "AI is removing the middle class of software engineering?",
-        "description": "AI makes projects with weak engineering culture fail much faster.",
-        "image": "",
-        "source": "blog.florianherrengt.com",
-        "stats": "966 points · 894 comments"
-      },
-      {
-        "url": "https://knownagents.com/insights",
-        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-        "description": "A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.",
-        "image": "https://knownagents.com/assets/hero.png",
-        "source": "knownagents.com",
-        "stats": "300 points · 224 comments"
-      },
-      {
-        "url": "https://llama.app",
-        "title": "llama.cpp",
-        "description": "Official website for the llama.cpp project",
-        "image": "https://llama.app/og-image-llama-cpp.png",
-        "source": "llama.app",
-        "stats": "361 points · 162 comments"
-      },
-      {
-        "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-        "title": "What sort of maths are LLMs good at?",
-        "description": "For the sake of anyone who might read this blog post in the distant future (a month from now, say), let me mention that I am writing it a few days after OpenAI announced that it had solved ten majo…",
-        "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-        "source": "gowers.wordpress.com",
-        "stats": "259 points · 156 comments"
+        "url": "https://discoveredmaterials.com/research/",
+        "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+        "description": "Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.",
+        "image": "https://discoveredmaterials.com/assets/og-image.png",
+        "source": "discoveredmaterials.com",
+        "stats": "159 points · 35 comments"
       }
     ],
     "2026-08-11": [
@@ -219,40 +237,6 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
         "source": "arstechnica.com",
         "stats": "105 points · 80 comments"
-      }
-    ],
-    "2026-08-08": [
-      {
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-        "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about “the Hugging Face Incident” (previously on this blog). The video was published yesterday. It’s short and information …",
-        "image": "https://img.youtube.com/vi/87DyyMV0kCY/maxresdefault.jpg",
-        "source": "simonwillison.net",
-        "stats": "422 points · 405 comments"
-      },
-      {
-        "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "title": "Message your other Claude Code sessions",
-        "description": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.",
-        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DAgents%2Band%2Bparallel%2Bwork%26appearance%3Dsystem%26title%3DMessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%26description%3DLet%2BClaude%2Blist%2Band%2Bmessage%2Byour%2Bother%2BClaude%2BCode%2Bsessions%2Bon%2Bone%2Bmachine%252C%2Band%2Breply%2Bto%2Byour%2Bsessions%2Bon%2Bother%2Bmachines%2Bor%2Bon%2Bthe%2Bweb%2Bthrough%2BRemote%2BControl.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D78fd01ff4f4340295a4f66e2ea54903c%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fc5r9_6tjPMzFdDDT%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dc5r9_6tjPMzFdDDT%2526q%253D85%2526s%253D1298a0c3b3a1da603b190d0de0e31712%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&amp;w=1200&amp;q=100",
-        "source": "code.claude.com",
-        "stats": "155 points · 67 comments"
-      },
-      {
-        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "title": "Gentoo bugzilla closed due AI bot scraper overload",
-        "description": "I&#39;ve taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see.\n\nEDIT: I&#39;m not looking for hints. I&#39;m not a sysadmin, and I don&#39;t have time to deal with this shit. I&#39;m just trying to get some useful job done. I&#39;m not supposed to have to be dealing with this.\n\n#AI #NoAI #NoLLM",
-        "image": "",
-        "source": "social.treehouse.systems",
-        "stats": "170 points · 113 comments"
-      },
-      {
-        "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
-        "title": "Making an AI bid writer refuse to lie",
-        "description": "A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.",
-        "image": "https://ailucius.com/api/og?title=Making+an+AI+Bid+Writer+Refuse+to+Lie&amp;subtitle=Engineering&amp;category=blog",
-        "source": "ailucius.com",
-        "stats": "69 points · 0 comments"
       }
     ]
   }
