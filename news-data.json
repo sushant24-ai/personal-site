@@ -1,45 +1,87 @@
 {
-  "lastUpdated": "2026-08-15T02:54:19.852Z",
+  "lastUpdated": "2026-08-16T03:03:25.853Z",
   "days": {
-    "2026-08-15": [
+    "2026-08-16": [
       {
-        "url": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b",
-        "title": "Nvidia discloses $21B stake in SpaceX",
-        "description": "11 points · 2 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
+        "url": "https://aicharts.grok.me/c/market-share",
+        "title": "ChatGPT lost 22 points of web share in a year",
+        "description": "Worldwide AI-chatbot web visits: ChatGPT 76% → 54%. Gemini 6% → 28%. Claude 1% → 9%. This is not monthly users and not revenue. See who took the share →",
+        "image": "https://aicharts.grok.me/og/market-share.png",
+        "source": "aicharts.grok.me",
+        "stats": "17 points · 37 comments"
       },
       {
-        "url": "https://www.nature.com/articles/s44168-026-00411-0",
-        "title": "AI productivity gains drive net CO₂ increase in global energy–economy model",
-        "description": "The net climate impacts of artificial intelligence (AI) depend largely on how its applications propagate through competing energy pathways. Predominant analyses examine the relationship between datacenter energy demand, renewables optimization, and demand-side efficiencies, but insufficiently address how AI also reshapes fossil fuel supply economics. We instead model AI as a bidirectional productivity amplifier in a global computable general equilibrium model, quantifying both enabled emissions from fossil fuel productivity gains and avoided emissions from renewables productivity gains. Under parallel adoption scenarios, net annual CO&#8322; emissions increase by 0.47&#8211;1.8 gigatonnes (1.2&#8211;4.8% of 2024 global energy-related CO&#8322; emissions). Enabled emissions exceed avoided emissions whenever fossil-sector gains are nonzero; net emissions reductions require renewables gains 4&#8211;5&#215; greater than fossil fuel gains. Absent policy steering, AI&#8217;s modeled effects increase the carbon intensity of the global economy and reinforce fossil fuel incumbency&#8212;outcomes that current analytical and governance frameworks do not fully capture.",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44168-026-00411-0/MediaObjects/44168_2026_411_Fig1_HTML.png",
-        "source": "nature.com",
-        "stats": "6 points · 0 comments"
+        "url": "https://arxiv.org/abs/2608.13328",
+        "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+        "description": "Professional communication is increasingly mediated by LLMs - but do these models serve all users equally? We show that when prompts contain linguistic features more commonly used by women (hedges, tag questions, collective reference), they systematically elicit shorter, less sophisticated, and less formal responses across three document types and four models. These effects persist after controlling for prompt complexity and feature carry-over. Explicit gender cues like sign-off names are encoded in the same representational space as linguistic dialect - suggesting shared underlying mechanisms - yet linguistic register is far more influential, producing large, consistent effects where names produce none. Our results further reveal that post-hoc mitigation is challenging: because these patterns are culturally embedded and outside conscious control, users cannot easily avoid them through strategic self-presentation, and mechanistic analysis reveals that linguistic features are encoded in early transformer layers and entangled with other features. Our work calls for upstream consideration of the influences of linguistic variation to mitigate disparate impacts of LLM-mediated workplace communication.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "17 points · 7 comments"
       },
       {
-        "url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3",
-        "title": "Nvidia Downsizes Plans for $250B Guarantee of OpenAI Data Center",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://waku.sh",
+        "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+        "description": "A fast, native app for local coding agents. Amp, Claude Code, Codex, Cursor, OpenCode, Grok, and Pi — one timeline, entirely on your machine.",
+        "image": "https://waku.sh/og-icon.png",
+        "source": "waku.sh",
+        "stats": "9 points · 2 comments"
       },
       {
-        "url": "https://www.youtube.com/watch?v=z9QiBMdvgRE",
-        "title": "Yester World Asking for Help from Google De-Monitization and AI [video]",
+        "url": "https://www.snap-chart.ai/",
+        "title": "Snap Chart AI",
+        "description": "One-click capture inside the app. Or drag any chart. AI verdict in 2 seconds: TRADE · NO-TRADE · WAIT. The first AI Risk Officer for traders.",
+        "image": "https://snap-chart.ai/og-default.png",
+        "source": "snap-chart.ai",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
+        "title": "The AI Bubble Is on Its Last Legs",
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "3 points · 2 comments"
+        "stats": "3 points · 0 comments"
+      }
+    ],
+    "2026-08-15": [
+      {
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "description": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.",
+        "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
+        "source": "davidepiffer.com",
+        "stats": "426 points · 375 comments"
       },
       {
-        "url": "https://www.startribune.com/federal-agents-led-by-jan-6-participant-surveilled-minnesota-unions-in-hunt-for-antifa-conspiracy-case/601877491",
-        "title": "Federal agents surveilled Minnesota unions in hunt for Antifa conspiracy case",
-        "description": "3 points · 1 comments",
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "title": "Working with AI feels more like leadership than coding",
+        "description": "Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.",
         "image": "",
-        "source": "startribune.com",
+        "source": "allen.bargi.org",
+        "stats": "275 points · 176 comments"
+      },
+      {
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "description": "104 points · 52 comments",
+        "image": "",
+        "source": "science.org",
+        "stats": ""
+      },
+      {
+        "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+        "title": "Cloudflare's AI Psychosis",
+        "description": "There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect &amp; fight the bad people, for the sake of the global city of the Gotham… err I mean the in",
+        "image": "",
+        "source": "opensauce.it",
+        "stats": "106 points · 88 comments"
+      },
+      {
+        "url": "https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138",
+        "title": "Israeli PR wants to answer your ChatGPT questions",
+        "description": "56 points · 25 comments",
+        "image": "",
+        "source": "politico.com",
         "stats": ""
       }
     ],
@@ -48,25 +90,9 @@
         "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
         "title": "Google is making private AI practical with homomorphic encryption",
         "description": "Today we&#x27;re excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…",
-        "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260729-1718",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_design_10_p3wN1dg.width-1300.png",
         "source": "blog.google",
-        "stats": "297 points · 176 comments"
-      },
-      {
-        "url": "https://api-docs.deepseek.com/news/news260813/",
-        "title": "DeepSeek peak/off-peak pricing update",
-        "description": "We’re launching DeepSeek-V4-Pro today! 🚀",
-        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
-        "source": "api-docs.deepseek.com",
-        "stats": "237 points · 3 comments"
-      },
-      {
-        "url": "https://www.byhand.ai/",
-        "title": "AI by Hand",
-        "description": "Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.",
-        "image": "https://substackcdn.com/image/fetch/$s_!uug6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Faibyhand.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-636237388%26version%3D9",
-        "source": "byhand.ai",
-        "stats": "215 points · 18 comments"
+        "stats": "480 points · 281 comments"
       },
       {
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
@@ -74,7 +100,23 @@
         "description": "Practical tips for how to run efficient sessions that get the most value from every token.",
         "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a7f1f51730ca89a4d571062_og_maximizing-the-value-of-your-claude-code-sessions.jpg",
         "source": "claude.com",
-        "stats": "139 points · 95 comments"
+        "stats": "302 points · 177 comments"
+      },
+      {
+        "url": "https://www.byhand.ai/",
+        "title": "AI by Hand",
+        "description": "Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.",
+        "image": "https://substackcdn.com/image/fetch/$s_!uug6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Faibyhand.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-636237388%26version%3D9",
+        "source": "byhand.ai",
+        "stats": "354 points · 29 comments"
+      },
+      {
+        "url": "https://api-docs.deepseek.com/news/news260813/",
+        "title": "DeepSeek peak/off-peak pricing update",
+        "description": "We’re launching DeepSeek-V4-Pro today! 🚀",
+        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+        "source": "api-docs.deepseek.com",
+        "stats": "238 points · 3 comments"
       },
       {
         "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
@@ -82,7 +124,7 @@
         "description": "From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack",
         "image": "https://substackcdn.com/image/fetch/$s_!PLI0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3790af-8609-45cc-bb7b-e4f006e27538_1536x1024.jpeg",
         "source": "weightythoughts.com",
-        "stats": "170 points · 186 comments"
+        "stats": "174 points · 197 comments"
       }
     ],
     "2026-08-13": [
@@ -92,7 +134,7 @@
         "description": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
         "source": "blog.google",
-        "stats": "949 points · 482 comments"
+        "stats": "960 points · 490 comments"
       },
       {
         "url": "https://deepseek.com/harness/en/",
@@ -100,7 +142,7 @@
         "description": "DeepSeek Harness is now available in developer preview to developers building agent harnesses worldwide, with the source code released at the same time. Every agent capability is implemented as a plugin that can be swapped or recomposed.",
         "image": "",
         "source": "deepseek.com",
-        "stats": "720 points · 300 comments"
+        "stats": "731 points · 306 comments"
       },
       {
         "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
@@ -108,23 +150,23 @@
         "description": "Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.",
         "image": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
         "source": "cerebras.ai",
-        "stats": "698 points · 272 comments"
+        "stats": "707 points · 276 comments"
       },
       {
-        "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-        "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-        "description": "Linux users, this one’s for you! 🐧    ChatGPT desktop app for Linux is now available in preview, bringing ChatGPT, Work, and Codex together in one native desktop experience.  Currently supported:   Ubuntu 24.04 LTS and 26.04 LTS Debian 13 Fedora 43 and 44 x64 and ARM64 architectures .deb and .rpm packages  The desktop app is designed as a workspace for managing projects, working with files, using browser workflows, and running Codex alongside ChatGPT.   Download now You can learn more ab...",
-        "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png",
-        "source": "community.openai.com",
-        "stats": "463 points · 316 comments"
+        "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+        "title": "Choosing an AI model: one prompt, 11 models, different results",
+        "description": "Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.",
+        "image": "https://cdn.sanity.io/images/o0o2tn5x/production/61190f2745496c269dd071680edec773a29eaef7-1800x1013.png",
+        "source": "netlify.com",
+        "stats": "218 points · 95 comments"
       },
       {
-        "url": "https://docs.mistral.ai/models/ocr-4-1",
-        "title": "Mistral OCR 4.1",
-        "description": "Our latest OCR service powering our Document AI stack, with native paragraph-level bounding box extraction, structural block labels, and block-level confidence scores.",
-        "image": "https://docs.mistral.ai//api/og?title=OCR+4.1&amp;description=Our+latest+OCR+service+powering+our+Document+AI+stack%2C+with+native+paragraph-level+bounding+box+extraction%2C+structural+block+labels%2C+and+block-level+confidence+scores.&amp;eyebraw=v4.1&amp;image=&amp;type=model&amp;v=019d62909957b786bc48bc8b89308bfbe44b1e84&amp;modelIcon=ocr",
-        "source": "docs.mistral.ai",
-        "stats": "403 points · 160 comments"
+        "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+        "title": "Text AI watermarks will always be trivial to remove",
+        "description": "144 points · 188 comments",
+        "image": "https://www.seangoedecke.com/og-image.jpg",
+        "source": "seangoedecke.com",
+        "stats": ""
       }
     ],
     "2026-08-12": [
@@ -134,7 +176,7 @@
         "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. $0.435 per million input tokens, $0.87 per million output tokens. 1,048,576 token context window, maximum output of 384,000 tokens. Higher uptime with 7 providers. Includes independent benchmarks from Artificial Analysis.",
         "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
         "source": "openrouter.ai",
-        "stats": "1027 points · 446 comments"
+        "stats": "1032 points · 451 comments"
       },
       {
         "url": "https://discoveredmaterials.com/research/",
@@ -142,7 +184,7 @@
         "description": "Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.",
         "image": "https://discoveredmaterials.com/assets/og-image.png",
         "source": "discoveredmaterials.com",
-        "stats": "159 points · 35 comments"
+        "stats": "160 points · 35 comments"
       }
     ],
     "2026-08-11": [
@@ -195,48 +237,6 @@
         "image": "",
         "source": "thewalrus.ca",
         "stats": ""
-      }
-    ],
-    "2026-08-09": [
-      {
-        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-        "title": "How I use LLMs to learn complex topics",
-        "description": "LLMs are used for any things. Learning new things is one of the top use cases.",
-        "image": "",
-        "source": "laurentiugabriel.github.io",
-        "stats": "796 points · 530 comments"
-      },
-      {
-        "url": "https://openchamber.dev/",
-        "title": "OpenChamber: An Agentic Development Environment",
-        "description": "OpenChamber is an agentic development environment for AI coding across desktop, browser, phone, and VS Code. Watch agents work, review diffs, branch sessions, and keep the whole board visible.",
-        "image": "https://openchamber.dev/og-image.png",
-        "source": "openchamber.dev",
-        "stats": "179 points · 83 comments"
-      },
-      {
-        "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-        "title": "The tragedy of the commons, AI edition",
-        "description": "143 points · 108 comments",
-        "image": "",
-        "source": "economist.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-        "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-        "description": "75 points · 95 comments",
-        "image": "",
-        "source": "youtube.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-        "title": "ChatGPT starts blocking direct requests to copy an author's style",
-        "description": "New behavior capturing a writer&#039;s &quot;broad qualities&quot; could have legal implications.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "105 points · 80 comments"
       }
     ]
   }
