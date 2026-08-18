@@ -1,71 +1,113 @@
 {
-  "lastUpdated": "2026-08-17T03:03:11.228Z",
+  "lastUpdated": "2026-08-18T02:58:16.581Z",
   "days": {
+    "2026-08-18": [
+      {
+        "url": "https://ben.page/cheating",
+        "title": "Every student is cheating with AI",
+        "description": "7 points · 4 comments",
+        "image": "https://ben.page/og?path=%2F_astro%2Fcover.CKRqx2gO.png",
+        "source": "ben.page",
+        "stats": ""
+      },
+      {
+        "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
+        "title": "Consumers Prefer AI Music Until They're Told It's AI",
+        "description": "Across three studies, Jana Friedrichsen, Julia Schwarz, and Michel Clement explore how generative AI will change the music industry. They find that while consumers enjoy and even prefer AI-generated music, preferences shift upon learning that the song was AI-generated.",
+        "image": "http://www.promarket.org/wp-content/uploads/2026/04/Friedrichsen-et-al.jpg",
+        "source": "promarket.org",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://findharness.com/blog/what-is-deepseek-harness",
+        "title": "What Is DeepSeek-Harness? A Complete Introduction",
+        "description": "DeepSeek-Harness (dsh) is DeepSeek&#x27;s open-source agent harness where every feature — tools, commands, skills, MCP — is a plugin. Here&#x27;s how it works.",
+        "image": "https://findharness.com/images/blog-what-is-deepseek-harness.webp",
+        "source": "findharness.com",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+        "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+        "description": "I want the answers that I read to be cogent, lucid, accurate, blessedly terse — and ideally to strike a consistent tone that is pleasant to my reading ear. The genie is not going back in the bottle.",
+        "image": "https://daringfireball.net/graphics/df-wide-card.png",
+        "source": "daringfireball.net",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=itovmsMwus0",
+        "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-08-17": [
       {
-        "url": "https://news.ycombinator.com/item?id=49325617",
-        "title": "Show HN: Adding friction to my automatic open Claude reaction",
-        "description": "4 points · 0 comments",
+        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "title": "AI;DR (AI; Didn't Read)",
+        "description": "I&#x27;m about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I&#x27;m not alone). That&#x27;s why I love the AI;DR acronym as my new solution for ignoring the walls of slop.",
+        "image": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9",
+        "source": "rickmanelius.com",
+        "stats": "638 points · 398 comments"
+      },
+      {
+        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "description": "GPT-5.6 Sol is OpenAI’s strongest vision model yet. We tested Sol, Terra, and Luna across detection, counting, OCR, and extraction, then compared their results, speed, and cost with leading VLMs.",
+        "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
+        "source": "blog.roboflow.com",
+        "stats": "307 points · 154 comments"
+      },
+      {
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "description": "Wiz Red Agent finds its way into Snowflake&#x27;s internal Jira through a flaw in a GitHub Copilot–Assisted PR.",
+        "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
+        "source": "wiz.io",
+        "stats": "322 points · 126 comments"
+      },
+      {
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "description": "GPT-5.6 Sol is the flagship model in OpenAI&#x27;s GPT-5.6 series. $2.50 per million input tokens, $15 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 3 providers. Includes independent benchmarks from Artificial Analysis.",
+        "image": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f",
+        "source": "openrouter.ai",
+        "stats": "172 points · 102 comments"
+      },
+      {
+        "url": "https://www.librarian.net/notoai/",
+        "title": "How to disable or avoid intrusive AI",
+        "description": "One of the biggest questions I get at Drop-In Time at the library (besides &quot;what is taking up all my cloud storage?&quot;) is how to disable or avoid intrusive AI that shows up where people don&#039;t want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik",
         "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98",
-        "title": "AI Agent Safety Is Still Thinking Like Permissions",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "jeffreyflynt02.medium.com",
-        "stats": ""
-      },
-      {
-        "url": "https://runinfra.ai/inference-api/deepseek-v4-pro",
-        "title": "DeepSeek V4 Pro at 207 tok/s with the full 1M context, no quantization",
-        "description": "DeepSeek V4 Pro is an LLM listed in RunInfra Model APIs. $0.60 per 1M input tokens. $1.90 per 1M output tokens. Context window: 1,048,576 tokens. Maximum request size: 3.5 MB per request. Maximum generated output: 32,768 tokens. Supported capabilities: Tool calling, JSON mode, Streaming.",
-        "image": "https://runinfra.ai/inference-api/deepseek-v4-pro/og",
-        "source": "runinfra.ai",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://github.com/cconthekeyboard/sana.cpp",
-        "title": "Sana.cpp – Nvidia's Sana T2I model in C++, 4.8x faster than PyTorch",
-        "description": "SANA (text-to-image model) implemented in CPP. Contribute to cconthekeyboard/sana.cpp development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/903f1dd2dda618263fd6ec1ccf79ccce0f97592dc9732ba519370045c9290f7a/cconthekeyboard/sana.cpp",
-        "source": "github.com",
-        "stats": "2 points · 0 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
-        "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
-        "description": "2 points · 0 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "source": "librarian.net",
+        "stats": "262 points · 161 comments"
       }
     ],
     "2026-08-16": [
+      {
+        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+        "description": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation of text *for me* is patently offensive.",
+        "image": "https://daringfireball.net/graphics/df-wide-card.png",
+        "source": "daringfireball.net",
+        "stats": "767 points · 680 comments"
+      },
       {
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "title": "Claude: System Prompts",
         "description": "See updates to the core system prompts on [claude.ai](https://claude.ai) and the [Claude iOS app](https://anthropic.com/ios) and [Claude Android app](https://anthropic.com/android).",
         "image": "https://platform.claude.com/docs/og?locale=en&amp;path=release-notes/system-prompts&amp;design-rev=1",
         "source": "platform.claude.com",
-        "stats": "561 points · 234 comments"
+        "stats": "743 points · 280 comments"
       },
       {
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "description": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation of text *for me* is patently offensive.",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "156 points · 160 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "description": "221 points · 150 comments",
+        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "description": "245 points · 151 comments",
         "image": "",
-        "source": "bloomberg.com",
+        "source": "reuters.com",
         "stats": ""
       },
       {
@@ -74,14 +116,14 @@
         "description": "A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands",
         "image": "",
         "source": "vectoral.com",
-        "stats": "237 points · 93 comments"
+        "stats": "323 points · 128 comments"
       },
       {
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "description": "123 points · 47 comments",
+        "url": "https://littlelearner-ll.github.io/",
+        "title": "What happens when an LLM never sees material beyond fifth grade?",
+        "description": "244 points · 209 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "littlelearner-ll.github.io",
         "stats": ""
       }
     ],
@@ -129,20 +171,12 @@
     ],
     "2026-08-14": [
       {
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "description": "Today we&#x27;re excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_design_10_p3wN1dg.width-1300.png",
-        "source": "blog.google",
-        "stats": "491 points · 283 comments"
-      },
-      {
-        "url": "https://github.com/lajosdeme/mole",
-        "title": "Show HN: Mole – Deep research agent for your terminal",
-        "description": "A deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data. - lajosdeme/mole",
-        "image": "https://opengraph.githubassets.com/fe11229653a13fb21208fa2ae9e4f167b2329c647d2e76cec0514d7cba40148b/lajosdeme/mole",
-        "source": "github.com",
-        "stats": "100 points · 14 comments"
+        "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+        "title": "A simple fix for LLM tail latency",
+        "description": "Send every request twice and take the faster response.",
+        "image": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/index.png",
+        "source": "engineering.myhoai.com",
+        "stats": "40 points · 16 comments"
       }
     ],
     "2026-08-13": [
@@ -195,48 +229,6 @@
         "image": "https://discoveredmaterials.com/assets/og-image.png",
         "source": "discoveredmaterials.com",
         "stats": "161 points · 35 comments"
-      }
-    ],
-    "2026-08-11": [
-      {
-        "url": "https://stolen-thoughts.com/",
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "description": "Encrypted chain-of-thought blocks returned by Anthropic, OpenAI and Google APIs are interchangeable across sessions, users and models. We exploit this to decode hidden reasoning at scale.",
-        "image": "",
-        "source": "stolen-thoughts.com",
-        "stats": "684 points · 300 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-        "title": "OpenAI’s head of ethics leaves less than a year after joining",
-        "description": "507 points · 472 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-        "title": "Go is an ideal language for AI-assisted software engineering",
-        "description": "As AI shifts software engineering from writing to reviewing, discover how Go&#x27;s strict compiler and unified toolchain ensure reliable AI-generated code.",
-        "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Go_Logo_-_Blue.2e16d0ba.fill-1200x600.png",
-        "source": "developers.googleblog.com",
-        "stats": "425 points · 500 comments"
-      },
-      {
-        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-        "title": "WorldClaw Agentic 3D open-world generation at scale",
-        "description": "From one open-ended prompt to an explicit, explorable, and editable 3D world.",
-        "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
-        "source": "tencent-hunyuan.github.io",
-        "stats": "269 points · 91 comments"
-      },
-      {
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. - trycua/cua",
-        "image": "https://opengraph.githubassets.com/e8fa14080345ef0fb5074e0f1350b6619252531914a4db5a7f3c9d04336b482d/trycua/cua",
-        "source": "github.com",
-        "stats": "302 points · 43 comments"
       }
     ]
   }
