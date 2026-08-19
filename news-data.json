@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-18T02:58:16.581Z",
+  "lastUpdated": "2026-08-19T03:00:35.416Z",
   "days": {
-    "2026-08-18": [
+    "2026-08-19": [
       {
-        "url": "https://ben.page/cheating",
-        "title": "Every student is cheating with AI",
-        "description": "7 points · 4 comments",
-        "image": "https://ben.page/og?path=%2F_astro%2Fcover.CKRqx2gO.png",
-        "source": "ben.page",
-        "stats": ""
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+        "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
+        "description": "Expanded multistage chain of thought monitoring makes frontier model work more expensive",
+        "image": "https://image.theregister.com/260353.jpg?imageId=260353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "5 points · 1 comments"
       },
       {
-        "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
-        "title": "Consumers Prefer AI Music Until They're Told It's AI",
-        "description": "Across three studies, Jana Friedrichsen, Julia Schwarz, and Michel Clement explore how generative AI will change the music industry. They find that while consumers enjoy and even prefer AI-generated music, preferences shift upon learning that the song was AI-generated.",
-        "image": "http://www.promarket.org/wp-content/uploads/2026/04/Friedrichsen-et-al.jpg",
-        "source": "promarket.org",
-        "stats": "5 points · 0 comments"
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
+        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x864+0+725/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fac%2F41feedfc41cb8734493954424915%2Fimg-2092-1.JPEG",
+        "source": "npr.org",
+        "stats": "4 points · 1 comments"
       },
       {
-        "url": "https://findharness.com/blog/what-is-deepseek-harness",
-        "title": "What Is DeepSeek-Harness? A Complete Introduction",
-        "description": "DeepSeek-Harness (dsh) is DeepSeek&#x27;s open-source agent harness where every feature — tools, commands, skills, MCP — is a plugin. Here&#x27;s how it works.",
-        "image": "https://findharness.com/images/blog-what-is-deepseek-harness.webp",
-        "source": "findharness.com",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "description": "Can OpenAI safely operate its AI models?",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://www.adaptyvbio.com/blog/anthropic-1",
+        "title": "Testing Claude-designed proteins in the wet lab",
+        "description": "The Anthropic team wanted to benchmark the newest Claude models at protein design. They ran a suite of models in Claude Science to design protein binders against 16 targets and then sent them to our lab for experimental validation. The results show that Claude models show expert level skills at protein engineering and match or exceed public success rates at binder design.  ",
+        "image": "https://adaptyvbio.com/api/notion-image?pageId=3bb5ca69-e7be-8175-905f-c8a3473ef5dc",
+        "source": "adaptyvbio.com",
         "stats": "3 points · 1 comments"
       },
       {
-        "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-        "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
-        "description": "I want the answers that I read to be cogent, lucid, accurate, blessedly terse — and ideally to strike a consistent tone that is pleasant to my reading ear. The genie is not going back in the bottle.",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "4 points · 0 comments"
+        "url": "https://news.ycombinator.com/item?id=49354741",
+        "title": "New OllamaMQ v0.3.0",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
+    "2026-08-18": [
+      {
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "title": "Claude Code May–August 2026 weekly limits promotion",
+        "description": "262 points · 238 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
+        "stats": ""
       },
       {
-        "url": "https://www.youtube.com/watch?v=itovmsMwus0",
-        "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "title": "Norway should buy OpenAI",
+        "description": "The Long Arc of History Bends Towards Social Democracy",
+        "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
+        "source": "onethousandmeans.com",
+        "stats": "222 points · 235 comments"
+      },
+      {
+        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+        "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+        "description": "A ~4-hour Claude Code session, rendered as it happened: reverse-engineering an SPL3 laser, beating the USB sandbox, HP",
+        "image": "https://cdn.kuber.studio/chat/og-hp-laser-1008a.png",
+        "source": "cdn.kuber.studio",
+        "stats": "117 points · 75 comments"
+      },
+      {
+        "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "description": "just Claude writing a MacOS driver for my obscure HP printer built only for Windows support",
+        "image": "https://pbs.twimg.com/media/HP72MdaaEAAAX7z.jpg:large",
+        "source": "twitter.com",
+        "stats": "153 points · 65 comments"
+      },
+      {
+        "url": "https://artificialanalysis.ai/models/glm-5-3",
+        "title": "GLM-5.3 Artificial Analysis Benchmarks",
+        "description": "Analysis of Z AI&#x27;s GLM-5.3 (max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
+        "image": "https://artificialanalysis.ai/en/models/glm-5-3/opengraph-image?76c5a1db7097b9e1",
+        "source": "artificialanalysis.ai",
+        "stats": "90 points · 41 comments"
       }
     ],
     "2026-08-17": [
@@ -48,9 +90,25 @@
         "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "title": "AI;DR (AI; Didn't Read)",
         "description": "I&#x27;m about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I&#x27;m not alone). That&#x27;s why I love the AI;DR acronym as my new solution for ignoring the walls of slop.",
-        "image": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9",
+        "image": "https://substackcdn.com/image/fetch/$s_!10qV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c3c1241-1fe2-4cb1-96f1-7613e4b876bc_702x313.png",
         "source": "rickmanelius.com",
-        "stats": "638 points · 398 comments"
+        "stats": "1063 points · 668 comments"
+      },
+      {
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "description": "In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots",
+        "image": "https://responsiblestatecraft.org/media-library/screenshot-of-the-hanover-institute-s-website-taken-on-aug-16-2026.png?id=67630219&width=1200&height=600&coordinates=0%2C0%2C0%2C65",
+        "source": "responsiblestatecraft.org",
+        "stats": "1016 points · 735 comments"
+      },
+      {
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+        "description": "GPT-5.6 Sol is the flagship model in OpenAI&#x27;s GPT-5.6 series. $2.50 per million input tokens, $15 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 3 providers. Includes independent benchmarks from Artificial Analysis.",
+        "image": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f",
+        "source": "openrouter.ai",
+        "stats": "617 points · 443 comments"
       },
       {
         "url": "https://blog.roboflow.com/openai-gpt-5-6/",
@@ -58,7 +116,7 @@
         "description": "GPT-5.6 Sol is OpenAI’s strongest vision model yet. We tested Sol, Terra, and Luna across detection, counting, OCR, and extraction, then compared their results, speed, and cost with leading VLMs.",
         "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
         "source": "blog.roboflow.com",
-        "stats": "307 points · 154 comments"
+        "stats": "359 points · 166 comments"
       },
       {
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
@@ -66,23 +124,7 @@
         "description": "Wiz Red Agent finds its way into Snowflake&#x27;s internal Jira through a flaw in a GitHub Copilot–Assisted PR.",
         "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
         "source": "wiz.io",
-        "stats": "322 points · 126 comments"
-      },
-      {
-        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-        "title": "GPT-5.6 Sol Pricing Cut by 50%",
-        "description": "GPT-5.6 Sol is the flagship model in OpenAI&#x27;s GPT-5.6 series. $2.50 per million input tokens, $15 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 3 providers. Includes independent benchmarks from Artificial Analysis.",
-        "image": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f",
-        "source": "openrouter.ai",
-        "stats": "172 points · 102 comments"
-      },
-      {
-        "url": "https://www.librarian.net/notoai/",
-        "title": "How to disable or avoid intrusive AI",
-        "description": "One of the biggest questions I get at Drop-In Time at the library (besides &quot;what is taking up all my cloud storage?&quot;) is how to disable or avoid intrusive AI that shows up where people don&#039;t want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik",
-        "image": "",
-        "source": "librarian.net",
-        "stats": "262 points · 161 comments"
+        "stats": "417 points · 155 comments"
       }
     ],
     "2026-08-16": [
@@ -171,12 +213,12 @@
     ],
     "2026-08-14": [
       {
-        "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-        "title": "A simple fix for LLM tail latency",
-        "description": "Send every request twice and take the faster response.",
-        "image": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/index.png",
-        "source": "engineering.myhoai.com",
-        "stats": "40 points · 16 comments"
+        "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+        "title": "Baking a Model: A Metaphor for LLM Training",
+        "description": "I remember walking to the bus from high school, staring at a Motorola 6800 instruction set manual.",
+        "image": "https://substackcdn.com/image/fetch/$s_!PlwL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F961d0b32-94f1-43bf-84a9-af749bcc28c9_768x1024.jpeg",
+        "source": "newsletter.kentbeck.com",
+        "stats": "31 points · 5 comments"
       }
     ],
     "2026-08-13": [
@@ -211,24 +253,6 @@
         "image": "https://cdn.sanity.io/images/o0o2tn5x/production/61190f2745496c269dd071680edec773a29eaef7-1800x1013.png",
         "source": "netlify.com",
         "stats": "218 points · 95 comments"
-      }
-    ],
-    "2026-08-12": [
-      {
-        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "title": "DeepSeek V4 Pro 0813",
-        "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. $1.056 per million input tokens, $3.168 per million output tokens. 1,048,576 token context window, maximum output of 393,216 tokens. Higher uptime with 8 providers. Includes independent benchmarks from Artificial Analysis.",
-        "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
-        "source": "openrouter.ai",
-        "stats": "1035 points · 451 comments"
-      },
-      {
-        "url": "https://discoveredmaterials.com/research/",
-        "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-        "description": "Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.",
-        "image": "https://discoveredmaterials.com/assets/og-image.png",
-        "source": "discoveredmaterials.com",
-        "stats": "161 points · 35 comments"
       }
     ]
   }
