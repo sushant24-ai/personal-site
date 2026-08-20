@@ -1,45 +1,87 @@
 {
-  "lastUpdated": "2026-08-19T03:00:35.416Z",
+  "lastUpdated": "2026-08-20T03:00:10.597Z",
   "days": {
+    "2026-08-20": [
+      {
+        "url": "https://arxiv.org/abs/2007.13664",
+        "title": "Universality of Gradient Descent Neural Network Training",
+        "description": "It has been observed that design choices of neural networks are often crucial for their successful optimization. In this article, we therefore discuss the question if it is always possible to redesign a neural network so that it trains well with gradient descent. This yields the following universality result: If, for a given network, there is any algorithm that can find good network weights for a classification task, then there exists an extension of this network that reproduces these weights and the corresponding forward output by mere gradient descent training. The construction is not intended for practical computations, but it provides some orientation on the possibilities of meta-learning and related approaches.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "9 points · 2 comments"
+      },
+      {
+        "url": "https://status.openai.com/incidents/01M0E7K87VJNMGW0QTMHPEQQ39",
+        "title": "Chatgpt.com is down – all signups and logins are down as of",
+        "description": "All impacted services have now fully recovered.",
+        "image": "",
+        "source": "status.openai.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
+        "title": "Claude Code adds new \"concise\" output style setting",
+        "description": "You can now set Claude Code&#x27;s output style to Concise.\n\nClaude leads with the result, keeps responses short, and still gives full detail when you ask.\n\nTurn it on in /config → Output style, or set &quot;outputStyle&quot;: &quot;Concise&quot; in settings.json.",
+        "image": "https://pbs.twimg.com/media/HQIKUlgbYAAd03G.jpg:large",
+        "source": "twitter.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2608.09867",
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "description": "Leading large language model providers now conceal their models&#39; step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, users, and models within a provider&#39;s ecosystem. We exploit this compatibility to develop a scalable decryption jailbreak. By injecting an encrypted reasoning trace from a given model into a weaker, and less safeguarded model from the same provider, we force it to decode and output the trace verbatim in plaintext, without ever jailbreaking the more capable model directly. This vulnerability enables four distinct attack vectors. First, it circumvents anti-distillation mechanisms, allowing adversaries to extract a proprietary model&#39;s reasoning, as we demonstrate across Anthropic, OpenAI, and Google. Second, it allows for large-scale private data extraction. Developers frequently share session logs publicly, unaware of contents of the encrypted blocks. By decoding 315,320 reasoning blocks scraped from public repositories, we recovered 367 Personally Identifiable Information (PII) artifacts and 182 credentials. Third, it inadvertently reveals hazardous information hidden within the reasoning process, even in cases where the model&#39;s final, visible output safely rejects a malicious request. Fourth, attackers can leverage this flaw to execute invisible prompt injections, embedding malicious payloads entirely within encrypted blocks to poison public agentic rollouts. Following responsible disclosure, we propose concrete cryptographic and system-level mitigations to secure client-side reasoning.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+        "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+        "description": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure.",
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/08/19/siemens-s7-1500.jpg",
+        "source": "bleepingcomputer.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-08-19": [
       {
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
-        "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
-        "description": "Expanded multistage chain of thought monitoring makes frontier model work more expensive",
-        "image": "https://image.theregister.com/260353.jpg?imageId=260353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "5 points · 1 comments"
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "title": "Feature Request: Support AGENTS.md",
+        "description": "Codex, Amp, Cursor, and others are starting to standardize around AGENTS.md (https://agents.md/) — a unified Markdown file that coding agents can use to understand a codebase. By contrast, CLAUDE.m...",
+        "image": "https://opengraph.githubassets.com/d602cdec402543f36ea071a297c61a367ef525688f5f396e3b394bd538d0d29f/anthropics/claude-code/issues/6235",
+        "source": "github.com",
+        "stats": "145 points · 80 comments"
       },
       {
-        "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
-        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x864+0+725/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fac%2F41feedfc41cb8734493954424915%2Fimg-2092-1.JPEG",
-        "source": "npr.org",
-        "stats": "4 points · 1 comments"
+        "url": "https://arxiv.org/abs/2608.16753",
+        "title": "Mathematics in the age of AI",
+        "description": "An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that are capable of performing research-level mathematical tasks. Rather than debating the capabilities of such tools, we condition on the hypothesis that these capabilities will arrive, and examine instead a question that is orthogonal to it: what the goals and values of mathematical research actually are. The problem-solving component of mathematics is used as a case study.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "125 points · 139 comments"
       },
       {
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "description": "Can OpenAI safely operate its AI models?",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+        "title": "Extensible Software in the age of LLMs",
+        "description": "Solid core + capability-based sandboxes + LLMs = Users with superpowers",
+        "image": "https://jeremymorrell.dev/_astro/omg-meme-social.BBc_Z2VQ.png",
+        "source": "jeremymorrell.dev",
+        "stats": "114 points · 50 comments"
       },
       {
-        "url": "https://www.adaptyvbio.com/blog/anthropic-1",
-        "title": "Testing Claude-designed proteins in the wet lab",
-        "description": "The Anthropic team wanted to benchmark the newest Claude models at protein design. They ran a suite of models in Claude Science to design protein binders against 16 targets and then sent them to our lab for experimental validation. The results show that Claude models show expert level skills at protein engineering and match or exceed public success rates at binder design.  ",
-        "image": "https://adaptyvbio.com/api/notion-image?pageId=3bb5ca69-e7be-8175-905f-c8a3473ef5dc",
-        "source": "adaptyvbio.com",
-        "stats": "3 points · 1 comments"
+        "url": "https://github.com/onecli/onecli",
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent. - onecli/onecli",
+        "image": "https://repository-images.githubusercontent.com/1175900220/ddf244eb-befe-4ea2-a784-b1b91be1d0eb",
+        "source": "github.com",
+        "stats": "53 points · 16 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49354741",
-        "title": "New OllamaMQ v0.3.0",
-        "description": "3 points · 0 comments",
+        "url": "https://demo.frugaltokens.com/",
+        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+        "description": "28 points · 7 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "demo.frugaltokens.com",
         "stats": ""
       }
     ],
@@ -47,26 +89,10 @@
       {
         "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
         "title": "Claude Code May–August 2026 weekly limits promotion",
-        "description": "262 points · 238 comments",
+        "description": "292 points · 259 comments",
         "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
         "source": "support.claude.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-        "title": "Norway should buy OpenAI",
-        "description": "The Long Arc of History Bends Towards Social Democracy",
-        "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
-        "source": "onethousandmeans.com",
-        "stats": "222 points · 235 comments"
-      },
-      {
-        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-        "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-        "description": "A ~4-hour Claude Code session, rendered as it happened: reverse-engineering an SPL3 laser, beating the USB sandbox, HP",
-        "image": "https://cdn.kuber.studio/chat/og-hp-laser-1008a.png",
-        "source": "cdn.kuber.studio",
-        "stats": "117 points · 75 comments"
       },
       {
         "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
@@ -74,15 +100,31 @@
         "description": "just Claude writing a MacOS driver for my obscure HP printer built only for Windows support",
         "image": "https://pbs.twimg.com/media/HP72MdaaEAAAX7z.jpg:large",
         "source": "twitter.com",
-        "stats": "153 points · 65 comments"
+        "stats": "312 points · 219 comments"
       },
       {
-        "url": "https://artificialanalysis.ai/models/glm-5-3",
-        "title": "GLM-5.3 Artificial Analysis Benchmarks",
-        "description": "Analysis of Z AI&#x27;s GLM-5.3 (max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
-        "image": "https://artificialanalysis.ai/en/models/glm-5-3/opengraph-image?76c5a1db7097b9e1",
-        "source": "artificialanalysis.ai",
-        "stats": "90 points · 41 comments"
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "title": "Norway should buy OpenAI",
+        "description": "The Long Arc of History Bends Towards Social Democracy",
+        "image": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
+        "source": "onethousandmeans.com",
+        "stats": "254 points · 268 comments"
+      },
+      {
+        "url": "https://fx.sh",
+        "title": "fx :Tiny, open, native coding agent.",
+        "description": "Tiny, open, native coding agent. A minimal CLI written in Zig, optimized for research and embeddability as part of larger systems.",
+        "image": "https://fx.sh/og.png",
+        "source": "fx.sh",
+        "stats": "189 points · 91 comments"
+      },
+      {
+        "url": "https://linear.app/data",
+        "title": "AI usage patterns in software teams",
+        "description": "AI usage patterns in software teams: who is adopting AI, how it reshapes where teams spend their time, and how much more they ship.",
+        "image": "https://linear.app/static/og/data-v1.jpg",
+        "source": "linear.app",
+        "stats": "178 points · 111 comments"
       }
     ],
     "2026-08-17": [
@@ -92,80 +134,16 @@
         "description": "I&#x27;m about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I&#x27;m not alone). That&#x27;s why I love the AI;DR acronym as my new solution for ignoring the walls of slop.",
         "image": "https://substackcdn.com/image/fetch/$s_!10qV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c3c1241-1fe2-4cb1-96f1-7613e4b876bc_702x313.png",
         "source": "rickmanelius.com",
-        "stats": "1063 points · 668 comments"
-      },
-      {
-        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-        "description": "In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots",
-        "image": "https://responsiblestatecraft.org/media-library/screenshot-of-the-hanover-institute-s-website-taken-on-aug-16-2026.png?id=67630219&width=1200&height=600&coordinates=0%2C0%2C0%2C65",
-        "source": "responsiblestatecraft.org",
-        "stats": "1016 points · 735 comments"
-      },
-      {
-        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-        "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-        "description": "GPT-5.6 Sol is the flagship model in OpenAI&#x27;s GPT-5.6 series. $2.50 per million input tokens, $15 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 3 providers. Includes independent benchmarks from Artificial Analysis.",
-        "image": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f",
-        "source": "openrouter.ai",
-        "stats": "617 points · 443 comments"
-      },
-      {
-        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "description": "GPT-5.6 Sol is OpenAI’s strongest vision model yet. We tested Sol, Terra, and Luna across detection, counting, OCR, and extraction, then compared their results, speed, and cost with leading VLMs.",
-        "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
-        "source": "blog.roboflow.com",
-        "stats": "359 points · 166 comments"
-      },
-      {
-        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-        "description": "Wiz Red Agent finds its way into Snowflake&#x27;s internal Jira through a flaw in a GitHub Copilot–Assisted PR.",
-        "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
-        "source": "wiz.io",
-        "stats": "417 points · 155 comments"
+        "stats": "1087 points · 686 comments"
       }
     ],
     "2026-08-16": [
       {
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-        "description": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation of text *for me* is patently offensive.",
-        "image": "https://daringfireball.net/graphics/df-wide-card.png",
-        "source": "daringfireball.net",
-        "stats": "767 points · 680 comments"
-      },
-      {
-        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "title": "Claude: System Prompts",
-        "description": "See updates to the core system prompts on [claude.ai](https://claude.ai) and the [Claude iOS app](https://anthropic.com/ios) and [Claude Android app](https://anthropic.com/android).",
-        "image": "https://platform.claude.com/docs/og?locale=en&amp;path=release-notes/system-prompts&amp;design-rev=1",
-        "source": "platform.claude.com",
-        "stats": "743 points · 280 comments"
-      },
-      {
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "description": "245 points · 151 comments",
+        "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
+        "title": "If your agent commits a crime, who is responsible?",
+        "description": "27 points · 83 comments",
         "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "title": "The AI Credit Resale Economy",
-        "description": "A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands",
-        "image": "",
-        "source": "vectoral.com",
-        "stats": "323 points · 128 comments"
-      },
-      {
-        "url": "https://littlelearner-ll.github.io/",
-        "title": "What happens when an LLM never sees material beyond fifth grade?",
-        "description": "244 points · 209 comments",
-        "image": "",
-        "source": "littlelearner-ll.github.io",
+        "source": "signalbloom.ai",
         "stats": ""
       }
     ],
@@ -219,40 +197,6 @@
         "image": "https://substackcdn.com/image/fetch/$s_!PlwL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F961d0b32-94f1-43bf-84a9-af749bcc28c9_768x1024.jpeg",
         "source": "newsletter.kentbeck.com",
         "stats": "31 points · 5 comments"
-      }
-    ],
-    "2026-08-13": [
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "title": "Gemini 3.7 Flash",
-        "description": "Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
-        "source": "blog.google",
-        "stats": "966 points · 491 comments"
-      },
-      {
-        "url": "https://deepseek.com/harness/en/",
-        "title": "DeepSeek Harness developer preview",
-        "description": "DeepSeek Harness is now available in developer preview to developers building agent harnesses worldwide, with the source code released at the same time. Every agent capability is implemented as a plugin that can be swapped or recomposed.",
-        "image": "",
-        "source": "deepseek.com",
-        "stats": "733 points · 309 comments"
-      },
-      {
-        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "title": "Accelerating GPT-5.6 Sol Ultrafast",
-        "description": "Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.",
-        "image": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
-        "source": "cerebras.ai",
-        "stats": "711 points · 277 comments"
-      },
-      {
-        "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-        "title": "Choosing an AI model: one prompt, 11 models, different results",
-        "description": "Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.",
-        "image": "https://cdn.sanity.io/images/o0o2tn5x/production/61190f2745496c269dd071680edec773a29eaef7-1800x1013.png",
-        "source": "netlify.com",
-        "stats": "218 points · 95 comments"
       }
     ]
   }
