@@ -1,64 +1,106 @@
 {
-  "lastUpdated": "2026-08-23T03:05:58.710Z",
+  "lastUpdated": "2026-08-24T03:06:37.130Z",
   "days": {
-    "2026-08-23": [
+    "2026-08-24": [
       {
-        "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
-        "title": "Software Engineering in the Agentic Era",
-        "description": "I’ve started a new project to collect and document Agentic Engineering Patterns—coding practices and patterns to help get the best results out of this new era of coding agent development …",
-        "image": "https://static.simonwillison.net/static/2026/agentic-engineering-card.jpg",
-        "source": "simonwillison.net",
-        "stats": "13 points · 6 comments"
+        "url": "https://proton.me/blog/eu-ai-act",
+        "title": "What the EU AI Act means for you and your business",
+        "description": "The EU AI Act is changing how AI can be used in Europe. Learn what’s banned, what’s regulated, and what it means for you or your business.",
+        "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&amp;image=images/f_auto,q_auto/v1786438284/wp-pme/eu-ai-act-cover/eu-ai-act-cover.jpg?_i=AA",
+        "source": "proton.me",
+        "stats": "4 points · 0 comments"
       },
       {
-        "url": "https://github.com/KellerJordan/modded-nanogpt",
-        "title": "NanoGPT Speedrun",
-        "description": "NanoGPT (124M) in 90 seconds. Contribute to KellerJordan/modded-nanogpt development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/c72b202b8a4a43f0904251cc8a55ead491452b7489c1d64e89d591d3f4bf595c/KellerJordan/modded-nanogpt",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://twitter.com/stevemoraco/status/2091194172917338520",
-        "title": "Apple degrades privacy and encryption of iMessage with AI integrations",
-        "description": "I’m actually pretty upset Apple allowed this. While the feature is cool, the technical functionality that enables it is not cool. \n\nIf I was Tim Apple, OAI would be temporarily banned from the App Store until this is reversed, and here’s why:\n\nI use iMessage because it’s quantum",
-        "image": "https://pbs.twimg.com/profile_images/1931427365709828096/CUTHmLCB_400x400.jpg",
-        "source": "twitter.com",
+        "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+        "title": "Tech leads should have the largest AI exhaust",
+        "description": "I&#39;m currently a Staff AI Engineer at Snowflake working on agents for GTM teams, and the author of nah. This site collects my public work on agents and developer tooling.",
+        "image": "https://schipper.ai/og-card.png",
+        "source": "schipper.ai",
         "stats": "2 points · 1 comments"
       },
       {
-        "url": "https://github.com/BenSiv/fossil-scm",
-        "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
-        "description": "Adapting Fossil-scm as a platform for AI agentic workflow - BenSiv/fossil-scm",
-        "image": "https://opengraph.githubassets.com/fa43bf7b52a75dec96dad72bee36ad5dc0b6a674f22d421c661e0d1dee2769f2/BenSiv/fossil-scm",
-        "source": "github.com",
-        "stats": "2 points · 0 comments"
+        "url": "https://archive.org/details/vintageai",
+        "title": "Vintage Artificial Intelligence Collection",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "archive.org",
+        "stats": ""
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49405520",
-        "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
+        "url": "https://news.ycombinator.com/item?id=49414496",
+        "title": "Sideshow: Give Your Agents a Stage",
         "description": "2 points · 0 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
+      },
+      {
+        "url": "https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009",
+        "title": "Dr. Dre Says He Uses AI to Produce Songs",
+        "description": "2 points · 0 comments",
+        "image": "",
+        "source": "gizmodo.com",
+        "stats": ""
+      }
+    ],
+    "2026-08-23": [
+      {
+        "url": "https://ericpardee.github.io/fire-hd-ownership/",
+        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+        "description": "Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months",
+        "image": "",
+        "source": "ericpardee.github.io",
+        "stats": "623 points · 268 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "description": "270 points · 233 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+        "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+        "description": "Seventeen models on the Featherbench leaderboard: glm-5.3 leads at 100%, eight tie at 96%, and checker errors flip the safety ranking. See who tops the board.",
+        "image": "https://reinvently.co.uk/images/hero-ed-o-meter-leaderboard.jpg",
+        "source": "reinvently.co.uk",
+        "stats": "234 points · 108 comments"
+      },
+      {
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "description": "189 points · 85 comments",
+        "image": "",
+        "source": "fabiensanglard.net",
+        "stats": ""
+      },
+      {
+        "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+        "title": "We must not grant AI agents legal personhood",
+        "description": "60 points · 102 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
       }
     ],
     "2026-08-22": [
-      {
-        "url": "https://twitter.com/argofowl/status/2091150597374537729",
-        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-        "description": "update: it&#x27;s server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif &quot;high&quot; feels like &quot;low&quot; for you,",
-        "image": "https://pbs.twimg.com/profile_images/2046948500206940161/qOR9xYkA_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "167 points · 158 comments"
-      },
       {
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "title": "Why your local LLM feels dumber than it is",
         "description": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ...",
         "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
         "source": "forum.level1techs.com",
-        "stats": "202 points · 69 comments"
+        "stats": "476 points · 198 comments"
+      },
+      {
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "description": "update: it&#x27;s server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif &quot;high&quot; feels like &quot;low&quot; for you,",
+        "image": "https://pbs.twimg.com/profile_images/2046948500206940161/qOR9xYkA_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "205 points · 184 comments"
       },
       {
         "url": "https://munderdiffl.in/",
@@ -66,7 +108,7 @@
         "description": "Free, open source and performant multi-agent harness, works with your existing subscriptions (uses hourly limits). It wraps the CLI agents you already use — Claude Code, Codex, Copilot and 9 more — and runs an office of your clones on your own machine.",
         "image": "https://munderdiffl.in/media/og.png",
         "source": "munderdiffl.in",
-        "stats": "258 points · 115 comments"
+        "stats": "303 points · 146 comments"
       },
       {
         "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
@@ -74,7 +116,7 @@
         "description": "An update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.",
         "image": "https://blog.modelcontextprotocol.io/og-image.png",
         "source": "blog.modelcontextprotocol.io",
-        "stats": "174 points · 127 comments"
+        "stats": "265 points · 155 comments"
       },
       {
         "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
@@ -82,7 +124,7 @@
         "description": "Compare 153 autonomous runs from 18 frontier models on the nanoGPT optimizer speedrun.",
         "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
         "source": "primeintellect.ai",
-        "stats": "55 points · 18 comments"
+        "stats": "136 points · 35 comments"
       }
     ],
     "2026-08-21": [
@@ -92,7 +134,7 @@
         "description": "The deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze charts, and more.",
         "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
         "source": "api-docs.deepseek.com",
-        "stats": "494 points · 153 comments"
+        "stats": "496 points · 154 comments"
       },
       {
         "url": "https://annas-archive.gl/blog/physical-destruction.html",
@@ -100,23 +142,7 @@
         "description": "AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.",
         "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
         "source": "annas-archive.gl",
-        "stats": "610 points · 892 comments"
-      },
-      {
-        "url": "https://cymerys.com/w/im-becoming-ai-blind",
-        "title": "I'm becoming AI-blind",
-        "description": "Recently I&#x27;ve been catching myself having these little moments at work, when I&#x27;m trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I&#x27;m reading it, but I&#x27;m unable to focus on its content. I sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI. My brain learned to quickly spot signs of AI-generated content, at least the low effort one, and it now ignores it and moves on without thinking much about it.",
-        "image": "",
-        "source": "cymerys.com",
-        "stats": "475 points · 479 comments"
-      },
-      {
-        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-        "description": "A Claude Code skill (/debuzz) that pipes Claude&#39;s answers through Gemini to remove the BuzzFeed voice - adnanakil/nobuzz",
-        "image": "https://opengraph.githubassets.com/8d71909456e98e2fe7180df8bf25bbed411912bff370834d46db2c6a7c7b43a0/adnanakil/nobuzz",
-        "source": "github.com",
-        "stats": "348 points · 232 comments"
+        "stats": "629 points · 901 comments"
       },
       {
         "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
@@ -124,33 +150,33 @@
         "description": "Claude goes above and beyond what is asked and guesses what you might want. Codex does what you tell it and stops at the first sign that it might be done. Ten impressions from a week of using Codex more.",
         "image": "https://allaboutcoding.ghinda.com/assets/images/posts/a-week-of-using-codex-more-than-claude/og.png",
         "source": "allaboutcoding.ghinda.com",
-        "stats": "139 points · 152 comments"
+        "stats": "235 points · 271 comments"
+      },
+      {
+        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+        "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+        "description": "206 points · 118 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+        "title": "How we made a text-to-speech model respond in sub-50 ms",
+        "description": "10 RPS with p95 TTFA under 50 ms on a single H100: how we optimized Qwen3-TTS serving.",
+        "image": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/assets/image.png",
+        "source": "nari-labs.com",
+        "stats": "170 points · 44 comments"
       }
     ],
     "2026-08-20": [
-      {
-        "url": "https://www.danielvaughn.dev/posts/huzzah/",
-        "title": "Show HN: Huzzah – a novel approach to coding with AI",
-        "description": "A new experimental way to code with AI",
-        "image": "https://www.danielvaughn.dev/opengraph-image.jpg",
-        "source": "danielvaughn.dev",
-        "stats": "378 points · 209 comments"
-      },
       {
         "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
         "title": "Anti-AI fonts are useless and harmful",
         "description": "Trying to obfuscate the web is a bad, pointless idea",
         "image": "https://yaros.ae/data/images/social/blog/preview.png",
         "source": "blog.yaros.ae",
-        "stats": "210 points · 163 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2608.00146",
-        "title": "DiffusionGemma Technical Report",
-        "description": "We introduce DiffusionGemma, an experimental open-weight language model that uses discrete diffusion to generate text at exceptionally high speed. Rather than decoding one token at a time, DiffusionGemma iteratively refines blocks of 256 tokens in parallel, avoiding the sequential decoding bottleneck of conventional autoregressive (AR) large language models. Instead of training from scratch, we obtain DiffusionGemma by fine-tuning the mixture-of-experts Gemma 4 model with 3.8B activated and 25.2B total parameters. Our compute-efficient two-stage training pipeline uses fewer than 10% of the starting AR model&#39;s total training token budget. The first stage uses supervised fine-tuning to teach bidirectional denoising, while the second stage combines reinforcement learning with sampler distillation to jointly improve generation quality and inference efficiency. DiffusionGemma establishes a new Pareto frontier for the trade-off between generation speed and model capability. Averaged across our full evaluation suite, it generates around 20 tokens per forward pass and achieves roughly 1,500 output tokens per second on a single NVIDIA H100 GPU, which is substantially faster than AR models even with state-of-the-art speculative decoding. DiffusionGemma also retains the starting model&#39;s support for thinking mode, multimodal inputs, and long contexts. Despite diffusion fine-tuning, it remains capable of AR generation with only minor performance degradation, suggesting a path toward hybrid diffusion-AR decoding.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "162 points · 40 comments"
+        "stats": "212 points · 165 comments"
       },
       {
         "url": "https://www.lambda-symbolics.com/autolith",
@@ -158,15 +184,7 @@
         "description": "A terminal programming agent that works in your repository, keeps project context, and can inspect and extend its running Lisp image.",
         "image": "https://lambda-symbolics.com/autolith.png",
         "source": "lambda-symbolics.com",
-        "stats": "116 points · 46 comments"
-      },
-      {
-        "url": "https://sgoedecke.github.io/watermark-quiz/",
-        "title": "Guess which of these LLM outputs is watermarked",
-        "description": "An informal blind quiz about spotting SynthID-watermarked language-model responses.",
-        "image": "",
-        "source": "sgoedecke.github.io",
-        "stats": "64 points · 75 comments"
+        "stats": "125 points · 58 comments"
       }
     ],
     "2026-08-19": [
@@ -195,16 +213,6 @@
         "image": "https://pbs.twimg.com/media/HP72MdaaEAAAX7z.jpg:large",
         "source": "twitter.com",
         "stats": "346 points · 226 comments"
-      }
-    ],
-    "2026-08-17": [
-      {
-        "url": "https://passo.uno/if-you-are-an-agent-read-this/",
-        "title": "Does whispering to agents in docs help?",
-        "description": "I’m seeing more instances of docs and README files addressing agents directly, as in “Hey, if you’re an agent, follow these instructions”. In some cases, those instructions are visible to human readers as well, which makes for a deeply awkward experience, the reading equivalent of getting a robotic kick in the butt. Is this whistling to machines helpful? I ran some experiments to find out.",
-        "image": "https://passo.uno/uploads/gemini-generated-image-gngr4fgngr4fgngr.jpeg",
-        "source": "passo.uno",
-        "stats": "27 points · 9 comments"
       }
     ]
   }
