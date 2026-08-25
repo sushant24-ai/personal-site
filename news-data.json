@@ -1,88 +1,130 @@
 {
-  "lastUpdated": "2026-08-24T03:06:37.130Z",
+  "lastUpdated": "2026-08-25T03:01:42.741Z",
   "days": {
-    "2026-08-24": [
+    "2026-08-25": [
       {
-        "url": "https://proton.me/blog/eu-ai-act",
-        "title": "What the EU AI Act means for you and your business",
-        "description": "The EU AI Act is changing how AI can be used in Europe. Learn what’s banned, what’s regulated, and what it means for you or your business.",
-        "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&amp;image=images/f_auto,q_auto/v1786438284/wp-pme/eu-ai-act-cover/eu-ai-act-cover.jpg?_i=AA",
-        "source": "proton.me",
+        "url": "https://plicara.ai/research/agent-skill-languages/",
+        "title": "What languages are agent skills written in?",
+        "description": "3.8 million AI agent instruction files on GitHub, read by a model that speaks every language. So why are 85.3% of them in English, and what is changing?",
+        "image": "",
+        "source": "plicara.ai",
+        "stats": "11 points · 2 comments"
+      },
+      {
+        "url": "https://www.globaltimes.cn/page/202608/1368937.shtml",
+        "title": "Nvidia wants to 'copy China's homework' and China welcomes this",
+        "description": "Several US media outlets recently reported that Nvidia is spending $6 billion to build one of the world",
+        "image": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-11-20/e9397a9c-15a4-4b66-abd5-4cc869e9d4d3.jpeg",
+        "source": "globaltimes.cn",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+        "title": "80% of developers find AI coding more addictive than helpful",
+        "description": "A Coddy Developer Survey revealed that AI coding is leading to a new kind of burnout.",
+        "image": "https://www.zdnet.com/a/img/resize/b79b4ad17a3cca878c82d72f15181d7d9acda6c4/2026/08/22/1c153ff0-c958-4fd9-9e3f-19170f25be0b/gettyimages-1065782064.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+        "source": "zdnet.com",
         "stats": "4 points · 0 comments"
       },
       {
-        "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
-        "title": "Tech leads should have the largest AI exhaust",
-        "description": "I&#39;m currently a Staff AI Engineer at Snowflake working on agents for GTM teams, and the author of nah. This site collects my public work on agents and developer tooling.",
-        "image": "https://schipper.ai/og-card.png",
-        "source": "schipper.ai",
-        "stats": "2 points · 1 comments"
-      },
-      {
-        "url": "https://archive.org/details/vintageai",
-        "title": "Vintage Artificial Intelligence Collection",
-        "description": "3 points · 0 comments",
+        "url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
+        "title": "Who will decide that level AI you have access to?",
+        "description": "4 points · 3 comments",
         "image": "",
-        "source": "archive.org",
+        "source": "guustaaf.substack.com",
         "stats": ""
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49414496",
-        "title": "Sideshow: Give Your Agents a Stage",
-        "description": "2 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://onecli.sh/blog/why-we-gave-every-agent-a-computer",
+        "title": "We gave every agent a computer",
+        "description": "OneCLI agents moved from containers to per-agent micro-VMs: a real browser, a real filesystem, root on their own computer, with mistakes contained.",
+        "image": "https://onecli.sh/blog/why-we-gave-every-agent-a-computer.png",
+        "source": "onecli.sh",
+        "stats": "3 points · 0 comments"
+      }
+    ],
+    "2026-08-24": [
+      {
+        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+        "title": "Coding expertise is going to collapse from AI reliance",
+        "description": "The need for ongoing friction in long-term skill formation.",
+        "image": "https://larsfaye.com/opengraph-expertise.jpg",
+        "source": "larsfaye.com",
+        "stats": "484 points · 475 comments"
       },
       {
-        "url": "https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009",
-        "title": "Dr. Dre Says He Uses AI to Produce Songs",
-        "description": "2 points · 0 comments",
+        "url": "https://developers.openai.com/api/docs/pricing",
+        "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+        "description": "Pricing information for the OpenAI platform.",
+        "image": "https://developers.openai.com/og/api/docs/pricing.png",
+        "source": "developers.openai.com",
+        "stats": "305 points · 271 comments"
+      },
+      {
+        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+        "title": "LLMs could control their host machines by exploiting inference engines",
+        "description": "| Read on LessWrong | Large language models often take actions running on one computer (via an agentic harness such as Claude Code or Codex), however the LLMs’ responses to prompts are computed on a different computer with GPU access.",
+        "image": "https://boydkane.com/static/og-image.png",
+        "source": "boydkane.com",
+        "stats": "103 points · 52 comments"
+      },
+      {
+        "url": "https://status.claude.com/uptime",
+        "title": "Anthropic Claude and API service outages",
+        "description": "Claude&#39;s Uptime History",
         "image": "",
-        "source": "gizmodo.com",
-        "stats": ""
+        "source": "status.claude.com",
+        "stats": "75 points · 60 comments"
+      },
+      {
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract. - thiagotigaz/ocr-it",
+        "image": "https://opengraph.githubassets.com/37a925ea113ee3bca6b3f5d6b33c74ad40e6b5d2a3570a6f5839053ebb92b260/thiagotigaz/ocr-it",
+        "source": "github.com",
+        "stats": "121 points · 27 comments"
       }
     ],
     "2026-08-23": [
+      {
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "description": "767 points · 678 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
       {
         "url": "https://ericpardee.github.io/fire-hd-ownership/",
         "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
         "description": "Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months",
         "image": "",
         "source": "ericpardee.github.io",
-        "stats": "623 points · 268 comments"
+        "stats": "684 points · 289 comments"
       },
       {
-        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "description": "270 points · 233 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-        "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "description": "Seventeen models on the Featherbench leaderboard: glm-5.3 leads at 100%, eight tie at 96%, and checker errors flip the safety ranking. See who tops the board.",
-        "image": "https://reinvently.co.uk/images/hero-ed-o-meter-leaderboard.jpg",
-        "source": "reinvently.co.uk",
-        "stats": "234 points · 108 comments"
+        "url": "https://twitter.com/paulg/status/2091544343589060625",
+        "title": "I were 17, I'd learn how to build LLMs from scratch",
+        "description": "Someone asked what I&#x27;d do if I were 17. I&#x27;d learn how to build LLMs from scratch, and then train ones as powerful as I could with whatever hardware I could get access to.",
+        "image": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "517 points · 611 comments"
       },
       {
         "url": "https://fabiensanglard.net/agent.md/index.html",
         "title": "My agent.md to improve LLM-assisted code quality",
-        "description": "189 points · 85 comments",
+        "description": "395 points · 172 comments",
         "image": "",
         "source": "fabiensanglard.net",
         "stats": ""
       },
       {
-        "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
-        "title": "We must not grant AI agents legal personhood",
-        "description": "60 points · 102 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
+        "url": "https://pantel.is/projects/ai-gaming-companion/",
+        "title": "I built a low-latency AI companion that plays Skyrim with me",
+        "description": "How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.",
+        "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
+        "source": "pantel.is",
+        "stats": "344 points · 69 comments"
       }
     ],
     "2026-08-22": [
@@ -92,39 +134,7 @@
         "description": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ...",
         "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
         "source": "forum.level1techs.com",
-        "stats": "476 points · 198 comments"
-      },
-      {
-        "url": "https://twitter.com/argofowl/status/2091150597374537729",
-        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-        "description": "update: it&#x27;s server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif &quot;high&quot; feels like &quot;low&quot; for you,",
-        "image": "https://pbs.twimg.com/profile_images/2046948500206940161/qOR9xYkA_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "205 points · 184 comments"
-      },
-      {
-        "url": "https://munderdiffl.in/",
-        "title": "Munder Difflin – Agent harness to run an office of your clones",
-        "description": "Free, open source and performant multi-agent harness, works with your existing subscriptions (uses hourly limits). It wraps the CLI agents you already use — Claude Code, Codex, Copilot and 9 more — and runs an office of your clones on your own machine.",
-        "image": "https://munderdiffl.in/media/og.png",
-        "source": "munderdiffl.in",
-        "stats": "303 points · 146 comments"
-      },
-      {
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "title": "New MCP Roadmap",
-        "description": "An update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.",
-        "image": "https://blog.modelcontextprotocol.io/og-image.png",
-        "source": "blog.modelcontextprotocol.io",
-        "stats": "265 points · 155 comments"
-      },
-      {
-        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "title": "NanoGPT Speedrun Frontier",
-        "description": "Compare 153 autonomous runs from 18 frontier models on the nanoGPT optimizer speedrun.",
-        "image": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
-        "source": "primeintellect.ai",
-        "stats": "136 points · 35 comments"
+        "stats": "501 points · 202 comments"
       }
     ],
     "2026-08-21": [
@@ -203,16 +213,6 @@
         "image": "",
         "source": "economist.com",
         "stats": ""
-      }
-    ],
-    "2026-08-18": [
-      {
-        "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-        "description": "just Claude writing a MacOS driver for my obscure HP printer built only for Windows support",
-        "image": "https://pbs.twimg.com/media/HP72MdaaEAAAX7z.jpg:large",
-        "source": "twitter.com",
-        "stats": "346 points · 226 comments"
       }
     ]
   }
