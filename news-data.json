@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-25T03:01:42.741Z",
+  "lastUpdated": "2026-08-26T03:09:08.156Z",
   "days": {
-    "2026-08-25": [
+    "2026-08-26": [
       {
-        "url": "https://plicara.ai/research/agent-skill-languages/",
-        "title": "What languages are agent skills written in?",
-        "description": "3.8 million AI agent instruction files on GitHub, read by a model that speaks every language. So why are 85.3% of them in English, and what is changing?",
+        "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
+        "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
+        "description": "8 points · 5 comments",
         "image": "",
-        "source": "plicara.ai",
-        "stats": "11 points · 2 comments"
-      },
-      {
-        "url": "https://www.globaltimes.cn/page/202608/1368937.shtml",
-        "title": "Nvidia wants to 'copy China's homework' and China welcomes this",
-        "description": "Several US media outlets recently reported that Nvidia is spending $6 billion to build one of the world",
-        "image": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-11-20/e9397a9c-15a4-4b66-abd5-4cc869e9d4d3.jpeg",
-        "source": "globaltimes.cn",
-        "stats": "5 points · 0 comments"
-      },
-      {
-        "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-        "title": "80% of developers find AI coding more addictive than helpful",
-        "description": "A Coddy Developer Survey revealed that AI coding is leading to a new kind of burnout.",
-        "image": "https://www.zdnet.com/a/img/resize/b79b4ad17a3cca878c82d72f15181d7d9acda6c4/2026/08/22/1c153ff0-c958-4fd9-9e3f-19170f25be0b/gettyimages-1065782064.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
-        "source": "zdnet.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
-        "title": "Who will decide that level AI you have access to?",
-        "description": "4 points · 3 comments",
-        "image": "",
-        "source": "guustaaf.substack.com",
+        "source": "wsj.com",
         "stats": ""
       },
       {
-        "url": "https://onecli.sh/blog/why-we-gave-every-agent-a-computer",
-        "title": "We gave every agent a computer",
-        "description": "OneCLI agents moved from containers to per-agent micro-VMs: a real browser, a real filesystem, root on their own computer, with mistakes contained.",
-        "image": "https://onecli.sh/blog/why-we-gave-every-agent-a-computer.png",
-        "source": "onecli.sh",
-        "stats": "3 points · 0 comments"
+        "url": "https://speak-english.tenken.co/",
+        "title": "Show HN: Declaude",
+        "description": "API and MCP server that rewrites Claude-English into plain, natural English. 100 free translations a month.",
+        "image": "https://speak-english.tenken.co/og.png",
+        "source": "speak-english.tenken.co",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.21503",
+        "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+        "description": "Production AI agents&#39; failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts, large tool definitions, and ballooning tool outputs. Agents drown in their own accumulating history while paying a token cost that grows every turn, producing missing recalls within and across conversations. The incumbent response treats this as a storage-and-retrieval problem. We argue that framing is too narrow. Actively managing what an agent holds in mind is a lifecycle, not merely a store: it spans deciding what to remember, extracting and structuring it, choosing the right store per data type, consolidating and forgetting while preserving provenance, deciding what is relevant now, anticipating what is needed next, and compacting context to a budget without losing what matters. In serious production this operates not over a single user but across an organizational scope hierarchy. We name this discipline Agentic Context Management (ACM) and decompose it into five primitives: architecting, ingesting, scoping, anticipating, and compacting &amp; consolidation. We then make the economic case: naive context accumulation grows token cost quadratically in conversation length, crude summarization buys linear cost at the price of an accuracy cliff, and only validated compaction achieves linear cost with preserved fidelity. We describe a reference implementation, Maximem Synap, that realizes the five primitives as a multi-tenant service and reports 92% on LongMemEval and 93.2% on LoCoMo under the configuration detailed in Section 6. We close with dimensions existing benchmarks do not yet capture, latency, token efficiency, and context-rot resistance, and the frontier of decision-level and organization-level context the category points toward.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "3 points · 1 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2608.24571",
+        "title": "Training LLMs to write tools generalized beyond self use",
+        "description": "Tool-augmented language models are bounded by the APIs humans bothered to write; existing tool-creation systems patch this by prompting a frozen LLM at inference time, leaving the model that writes a tool decoupled from the one that uses it, with no signal that the schemas it produces are schemas it can invoke. We propose SMITH (Schema-grounded Multi-task Iterative Tool Honing), a reinforcement learning framework that jointly trains tool creation and tool use inside a single policy. Each rollout is either a build task (write a tool from a few examples) or a use task (invoke a pooled tool on a held-out question). Three separate reward axes catch schema, code, and outcome failures independently, so each failure mode contributes its own gradient. A 4B Qwen3 trained with SMITH on 13 procedural reasoning tasks with exact verifiers reaches 79.8 macro-average accuracy on held-out tasks, the best across all evaluated methods and ahead of an untrained 30B-A3B tool-writer. It also reaches 40.4 on TabMWP-Hard and 42.6 on out-of-domain GQA (+7.6 over the best same-backbone inference-time baseline), without any visual or tabular training data. Tools written by our 4B models also lifted the performance of LFM-2.5-350M and Qwen3-30B-A3B under same reasoning tasks.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.patreon.com/MacSurf/posts/how-i-automated-167688725",
+        "title": "How I Automated CodeWarrior with Claude, AppleScript, and SSH",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "patreon.com",
+        "stats": ""
+      }
+    ],
+    "2026-08-25": [
+      {
+        "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+        "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+        "description": "OpenAI’s self-designed ASIC compared with Rubin, Jalapeño’s TCO, throughput per MW, and spicy deets",
+        "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png",
+        "source": "newsletter.semianalysis.com",
+        "stats": "356 points · 249 comments"
+      },
+      {
+        "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+        "title": "How much of HN is AI?",
+        "description": "TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.",
+        "image": "https://substackcdn.com/image/fetch/$s_!uOdH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53eb781a-accb-4de0-9d65-7cc0ea08f1b7_2437x1746.png",
+        "source": "blog.coredump.cx",
+        "stats": "251 points · 302 comments"
+      },
+      {
+        "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+        "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+        "description": "OpenAI announced today that it is restoring a five-hour limit on Codex and ChatGPT Work for Plus subscribers. Here are the details.",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?resize=1200,628",
+        "source": "9to5mac.com",
+        "stats": "111 points · 120 comments"
+      },
+      {
+        "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+        "title": "Anthropic tells staff to work from home due to possible security team strike",
+        "description": "Anthropic staff were told they should not come to the AI company&#x27;s San Francisco offices on Monday and Tuesday in case a security strike took place.",
+        "image": "https://i.insider.com/6a8c5ba74569a4ec219f9773?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "118 points · 123 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "135 points · 160 comments"
       }
     ],
     "2026-08-24": [
@@ -50,7 +92,7 @@
         "description": "The need for ongoing friction in long-term skill formation.",
         "image": "https://larsfaye.com/opengraph-expertise.jpg",
         "source": "larsfaye.com",
-        "stats": "484 points · 475 comments"
+        "stats": "542 points · 535 comments"
       },
       {
         "url": "https://developers.openai.com/api/docs/pricing",
@@ -58,49 +100,41 @@
         "description": "Pricing information for the OpenAI platform.",
         "image": "https://developers.openai.com/og/api/docs/pricing.png",
         "source": "developers.openai.com",
-        "stats": "305 points · 271 comments"
+        "stats": "334 points · 335 comments"
       },
       {
         "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
         "title": "LLMs could control their host machines by exploiting inference engines",
-        "description": "| Read on LessWrong | Large language models often take actions running on one computer (via an agentic harness such as Claude Code or Codex), however the LLMs’ responses to prompts are computed on a different computer with GPU access.",
+        "description": "| Read on LessWrong | Comment on HN | Large language models often take actions running on one computer (via an agentic harness such as Claude Code or Codex), however the LLMs’ responses to prompts are computed on a different computer with GPU access.",
         "image": "https://boydkane.com/static/og-image.png",
         "source": "boydkane.com",
-        "stats": "103 points · 52 comments"
+        "stats": "188 points · 96 comments"
       },
       {
-        "url": "https://status.claude.com/uptime",
-        "title": "Anthropic Claude and API service outages",
-        "description": "Claude&#39;s Uptime History",
+        "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+        "description": "153 points · 29 comments",
         "image": "",
-        "source": "status.claude.com",
-        "stats": "75 points · 60 comments"
+        "source": "blog.archive.org",
+        "stats": ""
       },
       {
         "url": "https://github.com/thiagotigaz/ocr-it",
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract. - thiagotigaz/ocr-it",
-        "image": "https://opengraph.githubassets.com/37a925ea113ee3bca6b3f5d6b33c74ad40e6b5d2a3570a6f5839053ebb92b260/thiagotigaz/ocr-it",
+        "image": "https://opengraph.githubassets.com/1318af81530c74b5525a59fbef76b401e364f03b152aa315a83b7cad1472025d/thiagotigaz/ocr-it",
         "source": "github.com",
-        "stats": "121 points · 27 comments"
+        "stats": "139 points · 36 comments"
       }
     ],
     "2026-08-23": [
       {
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "description": "767 points · 678 comments",
+        "description": "808 points · 698 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
-      },
-      {
-        "url": "https://ericpardee.github.io/fire-hd-ownership/",
-        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "description": "Owning a tablet Amazon kept shutting down: CVE-2022-38181, four AI models, five months",
-        "image": "",
-        "source": "ericpardee.github.io",
-        "stats": "684 points · 289 comments"
       },
       {
         "url": "https://twitter.com/paulg/status/2091544343589060625",
@@ -108,12 +142,12 @@
         "description": "Someone asked what I&#x27;d do if I were 17. I&#x27;d learn how to build LLMs from scratch, and then train ones as powerful as I could with whatever hardware I could get access to.",
         "image": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
         "source": "twitter.com",
-        "stats": "517 points · 611 comments"
+        "stats": "592 points · 673 comments"
       },
       {
         "url": "https://fabiensanglard.net/agent.md/index.html",
         "title": "My agent.md to improve LLM-assisted code quality",
-        "description": "395 points · 172 comments",
+        "description": "413 points · 175 comments",
         "image": "",
         "source": "fabiensanglard.net",
         "stats": ""
@@ -124,7 +158,15 @@
         "description": "How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.",
         "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
         "source": "pantel.is",
-        "stats": "344 points · 69 comments"
+        "stats": "389 points · 76 comments"
+      },
+      {
+        "url": "https://surya.website/rling-qwen-to-paint-with-code",
+        "title": "Training AI to Paint with Code",
+        "description": "I",
+        "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
+        "source": "surya.website",
+        "stats": "197 points · 22 comments"
       }
     ],
     "2026-08-22": [
@@ -195,24 +237,6 @@
         "image": "https://lambda-symbolics.com/autolith.png",
         "source": "lambda-symbolics.com",
         "stats": "125 points · 58 comments"
-      }
-    ],
-    "2026-08-19": [
-      {
-        "url": "https://github.com/anthropics/claude-code/issues/6235",
-        "title": "Feature Request: Support AGENTS.md",
-        "description": "Codex, Amp, Cursor, and others are starting to standardize around AGENTS.md (https://agents.md/) — a unified Markdown file that coding agents can use to understand a codebase. By contrast, CLAUDE.m...",
-        "image": "https://opengraph.githubassets.com/fc5a7b16dd419928ae8307955d7f745def4dbf9de517d4a942c6a3b1e540cd31/anthropics/claude-code/issues/6235",
-        "source": "github.com",
-        "stats": "374 points · 219 comments"
-      },
-      {
-        "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-        "title": "AI boosted homework scores, then exam scores dropped: study",
-        "description": "370 points · 371 comments",
-        "image": "",
-        "source": "economist.com",
-        "stats": ""
       }
     ]
   }
