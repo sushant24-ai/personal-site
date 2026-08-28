@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-08-27T12:37:24.831Z",
+  "lastUpdated": "2026-08-28T14:09:39.694Z",
   "days": {
+    "2026-08-28": [
+      {
+        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+        "description": "183 points · 64 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+        "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+        "description": "261 points · 126 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+        "title": "Please stop flooding our projects with AI slop to furnish your CV",
+        "description": "Successful contributions to open source projects are a kind of currency. GitHub in particular encourages this in a number of ways: by showing avatars of contributors on repository pages, by showing your contributions to your followers via the activity feed and by signalling contributions per day on the activity graph of your profile. Potential hiring managers often take note of this. Recruiters often find and screen candidates this way. If you are a software developer (either existing or aspiring) looking for work, tuning these signals can often work to your advantage.",
+        "image": "",
+        "source": "neilalexander.dev",
+        "stats": "192 points · 127 comments"
+      },
+      {
+        "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+        "title": "OpenAI: Migrating to HTTPX2",
+        "description": "The official Python library for the OpenAI API. Contribute to openai/openai-python development by creating an account on GitHub.",
+        "image": "https://repository-images.githubusercontent.com/307213173/7b83a5a7-a102-4b8a-abe7-7c14267908fa",
+        "source": "github.com",
+        "stats": "83 points · 39 comments"
+      },
+      {
+        "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+        "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+        "description": "Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn&#39;t the first time.",
+        "image": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
+        "source": "blog.luanti.org",
+        "stats": "151 points · 49 comments"
+      }
+    ],
     "2026-08-27": [
       {
         "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
@@ -8,39 +50,39 @@
         "description": "Nvidia has held talks to acquire Hugging Face for more than $13 billion as the chip giant expands its AI dealmaking.",
         "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "1328 points · 594 comments"
+        "stats": "1923 points · 892 comments"
       },
       {
         "url": "https://github.com/SenteLabsAI/OpenExecutive",
         "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
         "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). - SenteLabsAI/OpenExecutive",
-        "image": "https://opengraph.githubassets.com/08dd8ede7b006bb1bf70b5c89a73c8ffaa855f62fa40ad1187d78335feda2f87/SenteLabsAI/OpenExecutive",
+        "image": "https://opengraph.githubassets.com/250f63754f54c7aa572c2390ca5e42540ce69670c021e62bfcacaa14a90abfb4/SenteLabsAI/OpenExecutive",
         "source": "github.com",
-        "stats": "710 points · 478 comments"
+        "stats": "988 points · 681 comments"
       },
       {
-        "url": "https://pollen-robotics.com/microduck/",
-        "title": "Pollen Robotics (Hugging Face) Microduck",
-        "description": "Microduck is a 25 cm biped robot with 15 motors, a camera, LiDAR and a grasping beak. Playable out of the box, and its open-source stack lets you train new behaviours in simulation and run them on the robot. Pre-order at $399.",
-        "image": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg",
-        "source": "pollen-robotics.com",
-        "stats": "72 points · 15 comments"
-      },
-      {
-        "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-        "title": "Changes to Sourcehut's terms of service regarding LLMs",
-        "description": "sourcehut is a network of useful open source tools for software project maintainers and collaborators, including git repos, bug tracking, continuous integration, and mailing lists.",
+        "url": "https://louisabraham.github.io/load-bearing/",
+        "title": "Show HN: The load-bearing vocabulary of Claude",
+        "description": "617 points · 298 comments",
         "image": "",
-        "source": "sourcehut.org",
-        "stats": "39 points · 5 comments"
-      },
-      {
-        "url": "https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/",
-        "title": "My software development workflow is AI now & it feels exhausting and soulless",
-        "description": "17 points · 10 comments",
-        "image": "",
-        "source": "old.reddit.com",
+        "source": "louisabraham.github.io",
         "stats": ""
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "title": "Gemini-3.5-Transcribe",
+        "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
+        "source": "blog.google",
+        "stats": "323 points · 110 comments"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "title": "Gemini Omni 1.1 Flash",
+        "description": "Gemini Omni 1.1 Flash brings a new suite of creative controls and generative video capabilities to developers.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png",
+        "source": "blog.google",
+        "stats": "282 points · 208 comments"
       }
     ],
     "2026-08-26": [
@@ -50,20 +92,12 @@
         "description": "Six approaches to retrieval-based AI, from minimal to elaborate",
         "image": "https://substackcdn.com/image/fetch/$s_!yF7E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03ad851c-75b8-4afe-ae16-fd98c8e61836_1920x1280.jpeg",
         "source": "lighthousenewsletter.com",
-        "stats": "467 points · 199 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-        "description": "428 points · 144 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "stats": "497 points · 206 comments"
       },
       {
         "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
         "title": "The Hugging Face incident and the road ahead",
-        "description": "275 points · 371 comments",
+        "description": "331 points · 458 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -71,7 +105,15 @@
       {
         "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
         "title": "The turbulent AI era is here",
-        "description": "287 points · 285 comments",
+        "description": "333 points · 591 comments",
+        "image": "",
+        "source": "gatesnotes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+        "title": "The turbulent AI era is here",
+        "description": "359 points · 6 comments",
         "image": "",
         "source": "gatesnotes.com",
         "stats": ""
@@ -82,7 +124,7 @@
         "description": "Everyone is using Obsidian for AI, or wants to use it to become more productive. But I think it&#39;s a dead end.",
         "image": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
         "source": "ssp.sh",
-        "stats": "230 points · 143 comments"
+        "stats": "253 points · 181 comments"
       }
     ],
     "2026-08-25": [
@@ -203,48 +245,6 @@
         "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
         "source": "forum.level1techs.com",
         "stats": "501 points · 202 comments"
-      }
-    ],
-    "2026-08-21": [
-      {
-        "url": "https://api-docs.deepseek.com/guides/vision/",
-        "title": "DeepSeek-v4-flash-vision-exp",
-        "description": "The deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze charts, and more.",
-        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
-        "source": "api-docs.deepseek.com",
-        "stats": "496 points · 154 comments"
-      },
-      {
-        "url": "https://annas-archive.gl/blog/physical-destruction.html",
-        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-        "description": "AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently calling on volunteers worldwide to scan and upload books to their shadow library before this cultural heritage disappears forever.",
-        "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
-        "source": "annas-archive.gl",
-        "stats": "629 points · 901 comments"
-      },
-      {
-        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "title": "A week of using Codex more than Claude",
-        "description": "Claude goes above and beyond what is asked and guesses what you might want. Codex does what you tell it and stops at the first sign that it might be done. Ten impressions from a week of using Codex more.",
-        "image": "https://allaboutcoding.ghinda.com/assets/images/posts/a-week-of-using-codex-more-than-claude/og.png",
-        "source": "allaboutcoding.ghinda.com",
-        "stats": "235 points · 271 comments"
-      },
-      {
-        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-        "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-        "description": "206 points · 118 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-        "title": "How we made a text-to-speech model respond in sub-50 ms",
-        "description": "10 RPS with p95 TTFA under 50 ms on a single H100: how we optimized Qwen3-TTS serving.",
-        "image": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/assets/image.png",
-        "source": "nari-labs.com",
-        "stats": "170 points · 44 comments"
       }
     ]
   }
