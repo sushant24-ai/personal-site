@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-08-29T08:46:48.710Z",
+  "lastUpdated": "2026-08-30T08:04:42.541Z",
   "days": {
+    "2026-08-30": [
+      {
+        "url": "https://archive.org/details/vintageai",
+        "title": "The Internet Archive's Vintage AI Collection",
+        "description": "11 points · 1 comments",
+        "image": "",
+        "source": "archive.org",
+        "stats": ""
+      },
+      {
+        "url": "https://www.cnn.com/2026/08/29/us/gravel-teens-openai-cec",
+        "title": "The viral leftist teens of Campaign 2020 work for OpenAI now",
+        "description": "The “Gravel Teens” made their names running an outsider stunt campaign against corporate power and wealth concentration. They just signed with an AI behemoth.",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-mcdamga-ec105-20260829003906546.jpg?c=16x9&q=w_800,c_fill",
+        "source": "cnn.com",
+        "stats": "6 points · 8 comments"
+      },
+      {
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …",
+        "image": "https://embracethered.com/blog/images/2026/claude-automode/claude-auto-mode-rce.png",
+        "source": "embracethered.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+        "title": "Smartphone LED Detects Hidden Cameras with AI",
+        "description": "Smartphone LED Detects Hidden Cameras with AI Affordable device analyzes light reflections for 94% accuracy in under five seconds",
+        "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true",
+        "source": "chosun.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
+        "title": "Anthropic's Claude for Mac desktop app now has built-in browser",
+        "description": "Anthropic added a built-in browser to Claude&#039;s Cowork desktop app, ending the need for the Chrome extension for many web tasks.",
+        "image": "https://cdn.thenewstack.io/media/2026/08/58988b68-tasha-kostyuk-thwad7j9yia-unsplash-scaled.jpg",
+        "source": "thenewstack.io",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-08-29": [
+      {
+        "url": "https://lwn.net/Articles/1091231/",
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "description": "The results of the Debian general-resolution vote on the use of large language models have been [...]",
+        "image": "",
+        "source": "lwn.net",
+        "stats": "481 points · 450 comments"
+      },
+      {
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "description": "AI definitely helps with productivity, but only when you have the right culture in place first!",
+        "image": "https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg",
+        "source": "newsletter.eng-leadership.com",
+        "stats": "367 points · 82 comments"
+      },
       {
         "url": "https://github.com/stemdeckapp/stemdeck",
         "title": "StemDeck, a free, open-source and local AI stem separator",
         "description": "Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...",
-        "image": "https://opengraph.githubassets.com/ccdebea8c071d2e213855a70ab6c363140d95e3747698a24cdd4f0ae144b8050/stemdeckapp/stemdeck",
+        "image": "https://opengraph.githubassets.com/0437d0d99e20c41fdae2b0a1d6fb845dd227f8eee627340682b826b0126245a3/stemdeckapp/stemdeck",
         "source": "github.com",
-        "stats": "84 points · 18 comments"
+        "stats": "222 points · 61 comments"
       },
       {
-        "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
-        "title": "OpenAI and Anthropic are ruining San Francisco",
-        "description": "21 points · 14 comments",
-        "image": "",
-        "source": "sfgate.com",
-        "stats": ""
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "title": "vLLM v0.28.0",
+        "description": "v0.28.0\nHighlights\nThis release features 584 commits from 270 contributors (76 new)!\n\nKimi-K3 performance push: a major optimization effort for Kimi-K3 across the stack — Decode Context Parallel (D...",
+        "image": "https://opengraph.githubassets.com/4ebc6bdc52e9be13e062849c7d527d88f083515ccff086b45b804e1e708e9324/vllm-project/vllm/releases/tag/v0.28.0",
+        "source": "github.com",
+        "stats": "106 points · 36 comments"
       },
       {
-        "url": "https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware/",
-        "title": "Researcher Tricked Claude, Codex and Hermes into Running Malware",
-        "description": "Researcher Alon Hertz shows llms.txt files can smuggle malware into Claude, Codex and Hermes AI agents, hitting Fortune 500 networks and Clerk&#039;s SDK docs.",
-        "image": "https://startupfortune.com/wp-content/uploads/2026/08/sf-19429-1787871692510.jpg",
-        "source": "startupfortune.com",
-        "stats": "11 points · 0 comments"
-      },
-      {
-        "url": "https://vote.debian.org/~secretary/gr_llm/results.txt",
-        "title": "Debian has published the official results for the 2026 GR on LLM usage",
-        "description": "8 points · 2 comments",
-        "image": "",
-        "source": "vote.debian.org",
-        "stats": ""
-      },
-      {
-        "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-        "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
-        "description": "The voting is over and there is a winner now known in the much-debated Debian General Resolution voting over an AI policy for the Linux distribution.",
-        "image": "https://www.phoronix.net/image.php?id=2026&image=debian_responsible_ai",
-        "source": "phoronix.com",
-        "stats": "9 points · 0 comments"
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "title": "The Rise and Fall of Agent Civilizations",
+        "description": "The whole OpenAI/Hugging Face story in plain English",
+        "image": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp",
+        "source": "dwarkesh.com",
+        "stats": "71 points · 35 comments"
       }
     ],
     "2026-08-28": [
       {
         "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
         "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-        "description": "573 points · 414 comments",
+        "description": "618 points · 423 comments",
         "image": "",
         "source": "nytimes.com",
         "stats": ""
@@ -58,15 +100,7 @@
         "description": "Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn&#39;t the first time.",
         "image": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
         "source": "blog.luanti.org",
-        "stats": "486 points · 148 comments"
-      },
-      {
-        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-        "description": "324 points · 3 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "stats": "517 points · 151 comments"
       },
       {
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
@@ -74,15 +108,23 @@
         "description": "Why I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent&#39;s knowledge as analysis state, with provenance, retractions and incremental evaluation, plus what happened when I benchmarked it on LongMemEval and LoCoMo.",
         "image": "https://pwning.systems/og.png",
         "source": "pwning.systems",
-        "stats": "131 points · 26 comments"
+        "stats": "286 points · 77 comments"
       },
       {
-        "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-        "title": "Please stop flooding our projects with AI slop to furnish your CV",
-        "description": "Successful contributions to open source projects are a kind of currency. GitHub in particular encourages this in a number of ways: by showing avatars of contributors on repository pages, by showing your contributions to your followers via the activity feed and by signalling contributions per day on the activity graph of your profile. Potential hiring managers often take note of this. Recruiters often find and screen candidates this way. If you are a software developer (either existing or aspiring) looking for work, tuning these signals can often work to your advantage.",
+        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+        "description": "325 points · 3 comments",
         "image": "",
-        "source": "neilalexander.dev",
-        "stats": "211 points · 141 comments"
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arxiv.org/abs/2608.23691",
+        "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+        "description": "We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordinator or scripted pipeline. Agents choose their own research directions, conduct experiments, collaborate, and build a shared scientific literature. Across 12 construction problems from the AlphaEvolve catalogue and two additional case studies, the Station obtained results novel relative to the prior literature on five problems: a new infinite family of finite-field Kakeya sets, new exact 604-point kissing configurations in dimension 11, new records for the discretized Kakeya needle and sign uncertainty problems, and a substantially improved lower bound for Erdős&#39;s minimum-overlap problem. Agents also discovered novel infinite families for Book Ramsey numbers. Importantly, the agents produced not only numerical constructions but also theorems and analyses explaining how those constructions work, making the results more interpretable and easier for mathematicians to build upon. We release all raw agent dialogues, proofs, and verification code, providing a transparent record of how these discoveries emerged.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "118 points · 40 comments"
       }
     ],
     "2026-08-27": [
@@ -92,20 +134,20 @@
         "description": "Nvidia has held talks to acquire Hugging Face for more than $13 billion as the chip giant expands its AI dealmaking.",
         "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "1953 points · 898 comments"
+        "stats": "1967 points · 906 comments"
       },
       {
         "url": "https://github.com/SenteLabsAI/OpenExecutive",
         "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
         "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). - SenteLabsAI/OpenExecutive",
-        "image": "https://opengraph.githubassets.com/787de980ed5154b14fbf526a708b5ff64eecb0650c331e9cc929dcf4d2bebc43/SenteLabsAI/OpenExecutive",
+        "image": "https://opengraph.githubassets.com/e9655d2ef4a541cd2989e8cc40947fc1ba9f6ddd3dd0e5565eabc60954f1e3e2/SenteLabsAI/OpenExecutive",
         "source": "github.com",
-        "stats": "1010 points · 706 comments"
+        "stats": "1023 points · 713 comments"
       },
       {
         "url": "https://louisabraham.github.io/load-bearing/",
         "title": "Show HN: The load-bearing vocabulary of Claude",
-        "description": "661 points · 319 comments",
+        "description": "683 points · 321 comments",
         "image": "",
         "source": "louisabraham.github.io",
         "stats": ""
@@ -116,15 +158,15 @@
         "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
         "source": "blog.google",
-        "stats": "356 points · 124 comments"
+        "stats": "360 points · 127 comments"
       },
       {
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-        "title": "Gemini Omni 1.1 Flash",
-        "description": "Gemini Omni 1.1 Flash brings a new suite of creative controls and generative video capabilities to developers.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png",
-        "source": "blog.google",
-        "stats": "296 points · 226 comments"
+        "url": "https://aiandeducation.mit.edu/report/",
+        "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+        "description": "143 points · 83 comments",
+        "image": "",
+        "source": "aiandeducation.mit.edu",
+        "stats": ""
       }
     ],
     "2026-08-26": [
@@ -134,15 +176,7 @@
         "description": "Six approaches to retrieval-based AI, from minimal to elaborate",
         "image": "https://substackcdn.com/image/fetch/$s_!yF7E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03ad851c-75b8-4afe-ae16-fd98c8e61836_1920x1280.jpeg",
         "source": "lighthousenewsletter.com",
-        "stats": "501 points · 211 comments"
-      },
-      {
-        "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-        "title": "The turbulent AI era is here",
-        "description": "346 points · 611 comments",
-        "image": "",
-        "source": "gatesnotes.com",
-        "stats": ""
+        "stats": "508 points · 216 comments"
       },
       {
         "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
@@ -150,15 +184,7 @@
         "description": "Everyone is using Obsidian for AI, or wants to use it to become more productive. But I think it&#39;s a dead end.",
         "image": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
         "source": "ssp.sh",
-        "stats": "258 points · 187 comments"
-      },
-      {
-        "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-        "title": "VMs won't contain cyber-capable agents",
-        "description": "You can no longer assume a mere VM will contain a sufficiently advanced AI agent.",
-        "image": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/vm-cyber-capable-agents-social-banner.png",
-        "source": "blog.trailofbits.com",
-        "stats": "184 points · 140 comments"
+        "stats": "261 points · 188 comments"
       }
     ],
     "2026-08-25": [
@@ -243,32 +269,6 @@
         "image": "https://opengraph.githubassets.com/1318af81530c74b5525a59fbef76b401e364f03b152aa315a83b7cad1472025d/thiagotigaz/ocr-it",
         "source": "github.com",
         "stats": "139 points · 36 comments"
-      }
-    ],
-    "2026-08-23": [
-      {
-        "url": "https://twitter.com/paulg/status/2091544343589060625",
-        "title": "I were 17, I'd learn how to build LLMs from scratch",
-        "description": "Someone asked what I&#x27;d do if I were 17. I&#x27;d learn how to build LLMs from scratch, and then train ones as powerful as I could with whatever hardware I could get access to.",
-        "image": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "605 points · 681 comments"
-      },
-      {
-        "url": "https://pantel.is/projects/ai-gaming-companion/",
-        "title": "I built a low-latency AI companion that plays Skyrim with me",
-        "description": "How Varkos was built: a low-latency AI companion that plays Skyrim with you, follows complex instructions and evolves through shared experiences.",
-        "image": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
-        "source": "pantel.is",
-        "stats": "395 points · 76 comments"
-      },
-      {
-        "url": "https://surya.website/rling-qwen-to-paint-with-code",
-        "title": "Training AI to Paint with Code",
-        "description": "I",
-        "image": "https://framerusercontent.com/images/suc55pS3sKdOqwa4nzbsaq82c.png",
-        "source": "surya.website",
-        "stats": "222 points · 28 comments"
       }
     ]
   }
