@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-30T08:04:42.541Z",
+  "lastUpdated": "2026-08-31T08:23:18.173Z",
   "days": {
+    "2026-08-31": [
+      {
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "title": "Understanding ChatGPT Work",
+        "description": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here’s what I’ve figured out …",
+        "image": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg",
+        "source": "simonwillison.net",
+        "stats": "161 points · 60 comments"
+      },
+      {
+        "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "description": "The EU AI Office sent its first formal requests for information to general-purpose AI model providers on security, evaluations, and monitoring.",
+        "image": "https://tokenstead.ai/og/guides/eu-ai-act-first-enforcement-security-rfis.png",
+        "source": "tokenstead.ai",
+        "stats": "38 points · 79 comments"
+      },
+      {
+        "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+        "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+        "description": "The person accused subsequently served with an image of a butthole drawn in MS Paint",
+        "image": "https://kotaku.com/app/uploads/2026/08/The-Cutting-Room-Floors-Anti-AI-message.jpeg",
+        "source": "kotaku.com",
+        "stats": "32 points · 0 comments"
+      },
+      {
+        "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+        "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+        "description": "Meta&#x27;s Summer Yue says she ran OpenClaw on her inbox, but its size &#x27;triggered compaction [and] lost my original instruction&#x27; to get her permission before deleting.",
+        "image": "https://sm.pcmag.com/t/pcmag_au/news/m/meta-secur/meta-security-researchers-ai-agent-accidentally-deleted-her_7uyw.1200.jpg",
+        "source": "au.pcmag.com",
+        "stats": "12 points · 4 comments"
+      },
+      {
+        "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+        "title": "Claude Code reduces it's weekly limit by 17% – compared to today",
+        "description": "Compared to today, this works out to a 17% reduction in weekly limits on Claude Code. We’re working on exciting changes that will make it feel like you’re getting more from Claude, while having more visibility and control of your usage. Can’t wait to share them.",
+        "image": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png",
+        "source": "twitter.com",
+        "stats": "10 points · 0 comments"
+      }
+    ],
     "2026-08-30": [
       {
-        "url": "https://archive.org/details/vintageai",
-        "title": "The Internet Archive's Vintage AI Collection",
-        "description": "11 points · 1 comments",
+        "url": "https://noaifridays.com/",
+        "title": "No AI Fridays",
+        "description": "A weekly ritual for software teams to unplug from AI coding assistants, prevent skill atrophy, and rediscover the joy of craftsmanship.",
         "image": "",
-        "source": "archive.org",
-        "stats": ""
+        "source": "noaifridays.com",
+        "stats": "270 points · 192 comments"
       },
       {
-        "url": "https://www.cnn.com/2026/08/29/us/gravel-teens-openai-cec",
-        "title": "The viral leftist teens of Campaign 2020 work for OpenAI now",
-        "description": "The “Gravel Teens” made their names running an outsider stunt campaign against corporate power and wealth concentration. They just signed with an AI behemoth.",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-mcdamga-ec105-20260829003906546.jpg?c=16x9&q=w_800,c_fill",
-        "source": "cnn.com",
-        "stats": "6 points · 8 comments"
+        "url": "https://github.com/anthropics/claude-code/issues/66504",
+        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+        "description": "Preflight Checklist I have searched existing requests and this feature hasn&#39;t been requested yet This is a single feature request (not multiple features) Problem Statement Every commit message and ...",
+        "image": "https://opengraph.githubassets.com/605b6b16208e7712f365ee16d13b8c1a8ed7a797373868e8ca361fe91b54c1c6/anthropics/claude-code/issues/66504",
+        "source": "github.com",
+        "stats": "194 points · 219 comments"
       },
       {
-        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-        "title": "Breaking Claude Code Opus 5 Auto Mode",
-        "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …",
-        "image": "https://embracethered.com/blog/images/2026/claude-automode/claude-auto-mode-rce.png",
-        "source": "embracethered.com",
-        "stats": "6 points · 2 comments"
+        "url": "https://github.com/KodeMunkie/sm750hdmifb",
+        "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+        "description": "Experimental Linux DRM/KMS driver for the SM750G10 SE-DP750A-HDMI, with HDMI, custom RGB565 dithering, DMA and software-scaled ultrawide modes. - KodeMunkie/sm750hdmifb",
+        "image": "https://opengraph.githubassets.com/86ce00cdadf7c28e0206d1ac8e99ec4158fc5e51d1645872b95810f7db5c0564/KodeMunkie/sm750hdmifb",
+        "source": "github.com",
+        "stats": "104 points · 36 comments"
       },
       {
-        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-        "title": "Smartphone LED Detects Hidden Cameras with AI",
-        "description": "Smartphone LED Detects Hidden Cameras with AI Affordable device analyzes light reflections for 94% accuracy in under five seconds",
-        "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true",
-        "source": "chosun.com",
-        "stats": "5 points · 0 comments"
+        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "description": "Fully discrete methods dominated for a few years, but language models based on continuous diffusion are making a comeback.",
+        "image": "https://sander.ai/images/verin.jpg",
+        "source": "sander.ai",
+        "stats": "93 points · 34 comments"
       },
       {
-        "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
-        "title": "Anthropic's Claude for Mac desktop app now has built-in browser",
-        "description": "Anthropic added a built-in browser to Claude&#039;s Cowork desktop app, ending the need for the Chrome extension for many web tasks.",
-        "image": "https://cdn.thenewstack.io/media/2026/08/58988b68-tasha-kostyuk-thwad7j9yia-unsplash-scaled.jpg",
-        "source": "thenewstack.io",
-        "stats": "5 points · 0 comments"
+        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+        "title": "How to build a diffusion language model",
+        "description": "An introduction to diffusion language models and the research advances that underlie today",
+        "image": "",
+        "source": "kuleshov-group.github.io",
+        "stats": "74 points · 6 comments"
       }
     ],
     "2026-08-29": [
@@ -50,7 +92,7 @@
         "description": "The results of the Debian general-resolution vote on the use of large language models have been [...]",
         "image": "",
         "source": "lwn.net",
-        "stats": "481 points · 450 comments"
+        "stats": "501 points · 469 comments"
       },
       {
         "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
@@ -58,23 +100,7 @@
         "description": "AI definitely helps with productivity, but only when you have the right culture in place first!",
         "image": "https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg",
         "source": "newsletter.eng-leadership.com",
-        "stats": "367 points · 82 comments"
-      },
-      {
-        "url": "https://github.com/stemdeckapp/stemdeck",
-        "title": "StemDeck, a free, open-source and local AI stem separator",
-        "description": "Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...",
-        "image": "https://opengraph.githubassets.com/0437d0d99e20c41fdae2b0a1d6fb845dd227f8eee627340682b826b0126245a3/stemdeckapp/stemdeck",
-        "source": "github.com",
-        "stats": "222 points · 61 comments"
-      },
-      {
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "title": "vLLM v0.28.0",
-        "description": "v0.28.0\nHighlights\nThis release features 584 commits from 270 contributors (76 new)!\n\nKimi-K3 performance push: a major optimization effort for Kimi-K3 across the stack — Decode Context Parallel (D...",
-        "image": "https://opengraph.githubassets.com/4ebc6bdc52e9be13e062849c7d527d88f083515ccff086b45b804e1e708e9324/vllm-project/vllm/releases/tag/v0.28.0",
-        "source": "github.com",
-        "stats": "106 points · 36 comments"
+        "stats": "460 points · 114 comments"
       },
       {
         "url": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -82,14 +108,30 @@
         "description": "The whole OpenAI/Hugging Face story in plain English",
         "image": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp",
         "source": "dwarkesh.com",
-        "stats": "71 points · 35 comments"
+        "stats": "236 points · 154 comments"
+      },
+      {
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "title": "vLLM v0.28.0",
+        "description": "v0.28.0\nHighlights\nThis release features 584 commits from 270 contributors (76 new)!\n\nKimi-K3 performance push: a major optimization effort for Kimi-K3 across the stack — Decode Context Parallel (D...",
+        "image": "https://opengraph.githubassets.com/4ebc6bdc52e9be13e062849c7d527d88f083515ccff086b45b804e1e708e9324/vllm-project/vllm/releases/tag/v0.28.0",
+        "source": "github.com",
+        "stats": "107 points · 42 comments"
+      },
+      {
+        "url": "https://coldtake.dev/blog/domain-driven-agents",
+        "title": "Domain-Driven Agents",
+        "description": "Slow thoughts on fast tech.",
+        "image": "",
+        "source": "coldtake.dev",
+        "stats": "94 points · 21 comments"
       }
     ],
     "2026-08-28": [
       {
         "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
         "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-        "description": "618 points · 423 comments",
+        "description": "637 points · 433 comments",
         "image": "",
         "source": "nytimes.com",
         "stats": ""
@@ -100,7 +142,7 @@
         "description": "Luanti has been removed from Google Play due to a DMCA notice from Tracer.AI. We have filed a counter-notice, but this isn&#39;t the first time.",
         "image": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
         "source": "blog.luanti.org",
-        "stats": "517 points · 151 comments"
+        "stats": "521 points · 151 comments"
       },
       {
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
@@ -108,15 +150,7 @@
         "description": "Why I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent&#39;s knowledge as analysis state, with provenance, retractions and incremental evaluation, plus what happened when I benchmarked it on LongMemEval and LoCoMo.",
         "image": "https://pwning.systems/og.png",
         "source": "pwning.systems",
-        "stats": "286 points · 77 comments"
-      },
-      {
-        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
-        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-        "description": "325 points · 3 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "stats": "302 points · 83 comments"
       },
       {
         "url": "https://arxiv.org/abs/2608.23691",
@@ -124,7 +158,7 @@
         "description": "We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordinator or scripted pipeline. Agents choose their own research directions, conduct experiments, collaborate, and build a shared scientific literature. Across 12 construction problems from the AlphaEvolve catalogue and two additional case studies, the Station obtained results novel relative to the prior literature on five problems: a new infinite family of finite-field Kakeya sets, new exact 604-point kissing configurations in dimension 11, new records for the discretized Kakeya needle and sign uncertainty problems, and a substantially improved lower bound for Erdős&#39;s minimum-overlap problem. Agents also discovered novel infinite families for Book Ramsey numbers. Importantly, the agents produced not only numerical constructions but also theorems and analyses explaining how those constructions work, making the results more interpretable and easier for mathematicians to build upon. We release all raw agent dialogues, proofs, and verification code, providing a transparent record of how these discoveries emerged.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "118 points · 40 comments"
+        "stats": "120 points · 40 comments"
       }
     ],
     "2026-08-27": [
@@ -134,39 +168,15 @@
         "description": "Nvidia has held talks to acquire Hugging Face for more than $13 billion as the chip giant expands its AI dealmaking.",
         "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "1967 points · 906 comments"
+        "stats": "1973 points · 910 comments"
       },
       {
-        "url": "https://github.com/SenteLabsAI/OpenExecutive",
-        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-        "description": "AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js). - SenteLabsAI/OpenExecutive",
-        "image": "https://opengraph.githubassets.com/e9655d2ef4a541cd2989e8cc40947fc1ba9f6ddd3dd0e5565eabc60954f1e3e2/SenteLabsAI/OpenExecutive",
-        "source": "github.com",
-        "stats": "1023 points · 713 comments"
-      },
-      {
-        "url": "https://louisabraham.github.io/load-bearing/",
-        "title": "Show HN: The load-bearing vocabulary of Claude",
-        "description": "683 points · 321 comments",
-        "image": "",
-        "source": "louisabraham.github.io",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-        "title": "Gemini-3.5-Transcribe",
-        "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
-        "source": "blog.google",
-        "stats": "360 points · 127 comments"
-      },
-      {
-        "url": "https://aiandeducation.mit.edu/report/",
-        "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-        "description": "143 points · 83 comments",
-        "image": "",
-        "source": "aiandeducation.mit.edu",
-        "stats": ""
+        "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+        "title": "Benchmarking Pocket-Scale Inference",
+        "description": "Benchmarking of language model inference on mobile phones. We measure output speed, latency and memory use across local models.",
+        "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
+        "source": "artificialanalysis.ai",
+        "stats": "83 points · 18 comments"
       }
     ],
     "2026-08-26": [
@@ -227,48 +237,6 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
         "source": "arstechnica.com",
         "stats": "145 points · 172 comments"
-      }
-    ],
-    "2026-08-24": [
-      {
-        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "title": "Coding expertise is going to collapse from AI reliance",
-        "description": "The need for ongoing friction in long-term skill formation.",
-        "image": "https://larsfaye.com/opengraph-expertise.jpg",
-        "source": "larsfaye.com",
-        "stats": "542 points · 535 comments"
-      },
-      {
-        "url": "https://developers.openai.com/api/docs/pricing",
-        "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-        "description": "Pricing information for the OpenAI platform.",
-        "image": "https://developers.openai.com/og/api/docs/pricing.png",
-        "source": "developers.openai.com",
-        "stats": "334 points · 335 comments"
-      },
-      {
-        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "title": "LLMs could control their host machines by exploiting inference engines",
-        "description": "| Read on LessWrong | Comment on HN | Large language models often take actions running on one computer (via an agentic harness such as Claude Code or Codex), however the LLMs’ responses to prompts are computed on a different computer with GPU access.",
-        "image": "https://boydkane.com/static/og-image.png",
-        "source": "boydkane.com",
-        "stats": "188 points · 96 comments"
-      },
-      {
-        "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "description": "153 points · 29 comments",
-        "image": "",
-        "source": "blog.archive.org",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "description": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract. - thiagotigaz/ocr-it",
-        "image": "https://opengraph.githubassets.com/1318af81530c74b5525a59fbef76b401e364f03b152aa315a83b7cad1472025d/thiagotigaz/ocr-it",
-        "source": "github.com",
-        "stats": "139 points · 36 comments"
       }
     ]
   }
