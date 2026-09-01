@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-08-31T08:23:18.173Z",
+  "lastUpdated": "2026-09-01T07:31:09.478Z",
   "days": {
+    "2026-09-01": [
+      {
+        "url": "https://www.gpuworld.org/",
+        "title": "GPU World",
+        "description": "135 points · 58 comments",
+        "image": "",
+        "source": "gpuworld.org",
+        "stats": ""
+      },
+      {
+        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+        "title": "AI Can Make You Suck Faster Too",
+        "description": "If AI is so great, why are the only new tech giants GenAI companies?",
+        "image": "https://www.hermit-tech.com/images/assets/share-img-a07c0f99bf68eb4deba4a5bc2e3b9d36.png?vsn=d",
+        "source": "hermit-tech.com",
+        "stats": "62 points · 65 comments"
+      },
+      {
+        "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+        "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+        "description": "After five short months, DoltLite is Beta.",
+        "image": "https://static.dolthub.com/blogimages/doltlite-beta-featured.webp/dc77fbf9064e690ef4a0ba87824f62640d2b2dea3d6e71cf3c751a8ed76fe6aa.webp",
+        "source": "dolthub.com",
+        "stats": "30 points · 14 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+        "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+        "description": "25 points · 0 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arxiv.org/list/math/new",
+        "title": "ArXiv has almost 600 submissions today and most are AI slop",
+        "description": "14 points · 8 comments",
+        "image": "",
+        "source": "arxiv.org",
+        "stats": ""
+      }
+    ],
     "2026-08-31": [
+      {
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …",
+        "image": "https://embracethered.com/blog/images/2026/claude-automode/claude-auto-mode-rce.png",
+        "source": "embracethered.com",
+        "stats": "365 points · 115 comments"
+      },
+      {
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "description": "Apple&#039;s unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information. Apple normally releases new Mac models in the autumn, closer to October or November, making this week&#039;s announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in Mac Studio and Mac mini sales is behind the early launch.",
+        "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+        "source": "macrumors.com",
+        "stats": "387 points · 432 comments"
+      },
       {
         "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
         "title": "Understanding ChatGPT Work",
         "description": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here’s what I’ve figured out …",
         "image": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg",
         "source": "simonwillison.net",
-        "stats": "161 points · 60 comments"
+        "stats": "328 points · 187 comments"
       },
       {
-        "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-        "description": "The EU AI Office sent its first formal requests for information to general-purpose AI model providers on security, evaluations, and monitoring.",
-        "image": "https://tokenstead.ai/og/guides/eu-ai-act-first-enforcement-security-rfis.png",
-        "source": "tokenstead.ai",
-        "stats": "38 points · 79 comments"
+        "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+        "title": "ChatGPT Work Tool and Skill Reference",
+        "description": "A complete reference to the tools and full skill definitions available in this Codex Work session.",
+        "image": "",
+        "source": "codex-tool-reference.simonw.chatgpt.site",
+        "stats": "212 points · 53 comments"
       },
       {
-        "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-        "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-        "description": "The person accused subsequently served with an image of a butthole drawn in MS Paint",
-        "image": "https://kotaku.com/app/uploads/2026/08/The-Cutting-Room-Floors-Anti-AI-message.jpeg",
-        "source": "kotaku.com",
-        "stats": "32 points · 0 comments"
-      },
-      {
-        "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
-        "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
-        "description": "Meta&#x27;s Summer Yue says she ran OpenClaw on her inbox, but its size &#x27;triggered compaction [and] lost my original instruction&#x27; to get her permission before deleting.",
-        "image": "https://sm.pcmag.com/t/pcmag_au/news/m/meta-secur/meta-security-researchers-ai-agent-accidentally-deleted-her_7uyw.1200.jpg",
-        "source": "au.pcmag.com",
-        "stats": "12 points · 4 comments"
-      },
-      {
-        "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
-        "title": "Claude Code reduces it's weekly limit by 17% – compared to today",
-        "description": "Compared to today, this works out to a 17% reduction in weekly limits on Claude Code. We’re working on exciting changes that will make it feel like you’re getting more from Claude, while having more visibility and control of your usage. Can’t wait to share them.",
-        "image": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_400x400.png",
-        "source": "twitter.com",
-        "stats": "10 points · 0 comments"
+        "url": "https://calpaterson.com/memoryfields.html",
+        "title": "Agent memory as a file format",
+        "description": "Memoryfields - a vastly simpler way to do agent memory",
+        "image": "https://calpaterson.com/images/photo/kungfu.jpeg",
+        "source": "calpaterson.com",
+        "stats": "172 points · 89 comments"
       }
     ],
     "2026-08-30": [
@@ -50,7 +92,7 @@
         "description": "A weekly ritual for software teams to unplug from AI coding assistants, prevent skill atrophy, and rediscover the joy of craftsmanship.",
         "image": "",
         "source": "noaifridays.com",
-        "stats": "270 points · 192 comments"
+        "stats": "285 points · 204 comments"
       },
       {
         "url": "https://github.com/anthropics/claude-code/issues/66504",
@@ -58,23 +100,7 @@
         "description": "Preflight Checklist I have searched existing requests and this feature hasn&#39;t been requested yet This is a single feature request (not multiple features) Problem Statement Every commit message and ...",
         "image": "https://opengraph.githubassets.com/605b6b16208e7712f365ee16d13b8c1a8ed7a797373868e8ca361fe91b54c1c6/anthropics/claude-code/issues/66504",
         "source": "github.com",
-        "stats": "194 points · 219 comments"
-      },
-      {
-        "url": "https://github.com/KodeMunkie/sm750hdmifb",
-        "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-        "description": "Experimental Linux DRM/KMS driver for the SM750G10 SE-DP750A-HDMI, with HDMI, custom RGB565 dithering, DMA and software-scaled ultrawide modes. - KodeMunkie/sm750hdmifb",
-        "image": "https://opengraph.githubassets.com/86ce00cdadf7c28e0206d1ac8e99ec4158fc5e51d1645872b95810f7db5c0564/KodeMunkie/sm750hdmifb",
-        "source": "github.com",
-        "stats": "104 points · 36 comments"
-      },
-      {
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "title": "Continuous Diffusion Language Models (CDLM's)",
-        "description": "Fully discrete methods dominated for a few years, but language models based on continuous diffusion are making a comeback.",
-        "image": "https://sander.ai/images/verin.jpg",
-        "source": "sander.ai",
-        "stats": "93 points · 34 comments"
+        "stats": "209 points · 229 comments"
       },
       {
         "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
@@ -82,49 +108,33 @@
         "description": "An introduction to diffusion language models and the research advances that underlie today",
         "image": "",
         "source": "kuleshov-group.github.io",
-        "stats": "74 points · 6 comments"
+        "stats": "176 points · 19 comments"
+      },
+      {
+        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+        "title": "Smartphone LED detects hidden cameras with AI",
+        "description": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device",
+        "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true",
+        "source": "chosun.com",
+        "stats": "200 points · 55 comments"
+      },
+      {
+        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "description": "Fully discrete methods dominated for a few years, but language models based on continuous diffusion are making a comeback.",
+        "image": "https://sander.ai/images/verin.jpg",
+        "source": "sander.ai",
+        "stats": "130 points · 47 comments"
       }
     ],
     "2026-08-29": [
-      {
-        "url": "https://lwn.net/Articles/1091231/",
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "description": "The results of the Debian general-resolution vote on the use of large language models have been [...]",
-        "image": "",
-        "source": "lwn.net",
-        "stats": "501 points · 469 comments"
-      },
-      {
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "description": "AI definitely helps with productivity, but only when you have the right culture in place first!",
-        "image": "https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg",
-        "source": "newsletter.eng-leadership.com",
-        "stats": "460 points · 114 comments"
-      },
       {
         "url": "https://www.dwarkesh.com/p/openai-huggingface",
         "title": "The Rise and Fall of Agent Civilizations",
         "description": "The whole OpenAI/Hugging Face story in plain English",
         "image": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp",
         "source": "dwarkesh.com",
-        "stats": "236 points · 154 comments"
-      },
-      {
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "title": "vLLM v0.28.0",
-        "description": "v0.28.0\nHighlights\nThis release features 584 commits from 270 contributors (76 new)!\n\nKimi-K3 performance push: a major optimization effort for Kimi-K3 across the stack — Decode Context Parallel (D...",
-        "image": "https://opengraph.githubassets.com/4ebc6bdc52e9be13e062849c7d527d88f083515ccff086b45b804e1e708e9324/vllm-project/vllm/releases/tag/v0.28.0",
-        "source": "github.com",
-        "stats": "107 points · 42 comments"
-      },
-      {
-        "url": "https://coldtake.dev/blog/domain-driven-agents",
-        "title": "Domain-Driven Agents",
-        "description": "Slow thoughts on fast tech.",
-        "image": "",
-        "source": "coldtake.dev",
-        "stats": "94 points · 21 comments"
+        "stats": "259 points · 186 comments"
       }
     ],
     "2026-08-28": [
@@ -195,48 +205,6 @@
         "image": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
         "source": "ssp.sh",
         "stats": "261 points · 188 comments"
-      }
-    ],
-    "2026-08-25": [
-      {
-        "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-        "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-        "description": "OpenAI’s self-designed ASIC compared with Rubin, Jalapeño’s TCO, throughput per MW, and spicy deets",
-        "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png",
-        "source": "newsletter.semianalysis.com",
-        "stats": "581 points · 372 comments"
-      },
-      {
-        "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-        "title": "How much of HN is AI?",
-        "description": "TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.",
-        "image": "https://substackcdn.com/image/fetch/$s_!uOdH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53eb781a-accb-4de0-9d65-7cc0ea08f1b7_2437x1746.png",
-        "source": "blog.coredump.cx",
-        "stats": "274 points · 350 comments"
-      },
-      {
-        "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-        "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-        "description": "OpenAI announced today that it is restoring a five-hour limit on Codex and ChatGPT Work for Plus subscribers. Here are the details.",
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?resize=1200,628",
-        "source": "9to5mac.com",
-        "stats": "119 points · 121 comments"
-      },
-      {
-        "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-        "title": "Anthropic tells staff to work from home due to possible security team strike",
-        "description": "Anthropic staff were told they should not come to the AI company&#x27;s San Francisco offices on Monday and Tuesday in case a security strike took place.",
-        "image": "https://i.insider.com/6a8c5ba74569a4ec219f9773?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "123 points · 129 comments"
-      },
-      {
-        "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "description": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "145 points · 172 comments"
       }
     ]
   }
