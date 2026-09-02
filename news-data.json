@@ -1,64 +1,106 @@
 {
-  "lastUpdated": "2026-09-01T07:31:09.478Z",
+  "lastUpdated": "2026-09-02T06:57:02.777Z",
   "days": {
+    "2026-09-02": [
+      {
+        "url": "https://arxiv.org/abs/2608.29530",
+        "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+        "description": "Modern systems in artificial intelligence (AI) somehow excel in domains for which they seem poorly suited. Intelligence has traditionally been modeled as operating over structured combinations of symbols, such as logical formulas. However, the strongest modern AI systems are based on neural networks, which instead represent information in continuous vectors. Vectors seem inadequate for capturing the structure of language, logic, and other cognitive domains, yet neural networks achieve impressive performance in these areas. How do they do it? In this work, we propose a potential answer: Despite appearances, perhaps the internal representations of neural networks implicitly realize symbolic structure. In support of this hypothesis, we show that the vector representations of a variety of neural networks can be closely approximated with symbolic structures: we can replace the network&#39;s entire representation-generating process with a closed-form equation instantiating a symbolic structure, and the network&#39;s behavior remains largely unchanged. This finding holds for both small-scale neural networks trained to manipulate lists as well as large language models (LLMs) operating in four domains that are central in symbolic traditions: arithmetic, logic, computer code, and language. Further, our symbolic approximation allows us to modify an LLM&#39;s behavior in targeted ways via precise interventions on its internal representations, showing that the LLM&#39;s behavior is reliant on the symbolic structures we have identified. This work provides a potential way to reconcile longstanding symbolic conceptions of intelligence with the vector-based nature of modern AI.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "60 points · 10 comments"
+      },
+      {
+        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+        "title": "Claude Fable 5.1 made me a nice animated pelican",
+        "description": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 “sets a new standard for coding, knowledge work, and long-running problem-solving tasks”. Their announcement spends a notable …",
+        "image": "https://static.simonwillison.net/static/2026/fable-5.1-max.webp",
+        "source": "simonwillison.net",
+        "stats": "56 points · 15 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security",
+        "title": "Thousands of University of Sydney staff on strike over AI and job security",
+        "description": "Hundreds of university staff were stationed at picket lines, calling for stronger protections around the use of AI",
+        "image": "https://i.guim.co.uk/img/media/48d532f713c5cba4da34b9dcf95005a2f2b506dc/0_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4c88373600f03157f7ba142ae0e78fc",
+        "source": "theguardian.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://fstoppers.com/gear/gopro-being-bought-285-million-and-pivoting-ai-and-defense-optics-904434",
+        "title": "GoPro Is Being Bought for $285M and Pivoting to AI and Defense Optics",
+        "description": "GoPro merges with Starman Optical in a $285 million deal, pivoting toward AI data center hardware and defense optics while maintaining its camera business. The company pays off $92 million in debt.",
+        "image": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/09/1776675473_1964095.jpg?itok=Ln-b5scU",
+        "source": "fstoppers.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://ihavebeenclawed.com/",
+        "title": "Show HN: I Have Been Clawed – Index of coding agent incidents",
+        "description": "Sourced AI-agent and chatbot incidents, with lessons learned.",
+        "image": "https://ihavebeenclawed.com/assets/images/og-card-claw.png",
+        "source": "ihavebeenclawed.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-09-01": [
       {
-        "url": "https://www.gpuworld.org/",
-        "title": "GPU World",
-        "description": "135 points · 58 comments",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "1134 points · 1049 comments"
+      },
+      {
+        "url": "https://danluu.com/zitron/",
+        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+        "description": "615 points · 681 comments",
         "image": "",
-        "source": "gpuworld.org",
+        "source": "danluu.com",
         "stats": ""
       },
       {
-        "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-        "title": "AI Can Make You Suck Faster Too",
-        "description": "If AI is so great, why are the only new tech giants GenAI companies?",
-        "image": "https://www.hermit-tech.com/images/assets/share-img-a07c0f99bf68eb4deba4a5bc2e3b9d36.png?vsn=d",
-        "source": "hermit-tech.com",
-        "stats": "62 points · 65 comments"
-      },
-      {
-        "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-        "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-        "description": "After five short months, DoltLite is Beta.",
-        "image": "https://static.dolthub.com/blogimages/doltlite-beta-featured.webp/dc77fbf9064e690ef4a0ba87824f62640d2b2dea3d6e71cf3c751a8ed76fe6aa.webp",
-        "source": "dolthub.com",
-        "stats": "30 points · 14 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
-        "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-        "description": "25 points · 0 comments",
+        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+        "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+        "description": "608 points · 156 comments",
         "image": "",
-        "source": "bloomberg.com",
+        "source": "mvakde.github.io",
         "stats": ""
       },
       {
-        "url": "https://arxiv.org/list/math/new",
-        "title": "ArXiv has almost 600 submissions today and most are AI slop",
-        "description": "14 points · 8 comments",
+        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+        "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+        "description": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in …",
         "image": "",
-        "source": "arxiv.org",
-        "stats": ""
+        "source": "simonwillison.net",
+        "stats": "353 points · 156 comments"
+      },
+      {
+        "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+        "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+        "description": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
+        "source": "9to5mac.com",
+        "stats": "201 points · 143 comments"
       }
     ],
     "2026-08-31": [
-      {
-        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-        "title": "Breaking Claude Code Opus 5 Auto Mode",
-        "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …",
-        "image": "https://embracethered.com/blog/images/2026/claude-automode/claude-auto-mode-rce.png",
-        "source": "embracethered.com",
-        "stats": "365 points · 115 comments"
-      },
       {
         "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
         "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
         "description": "Apple&#039;s unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information. Apple normally releases new Mac models in the autumn, closer to October or November, making this week&#039;s announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in Mac Studio and Mac mini sales is behind the early launch.",
         "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
         "source": "macrumors.com",
-        "stats": "387 points · 432 comments"
+        "stats": "492 points · 588 comments"
+      },
+      {
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …",
+        "image": "https://embracethered.com/blog/images/2026/claude-automode/claude-auto-mode-rce.png",
+        "source": "embracethered.com",
+        "stats": "395 points · 119 comments"
       },
       {
         "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
@@ -66,7 +108,7 @@
         "description": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here’s what I’ve figured out …",
         "image": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg",
         "source": "simonwillison.net",
-        "stats": "328 points · 187 comments"
+        "stats": "347 points · 194 comments"
       },
       {
         "url": "https://codex-tool-reference.simonw.chatgpt.site/",
@@ -74,7 +116,7 @@
         "description": "A complete reference to the tools and full skill definitions available in this Codex Work session.",
         "image": "",
         "source": "codex-tool-reference.simonw.chatgpt.site",
-        "stats": "212 points · 53 comments"
+        "stats": "241 points · 61 comments"
       },
       {
         "url": "https://calpaterson.com/memoryfields.html",
@@ -82,25 +124,17 @@
         "description": "Memoryfields - a vastly simpler way to do agent memory",
         "image": "https://calpaterson.com/images/photo/kungfu.jpeg",
         "source": "calpaterson.com",
-        "stats": "172 points · 89 comments"
+        "stats": "190 points · 93 comments"
       }
     ],
     "2026-08-30": [
       {
-        "url": "https://noaifridays.com/",
-        "title": "No AI Fridays",
-        "description": "A weekly ritual for software teams to unplug from AI coding assistants, prevent skill atrophy, and rediscover the joy of craftsmanship.",
-        "image": "",
-        "source": "noaifridays.com",
-        "stats": "285 points · 204 comments"
-      },
-      {
-        "url": "https://github.com/anthropics/claude-code/issues/66504",
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "description": "Preflight Checklist I have searched existing requests and this feature hasn&#39;t been requested yet This is a single feature request (not multiple features) Problem Statement Every commit message and ...",
-        "image": "https://opengraph.githubassets.com/605b6b16208e7712f365ee16d13b8c1a8ed7a797373868e8ca361fe91b54c1c6/anthropics/claude-code/issues/66504",
-        "source": "github.com",
-        "stats": "209 points · 229 comments"
+        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+        "title": "Smartphone LED detects hidden cameras with AI",
+        "description": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device",
+        "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true",
+        "source": "chosun.com",
+        "stats": "273 points · 81 comments"
       },
       {
         "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
@@ -108,15 +142,7 @@
         "description": "An introduction to diffusion language models and the research advances that underlie today",
         "image": "",
         "source": "kuleshov-group.github.io",
-        "stats": "176 points · 19 comments"
-      },
-      {
-        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-        "title": "Smartphone LED detects hidden cameras with AI",
-        "description": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device",
-        "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true",
-        "source": "chosun.com",
-        "stats": "200 points · 55 comments"
+        "stats": "181 points · 20 comments"
       },
       {
         "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
@@ -124,7 +150,7 @@
         "description": "Fully discrete methods dominated for a few years, but language models based on continuous diffusion are making a comeback.",
         "image": "https://sander.ai/images/verin.jpg",
         "source": "sander.ai",
-        "stats": "130 points · 47 comments"
+        "stats": "134 points · 48 comments"
       }
     ],
     "2026-08-29": [
@@ -187,24 +213,6 @@
         "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
         "source": "artificialanalysis.ai",
         "stats": "83 points · 18 comments"
-      }
-    ],
-    "2026-08-26": [
-      {
-        "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-        "title": "RAG Is Simpler Than You Think",
-        "description": "Six approaches to retrieval-based AI, from minimal to elaborate",
-        "image": "https://substackcdn.com/image/fetch/$s_!yF7E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03ad851c-75b8-4afe-ae16-fd98c8e61836_1920x1280.jpeg",
-        "source": "lighthousenewsletter.com",
-        "stats": "508 points · 216 comments"
-      },
-      {
-        "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-        "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-        "description": "Everyone is using Obsidian for AI, or wants to use it to become more productive. But I think it&#39;s a dead end.",
-        "image": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
-        "source": "ssp.sh",
-        "stats": "261 points · 188 comments"
       }
     ]
   }
