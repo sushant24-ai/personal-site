@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-02T06:57:02.777Z",
+  "lastUpdated": "2026-09-03T07:00:35.435Z",
   "days": {
+    "2026-09-03": [
+      {
+        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+        "description": "&quot;The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,&quot; the brief reads.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+        "source": "techcrunch.com",
+        "stats": "34 points · 7 comments"
+      },
+      {
+        "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+        "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+        "description": " Shin Jin-seo, the world",
+        "image": "https://www.kedglobal.com/data/ked/image/2026/07/21/ked202607210032.jpg",
+        "source": "kedglobal.com",
+        "stats": "33 points · 4 comments"
+      },
+      {
+        "url": "https://compute.cheap/",
+        "title": "Show HN: The cheapest GPU cloud – H100s at $2.04/HR, H200s at $3/HR",
+        "description": "H100 and H200 capacity without the hyperscaler bill.",
+        "image": "https://compute.cheap/og.png",
+        "source": "compute.cheap",
+        "stats": "14 points · 1 comments"
+      },
+      {
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+        "title": "Frontier Act – Federal oversight of the development of frontier AI",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "congress.gov",
+        "stats": ""
+      },
+      {
+        "url": "https://heyski.io/",
+        "title": "Ski Voice Coding for Claude Code now available on Linux",
+        "description": "A voice for your AI coding assistant — free forever on Mac, Windows and Linux, fully private, works offline. Speak, and hear it answer.",
+        "image": "https://heyski.io/og.png",
+        "source": "heyski.io",
+        "stats": "3 points · 1 comments"
+      }
+    ],
     "2026-09-02": [
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "description": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
+        "source": "blog.google",
+        "stats": "958 points · 543 comments"
+      },
+      {
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "description": "Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.",
+        "image": "https://trellner.com/og.png",
+        "source": "trellner.com",
+        "stats": "374 points · 176 comments"
+      },
+      {
+        "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+        "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+        "description": "163 points · 54 comments",
+        "image": "",
+        "source": "aisle.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+        "title": "Mamdani Bans AI in NYC Schools",
+        "description": "165 points · 132 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
       {
         "url": "https://arxiv.org/abs/2608.29530",
         "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
         "description": "Modern systems in artificial intelligence (AI) somehow excel in domains for which they seem poorly suited. Intelligence has traditionally been modeled as operating over structured combinations of symbols, such as logical formulas. However, the strongest modern AI systems are based on neural networks, which instead represent information in continuous vectors. Vectors seem inadequate for capturing the structure of language, logic, and other cognitive domains, yet neural networks achieve impressive performance in these areas. How do they do it? In this work, we propose a potential answer: Despite appearances, perhaps the internal representations of neural networks implicitly realize symbolic structure. In support of this hypothesis, we show that the vector representations of a variety of neural networks can be closely approximated with symbolic structures: we can replace the network&#39;s entire representation-generating process with a closed-form equation instantiating a symbolic structure, and the network&#39;s behavior remains largely unchanged. This finding holds for both small-scale neural networks trained to manipulate lists as well as large language models (LLMs) operating in four domains that are central in symbolic traditions: arithmetic, logic, computer code, and language. Further, our symbolic approximation allows us to modify an LLM&#39;s behavior in targeted ways via precise interventions on its internal representations, showing that the LLM&#39;s behavior is reliant on the symbolic structures we have identified. This work provides a potential way to reconcile longstanding symbolic conceptions of intelligence with the vector-based nature of modern AI.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "60 points · 10 comments"
-      },
-      {
-        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-        "title": "Claude Fable 5.1 made me a nice animated pelican",
-        "description": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 “sets a new standard for coding, knowledge work, and long-running problem-solving tasks”. Their announcement spends a notable …",
-        "image": "https://static.simonwillison.net/static/2026/fable-5.1-max.webp",
-        "source": "simonwillison.net",
-        "stats": "56 points · 15 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security",
-        "title": "Thousands of University of Sydney staff on strike over AI and job security",
-        "description": "Hundreds of university staff were stationed at picket lines, calling for stronger protections around the use of AI",
-        "image": "https://i.guim.co.uk/img/media/48d532f713c5cba4da34b9dcf95005a2f2b506dc/0_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4c88373600f03157f7ba142ae0e78fc",
-        "source": "theguardian.com",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://fstoppers.com/gear/gopro-being-bought-285-million-and-pivoting-ai-and-defense-optics-904434",
-        "title": "GoPro Is Being Bought for $285M and Pivoting to AI and Defense Optics",
-        "description": "GoPro merges with Starman Optical in a $285 million deal, pivoting toward AI data center hardware and defense optics while maintaining its camera business. The company pays off $92 million in debt.",
-        "image": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/09/1776675473_1964095.jpg?itok=Ln-b5scU",
-        "source": "fstoppers.com",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://ihavebeenclawed.com/",
-        "title": "Show HN: I Have Been Clawed – Index of coding agent incidents",
-        "description": "Sourced AI-agent and chatbot incidents, with lessons learned.",
-        "image": "https://ihavebeenclawed.com/assets/images/og-card-claw.png",
-        "source": "ihavebeenclawed.com",
-        "stats": "3 points · 0 comments"
+        "stats": "285 points · 105 comments"
       }
     ],
     "2026-09-01": [
@@ -50,22 +92,14 @@
         "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1134 points · 1049 comments"
+        "stats": "1386 points · 1346 comments"
       },
       {
         "url": "https://danluu.com/zitron/",
         "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "description": "615 points · 681 comments",
+        "description": "843 points · 1012 comments",
         "image": "",
         "source": "danluu.com",
-        "stats": ""
-      },
-      {
-        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-        "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-        "description": "608 points · 156 comments",
-        "image": "",
-        "source": "mvakde.github.io",
         "stats": ""
       },
       {
@@ -74,7 +108,15 @@
         "description": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in …",
         "image": "",
         "source": "simonwillison.net",
-        "stats": "353 points · 156 comments"
+        "stats": "482 points · 246 comments"
+      },
+      {
+        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+        "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+        "description": "653 points · 163 comments",
+        "image": "",
+        "source": "mvakde.github.io",
+        "stats": ""
       },
       {
         "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
@@ -82,49 +124,33 @@
         "description": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery....",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
         "source": "9to5mac.com",
-        "stats": "201 points · 143 comments"
+        "stats": "242 points · 186 comments"
       }
     ],
     "2026-08-31": [
-      {
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-        "description": "Apple&#039;s unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information. Apple normally releases new Mac models in the autumn, closer to October or November, making this week&#039;s announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in Mac Studio and Mac mini sales is behind the early launch.",
-        "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
-        "source": "macrumors.com",
-        "stats": "492 points · 588 comments"
-      },
       {
         "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
         "title": "Breaking Claude Code Opus 5 Auto Mode",
         "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …",
         "image": "https://embracethered.com/blog/images/2026/claude-automode/claude-auto-mode-rce.png",
         "source": "embracethered.com",
-        "stats": "395 points · 119 comments"
+        "stats": "397 points · 121 comments"
       },
       {
-        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-        "title": "Understanding ChatGPT Work",
-        "description": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here’s what I’ve figured out …",
-        "image": "https://static.simonwillison.net/static/2026/chatgpt-work-card.jpg",
-        "source": "simonwillison.net",
-        "stats": "347 points · 194 comments"
+        "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+        "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+        "description": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+        "image": "https://media.wired.com/photos/6a90caf6df5e45f6df862f92/191:100/w_1280,c_limit/You-Know-Who-Really-Hates-AI-Business.jpg",
+        "source": "wired.com",
+        "stats": "135 points · 133 comments"
       },
       {
-        "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-        "title": "ChatGPT Work Tool and Skill Reference",
-        "description": "A complete reference to the tools and full skill definitions available in this Codex Work session.",
+        "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
+        "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
+        "description": "38 points · 9 comments",
         "image": "",
-        "source": "codex-tool-reference.simonw.chatgpt.site",
-        "stats": "241 points · 61 comments"
-      },
-      {
-        "url": "https://calpaterson.com/memoryfields.html",
-        "title": "Agent memory as a file format",
-        "description": "Memoryfields - a vastly simpler way to do agent memory",
-        "image": "https://calpaterson.com/images/photo/kungfu.jpeg",
-        "source": "calpaterson.com",
-        "stats": "190 points · 93 comments"
+        "source": "fastcompany.com",
+        "stats": ""
       }
     ],
     "2026-08-30": [
@@ -134,23 +160,15 @@
         "description": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device",
         "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true",
         "source": "chosun.com",
-        "stats": "273 points · 81 comments"
+        "stats": "279 points · 84 comments"
       },
       {
-        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-        "title": "How to build a diffusion language model",
-        "description": "An introduction to diffusion language models and the research advances that underlie today",
-        "image": "",
-        "source": "kuleshov-group.github.io",
-        "stats": "181 points · 20 comments"
-      },
-      {
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "title": "Continuous Diffusion Language Models (CDLM's)",
-        "description": "Fully discrete methods dominated for a few years, but language models based on continuous diffusion are making a comeback.",
-        "image": "https://sander.ai/images/verin.jpg",
-        "source": "sander.ai",
-        "stats": "134 points · 48 comments"
+        "url": "https://www.nature.com/articles/s41562-026-02550-0",
+        "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+        "description": "Sourati et al. find that variance in writing complexity dropped on social media, news and scientific writing after ChatGPT&#8217;s release, a shift from individuality towards uniformity. LLM polishing strips cues to gender, age, ideology and moral values.",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
+        "source": "nature.com",
+        "stats": "119 points · 89 comments"
       }
     ],
     "2026-08-29": [
@@ -195,24 +213,6 @@
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
         "stats": "120 points · 40 comments"
-      }
-    ],
-    "2026-08-27": [
-      {
-        "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-        "title": "Nvidia agrees to acquire Hugging Face for $13B",
-        "description": "Nvidia has held talks to acquire Hugging Face for more than $13 billion as the chip giant expands its AI dealmaking.",
-        "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "1973 points · 910 comments"
-      },
-      {
-        "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-        "title": "Benchmarking Pocket-Scale Inference",
-        "description": "Benchmarking of language model inference on mobile phones. We measure output speed, latency and memory use across local models.",
-        "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
-        "source": "artificialanalysis.ai",
-        "stats": "83 points · 18 comments"
       }
     ]
   }
