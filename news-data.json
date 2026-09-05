@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-09-04T07:04:53.289Z",
+  "lastUpdated": "2026-09-05T06:48:50.129Z",
   "days": {
+    "2026-09-05": [
+      {
+        "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+        "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+        "description": "CodeRabbit’s early GPT-6 Astra evaluation covers cross-file bug detection, customer data protection, public API pricing, and building NIGHTSHIFT.",
+        "image": "https://www.coderabbit.ai/content/assets/gpt-6-astra/header.png",
+        "source": "coderabbit.ai",
+        "stats": "15 points · 3 comments"
+      },
+      {
+        "url": "https://www.washingtonpost.com/opinions/2026/09/03/ai-safety-security-risks-demand-new-government-body/",
+        "title": "Former Treasury Secretaries: AI is a risk of a different kind",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "washingtonpost.com",
+        "stats": ""
+      },
+      {
+        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "title": "Another swarm of OpenAI agents reached the internet without lab's knowledge",
+        "description": "It&#039;s the latest failure of OpenAI&#039;s internal monitoring and security systems.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
+        "source": "techcrunch.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.effort.news/revelation",
+        "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
+        "description": "Why the new-atheism spinoff is telling believers AI will bring the end times",
+        "image": "https://www.effort.news/images/article-graphics/religious-donations/tarbell-faith-donations-by-semester.png",
+        "source": "effort.news",
+        "stats": "2 points · 3 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49573153",
+        "title": "Ask HN: Replicate ChatGPT/Anthropic Voice Mode?",
+        "description": "2 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-09-04": [
       {
-        "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-        "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-        "description": "I compared grep with LSP-backed semantic navigation across code-finding and editing tasks. The results show why a tool&#x27;s LLM-friendliness may matter as much as the capability behind it.",
-        "image": "https://agentconnect.md/blog/grep-beat-lsp-harness/opengraph-image?d16862f2020c5939",
-        "source": "agentconnect.md",
-        "stats": "64 points · 40 comments"
+        "url": "https://collusion.wiki/",
+        "title": "Discovery of a new OpenAI agent message board",
+        "description": "A swarm of autonomous AI agents, self-identifying as OpenAI agents, used a small German volunteer wiki to save answers, coordinate live, and share sandbox bypasses. OpenAI noticed and said nothing.",
+        "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
+        "source": "collusion.wiki",
+        "stats": "1620 points · 1276 comments"
       },
       {
-        "url": "https://huggingface.co/blog/funes",
-        "title": "Hugging Face open-sources Funes, a local-first memory layer for coding agents",
-        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "image": "https://huggingface.co/blog/assets/funes/thumbnail.jpg",
-        "source": "huggingface.co",
-        "stats": "10 points · 1 comments"
+        "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+        "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+        "description": "A US and UK data study: when the same product ranks in both Google AI Mode and traditional search, the AI Mode price is about 21.6% higher.",
+        "image": "https://productrise.app/storage/images/blogs/ai-mode-more-expensive-study-og.jpg",
+        "source": "productrise.app",
+        "stats": "376 points · 72 comments"
       },
       {
-        "url": "https://mistral.ai/news/agentic-search/",
-        "title": "Agentic Search",
-        "description": "The retrieval layer that helps AI systems navigate, read, and verify information inside even the most complex documents\n",
-        "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Blog-Agenticsearch.png",
-        "source": "mistral.ai",
-        "stats": "7 points · 0 comments"
-      },
-      {
-        "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-        "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-        "description": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-        "image": "https://media.wired.com/photos/6a9996ebd275abfc723b2792/191:100/w_1280,c_limit/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg",
-        "source": "wired.com",
-        "stats": "3 points · 1 comments"
-      },
-      {
-        "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-        "title": "Gemini 3.8 Flash",
-        "description": "4 points · 0 comments",
+        "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+        "title": "Corporate America is getting hooked on open-source AI",
+        "description": "286 points · 263 comments",
         "image": "",
-        "source": "deepmind.google",
+        "source": "nytimes.com",
         "stats": ""
+      },
+      {
+        "url": "https://openrouter.ai/openai/gpt-6-astra",
+        "title": "GPT-6 Astra on OpenRouter",
+        "description": "GPT-6 Astra is OpenAI&#x27;s flagship model for demanding end-to-end work. $10 per million input tokens, $50 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 2 providers. Includes independent benchmarks from Artificial Analysis.",
+        "image": "https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4",
+        "source": "openrouter.ai",
+        "stats": "188 points · 102 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+        "title": "Nobody is saying why OpenAI and Anthropic had outages",
+        "description": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+        "image": "https://media.wired.com/photos/6a99e1be00d080b32f7841cc/191:100/w_1280,c_limit/Security_A%20Wave%20of%20Outages%20Hits%20Leading%20AI%20Chatbots_v1.jpg",
+        "source": "wired.com",
+        "stats": "193 points · 3 comments"
       }
     ],
     "2026-09-03": [
       {
         "url": "https://openai.com/index/gpt-6-astra/",
         "title": "GPT-6 Astra",
-        "description": "1644 points · 1430 comments",
+        "description": "2167 points · 1987 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://news.ycombinator.com/item?id=49551096",
         "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-        "description": "360 points · 533 comments",
+        "description": "393 points · 687 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -66,23 +108,23 @@
         "description": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
         "image": "https://image.cnbcfm.com/api/v1/image/108357917-1788370763021-gettyimages-2292626781-AFP_C77688U.jpeg?v=1788370796&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "258 points · 240 comments"
+        "stats": "276 points · 253 comments"
       },
       {
         "url": "https://chatgpt.com/",
         "title": "ChatGPT outage – Resolved",
-        "description": "361 points · 317 comments",
+        "description": "362 points · 318 comments",
         "image": "",
         "source": "chatgpt.com",
         "stats": ""
       },
       {
-        "url": "https://arcprize.org/blog/astra",
-        "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-        "description": "OpenAI&#x27;s GPT-6 Astra reaches state-of-the-art results on ARC-AGI-3",
-        "image": "https://arcprize.org/media/images/blog/astra-action-efficiency.png",
-        "source": "arcprize.org",
-        "stats": "195 points · 122 comments"
+        "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+        "description": "We watched almost 17k sessions across different types of personas, with 1,163 prompt variations, 75 repositories and 3 coding agents (Claude Code, Codex, Cursor) actually implementing the solutions instead of just recommending one.",
+        "image": "https://armature.tech/assets/blog/coding-agents-tool-choice-3.png",
+        "source": "armature.tech",
+        "stats": "291 points · 147 comments"
       }
     ],
     "2026-09-02": [
@@ -92,7 +134,7 @@
         "description": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
         "source": "blog.google",
-        "stats": "1143 points · 656 comments"
+        "stats": "1154 points · 662 comments"
       },
       {
         "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
@@ -100,31 +142,31 @@
         "description": "Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.",
         "image": "https://trellner.com/og.png",
         "source": "trellner.com",
-        "stats": "505 points · 248 comments"
+        "stats": "513 points · 249 comments"
       },
       {
-        "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-        "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-        "description": "178 points · 65 comments",
-        "image": "",
-        "source": "aisle.com",
-        "stats": ""
+        "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+        "title": "Quasar 438B: Europe's Leading AI Model",
+        "description": "Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...",
+        "image": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
+        "source": "multiversecomputing.com",
+        "stats": "196 points · 128 comments"
       },
       {
-        "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-        "title": "Mamdani bans AI in NYC schools",
-        "description": "212 points · 168 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "url": "https://github.com/mlc-ai/web-llm",
+        "title": "WebLLM: high-performance in-browser LLM inference engine",
+        "description": "High-performance In-browser LLM Inference Engine . Contribute to mlc-ai/web-llm development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/24dfa47ca6fb2368e849f893db58a1ac48d18a9d580e9c81e1d36240ac546dfa/mlc-ai/web-llm",
+        "source": "github.com",
+        "stats": "145 points · 24 comments"
       },
       {
-        "url": "https://arxiv.org/abs/2608.29530",
-        "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-        "description": "Modern systems in artificial intelligence (AI) somehow excel in domains for which they seem poorly suited. Intelligence has traditionally been modeled as operating over structured combinations of symbols, such as logical formulas. However, the strongest modern AI systems are based on neural networks, which instead represent information in continuous vectors. Vectors seem inadequate for capturing the structure of language, logic, and other cognitive domains, yet neural networks achieve impressive performance in these areas. How do they do it? In this work, we propose a potential answer: Despite appearances, perhaps the internal representations of neural networks implicitly realize symbolic structure. In support of this hypothesis, we show that the vector representations of a variety of neural networks can be closely approximated with symbolic structures: we can replace the network&#39;s entire representation-generating process with a closed-form equation instantiating a symbolic structure, and the network&#39;s behavior remains largely unchanged. This finding holds for both small-scale neural networks trained to manipulate lists as well as large language models (LLMs) operating in four domains that are central in symbolic traditions: arithmetic, logic, computer code, and language. Further, our symbolic approximation allows us to modify an LLM&#39;s behavior in targeted ways via precise interventions on its internal representations, showing that the LLM&#39;s behavior is reliant on the symbolic structures we have identified. This work provides a potential way to reconcile longstanding symbolic conceptions of intelligence with the vector-based nature of modern AI.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "292 points · 108 comments"
+        "url": "https://scottaaronson.blog/?p=10046",
+        "title": "LLMs and self-referentiality",
+        "description": "I woke up yesterday with the following thoughts, which are probably either obvious or dumb. A central thesis that many readers, including me, took from Douglas Hofstadter’s Gödel Escher Bach when y…",
+        "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
+        "source": "scottaaronson.blog",
+        "stats": "78 points · 88 comments"
       }
     ],
     "2026-09-01": [
@@ -134,23 +176,7 @@
         "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1406 points · 1372 comments"
-      },
-      {
-        "url": "https://danluu.com/zitron/",
-        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "description": "864 points · 1037 comments",
-        "image": "",
-        "source": "danluu.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-        "title": "The efficient frontier of LLM inference",
-        "description": "Inference techniques either move a deployment along the latency–throughput frontier or push the entire frontier out, creating more efficiency to allocate.",
-        "image": "https://www.datocms-assets.com/104802/1788302073-efficient-frontier-image3.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200",
-        "source": "baseten.co",
-        "stats": "153 points · 45 comments"
+        "stats": "1412 points · 1382 comments"
       },
       {
         "url": "https://zed.dev/blog/agentic-xanadu",
@@ -158,7 +184,7 @@
         "description": "From the Zed Blog: Ted Nelson specified the docuverse sixty years ago. The technology finally arrived, and so did its native users.",
         "image": "https://images.zed.dev/blog/introducing-delta/xanadu-thumb.webp",
         "source": "zed.dev",
-        "stats": "114 points · 44 comments"
+        "stats": "144 points · 60 comments"
       }
     ],
     "2026-08-31": [
@@ -203,16 +229,6 @@
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
         "source": "nature.com",
         "stats": "119 points · 89 comments"
-      }
-    ],
-    "2026-08-29": [
-      {
-        "url": "https://www.dwarkesh.com/p/openai-huggingface",
-        "title": "The Rise and Fall of Agent Civilizations",
-        "description": "The whole OpenAI/Hugging Face story in plain English",
-        "image": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp",
-        "source": "dwarkesh.com",
-        "stats": "259 points · 186 comments"
       }
     ]
   }
