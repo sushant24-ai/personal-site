@@ -1,46 +1,130 @@
 {
-  "lastUpdated": "2026-09-05T06:48:50.129Z",
+  "lastUpdated": "2026-09-07T07:09:34.885Z",
   "days": {
+    "2026-09-07": [
+      {
+        "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+        "title": "I refused to train the AI that could replace me",
+        "description": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.\r\n",
+        "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_AI_training_sketch_final-1600x900.jpg",
+        "source": "restofworld.org",
+        "stats": "57 points · 40 comments"
+      },
+      {
+        "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+        "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+        "description": "Nvidia CEO Jensen Huang made the comment on Sunday, days after OpenAI released Astra, its newest and most powerful AI model.",
+        "image": "https://i.insider.com/6a9de6edf320febc610d4f5a?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "25 points · 61 comments"
+      },
+      {
+        "url": "https://github.com/Staatsgeheim/MathKernel",
+        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "description": "Evidence-aware multi-engine mathematics runtime for LLMs: exact, symbolic, formal, certified-interval and numeric computation with typed MathIR, trust labels, and full provenance - Staatsgeheim/Mat...",
+        "image": "https://opengraph.githubassets.com/88d4121a2c8f564903aa5bd422450704f321803ab8db21412a58a707c5ef9fc3/Staatsgeheim/MathKernel",
+        "source": "github.com",
+        "stats": "29 points · 5 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+        "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+        "description": "20 points · 2 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+        "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
+        "description": "13 points · 3 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      }
+    ],
+    "2026-09-06": [
+      {
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+        "description": "Note: This was originally published as a LinkedIn post on November 11, 2025.\nI need to make a painful confession: somehow, LinkedIn has become an important social network to me. This isn’t necessarily due to LinkedIn’s sparkling competence, of course. To the contrary, LinkedIn is the Gerald Ford of social networks: the normal one that was left standing as the Richard Nixons and the Spiro Agnews of social media imploded around them. As with Gerald Ford, with LinkedIn we know that we’re getting something a bit clumsy and boring, but (as with post-Watergate America!), we’re also getting something that isn’t totally crooked — and that’s actually a bit of a relief.",
+        "image": "",
+        "source": "bcantrill.dtrace.org",
+        "stats": "631 points · 402 comments"
+      },
+      {
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "title": "Research acceleration: The view inside OpenAI",
+        "description": "155 points · 102 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://openai.robocurve.org/gpt-6-astra/",
+        "title": "GPT-6 Astra on robot arms",
+        "description": "OpenAI",
+        "image": "https://openai.robocurve.org/gpt-6-astra/og.jpg",
+        "source": "openai.robocurve.org",
+        "stats": "233 points · 185 comments"
+      },
+      {
+        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+        "title": "How I feel about AI",
+        "description": "It&#39;s complicated",
+        "image": "",
+        "source": "beza1e1.tuxen.de",
+        "stats": "155 points · 248 comments"
+      },
+      {
+        "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+        "title": "AI, Tools and Transformation",
+        "description": "It’s very tempting to imagine that AI turns everyone into a tool-builder - now everyone can just ask the model to make the software they need, and apps as we know them are dead.  I think that misunderstands how most people think and where software actually comes from, and more importantly, it isn’t ",
+        "image": "",
+        "source": "ben-evans.com",
+        "stats": "151 points · 67 comments"
+      }
+    ],
     "2026-09-05": [
       {
-        "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-        "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "description": "CodeRabbit’s early GPT-6 Astra evaluation covers cross-file bug detection, customer data protection, public API pricing, and building NIGHTSHIFT.",
-        "image": "https://www.coderabbit.ai/content/assets/gpt-6-astra/header.png",
-        "source": "coderabbit.ai",
-        "stats": "15 points · 3 comments"
+        "url": "https://arxiv.org/abs/2609.03344",
+        "title": "LLMs as a Cognitive Virus",
+        "description": "Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a viral analogy, with LLM use spreading through populations, becoming embedded in cognitive and cultural practices. We model transitions among uncoupled, coupled, and persistently dependent users, and show that the interplay between social transmission, recovery, and collective reinforcement can generate tipping points and technological lock-in. A central consequence is the possibility of runaway dynamics: once a critical threshold is crossed, small increases in adoption can trigger rapid population-level shifts toward persistent dependence, with abrupt losses in cognitive competence. The same framework, however, identifies conditions for cognitive immunization, based on reducing transmission and facilitating reversibility. Our results highlight how LLM adoption may involve nonlinear collective transitions with important consequences for cognitive autonomy.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "385 points · 249 comments"
       },
       {
-        "url": "https://www.washingtonpost.com/opinions/2026/09/03/ai-safety-security-risks-demand-new-government-body/",
-        "title": "Former Treasury Secretaries: AI is a risk of a different kind",
-        "description": "5 points · 1 comments",
-        "image": "",
-        "source": "washingtonpost.com",
-        "stats": ""
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "title": "AI handles incidents, engineers lose touch with their systems",
+        "description": "AI-assisted incident response can lower MTTR while leaving engineers less prepared for the complex incidents automation cannot solve.",
+        "image": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/social-card.jpg",
+        "source": "sylvainkalache.com",
+        "stats": "409 points · 340 comments"
       },
       {
-        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-        "title": "Another swarm of OpenAI agents reached the internet without lab's knowledge",
-        "description": "It&#039;s the latest failure of OpenAI&#039;s internal monitoring and security systems.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
-        "source": "techcrunch.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "description": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps—sadly not for Claude Cowork or Claude Code). I love that they do this, and …",
+        "image": "https://static.simonwillison.net/static/2026-09-01/IMG_7797.jpeg",
+        "source": "simonwillison.net",
+        "stats": "69 points · 113 comments"
       },
       {
-        "url": "https://www.effort.news/revelation",
-        "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
-        "description": "Why the new-atheism spinoff is telling believers AI will bring the end times",
-        "image": "https://www.effort.news/images/article-graphics/religious-donations/tarbell-faith-donations-by-semester.png",
-        "source": "effort.news",
-        "stats": "2 points · 3 comments"
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...",
+        "image": "https://opengraph.githubassets.com/de4876179d4dee3dd17fdf9b6408138d09e4545f1b4ef2c2e785931af30754d7/okf-memory/okf-agent-memory",
+        "source": "github.com",
+        "stats": "76 points · 23 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49573153",
-        "title": "Ask HN: Replicate ChatGPT/Anthropic Voice Mode?",
-        "description": "2 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+        "title": "America's two largest school districts impose AI moratoriums",
+        "description": "The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo.",
+        "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
+        "source": "techpolicy.press",
+        "stats": "61 points · 74 comments"
       }
     ],
     "2026-09-04": [
@@ -50,81 +134,57 @@
         "description": "A swarm of autonomous AI agents, self-identifying as OpenAI agents, used a small German volunteer wiki to save answers, coordinate live, and share sandbox bypasses. OpenAI noticed and said nothing.",
         "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
         "source": "collusion.wiki",
-        "stats": "1620 points · 1276 comments"
+        "stats": "2272 points · 1581 comments"
       },
       {
-        "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-        "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-        "description": "A US and UK data study: when the same product ranks in both Google AI Mode and traditional search, the AI Mode price is about 21.6% higher.",
-        "image": "https://productrise.app/storage/images/blogs/ai-mode-more-expensive-study-og.jpg",
-        "source": "productrise.app",
-        "stats": "376 points · 72 comments"
-      },
-      {
-        "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-        "title": "Corporate America is getting hooked on open-source AI",
-        "description": "286 points · 263 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
+        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "title": "Can AI design circuit boards yet?",
+        "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
+        "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+        "source": "eebench.org",
+        "stats": "418 points · 236 comments"
       },
       {
         "url": "https://openrouter.ai/openai/gpt-6-astra",
         "title": "GPT-6 Astra on OpenRouter",
         "description": "GPT-6 Astra is OpenAI&#x27;s flagship model for demanding end-to-end work. $10 per million input tokens, $50 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 2 providers. Includes independent benchmarks from Artificial Analysis.",
-        "image": "https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4",
+        "image": "https://openrouter.ai/en-US/openai/gpt-6-astra/opengraph-image-vc0va0?94276af93c26d908",
         "source": "openrouter.ai",
-        "stats": "188 points · 102 comments"
+        "stats": "318 points · 232 comments"
       },
       {
-        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-        "title": "Nobody is saying why OpenAI and Anthropic had outages",
-        "description": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-        "image": "https://media.wired.com/photos/6a99e1be00d080b32f7841cc/191:100/w_1280,c_limit/Security_A%20Wave%20of%20Outages%20Hits%20Leading%20AI%20Chatbots_v1.jpg",
-        "source": "wired.com",
-        "stats": "193 points · 3 comments"
+        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+        "description": "Most of what an AI coding agent does for me isn&#x27;t thinking. It&#x27;s I/O.",
+        "image": "https://images.ctfassets.net/p762jor363g1/3cpzewWxmNFDmdAuYuPQVy/f57b117635dc5901dfe476da6927276b/Option_3.png",
+        "source": "engineering.atspotify.com",
+        "stats": "269 points · 173 comments"
+      },
+      {
+        "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+        "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+        "description": "NPC-Forge is a framework for building conversational agents that run on the CPU without relying on machine learning or LLMs. - gioblu/NPC-Forge",
+        "image": "https://opengraph.githubassets.com/7b452f9a7a4318bb39c1ae037faa0dae0bada9296859d4bc5a51b47ade753eb4/gioblu/NPC-Forge",
+        "source": "github.com",
+        "stats": "211 points · 45 comments"
       }
     ],
     "2026-09-03": [
       {
         "url": "https://openai.com/index/gpt-6-astra/",
         "title": "GPT-6 Astra",
-        "description": "2167 points · 1987 comments",
+        "description": "2251 points · 2061 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49551096",
-        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-        "description": "393 points · 687 comments",
+        "url": "https://news.ycombinator.com/item?id=49548600",
+        "title": "Ask HN: Who is using MCP in production?",
+        "description": "190 points · 196 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-        "title": "OpenAI begins rolling out GPT-6 Astra",
-        "description": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108357917-1788370763021-gettyimages-2292626781-AFP_C77688U.jpeg?v=1788370796&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "276 points · 253 comments"
-      },
-      {
-        "url": "https://chatgpt.com/",
-        "title": "ChatGPT outage – Resolved",
-        "description": "362 points · 318 comments",
-        "image": "",
-        "source": "chatgpt.com",
-        "stats": ""
-      },
-      {
-        "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-        "description": "We watched almost 17k sessions across different types of personas, with 1,163 prompt variations, 75 repositories and 3 coding agents (Claude Code, Codex, Cursor) actually implementing the solutions instead of just recommending one.",
-        "image": "https://armature.tech/assets/blog/coding-agents-tool-choice-3.png",
-        "source": "armature.tech",
-        "stats": "291 points · 147 comments"
       }
     ],
     "2026-09-02": [
@@ -185,50 +245,6 @@
         "image": "https://images.zed.dev/blog/introducing-delta/xanadu-thumb.webp",
         "source": "zed.dev",
         "stats": "144 points · 60 comments"
-      }
-    ],
-    "2026-08-31": [
-      {
-        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-        "title": "Breaking Claude Code Opus 5 Auto Mode",
-        "description": "In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …",
-        "image": "https://embracethered.com/blog/images/2026/claude-automode/claude-auto-mode-rce.png",
-        "source": "embracethered.com",
-        "stats": "397 points · 121 comments"
-      },
-      {
-        "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-        "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-        "description": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
-        "image": "https://media.wired.com/photos/6a90caf6df5e45f6df862f92/191:100/w_1280,c_limit/You-Know-Who-Really-Hates-AI-Business.jpg",
-        "source": "wired.com",
-        "stats": "135 points · 133 comments"
-      },
-      {
-        "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
-        "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-        "description": "38 points · 9 comments",
-        "image": "",
-        "source": "fastcompany.com",
-        "stats": ""
-      }
-    ],
-    "2026-08-30": [
-      {
-        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-        "title": "Smartphone LED detects hidden cameras with AI",
-        "description": "Smartphone LED and AI Detect Hidden Cameras KAISTs SweepLED achieves 94% accuracy with 10,000 won LED device",
-        "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&amp;width=1200&amp;height=630&amp;smart=true",
-        "source": "chosun.com",
-        "stats": "279 points · 84 comments"
-      },
-      {
-        "url": "https://www.nature.com/articles/s41562-026-02550-0",
-        "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-        "description": "Sourati et al. find that variance in writing complexity dropped on social media, news and scientific writing after ChatGPT&#8217;s release, a shift from individuality towards uniformity. LLM polishing strips cues to gender, age, ideology and moral values.",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
-        "source": "nature.com",
-        "stats": "119 points · 89 comments"
       }
     ]
   }
