@@ -1,45 +1,87 @@
 {
-  "lastUpdated": "2026-09-07T07:09:34.885Z",
+  "lastUpdated": "2026-09-08T07:03:47.000Z",
   "days": {
-    "2026-09-07": [
+    "2026-09-08": [
       {
-        "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-        "title": "I refused to train the AI that could replace me",
-        "description": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.\r\n",
-        "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_AI_training_sketch_final-1600x900.jpg",
-        "source": "restofworld.org",
-        "stats": "57 points · 40 comments"
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+        "description": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+        "image": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
+        "source": "mistral.ai",
+        "stats": "171 points · 96 comments"
       },
       {
-        "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-        "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-        "description": "Nvidia CEO Jensen Huang made the comment on Sunday, days after OpenAI released Astra, its newest and most powerful AI model.",
-        "image": "https://i.insider.com/6a9de6edf320febc610d4f5a?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "25 points · 61 comments"
-      },
-      {
-        "url": "https://github.com/Staatsgeheim/MathKernel",
-        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "description": "Evidence-aware multi-engine mathematics runtime for LLMs: exact, symbolic, formal, certified-interval and numeric computation with typed MathIR, trust labels, and full provenance - Staatsgeheim/Mat...",
-        "image": "https://opengraph.githubassets.com/88d4121a2c8f564903aa5bd422450704f321803ab8db21412a58a707c5ef9fc3/Staatsgeheim/MathKernel",
-        "source": "github.com",
-        "stats": "29 points · 5 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
-        "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
-        "description": "20 points · 2 comments",
+        "url": "https://danluu.com/agentic-testing/",
+        "title": "How well do agents use test/verification techniques?",
+        "description": "57 points · 10 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "danluu.com",
         "stats": ""
       },
       {
-        "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
-        "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
-        "description": "13 points · 3 comments",
+        "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+        "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+        "description": "Arm Mali G2-Ultra NX brings AI-native graphics and neural acceleration to desktop-class mobile gaming.",
+        "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/Arm-Newsroom-AI-native-graphics-image-1600x900-1.jpg",
+        "source": "newsroom.arm.com",
+        "stats": "27 points · 12 comments"
+      },
+      {
+        "url": "https://rohanadwankar.github.io/posts/platforms.html",
+        "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+        "description": "15 points · 1 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "rohanadwankar.github.io",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework - TauricResearch/TradingAgents",
+        "image": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1",
+        "source": "github.com",
+        "stats": "15 points · 6 comments"
+      }
+    ],
+    "2026-09-07": [
+      {
+        "url": "https://news.ycombinator.com/item?id=49600233",
+        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "description": "124 points · 138 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "description": "$12,431 in fake invoices, 2,797 spam emails, $0 revenue.",
+        "image": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses/og.jpg",
+        "source": "bottlenecklabs.com",
+        "stats": "100 points · 116 comments"
+      },
+      {
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "description": "A practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben",
+        "image": "https://vllm.ai/og?title=Exploring%20Speculative%20Decoding%20in%20vLLM%20on%20AMD%20GPUs&amp;authors=AMD%20and%20Embedded%20LLM&amp;date=2026-08-23&amp;path=/blog",
+        "source": "vllm.ai",
+        "stats": "136 points · 50 comments"
+      },
+      {
+        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+        "title": "AI Cold Showers",
+        "description": "A short list of articles that temper my enthusiasm around AI, and drawing a\nfew lines in the sand along the way.",
+        "image": "https://allan.reyes.sh/img/cold-knob.png",
+        "source": "allan.reyes.sh",
+        "stats": "74 points · 12 comments"
+      },
+      {
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "title": "Initial effects of AI technology on employment look positive",
+        "description": "81 points · 121 comments",
+        "image": "",
+        "source": "economist.com",
         "stats": ""
       }
     ],
@@ -50,23 +92,15 @@
         "description": "Note: This was originally published as a LinkedIn post on November 11, 2025.\nI need to make a painful confession: somehow, LinkedIn has become an important social network to me. This isn’t necessarily due to LinkedIn’s sparkling competence, of course. To the contrary, LinkedIn is the Gerald Ford of social networks: the normal one that was left standing as the Richard Nixons and the Spiro Agnews of social media imploded around them. As with Gerald Ford, with LinkedIn we know that we’re getting something a bit clumsy and boring, but (as with post-Watergate America!), we’re also getting something that isn’t totally crooked — and that’s actually a bit of a relief.",
         "image": "",
         "source": "bcantrill.dtrace.org",
-        "stats": "631 points · 402 comments"
+        "stats": "721 points · 430 comments"
       },
       {
         "url": "https://openai.com/index/research-acceleration-view-inside-openai",
         "title": "Research acceleration: The view inside OpenAI",
-        "description": "155 points · 102 comments",
+        "description": "209 points · 181 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://openai.robocurve.org/gpt-6-astra/",
-        "title": "GPT-6 Astra on robot arms",
-        "description": "OpenAI",
-        "image": "https://openai.robocurve.org/gpt-6-astra/og.jpg",
-        "source": "openai.robocurve.org",
-        "stats": "233 points · 185 comments"
       },
       {
         "url": "https://beza1e1.tuxen.de/ai_feelings.html",
@@ -74,7 +108,15 @@
         "description": "It&#39;s complicated",
         "image": "",
         "source": "beza1e1.tuxen.de",
-        "stats": "155 points · 248 comments"
+        "stats": "162 points · 258 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2505.12540",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "description": "We introduce the first method for translating text embeddings from one vector space to another without any paired data, encoders, or predefined sets of matches. Our unsupervised approach translates any embedding to and from a universal latent representation (i.e., a universal semantic structure conjectured by the Platonic Representation Hypothesis). Our translations achieve high cosine similarity across model pairs with different architectures, parameter counts, and training datasets.\n  The ability to translate unknown embeddings into a different space while preserving their geometry has serious implications for the security of vector databases. An adversary with access only to embedding vectors can extract sensitive information about the underlying documents, sufficient for classification and attribute inference.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "118 points · 39 comments"
       },
       {
         "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
@@ -82,7 +124,7 @@
         "description": "It’s very tempting to imagine that AI turns everyone into a tool-builder - now everyone can just ask the model to make the software they need, and apps as we know them are dead.  I think that misunderstands how most people think and where software actually comes from, and more importantly, it isn’t ",
         "image": "",
         "source": "ben-evans.com",
-        "stats": "151 points · 67 comments"
+        "stats": "155 points · 76 comments"
       }
     ],
     "2026-09-05": [
@@ -134,56 +176,16 @@
         "description": "A swarm of autonomous AI agents, self-identifying as OpenAI agents, used a small German volunteer wiki to save answers, coordinate live, and share sandbox bypasses. OpenAI noticed and said nothing.",
         "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
         "source": "collusion.wiki",
-        "stats": "2272 points · 1581 comments"
-      },
-      {
-        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-        "title": "Can AI design circuit boards yet?",
-        "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
-        "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
-        "source": "eebench.org",
-        "stats": "418 points · 236 comments"
-      },
-      {
-        "url": "https://openrouter.ai/openai/gpt-6-astra",
-        "title": "GPT-6 Astra on OpenRouter",
-        "description": "GPT-6 Astra is OpenAI&#x27;s flagship model for demanding end-to-end work. $10 per million input tokens, $50 per million output tokens. 1,050,000 token context window, maximum output of 128,000 tokens. Higher uptime with 2 providers. Includes independent benchmarks from Artificial Analysis.",
-        "image": "https://openrouter.ai/en-US/openai/gpt-6-astra/opengraph-image-vc0va0?94276af93c26d908",
-        "source": "openrouter.ai",
-        "stats": "318 points · 232 comments"
-      },
-      {
-        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-        "description": "Most of what an AI coding agent does for me isn&#x27;t thinking. It&#x27;s I/O.",
-        "image": "https://images.ctfassets.net/p762jor363g1/3cpzewWxmNFDmdAuYuPQVy/f57b117635dc5901dfe476da6927276b/Option_3.png",
-        "source": "engineering.atspotify.com",
-        "stats": "269 points · 173 comments"
-      },
-      {
-        "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-        "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-        "description": "NPC-Forge is a framework for building conversational agents that run on the CPU without relying on machine learning or LLMs. - gioblu/NPC-Forge",
-        "image": "https://opengraph.githubassets.com/7b452f9a7a4318bb39c1ae037faa0dae0bada9296859d4bc5a51b47ade753eb4/gioblu/NPC-Forge",
-        "source": "github.com",
-        "stats": "211 points · 45 comments"
+        "stats": "2288 points · 1593 comments"
       }
     ],
     "2026-09-03": [
       {
         "url": "https://openai.com/index/gpt-6-astra/",
         "title": "GPT-6 Astra",
-        "description": "2251 points · 2061 comments",
+        "description": "2266 points · 2069 comments",
         "image": "",
         "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=49548600",
-        "title": "Ask HN: Who is using MCP in production?",
-        "description": "190 points · 196 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
         "stats": ""
       }
     ],
@@ -227,24 +229,6 @@
         "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
         "source": "scottaaronson.blog",
         "stats": "78 points · 88 comments"
-      }
-    ],
-    "2026-09-01": [
-      {
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "description": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "1412 points · 1382 comments"
-      },
-      {
-        "url": "https://zed.dev/blog/agentic-xanadu",
-        "title": "Xanadu was waiting for agents",
-        "description": "From the Zed Blog: Ted Nelson specified the docuverse sixty years ago. The technology finally arrived, and so did its native users.",
-        "image": "https://images.zed.dev/blog/introducing-delta/xanadu-thumb.webp",
-        "source": "zed.dev",
-        "stats": "144 points · 60 comments"
       }
     ]
   }
