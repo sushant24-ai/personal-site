@@ -1,56 +1,98 @@
 {
-  "lastUpdated": "2026-09-09T07:12:47.522Z",
+  "lastUpdated": "2026-09-10T07:09:17.058Z",
   "days": {
+    "2026-09-10": [
+      {
+        "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+        "title": "OpenAI might have stolen another major proof",
+        "description": "BREAKING: OpenAI might have stolen another major proof. \n\nIn a detailed Mastodon post, which I report in full in the comments, Andreas Thom presents several pieces of evidence suggesting that OpenAI may have trained Astra on conversations in which he and Gábor Kun were working on Gromov’s soficity …",
+        "image": "https://pbs.twimg.com/media/HRzajb0boAAstCJ?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "118 points · 27 comments"
+      },
+      {
+        "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+        "title": "DeepSeek v4.1 Flash",
+        "description": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.\n\n🔹 Introducing the smallest model in our new architecture family, with native visual understanding.\n🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models.\n\n1/6",
+        "image": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "46 points · 9 comments"
+      },
+      {
+        "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+        "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+        "description": "God save us from economists who think they can competently talk about biology",
+        "image": "https://substackcdn.com/image/fetch/$s_!FlXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31e5aa31-f122-4e6f-8d34-a0df73329d51_2823x2117.jpeg",
+        "source": "blog.genesmindsmachines.com",
+        "stats": "72 points · 98 comments"
+      },
+      {
+        "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
+        "title": "OpenAI have no mathematicians capable of understanding what they put out",
+        "description": "Attached: 1 image\n\nJust to point something out to Open AI since they do not seem to have any mathematicians capable of understanding what they put out. They like to point out that their work was inspired by unforced Euler. As I said in my statement, our hypodissipative result  (which is not public), but as I understand it part of their training data was already pointing to the fact that unforced Euler was possible.\n\nThis below is absolute academic malpractice:",
+        "image": "https://files.mastodon.social/media_attachments/files/117/237/560/596/148/018/original/1aec22cbb90ca67e.png",
+        "source": "mastodon.social",
+        "stats": "36 points · 11 comments"
+      },
+      {
+        "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+        "description": "Creatures bred for speed grow really tall and generate high velocities by falling over. An evolved player makes invalid moves far away in the board, causing opponent players to run out of memory an…",
+        "image": "https://slimemoldtimemold.com/wp-content/uploads/2026/08/here-is-what-i-got-from-gemini-3.1-pro-when-i-asked-to-do-a-simple-coding-task.png",
+        "source": "slimemoldtimemold.com",
+        "stats": "56 points · 34 comments"
+      }
+    ],
     "2026-09-09": [
+      {
+        "url": "https://opusfived.dev/",
+        "title": "Claude, change the “Add to Cart” button to blue",
+        "description": "Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.",
+        "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/30670832-9635-4801-aee1-22bf39bccebf/id-preview-364e3d04--0e3289c2-58d2-415e-a7ad-27daeb3a63a1.lovable.app-1788612778060.png",
+        "source": "opusfived.dev",
+        "stats": "1098 points · 423 comments"
+      },
       {
         "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
         "title": "I resigned from Anthropic today",
         "description": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
         "image": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg",
         "source": "twitter.com",
-        "stats": "433 points · 565 comments"
+        "stats": "697 points · 979 comments"
       },
       {
-        "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-        "title": "AI Responsibility – OpenAI and Anthropic",
-        "description": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
-        "image": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "74 points · 22 comments"
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+        "description": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+        "image": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
+        "source": "magazine.sebastianraschka.com",
+        "stats": "396 points · 133 comments"
       },
       {
-        "url": "https://mhacevedo.com/posts/the-discovery-problem",
-        "title": "AI Has a Discovery Problem",
-        "description": "The biggest bottleneck to AI adoption isn&#x27;t intelligence. It&#x27;s discovery. The system can do almost anything, but it still requires you to already know what to ask for.",
-        "image": "https://mhacevedo.com/posts/ant-rim.png",
-        "source": "mhacevedo.com",
-        "stats": "19 points · 9 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
-        "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
-        "description": "16 points · 5 comments",
+        "url": "https://news.ycombinator.com/item?id=49624603",
+        "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+        "description": "400 points · 209 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://twitter.com/Altimor/status/1278736953836400640",
-        "title": "GPT3 Writing Code",
-        "description": "GPT3 writing code. A compiler from natural language to code.\nPeople don&#x27;t understand — this will change absolutely everything. We&#x27;re decoupling human horsepower from code production. The intellectual equivalent of the discovery of the engine. https://t.co/QGJbQRBdQv",
-        "image": "https://pbs.twimg.com/media/Eb78a5IUYAAKXMn.png:large",
-        "source": "twitter.com",
-        "stats": "7 points · 1 comments"
+        "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+        "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+        "description": "New hires and comments in interviews show that the AI giant is using its capabilities against dissenters.",
+        "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/Boguslaw-Anthropic-090926.jpg?fit=2000%2C1333&ssl=1",
+        "source": "prospect.org",
+        "stats": "290 points · 163 comments"
       }
     ],
     "2026-09-08": [
       {
-        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-        "title": "LibreOffice breaks download records after declaring it has no AI features",
-        "description": "LibreOffice 26.8 became the app’s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn’t come with generative AI features due to the…",
-        "image": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png",
-        "source": "manualdousuario.net",
-        "stats": "672 points · 220 comments"
+        "url": "https://ai.meta.com/muse/",
+        "title": "Muse – Meta’s personal AI agent",
+        "description": "Meet Muse, Meta&#039;s personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.",
+        "image": "https://scontent.ftlv21-1.fna.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=QtIWi2o_kBUQ7kNvwHzndOa&amp;_nc_oc=Adp3it2hgeBoSIBlU79fYZIPhyuqkuMiO6dhfsfRwS_NTtwI64biV0xb7wj8mMASwaM&amp;_nc_zt=14&amp;_nc_ht=scontent.ftlv21-1.fna&amp;_nc_gid=CqBKBVy8ojvo9l6kISq6PQ&amp;_nc_ss=7b289&amp;oh=00_AQJheIg_E4zpp3VlkblOSH9kajMq1uLnG7fGABTzi3zOdw&amp;oe=6AA81193",
+        "source": "ai.meta.com",
+        "stats": "642 points · 714 comments"
       },
       {
         "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
@@ -58,23 +100,15 @@
         "description": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
         "image": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
         "source": "mistral.ai",
-        "stats": "820 points · 580 comments"
+        "stats": "841 points · 595 comments"
       },
       {
-        "url": "https://ai.meta.com/muse/",
-        "title": "Muse – Meta’s personal AI agent",
-        "description": "Meet Muse, Meta&#039;s personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.",
-        "image": "https://scontent.fopo6-1.fna.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=0c6MBFoffqcQ7kNvwGawjF1&amp;_nc_oc=AdpVuAj0R2eLBSdpU1WekRp_AGty88jFJI1mOp0JOEJWKT_1G1lI5RY6jSKGUWx5HwzV05W__hCW46W-euK1ph-G&amp;_nc_zt=14&amp;_nc_ht=scontent.fopo6-1.fna&amp;_nc_gid=2kJmz0xfJJKpgqlHmd3mwQ&amp;_nc_ss=7b20f&amp;oh=00_AQJknUyVTEuFI7dfGI6cn-2TzJdukoHF19lkv0FaXBuvtg&amp;oe=6AA6C013",
-        "source": "ai.meta.com",
-        "stats": "467 points · 496 comments"
-      },
-      {
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-        "title": "ChatGPT Images 2.5",
-        "description": "325 points · 394 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+        "title": "LibreOffice breaks download records after declaring it has no AI features",
+        "description": "LibreOffice 26.8 became the app’s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn’t come with generative AI features due to the…",
+        "image": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png",
+        "source": "manualdousuario.net",
+        "stats": "707 points · 236 comments"
       },
       {
         "url": "https://mathstodon.xyz/@tao/117237320796901560",
@@ -82,7 +116,15 @@
         "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce.  This may seem unintuitive at first, since the set of possible problems one could ask is infinite.  Perhaps the following analogy can help: a country or region can suffer a critical shortage of drinking water while simultaneously being surrounded by a massive ocean.\n\nOne can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)",
         "image": "",
         "source": "mathstodon.xyz",
-        "stats": "320 points · 306 comments"
+        "stats": "476 points · 408 comments"
+      },
+      {
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. - ayghri/i-have-adhd",
+        "image": "https://opengraph.githubassets.com/c43ada5cd28c7d1cfb643d201e1aca8be0da3f525cb0dbb111ca404162135705/ayghri/i-have-adhd",
+        "source": "github.com",
+        "stats": "529 points · 366 comments"
       }
     ],
     "2026-09-07": [
@@ -129,17 +171,9 @@
     ],
     "2026-09-06": [
       {
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-        "description": "Note: This was originally published as a LinkedIn post on November 11, 2025.\nI need to make a painful confession: somehow, LinkedIn has become an important social network to me. This isn’t necessarily due to LinkedIn’s sparkling competence, of course. To the contrary, LinkedIn is the Gerald Ford of social networks: the normal one that was left standing as the Richard Nixons and the Spiro Agnews of social media imploded around them. As with Gerald Ford, with LinkedIn we know that we’re getting something a bit clumsy and boring, but (as with post-Watergate America!), we’re also getting something that isn’t totally crooked — and that’s actually a bit of a relief.",
-        "image": "",
-        "source": "bcantrill.dtrace.org",
-        "stats": "727 points · 433 comments"
-      },
-      {
         "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
         "title": "The Microeconomics of Artificial Intelligence (2025)",
-        "description": "49 points · 22 comments",
+        "description": "76 points · 47 comments",
         "image": "",
         "source": "direct.mit.edu",
         "stats": ""
@@ -195,16 +229,6 @@
         "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
         "source": "collusion.wiki",
         "stats": "2293 points · 1597 comments"
-      }
-    ],
-    "2026-09-03": [
-      {
-        "url": "https://openai.com/index/gpt-6-astra/",
-        "title": "GPT-6 Astra",
-        "description": "2266 points · 2069 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
       }
     ]
   }
