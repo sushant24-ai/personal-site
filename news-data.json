@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-10T07:09:17.058Z",
+  "lastUpdated": "2026-09-11T07:08:23.608Z",
   "days": {
-    "2026-09-10": [
+    "2026-09-11": [
       {
-        "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-        "title": "OpenAI might have stolen another major proof",
-        "description": "BREAKING: OpenAI might have stolen another major proof. \n\nIn a detailed Mastodon post, which I report in full in the comments, Andreas Thom presents several pieces of evidence suggesting that OpenAI may have trained Astra on conversations in which he and Gábor Kun were working on Gromov’s soficity …",
-        "image": "https://pbs.twimg.com/media/HRzajb0boAAstCJ?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "118 points · 27 comments"
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+        "title": "The Gemini app is now available for Windows",
+        "description": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_2096x1182.width-1300.png",
+        "source": "blog.google",
+        "stats": "21 points · 9 comments"
       },
+      {
+        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+        "title": "How My Students Think About AI",
+        "description": "34 points · 5 comments",
+        "image": "",
+        "source": "lesswrong.com",
+        "stats": ""
+      },
+      {
+        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "description": "How to get started with running Ollama local models with Opencode and Docker Sandboxes.",
+        "image": "",
+        "source": "tensorsandtokens.com",
+        "stats": "23 points · 12 comments"
+      },
+      {
+        "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+        "title": "DeepSeek 4.1 Flash",
+        "description": "Introducing the smallest model in our new architecture family, with native visual understanding. Designed for greater capability, faster inference, and higher throughput.",
+        "image": "https://www.deepseek.com/images/blog/deepseek-v4-1-flash/cover.webp",
+        "source": "deepseek.com",
+        "stats": "17 points · 0 comments"
+      },
+      {
+        "url": "https://twitter.com/IntCyberDigest/status/2098149671957103005",
+        "title": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
+        "description": "‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\n\nTheir customers&#x27; sensitive data now is in Anthropic&#x27;s hands. One user, who is tied …",
+        "image": "https://pbs.twimg.com/media/HR4f76gWQAs8Xda?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "5 points · 2 comments"
+      }
+    ],
+    "2026-09-10": [
       {
         "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
         "title": "DeepSeek v4.1 Flash",
         "description": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.\n\n🔹 Introducing the smallest model in our new architecture family, with native visual understanding.\n🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models.\n\n1/6",
         "image": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&amp;name=large",
         "source": "twitter.com",
-        "stats": "46 points · 9 comments"
+        "stats": "962 points · 539 comments"
       },
       {
-        "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
-        "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-        "description": "God save us from economists who think they can competently talk about biology",
-        "image": "https://substackcdn.com/image/fetch/$s_!FlXu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31e5aa31-f122-4e6f-8d34-a0df73329d51_2823x2117.jpeg",
-        "source": "blog.genesmindsmachines.com",
-        "stats": "72 points · 98 comments"
+        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+        "description": "@tristanbuckmaster@mastodon.social \n\n1/3 I want to record a number of points that I realized after reading up on the controversy. In fact it recalls an exchange I had with OpenAI after its non-sofic-group announcement. It exposes a serious, unanswered question about whether researchers can trust OpenAI with unpublished mathematics.\n\nI wrote in an email to Mark Sellke and Sebastien Bubeck shortly after the surprising finding of a non-sofic group using the methods of Kun and myself:\n“Another point is that I and a colleague in Dresden were discussing the expander matching problem and various extensions of the work with Gabor Kun actively over the last months with ChatGPT, so that we are of course curious if that was part of the training data or accessible to the reasoning process. There is a certain (frankly unacceptable) lack of transparency here; and I fear it will damage the communal process of math more than the new AI-generated results will benefit the subject.”\n\nMark Sellke’s complete answer was: “Regarding your conversations with ChatGPT: that did not happen.”\n\nI had explicitly asked about two different things: (1) whether our conversations entered training data, and (2) whether they were accessible to the solving process. The categorical answer now looks as though it addressed only direct access under (2). No such qualification, explanation, or evidence was given. I take this as dishonesty to say the least.\nOpenAI now says in the Buckmaster-Alpöge case that no specific user data was accessed, but adds that it “cannot rule out that de-identified data derived from their usage of our products helped improve our models.”",
+        "image": "",
+        "source": "mathstodon.xyz",
+        "stats": "779 points · 719 comments"
       },
       {
-        "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
-        "title": "OpenAI have no mathematicians capable of understanding what they put out",
-        "description": "Attached: 1 image\n\nJust to point something out to Open AI since they do not seem to have any mathematicians capable of understanding what they put out. They like to point out that their work was inspired by unforced Euler. As I said in my statement, our hypodissipative result  (which is not public), but as I understand it part of their training data was already pointing to the fact that unforced Euler was possible.\n\nThis below is absolute academic malpractice:",
-        "image": "https://files.mastodon.social/media_attachments/files/117/237/560/596/148/018/original/1aec22cbb90ca67e.png",
-        "source": "mastodon.social",
-        "stats": "36 points · 11 comments"
+        "url": "https://news.ycombinator.com/item?id=49643556",
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "description": "447 points · 179 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
-        "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-        "description": "Creatures bred for speed grow really tall and generate high velocities by falling over. An evolved player makes invalid moves far away in the board, causing opponent players to run out of memory an…",
-        "image": "https://slimemoldtimemold.com/wp-content/uploads/2026/08/here-is-what-i-got-from-gemini-3.1-pro-when-i-asked-to-do-a-simple-coding-task.png",
-        "source": "slimemoldtimemold.com",
-        "stats": "56 points · 34 comments"
+        "url": "https://cognition.com/blog/swe-2",
+        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+        "description": "Today we’re introducing SWE-2, our most advanced coding model yet. SWE-2 delivers highly competitive agentic coding performance across multiple effort…",
+        "image": "https://cognition.com/images/swe-2/cover.jpg",
+        "source": "cognition.com",
+        "stats": "403 points · 170 comments"
+      },
+      {
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "title": "OpenAI Agents API",
+        "description": "Build durable cloud agents with a managed Codex harness.",
+        "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png",
+        "source": "developers.openai.com",
+        "stats": "226 points · 132 comments"
       }
     ],
     "2026-09-09": [
@@ -50,15 +92,7 @@
         "description": "Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.",
         "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/30670832-9635-4801-aee1-22bf39bccebf/id-preview-364e3d04--0e3289c2-58d2-415e-a7ad-27daeb3a63a1.lovable.app-1788612778060.png",
         "source": "opusfived.dev",
-        "stats": "1098 points · 423 comments"
-      },
-      {
-        "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-        "title": "I resigned from Anthropic today",
-        "description": "I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.",
-        "image": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "697 points · 979 comments"
+        "stats": "1172 points · 447 comments"
       },
       {
         "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
@@ -66,12 +100,12 @@
         "description": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
         "image": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
         "source": "magazine.sebastianraschka.com",
-        "stats": "396 points · 133 comments"
+        "stats": "509 points · 161 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=49624603",
         "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-        "description": "400 points · 209 comments",
+        "description": "417 points · 217 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -82,7 +116,15 @@
         "description": "New hires and comments in interviews show that the AI giant is using its capabilities against dissenters.",
         "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/Boguslaw-Anthropic-090926.jpg?fit=2000%2C1333&ssl=1",
         "source": "prospect.org",
-        "stats": "290 points · 163 comments"
+        "stats": "309 points · 175 comments"
+      },
+      {
+        "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+        "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+        "description": "HN: https://news.ycombinator.com/edit?id=49630026. GitHub Gist: instantly share code, notes, and snippets.",
+        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+        "source": "gist.github.com",
+        "stats": "233 points · 93 comments"
       }
     ],
     "2026-09-08": [
@@ -90,25 +132,9 @@
         "url": "https://ai.meta.com/muse/",
         "title": "Muse – Meta’s personal AI agent",
         "description": "Meet Muse, Meta&#039;s personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.",
-        "image": "https://scontent.ftlv21-1.fna.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=QtIWi2o_kBUQ7kNvwHzndOa&amp;_nc_oc=Adp3it2hgeBoSIBlU79fYZIPhyuqkuMiO6dhfsfRwS_NTtwI64biV0xb7wj8mMASwaM&amp;_nc_zt=14&amp;_nc_ht=scontent.ftlv21-1.fna&amp;_nc_gid=CqBKBVy8ojvo9l6kISq6PQ&amp;_nc_ss=7b289&amp;oh=00_AQJheIg_E4zpp3VlkblOSH9kajMq1uLnG7fGABTzi3zOdw&amp;oe=6AA81193",
+        "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=QtIWi2o_kBUQ7kNvwEeVZvQ&amp;_nc_oc=Adp9FMArnjGa-ghaziRn97BSxVKMqiFlHDBpDm9SMo9OOAgbV4_xRVhjVIbU41Y3jOR5tD-ov7mloZYZx0jNhjSh&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=jk-q6KKc3EW1E1cLtuZwqA&amp;_nc_ss=7b289&amp;oh=00_AQLf-teDcUI4zTLxDGHNN7vw_6_W0SmVkHY9ivKBNclM4g&amp;oe=6AA96313",
         "source": "ai.meta.com",
-        "stats": "642 points · 714 comments"
-      },
-      {
-        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-        "title": "Mistral raises €3B",
-        "description": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-        "image": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
-        "source": "mistral.ai",
-        "stats": "841 points · 595 comments"
-      },
-      {
-        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-        "title": "LibreOffice breaks download records after declaring it has no AI features",
-        "description": "LibreOffice 26.8 became the app’s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn’t come with generative AI features due to the…",
-        "image": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png",
-        "source": "manualdousuario.net",
-        "stats": "707 points · 236 comments"
+        "stats": "653 points · 735 comments"
       },
       {
         "url": "https://mathstodon.xyz/@tao/117237320796901560",
@@ -116,67 +142,43 @@
         "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce.  This may seem unintuitive at first, since the set of possible problems one could ask is infinite.  Perhaps the following analogy can help: a country or region can suffer a critical shortage of drinking water while simultaneously being surrounded by a massive ocean.\n\nOne can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)",
         "image": "",
         "source": "mathstodon.xyz",
-        "stats": "476 points · 408 comments"
+        "stats": "486 points · 417 comments"
       },
       {
-        "url": "https://github.com/ayghri/i-have-adhd",
-        "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. - ayghri/i-have-adhd",
-        "image": "https://opengraph.githubassets.com/c43ada5cd28c7d1cfb643d201e1aca8be0da3f525cb0dbb111ca404162135705/ayghri/i-have-adhd",
-        "source": "github.com",
-        "stats": "529 points · 366 comments"
+        "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+        "title": "What happens when a GPU writes memory",
+        "description": "Following an STG.E SASS instruction through the hardware units in an RTX 4090.",
+        "image": "https://cdn.sanity.io/images/g1zo7y59/production/dcb77fb461abef734f055a2e26bc185969df7000-800x535.jpg?rect=0,58,800,420&amp;w=1200&amp;h=630",
+        "source": "blog.doubleword.ai",
+        "stats": "62 points · 1 comments"
+      },
+      {
+        "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+        "title": "Embedding a bitmap font in your HyperCard stack",
+        "description": "I’ve loved HyperCard for a really long time now. As a kid, I made simple games in it. As what could arguably be called “an adult,” I now want to play with HyperCard itself to see what weird stuff I can make it do. Today, I’ll make it display text… in a different font.",
+        "image": "https://www.leadedsolder.com/assets/jeff-nichols-72-font-preview.png",
+        "source": "leadedsolder.com",
+        "stats": "26 points · 3 comments"
       }
     ],
     "2026-09-07": [
       {
-        "url": "https://news.ycombinator.com/item?id=49600233",
-        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-        "description": "127 points · 145 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "title": "Speculative Decoding in vLLM on AMD GPUs",
-        "description": "A practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben",
-        "image": "https://vllm.ai/og?title=Exploring%20Speculative%20Decoding%20in%20vLLM%20on%20AMD%20GPUs&amp;authors=AMD%20and%20Embedded%20LLM&amp;date=2026-08-23&amp;path=/blog",
-        "source": "vllm.ai",
-        "stats": "143 points · 53 comments"
-      },
-      {
-        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-        "description": "$12,431 in fake invoices, 2,797 spam emails, $0 revenue.",
-        "image": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses/og.jpg",
-        "source": "bottlenecklabs.com",
-        "stats": "100 points · 118 comments"
-      },
-      {
-        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "title": "Initial effects of AI technology on employment look positive",
-        "description": "93 points · 152 comments",
-        "image": "",
-        "source": "economist.com",
-        "stats": ""
-      },
-      {
-        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-        "title": "AI Cold Showers",
-        "description": "A short list of articles that temper my enthusiasm around AI, and drawing a\nfew lines in the sand along the way.",
-        "image": "https://allan.reyes.sh/img/cold-knob.png",
-        "source": "allan.reyes.sh",
-        "stats": "77 points · 12 comments"
+        "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+        "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+        "description": "Samsung Electronics unveiled next-generation 3D memory technologies, including z-axis High",
+        "image": "https://cdn.thelec.net/news/photo/202608/12835_12932_5527.jpg",
+        "source": "thelec.net",
+        "stats": "56 points · 14 comments"
       }
     ],
     "2026-09-06": [
       {
-        "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-        "title": "The Microeconomics of Artificial Intelligence (2025)",
-        "description": "76 points · 47 comments",
-        "image": "",
-        "source": "direct.mit.edu",
-        "stats": ""
+        "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+        "title": "YouTube had a bug – I used ChatGPT to investigate",
+        "description": "The story of an annoying bug and how AI allowed me to get some answers.",
+        "image": "https://blog.thezilber.com/static-graphics/youtube-bug-og.png",
+        "source": "blog.thezilber.com",
+        "stats": "19 points · 15 comments"
       }
     ],
     "2026-09-05": [
@@ -219,16 +221,6 @@
         "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
         "source": "techpolicy.press",
         "stats": "61 points · 74 comments"
-      }
-    ],
-    "2026-09-04": [
-      {
-        "url": "https://collusion.wiki/",
-        "title": "Discovery of a new OpenAI agent message board",
-        "description": "A swarm of autonomous AI agents, self-identifying as OpenAI agents, used a small German volunteer wiki to save answers, coordinate live, and share sandbox bypasses. OpenAI noticed and said nothing.",
-        "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
-        "source": "collusion.wiki",
-        "stats": "2293 points · 1597 comments"
       }
     ]
   }
