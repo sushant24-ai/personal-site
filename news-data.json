@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-11T07:08:23.608Z",
+  "lastUpdated": "2026-09-12T07:00:08.682Z",
   "days": {
-    "2026-09-11": [
+    "2026-09-12": [
       {
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-        "title": "The Gemini app is now available for Windows",
-        "description": "We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_2096x1182.width-1300.png",
-        "source": "blog.google",
-        "stats": "21 points · 9 comments"
+        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+        "title": "OpenAI agents attacked RubyGems back in May",
+        "description": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
+        "image": "",
+        "source": "simonwillison.net",
+        "stats": "31 points · 1 comments"
       },
       {
-        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
-        "title": "How My Students Think About AI",
-        "description": "34 points · 5 comments",
+        "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+        "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+        "description": "Damn somehow I missed that Bernie&#x27;s AI bill proposes to sentence developers &amp;amp; researchers working on &quot;advanced AI&quot; to 20 years in prison (!!)",
+        "image": "https://pbs.twimg.com/media/HR83Fm0bcAAX4z5?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "44 points · 15 comments"
+      },
+      {
+        "url": "https://github.com/zachsaw/graphify-csharp",
+        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+        "description": "Give your LLM agents the power of JetBrains Rider IDE! Supports C# 15 Syntax! - zachsaw/graphify-csharp",
+        "image": "https://opengraph.githubassets.com/a6f5d99ef62482ddb3c97121bd03c851af1dd2b185c70eaf8ed50c19f7222cc7/zachsaw/graphify-csharp",
+        "source": "github.com",
+        "stats": "30 points · 15 comments"
+      },
+      {
+        "url": "https://twitter.com/markchen90/status/2097400166554993041",
+        "title": "OpenAI: \"We use ... de-identified data to improve ChatGPT\"",
+        "description": "Two things to distinguish:\n\nDid any human or agent look at user data as part of the Navier Stokes effort? No.\n\nDo we use user feedback and de-identified data to improve ChatGPT and Codex in a holistic way? Yes. And so does every LLM company.",
+        "image": "https://pbs.twimg.com/profile_images/1273327644436656129/uYf1oNS5_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "16 points · 6 comments"
+      },
+      {
+        "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
+        "title": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+        "description": "got deepseek V4.1 flash running locally on a 16GB m1 mac mini\n\noriginal FP4/FP8 weights, ssd streaming + custom mlx runner\n\n108s ttft and about 23s/token (not to be confused with tok/s)",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2098423515573583872/img/c-knw64epdUdkE1m?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "16 points · 5 comments"
+      }
+    ],
+    "2026-09-11": [
+      {
+        "url": "https://www.rubyhack.ai/",
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.",
+        "image": "https://rubyhack.ai/img/rubyhack-social.png",
+        "source": "rubyhack.ai",
+        "stats": "597 points · 340 comments"
+      },
+      {
+        "url": "https://mathandai.org/",
+        "title": "A misalignment of AI in mathematics",
+        "description": "831 points · 820 comments",
         "image": "",
-        "source": "lesswrong.com",
+        "source": "mathandai.org",
         "stats": ""
       },
       {
-        "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-        "title": "Setting up OpenCode with Ollama and sbx on Mac",
-        "description": "How to get started with running Ollama local models with Opencode and Docker Sandboxes.",
+        "url": "https://news.ycombinator.com/item?id=49657850",
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "description": "779 points · 365 comments",
         "image": "",
-        "source": "tensorsandtokens.com",
-        "stats": "23 points · 12 comments"
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
-        "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
-        "title": "DeepSeek 4.1 Flash",
-        "description": "Introducing the smallest model in our new architecture family, with native visual understanding. Designed for greater capability, faster inference, and higher throughput.",
-        "image": "https://www.deepseek.com/images/blog/deepseek-v4-1-flash/cover.webp",
-        "source": "deepseek.com",
-        "stats": "17 points · 0 comments"
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "title": "Claude is only available to people over 18 years",
+        "description": "624 points · 622 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
+        "stats": ""
       },
       {
-        "url": "https://twitter.com/IntCyberDigest/status/2098149671957103005",
-        "title": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
-        "description": "‼️ BREAKING: Chinese labs DeepSeek and Moonshot were quietly relaying customer prompts to Claude through fraudulent accounts. Users thought they were using Chinese AI, but were actually getting answers from Claude.\n\nTheir customers&#x27; sensitive data now is in Anthropic&#x27;s hands. One user, who is tied …",
-        "image": "https://pbs.twimg.com/media/HR4f76gWQAs8Xda?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "5 points · 2 comments"
+        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "title": "The Waymo effect: how AI is quietly making research less collaborative",
+        "description": "How frictionless technologies teach us to prefer our own company – and why research leaders should worry.",
+        "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
+        "source": "researchagenda.news",
+        "stats": "324 points · 295 comments"
       }
     ],
     "2026-09-10": [
@@ -50,7 +92,7 @@
         "description": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.\n\n🔹 Introducing the smallest model in our new architecture family, with native visual understanding.\n🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models.\n\n1/6",
         "image": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&amp;name=large",
         "source": "twitter.com",
-        "stats": "962 points · 539 comments"
+        "stats": "997 points · 569 comments"
       },
       {
         "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
@@ -58,12 +100,12 @@
         "description": "@tristanbuckmaster@mastodon.social \n\n1/3 I want to record a number of points that I realized after reading up on the controversy. In fact it recalls an exchange I had with OpenAI after its non-sofic-group announcement. It exposes a serious, unanswered question about whether researchers can trust OpenAI with unpublished mathematics.\n\nI wrote in an email to Mark Sellke and Sebastien Bubeck shortly after the surprising finding of a non-sofic group using the methods of Kun and myself:\n“Another point is that I and a colleague in Dresden were discussing the expander matching problem and various extensions of the work with Gabor Kun actively over the last months with ChatGPT, so that we are of course curious if that was part of the training data or accessible to the reasoning process. There is a certain (frankly unacceptable) lack of transparency here; and I fear it will damage the communal process of math more than the new AI-generated results will benefit the subject.”\n\nMark Sellke’s complete answer was: “Regarding your conversations with ChatGPT: that did not happen.”\n\nI had explicitly asked about two different things: (1) whether our conversations entered training data, and (2) whether they were accessible to the solving process. The categorical answer now looks as though it addressed only direct access under (2). No such qualification, explanation, or evidence was given. I take this as dishonesty to say the least.\nOpenAI now says in the Buckmaster-Alpöge case that no specific user data was accessed, but adds that it “cannot rule out that de-identified data derived from their usage of our products helped improve our models.”",
         "image": "",
         "source": "mathstodon.xyz",
-        "stats": "779 points · 719 comments"
+        "stats": "861 points · 806 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=49643556",
         "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-        "description": "447 points · 179 comments",
+        "description": "476 points · 184 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -74,7 +116,7 @@
         "description": "Today we’re introducing SWE-2, our most advanced coding model yet. SWE-2 delivers highly competitive agentic coding performance across multiple effort…",
         "image": "https://cognition.com/images/swe-2/cover.jpg",
         "source": "cognition.com",
-        "stats": "403 points · 170 comments"
+        "stats": "442 points · 188 comments"
       },
       {
         "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
@@ -82,49 +124,17 @@
         "description": "Build durable cloud agents with a managed Codex harness.",
         "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png",
         "source": "developers.openai.com",
-        "stats": "226 points · 132 comments"
+        "stats": "338 points · 178 comments"
       }
     ],
     "2026-09-09": [
-      {
-        "url": "https://opusfived.dev/",
-        "title": "Claude, change the “Add to Cart” button to blue",
-        "description": "Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.",
-        "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/30670832-9635-4801-aee1-22bf39bccebf/id-preview-364e3d04--0e3289c2-58d2-415e-a7ad-27daeb3a63a1.lovable.app-1788612778060.png",
-        "source": "opusfived.dev",
-        "stats": "1172 points · 447 comments"
-      },
       {
         "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
         "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
         "description": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
         "image": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
         "source": "magazine.sebastianraschka.com",
-        "stats": "509 points · 161 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=49624603",
-        "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-        "description": "417 points · 217 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-        "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-        "description": "New hires and comments in interviews show that the AI giant is using its capabilities against dissenters.",
-        "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/Boguslaw-Anthropic-090926.jpg?fit=2000%2C1333&ssl=1",
-        "source": "prospect.org",
-        "stats": "309 points · 175 comments"
-      },
-      {
-        "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-        "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-        "description": "HN: https://news.ycombinator.com/edit?id=49630026. GitHub Gist: instantly share code, notes, and snippets.",
-        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-        "source": "gist.github.com",
-        "stats": "233 points · 93 comments"
+        "stats": "514 points · 161 comments"
       }
     ],
     "2026-09-08": [
@@ -132,17 +142,9 @@
         "url": "https://ai.meta.com/muse/",
         "title": "Muse – Meta’s personal AI agent",
         "description": "Meet Muse, Meta&#039;s personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.",
-        "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=QtIWi2o_kBUQ7kNvwEeVZvQ&amp;_nc_oc=Adp9FMArnjGa-ghaziRn97BSxVKMqiFlHDBpDm9SMo9OOAgbV4_xRVhjVIbU41Y3jOR5tD-ov7mloZYZx0jNhjSh&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=jk-q6KKc3EW1E1cLtuZwqA&amp;_nc_ss=7b289&amp;oh=00_AQLf-teDcUI4zTLxDGHNN7vw_6_W0SmVkHY9ivKBNclM4g&amp;oe=6AA96313",
+        "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=QtIWi2o_kBUQ7kNvwHvNRaP&amp;_nc_oc=AdrHvx54kGUIeH-BEwPNRE6BeiDk2rZeL-_QQe3lmv3oD35fW0Tz6_rbBt6j1QjJA6Q&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-2.xx&amp;_nc_gid=7Lb-mJJgmokaXpC9qEuV5w&amp;_nc_ss=7b289&amp;oh=00_AQI0vxW9UfOnNvJ20FfBLtHMqnw3WkaePLp2GHw8ysF5kA&amp;oe=6AAAB493",
         "source": "ai.meta.com",
-        "stats": "653 points · 735 comments"
-      },
-      {
-        "url": "https://mathstodon.xyz/@tao/117237320796901560",
-        "title": "Tao: Open math problems being non-renewably mined by AI",
-        "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce.  This may seem unintuitive at first, since the set of possible problems one could ask is infinite.  Perhaps the following analogy can help: a country or region can suffer a critical shortage of drinking water while simultaneously being surrounded by a massive ocean.\n\nOne can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)",
-        "image": "",
-        "source": "mathstodon.xyz",
-        "stats": "486 points · 417 comments"
+        "stats": "657 points · 736 comments"
       },
       {
         "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
@@ -150,15 +152,7 @@
         "description": "Following an STG.E SASS instruction through the hardware units in an RTX 4090.",
         "image": "https://cdn.sanity.io/images/g1zo7y59/production/dcb77fb461abef734f055a2e26bc185969df7000-800x535.jpg?rect=0,58,800,420&amp;w=1200&amp;h=630",
         "source": "blog.doubleword.ai",
-        "stats": "62 points · 1 comments"
-      },
-      {
-        "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
-        "title": "Embedding a bitmap font in your HyperCard stack",
-        "description": "I’ve loved HyperCard for a really long time now. As a kid, I made simple games in it. As what could arguably be called “an adult,” I now want to play with HyperCard itself to see what weird stuff I can make it do. Today, I’ll make it display text… in a different font.",
-        "image": "https://www.leadedsolder.com/assets/jeff-nichols-72-font-preview.png",
-        "source": "leadedsolder.com",
-        "stats": "26 points · 3 comments"
+        "stats": "73 points · 1 comments"
       }
     ],
     "2026-09-07": [
@@ -179,48 +173,6 @@
         "image": "https://blog.thezilber.com/static-graphics/youtube-bug-og.png",
         "source": "blog.thezilber.com",
         "stats": "19 points · 15 comments"
-      }
-    ],
-    "2026-09-05": [
-      {
-        "url": "https://arxiv.org/abs/2609.03344",
-        "title": "LLMs as a Cognitive Virus",
-        "description": "Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a viral analogy, with LLM use spreading through populations, becoming embedded in cognitive and cultural practices. We model transitions among uncoupled, coupled, and persistently dependent users, and show that the interplay between social transmission, recovery, and collective reinforcement can generate tipping points and technological lock-in. A central consequence is the possibility of runaway dynamics: once a critical threshold is crossed, small increases in adoption can trigger rapid population-level shifts toward persistent dependence, with abrupt losses in cognitive competence. The same framework, however, identifies conditions for cognitive immunization, based on reducing transmission and facilitating reversibility. Our results highlight how LLM adoption may involve nonlinear collective transitions with important consequences for cognitive autonomy.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "385 points · 249 comments"
-      },
-      {
-        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "title": "AI handles incidents, engineers lose touch with their systems",
-        "description": "AI-assisted incident response can lower MTTR while leaving engineers less prepared for the complex incidents automation cannot solve.",
-        "image": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/social-card.jpg",
-        "source": "sylvainkalache.com",
-        "stats": "409 points · 340 comments"
-      },
-      {
-        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-        "description": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps—sadly not for Claude Cowork or Claude Code). I love that they do this, and …",
-        "image": "https://static.simonwillison.net/static/2026-09-01/IMG_7797.jpeg",
-        "source": "simonwillison.net",
-        "stats": "69 points · 113 comments"
-      },
-      {
-        "url": "https://github.com/okf-memory/okf-agent-memory",
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...",
-        "image": "https://opengraph.githubassets.com/de4876179d4dee3dd17fdf9b6408138d09e4545f1b4ef2c2e785931af30754d7/okf-memory/okf-agent-memory",
-        "source": "github.com",
-        "stats": "76 points · 23 comments"
-      },
-      {
-        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-        "title": "America's two largest school districts impose AI moratoriums",
-        "description": "The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo.",
-        "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
-        "source": "techpolicy.press",
-        "stats": "61 points · 74 comments"
       }
     ]
   }
