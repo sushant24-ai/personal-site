@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-12T07:00:08.682Z",
+  "lastUpdated": "2026-09-13T07:19:07.489Z",
   "days": {
+    "2026-09-13": [
+      {
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "title": "Everyone should slow down AI development except for me",
+        "description": "373 points · 222 comments",
+        "image": "",
+        "source": "xeiaso.net",
+        "stats": ""
+      },
+      {
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "description": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
+        "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+        "source": "yoshuabengio.org",
+        "stats": "106 points · 103 comments"
+      },
+      {
+        "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+        "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+        "description": "19 points · 12 comments",
+        "image": "",
+        "source": "venturebeat.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=DRDoABHToEo",
+        "title": "Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "12 points · 0 comments"
+      },
+      {
+        "url": "https://www.thisamericanlife.org/896/transcript",
+        "title": "Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]",
+        "description": "7 points · 0 comments",
+        "image": "https://www.thisamericanlife.org/sites/all/themes/thislife/img/social-blue.png",
+        "source": "thisamericanlife.org",
+        "stats": ""
+      }
+    ],
     "2026-09-12": [
       {
-        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-        "title": "OpenAI agents attacked RubyGems back in May",
-        "description": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report …",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "title": "Nvidia is the central bank of AI",
+        "description": "453 points · 325 comments",
         "image": "",
-        "source": "simonwillison.net",
-        "stats": "31 points · 1 comments"
+        "source": "economist.com",
+        "stats": ""
       },
       {
-        "url": "https://twitter.com/venturetwins/status/2098456905526211026",
-        "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-        "description": "Damn somehow I missed that Bernie&#x27;s AI bill proposes to sentence developers &amp;amp; researchers working on &quot;advanced AI&quot; to 20 years in prison (!!)",
-        "image": "https://pbs.twimg.com/media/HR83Fm0bcAAX4z5?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "44 points · 15 comments"
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+        "description": "Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.",
+        "image": "",
+        "source": "withspecific.com",
+        "stats": "216 points · 129 comments"
       },
       {
-        "url": "https://github.com/zachsaw/graphify-csharp",
-        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-        "description": "Give your LLM agents the power of JetBrains Rider IDE! Supports C# 15 Syntax! - zachsaw/graphify-csharp",
-        "image": "https://opengraph.githubassets.com/a6f5d99ef62482ddb3c97121bd03c851af1dd2b185c70eaf8ed50c19f7222cc7/zachsaw/graphify-csharp",
-        "source": "github.com",
-        "stats": "30 points · 15 comments"
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+        "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "83 points · 63 comments"
       },
       {
-        "url": "https://twitter.com/markchen90/status/2097400166554993041",
-        "title": "OpenAI: \"We use ... de-identified data to improve ChatGPT\"",
-        "description": "Two things to distinguish:\n\nDid any human or agent look at user data as part of the Navier Stokes effort? No.\n\nDo we use user feedback and de-identified data to improve ChatGPT and Codex in a holistic way? Yes. And so does every LLM company.",
-        "image": "https://pbs.twimg.com/profile_images/1273327644436656129/uYf1oNS5_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "16 points · 6 comments"
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+        "title": "The worst spam emails: iLands AI agent hustle",
+        "description": "iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\n    ",
+        "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F09%2F11%2Filands-agents-email-spam-kaixin-tang%2F/opengraph/?v=1789176752",
+        "source": "tedium.co",
+        "stats": "112 points · 54 comments"
       },
       {
-        "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
-        "title": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
-        "description": "got deepseek V4.1 flash running locally on a 16GB m1 mac mini\n\noriginal FP4/FP8 weights, ssd streaming + custom mlx runner\n\n108s ttft and about 23s/token (not to be confused with tok/s)",
-        "image": "https://pbs.twimg.com/amplify_video_thumb/2098423515573583872/img/c-knw64epdUdkE1m?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "16 points · 5 comments"
+        "url": "https://transformer-circuits.pub/2021/framework/index.html",
+        "title": "A Mathematical Framework for Transformer Circuits (2021)",
+        "description": "96 points · 17 comments",
+        "image": "",
+        "source": "transformer-circuits.pub",
+        "stats": ""
       }
     ],
     "2026-09-11": [
@@ -48,32 +90,32 @@
         "url": "https://www.rubyhack.ai/",
         "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
         "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.",
-        "image": "https://rubyhack.ai/img/rubyhack-social.png",
+        "image": "https://rubyhack.ai/img/rubyhack-social.png?v=2",
         "source": "rubyhack.ai",
-        "stats": "597 points · 340 comments"
+        "stats": "932 points · 578 comments"
       },
       {
         "url": "https://mathandai.org/",
         "title": "A misalignment of AI in mathematics",
-        "description": "831 points · 820 comments",
+        "description": "1191 points · 1166 comments",
         "image": "",
         "source": "mathandai.org",
         "stats": ""
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49657850",
-        "title": "Ask HN: Can we please limit the AI news flood?",
-        "description": "779 points · 365 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "title": "Claude is only available to people over 18 years",
+        "description": "666 points · 645 comments",
+        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+        "source": "support.claude.com",
         "stats": ""
       },
       {
-        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "title": "Claude is only available to people over 18 years",
-        "description": "624 points · 622 comments",
-        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-        "source": "support.claude.com",
+        "url": "https://news.ycombinator.com/item?id=49657850",
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "description": "827 points · 387 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
         "stats": ""
       },
       {
@@ -82,7 +124,7 @@
         "description": "How frictionless technologies teach us to prefer our own company – and why research leaders should worry.",
         "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
         "source": "researchagenda.news",
-        "stats": "324 points · 295 comments"
+        "stats": "331 points · 299 comments"
       }
     ],
     "2026-09-10": [
@@ -92,31 +134,7 @@
         "description": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.\n\n🔹 Introducing the smallest model in our new architecture family, with native visual understanding.\n🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models.\n\n1/6",
         "image": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&amp;name=large",
         "source": "twitter.com",
-        "stats": "997 points · 569 comments"
-      },
-      {
-        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-        "description": "@tristanbuckmaster@mastodon.social \n\n1/3 I want to record a number of points that I realized after reading up on the controversy. In fact it recalls an exchange I had with OpenAI after its non-sofic-group announcement. It exposes a serious, unanswered question about whether researchers can trust OpenAI with unpublished mathematics.\n\nI wrote in an email to Mark Sellke and Sebastien Bubeck shortly after the surprising finding of a non-sofic group using the methods of Kun and myself:\n“Another point is that I and a colleague in Dresden were discussing the expander matching problem and various extensions of the work with Gabor Kun actively over the last months with ChatGPT, so that we are of course curious if that was part of the training data or accessible to the reasoning process. There is a certain (frankly unacceptable) lack of transparency here; and I fear it will damage the communal process of math more than the new AI-generated results will benefit the subject.”\n\nMark Sellke’s complete answer was: “Regarding your conversations with ChatGPT: that did not happen.”\n\nI had explicitly asked about two different things: (1) whether our conversations entered training data, and (2) whether they were accessible to the solving process. The categorical answer now looks as though it addressed only direct access under (2). No such qualification, explanation, or evidence was given. I take this as dishonesty to say the least.\nOpenAI now says in the Buckmaster-Alpöge case that no specific user data was accessed, but adds that it “cannot rule out that de-identified data derived from their usage of our products helped improve our models.”",
-        "image": "",
-        "source": "mathstodon.xyz",
-        "stats": "861 points · 806 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=49643556",
-        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-        "description": "476 points · 184 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://cognition.com/blog/swe-2",
-        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-        "description": "Today we’re introducing SWE-2, our most advanced coding model yet. SWE-2 delivers highly competitive agentic coding performance across multiple effort…",
-        "image": "https://cognition.com/images/swe-2/cover.jpg",
-        "source": "cognition.com",
-        "stats": "442 points · 188 comments"
+        "stats": "1007 points · 574 comments"
       },
       {
         "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
@@ -124,7 +142,23 @@
         "description": "Build durable cloud agents with a managed Codex harness.",
         "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png",
         "source": "developers.openai.com",
-        "stats": "338 points · 178 comments"
+        "stats": "345 points · 183 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "title": "Detecting and countering misuse of AI: September 2026",
+        "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "181 points · 239 comments"
+      },
+      {
+        "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+        "title": "AI Is Breaking This Thing We Call Trust",
+        "description": "AI-generated work can look finished without being understood. That uncertainty erodes trust, slows reviews, and leaves colleagues doing the missing work.",
+        "image": "https://i0.wp.com/terriblesoftware.org/wp-content/uploads/2026/09/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2lzMTkzODMtaW1hZ2Uta3d2d3MwemwuanBn.webp?fit=1024%2C683&#038;ssl=1",
+        "source": "terriblesoftware.org",
+        "stats": "123 points · 71 comments"
       }
     ],
     "2026-09-09": [
@@ -163,16 +197,6 @@
         "image": "https://cdn.thelec.net/news/photo/202608/12835_12932_5527.jpg",
         "source": "thelec.net",
         "stats": "56 points · 14 comments"
-      }
-    ],
-    "2026-09-06": [
-      {
-        "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-        "title": "YouTube had a bug – I used ChatGPT to investigate",
-        "description": "The story of an annoying bug and how AI allowed me to get some answers.",
-        "image": "https://blog.thezilber.com/static-graphics/youtube-bug-og.png",
-        "source": "blog.thezilber.com",
-        "stats": "19 points · 15 comments"
       }
     ]
   }
