@@ -1,14 +1,64 @@
 {
-  "lastUpdated": "2026-09-13T07:19:07.489Z",
+  "lastUpdated": "2026-09-14T07:43:37.281Z",
   "days": {
+    "2026-09-14": [
+      {
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "title": "Open-source AI and open models reading list",
+        "description": "How to get up to speed on open models and their implications.",
+        "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+        "source": "interconnects.ai",
+        "stats": "94 points · 10 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/1802.07228",
+        "title": "The Malicious Use of Artificial Intelligence",
+        "description": "This report surveys the landscape of potential security threats from malicious uses of AI, and proposes ways to better forecast, prevent, and mitigate these threats. After analyzing the ways in which AI may influence the threat landscape in the digital, physical, and political domains, we make four high-level recommendations for AI researchers and other stakeholders. We also suggest several promising areas for further research that could expand the portfolio of defenses, or make attacks less effective or harder to execute. Finally, we discuss, but do not conclusively resolve, the long-term equilibrium of attackers and defenders.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "55 points · 11 comments"
+      },
+      {
+        "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+        "title": "Who gets to define the rules for AI?",
+        "description": "Explore why AI regulation should rely on evidence-based standards, independent testing, and diverse voices rather than rules set by a few dominant AI labs.",
+        "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/aad920dfe8b269bfea7f77111be06fd7196ce23c-4522x2532.png?rect=0,79,4522,2374&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+        "source": "cohere.com",
+        "stats": "25 points · 22 comments"
+      },
+      {
+        "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+        "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+        "description": "29 points · 22 comments",
+        "image": "",
+        "source": "science.org",
+        "stats": ""
+      },
+      {
+        "url": "https://spectrum.ieee.org/ai-robots",
+        "title": "AI Robots – When will they be in our homes",
+        "description": "Here’s how we could finally build AI humanoid robots that do all our domestic chores",
+        "image": "https://spectrum.ieee.org/media-library/the-robot-helper-rosie-from-the-tv-show-the-jetsons-next-to-a-group-of-new-ai-robots-consisting-of-neo-from-1x-technologies-apo.jpg?id=54170092&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+        "source": "spectrum.ieee.org",
+        "stats": "22 points · 15 comments"
+      }
+    ],
     "2026-09-13": [
       {
         "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
         "title": "Everyone should slow down AI development except for me",
-        "description": "373 points · 222 comments",
+        "description": "766 points · 442 comments",
         "image": "",
         "source": "xeiaso.net",
         "stats": ""
+      },
+      {
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+        "description": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also cl…",
+        "image": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "295 points · 216 comments"
       },
       {
         "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
@@ -16,38 +66,30 @@
         "description": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
         "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
         "source": "yoshuabengio.org",
-        "stats": "106 points · 103 comments"
+        "stats": "613 points · 672 comments"
       },
       {
-        "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
-        "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
-        "description": "19 points · 12 comments",
-        "image": "",
-        "source": "venturebeat.com",
-        "stats": ""
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+        "source": "techcrunch.com",
+        "stats": "385 points · 212 comments"
       },
       {
-        "url": "https://www.youtube.com/watch?v=DRDoABHToEo",
-        "title": "Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "12 points · 0 comments"
-      },
-      {
-        "url": "https://www.thisamericanlife.org/896/transcript",
-        "title": "Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]",
-        "description": "7 points · 0 comments",
-        "image": "https://www.thisamericanlife.org/sites/all/themes/thislife/img/social-blue.png",
-        "source": "thisamericanlife.org",
-        "stats": ""
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+        "description": "Anthropic says operators in northern Yemen ran parallel Claude Code instances to design guidance software, simulate trajectories, and analyze a failed rocket t…",
+        "image": "https://imagedelivery.net/qIvImu8MgTZD-kGvW-i83w/production.gdh/3130fc04-e931-4e08-8187-d3e367e47ba4/w=1200,h=630,fit=cover,gravity=auto,quality=85",
+        "source": "clashreport.com",
+        "stats": "97 points · 87 comments"
       }
     ],
     "2026-09-12": [
       {
         "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
         "title": "Nvidia is the central bank of AI",
-        "description": "453 points · 325 comments",
+        "description": "567 points · 391 comments",
         "image": "",
         "source": "economist.com",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.",
         "image": "",
         "source": "withspecific.com",
-        "stats": "216 points · 129 comments"
+        "stats": "270 points · 149 comments"
       },
       {
         "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
@@ -66,7 +108,7 @@
         "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
         "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
         "source": "techcrunch.com",
-        "stats": "83 points · 63 comments"
+        "stats": "101 points · 65 comments"
       },
       {
         "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
@@ -74,57 +116,49 @@
         "description": "iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\n    ",
         "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F09%2F11%2Filands-agents-email-spam-kaixin-tang%2F/opengraph/?v=1789176752",
         "source": "tedium.co",
-        "stats": "112 points · 54 comments"
+        "stats": "124 points · 56 comments"
       },
       {
-        "url": "https://transformer-circuits.pub/2021/framework/index.html",
-        "title": "A Mathematical Framework for Transformer Circuits (2021)",
-        "description": "96 points · 17 comments",
-        "image": "",
-        "source": "transformer-circuits.pub",
-        "stats": ""
+        "url": "https://agentsdock.net/",
+        "title": "AgentsDock: An IDE designed for agentic AI research",
+        "description": "An IDE designed for agentic AI research. Run Claude Code, Codex, and Cursor on your own machine in one desktop and mobile workspace — from any device.",
+        "image": "https://agentsdock.net/assets/og-card.png?v=35d35082",
+        "source": "agentsdock.net",
+        "stats": "80 points · 32 comments"
       }
     ],
     "2026-09-11": [
       {
-        "url": "https://www.rubyhack.ai/",
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.",
-        "image": "https://rubyhack.ai/img/rubyhack-social.png?v=2",
-        "source": "rubyhack.ai",
-        "stats": "932 points · 578 comments"
-      },
-      {
         "url": "https://mathandai.org/",
         "title": "A misalignment of AI in mathematics",
-        "description": "1191 points · 1166 comments",
+        "description": "1225 points · 1201 comments",
         "image": "",
         "source": "mathandai.org",
         "stats": ""
       },
       {
-        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "title": "Claude is only available to people over 18 years",
-        "description": "666 points · 645 comments",
-        "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
-        "source": "support.claude.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=49657850",
-        "title": "Ask HN: Can we please limit the AI news flood?",
-        "description": "827 points · 387 comments",
+        "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+        "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+        "description": "Full stack developer, open sourceror, serial entrepreneur.",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "aprilnea.me",
+        "stats": "79 points · 19 comments"
+      },
+      {
+        "url": "https://danluu.com/exercise-7/",
+        "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+        "description": "18 points · 2 comments",
+        "image": "",
+        "source": "danluu.com",
         "stats": ""
       },
       {
-        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-        "title": "The Waymo effect: how AI is quietly making research less collaborative",
-        "description": "How frictionless technologies teach us to prefer our own company – and why research leaders should worry.",
-        "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
-        "source": "researchagenda.news",
-        "stats": "331 points · 299 comments"
+        "url": "https://www.getzep.com/careers/",
+        "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+        "description": "Join the team building the Context Lake for AI agents. Open roles in engineering and applied research.",
+        "image": "https://www.getzep.com/og-image.png",
+        "source": "getzep.com",
+        "stats": "1 points · 0 comments"
       }
     ],
     "2026-09-10": [
@@ -187,16 +221,6 @@
         "image": "https://cdn.sanity.io/images/g1zo7y59/production/dcb77fb461abef734f055a2e26bc185969df7000-800x535.jpg?rect=0,58,800,420&amp;w=1200&amp;h=630",
         "source": "blog.doubleword.ai",
         "stats": "73 points · 1 comments"
-      }
-    ],
-    "2026-09-07": [
-      {
-        "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-        "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-        "description": "Samsung Electronics unveiled next-generation 3D memory technologies, including z-axis High",
-        "image": "https://cdn.thelec.net/news/photo/202608/12835_12932_5527.jpg",
-        "source": "thelec.net",
-        "stats": "56 points · 14 comments"
       }
     ]
   }
