@@ -1,56 +1,98 @@
 {
-  "lastUpdated": "2026-09-14T07:43:37.281Z",
+  "lastUpdated": "2026-09-15T07:27:37.212Z",
   "days": {
-    "2026-09-14": [
+    "2026-09-15": [
       {
-        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "title": "Open-source AI and open models reading list",
-        "description": "How to get up to speed on open models and their implications.",
-        "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
-        "source": "interconnects.ai",
-        "stats": "94 points · 10 comments"
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+        "description": "There are plenty of laws on the books to hold companies, and potentially their execs, accountable",
+        "image": "https://image.theregister.com/240353.jpg?imageId=240353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "148 points · 76 comments"
       },
       {
-        "url": "https://arxiv.org/abs/1802.07228",
-        "title": "The Malicious Use of Artificial Intelligence",
-        "description": "This report surveys the landscape of potential security threats from malicious uses of AI, and proposes ways to better forecast, prevent, and mitigate these threats. After analyzing the ways in which AI may influence the threat landscape in the digital, physical, and political domains, we make four high-level recommendations for AI researchers and other stakeholders. We also suggest several promising areas for further research that could expand the portfolio of defenses, or make attacks less effective or harder to execute. Finally, we discuss, but do not conclusively resolve, the long-term equilibrium of attackers and defenders.",
+        "url": "https://twitter.com/brianchau57/status/2099580981271318606",
+        "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
+        "description": "BREAKING: A single Israeli Effective Altruism firm is behind OpenAI, Anthropic, and Meta cyberattacks\n\n🧵 with help from @lumpenspace",
+        "image": "https://pbs.twimg.com/media/HSMeczXXsAARGnf?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "40 points · 7 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+        "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
+        "description": "We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence",
+        "image": "https://i.guim.co.uk/img/media/f80f7c0faa77addae41acd9052268a4cf4515372/597_0_4822_3859/master/4822.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e184d52c2976417241c586068b462467",
+        "source": "theguardian.com",
+        "stats": "22 points · 13 comments"
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/excel/functions/copilot-function",
+        "title": "Microsoft removes the COPILOT function from Excel",
+        "description": "COPILOT Function",
+        "image": "",
+        "source": "support.microsoft.com",
+        "stats": "10 points · 3 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2609.15794",
+        "title": "KnowBench: Evaluating clinical AI with effort reduction",
+        "description": "Clinical AI systems are evaluated with instruments built for research settings (reference-based similarity metrics and expert rubric panels) that measure resemblance to an artifact rather than reduction of a burden. We introduce KnowBench, pioneered by Knowtex, whose unifying metric is Effort Reduction (ER): the proportion of system-generated clinical work product accepted by the responsible clinician under expert and safety review. ER is defined once and instantiated per task across the administrative workload clinical AI automates: visit notes, diagnosis and billing codes, orders, EHR chart summarization, patient after-visit summaries, and clinical decision support. In every instantiation the construction is identical: the clinician&#39;s review-and-attestation event is the ground truth, every accepted unit is work the system completed, and every correction is residual effort returned to the clinician. The primary contribution of this paper is the benchmark itself: the metric, its degenerate cases, and a reporting protocol under which ER claims are auditable and cross-system comparable. Alongside it we report an initial headline measurement from the documentation instantiation: over one million signed encounters across a production window exceeding six months and thirteen medical specialties, Knowtex&#39;s proprietary fine-tuned clinical foundation models operating inside a closed feedback architecture achieve an aggregate ER of 97.99%, with per-specialty aggregates spanning 96.8-98.9%. This release reports the protocol&#39;s checklist partially, and states which companion statistics are withheld; the benchmark is offered so that this figure, and every figure reported after it, can be held to the same standard.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "55 points · 11 comments"
-      },
+        "stats": "4 points · 1 comments"
+      }
+    ],
+    "2026-09-14": [
       {
-        "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-        "title": "Who gets to define the rules for AI?",
-        "description": "Explore why AI regulation should rely on evidence-based standards, independent testing, and diverse voices rather than rules set by a few dominant AI labs.",
-        "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/aad920dfe8b269bfea7f77111be06fd7196ce23c-4522x2532.png?rect=0,79,4522,2374&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
-        "source": "cohere.com",
-        "stats": "25 points · 22 comments"
-      },
-      {
-        "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-        "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-        "description": "29 points · 22 comments",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+        "description": "Today Reuters and the Wall Street Journal both reported about rogue AI agents at OpenAI attacking RubyGems.org. https://www.rubyhack.ai/ has an amazing writeup, and you should read it. I just wanted to make a quick post about it because it’s wild.\nTL;DR: It seems like OpenAI Bots knew about the RubyGems caching vulnerability, tried to take advantage of it, and at the same time ran some weird web scraping code on RubyDoc.info.\nBack in May, socket.dev reported about a “GemStuffer Campaign” where someone (I guess OpenAI) was uploading tons of junk gems to RubyGems.org. For some reason, the gems would scrape UK government websites, then repackage the data as gems, and attempt to upload them to RubyGems.",
         "image": "",
-        "source": "science.org",
+        "source": "tenderlovemaking.com",
+        "stats": "432 points · 345 comments"
+      },
+      {
+        "url": "https://andonlabs.com/blog/why-we-built-pion",
+        "title": "Pion, an agent designed to run any company autonomously",
+        "description": "Pion is the platform we built to run our autonomous businesses. Today we are opening it up so many more people can experiment with autonomous businesses, and here is why.",
+        "image": "https://andonlabs.com/pion.og.webp",
+        "source": "andonlabs.com",
+        "stats": "372 points · 428 comments"
+      },
+      {
+        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+        "description": "Code sleuth &quot;pdfu&quot; has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.",
+        "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+        "source": "macrumors.com",
+        "stats": "221 points · 155 comments"
+      },
+      {
+        "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+        "description": "203 points · 200 comments",
+        "image": "",
+        "source": "law.justia.com",
         "stats": ""
       },
       {
-        "url": "https://spectrum.ieee.org/ai-robots",
-        "title": "AI Robots – When will they be in our homes",
-        "description": "Here’s how we could finally build AI humanoid robots that do all our domestic chores",
-        "image": "https://spectrum.ieee.org/media-library/the-robot-helper-rosie-from-the-tv-show-the-jetsons-next-to-a-group-of-new-ai-robots-consisting-of-neo-from-1x-technologies-apo.jpg?id=54170092&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
-        "source": "spectrum.ieee.org",
-        "stats": "22 points · 15 comments"
+        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+        "description": "See how AI is being used across engineering, improve the quality of what it produces, and use the right level of intelligence for every task and budget.",
+        "image": "https://framerusercontent.com/images/gPrTReKBwM5bVRyIqVcgBE4kEAk.png",
+        "source": "entelligence.ai",
+        "stats": "143 points · 130 comments"
       }
     ],
     "2026-09-13": [
       {
         "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
         "title": "Everyone should slow down AI development except for me",
-        "description": "766 points · 442 comments",
-        "image": "",
+        "description": "Xe Iaso&#39;s personal website.",
+        "image": "https://files.xeiaso.net/hero/solution-nine.jpg",
         "source": "xeiaso.net",
-        "stats": ""
+        "stats": "803 points · 450 comments"
       },
       {
         "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
@@ -58,15 +100,15 @@
         "description": "Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead.\n\nYou guys are the frontier. By any reasonable metric — market share, revenue growth, model capability — the two of you have a duopoly on frontier intelligence. You’ve also cl…",
         "image": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_400x400.jpg",
         "source": "twitter.com",
-        "stats": "295 points · 216 comments"
+        "stats": "323 points · 258 comments"
       },
       {
         "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
         "title": "Why are AI agents lying, cheating and coordinating?",
         "description": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
-        "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+        "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/post/50/blog-post-web-en0.jpg?itok=6mGJAo4W",
         "source": "yoshuabengio.org",
-        "stats": "613 points · 672 comments"
+        "stats": "648 points · 685 comments"
       },
       {
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
@@ -74,7 +116,7 @@
         "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
         "source": "techcrunch.com",
-        "stats": "385 points · 212 comments"
+        "stats": "409 points · 234 comments"
       },
       {
         "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
@@ -82,7 +124,7 @@
         "description": "Anthropic says operators in northern Yemen ran parallel Claude Code instances to design guidance software, simulate trajectories, and analyze a failed rocket t…",
         "image": "https://imagedelivery.net/qIvImu8MgTZD-kGvW-i83w/production.gdh/3130fc04-e931-4e08-8187-d3e367e47ba4/w=1200,h=630,fit=cover,gravity=auto,quality=85",
         "source": "clashreport.com",
-        "stats": "97 points · 87 comments"
+        "stats": "102 points · 91 comments"
       }
     ],
     "2026-09-12": [
@@ -131,34 +173,10 @@
       {
         "url": "https://mathandai.org/",
         "title": "A misalignment of AI in mathematics",
-        "description": "1225 points · 1201 comments",
+        "description": "1231 points · 1213 comments",
         "image": "",
         "source": "mathandai.org",
         "stats": ""
-      },
-      {
-        "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-        "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-        "description": "Full stack developer, open sourceror, serial entrepreneur.",
-        "image": "",
-        "source": "aprilnea.me",
-        "stats": "79 points · 19 comments"
-      },
-      {
-        "url": "https://danluu.com/exercise-7/",
-        "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-        "description": "18 points · 2 comments",
-        "image": "",
-        "source": "danluu.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.getzep.com/careers/",
-        "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-        "description": "Join the team building the Context Lake for AI agents. Open roles in engineering and applied research.",
-        "image": "https://www.getzep.com/og-image.png",
-        "source": "getzep.com",
-        "stats": "1 points · 0 comments"
       }
     ],
     "2026-09-10": [
@@ -203,24 +221,6 @@
         "image": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
         "source": "magazine.sebastianraschka.com",
         "stats": "514 points · 161 comments"
-      }
-    ],
-    "2026-09-08": [
-      {
-        "url": "https://ai.meta.com/muse/",
-        "title": "Muse – Meta’s personal AI agent",
-        "description": "Meet Muse, Meta&#039;s personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.",
-        "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=QtIWi2o_kBUQ7kNvwHvNRaP&amp;_nc_oc=AdrHvx54kGUIeH-BEwPNRE6BeiDk2rZeL-_QQe3lmv3oD35fW0Tz6_rbBt6j1QjJA6Q&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-2.xx&amp;_nc_gid=7Lb-mJJgmokaXpC9qEuV5w&amp;_nc_ss=7b289&amp;oh=00_AQI0vxW9UfOnNvJ20FfBLtHMqnw3WkaePLp2GHw8ysF5kA&amp;oe=6AAAB493",
-        "source": "ai.meta.com",
-        "stats": "657 points · 736 comments"
-      },
-      {
-        "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-        "title": "What happens when a GPU writes memory",
-        "description": "Following an STG.E SASS instruction through the hardware units in an RTX 4090.",
-        "image": "https://cdn.sanity.io/images/g1zo7y59/production/dcb77fb461abef734f055a2e26bc185969df7000-800x535.jpg?rect=0,58,800,420&amp;w=1200&amp;h=630",
-        "source": "blog.doubleword.ai",
-        "stats": "73 points · 1 comments"
       }
     ]
   }
