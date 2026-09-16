@@ -1,56 +1,106 @@
 {
-  "lastUpdated": "2026-09-15T07:27:37.212Z",
+  "lastUpdated": "2026-09-16T07:26:07.171Z",
   "days": {
+    "2026-09-16": [
+      {
+        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "title": "Stay discoverable in search while disallowing AI training",
+        "description": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+        "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2JFGHWHDDM5TY9NKS0TY8B3.01M2JFGJS6SBSH4SX8FC56CVPD.png",
+        "source": "blog.cloudflare.com",
+        "stats": "55 points · 34 comments"
+      },
+      {
+        "url": "https://github.com/rapiddweller/datamimic",
+        "title": "Datamimic – don't let your coding agent invent its own test world",
+        "description": "Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pipelines, and MCP/IDE integration to orchestrate realistic...",
+        "image": "https://repository-images.githubusercontent.com/900760746/4120d593-3112-4d4a-bca0-270c6c980097",
+        "source": "github.com",
+        "stats": "26 points · 4 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+        "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
+        "description": "Experts air concern over AI lingo redolent of James Joyce’s prose that is creating barriers to monitoring and oversight",
+        "image": "https://i.guim.co.uk/img/media/933f0a781e8745d2e6de11e139f4b33d0423aaef/1400_184_5608_4486/master/5608.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5baaff41a0398e78cb6543bcfc214ca9",
+        "source": "theguardian.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+        "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
+        "description": "Due to the Digital Markets Act, Apple will not be able to ship Siri AI in the European Union with the release of iOS 27 and iPadOS 27.",
+        "image": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202608191653",
+        "source": "apple.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "title": "We don't need AI regulation – leave safety to us, Nvidia's Jensen Huang says",
+        "description": "AI isn&#039;t some new form of &quot;alien mind,&quot; according to Jensen Huang. It&#039;s just hardware and software, so safety can be engineered by each AI product maker.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+        "source": "techcrunch.com",
+        "stats": "3 points · 2 comments"
+      }
+    ],
     "2026-09-15": [
       {
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-        "description": "There are plenty of laws on the books to hold companies, and potentially their execs, accountable",
-        "image": "https://image.theregister.com/240353.jpg?imageId=240353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "148 points · 76 comments"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "description": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+        "source": "blog.google",
+        "stats": "383 points · 247 comments"
       },
       {
-        "url": "https://twitter.com/brianchau57/status/2099580981271318606",
-        "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
-        "description": "BREAKING: A single Israeli Effective Altruism firm is behind OpenAI, Anthropic, and Meta cyberattacks\n\n🧵 with help from @lumpenspace",
-        "image": "https://pbs.twimg.com/media/HSMeczXXsAARGnf?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "40 points · 7 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
-        "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
-        "description": "We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence",
-        "image": "https://i.guim.co.uk/img/media/f80f7c0faa77addae41acd9052268a4cf4515372/597_0_4822_3859/master/4822.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e184d52c2976417241c586068b462467",
-        "source": "theguardian.com",
-        "stats": "22 points · 13 comments"
-      },
-      {
-        "url": "https://support.microsoft.com/en-us/excel/functions/copilot-function",
-        "title": "Microsoft removes the COPILOT function from Excel",
-        "description": "COPILOT Function",
+        "url": "https://codyho.dev/blog/gpu-driver/",
+        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+        "description": "271 points · 164 comments",
         "image": "",
-        "source": "support.microsoft.com",
-        "stats": "10 points · 3 comments"
+        "source": "codyho.dev",
+        "stats": ""
       },
       {
-        "url": "https://arxiv.org/abs/2609.15794",
-        "title": "KnowBench: Evaluating clinical AI with effort reduction",
-        "description": "Clinical AI systems are evaluated with instruments built for research settings (reference-based similarity metrics and expert rubric panels) that measure resemblance to an artifact rather than reduction of a burden. We introduce KnowBench, pioneered by Knowtex, whose unifying metric is Effort Reduction (ER): the proportion of system-generated clinical work product accepted by the responsible clinician under expert and safety review. ER is defined once and instantiated per task across the administrative workload clinical AI automates: visit notes, diagnosis and billing codes, orders, EHR chart summarization, patient after-visit summaries, and clinical decision support. In every instantiation the construction is identical: the clinician&#39;s review-and-attestation event is the ground truth, every accepted unit is work the system completed, and every correction is residual effort returned to the clinician. The primary contribution of this paper is the benchmark itself: the metric, its degenerate cases, and a reporting protocol under which ER claims are auditable and cross-system comparable. Alongside it we report an initial headline measurement from the documentation instantiation: over one million signed encounters across a production window exceeding six months and thirteen medical specialties, Knowtex&#39;s proprietary fine-tuned clinical foundation models operating inside a closed feedback architecture achieve an aggregate ER of 97.99%, with per-specialty aggregates spanning 96.8-98.9%. This release reports the protocol&#39;s checklist partially, and states which companion statistics are withheld; the benchmark is offered so that this figure, and every figure reported after it, can be held to the same standard.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "4 points · 1 comments"
+        "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+        "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+        "description": "“AI agents” now have enough power and permission to be extremely annoying online.",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg",
+        "source": "404media.co",
+        "stats": "219 points · 159 comments"
+      },
+      {
+        "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+        "description": "178 points · 194 comments",
+        "image": "",
+        "source": "dank.systems",
+        "stats": ""
+      },
+      {
+        "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+        "title": "Hugging Face is billing OpenAI $100M for hacking it",
+        "description": "After an OpenAI model hacked it, Hugging Face wants the agents&#039; full execution traces and $100mn of compute. OpenAI has not agreed to either demand.",
+        "image": "https://media.thenextweb.com/2026/07/Hugging-Face-breach.jpg",
+        "source": "thenextweb.com",
+        "stats": "143 points · 47 comments"
       }
     ],
     "2026-09-14": [
+      {
+        "url": "https://www.effort.news/irregular",
+        "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+        "description": "The Israeli Effective Altruist firm Irregular caused unsecured AI models to hack real targets.",
+        "image": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png",
+        "source": "effort.news",
+        "stats": "593 points · 202 comments"
+      },
       {
         "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
         "title": "OpenAI bots knew about the RubyGems caching vulnerability",
         "description": "Today Reuters and the Wall Street Journal both reported about rogue AI agents at OpenAI attacking RubyGems.org. https://www.rubyhack.ai/ has an amazing writeup, and you should read it. I just wanted to make a quick post about it because it’s wild.\nTL;DR: It seems like OpenAI Bots knew about the RubyGems caching vulnerability, tried to take advantage of it, and at the same time ran some weird web scraping code on RubyDoc.info.\nBack in May, socket.dev reported about a “GemStuffer Campaign” where someone (I guess OpenAI) was uploading tons of junk gems to RubyGems.org. For some reason, the gems would scrape UK government websites, then repackage the data as gems, and attempt to upload them to RubyGems.",
         "image": "",
         "source": "tenderlovemaking.com",
-        "stats": "432 points · 345 comments"
+        "stats": "507 points · 415 comments"
       },
       {
         "url": "https://andonlabs.com/blog/why-we-built-pion",
@@ -58,7 +108,7 @@
         "description": "Pion is the platform we built to run our autonomous businesses. Today we are opening it up so many more people can experiment with autonomous businesses, and here is why.",
         "image": "https://andonlabs.com/pion.og.webp",
         "source": "andonlabs.com",
-        "stats": "372 points · 428 comments"
+        "stats": "483 points · 592 comments"
       },
       {
         "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
@@ -66,23 +116,15 @@
         "description": "Code sleuth &quot;pdfu&quot; has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.",
         "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
         "source": "macrumors.com",
-        "stats": "221 points · 155 comments"
+        "stats": "225 points · 161 comments"
       },
       {
         "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
         "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-        "description": "203 points · 200 comments",
+        "description": "216 points · 217 comments",
         "image": "",
         "source": "law.justia.com",
         "stats": ""
-      },
-      {
-        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-        "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-        "description": "See how AI is being used across engineering, improve the quality of what it produces, and use the right level of intelligence for every task and budget.",
-        "image": "https://framerusercontent.com/images/gPrTReKBwM5bVRyIqVcgBE4kEAk.png",
-        "source": "entelligence.ai",
-        "stats": "143 points · 130 comments"
       }
     ],
     "2026-09-13": [
@@ -211,16 +253,6 @@
         "image": "https://i0.wp.com/terriblesoftware.org/wp-content/uploads/2026/09/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2lzMTkzODMtaW1hZ2Uta3d2d3MwemwuanBn.webp?fit=1024%2C683&#038;ssl=1",
         "source": "terriblesoftware.org",
         "stats": "123 points · 71 comments"
-      }
-    ],
-    "2026-09-09": [
-      {
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-        "description": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
-        "image": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png",
-        "source": "magazine.sebastianraschka.com",
-        "stats": "514 points · 161 comments"
       }
     ]
   }
