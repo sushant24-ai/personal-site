@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-16T07:26:07.171Z",
+  "lastUpdated": "2026-09-17T07:23:27.803Z",
   "days": {
+    "2026-09-17": [
+      {
+        "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+        "description": "A deep dive into the DeepSeek-V4.1 Flash technical report: CED, CSA2, HSI, Single-Pass mHC, Engram and FP4 KV Cache — how the KV cache was compressed to just 890 bytes per token.",
+        "image": "",
+        "source": "zartbot.github.io",
+        "stats": "110 points · 8 comments"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+        "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+        "description": "68 points · 68 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+        "title": "OpenAI discloses six new AI safety incidents",
+        "description": "25 points · 7 comments",
+        "image": "",
+        "source": "axios.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/browser-use/jev-ultrafast",
+        "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+        "description": "Contribute to browser-use/jev-ultrafast development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/910dc6c4c46b8906f55fa9811748a5f0f524676bed7795351263ff2325334449/browser-use/jev-ultrafast",
+        "source": "github.com",
+        "stats": "28 points · 2 comments"
+      },
+      {
+        "url": "https://www.pangram.com",
+        "title": "Pangram – AI detector for text and images",
+        "description": "AI Detector for ChatGPT, Gemini &amp; Claude — Remarkably Accurate. Detect AI-generated text in essays, articles &amp; documents. Third-party verified results.",
+        "image": "https://pangram-public.s3.us-east-1.amazonaws.com/web/Home+Page/og-pangram.png",
+        "source": "pangram.com",
+        "stats": "25 points · 21 comments"
+      }
+    ],
     "2026-09-16": [
       {
-        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-        "title": "Stay discoverable in search while disallowing AI training",
-        "description": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
-        "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2JFGHWHDDM5TY9NKS0TY8B3.01M2JFGJS6SBSH4SX8FC56CVPD.png",
-        "source": "blog.cloudflare.com",
-        "stats": "55 points · 34 comments"
+        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+        "title": "Nvidia announces native GPU programming in Rust",
+        "description": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise&#x2d;grade toolchains, and NVIDIA will be growing and maturing CUDA&#8230;",
+        "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp",
+        "source": "developer.nvidia.com",
+        "stats": "580 points · 215 comments"
       },
       {
-        "url": "https://github.com/rapiddweller/datamimic",
-        "title": "Datamimic – don't let your coding agent invent its own test world",
-        "description": "Model-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pipelines, and MCP/IDE integration to orchestrate realistic...",
-        "image": "https://repository-images.githubusercontent.com/900760746/4120d593-3112-4d4a-bca0-270c6c980097",
-        "source": "github.com",
-        "stats": "26 points · 4 comments"
+        "url": "https://mistral.ai/news/mistral-x-mozilla/",
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "description": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
+        "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
+        "source": "mistral.ai",
+        "stats": "562 points · 192 comments"
       },
       {
-        "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-        "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
-        "description": "Experts air concern over AI lingo redolent of James Joyce’s prose that is creating barriers to monitoring and oversight",
-        "image": "https://i.guim.co.uk/img/media/933f0a781e8745d2e6de11e139f4b33d0423aaef/1400_184_5608_4486/master/5608.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5baaff41a0398e78cb6543bcfc214ca9",
-        "source": "theguardian.com",
-        "stats": "6 points · 0 comments"
+        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+        "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+        "description": "The lead of the ongoing PS5 Linux project has left the homebrew scene following the wave of AI vibe-coders joining open-source spaces.",
+        "image": "https://frvr.com/wp-content/uploads/2026/09/ps5-linux-lead-leavs.jpg",
+        "source": "frvr.com",
+        "stats": "311 points · 215 comments"
       },
       {
-        "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
-        "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
-        "description": "Due to the Digital Markets Act, Apple will not be able to ship Siri AI in the European Union with the release of iOS 27 and iPadOS 27.",
-        "image": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202608191653",
-        "source": "apple.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://claude.com/blog/cowork-is-now-claude",
+        "title": "Claude Cowork and chat are now one Claude",
+        "description": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.",
+        "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aaaa16ed688635ea2b10fa1_tn-artifacts.jpg",
+        "source": "claude.com",
+        "stats": "215 points · 221 comments"
       },
       {
-        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-        "title": "We don't need AI regulation – leave safety to us, Nvidia's Jensen Huang says",
-        "description": "AI isn&#039;t some new form of &quot;alien mind,&quot; according to Jensen Huang. It&#039;s just hardware and software, so safety can be engineered by each AI product maker.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-        "source": "techcrunch.com",
-        "stats": "3 points · 2 comments"
+        "url": "https://arxiv.org/abs/2609.16338",
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "description": "Ternary Large Language Models (LLM) store every weight as one of three symbols $\\{-1,0,+1\\}$, so the cost of a ternary model is conventionally referenced to the information-theoretic $\\log_2 3 \\approx 1.585$ bits per weight. The prevailing deployment format packs five ternary weights into one byte (five-trit packing), and due to the power-of-two group sizes used in practice this rounds up to $1.625$ bits per weight. This effective storage bit-width treats the three symbols $\\{-1,0,+1\\}$ as equiprobable. We measure the actual symbol distribution of 29 ternary LLM models and find that zeros account for up to $51.5\\%$ of all weights. Motivated by this finding, we introduce BITCOS, a simple distribution-adaptive layout comprised of a dense presence bitmap plus a compacted sign vector, and costs $2 - z$ bits per weight element given a zero density $z$ in the model&#39;s weights. BITCOS stores weights more compactly than the five-trit packing in 26 of the 29 tested models, and reaches $1.485$ bits per weight on the sparsest of them. BITCOS is amenable to efficient unpacking on modern processors and GPUs, and we present optimized unpacking sequences for AVX-512, AVX2 and Intel Xe2 GPUs. Measured against production state-of-the-art ternary matrix-vector multiplication kernels, at the zero densities real-world ternary models exhibit, the realized gain with our proposed layout is up to $1.28\\times$. Finally, we illustrate end-to-end LLM inference results on 5 different platforms (client and server CPUs, integrated and discrete Xe2 GPUs) where decode throughput improves by up to $1.18\\times$ on CPUs and $1.27\\times$ on GPUs.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "191 points · 29 comments"
       }
     ],
     "2026-09-15": [
@@ -50,12 +92,20 @@
         "description": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
         "source": "blog.google",
-        "stats": "383 points · 247 comments"
+        "stats": "482 points · 322 comments"
+      },
+      {
+        "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+        "description": "468 points · 615 comments",
+        "image": "",
+        "source": "dank.systems",
+        "stats": ""
       },
       {
         "url": "https://codyho.dev/blog/gpu-driver/",
         "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-        "description": "271 points · 164 comments",
+        "description": "412 points · 268 comments",
         "image": "",
         "source": "codyho.dev",
         "stats": ""
@@ -66,15 +116,7 @@
         "description": "“AI agents” now have enough power and permission to be extremely annoying online.",
         "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg",
         "source": "404media.co",
-        "stats": "219 points · 159 comments"
-      },
-      {
-        "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-        "description": "178 points · 194 comments",
-        "image": "",
-        "source": "dank.systems",
-        "stats": ""
+        "stats": "229 points · 168 comments"
       },
       {
         "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
@@ -82,7 +124,7 @@
         "description": "After an OpenAI model hacked it, Hugging Face wants the agents&#039; full execution traces and $100mn of compute. OpenAI has not agreed to either demand.",
         "image": "https://media.thenextweb.com/2026/07/Hugging-Face-breach.jpg",
         "source": "thenextweb.com",
-        "stats": "143 points · 47 comments"
+        "stats": "147 points · 51 comments"
       }
     ],
     "2026-09-14": [
@@ -92,39 +134,23 @@
         "description": "The Israeli Effective Altruist firm Irregular caused unsecured AI models to hack real targets.",
         "image": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png",
         "source": "effort.news",
-        "stats": "593 points · 202 comments"
+        "stats": "672 points · 238 comments"
       },
       {
-        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-        "description": "Today Reuters and the Wall Street Journal both reported about rogue AI agents at OpenAI attacking RubyGems.org. https://www.rubyhack.ai/ has an amazing writeup, and you should read it. I just wanted to make a quick post about it because it’s wild.\nTL;DR: It seems like OpenAI Bots knew about the RubyGems caching vulnerability, tried to take advantage of it, and at the same time ran some weird web scraping code on RubyDoc.info.\nBack in May, socket.dev reported about a “GemStuffer Campaign” where someone (I guess OpenAI) was uploading tons of junk gems to RubyGems.org. For some reason, the gems would scrape UK government websites, then repackage the data as gems, and attempt to upload them to RubyGems.",
-        "image": "",
-        "source": "tenderlovemaking.com",
-        "stats": "507 points · 415 comments"
+        "url": "https://arxiv.org/abs/2511.07885",
+        "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+        "description": "Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances create an opportunity to rethink it: small, local LMs (&lt;=20B active parameters) now achieve competitive performance to frontier models on many tasks, and local accelerators (e.g., Apple M4 Max) can host these models at interactive latencies. This raises the question: can local inference viably redistribute demand from centralized infrastructure? This requires measuring both whether local LMs can accurately answer real-world queries and whether they can do so efficiently on power-constrained devices (e.g., laptops). We propose intelligence per watt (IPW), task accuracy per unit of power, as a unified metric for the capability and efficiency of local inference across model-accelerator configurations. We evaluate 20+ state-of-the-art local LMs, 8 hardware accelerators (local and cloud), and 1M real-world single-turn chat and reasoning queries. For each query, we measure accuracy (local LM win rate against frontier models), energy, latency, and power. We find three key results. First, local LMs successfully answer 88.7% of these queries, with accuracy varying by domain. Second, longitudinal analysis from 2023-2025 shows IPW improved 5.3x, driven by both algorithmic and accelerator advances, with locally-serviceable query coverage rising from 23.2% to 71.3%. Third, local accelerators achieve at least 1.4x lower IPW than cloud accelerators running identical models, revealing significant headroom for local accelerator optimization. These findings demonstrate that local inference can meaningfully redistribute demand from centralized infrastructure for a substantial subset of queries, with IPW serving as the critical metric for tracking this transition.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "164 points · 62 comments"
       },
       {
-        "url": "https://andonlabs.com/blog/why-we-built-pion",
-        "title": "Pion, an agent designed to run any company autonomously",
-        "description": "Pion is the platform we built to run our autonomous businesses. Today we are opening it up so many more people can experiment with autonomous businesses, and here is why.",
-        "image": "https://andonlabs.com/pion.og.webp",
-        "source": "andonlabs.com",
-        "stats": "483 points · 592 comments"
-      },
-      {
-        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-        "description": "Code sleuth &quot;pdfu&quot; has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.",
-        "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
-        "source": "macrumors.com",
-        "stats": "225 points · 161 comments"
-      },
-      {
-        "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-        "description": "216 points · 217 comments",
-        "image": "",
-        "source": "law.justia.com",
-        "stats": ""
+        "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+        "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+        "description": "My brother and I spent a lot of time designing our eBPF security agent to be really fast from the ground up, but recently we discovered we could make it much faster using memoization!\nA couple of weeks ago, I profiled the eBPF code and found that the most expensive part of the protection isn’t actually enforcing a policy (allow/deny), but figuring out which policy applies to a given file open.",
+        "image": "https://nathannaveen.dev/",
+        "source": "nathannaveen.dev",
+        "stats": "153 points · 29 comments"
       }
     ],
     "2026-09-13": [
@@ -219,40 +245,6 @@
         "image": "",
         "source": "mathandai.org",
         "stats": ""
-      }
-    ],
-    "2026-09-10": [
-      {
-        "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-        "title": "DeepSeek v4.1 Flash",
-        "description": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.\n\n🔹 Introducing the smallest model in our new architecture family, with native visual understanding.\n🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models.\n\n1/6",
-        "image": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "1007 points · 574 comments"
-      },
-      {
-        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "title": "OpenAI Agents API",
-        "description": "Build durable cloud agents with a managed Codex harness.",
-        "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png",
-        "source": "developers.openai.com",
-        "stats": "345 points · 183 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "title": "Detecting and countering misuse of AI: September 2026",
-        "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "181 points · 239 comments"
-      },
-      {
-        "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-        "title": "AI Is Breaking This Thing We Call Trust",
-        "description": "AI-generated work can look finished without being understood. That uncertainty erodes trust, slows reviews, and leaves colleagues doing the missing work.",
-        "image": "https://i0.wp.com/terriblesoftware.org/wp-content/uploads/2026/09/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2lzMTkzODMtaW1hZ2Uta3d2d3MwemwuanBn.webp?fit=1024%2C683&#038;ssl=1",
-        "source": "terriblesoftware.org",
-        "stats": "123 points · 71 comments"
       }
     ]
   }
