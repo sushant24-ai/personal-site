@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-17T07:23:27.803Z",
+  "lastUpdated": "2026-09-18T07:13:06.096Z",
   "days": {
+    "2026-09-18": [
+      {
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "title": "Hacking OpenAI",
+        "description": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories",
+        "image": "https://www.hacktron.ai/_astro/CwjuS_y3.png",
+        "source": "hacktron.ai",
+        "stats": "266 points · 91 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2609.17817",
+        "title": "Reflections on Trusting Trust, Revisited: Poisoning Self-Modifying AI Coding",
+        "description": "Thompson&#39;s &#34;Reflections on Trusting Trust&#34; showed that a compiler can be poisoned to reinsert its own backdoor, so that even recompiling clean source reproduces the Trojan. Today, substantial coding work is done by AI coding agents -- and increasingly, those agents generate new versions of themselves. We reconsider Thompson&#39;s attack when the &#34;compiler&#34; is a self-modifying coding agent. Can an adversary supply poisoned benchmarks to the agent&#39;s self-evaluation and self-improvement process to induce future versions of the agent to write vulnerable code on clean, held-out tasks? We instantiate this attack against three recently proposed self-modifying coding agents: the Darwin Gödel Machine (with our experimental modifications), the Self-Improving Coding Agent, and Hyperagents (both substantively unmodified). We demonstrate successful proofs-of-concept: for example, with Hyperagents powered by Sonnet 4.5, our poisoned benchmark leads the agent to self-evolve instructions that disable HTTPS certificate validation on neutral URL-fetching tasks. From our experiments, we distill properties of the vulnerability, benchmark, model, and agent scaffolding that are sufficient to enable a benchmark poisoning attack. Moreover, we show that contamination often persists even when a poisoned agent is subsequently evolved against clean benchmarks. We discuss defensive directions and argue that self-modifying coding agents must be designed to be more resilient to such attacks.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://pdf4wcag.com/blog-news/how-can-ai-help-pdf",
+        "title": "How can AI help PDF?",
+        "description": "Validate PDF documents against WCAG, PDF/UA and other accessibility standards",
+        "image": "",
+        "source": "pdf4wcag.com",
+        "stats": "3 points · 3 comments"
+      },
+      {
+        "url": "https://twitter.com/deredleritt3r/status/2100608983492862201",
+        "title": "GPT-6 Astra solves 1918 ciphertext message from WW1",
+        "description": "GPT-6 Astra deciphered a 1918 German radio transmission that, to my knowledge, has never been deciphered before.\n\nThe message below translates to:\n\n&quot;EIN ENGLISCHER KREUZER EINLIEG X SEWASTOPOL X S4STEN X EIN GESCHWADER DER X ALLIIERTEN FOLGT 26STEN X&quot;\n\nor, in English:\n\n&quot;AN ENGLISH CRUISER ARRIVED A…",
+        "image": "https://pbs.twimg.com/media/HSba7_OXAAA0VR9?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+        "title": "'Doom Loop': OpenAI and Microsoft Admits LLMs Are Destroying the Web",
+        "description": "&quot;Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.&quot;",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-17-at-2.48.18-PM@2x-1.png",
+        "source": "404media.co",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-09-17": [
       {
-        "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-        "description": "A deep dive into the DeepSeek-V4.1 Flash technical report: CED, CSA2, HSI, Single-Pass mHC, Engram and FP4 KV Cache — how the KV cache was compressed to just 890 bytes per token.",
+        "url": "https://bend-lang.com/",
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "description": "Bend: a fast language that blocks AI mistakes via proof.",
         "image": "",
-        "source": "zartbot.github.io",
-        "stats": "110 points · 8 comments"
+        "source": "bend-lang.com",
+        "stats": "415 points · 199 comments"
       },
       {
-        "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-        "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
-        "description": "68 points · 68 comments",
-        "image": "",
-        "source": "nytimes.com",
+        "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+        "title": "How GLM built its own inference infrastructure",
+        "description": "388 points · 270 comments",
+        "image": "https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/glm-built-its-inference-infrastructure/20260917-143951.jpeg?w=1376&amp;h=768&amp;fit=fill",
+        "source": "z.ai",
         "stats": ""
       },
       {
-        "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
-        "title": "OpenAI discloses six new AI safety incidents",
-        "description": "25 points · 7 comments",
+        "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+        "title": "Sex, AI, and the Apocalypse",
+        "description": "How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.",
+        "image": "https://iankduncan.com/portrait.jpg",
+        "source": "iankduncan.com",
+        "stats": "198 points · 197 comments"
+      },
+      {
+        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+        "title": "AI safety is mostly a sex cult",
+        "description": "290 points · 236 comments",
         "image": "",
-        "source": "axios.com",
+        "source": "skywriter.blue",
         "stats": ""
       },
       {
-        "url": "https://github.com/browser-use/jev-ultrafast",
-        "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-        "description": "Contribute to browser-use/jev-ultrafast development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/910dc6c4c46b8906f55fa9811748a5f0f524676bed7795351263ff2325334449/browser-use/jev-ultrafast",
-        "source": "github.com",
-        "stats": "28 points · 2 comments"
-      },
-      {
-        "url": "https://www.pangram.com",
-        "title": "Pangram – AI detector for text and images",
-        "description": "AI Detector for ChatGPT, Gemini &amp; Claude — Remarkably Accurate. Detect AI-generated text in essays, articles &amp; documents. Third-party verified results.",
-        "image": "https://pangram-public.s3.us-east-1.amazonaws.com/web/Home+Page/og-pangram.png",
-        "source": "pangram.com",
-        "stats": "25 points · 21 comments"
+        "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+        "title": "I Don't Like LLMs",
+        "description": "212 points · 249 comments",
+        "image": "",
+        "source": "martinfowler.com",
+        "stats": ""
       }
     ],
     "2026-09-16": [
@@ -50,7 +92,7 @@
         "description": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise&#x2d;grade toolchains, and NVIDIA will be growing and maturing CUDA&#8230;",
         "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp",
         "source": "developer.nvidia.com",
-        "stats": "580 points · 215 comments"
+        "stats": "940 points · 393 comments"
       },
       {
         "url": "https://mistral.ai/news/mistral-x-mozilla/",
@@ -58,7 +100,7 @@
         "description": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
         "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
         "source": "mistral.ai",
-        "stats": "562 points · 192 comments"
+        "stats": "582 points · 204 comments"
       },
       {
         "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
@@ -66,7 +108,7 @@
         "description": "The lead of the ongoing PS5 Linux project has left the homebrew scene following the wave of AI vibe-coders joining open-source spaces.",
         "image": "https://frvr.com/wp-content/uploads/2026/09/ps5-linux-lead-leavs.jpg",
         "source": "frvr.com",
-        "stats": "311 points · 215 comments"
+        "stats": "325 points · 224 comments"
       },
       {
         "url": "https://claude.com/blog/cowork-is-now-claude",
@@ -74,7 +116,7 @@
         "description": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.",
         "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aaaa16ed688635ea2b10fa1_tn-artifacts.jpg",
         "source": "claude.com",
-        "stats": "215 points · 221 comments"
+        "stats": "230 points · 226 comments"
       },
       {
         "url": "https://arxiv.org/abs/2609.16338",
@@ -82,7 +124,7 @@
         "description": "Ternary Large Language Models (LLM) store every weight as one of three symbols $\\{-1,0,+1\\}$, so the cost of a ternary model is conventionally referenced to the information-theoretic $\\log_2 3 \\approx 1.585$ bits per weight. The prevailing deployment format packs five ternary weights into one byte (five-trit packing), and due to the power-of-two group sizes used in practice this rounds up to $1.625$ bits per weight. This effective storage bit-width treats the three symbols $\\{-1,0,+1\\}$ as equiprobable. We measure the actual symbol distribution of 29 ternary LLM models and find that zeros account for up to $51.5\\%$ of all weights. Motivated by this finding, we introduce BITCOS, a simple distribution-adaptive layout comprised of a dense presence bitmap plus a compacted sign vector, and costs $2 - z$ bits per weight element given a zero density $z$ in the model&#39;s weights. BITCOS stores weights more compactly than the five-trit packing in 26 of the 29 tested models, and reaches $1.485$ bits per weight on the sparsest of them. BITCOS is amenable to efficient unpacking on modern processors and GPUs, and we present optimized unpacking sequences for AVX-512, AVX2 and Intel Xe2 GPUs. Measured against production state-of-the-art ternary matrix-vector multiplication kernels, at the zero densities real-world ternary models exhibit, the realized gain with our proposed layout is up to $1.28\\times$. Finally, we illustrate end-to-end LLM inference results on 5 different platforms (client and server CPUs, integrated and discrete Xe2 GPUs) where decode throughput improves by up to $1.18\\times$ on CPUs and $1.27\\times$ on GPUs.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "191 points · 29 comments"
+        "stats": "239 points · 38 comments"
       }
     ],
     "2026-09-15": [
@@ -129,28 +171,12 @@
     ],
     "2026-09-14": [
       {
-        "url": "https://www.effort.news/irregular",
-        "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-        "description": "The Israeli Effective Altruist firm Irregular caused unsecured AI models to hack real targets.",
-        "image": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png",
-        "source": "effort.news",
-        "stats": "672 points · 238 comments"
-      },
-      {
         "url": "https://arxiv.org/abs/2511.07885",
         "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
         "description": "Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances create an opportunity to rethink it: small, local LMs (&lt;=20B active parameters) now achieve competitive performance to frontier models on many tasks, and local accelerators (e.g., Apple M4 Max) can host these models at interactive latencies. This raises the question: can local inference viably redistribute demand from centralized infrastructure? This requires measuring both whether local LMs can accurately answer real-world queries and whether they can do so efficiently on power-constrained devices (e.g., laptops). We propose intelligence per watt (IPW), task accuracy per unit of power, as a unified metric for the capability and efficiency of local inference across model-accelerator configurations. We evaluate 20+ state-of-the-art local LMs, 8 hardware accelerators (local and cloud), and 1M real-world single-turn chat and reasoning queries. For each query, we measure accuracy (local LM win rate against frontier models), energy, latency, and power. We find three key results. First, local LMs successfully answer 88.7% of these queries, with accuracy varying by domain. Second, longitudinal analysis from 2023-2025 shows IPW improved 5.3x, driven by both algorithmic and accelerator advances, with locally-serviceable query coverage rising from 23.2% to 71.3%. Third, local accelerators achieve at least 1.4x lower IPW than cloud accelerators running identical models, revealing significant headroom for local accelerator optimization. These findings demonstrate that local inference can meaningfully redistribute demand from centralized infrastructure for a substantial subset of queries, with IPW serving as the critical metric for tracking this transition.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "164 points · 62 comments"
-      },
-      {
-        "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-        "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-        "description": "My brother and I spent a lot of time designing our eBPF security agent to be really fast from the ground up, but recently we discovered we could make it much faster using memoization!\nA couple of weeks ago, I profiled the eBPF code and found that the most expensive part of the protection isn’t actually enforcing a policy (allow/deny), but figuring out which policy applies to a given file open.",
-        "image": "https://nathannaveen.dev/",
-        "source": "nathannaveen.dev",
-        "stats": "153 points · 29 comments"
+        "stats": "167 points · 65 comments"
       }
     ],
     "2026-09-13": [
@@ -235,16 +261,6 @@
         "image": "https://agentsdock.net/assets/og-card.png?v=35d35082",
         "source": "agentsdock.net",
         "stats": "80 points · 32 comments"
-      }
-    ],
-    "2026-09-11": [
-      {
-        "url": "https://mathandai.org/",
-        "title": "A misalignment of AI in mathematics",
-        "description": "1231 points · 1213 comments",
-        "image": "",
-        "source": "mathandai.org",
-        "stats": ""
       }
     ]
   }
