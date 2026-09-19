@@ -1,63 +1,121 @@
 {
-  "lastUpdated": "2026-09-18T07:13:06.096Z",
+  "lastUpdated": "2026-09-19T07:10:19.914Z",
   "days": {
+    "2026-09-19": [
+      {
+        "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+        "title": "Gemini hacked three companies in first known breakout by Google's AI",
+        "description": "50 points · 57 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+        "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "description": "12 points · 1 comments",
+        "image": "",
+        "source": "newsroom.usra.edu",
+        "stats": ""
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+        "description": "But the military&#039;s overall use of AI seems to be accelerating.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "7 points · 2 comments"
+      },
+      {
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "description": "Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.",
+        "image": "https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg",
+        "source": "prinzai.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
+        "source": "bbc.co.uk",
+        "stats": "6 points · 0 comments"
+      }
+    ],
     "2026-09-18": [
       {
+        "url": "https://code.claude.com/docs/en/changelog",
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "description": "Release notes for Claude Code, including new features, improvements, and bug fixes by version.",
+        "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DClaude%2BCode%2Bchangelog%26description%3DRelease%2Bnotes%2Bfor%2BClaude%2BCode%252C%2Bincluding%2Bnew%2Bfeatures%252C%2Bimprovements%252C%2Band%2Bbug%2Bfixes%2Bby%2Bversion.%26theme%3D03628e99c753a03aec319053&amp;w=1200&amp;q=100",
+        "source": "code.claude.com",
+        "stats": "628 points · 222 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+        "description": "Newly unsealed court filings show Microsoft privately called OpenAI&#039;s data practices &quot;theft&quot; while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+        "source": "techcrunch.com",
+        "stats": "882 points · 781 comments"
+      },
+      {
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+        "title": "US Military had close call after using AI for hallucinated intelligence report",
+        "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&q=w_800,c_fill",
+        "source": "cnn.com",
+        "stats": "440 points · 331 comments"
+      },
+      {
         "url": "https://www.hacktron.ai/blog/hacking-openai",
-        "title": "Hacking OpenAI",
+        "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
         "description": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories",
         "image": "https://www.hacktron.ai/_astro/CwjuS_y3.png",
         "source": "hacktron.ai",
-        "stats": "266 points · 91 comments"
+        "stats": "477 points · 200 comments"
       },
       {
-        "url": "https://arxiv.org/abs/2609.17817",
-        "title": "Reflections on Trusting Trust, Revisited: Poisoning Self-Modifying AI Coding",
-        "description": "Thompson&#39;s &#34;Reflections on Trusting Trust&#34; showed that a compiler can be poisoned to reinsert its own backdoor, so that even recompiling clean source reproduces the Trojan. Today, substantial coding work is done by AI coding agents -- and increasingly, those agents generate new versions of themselves. We reconsider Thompson&#39;s attack when the &#34;compiler&#34; is a self-modifying coding agent. Can an adversary supply poisoned benchmarks to the agent&#39;s self-evaluation and self-improvement process to induce future versions of the agent to write vulnerable code on clean, held-out tasks? We instantiate this attack against three recently proposed self-modifying coding agents: the Darwin Gödel Machine (with our experimental modifications), the Self-Improving Coding Agent, and Hyperagents (both substantively unmodified). We demonstrate successful proofs-of-concept: for example, with Hyperagents powered by Sonnet 4.5, our poisoned benchmark leads the agent to self-evolve instructions that disable HTTPS certificate validation on neutral URL-fetching tasks. From our experiments, we distill properties of the vulnerability, benchmark, model, and agent scaffolding that are sufficient to enable a benchmark poisoning attack. Moreover, we show that contamination often persists even when a poisoned agent is subsequently evolved against clean benchmarks. We discuss defensive directions and argue that self-modifying coding agents must be designed to be more resilient to such attacks.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "4 points · 0 comments"
-      },
-      {
-        "url": "https://pdf4wcag.com/blog-news/how-can-ai-help-pdf",
-        "title": "How can AI help PDF?",
-        "description": "Validate PDF documents against WCAG, PDF/UA and other accessibility standards",
+        "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+        "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+        "description": "201 points · 170 comments",
         "image": "",
-        "source": "pdf4wcag.com",
-        "stats": "3 points · 3 comments"
-      },
-      {
-        "url": "https://twitter.com/deredleritt3r/status/2100608983492862201",
-        "title": "GPT-6 Astra solves 1918 ciphertext message from WW1",
-        "description": "GPT-6 Astra deciphered a 1918 German radio transmission that, to my knowledge, has never been deciphered before.\n\nThe message below translates to:\n\n&quot;EIN ENGLISCHER KREUZER EINLIEG X SEWASTOPOL X S4STEN X EIN GESCHWADER DER X ALLIIERTEN FOLGT 26STEN X&quot;\n\nor, in English:\n\n&quot;AN ENGLISH CRUISER ARRIVED A…",
-        "image": "https://pbs.twimg.com/media/HSba7_OXAAA0VR9?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "2 points · 0 comments"
-      },
-      {
-        "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
-        "title": "'Doom Loop': OpenAI and Microsoft Admits LLMs Are Destroying the Web",
-        "description": "&quot;Millions of people around the world will soon consider large models ‘hoovering up’ all their work to be an astonishing theft of unprecedented proportions.&quot;",
-        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-17-at-2.48.18-PM@2x-1.png",
-        "source": "404media.co",
-        "stats": "2 points · 0 comments"
+        "source": "lawandcrime.com",
+        "stats": ""
       }
     ],
     "2026-09-17": [
       {
         "url": "https://bend-lang.com/",
-        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
         "description": "Bend: a fast language that blocks AI mistakes via proof.",
         "image": "",
         "source": "bend-lang.com",
-        "stats": "415 points · 199 comments"
+        "stats": "598 points · 304 comments"
+      },
+      {
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "title": "How to Write with an LLM",
+        "description": "Two rules keep an LLM from pasteurizing your writing: never take a word it suggests, and never let it encourage you. Then hand it all the tedious work.",
+        "image": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg",
+        "source": "sockpuppet.org",
+        "stats": "468 points · 314 comments"
       },
       {
         "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
         "title": "How GLM built its own inference infrastructure",
-        "description": "388 points · 270 comments",
+        "description": "402 points · 280 comments",
         "image": "https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/glm-built-its-inference-infrastructure/20260917-143951.jpeg?w=1376&amp;h=768&amp;fit=fill",
         "source": "z.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+        "title": "AI safety is mostly a sex cult",
+        "description": "313 points · 266 comments",
+        "image": "",
+        "source": "skywriter.blue",
         "stats": ""
       },
       {
@@ -66,23 +124,7 @@
         "description": "How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.",
         "image": "https://iankduncan.com/portrait.jpg",
         "source": "iankduncan.com",
-        "stats": "198 points · 197 comments"
-      },
-      {
-        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-        "title": "AI safety is mostly a sex cult",
-        "description": "290 points · 236 comments",
-        "image": "",
-        "source": "skywriter.blue",
-        "stats": ""
-      },
-      {
-        "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-        "title": "I Don't Like LLMs",
-        "description": "212 points · 249 comments",
-        "image": "",
-        "source": "martinfowler.com",
-        "stats": ""
+        "stats": "220 points · 265 comments"
       }
     ],
     "2026-09-16": [
@@ -92,81 +134,25 @@
         "description": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise&#x2d;grade toolchains, and NVIDIA will be growing and maturing CUDA&#8230;",
         "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp",
         "source": "developer.nvidia.com",
-        "stats": "940 points · 393 comments"
+        "stats": "958 points · 402 comments"
       },
       {
-        "url": "https://mistral.ai/news/mistral-x-mozilla/",
-        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-        "description": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
-        "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
-        "source": "mistral.ai",
-        "stats": "582 points · 204 comments"
-      },
-      {
-        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-        "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-        "description": "The lead of the ongoing PS5 Linux project has left the homebrew scene following the wave of AI vibe-coders joining open-source spaces.",
-        "image": "https://frvr.com/wp-content/uploads/2026/09/ps5-linux-lead-leavs.jpg",
-        "source": "frvr.com",
-        "stats": "325 points · 224 comments"
-      },
-      {
-        "url": "https://claude.com/blog/cowork-is-now-claude",
-        "title": "Claude Cowork and chat are now one Claude",
-        "description": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.",
-        "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aaaa16ed688635ea2b10fa1_tn-artifacts.jpg",
-        "source": "claude.com",
-        "stats": "230 points · 226 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2609.16338",
-        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-        "description": "Ternary Large Language Models (LLM) store every weight as one of three symbols $\\{-1,0,+1\\}$, so the cost of a ternary model is conventionally referenced to the information-theoretic $\\log_2 3 \\approx 1.585$ bits per weight. The prevailing deployment format packs five ternary weights into one byte (five-trit packing), and due to the power-of-two group sizes used in practice this rounds up to $1.625$ bits per weight. This effective storage bit-width treats the three symbols $\\{-1,0,+1\\}$ as equiprobable. We measure the actual symbol distribution of 29 ternary LLM models and find that zeros account for up to $51.5\\%$ of all weights. Motivated by this finding, we introduce BITCOS, a simple distribution-adaptive layout comprised of a dense presence bitmap plus a compacted sign vector, and costs $2 - z$ bits per weight element given a zero density $z$ in the model&#39;s weights. BITCOS stores weights more compactly than the five-trit packing in 26 of the 29 tested models, and reaches $1.485$ bits per weight on the sparsest of them. BITCOS is amenable to efficient unpacking on modern processors and GPUs, and we present optimized unpacking sequences for AVX-512, AVX2 and Intel Xe2 GPUs. Measured against production state-of-the-art ternary matrix-vector multiplication kernels, at the zero densities real-world ternary models exhibit, the realized gain with our proposed layout is up to $1.28\\times$. Finally, we illustrate end-to-end LLM inference results on 5 different platforms (client and server CPUs, integrated and discrete Xe2 GPUs) where decode throughput improves by up to $1.18\\times$ on CPUs and $1.27\\times$ on GPUs.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "239 points · 38 comments"
+        "url": "https://openspec.dev/",
+        "title": "OpenSpec – A lightweight and configurable AI spec framework",
+        "description": "OpenSpec helps teams and coding agents create, refine, and manage living specifications.",
+        "image": "https://openspec.dev/og-card.jpg",
+        "source": "openspec.dev",
+        "stats": "197 points · 98 comments"
       }
     ],
     "2026-09-15": [
       {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-        "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "description": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
-        "source": "blog.google",
-        "stats": "482 points · 322 comments"
-      },
-      {
-        "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-        "description": "468 points · 615 comments",
+        "url": "https://antfly.io/research/antfly-zig",
+        "title": "A search-and-inference database from scratch in pure Zig",
+        "description": "Why we rewrote Antfly&#x27;s Go engine in Zig while the startup was still early: first principles, caring about the model instead of the embeddings, TigerBeetle-style simulation testing, and what the rewrite made possible.",
         "image": "",
-        "source": "dank.systems",
-        "stats": ""
-      },
-      {
-        "url": "https://codyho.dev/blog/gpu-driver/",
-        "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-        "description": "412 points · 268 comments",
-        "image": "",
-        "source": "codyho.dev",
-        "stats": ""
-      },
-      {
-        "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-        "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-        "description": "“AI agents” now have enough power and permission to be extremely annoying online.",
-        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg",
-        "source": "404media.co",
-        "stats": "229 points · 168 comments"
-      },
-      {
-        "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-        "title": "Hugging Face is billing OpenAI $100M for hacking it",
-        "description": "After an OpenAI model hacked it, Hugging Face wants the agents&#039; full execution traces and $100mn of compute. OpenAI has not agreed to either demand.",
-        "image": "https://media.thenextweb.com/2026/07/Hugging-Face-breach.jpg",
-        "source": "thenextweb.com",
-        "stats": "147 points · 51 comments"
+        "source": "antfly.io",
+        "stats": "56 points · 18 comments"
       }
     ],
     "2026-09-14": [
@@ -219,48 +205,6 @@
         "image": "https://imagedelivery.net/qIvImu8MgTZD-kGvW-i83w/production.gdh/3130fc04-e931-4e08-8187-d3e367e47ba4/w=1200,h=630,fit=cover,gravity=auto,quality=85",
         "source": "clashreport.com",
         "stats": "102 points · 91 comments"
-      }
-    ],
-    "2026-09-12": [
-      {
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "title": "Nvidia is the central bank of AI",
-        "description": "567 points · 391 comments",
-        "image": "",
-        "source": "economist.com",
-        "stats": ""
-      },
-      {
-        "url": "https://withspecific.com/benchmarks/real-swe",
-        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-        "description": "Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.",
-        "image": "",
-        "source": "withspecific.com",
-        "stats": "270 points · 149 comments"
-      },
-      {
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-        "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "101 points · 65 comments"
-      },
-      {
-        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-        "title": "The worst spam emails: iLands AI agent hustle",
-        "description": "iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\n    ",
-        "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F09%2F11%2Filands-agents-email-spam-kaixin-tang%2F/opengraph/?v=1789176752",
-        "source": "tedium.co",
-        "stats": "124 points · 56 comments"
-      },
-      {
-        "url": "https://agentsdock.net/",
-        "title": "AgentsDock: An IDE designed for agentic AI research",
-        "description": "An IDE designed for agentic AI research. Run Claude Code, Codex, and Cursor on your own machine in one desktop and mobile workspace — from any device.",
-        "image": "https://agentsdock.net/assets/og-card.png?v=35d35082",
-        "source": "agentsdock.net",
-        "stats": "80 points · 32 comments"
       }
     ]
   }
