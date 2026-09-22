@@ -1,38 +1,72 @@
 {
-  "lastUpdated": "2026-09-21T07:47:12.640Z",
+  "lastUpdated": "2026-09-22T07:30:21.092Z",
   "days": {
+    "2026-09-22": [
+      {
+        "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+        "title": "Claude Status – Elevated errors for multiple models",
+        "description": "Claude&#39;s Status Page - Elevated errors for multiple models.",
+        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+        "source": "status.claude.com",
+        "stats": "95 points · 73 comments"
+      },
+      {
+        "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+        "description": "Zelda Williams is calling for fans to stop circulating AI-generated videos of her late father, Robin Williams.",
+        "image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg?w=1000&#038;h=563&#038;crop=1",
+        "source": "variety.com",
+        "stats": "83 points · 52 comments"
+      },
+      {
+        "url": "https://nathan.rs/posts/gzip-lm/",
+        "title": "Can gzip be a language model?",
+        "description": "A while back I wrote about language modeling without neural networks, where I generated Shakespeare with an unbounded n-gram model: no weights, no training, …",
+        "image": "",
+        "source": "nathan.rs",
+        "stats": "19 points · 0 comments"
+      },
+      {
+        "url": "https://simonwillison.net/2026/Sep/21/jev/",
+        "title": "Jev introduces a new shape of LLM",
+        "description": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling “System One models” (I’m with Maggie Appleton, I think “decision models” …",
+        "image": "",
+        "source": "simonwillison.net",
+        "stats": "16 points · 1 comments"
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+        "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+        "description": "OpenAI’s proof seems eligible for a $1-million prize—but only by using a controversial loophole",
+        "image": "https://static.scientificamerican.com/dam/asset/f5a85a12-d9e9-4edc-a45f-cc0b170995cf/water-wall.jpg?m=1790009681.499&w=1200",
+        "source": "scientificamerican.com",
+        "stats": "16 points · 0 comments"
+      }
+    ],
     "2026-09-21": [
       {
-        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-        "description": "72 points · 29 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
+        "url": "https://poloclub.github.io/transformer-explainer/",
+        "title": "Transformers Explained Visually",
+        "description": "An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.",
+        "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
+        "source": "poloclub.github.io",
+        "stats": "352 points · 54 comments"
       },
       {
-        "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
-        "title": "The president wanted to unleash AI. Then came Anthropic",
-        "description": "10 points · 1 comments",
-        "image": "",
-        "source": "politico.com",
-        "stats": ""
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "description": "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.",
+        "image": "https://webassets.linear.app/images/ornj730p/production/eba763cf034ad5e7b5d75ceec7ba560dd2aea5cb-2400x1350.png?q=95&amp;auto=format&amp;dpr=2",
+        "source": "linear.app",
+        "stats": "214 points · 223 comments"
       },
       {
-        "url": "https://old.reddit.com/r/codex/comments/1wkwdfl/the_end_of_the_codex_era_ive_completely_lost/",
-        "title": "OpenAI Degrading Their Models, Also for Paid Users",
-        "description": "5 points · 0 comments",
+        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+        "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+        "description": "222 points · 112 comments",
         "image": "",
-        "source": "old.reddit.com",
+        "source": "reddit.com",
         "stats": ""
-      },
-      {
-        "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
-        "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
-        "description": "As Knoxville residents soured on Flock, the company got help from Neighbors for Strong Communities, a group accused of “astroturfing.”",
-        "image": "https://theintercept.com/wp-content/uploads/2026/09/GettyImages-2293743298-e1789418465891.jpg?fit=5568%2C2784&#038;w=1200&#038;h=800",
-        "source": "theintercept.com",
-        "stats": "9 points · 0 comments"
       },
       {
         "url": "https://heretic-project.org/",
@@ -40,7 +74,15 @@
         "description": "Fully automatic censorship removal for language models",
         "image": "",
         "source": "heretic-project.org",
-        "stats": "5 points · 1 comments"
+        "stats": "249 points · 103 comments"
+      },
+      {
+        "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+        "title": "Frontier AI on Your Own Hardware",
+        "description": "In one of my classes I asked the question I was afraid to ask but I just needed the answer to: &#8220;Who is afraid of not getting a job after graduating?&#8221; About eighty percent of the 150 people in the room raised their hands. That is roughly 120 students answering, in one motion, that they [&hellip;]",
+        "image": "",
+        "source": "timdettmers.com",
+        "stats": "144 points · 75 comments"
       }
     ],
     "2026-09-20": [
@@ -50,7 +92,7 @@
         "description": "OpenAI&#x27;s ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\nAny company that buys ads on ChatGPT installs",
         "image": "",
         "source": "buchodi.com",
-        "stats": "711 points · 378 comments"
+        "stats": "755 points · 390 comments"
       },
       {
         "url": "https://agentexecutor.io",
@@ -58,7 +100,7 @@
         "description": "Declare an agentic task in YAML. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.",
         "image": "https://agentexecutor.io/axolotl.svg",
         "source": "agentexecutor.io",
-        "stats": "443 points · 174 comments"
+        "stats": "641 points · 293 comments"
       },
       {
         "url": "https://pirateface.co/",
@@ -66,62 +108,38 @@
         "description": "Open models as checksum-verified magnet links. Un-bannable, carried by the swarm.",
         "image": "https://pirateface.co/og/home",
         "source": "pirateface.co",
-        "stats": "531 points · 143 comments"
+        "stats": "549 points · 146 comments"
+      },
+      {
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+        "title": "MCP was always a bad idea?",
+        "description": "Why MCP was always a bad idea and I",
+        "image": "https://maharship.com/og-image.png",
+        "source": "maharship.com",
+        "stats": "321 points · 317 comments"
       },
       {
         "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
         "title": "AI and the Destruction of the Creative Commons",
-        "description": "229 points · 274 comments",
+        "description": "235 points · 276 comments",
         "image": "",
         "source": "chesterwisniewski.com",
         "stats": ""
-      },
-      {
-        "url": "https://softwarecrisis.dev/letters/llmentalist/",
-        "title": "The LLMentalist Effect (2023)",
-        "description": "The new era of tech seems to be built on superstitious behaviour",
-        "image": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
-        "source": "softwarecrisis.dev",
-        "stats": "183 points · 262 comments"
       }
     ],
     "2026-09-19": [
       {
         "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
         "title": "AI-generated posters don’t have to be horrible",
-        "description": "The problem",
-        "image": "",
+        "description": "Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.",
+        "image": "https://john.hartnup.uk/images/poster-bauhaus-attempt.webp",
         "source": "john.hartnup.uk",
-        "stats": "1809 points · 913 comments"
-      },
-      {
-        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "description": "Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.",
-        "image": "https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg",
-        "source": "prinzai.com",
-        "stats": "391 points · 177 comments"
-      },
-      {
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "title": "I think you should almost never use AI to write",
-        "description": "346 points · 167 comments",
-        "image": "",
-        "source": "erichgrunewald.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-        "description": "The NYT argues that OpenAI and Microsoft infringed upon its copyright over thousands of news articles.",
-        "image": "https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4-2000-80.jpg",
-        "source": "tomshardware.com",
-        "stats": "186 points · 49 comments"
+        "stats": "1863 points · 943 comments"
       },
       {
         "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
         "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-        "description": "173 points · 165 comments",
+        "description": "177 points · 185 comments",
         "image": "",
         "source": "bartosz.fenski.pl",
         "stats": ""
@@ -152,7 +170,7 @@
         "description": "Two rules keep an LLM from pasteurizing your writing: never take a word it suggests, and never let it encourage you. Then hand it all the tedious work.",
         "image": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg",
         "source": "sockpuppet.org",
-        "stats": "726 points · 404 comments"
+        "stats": "744 points · 410 comments"
       }
     ],
     "2026-09-16": [
@@ -163,16 +181,6 @@
         "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp",
         "source": "developer.nvidia.com",
         "stats": "969 points · 404 comments"
-      }
-    ],
-    "2026-09-15": [
-      {
-        "url": "https://antfly.io/research/antfly-zig",
-        "title": "A search-and-inference database from scratch in pure Zig",
-        "description": "Why we rewrote Antfly&#x27;s Go engine in Zig while the startup was still early: first principles, caring about the model instead of the embeddings, TigerBeetle-style simulation testing, and what the rewrite made possible.",
-        "image": "",
-        "source": "antfly.io",
-        "stats": "66 points · 19 comments"
       }
     ]
   }
