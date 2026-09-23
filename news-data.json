@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-22T07:30:21.092Z",
+  "lastUpdated": "2026-09-23T07:33:49.054Z",
   "days": {
+    "2026-09-23": [
+      {
+        "url": "https://twitter.com/TheAhmadOsman/status/2102535871727857915/photo/1",
+        "title": "Anthropic classifiers prohibit kernel development",
+        "description": "Anthropic are very selfish and evil people btw, they are LITERALLY stopping you from democratizing AI",
+        "image": "https://pbs.twimg.com/media/HS21AeGXUAAqwus?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "14 points · 4 comments"
+      },
+      {
+        "url": "https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443",
+        "title": "Big Banks Say They're Uneasy About People Shopping via AI Agents",
+        "description": "9 points · 2 comments",
+        "image": "",
+        "source": "gizmodo.com",
+        "stats": ""
+      },
+      {
+        "url": "https://claude-opus-5-5.riba2534.cn/",
+        "title": "Claude Opus 5.5 – Pelican Game",
+        "description": "实时 3D 海岸骑行：鹈鹕、单车、海浪、落日与一篮子鱼。",
+        "image": "https://claude-opus-5-5.riba2534.cn/pelican-ride-og.jpg",
+        "source": "claude-opus-5-5.riba2534.cn",
+        "stats": "4 points · 2 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+        "title": "Province of BC Sues OpenAI and Sam Altman over Tumbler Ridge School Shooting",
+        "description": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use",
+        "image": "https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b664c0ecb6d5e9ef3a6df20be4ba800a",
+        "source": "theguardian.com",
+        "stats": "4 points · 4 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49812392",
+        "title": "Ask HN: Engineers on highly polished products, how are you using agentic coding?",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-09-22": [
       {
-        "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-        "title": "Claude Status – Elevated errors for multiple models",
-        "description": "Claude&#39;s Status Page - Elevated errors for multiple models.",
-        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-        "source": "status.claude.com",
-        "stats": "95 points · 73 comments"
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "title": "Claude Opus 5.5",
+        "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "1463 points · 915 comments"
       },
       {
-        "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-        "description": "Zelda Williams is calling for fans to stop circulating AI-generated videos of her late father, Robin Williams.",
-        "image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg?w=1000&#038;h=563&#038;crop=1",
-        "source": "variety.com",
-        "stats": "83 points · 52 comments"
-      },
-      {
-        "url": "https://nathan.rs/posts/gzip-lm/",
-        "title": "Can gzip be a language model?",
-        "description": "A while back I wrote about language modeling without neural networks, where I generated Shakespeare with an unbounded n-gram model: no weights, no training, …",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "title": "GPT-6 Sol and Luna",
+        "description": "1453 points · 698 comments",
         "image": "",
-        "source": "nathan.rs",
-        "stats": "19 points · 0 comments"
+        "source": "openai.com",
+        "stats": ""
       },
       {
-        "url": "https://simonwillison.net/2026/Sep/21/jev/",
-        "title": "Jev introduces a new shape of LLM",
-        "description": "Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling “System One models” (I’m with Maggie Appleton, I think “decision models” …",
+        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+        "description": "643 points · 382 comments",
         "image": "",
-        "source": "simonwillison.net",
-        "stats": "16 points · 1 comments"
+        "source": "cryptocellar.org",
+        "stats": ""
       },
       {
-        "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-        "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-        "description": "OpenAI’s proof seems eligible for a $1-million prize—but only by using a controversial loophole",
-        "image": "https://static.scientificamerican.com/dam/asset/f5a85a12-d9e9-4edc-a45f-cc0b170995cf/water-wall.jpg?m=1790009681.499&w=1200",
-        "source": "scientificamerican.com",
-        "stats": "16 points · 0 comments"
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+        "description": "593 points · 297 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+        "title": "OpenAI is well positioned to fast-follow Jev",
+        "description": "TypeSafe",
+        "image": "http://arcturus-labs.com/blog/assets/will-openai-eat-jevs-lunch/hero.jpg",
+        "source": "arcturus-labs.com",
+        "stats": "286 points · 205 comments"
       }
     ],
     "2026-09-21": [
@@ -50,7 +92,7 @@
         "description": "An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.",
         "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
         "source": "poloclub.github.io",
-        "stats": "352 points · 54 comments"
+        "stats": "611 points · 87 comments"
       },
       {
         "url": "https://linear.app/now/ci-bottleneck-reworked",
@@ -58,12 +100,12 @@
         "description": "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.",
         "image": "https://webassets.linear.app/images/ornj730p/production/eba763cf034ad5e7b5d75ceec7ba560dd2aea5cb-2400x1350.png?q=95&amp;auto=format&amp;dpr=2",
         "source": "linear.app",
-        "stats": "214 points · 223 comments"
+        "stats": "311 points · 387 comments"
       },
       {
         "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
         "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-        "description": "222 points · 112 comments",
+        "description": "236 points · 121 comments",
         "image": "",
         "source": "reddit.com",
         "stats": ""
@@ -74,7 +116,7 @@
         "description": "Fully automatic censorship removal for language models",
         "image": "",
         "source": "heretic-project.org",
-        "stats": "249 points · 103 comments"
+        "stats": "269 points · 109 comments"
       },
       {
         "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
@@ -82,49 +124,33 @@
         "description": "In one of my classes I asked the question I was afraid to ask but I just needed the answer to: &#8220;Who is afraid of not getting a job after graduating?&#8221; About eighty percent of the 150 people in the room raised their hands. That is roughly 120 students answering, in one motion, that they [&hellip;]",
         "image": "",
         "source": "timdettmers.com",
-        "stats": "144 points · 75 comments"
+        "stats": "179 points · 102 comments"
       }
     ],
     "2026-09-20": [
-      {
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "description": "OpenAI&#x27;s ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\nAny company that buys ads on ChatGPT installs",
-        "image": "",
-        "source": "buchodi.com",
-        "stats": "755 points · 390 comments"
-      },
       {
         "url": "https://agentexecutor.io",
         "title": "AX – Google’s Open Agentic Orchestrator",
         "description": "Declare an agentic task in YAML. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.",
         "image": "https://agentexecutor.io/axolotl.svg",
         "source": "agentexecutor.io",
-        "stats": "641 points · 293 comments"
+        "stats": "657 points · 298 comments"
       },
       {
-        "url": "https://pirateface.co/",
-        "title": "Pirate Face Rescues LLM Models from Deletion",
-        "description": "Open models as checksum-verified magnet links. Un-bannable, carried by the swarm.",
-        "image": "https://pirateface.co/og/home",
-        "source": "pirateface.co",
-        "stats": "549 points · 146 comments"
+        "url": "https://softwarecrisis.dev/letters/llmentalist/",
+        "title": "The LLMentalist Effect (2023)",
+        "description": "The new era of tech seems to be built on superstitious behaviour",
+        "image": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
+        "source": "softwarecrisis.dev",
+        "stats": "230 points · 307 comments"
       },
       {
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-        "title": "MCP was always a bad idea?",
-        "description": "Why MCP was always a bad idea and I",
-        "image": "https://maharship.com/og-image.png",
-        "source": "maharship.com",
-        "stats": "321 points · 317 comments"
-      },
-      {
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-        "title": "AI and the Destruction of the Creative Commons",
-        "description": "235 points · 276 comments",
-        "image": "",
-        "source": "chesterwisniewski.com",
-        "stats": ""
+        "url": "https://tinybrains.dev",
+        "title": "Show HN: A competition for small neural networks that play strategy games",
+        "description": "A ranked ladder for small neural networks that play strategy games. Train a model, write an adapter, upload two files, and get measured into a weight class from 8 KiB up.",
+        "image": "https://tinybrains.dev/og.png",
+        "source": "tinybrains.dev",
+        "stats": "111 points · 40 comments"
       }
     ],
     "2026-09-19": [
@@ -134,15 +160,7 @@
         "description": "Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.",
         "image": "https://john.hartnup.uk/images/poster-bauhaus-attempt.webp",
         "source": "john.hartnup.uk",
-        "stats": "1863 points · 943 comments"
-      },
-      {
-        "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-        "description": "177 points · 185 comments",
-        "image": "",
-        "source": "bartosz.fenski.pl",
-        "stats": ""
+        "stats": "1877 points · 950 comments"
       }
     ],
     "2026-09-18": [
@@ -170,17 +188,7 @@
         "description": "Two rules keep an LLM from pasteurizing your writing: never take a word it suggests, and never let it encourage you. Then hand it all the tedious work.",
         "image": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg",
         "source": "sockpuppet.org",
-        "stats": "744 points · 410 comments"
-      }
-    ],
-    "2026-09-16": [
-      {
-        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "title": "Nvidia announces native GPU programming in Rust",
-        "description": "In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise&#x2d;grade toolchains, and NVIDIA will be growing and maturing CUDA&#8230;",
-        "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp",
-        "source": "developer.nvidia.com",
-        "stats": "969 points · 404 comments"
+        "stats": "756 points · 410 comments"
       }
     ]
   }
