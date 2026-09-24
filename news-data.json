@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-23T07:33:49.054Z",
+  "lastUpdated": "2026-09-24T07:25:52.367Z",
   "days": {
+    "2026-09-24": [
+      {
+        "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+        "title": "Feds Target AI Critics as \"Foreign Agents\"",
+        "description": "Trump admin sees China behind opposition to AI data centers",
+        "image": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
+        "source": "kenklippenstein.com",
+        "stats": "264 points · 252 comments"
+      },
+      {
+        "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+        "title": "Australia says OpenAI agent hacked into government website",
+        "description": "The OpenAI agent gained unauthorised access to public and non-public files in what could be the first known instance of an AI agent hacking a government website.",
+        "image": "https://dam.mediacorp.sg/image/upload/s--F34rAgWg--/c_crop,h_1125,w_2000,x_0,y_104/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/24/2026-09-23t221235z_2100165048_rc27pnac7sm6_rtrmadp_3_openai-cybersecurity-australia.jpg?itok=VI2vl-b5",
+        "source": "channelnewsasia.com",
+        "stats": "117 points · 83 comments"
+      },
+      {
+        "url": "https://github.com/nestrilabs/virtio-nvgpu",
+        "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+        "description": "[Experimental] A virtio device for near-native NVIDIA GPU access in KVM virtual machines. - nestrilabs/virtio-nvgpu",
+        "image": "https://opengraph.githubassets.com/e58176e8fe8bfcfebabbf0dd34f2992e5231ac2b9af0546b73fdc87645d0156c/nestrilabs/virtio-nvgpu",
+        "source": "github.com",
+        "stats": "69 points · 33 comments"
+      },
+      {
+        "url": "https://transluce.org/agent-activity",
+        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+        "description": "We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.",
+        "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
+        "source": "transluce.org",
+        "stats": "40 points · 18 comments"
+      },
+      {
+        "url": "https://contrastive-lm.notion.site/",
+        "title": "Contrastive Language Models",
+        "description": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team",
+        "image": "https://app.notion.com/images/meta/default.png",
+        "source": "contrastive-lm.notion.site",
+        "stats": "30 points · 6 comments"
+      }
+    ],
     "2026-09-23": [
       {
-        "url": "https://twitter.com/TheAhmadOsman/status/2102535871727857915/photo/1",
-        "title": "Anthropic classifiers prohibit kernel development",
-        "description": "Anthropic are very selfish and evil people btw, they are LITERALLY stopping you from democratizing AI",
-        "image": "https://pbs.twimg.com/media/HS21AeGXUAAqwus?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "14 points · 4 comments"
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "description": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
+        "source": "anthropic.com",
+        "stats": "617 points · 627 comments"
       },
       {
-        "url": "https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443",
-        "title": "Big Banks Say They're Uneasy About People Shopping via AI Agents",
-        "description": "9 points · 2 comments",
+        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+        "description": "Claude Code 2.1.277 added AGENTS.md support, but the loader sits behind a remote feature flag. With telemetry or nonessential traffic turned off, a local AGENTS.md is skipped without a warning. This is what I measured and the one-line CLAUDE.md I use instead.",
         "image": "",
-        "source": "gizmodo.com",
-        "stats": ""
+        "source": "blog.szypowi.cz",
+        "stats": "464 points · 264 comments"
       },
       {
-        "url": "https://claude-opus-5-5.riba2534.cn/",
-        "title": "Claude Opus 5.5 – Pelican Game",
-        "description": "实时 3D 海岸骑行：鹈鹕、单车、海浪、落日与一篮子鱼。",
-        "image": "https://claude-opus-5-5.riba2534.cn/pelican-ride-og.jpg",
-        "source": "claude-opus-5-5.riba2534.cn",
-        "stats": "4 points · 2 comments"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+        "title": "Gemini 3.8 text-to-speech",
+        "description": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
+        "source": "blog.google",
+        "stats": "298 points · 133 comments"
       },
       {
-        "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
-        "title": "Province of BC Sues OpenAI and Sam Altman over Tumbler Ridge School Shooting",
-        "description": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use",
-        "image": "https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b664c0ecb6d5e9ef3a6df20be4ba800a",
-        "source": "theguardian.com",
-        "stats": "4 points · 4 comments"
+        "url": "https://drivingbench.com/",
+        "title": "GPT-6 Astra has gained the ability to drive a car",
+        "description": "A benchmark where frontier language models drive a real comma-equipped Toyota through a cone course, one command at a time, with a human supervisor ready to brake.",
+        "image": "https://drivingbench.com/og/home.png",
+        "source": "drivingbench.com",
+        "stats": "287 points · 226 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49812392",
-        "title": "Ask HN: Engineers on highly polished products, how are you using agentic coding?",
-        "description": "4 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+        "title": "Once Claude can measure something, it can make it faster",
+        "description": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
+        "image": "https://claude.dev/blog/how-we-made-claude-ai-faster/og.png",
+        "source": "claude.dev",
+        "stats": "192 points · 133 comments"
       }
     ],
     "2026-09-22": [
@@ -50,12 +92,12 @@
         "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1463 points · 915 comments"
+        "stats": "1776 points · 1100 comments"
       },
       {
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "title": "GPT-6 Sol and Luna",
-        "description": "1453 points · 698 comments",
+        "description": "1745 points · 829 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -63,7 +105,7 @@
       {
         "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
         "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "description": "643 points · 382 comments",
+        "description": "727 points · 439 comments",
         "image": "",
         "source": "cryptocellar.org",
         "stats": ""
@@ -71,18 +113,18 @@
       {
         "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
         "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-        "description": "593 points · 297 comments",
-        "image": "",
+        "description": "Pentagon investigators have discovered that flawed intelligence, outdated imagery and an overreliance on AI contributed to a missile strike that killed 123 children in Minab.",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3TSjjEQrhVA/v0/-1x-1.jpg",
         "source": "bloomberg.com",
-        "stats": ""
+        "stats": "905 points · 513 comments"
       },
       {
-        "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-        "title": "OpenAI is well positioned to fast-follow Jev",
-        "description": "TypeSafe",
-        "image": "http://arcturus-labs.com/blog/assets/will-openai-eat-jevs-lunch/hero.jpg",
-        "source": "arcturus-labs.com",
-        "stats": "286 points · 205 comments"
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+        "description": "Analysis of Anthropic&#x27;s Claude Opus 5.5 (Adaptive Reasoning, Max Effort, Default Fallback) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
+        "image": "https://artificialanalysis.ai/en/models/claude-opus-5-5/opengraph-image?ea6b93c60ecab06d",
+        "source": "artificialanalysis.ai",
+        "stats": "330 points · 103 comments"
       }
     ],
     "2026-09-21": [
@@ -92,23 +134,7 @@
         "description": "An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.",
         "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
         "source": "poloclub.github.io",
-        "stats": "611 points · 87 comments"
-      },
-      {
-        "url": "https://linear.app/now/ci-bottleneck-reworked",
-        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-        "description": "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.",
-        "image": "https://webassets.linear.app/images/ornj730p/production/eba763cf034ad5e7b5d75ceec7ba560dd2aea5cb-2400x1350.png?q=95&amp;auto=format&amp;dpr=2",
-        "source": "linear.app",
-        "stats": "311 points · 387 comments"
-      },
-      {
-        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-        "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-        "description": "236 points · 121 comments",
-        "image": "",
-        "source": "reddit.com",
-        "stats": ""
+        "stats": "639 points · 88 comments"
       },
       {
         "url": "https://heretic-project.org/",
@@ -116,41 +142,17 @@
         "description": "Fully automatic censorship removal for language models",
         "image": "",
         "source": "heretic-project.org",
-        "stats": "269 points · 109 comments"
-      },
-      {
-        "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-        "title": "Frontier AI on Your Own Hardware",
-        "description": "In one of my classes I asked the question I was afraid to ask but I just needed the answer to: &#8220;Who is afraid of not getting a job after graduating?&#8221; About eighty percent of the 150 people in the room raised their hands. That is roughly 120 students answering, in one motion, that they [&hellip;]",
-        "image": "",
-        "source": "timdettmers.com",
-        "stats": "179 points · 102 comments"
+        "stats": "276 points · 110 comments"
       }
     ],
     "2026-09-20": [
-      {
-        "url": "https://agentexecutor.io",
-        "title": "AX – Google’s Open Agentic Orchestrator",
-        "description": "Declare an agentic task in YAML. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.",
-        "image": "https://agentexecutor.io/axolotl.svg",
-        "source": "agentexecutor.io",
-        "stats": "657 points · 298 comments"
-      },
       {
         "url": "https://softwarecrisis.dev/letters/llmentalist/",
         "title": "The LLMentalist Effect (2023)",
         "description": "The new era of tech seems to be built on superstitious behaviour",
         "image": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
         "source": "softwarecrisis.dev",
-        "stats": "230 points · 307 comments"
-      },
-      {
-        "url": "https://tinybrains.dev",
-        "title": "Show HN: A competition for small neural networks that play strategy games",
-        "description": "A ranked ladder for small neural networks that play strategy games. Train a model, write an adapter, upload two files, and get measured into a weight class from 8 KiB up.",
-        "image": "https://tinybrains.dev/og.png",
-        "source": "tinybrains.dev",
-        "stats": "111 points · 40 comments"
+        "stats": "234 points · 308 comments"
       }
     ],
     "2026-09-19": [
@@ -160,7 +162,7 @@
         "description": "Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.",
         "image": "https://john.hartnup.uk/images/poster-bauhaus-attempt.webp",
         "source": "john.hartnup.uk",
-        "stats": "1877 points · 950 comments"
+        "stats": "1884 points · 955 comments"
       }
     ],
     "2026-09-18": [
@@ -179,16 +181,6 @@
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
         "stats": "106 points · 20 comments"
-      }
-    ],
-    "2026-09-17": [
-      {
-        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "title": "How to Write with an LLM",
-        "description": "Two rules keep an LLM from pasteurizing your writing: never take a word it suggests, and never let it encourage you. Then hand it all the tedious work.",
-        "image": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg",
-        "source": "sockpuppet.org",
-        "stats": "756 points · 410 comments"
       }
     ]
   }
