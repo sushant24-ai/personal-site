@@ -1,30 +1,72 @@
 {
-  "lastUpdated": "2026-09-24T07:25:52.367Z",
+  "lastUpdated": "2026-09-25T07:22:38.141Z",
   "days": {
+    "2026-09-25": [
+      {
+        "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
+        "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "11 points · 3 comments"
+      },
+      {
+        "url": "https://medium.com/@jwbobbink/best-search-console-mcp-in-2026-gsc-wizard-7a63f91191ca",
+        "title": "I stopped letting LLMs do arithmetic",
+        "description": "6 points · 0 comments",
+        "image": "",
+        "source": "medium.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
+        "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
+      },
+      {
+        "url": "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
+        "title": "AI Agents are breaking into Online Retailers for $25 a target",
+        "description": "Gambit Threat Intelligence reconstructed an ongoing campaign in which open source AI agents compromised online retailers for about $25 each.",
+        "image": "https://cdn.prod.website-files.com/699d15905fa8481718f06229/6ab26ea523209fbac0178ed3_blog-cover.jpg",
+        "source": "gambit.security",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+        "title": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
+        "description": "It’s giving Thanos energy. ",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
     "2026-09-24": [
+      {
+        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+        "description": "609 points · 366 comments",
+        "image": "",
+        "source": "reddit.com",
+        "stats": ""
+      },
       {
         "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
         "title": "Feds Target AI Critics as \"Foreign Agents\"",
         "description": "Trump admin sees China behind opposition to AI data centers",
         "image": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
         "source": "kenklippenstein.com",
-        "stats": "264 points · 252 comments"
+        "stats": "379 points · 422 comments"
       },
       {
-        "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-        "title": "Australia says OpenAI agent hacked into government website",
-        "description": "The OpenAI agent gained unauthorised access to public and non-public files in what could be the first known instance of an AI agent hacking a government website.",
-        "image": "https://dam.mediacorp.sg/image/upload/s--F34rAgWg--/c_crop,h_1125,w_2000,x_0,y_104/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/24/2026-09-23t221235z_2100165048_rc27pnac7sm6_rtrmadp_3_openai-cybersecurity-australia.jpg?itok=VI2vl-b5",
-        "source": "channelnewsasia.com",
-        "stats": "117 points · 83 comments"
-      },
-      {
-        "url": "https://github.com/nestrilabs/virtio-nvgpu",
-        "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-        "description": "[Experimental] A virtio device for near-native NVIDIA GPU access in KVM virtual machines. - nestrilabs/virtio-nvgpu",
-        "image": "https://opengraph.githubassets.com/e58176e8fe8bfcfebabbf0dd34f2992e5231ac2b9af0546b73fdc87645d0156c/nestrilabs/virtio-nvgpu",
-        "source": "github.com",
-        "stats": "69 points · 33 comments"
+        "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+        "title": "OpenAI agent hacked Australian government website, PM says",
+        "description": "Experts believe it&#x27;s the world&#x27;s first known AI breach of a government system.",
+        "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+        "source": "bbc.com",
+        "stats": "252 points · 193 comments"
       },
       {
         "url": "https://transluce.org/agent-activity",
@@ -32,15 +74,15 @@
         "description": "We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.",
         "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
         "source": "transluce.org",
-        "stats": "40 points · 18 comments"
+        "stats": "256 points · 259 comments"
       },
       {
-        "url": "https://contrastive-lm.notion.site/",
-        "title": "Contrastive Language Models",
-        "description": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team",
-        "image": "https://app.notion.com/images/meta/default.png",
-        "source": "contrastive-lm.notion.site",
-        "stats": "30 points · 6 comments"
+        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+        "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+        "description": "134 points · 49 comments",
+        "image": "",
+        "source": "medium.com",
+        "stats": ""
       }
     ],
     "2026-09-23": [
@@ -50,7 +92,7 @@
         "description": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
         "source": "anthropic.com",
-        "stats": "617 points · 627 comments"
+        "stats": "763 points · 784 comments"
       },
       {
         "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
@@ -58,7 +100,7 @@
         "description": "Claude Code 2.1.277 added AGENTS.md support, but the loader sits behind a remote feature flag. With telemetry or nonessential traffic turned off, a local AGENTS.md is skipped without a warning. This is what I measured and the one-line CLAUDE.md I use instead.",
         "image": "",
         "source": "blog.szypowi.cz",
-        "stats": "464 points · 264 comments"
+        "stats": "480 points · 282 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
@@ -66,7 +108,7 @@
         "description": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
         "source": "blog.google",
-        "stats": "298 points · 133 comments"
+        "stats": "329 points · 147 comments"
       },
       {
         "url": "https://drivingbench.com/",
@@ -74,15 +116,15 @@
         "description": "A benchmark where frontier language models drive a real comma-equipped Toyota through a cone course, one command at a time, with a human supervisor ready to brake.",
         "image": "https://drivingbench.com/og/home.png",
         "source": "drivingbench.com",
-        "stats": "287 points · 226 comments"
+        "stats": "307 points · 245 comments"
       },
       {
-        "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-        "title": "Once Claude can measure something, it can make it faster",
-        "description": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.",
-        "image": "https://claude.dev/blog/how-we-made-claude-ai-faster/og.png",
-        "source": "claude.dev",
-        "stats": "192 points · 133 comments"
+        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+        "title": "OpenAI breaches Medicare, Albanese reveals",
+        "description": "No penalty has been imposed on US artificial intelligence corporation OpenAI after one of its AI agents infiltrated Medicare in June.",
+        "image": "https://static.ffx.io/images/$zoom_0.1214767392182451%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6b53c6726879a3a97640669cca773e43a801e43e",
+        "source": "smh.com.au",
+        "stats": "251 points · 256 comments"
       }
     ],
     "2026-09-22": [
@@ -92,12 +134,12 @@
         "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1776 points · 1100 comments"
+        "stats": "1793 points · 1118 comments"
       },
       {
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "title": "GPT-6 Sol and Luna",
-        "description": "1745 points · 829 comments",
+        "description": "1766 points · 843 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -105,7 +147,7 @@
       {
         "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
         "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "description": "727 points · 439 comments",
+        "description": "733 points · 442 comments",
         "image": "",
         "source": "cryptocellar.org",
         "stats": ""
@@ -116,33 +158,25 @@
         "description": "Pentagon investigators have discovered that flawed intelligence, outdated imagery and an overreliance on AI contributed to a missile strike that killed 123 children in Minab.",
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3TSjjEQrhVA/v0/-1x-1.jpg",
         "source": "bloomberg.com",
-        "stats": "905 points · 513 comments"
+        "stats": "951 points · 540 comments"
       },
       {
-        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-        "description": "Analysis of Anthropic&#x27;s Claude Opus 5.5 (Adaptive Reasoning, Max Effort, Default Fallback) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
-        "image": "https://artificialanalysis.ai/en/models/claude-opus-5-5/opengraph-image?ea6b93c60ecab06d",
-        "source": "artificialanalysis.ai",
-        "stats": "330 points · 103 comments"
+        "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+        "title": "OpenAI is well positioned to fast-follow Jev",
+        "description": "TypeSafe",
+        "image": "http://arcturus-labs.com/blog/assets/will-openai-eat-jevs-lunch/hero.jpg",
+        "source": "arcturus-labs.com",
+        "stats": "324 points · 226 comments"
       }
     ],
     "2026-09-21": [
       {
-        "url": "https://poloclub.github.io/transformer-explainer/",
-        "title": "Transformers Explained Visually",
-        "description": "An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.",
-        "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
-        "source": "poloclub.github.io",
-        "stats": "639 points · 88 comments"
-      },
-      {
-        "url": "https://heretic-project.org/",
-        "title": "Heretic removes restrictions from language models",
-        "description": "Fully automatic censorship removal for language models",
-        "image": "",
-        "source": "heretic-project.org",
-        "stats": "276 points · 110 comments"
+        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+        "title": "Security auditing in the age of (good enough) AI",
+        "description": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
+        "image": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/auditing-ai-social-banner.png",
+        "source": "blog.trailofbits.com",
+        "stats": "84 points · 12 comments"
       }
     ],
     "2026-09-20": [
@@ -163,24 +197,6 @@
         "image": "https://john.hartnup.uk/images/poster-bauhaus-attempt.webp",
         "source": "john.hartnup.uk",
         "stats": "1884 points · 955 comments"
-      }
-    ],
-    "2026-09-18": [
-      {
-        "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-        "title": "AI chatbots are becoming experts at changing people's minds",
-        "description": "135 points · 101 comments",
-        "image": "",
-        "source": "science.org",
-        "stats": ""
-      },
-      {
-        "url": "https://arxiv.org/abs/2510.03215",
-        "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-        "description": "Multi-LLM systems harness the complementary strengths of diverse Large Language Models, achieving performance and efficiency gains that are not attainable by a single model. In existing designs, LLMs communicate through text, forcing internal representations to be transformed into output token sequences. This process both loses rich semantic information and incurs token-by-token generation latency. Motivated by these limitations, we ask: Can LLMs communicate beyond text? Oracle experiments show that enriching the KV-Cache semantics can improve response quality without increasing cache size, supporting KV-Cache as an effective medium for inter-model communication. Thus, we propose Cache-to-Cache (C2C), a new paradigm for direct semantic communication between LLMs. C2C uses a neural network to project and fuse the source model&#39;s KV-cache with that of the target model to enable direct semantic transfer. A learnable gating mechanism selects the target layers that benefit from cache communication. Compared with text communication, C2C utilizes the deep, specialized semantics from both models, while avoiding explicit intermediate text generation. Experiments show that C2C achieves 6.4-14.2% higher average accuracy than individual models. It further outperforms the text communication paradigm by approximately 3.1-5.4%, while delivering an average 2.5x speedup in latency. Our code is available at https://github.com/thu-nics/C2C.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "106 points · 20 comments"
       }
     ]
   }
