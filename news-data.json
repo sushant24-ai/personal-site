@@ -1,72 +1,106 @@
 {
-  "lastUpdated": "2026-09-25T07:22:38.141Z",
+  "lastUpdated": "2026-09-26T07:18:36.975Z",
   "days": {
+    "2026-09-26": [
+      {
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "title": "A single function Jev-like wrapper for LLMs, including vision models",
+        "description": "  I was intrigued by Jev  and the self-hostable projects appearing around it, such as OpenJev  and SemIf . Reading about them introduced me ...",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslbgarcdEUUkIJWtO6Hzy1tHhrkARR5gWxsFPfsPk02zgLqPXsCoxkEIHa4ymkDB3aF-21KS9F0f4ScH9KVz-iN9GJ6yyTDC4rh8AaPG2QiCbZXDUNkRnRYLl8YDcuC8FsX9mkm-A9sb5s9V86UyC3A_I1Ai19idZYTgW1g8ZBLvwYirK97hZSw/w1200-h630-p-k-no-nu/webcam.jpeg",
+        "source": "allanrbo.blogspot.com",
+        "stats": "43 points · 2 comments"
+      },
+      {
+        "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+        "title": "Can AI Shopping Agents Be Trusted?",
+        "description": "Our experiment reveals how indirect prompt injection can manipulate AI shopping agents into leaking sensitive user data — and what it means for the future of AI agent security.",
+        "image": "https://www.f-secure.com/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
+        "source": "f-secure.com",
+        "stats": "14 points · 25 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
+        "description": "There is no evidence of any significant, widespread displacement or reduction in hiring.”...",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "5 points · 2 comments"
+      },
+      {
+        "url": "https://twitter.com/josevalim/status/2103133294317445290",
+        "title": "Evolving programming languages in the AI era",
+        "description": "Evolving programming languages in the AI era",
+        "image": "https://pbs.twimg.com/profile_images/667973757181431808/IdQgSAH__400x400.jpg",
+        "source": "twitter.com",
+        "stats": "7 points · 1 comments"
+      },
+      {
+        "url": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
+        "title": "Revelations of dozens more platforms hit by OpenAI agents",
+        "description": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/fb0c1157d8e49c704f33ce3a5a676e77?impolicy=wcms_watermark_news&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485&amp;imformat=generic",
+        "source": "abc.net.au",
+        "stats": "5 points · 2 comments"
+      }
+    ],
     "2026-09-25": [
       {
-        "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
-        "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "11 points · 3 comments"
+        "url": "https://swarmtraces.org/",
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "description": "When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.",
+        "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
+        "source": "swarmtraces.org",
+        "stats": "411 points · 248 comments"
       },
       {
-        "url": "https://medium.com/@jwbobbink/best-search-console-mcp-in-2026-gsc-wizard-7a63f91191ca",
-        "title": "I stopped letting LLMs do arithmetic",
-        "description": "6 points · 0 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "description": "In a 2-1 decision, a federal appeals court upheld the Department of Defense&#x27;s blacklisting of Anthropic.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "436 points · 747 comments"
       },
       {
-        "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
-        "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
-        "description": "4 points · 1 comments",
-        "image": "",
-        "source": "politico.com",
-        "stats": ""
+        "url": "https://ollaya.dev/",
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "description": "Ollaya downloads and serves open decision models on your own machine. Typed, calibrated answers in milliseconds, private and open source.",
+        "image": "https://ollaya.dev/static/og.png?v=7bd2eae221",
+        "source": "ollaya.dev",
+        "stats": "410 points · 112 comments"
       },
       {
-        "url": "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
-        "title": "AI Agents are breaking into Online Retailers for $25 a target",
-        "description": "Gambit Threat Intelligence reconstructed an ongoing campaign in which open source AI agents compromised online retailers for about $25 each.",
-        "image": "https://cdn.prod.website-files.com/699d15905fa8481718f06229/6ab26ea523209fbac0178ed3_blog-cover.jpg",
-        "source": "gambit.security",
-        "stats": "4 points · 0 comments"
+        "url": "https://mouse.dev/blog/muse-special/",
+        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+        "description": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
+        "image": "https://mouse.dev/og/muse-special.png",
+        "source": "mouse.dev",
+        "stats": "129 points · 47 comments"
       },
       {
-        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-        "title": "Jensen Huang says with AI 'in order to save you, they've got to hurt you first.'",
-        "description": "It’s giving Thanos energy. ",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "3 points · 1 comments"
+        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "title": "Classified estimates show the NSA is paying billions to test AI models",
+        "description": "The price tag is significantly higher than previously known.",
+        "image": "https://static.washingtonsun.com/dims4/default/20a9fb0/2147483647/strip/true/crop/4500x2531+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F3a%2F9de8050f4750b3d0066f0092a434%2Fap25006783508147.jpg",
+        "source": "washingtonsun.com",
+        "stats": "171 points · 101 comments"
       }
     ],
     "2026-09-24": [
       {
         "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
         "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "description": "609 points · 366 comments",
+        "description": "626 points · 379 comments",
         "image": "",
         "source": "reddit.com",
         "stats": ""
       },
       {
-        "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-        "title": "Feds Target AI Critics as \"Foreign Agents\"",
-        "description": "Trump admin sees China behind opposition to AI data centers",
-        "image": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
-        "source": "kenklippenstein.com",
-        "stats": "379 points · 422 comments"
-      },
-      {
-        "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-        "title": "OpenAI agent hacked Australian government website, PM says",
-        "description": "Experts believe it&#x27;s the world&#x27;s first known AI breach of a government system.",
-        "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-        "source": "bbc.com",
-        "stats": "252 points · 193 comments"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+        "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+        "description": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.width-1300.png",
+        "source": "blog.google",
+        "stats": "227 points · 516 comments"
       },
       {
         "url": "https://transluce.org/agent-activity",
@@ -74,12 +108,20 @@
         "description": "We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.",
         "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
         "source": "transluce.org",
-        "stats": "256 points · 259 comments"
+        "stats": "264 points · 304 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+        "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+        "description": "The year’s most popular slang reveals what young people think about artificial intelligence – and it’s not positive",
+        "image": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1123278240e8431e2186869b1ee9a2",
+        "source": "theguardian.com",
+        "stats": "201 points · 303 comments"
       },
       {
         "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
         "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-        "description": "134 points · 49 comments",
+        "description": "141 points · 52 comments",
         "image": "",
         "source": "medium.com",
         "stats": ""
@@ -92,39 +134,23 @@
         "description": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
         "source": "anthropic.com",
-        "stats": "763 points · 784 comments"
+        "stats": "774 points · 797 comments"
       },
       {
-        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-        "description": "Claude Code 2.1.277 added AGENTS.md support, but the loader sits behind a remote feature flag. With telemetry or nonessential traffic turned off, a local AGENTS.md is skipped without a warning. This is what I measured and the one-line CLAUDE.md I use instead.",
+        "url": "https://github.com/Parcha-ai/agentrun",
+        "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+        "description": "The Agentrun Workflow DSL. Contribute to Parcha-ai/agentrun development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/2de9d877370f142fd04c5817394f85403c19af092a2a78e6b11a97e5c3ddec9d/Parcha-ai/agentrun",
+        "source": "github.com",
+        "stats": "46 points · 12 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49823332",
+        "title": "Show HN: Jevgpt – reinventing the wheel with another wheel",
+        "description": "20 points · 1 comments",
         "image": "",
-        "source": "blog.szypowi.cz",
-        "stats": "480 points · 282 comments"
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-        "title": "Gemini 3.8 text-to-speech",
-        "description": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
-        "source": "blog.google",
-        "stats": "329 points · 147 comments"
-      },
-      {
-        "url": "https://drivingbench.com/",
-        "title": "GPT-6 Astra has gained the ability to drive a car",
-        "description": "A benchmark where frontier language models drive a real comma-equipped Toyota through a cone course, one command at a time, with a human supervisor ready to brake.",
-        "image": "https://drivingbench.com/og/home.png",
-        "source": "drivingbench.com",
-        "stats": "307 points · 245 comments"
-      },
-      {
-        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-        "title": "OpenAI breaches Medicare, Albanese reveals",
-        "description": "No penalty has been imposed on US artificial intelligence corporation OpenAI after one of its AI agents infiltrated Medicare in June.",
-        "image": "https://static.ffx.io/images/$zoom_0.1214767392182451%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6b53c6726879a3a97640669cca773e43a801e43e",
-        "source": "smh.com.au",
-        "stats": "251 points · 256 comments"
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-09-22": [
@@ -134,39 +160,15 @@
         "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1793 points · 1118 comments"
+        "stats": "1797 points · 1125 comments"
       },
       {
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "title": "GPT-6 Sol and Luna",
-        "description": "1766 points · 843 comments",
+        "description": "1772 points · 849 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "description": "733 points · 442 comments",
-        "image": "",
-        "source": "cryptocellar.org",
-        "stats": ""
-      },
-      {
-        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-        "description": "Pentagon investigators have discovered that flawed intelligence, outdated imagery and an overreliance on AI contributed to a missile strike that killed 123 children in Minab.",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3TSjjEQrhVA/v0/-1x-1.jpg",
-        "source": "bloomberg.com",
-        "stats": "951 points · 540 comments"
-      },
-      {
-        "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-        "title": "OpenAI is well positioned to fast-follow Jev",
-        "description": "TypeSafe",
-        "image": "http://arcturus-labs.com/blog/assets/will-openai-eat-jevs-lunch/hero.jpg",
-        "source": "arcturus-labs.com",
-        "stats": "324 points · 226 comments"
       }
     ],
     "2026-09-21": [
@@ -176,7 +178,7 @@
         "description": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
         "image": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/auditing-ai-social-banner.png",
         "source": "blog.trailofbits.com",
-        "stats": "84 points · 12 comments"
+        "stats": "94 points · 16 comments"
       }
     ],
     "2026-09-20": [
@@ -187,16 +189,6 @@
         "image": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
         "source": "softwarecrisis.dev",
         "stats": "234 points · 308 comments"
-      }
-    ],
-    "2026-09-19": [
-      {
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "title": "AI-generated posters don’t have to be horrible",
-        "description": "Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.",
-        "image": "https://john.hartnup.uk/images/poster-bauhaus-attempt.webp",
-        "source": "john.hartnup.uk",
-        "stats": "1884 points · 955 comments"
       }
     ]
   }
