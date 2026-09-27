@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-26T07:18:36.975Z",
+  "lastUpdated": "2026-09-27T07:50:10.929Z",
   "days": {
+    "2026-09-27": [
+      {
+        "url": "https://swarmcha.se/posts/openai-unctad",
+        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "description": "From 13 April - 19 June 2026, OpenAI agents scanned UNCTAD",
+        "image": "https://swarmcha.se/images/unctad/77e95adc-30a8-4dd6-9b94-f297f4c0c2f1-transactions.png",
+        "source": "swarmcha.se",
+        "stats": "71 points · 67 comments"
+      },
+      {
+        "url": "https://openai.com/index/introducing-openai/",
+        "title": "OpenAI (2015)",
+        "description": "41 points · 14 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      },
+      {
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "description": "(New York, September 21, 2026) Explosive new documents released last Thursday in Authors Guild v. OpenAI—the major book authors’ ongoing lawsuit alleging OpenAI and Microsoft illegally trained their products on copyrighted books—show that executives and employees at both companies intentionally [&hellip;]",
+        "image": "https://authorsguild.org/app/uploads/2026/09/OpenAI-Day-2-Advocacy-Rectangle.jpg",
+        "source": "authorsguild.org",
+        "stats": "9 points · 1 comments"
+      },
+      {
+        "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027",
+        "title": "I expect AI replication incidents by 2027",
+        "description": "I think a major incident of autonomous AI replication in the wild before the end of 2027 is reasonably likely. In this post, I explain the reasons wh…",
+        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/wei4CucreF4vddzaE/xg3citbnkuilfrbsa8ln",
+        "source": "lesswrong.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://openai.com/hugging-face-incident-and-misalignment/#model-misalignment-2026-09-25-data-transmission",
+        "title": "OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
+      }
+    ],
     "2026-09-26": [
       {
-        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "title": "A single function Jev-like wrapper for LLMs, including vision models",
-        "description": "  I was intrigued by Jev  and the self-hostable projects appearing around it, such as OpenJev  and SemIf . Reading about them introduced me ...",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslbgarcdEUUkIJWtO6Hzy1tHhrkARR5gWxsFPfsPk02zgLqPXsCoxkEIHa4ymkDB3aF-21KS9F0f4ScH9KVz-iN9GJ6yyTDC4rh8AaPG2QiCbZXDUNkRnRYLl8YDcuC8FsX9mkm-A9sb5s9V86UyC3A_I1Ai19idZYTgW1g8ZBLvwYirK97hZSw/w1200-h630-p-k-no-nu/webcam.jpeg",
-        "source": "allanrbo.blogspot.com",
-        "stats": "43 points · 2 comments"
+        "url": "https://arxiv.org/abs/2609.22978",
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "description": "Large-scale agentic training and evaluation with large language models (LLMs) rely on isolated, stateful execution environments in which models inspect repositories, invoke tools, execute commands, and interact with task-specific services. These workloads create sandboxes in large bursts, span heterogeneous functionality and isolation requirements, retain state across long interactions, and draw from large image corpora with limited reuse. Supporting them therefore requires an elastic execution platform rather than a single sandbox runtime.\n  This report presents DeepSeek Elastic Compute (DSec), a production sandbox platform that exposes FnCall, container, microVM, and full-VM sandbox backends through a unified SDK. DSec coordinates placement and lifecycle management across the cluster, composes environments from independently versioned layers, combines memory sharing, reclamation, and CPU scheduling for high-density execution, and loads image data on demand from Fire-Flyer File System (3FS), a cluster-wide distributed filesystem. DSec is co-designed with the reinforcement learning (RL) framework, decouples stateful rollout execution from preemptible GPU training, coordinates sandbox lifecycle with training to preserve rollout state while reclaiming idle resources, and mitigates agent misbehavior such as reward hacking.\n  A single production-scale unit of DSec spans around 160 nodes, serving about 3 million sandboxes per day; in production, it supports over 380,000 concurrent sandboxes and sustains over 5,000 sandbox creations per second. Our evaluation and deployment experience show that these mechanisms reduce environment setup and image-distribution overhead, improve memory efficiency, and preserve latency-sensitive performance under high-density overcommit.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "235 points · 78 comments"
       },
       {
-        "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-        "title": "Can AI Shopping Agents Be Trusted?",
-        "description": "Our experiment reveals how indirect prompt injection can manipulate AI shopping agents into leaking sensitive user data — and what it means for the future of AI agent security.",
-        "image": "https://www.f-secure.com/i/1200x630/4ef28bb1a4/og-woman-at-home.webp",
-        "source": "f-secure.com",
-        "stats": "14 points · 25 comments"
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "description": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or worse in “your” own code? This is for you.  There are significant and legitimate ethical concerns about frontier LLMs run by big tech companies, these have been discussed at length, I’m aware and agree, this post is not about them. Please don’t mistake me for a pro-LLM techbro.  Al...",
+        "image": "https://us1.discourse-cdn.com/flex002/uploads/haskell/original/1X/89166504e40f4869ea825dd70048017861ec8578.png",
+        "source": "discourse.haskell.org",
+        "stats": "213 points · 263 comments"
       },
       {
-        "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
-        "description": "There is no evidence of any significant, widespread displacement or reduction in hiring.”...",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "5 points · 2 comments"
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "title": "One Month Without AI",
+        "description": "Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...",
+        "image": "",
+        "source": "blog.bustikiller.com",
+        "stats": "171 points · 221 comments"
       },
       {
-        "url": "https://twitter.com/josevalim/status/2103133294317445290",
-        "title": "Evolving programming languages in the AI era",
-        "description": "Evolving programming languages in the AI era",
-        "image": "https://pbs.twimg.com/profile_images/667973757181431808/IdQgSAH__400x400.jpg",
-        "source": "twitter.com",
-        "stats": "7 points · 1 comments"
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises. ",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
+        "source": "bbc.com",
+        "stats": "112 points · 175 comments"
       },
       {
-        "url": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
-        "title": "Revelations of dozens more platforms hit by OpenAI agents",
-        "description": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
-        "image": "https://live-production.wcms.abc-cdn.net.au/fb0c1157d8e49c704f33ce3a5a676e77?impolicy=wcms_watermark_news&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485&amp;imformat=generic",
-        "source": "abc.net.au",
-        "stats": "5 points · 2 comments"
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "description": "A repository on Tangled",
+        "image": "https://tangled.org/yanndegat.tngl.sh/drawgent/opengraph",
+        "source": "tangled.org",
+        "stats": "142 points · 39 comments"
       }
     ],
     "2026-09-25": [
@@ -50,15 +92,7 @@
         "description": "When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.",
         "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
         "source": "swarmtraces.org",
-        "stats": "411 points · 248 comments"
-      },
-      {
-        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "description": "In a 2-1 decision, a federal appeals court upheld the Department of Defense&#x27;s blacklisting of Anthropic.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "436 points · 747 comments"
+        "stats": "712 points · 452 comments"
       },
       {
         "url": "https://ollaya.dev/",
@@ -66,7 +100,15 @@
         "description": "Ollaya downloads and serves open decision models on your own machine. Typed, calibrated answers in milliseconds, private and open source.",
         "image": "https://ollaya.dev/static/og.png?v=7bd2eae221",
         "source": "ollaya.dev",
-        "stats": "410 points · 112 comments"
+        "stats": "589 points · 145 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "description": "In a 2-1 decision, a federal appeals court upheld the Department of Defense&#x27;s blacklisting of Anthropic.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "491 points · 863 comments"
       },
       {
         "url": "https://mouse.dev/blog/muse-special/",
@@ -74,7 +116,7 @@
         "description": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
         "image": "https://mouse.dev/og/muse-special.png",
         "source": "mouse.dev",
-        "stats": "129 points · 47 comments"
+        "stats": "142 points · 50 comments"
       },
       {
         "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
@@ -82,33 +124,25 @@
         "description": "The price tag is significantly higher than previously known.",
         "image": "https://static.washingtonsun.com/dims4/default/20a9fb0/2147483647/strip/true/crop/4500x2531+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F3a%2F9de8050f4750b3d0066f0092a434%2Fap25006783508147.jpg",
         "source": "washingtonsun.com",
-        "stats": "171 points · 101 comments"
+        "stats": "176 points · 106 comments"
       }
     ],
     "2026-09-24": [
-      {
-        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "description": "626 points · 379 comments",
-        "image": "",
-        "source": "reddit.com",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-        "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-        "description": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.width-1300.png",
-        "source": "blog.google",
-        "stats": "227 points · 516 comments"
-      },
       {
         "url": "https://transluce.org/agent-activity",
         "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
         "description": "We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.",
         "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
         "source": "transluce.org",
-        "stats": "264 points · 304 comments"
+        "stats": "265 points · 308 comments"
+      },
+      {
+        "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+        "title": "How I changed teaching after AI managed to do all my homework assignments",
+        "description": "188 points · 170 comments",
+        "image": "",
+        "source": "thelastsoftwareengineer.substack.com",
+        "stats": ""
       },
       {
         "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
@@ -116,15 +150,23 @@
         "description": "The year’s most popular slang reveals what young people think about artificial intelligence – and it’s not positive",
         "image": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1123278240e8431e2186869b1ee9a2",
         "source": "theguardian.com",
-        "stats": "201 points · 303 comments"
+        "stats": "210 points · 316 comments"
       },
       {
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-        "description": "141 points · 52 comments",
+        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "description": "170 points · 43 comments",
         "image": "",
-        "source": "medium.com",
+        "source": "resobscura.substack.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+        "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+        "description": "A Sydney tutoring company will shut its doors at the end of the week after telling customers artificial intelligence has rendered its service effectively obsolete.",
+        "image": "https://static.ffx.io/images/$zoom_0.2383%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_92/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ece659b09d978278f1063e2ef412bb0b3b8bb118",
+        "source": "afr.com",
+        "stats": "142 points · 231 comments"
       }
     ],
     "2026-09-23": [
@@ -134,23 +176,7 @@
         "description": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
         "source": "anthropic.com",
-        "stats": "774 points · 797 comments"
-      },
-      {
-        "url": "https://github.com/Parcha-ai/agentrun",
-        "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-        "description": "The Agentrun Workflow DSL. Contribute to Parcha-ai/agentrun development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/2de9d877370f142fd04c5817394f85403c19af092a2a78e6b11a97e5c3ddec9d/Parcha-ai/agentrun",
-        "source": "github.com",
-        "stats": "46 points · 12 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=49823332",
-        "title": "Show HN: Jevgpt – reinventing the wheel with another wheel",
-        "description": "20 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "780 points · 799 comments"
       }
     ],
     "2026-09-22": [
@@ -160,12 +186,12 @@
         "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1797 points · 1125 comments"
+        "stats": "1801 points · 1127 comments"
       },
       {
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "title": "GPT-6 Sol and Luna",
-        "description": "1772 points · 849 comments",
+        "description": "1774 points · 853 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -179,16 +205,6 @@
         "image": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/auditing-ai-social-banner.png",
         "source": "blog.trailofbits.com",
         "stats": "94 points · 16 comments"
-      }
-    ],
-    "2026-09-20": [
-      {
-        "url": "https://softwarecrisis.dev/letters/llmentalist/",
-        "title": "The LLMentalist Effect (2023)",
-        "description": "The new era of tech seems to be built on superstitious behaviour",
-        "image": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
-        "source": "softwarecrisis.dev",
-        "stats": "234 points · 308 comments"
       }
     ]
   }
