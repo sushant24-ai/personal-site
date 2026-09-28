@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-09-27T07:50:10.929Z",
+  "lastUpdated": "2026-09-28T08:27:05.783Z",
   "days": {
+    "2026-09-28": [
+      {
+        "url": "https://colo.to/nvidia-stock-narrative.html",
+        "title": "Owed a billion dollars in Nvidia stock",
+        "description": "A first-person account of a 1993 NVIDIA stock option grant, a decades-later discovery of a vesting discrepancy, and how the statute of limitations settled it.",
+        "image": "",
+        "source": "colo.to",
+        "stats": "617 points · 259 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2110.01834",
+        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+        "description": "AI systems have seen dramatic advancement in recent years, bringing many applications that pervade our everyday life. However, we are still mostly seeing instances of narrow AI: many of these recent developments are typically focused on a very limited set of competencies and goals, e.g., image interpretation, natural language processing, classification, prediction, and many others. Moreover, while these successes can be accredited to improved algorithms and techniques, they are also tightly linked to the availability of huge datasets and computational power. State-of-the-art AI still lacks many capabilities that would naturally be included in a notion of (human) intelligence.\n  We argue that a better study of the mechanisms that allow humans to have these capabilities can help us understand how to imbue AI systems with these competencies. We focus especially on D. Kahneman&#39;s theory of thinking fast and slow, and we propose a multi-agent AI architecture where incoming problems are solved by either system 1 (or &#34;fast&#34;) agents, that react by exploiting only past experience, or by system 2 (or &#34;slow&#34;) agents, that are deliberately activated when there is the need to reason and search for optimal solutions beyond what is expected from the system 1 agent. Both kinds of agents are supported by a model of the world, containing domain knowledge about the environment, and a model of &#34;self&#34;, containing information about past actions of the system and solvers&#39; skills.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "83 points · 22 comments"
+      },
+      {
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "title": "Microsoft drops Copilot+ branding from its new laptops",
+        "description": "In a new interview, Microsoft Surface CVP confirms that its new Surface PCs are no longer called Copilot+ PCs, but will still support all Copilot+ features.",
+        "image": "https://cdn.mos.cms.futurecdn.net/xDpbCmGbw97o2Y2qWRiGEa-954-80.jpg",
+        "source": "windowscentral.com",
+        "stats": "52 points · 2 comments"
+      },
+      {
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "title": "Prompting Claude Opus 5.5",
+        "description": "Behavioral differences from Claude Opus 5 and the prompting and harness patterns that address them: effort calibration, thinking behavior in API integrations and chat, progress updates, unattended and multiagent tasks, safeguard refusals, frontend design, complex visual inputs, multi-app workflows, and pasted text in user messages.",
+        "image": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5?design-rev=2",
+        "source": "platform.claude.com",
+        "stats": "15 points · 0 comments"
+      },
+      {
+        "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+        "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+        "description": "21 points · 1 comments",
+        "image": "",
+        "source": "apnews.com",
+        "stats": ""
+      }
+    ],
     "2026-09-27": [
       {
-        "url": "https://swarmcha.se/posts/openai-unctad",
-        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "description": "From 13 April - 19 June 2026, OpenAI agents scanned UNCTAD",
-        "image": "https://swarmcha.se/images/unctad/77e95adc-30a8-4dd6-9b94-f297f4c0c2f1-transactions.png",
-        "source": "swarmcha.se",
-        "stats": "71 points · 67 comments"
-      },
-      {
-        "url": "https://openai.com/index/introducing-openai/",
-        "title": "OpenAI (2015)",
-        "description": "41 points · 14 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
         "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
         "description": "(New York, September 21, 2026) Explosive new documents released last Thursday in Authors Guild v. OpenAI—the major book authors’ ongoing lawsuit alleging OpenAI and Microsoft illegally trained their products on copyrighted books—show that executives and employees at both companies intentionally [&hellip;]",
         "image": "https://authorsguild.org/app/uploads/2026/09/OpenAI-Day-2-Advocacy-Rectangle.jpg",
         "source": "authorsguild.org",
-        "stats": "9 points · 1 comments"
+        "stats": "614 points · 601 comments"
       },
       {
-        "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027",
-        "title": "I expect AI replication incidents by 2027",
-        "description": "I think a major incident of autonomous AI replication in the wild before the end of 2027 is reasonably likely. In this post, I explain the reasons wh…",
-        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/wei4CucreF4vddzaE/xg3citbnkuilfrbsa8ln",
-        "source": "lesswrong.com",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://openai.com/hugging-face-incident-and-misalignment/#model-misalignment-2026-09-25-data-transmission",
-        "title": "OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images",
-        "description": "4 points · 1 comments",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+        "title": "There are no \"rogue\" AI agents",
+        "description": "364 points · 251 comments",
         "image": "",
-        "source": "openai.com",
+        "source": "eoinhiggins.substack.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+        "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "184 points · 95 comments"
+      },
+      {
+        "url": "https://tinyaiarena.com/",
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "description": "108 points · 44 comments",
+        "image": "",
+        "source": "tinyaiarena.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arxiv.org/abs/2609.25021",
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "description": "Large Language Models (LLMs) tend to add disclaimers like &#34;I&#39;m just an AI&#34; when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood. Are the models telling us about themselves or rather how they are deployed? In this work, we show that the chat template works like a switch - when present, it turns this disclaimer voice up and experiential voice like &#34;I feel&#34; down, across 8 popular open-source instruct models up to 9B parameters in size. And conversely when the chat template is not present, it turns the disclaimer voice down and experiential voice up. Inside the activations of 3 models, we find a direction that steers this behavior. Removing the direction in the model&#39;s activation space turns disclaimer voice down and adding it turns it up, while a random direction of the same size has little effect. We find that instruct models without chat template, when we add the disclaimer direction to them, disclaim like the template was there. Since the chat template controls the disclaimer voice of LLMs, then researchers studying self-reports or introspection of models might have a confound they need to control for. Our results show that there is a direction they can use to steer this voice. More broadly, our work shows that what models say about themselves is not a fact about them. What they say doesn&#39;t come only from weights, but it is partially set by the chat template, and because of that a model&#39;s self-description shouldn&#39;t be treated literally.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "102 points · 101 comments"
       }
     ],
     "2026-09-26": [
@@ -50,7 +92,7 @@
         "description": "Large-scale agentic training and evaluation with large language models (LLMs) rely on isolated, stateful execution environments in which models inspect repositories, invoke tools, execute commands, and interact with task-specific services. These workloads create sandboxes in large bursts, span heterogeneous functionality and isolation requirements, retain state across long interactions, and draw from large image corpora with limited reuse. Supporting them therefore requires an elastic execution platform rather than a single sandbox runtime.\n  This report presents DeepSeek Elastic Compute (DSec), a production sandbox platform that exposes FnCall, container, microVM, and full-VM sandbox backends through a unified SDK. DSec coordinates placement and lifecycle management across the cluster, composes environments from independently versioned layers, combines memory sharing, reclamation, and CPU scheduling for high-density execution, and loads image data on demand from Fire-Flyer File System (3FS), a cluster-wide distributed filesystem. DSec is co-designed with the reinforcement learning (RL) framework, decouples stateful rollout execution from preemptible GPU training, coordinates sandbox lifecycle with training to preserve rollout state while reclaiming idle resources, and mitigates agent misbehavior such as reward hacking.\n  A single production-scale unit of DSec spans around 160 nodes, serving about 3 million sandboxes per day; in production, it supports over 380,000 concurrent sandboxes and sustains over 5,000 sandbox creations per second. Our evaluation and deployment experience show that these mechanisms reduce environment setup and image-distribution overhead, improve memory efficiency, and preserve latency-sensitive performance under high-density overcommit.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "235 points · 78 comments"
+        "stats": "318 points · 109 comments"
       },
       {
         "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
@@ -58,7 +100,7 @@
         "description": "Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or worse in “your” own code? This is for you.  There are significant and legitimate ethical concerns about frontier LLMs run by big tech companies, these have been discussed at length, I’m aware and agree, this post is not about them. Please don’t mistake me for a pro-LLM techbro.  Al...",
         "image": "https://us1.discourse-cdn.com/flex002/uploads/haskell/original/1X/89166504e40f4869ea825dd70048017861ec8578.png",
         "source": "discourse.haskell.org",
-        "stats": "213 points · 263 comments"
+        "stats": "330 points · 337 comments"
       },
       {
         "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
@@ -66,7 +108,7 @@
         "description": "Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...",
         "image": "",
         "source": "blog.bustikiller.com",
-        "stats": "171 points · 221 comments"
+        "stats": "183 points · 225 comments"
       },
       {
         "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
@@ -74,7 +116,7 @@
         "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises. ",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
         "source": "bbc.com",
-        "stats": "112 points · 175 comments"
+        "stats": "130 points · 192 comments"
       },
       {
         "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
@@ -82,7 +124,7 @@
         "description": "A repository on Tangled",
         "image": "https://tangled.org/yanndegat.tngl.sh/drawgent/opengraph",
         "source": "tangled.org",
-        "stats": "142 points · 39 comments"
+        "stats": "175 points · 45 comments"
       }
     ],
     "2026-09-25": [
@@ -92,7 +134,7 @@
         "description": "When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.",
         "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
         "source": "swarmtraces.org",
-        "stats": "712 points · 452 comments"
+        "stats": "742 points · 465 comments"
       },
       {
         "url": "https://ollaya.dev/",
@@ -100,7 +142,7 @@
         "description": "Ollaya downloads and serves open decision models on your own machine. Typed, calibrated answers in milliseconds, private and open source.",
         "image": "https://ollaya.dev/static/og.png?v=7bd2eae221",
         "source": "ollaya.dev",
-        "stats": "589 points · 145 comments"
+        "stats": "608 points · 145 comments"
       },
       {
         "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
@@ -108,65 +150,49 @@
         "description": "In a 2-1 decision, a federal appeals court upheld the Department of Defense&#x27;s blacklisting of Anthropic.",
         "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "491 points · 863 comments"
+        "stats": "496 points · 883 comments"
       },
       {
-        "url": "https://mouse.dev/blog/muse-special/",
-        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-        "description": "While Muse was building my website, one subagent ran on a model called azure/muse-special. So I dug through the filesystem again.",
-        "image": "https://mouse.dev/og/muse-special.png",
-        "source": "mouse.dev",
-        "stats": "142 points · 50 comments"
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+        "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+        "description": "155 points · 148 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
       },
       {
-        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-        "title": "Classified estimates show the NSA is paying billions to test AI models",
-        "description": "The price tag is significantly higher than previously known.",
-        "image": "https://static.washingtonsun.com/dims4/default/20a9fb0/2147483647/strip/true/crop/4500x2531+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F3a%2F9de8050f4750b3d0066f0092a434%2Fap25006783508147.jpg",
-        "source": "washingtonsun.com",
-        "stats": "176 points · 106 comments"
+        "url": "https://dashbit.co/blog/evolving-ai-era",
+        "title": "Evolving programming languages in the AI era",
+        "description": "What happens to programming languages when humans are no longer writing most of the code?",
+        "image": "",
+        "source": "dashbit.co",
+        "stats": "136 points · 97 comments"
       }
     ],
     "2026-09-24": [
       {
-        "url": "https://transluce.org/agent-activity",
-        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "description": "We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.",
-        "image": "https://transluce.org/cards/urlquery-agent-activity-social.png",
-        "source": "transluce.org",
-        "stats": "265 points · 308 comments"
-      },
-      {
         "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
         "title": "How I changed teaching after AI managed to do all my homework assignments",
-        "description": "188 points · 170 comments",
+        "description": "293 points · 273 comments",
         "image": "",
         "source": "thelastsoftwareengineer.substack.com",
         "stats": ""
       },
       {
-        "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-        "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-        "description": "The year’s most popular slang reveals what young people think about artificial intelligence – and it’s not positive",
-        "image": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1123278240e8431e2186869b1ee9a2",
-        "source": "theguardian.com",
-        "stats": "210 points · 316 comments"
-      },
-      {
         "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
         "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-        "description": "170 points · 43 comments",
+        "description": "173 points · 44 comments",
         "image": "",
         "source": "resobscura.substack.com",
         "stats": ""
       },
       {
-        "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-        "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-        "description": "A Sydney tutoring company will shut its doors at the end of the week after telling customers artificial intelligence has rendered its service effectively obsolete.",
-        "image": "https://static.ffx.io/images/$zoom_0.2383%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_92/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ece659b09d978278f1063e2ef412bb0b3b8bb118",
-        "source": "afr.com",
-        "stats": "142 points · 231 comments"
+        "url": "https://adekau.github.io/posts/2020/llamas.html",
+        "title": "Fourier Analysis: Drawing Llamas with Circles",
+        "description": "78 points · 11 comments",
+        "image": "",
+        "source": "adekau.github.io",
+        "stats": ""
       }
     ],
     "2026-09-23": [
@@ -195,16 +221,6 @@
         "image": "",
         "source": "openai.com",
         "stats": ""
-      }
-    ],
-    "2026-09-21": [
-      {
-        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-        "title": "Security auditing in the age of (good enough) AI",
-        "description": "Before code review even starts, agents let us build custom tooling and formal models. Here’s how six months of building with AI agents helped us find real issues in our Miden zkVM audit.",
-        "image": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/auditing-ai-social-banner.png",
-        "source": "blog.trailofbits.com",
-        "stats": "94 points · 16 comments"
       }
     ]
   }
