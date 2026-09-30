@@ -1,72 +1,98 @@
 {
-  "lastUpdated": "2026-09-29T08:07:54.021Z",
+  "lastUpdated": "2026-09-30T08:12:25.128Z",
   "days": {
-    "2026-09-29": [
+    "2026-09-30": [
       {
-        "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
-        "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
-        "description": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it&#x27;s said, let me …",
-        "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "28 points · 20 comments"
+        "url": "https://github.com/Sparticle62ops/pssa",
+        "title": "PSSA: A non-transformer language model written from scratch in Rust",
+        "description": "A custom AI architecture being developed in rust . Contribute to Sparticle62ops/pssa development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/db6072d025ba9b102056927b8cd5fc72b4df91880ae27092beecf3af839647d1/Sparticle62ops/pssa",
+        "source": "github.com",
+        "stats": "74 points · 29 comments"
       },
       {
-        "url": "https://www.washingtonpost.com/technology/2026/09/28/chatgpt-maker-openai-scraps-release-astra-61-model-over-safety/",
-        "title": "OpenAI scraps release of Astra 6.1 model over safety issues",
+        "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+        "title": "Ballmer Peak",
+        "description": "56 points · 14 comments",
+        "image": "",
+        "source": "en.wikipedia.org",
+        "stats": ""
+      },
+      {
+        "url": "https://agmai.org/general-sep29/",
+        "title": "Responsible Release of AI-Generated Mathematics",
+        "description": "Responsible Release of AI-Generated Mathematics September 29, 2026 Back to main page Download PDF At present, some frontier AI labs are testing advanced mathematical problems on proprietary models …",
+        "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+        "source": "agmai.org",
+        "stats": "49 points · 48 comments"
+      },
+      {
+        "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+        "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
         "description": "14 points · 8 comments",
         "image": "",
-        "source": "washingtonpost.com",
+        "source": "reuters.com",
         "stats": ""
       },
       {
-        "url": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/",
-        "title": "AI risk is not sentience by computers, it is negligence by humans",
-        "description": "12 points · 3 comments",
+        "url": "https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/",
+        "title": "DeepSeek, Huawei partner on chip programming tools to reduce reliance on Nvidia",
+        "description": "3 points · 0 comments",
         "image": "",
-        "source": "seattletimes.com",
+        "source": "reuters.com",
+        "stats": ""
+      }
+    ],
+    "2026-09-29": [
+      {
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+        "description": "907 points · 817 comments",
+        "image": "",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://blog.roboflow.com/gpt-6-astra-vision/",
-        "title": "GPT-6 Astra Is the Best Vision Model We Have Tested",
-        "description": "We test GPT-6 Astra on object detection, segmentation, counting, visual reasoning, and video, with examples, benchmark results, and cost comparisons.",
-        "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/09/img-blog-gpt6-astra-v1b.png",
-        "source": "blog.roboflow.com",
-        "stats": "13 points · 0 comments"
+        "url": "https://openai.com/index/introducing-dots/",
+        "title": "Dots: Always-on agents",
+        "description": "578 points · 438 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       },
       {
-        "url": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91",
-        "title": "OpenAI axes next model citing safety issues",
-        "description": "6 points · 3 comments",
+        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+        "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+        "description": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’...",
+        "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+        "source": "eff.org",
+        "stats": "540 points · 398 comments"
+      },
+      {
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+        "description": "416 points · 130 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "jorgegarciaherrero.com",
+        "stats": ""
+      },
+      {
+        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+        "title": "ChatGPT Pro 500",
+        "description": "200 points · 231 comments",
+        "image": "",
+        "source": "help.openai.com",
         "stats": ""
       }
     ],
     "2026-09-28": [
-      {
-        "url": "https://colo.to/nvidia-stock-narrative.html",
-        "title": "Owed a billion dollars in Nvidia stock",
-        "description": "A first-person account of a 1993 NVIDIA stock option grant, a decades-later discovery of a vesting discrepancy, and how the statute of limitations settled it.",
-        "image": "",
-        "source": "colo.to",
-        "stats": "1065 points · 447 comments"
-      },
       {
         "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
         "title": "It's Time to Investigate the AI Labs",
         "description": "Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series of​ carefully planned announcements​ ... Read more",
         "image": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp",
         "source": "calnewport.com",
-        "stats": "455 points · 177 comments"
-      },
-      {
-        "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-        "title": "The problem is not AI code, but not knowing about system architecture or intent",
-        "description": "If we think Is writing code dead, and AI is generating all codebases, I still think the bigger problem is people or full teams not knowing anything anymore about the system...",
-        "image": "https://www.ssp.sh/brain/_img/feature/gen/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore.webp",
-        "source": "ssp.sh",
-        "stats": "360 points · 229 comments"
+        "stats": "603 points · 266 comments"
       },
       {
         "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
@@ -74,7 +100,15 @@
         "description": "In the midst of growing fears that artificial intelligence is advancing at such a rate that it may compel itself to end all life on earth, AI giants from OpenAI to Anthropic are switching up their …",
         "image": "https://i0.wp.com/thecivilian.co.nz/wp-content/uploads/2026/09/aiendoftheworldstory.jpg?fit=872%2C591&#038;ssl=1",
         "source": "thecivilian.co.nz",
-        "stats": "430 points · 390 comments"
+        "stats": "438 points · 393 comments"
+      },
+      {
+        "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+        "title": "The problem is not AI code, but not knowing about system architecture or intent",
+        "description": "If we think writing code is dead, and AI is generating all codebases, I still think the bigger problem is people or full teams not knowing anything anymore about the system...",
+        "image": "https://www.ssp.sh/brain/_img/feature/gen/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore.webp",
+        "source": "ssp.sh",
+        "stats": "382 points · 239 comments"
       },
       {
         "url": "https://stateofutopia.com/experiments/microllmlab/",
@@ -82,46 +116,22 @@
         "description": "Run Q4 small language models entirely in the browser with WebGPU. Chat, benchmark, and compare PetitGPT, SmolLM2, and friends on-device.",
         "image": "",
         "source": "stateofutopia.com",
-        "stats": "225 points · 81 comments"
+        "stats": "276 points · 113 comments"
+      },
+      {
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "title": "Prompting Claude Opus 5.5",
+        "description": "Behavioral differences from Claude Opus 5 and the prompting and harness patterns that address them: effort calibration, thinking behavior in API integrations and chat, progress updates, unattended and multiagent tasks, safeguard refusals, frontend design, complex visual inputs, multi-app workflows, and pasted text in user messages.",
+        "image": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5?design-rev=2",
+        "source": "platform.claude.com",
+        "stats": "205 points · 222 comments"
       }
     ],
     "2026-09-27": [
       {
-        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "title": "There are no \"rogue\" AI agents",
-        "description": "391 points · 268 comments",
-        "image": "",
-        "source": "eoinhiggins.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-        "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "192 points · 103 comments"
-      },
-      {
-        "url": "https://tinyaiarena.com/",
-        "title": "Show HN: TinyAIArena watch AI agents battle it out",
-        "description": "117 points · 45 comments",
-        "image": "",
-        "source": "tinyaiarena.com",
-        "stats": ""
-      },
-      {
-        "url": "https://arxiv.org/abs/2609.25021",
-        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "description": "Large Language Models (LLMs) tend to add disclaimers like &#34;I&#39;m just an AI&#34; when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood. Are the models telling us about themselves or rather how they are deployed? In this work, we show that the chat template works like a switch - when present, it turns this disclaimer voice up and experiential voice like &#34;I feel&#34; down, across 8 popular open-source instruct models up to 9B parameters in size. And conversely when the chat template is not present, it turns the disclaimer voice down and experiential voice up. Inside the activations of 3 models, we find a direction that steers this behavior. Removing the direction in the model&#39;s activation space turns disclaimer voice down and adding it turns it up, while a random direction of the same size has little effect. We find that instruct models without chat template, when we add the disclaimer direction to them, disclaim like the template was there. Since the chat template controls the disclaimer voice of LLMs, then researchers studying self-reports or introspection of models might have a confound they need to control for. Our results show that there is a direction they can use to steer this voice. More broadly, our work shows that what models say about themselves is not a fact about them. What they say doesn&#39;t come only from weights, but it is partially set by the chat template, and because of that a model&#39;s self-description shouldn&#39;t be treated literally.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "103 points · 104 comments"
-      },
-      {
         "url": "https://earnanhonestdollar.com/bench",
         "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "description": "86 points · 36 comments",
+        "description": "95 points · 41 comments",
         "image": "",
         "source": "earnanhonestdollar.com",
         "stats": ""
@@ -187,16 +197,6 @@
         "image": "",
         "source": "adekau.github.io",
         "stats": ""
-      }
-    ],
-    "2026-09-23": [
-      {
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "description": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
-        "source": "anthropic.com",
-        "stats": "780 points · 799 comments"
       }
     ]
   }
