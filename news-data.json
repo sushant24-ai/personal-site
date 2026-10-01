@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-09-30T08:12:25.128Z",
+  "lastUpdated": "2026-10-01T08:35:10.109Z",
   "days": {
+    "2026-10-01": [
+      {
+        "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+        "title": "Is sandboxing sufficient to contain rogue agents?",
+        "description": "Quick caveats: this is a post on AI safety, written by a cryptography professor. If that troubles you, you should read something else. I try hard not to work on AI (except when the topic occasional…",
+        "image": "https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&#038;ssl=1",
+        "source": "blog.cryptographyengineering.com",
+        "stats": "34 points · 56 comments"
+      },
+      {
+        "url": "https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30/",
+        "title": "AI borrowers face tough sell in risky corners of US credit market",
+        "description": "13 points · 2 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49919026",
+        "title": "OpenAI halved the allowance of the $200 plan to 10x",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://avrea.com/blog/ios-macos-ci-benchmark",
+        "title": "iOS and macOS CI benchmark: Avrea is 3-23x faster than GitHub Actions",
+        "description": "On GitHub Actions&#x27; standard macOS runner, a Firefox for iOS build takes over 12 minutes and on Avrea with a warm cache it takes just under 2 minutes. Mastodon, built with Tuist, goes from 4 minutes 30 seconds to 12 seconds.",
+        "image": "https://cdn.prod.website-files.com/69a56a270e454c0d5521fd2e/6abcdbb32ba098ab476f454a_apple_thumb.jpg",
+        "source": "avrea.com",
+        "stats": "5 points · 2 comments"
+      },
+      {
+        "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+        "title": "OpenAI whines that Chinese model stole its IP that it stole from everybody else",
+        "description": "US model makers can train on web data - but distilling theirs is a ",
+        "image": "https://image.theregister.com/5300289.jpg?imageId=5300289&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-09-30": [
       {
-        "url": "https://github.com/Sparticle62ops/pssa",
-        "title": "PSSA: A non-transformer language model written from scratch in Rust",
-        "description": "A custom AI architecture being developed in rust . Contribute to Sparticle62ops/pssa development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/db6072d025ba9b102056927b8cd5fc72b4df91880ae27092beecf3af839647d1/Sparticle62ops/pssa",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "title": "Gemini 4 Argon",
+        "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+        "source": "blog.google",
+        "stats": "1344 points · 861 comments"
+      },
+      {
+        "url": "https://earendil.com/posts/you-said-no-mcp/",
+        "title": "You said no MCP",
+        "description": "Pi now supports MCP. Why we changed our minds, what changed in MCP and in Pi, and what Codemode is.",
+        "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;you-said-no-mcp.png",
+        "source": "earendil.com",
+        "stats": "640 points · 350 comments"
+      },
+      {
+        "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+        "title": "The AI Race Just Got Awkward",
+        "description": "Funny how quiet everyone got.",
+        "image": "https://insufferable.dev/insufferable-og.png",
+        "source": "insufferable.dev",
+        "stats": "385 points · 427 comments"
+      },
+      {
+        "url": "https://github.com/magnitudedev/magnitude",
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on App...",
+        "image": "https://opengraph.githubassets.com/c0db2e3a565bfcb4eff0f16c9c6f746abfb85683384528f27496d47fffb6ee3d/magnitudedev/magnitude",
         "source": "github.com",
-        "stats": "74 points · 29 comments"
+        "stats": "157 points · 80 comments"
       },
       {
-        "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-        "title": "Ballmer Peak",
-        "description": "56 points · 14 comments",
-        "image": "",
-        "source": "en.wikipedia.org",
-        "stats": ""
-      },
-      {
-        "url": "https://agmai.org/general-sep29/",
-        "title": "Responsible Release of AI-Generated Mathematics",
-        "description": "Responsible Release of AI-Generated Mathematics September 29, 2026 Back to main page Download PDF At present, some frontier AI labs are testing advanced mathematical problems on proprietary models …",
-        "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-        "source": "agmai.org",
-        "stats": "49 points · 48 comments"
-      },
-      {
-        "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-        "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
-        "description": "14 points · 8 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/",
-        "title": "DeepSeek, Huawei partner on chip programming tools to reduce reliance on Nvidia",
-        "description": "3 points · 0 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+        "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+        "description": "Analysis of Google&#x27;s Gemini 4 Argon (High) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
+        "image": "https://artificialanalysis.ai/en/models/gemini-4-argon/opengraph-image?98c684ee125a0a03",
+        "source": "artificialanalysis.ai",
+        "stats": "103 points · 57 comments"
       }
     ],
     "2026-09-29": [
       {
         "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
         "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-        "description": "907 points · 817 comments",
+        "description": "1053 points · 936 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://openai.com/index/introducing-dots/",
         "title": "Dots: Always-on agents",
-        "description": "578 points · 438 comments",
+        "description": "752 points · 630 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -66,12 +108,12 @@
         "description": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’...",
         "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
         "source": "eff.org",
-        "stats": "540 points · 398 comments"
+        "stats": "563 points · 427 comments"
       },
       {
         "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
         "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-        "description": "416 points · 130 comments",
+        "description": "422 points · 137 comments",
         "image": "",
         "source": "jorgegarciaherrero.com",
         "stats": ""
@@ -79,7 +121,7 @@
       {
         "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
         "title": "ChatGPT Pro 500",
-        "description": "200 points · 231 comments",
+        "description": "218 points · 262 comments",
         "image": "",
         "source": "help.openai.com",
         "stats": ""
@@ -171,32 +213,6 @@
         "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
         "source": "swarmtraces.org",
         "stats": "750 points · 468 comments"
-      }
-    ],
-    "2026-09-24": [
-      {
-        "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-        "title": "How I changed teaching after AI managed to do all my homework assignments",
-        "description": "293 points · 273 comments",
-        "image": "",
-        "source": "thelastsoftwareengineer.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-        "description": "173 points · 44 comments",
-        "image": "",
-        "source": "resobscura.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://adekau.github.io/posts/2020/llamas.html",
-        "title": "Fourier Analysis: Drawing Llamas with Circles",
-        "description": "78 points · 11 comments",
-        "image": "",
-        "source": "adekau.github.io",
-        "stats": ""
       }
     ]
   }
