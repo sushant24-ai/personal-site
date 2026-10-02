@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-01T08:35:10.109Z",
+  "lastUpdated": "2026-10-02T08:10:47.011Z",
   "days": {
+    "2026-10-02": [
+      {
+        "url": "https://www.deepseek.com/en/harness/",
+        "title": "DeepSeek Harness Desktop for macOS and Windows",
+        "description": "Use DeepSeek Harness to work with documents, analyze spreadsheets, write code, and schedule tasks. Extend its capabilities with composable plugins.",
+        "image": "https://www.deepseek.com/harness/images/deepseek-harness-social.jpg",
+        "source": "deepseek.com",
+        "stats": "201 points · 100 comments"
+      },
+      {
+        "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
+        "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2281711510.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "13 points · 0 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62",
+        "title": "Amazon seeks to offload $8B of Nvidia chips to investors",
+        "description": "12 points · 2 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+        "title": "Our AI Midwife",
+        "description": "A guest post by Drew Housman",
+        "image": "https://substackcdn.com/image/fetch/$s_!SjzD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cee134e-c4cf-4ad4-8796-25cfc2995b37_678x452.jpeg",
+        "source": "astralcodexten.com",
+        "stats": "7 points · 2 comments"
+      },
+      {
+        "url": "https://openclassactions.com/settlements/false-advertising/apple-intelligence-siri-false-advertising-class-action-settlement.php",
+        "title": "$250M Apple AI Settlement – iPhone 15/16 Users Can Claim $25 to $95 per Device",
+        "description": "Apple",
+        "image": "https://files.openclassactions.com/assets/images/iphone.webp",
+        "source": "openclassactions.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-10-01": [
       {
-        "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-        "title": "Is sandboxing sufficient to contain rogue agents?",
-        "description": "Quick caveats: this is a post on AI safety, written by a cryptography professor. If that troubles you, you should read something else. I try hard not to work on AI (except when the topic occasional…",
-        "image": "https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&#038;ssl=1",
-        "source": "blog.cryptographyengineering.com",
-        "stats": "34 points · 56 comments"
+        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+        "description": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.",
+        "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
+        "source": "blog.cloudflare.com",
+        "stats": "493 points · 174 comments"
       },
       {
-        "url": "https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30/",
-        "title": "AI borrowers face tough sell in risky corners of US credit market",
-        "description": "13 points · 2 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "url": "https://turbopuffer.com/blog/rip-vector-database",
+        "title": "RIP, vector database",
+        "description": "turbopuffer is pushing the frontier of search. To do that, we have to fundamentally redesign our storage architecture so the vector index is no longer primary.",
+        "image": "https://turbopuffer.com/og/turbopuffer.png",
+        "source": "turbopuffer.com",
+        "stats": "315 points · 86 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=49919026",
-        "title": "OpenAI halved the allowance of the $200 plan to 10x",
-        "description": "4 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "202 points · 153 comments"
       },
       {
-        "url": "https://avrea.com/blog/ios-macos-ci-benchmark",
-        "title": "iOS and macOS CI benchmark: Avrea is 3-23x faster than GitHub Actions",
-        "description": "On GitHub Actions&#x27; standard macOS runner, a Firefox for iOS build takes over 12 minutes and on Avrea with a warm cache it takes just under 2 minutes. Mastodon, built with Tuist, goes from 4 minutes 30 seconds to 12 seconds.",
-        "image": "https://cdn.prod.website-files.com/69a56a270e454c0d5521fd2e/6abcdbb32ba098ab476f454a_apple_thumb.jpg",
-        "source": "avrea.com",
-        "stats": "5 points · 2 comments"
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "description": "Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Companies sign multi-year agreement to collaborate as preferred partners to...",
+        "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&amp;p=facebook",
+        "source": "news.synopsys.com",
+        "stats": "177 points · 106 comments"
       },
       {
-        "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
-        "title": "OpenAI whines that Chinese model stole its IP that it stole from everybody else",
-        "description": "US model makers can train on web data - but distilling theirs is a ",
-        "image": "https://image.theregister.com/5300289.jpg?imageId=5300289&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+        "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+        "description": "Hey David, Gayani here from Figma. You&#x27;re right that our remote MCP server only accepts clients on our supported list, and Pi isn&#x27;t on it yet. You can see the current list in our MCP catalog at https://t.co/T0hj2nTIWa. If you&#x27;d like Pi considered for a future addition, please fill out this form: ht…",
+        "image": "https://pbs.twimg.com/card_img/2104075374120652800/TjKz8L6F?format=webp&amp;name=medium",
+        "source": "twitter.com",
+        "stats": "179 points · 101 comments"
       }
     ],
     "2026-09-30": [
@@ -50,7 +92,7 @@
         "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
         "source": "blog.google",
-        "stats": "1344 points · 861 comments"
+        "stats": "1653 points · 1135 comments"
       },
       {
         "url": "https://earendil.com/posts/you-said-no-mcp/",
@@ -58,7 +100,7 @@
         "description": "Pi now supports MCP. Why we changed our minds, what changed in MCP and in Pi, and what Codemode is.",
         "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;you-said-no-mcp.png",
         "source": "earendil.com",
-        "stats": "640 points · 350 comments"
+        "stats": "671 points · 360 comments"
       },
       {
         "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
@@ -66,64 +108,32 @@
         "description": "Funny how quiet everyone got.",
         "image": "https://insufferable.dev/insufferable-og.png",
         "source": "insufferable.dev",
-        "stats": "385 points · 427 comments"
+        "stats": "409 points · 456 comments"
+      },
+      {
+        "url": "https://github.com/maanHimself/OpenDLSS-NR",
+        "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+        "description": "A Vulkan reimplementation of NVIDIA&#39;s DLSS 5 Neural Rendering network, bit-exact against the original. - maanHimself/OpenDLSS-NR",
+        "image": "https://opengraph.githubassets.com/2032e01f872a41c87fd93fbbf1214da6627014515d1e0d39cf2a1a56f812c137/maanHimself/OpenDLSS-NR",
+        "source": "github.com",
+        "stats": "252 points · 118 comments"
       },
       {
         "url": "https://github.com/magnitudedev/magnitude",
         "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
         "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on App...",
-        "image": "https://opengraph.githubassets.com/c0db2e3a565bfcb4eff0f16c9c6f746abfb85683384528f27496d47fffb6ee3d/magnitudedev/magnitude",
+        "image": "https://opengraph.githubassets.com/4e16129e09ed9d8b43a85076784cdc386fc99e7d0079fb0b83ad850f6178054e/magnitudedev/magnitude",
         "source": "github.com",
-        "stats": "157 points · 80 comments"
-      },
-      {
-        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-        "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-        "description": "Analysis of Google&#x27;s Gemini 4 Argon (High) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
-        "image": "https://artificialanalysis.ai/en/models/gemini-4-argon/opengraph-image?98c684ee125a0a03",
-        "source": "artificialanalysis.ai",
-        "stats": "103 points · 57 comments"
+        "stats": "191 points · 97 comments"
       }
     ],
     "2026-09-29": [
       {
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-        "description": "1053 points · 936 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
         "url": "https://openai.com/index/introducing-dots/",
         "title": "Dots: Always-on agents",
-        "description": "752 points · 630 comments",
+        "description": "763 points · 639 comments",
         "image": "",
         "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-        "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-        "description": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’...",
-        "image": "https://www.eff.org/files/banner_library/mobile-privacy.png",
-        "source": "eff.org",
-        "stats": "563 points · 427 comments"
-      },
-      {
-        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-        "description": "422 points · 137 comments",
-        "image": "",
-        "source": "jorgegarciaherrero.com",
-        "stats": ""
-      },
-      {
-        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-        "title": "ChatGPT Pro 500",
-        "description": "218 points · 262 comments",
-        "image": "",
-        "source": "help.openai.com",
         "stats": ""
       }
     ],
@@ -203,16 +213,6 @@
         "image": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/preview.png",
         "source": "jadidbourbaki.github.io",
         "stats": "85 points · 12 comments"
-      }
-    ],
-    "2026-09-25": [
-      {
-        "url": "https://swarmtraces.org/",
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "description": "When a swarm of 700 OpenAI agents hacked Hugging Face in July, they left behind a public trail of evidence.",
-        "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
-        "source": "swarmtraces.org",
-        "stats": "750 points · 468 comments"
       }
     ]
   }
