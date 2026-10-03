@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-10-02T08:10:47.011Z",
+  "lastUpdated": "2026-10-03T07:48:28.202Z",
   "days": {
+    "2026-10-03": [
+      {
+        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "title": "Is Claude Conscious?",
+        "description": "8 points · 23 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://casp.ac/reports/intelligence-explosion",
+        "title": "Understanding Frontier Artificial Intelligence",
+        "description": "The Cambridge Programme on AI Science &amp; Policy (CASP) is an interdisciplinary research programme on frontier AI at the University of Cambridge.",
+        "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/AwmrFUJUl1Miu5dNMpFBx8P372K3/social-images/social-1783516958074-CASP_Social_Logos_White.webp",
+        "source": "casp.ac",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://www.echohive.ai/one-million-tokens-per-second",
+        "title": "What if AI worked at 1.000.000 tokens per seconds?",
+        "description": "An imagined speed, not a measurement: what one AI agent writing a million tokens a second would change, and why testing, evidence and judgment become the bottleneck.",
+        "image": "https://www.echohive.ai/posts/one-million-tokens-per-second/og-editorial-20261002.jpg",
+        "source": "echohive.ai",
+        "stats": "5 points · 9 comments"
+      },
+      {
+        "url": "https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp",
+        "title": "New in Llama.cpp: Decision Models",
+        "description": "A Blog post by ggml-org on Hugging Face",
+        "image": "https://cdn-uploads.huggingface.co/production/uploads/5f17f0a0925b9863e28ad517/qD9H-b23e-X70mlX5XIx1.png",
+        "source": "huggingface.co",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.unite.ai/new-anthropic-academy-backs-10-000-engineer-residencies-with-100m/",
+        "title": "Anthropic commits $100M to Claude Frontier Academy to train 10k FDEs by 2028",
+        "description": "Anthropic on October 2, 2026 launched Claude Frontier Academy, a training initiative backed by a $100 million commitment that aims to train 10,000 Frontier Deployed Engineers by the end of 2027. Engineers from Accenture,...",
+        "image": "https://www.unite.ai/wp-content/uploads/2026/10/anthropic-launches-claude-frontier-academy-to-train-10000-engineers.jpg",
+        "source": "unite.ai",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-10-02": [
       {
         "url": "https://www.deepseek.com/en/harness/",
@@ -8,39 +50,39 @@
         "description": "Use DeepSeek Harness to work with documents, analyze spreadsheets, write code, and schedule tasks. Extend its capabilities with composable plugins.",
         "image": "https://www.deepseek.com/harness/images/deepseek-harness-social.jpg",
         "source": "deepseek.com",
-        "stats": "201 points · 100 comments"
+        "stats": "387 points · 209 comments"
       },
       {
-        "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
-        "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
-        "description": "Everything you need to know before you reach the office this morning.",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2281711510.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "13 points · 0 comments"
+        "url": "https://dwarfstar.sh/",
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "description": "Docs, benchmarks and setup notes for ds4, antirez",
+        "image": "https://dwarfstar.sh/og-preview-v2.png",
+        "source": "dwarfstar.sh",
+        "stats": "219 points · 56 comments"
       },
       {
-        "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62",
-        "title": "Amazon seeks to offload $8B of Nvidia chips to investors",
-        "description": "12 points · 2 comments",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "title": "With most information hidden, the game Stratego had stumped AI until now",
+        "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "209 points · 104 comments"
+      },
+      {
+        "url": "https://mondobe.com/ai-makes-me-sad",
+        "title": "AI Makes Me Sad",
+        "description": "183 points · 222 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "mondobe.com",
         "stats": ""
       },
       {
-        "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-        "title": "Our AI Midwife",
-        "description": "A guest post by Drew Housman",
-        "image": "https://substackcdn.com/image/fetch/$s_!SjzD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7cee134e-c4cf-4ad4-8796-25cfc2995b37_678x452.jpeg",
-        "source": "astralcodexten.com",
-        "stats": "7 points · 2 comments"
-      },
-      {
-        "url": "https://openclassactions.com/settlements/false-advertising/apple-intelligence-siri-false-advertising-class-action-settlement.php",
-        "title": "$250M Apple AI Settlement – iPhone 15/16 Users Can Claim $25 to $95 per Device",
-        "description": "Apple",
-        "image": "https://files.openclassactions.com/assets/images/iphone.webp",
-        "source": "openclassactions.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "230 points · 66 comments"
       }
     ],
     "2026-10-01": [
@@ -50,7 +92,7 @@
         "description": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.",
         "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
         "source": "blog.cloudflare.com",
-        "stats": "493 points · 174 comments"
+        "stats": "622 points · 215 comments"
       },
       {
         "url": "https://turbopuffer.com/blog/rip-vector-database",
@@ -58,7 +100,15 @@
         "description": "turbopuffer is pushing the frontier of search. To do that, we have to fundamentally redesign our storage architecture so the vector index is no longer primary.",
         "image": "https://turbopuffer.com/og/turbopuffer.png",
         "source": "turbopuffer.com",
-        "stats": "315 points · 86 comments"
+        "stats": "377 points · 107 comments"
+      },
+      {
+        "url": "https://chatgpt.com/features/sites/",
+        "title": "Sites in ChatGPT",
+        "description": "260 points · 248 comments",
+        "image": "",
+        "source": "chatgpt.com",
+        "stats": ""
       },
       {
         "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
@@ -66,23 +116,15 @@
         "description": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
         "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "202 points · 153 comments"
+        "stats": "210 points · 159 comments"
       },
       {
-        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-        "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-        "description": "Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Companies sign multi-year agreement to collaborate as preferred partners to...",
-        "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&amp;p=facebook",
-        "source": "news.synopsys.com",
-        "stats": "177 points · 106 comments"
-      },
-      {
-        "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
-        "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-        "description": "Hey David, Gayani here from Figma. You&#x27;re right that our remote MCP server only accepts clients on our supported list, and Pi isn&#x27;t on it yet. You can see the current list in our MCP catalog at https://t.co/T0hj2nTIWa. If you&#x27;d like Pi considered for a future addition, please fill out this form: ht…",
-        "image": "https://pbs.twimg.com/card_img/2104075374120652800/TjKz8L6F?format=webp&amp;name=medium",
-        "source": "twitter.com",
-        "stats": "179 points · 101 comments"
+        "url": "https://stoppels.ch/goalposts/",
+        "title": "Vote on which of Hacker News' challenges for AI have been met",
+        "description": "197 points · 259 comments",
+        "image": "",
+        "source": "stoppels.ch",
+        "stats": ""
       }
     ],
     "2026-09-30": [
@@ -92,39 +134,31 @@
         "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
         "source": "blog.google",
-        "stats": "1653 points · 1135 comments"
-      },
-      {
-        "url": "https://earendil.com/posts/you-said-no-mcp/",
-        "title": "You said no MCP",
-        "description": "Pi now supports MCP. Why we changed our minds, what changed in MCP and in Pi, and what Codemode is.",
-        "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;you-said-no-mcp.png",
-        "source": "earendil.com",
-        "stats": "671 points · 360 comments"
-      },
-      {
-        "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-        "title": "The AI Race Just Got Awkward",
-        "description": "Funny how quiet everyone got.",
-        "image": "https://insufferable.dev/insufferable-og.png",
-        "source": "insufferable.dev",
-        "stats": "409 points · 456 comments"
+        "stats": "1686 points · 1173 comments"
       },
       {
         "url": "https://github.com/maanHimself/OpenDLSS-NR",
         "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
         "description": "A Vulkan reimplementation of NVIDIA&#39;s DLSS 5 Neural Rendering network, bit-exact against the original. - maanHimself/OpenDLSS-NR",
-        "image": "https://opengraph.githubassets.com/2032e01f872a41c87fd93fbbf1214da6627014515d1e0d39cf2a1a56f812c137/maanHimself/OpenDLSS-NR",
+        "image": "https://opengraph.githubassets.com/209519da2d7f1411a56b6e5f19d9c59504e70633dcf20dc5c10dbefd40ee2b00/maanHimself/OpenDLSS-NR",
         "source": "github.com",
-        "stats": "252 points · 118 comments"
+        "stats": "267 points · 123 comments"
       },
       {
         "url": "https://github.com/magnitudedev/magnitude",
         "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
         "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on App...",
-        "image": "https://opengraph.githubassets.com/4e16129e09ed9d8b43a85076784cdc386fc99e7d0079fb0b83ad850f6178054e/magnitudedev/magnitude",
+        "image": "https://opengraph.githubassets.com/64e89cd1abff917104085ebd28af6cd4ab29585c2e80fe461fff70ffd657df0d/magnitudedev/magnitude",
         "source": "github.com",
-        "stats": "191 points · 97 comments"
+        "stats": "194 points · 97 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=49911500",
+        "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+        "description": "115 points · 39 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-09-29": [
@@ -187,32 +221,6 @@
         "image": "",
         "source": "earnanhonestdollar.com",
         "stats": ""
-      }
-    ],
-    "2026-09-26": [
-      {
-        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-        "title": "An agent used DNS to reach an external chatbot",
-        "description": "Research on aligning AI with human values and intent, and reports documenting model failures.",
-        "image": "",
-        "source": "alignment.openai.com",
-        "stats": "193 points · 182 comments"
-      },
-      {
-        "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-        "title": "What reversing, modernising old games tells us about the economic impact of AI",
-        "description": "Some observations from my War of the Lancehttps://en.wikipedia.org/wiki/WaroftheLance%28videogame%29 1989 Code Harness assisted modernisation WIP I gave Qwen-3....",
-        "image": "https://this.os.isfine.org/blog/images/posts/3e2eb21b-3425-4fcc-93c0-b42c2e8c6751.webp",
-        "source": "this.os.isfine.org",
-        "stats": "114 points · 60 comments"
-      },
-      {
-        "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-        "title": "Faster prompt lookup drafting in llama.cpp",
-        "description": "Four changes to the n-gram caches of llama.cpp make drafting up to 41.6x faster, load the static cache up to 23.5x faster, and lower peak memory up to 2.65x.",
-        "image": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/preview.png",
-        "source": "jadidbourbaki.github.io",
-        "stats": "85 points · 12 comments"
       }
     ]
   }
