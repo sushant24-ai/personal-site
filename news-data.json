@@ -1,56 +1,114 @@
 {
-  "lastUpdated": "2026-10-04T07:57:01.059Z",
+  "lastUpdated": "2026-10-05T08:40:56.275Z",
   "days": {
+    "2026-10-05": [
+      {
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "title": "Anthropic reported diary entry to police, woman faces felony charge",
+        "description": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff&#039;s office. She later said that...",
+        "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-04-image-9.jpg",
+        "source": "techspot.com",
+        "stats": "66 points · 58 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
+        "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+        "description": "15 points · 6 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+        "title": "The AI industry is booming. Women are getting left behind",
+        "description": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption",
+        "image": "https://i.guim.co.uk/img/media/887a4a342690f7c675f7ae9e721933650383125d/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=060263602fa1d9f43531fdab27dd7730",
+        "source": "theguardian.com",
+        "stats": "5 points · 8 comments"
+      },
+      {
+        "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+        "title": "Altman: `World should accept some bad things happening' for the benefits of AI",
+        "description": "4 points · 8 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.forbes.com/councils/forbesagencycouncil/2026/04/13/the-hottest-debate-in-tech-ads-in-ai/",
+        "title": "The Hottest Debate in Tech: Ads in AI",
+        "description": "For brands, this is simultaneously the most exciting and most fragile moment in the history of digital marketing.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6750aeefbc948ab4f8f5ce14/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+        "source": "forbes.com",
+        "stats": "3 points · 1 comments"
+      }
+    ],
     "2026-10-04": [
       {
         "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
         "title": "Religious scholars met with Anthropic",
-        "description": "62 points · 103 comments",
+        "description": "159 points · 412 comments",
         "image": "",
         "source": "nytimes.com",
         "stats": ""
       },
       {
-        "url": "https://alexeyindeev.substack.com/p/i-stopped-reviewing-my-agents-code",
-        "title": "I stopped reviewing my agents' code. Here's what I do instead",
-        "description": "10 points · 6 comments",
-        "image": "",
-        "source": "alexeyindeev.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-        "title": "AI can clone your indie game, but not its soul",
-        "description": "AI can clone your indie game, but not its soul",
-        "image": "https://pbs.twimg.com/media/HTo6GQqXkAE6wKP?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "12 points · 7 comments"
-      },
-      {
-        "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
-        "title": "How the bad science of AI doomerism is good for big business",
-        "description": "There is no clear path showing that today’s AI systems will lead to superintelligence, much less a basis for calculating the probability of doom.",
-        "image": "https://thebulletin.org/wp-content/uploads/2026/09/aidoomer-1024x709.png",
-        "source": "thebulletin.org",
-        "stats": "7 points · 4 comments"
-      },
-      {
-        "url": "https://github.com/joonfjp/16agents",
-        "title": "MBTI for AI coding agents, complete with a self-awareness score",
-        "description": "a personality test for your agent. Contribute to joonfjp/16agents development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/9f03c73ec934ebecb10c8670b197c4efe0c54e3cf7de00e5d772303c86d7de20/joonfjp/16agents",
+        "url": "https://github.com/allenv0/SCM",
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "description": "Deep AI search for every photo and every frame of video in any folder on macOS - allenv0/SCM",
+        "image": "https://opengraph.githubassets.com/4a91acfcb6ac0b08a950c2e9c28ef58f54136cbc2372564b44b4132d03fc8a40/allenv0/SCM",
         "source": "github.com",
-        "stats": "2 points · 0 comments"
+        "stats": "151 points · 67 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "title": "Homa: The end of TCP for AI clusters [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "71 points · 37 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+        "title": "How to scale intent, quality, and artistry with AI [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "82 points · 29 comments"
+      },
+      {
+        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+        "title": "What's the future for pure math research in the age of AI?",
+        "description": "Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.",
+        "image": "https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png",
+        "source": "writings.stephenwolfram.com",
+        "stats": "61 points · 47 comments"
       }
     ],
     "2026-10-03": [
       {
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "description": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology",
-        "image": "https://i.guim.co.uk/img/media/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64134a41050264f5ceac249a333fc99",
-        "source": "theguardian.com",
-        "stats": "260 points · 3 comments"
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+        "title": "I quit OpenAI because its culture is broken",
+        "description": "473 points · 790 comments",
+        "image": "",
+        "source": "theatlantic.com",
+        "stats": ""
+      },
+      {
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "description": "The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2197497048-e1790790386809.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "399 points · 754 comments"
+      },
+      {
+        "url": "https://liao.gg/blog/agents-dont-need-memory",
+        "title": "Agents don't need memory, they need documentation",
+        "description": "363 points · 257 comments",
+        "image": "",
+        "source": "liao.gg",
+        "stats": ""
       },
       {
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
@@ -58,31 +116,15 @@
         "description": "Kolibri is Aleph Alpha",
         "image": "https://tej.as/img/og/blog/aleph-alpha-kolibri.png",
         "source": "tej.as",
-        "stats": "412 points · 11 comments"
+        "stats": "419 points · 12 comments"
       },
       {
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-        "description": "How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.",
-        "image": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/og.png",
-        "source": "claude.dev",
-        "stats": "210 points · 144 comments"
-      },
-      {
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-        "title": "I quit OpenAI because its culture is broken",
-        "description": "193 points · 454 comments",
-        "image": "",
-        "source": "theatlantic.com",
-        "stats": ""
-      },
-      {
-        "url": "https://liao.gg/blog/agents-dont-need-memory",
-        "title": "Agents don't need memory, they need documentation",
-        "description": "141 points · 83 comments",
-        "image": "",
-        "source": "liao.gg",
-        "stats": ""
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "description": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology",
+        "image": "https://i.guim.co.uk/img/media/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64134a41050264f5ceac249a333fc99",
+        "source": "theguardian.com",
+        "stats": "267 points · 3 comments"
       }
     ],
     "2026-10-02": [
@@ -92,7 +134,7 @@
         "description": "Use DeepSeek Harness to work with documents, analyze spreadsheets, write code, and schedule tasks. Extend its capabilities with composable plugins.",
         "image": "https://www.deepseek.com/harness/images/deepseek-harness-social.jpg",
         "source": "deepseek.com",
-        "stats": "407 points · 218 comments"
+        "stats": "413 points · 222 comments"
       },
       {
         "url": "https://dwarfstar.sh/",
@@ -100,15 +142,7 @@
         "description": "Docs, benchmarks and setup notes for ds4, antirez",
         "image": "https://dwarfstar.sh/og-preview-v2.png",
         "source": "dwarfstar.sh",
-        "stats": "348 points · 99 comments"
-      },
-      {
-        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "title": "With most information hidden, the game Stratego had stumped AI until now",
-        "description": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "280 points · 144 comments"
+        "stats": "359 points · 102 comments"
       },
       {
         "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
@@ -116,15 +150,23 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "330 points · 121 comments"
+        "stats": "336 points · 128 comments"
       },
       {
-        "url": "https://mondobe.com/ai-makes-me-sad",
-        "title": "AI Makes Me Sad",
-        "description": "193 points · 239 comments",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "title": "Show HN: Made an open-source Lego AI generator",
+        "description": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev - anteloc/ldraw-nova",
+        "image": "https://opengraph.githubassets.com/ec2b91f5a745eb19f68cccecd41e29055fd0be041b5f0a8142509c8904f8aebe/anteloc/ldraw-nova",
+        "source": "github.com",
+        "stats": "154 points · 50 comments"
+      },
+      {
+        "url": "https://pipod.dev/",
+        "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+        "description": "pi pod runs your pi session in a cloud pod. pipod.dev",
         "image": "",
-        "source": "mondobe.com",
-        "stats": ""
+        "source": "pipod.dev",
+        "stats": "115 points · 47 comments"
       }
     ],
     "2026-10-01": [
@@ -134,15 +176,7 @@
         "description": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.",
         "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
         "source": "blog.cloudflare.com",
-        "stats": "630 points · 217 comments"
-      },
-      {
-        "url": "https://chatgpt.com/features/sites/",
-        "title": "Sites in ChatGPT",
-        "description": "345 points · 335 comments",
-        "image": "",
-        "source": "chatgpt.com",
-        "stats": ""
+        "stats": "636 points · 217 comments"
       },
       {
         "url": "https://turbopuffer.com/blog/rip-vector-database",
@@ -150,12 +184,12 @@
         "description": "turbopuffer is pushing the frontier of search. To do that, we have to fundamentally redesign our storage architecture so the vector index is no longer primary.",
         "image": "https://turbopuffer.com/og/turbopuffer.png",
         "source": "turbopuffer.com",
-        "stats": "388 points · 116 comments"
+        "stats": "394 points · 116 comments"
       },
       {
         "url": "https://stoppels.ch/goalposts/",
         "title": "Vote on which of Hacker News' challenges for AI have been met",
-        "description": "201 points · 267 comments",
+        "description": "202 points · 271 comments",
         "image": "",
         "source": "stoppels.ch",
         "stats": ""
@@ -167,6 +201,14 @@
         "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&amp;p=facebook",
         "source": "news.synopsys.com",
         "stats": "189 points · 111 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2609.37725",
+        "title": "Context Language Models",
+        "description": "We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "176 points · 51 comments"
       }
     ],
     "2026-09-30": [
@@ -176,23 +218,15 @@
         "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
         "source": "blog.google",
-        "stats": "1696 points · 1180 comments"
+        "stats": "1698 points · 1186 comments"
       },
       {
         "url": "https://github.com/maanHimself/OpenDLSS-NR",
         "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
         "description": "A Vulkan reimplementation of NVIDIA&#39;s DLSS 5 Neural Rendering network, bit-exact against the original. - maanHimself/OpenDLSS-NR",
-        "image": "https://opengraph.githubassets.com/462ca42dab401ed5a51c6b8ca21f82faa21e8032f0f08f51582ec26bb43a891d/maanHimself/OpenDLSS-NR",
+        "image": "https://opengraph.githubassets.com/7f712c6e68800168b7dcd9f709a743327f0ca1ab2f07424c43a79ad3a2e07ac4/maanHimself/OpenDLSS-NR",
         "source": "github.com",
-        "stats": "272 points · 125 comments"
-      },
-      {
-        "url": "https://github.com/magnitudedev/magnitude",
-        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on App...",
-        "image": "https://opengraph.githubassets.com/a3a6b2f0423f4634818232d9f59b0b84ed3fb9ed09394e6dbf70a4eed7afe7b6/magnitudedev/magnitude",
-        "source": "github.com",
-        "stats": "194 points · 97 comments"
+        "stats": "275 points · 125 comments"
       }
     ],
     "2026-09-29": [
@@ -203,48 +237,6 @@
         "image": "",
         "source": "openai.com",
         "stats": ""
-      }
-    ],
-    "2026-09-28": [
-      {
-        "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-        "title": "It's Time to Investigate the AI Labs",
-        "description": "Over the last several months, the two leading frontier AI labs have shown some brazen behavior. It started with a series of​ carefully planned announcements​ ... Read more",
-        "image": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp",
-        "source": "calnewport.com",
-        "stats": "603 points · 266 comments"
-      },
-      {
-        "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-        "title": "AI companies in race to demonstrate their model most threatening to humanity",
-        "description": "In the midst of growing fears that artificial intelligence is advancing at such a rate that it may compel itself to end all life on earth, AI giants from OpenAI to Anthropic are switching up their …",
-        "image": "https://i0.wp.com/thecivilian.co.nz/wp-content/uploads/2026/09/aiendoftheworldstory.jpg?fit=872%2C591&#038;ssl=1",
-        "source": "thecivilian.co.nz",
-        "stats": "438 points · 393 comments"
-      },
-      {
-        "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-        "title": "The problem is not AI code, but not knowing about system architecture or intent",
-        "description": "If we think writing code is dead, and AI is generating all codebases, I still think the bigger problem is people or full teams not knowing anything anymore about the system...",
-        "image": "https://www.ssp.sh/brain/_img/feature/gen/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore.webp",
-        "source": "ssp.sh",
-        "stats": "382 points · 239 comments"
-      },
-      {
-        "url": "https://stateofutopia.com/experiments/microllmlab/",
-        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-        "description": "Run Q4 small language models entirely in the browser with WebGPU. Chat, benchmark, and compare PetitGPT, SmolLM2, and friends on-device.",
-        "image": "",
-        "source": "stateofutopia.com",
-        "stats": "276 points · 113 comments"
-      },
-      {
-        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-        "title": "Prompting Claude Opus 5.5",
-        "description": "Behavioral differences from Claude Opus 5 and the prompting and harness patterns that address them: effort calibration, thinking behavior in API integrations and chat, progress updates, unattended and multiagent tasks, safeguard refusals, frontend design, complex visual inputs, multi-app workflows, and pasted text in user messages.",
-        "image": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5?design-rev=2",
-        "source": "platform.claude.com",
-        "stats": "205 points · 222 comments"
       }
     ]
   }
