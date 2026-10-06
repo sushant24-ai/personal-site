@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-10-05T08:40:56.275Z",
+  "lastUpdated": "2026-10-06T08:45:23.863Z",
   "days": {
+    "2026-10-06": [
+      {
+        "url": "https://edworkingpapers.com/ai26-1551",
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "description": "Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with its AI tutor, Khanmigo, configured to coach rather than give answers, during existing daily remedial mathematics sessions.",
+        "image": "https://edworkingpapers.com/sites/default/files/edworkingpaper-cover-25-1551.jpg",
+        "source": "edworkingpapers.com",
+        "stats": "62 points · 55 comments"
+      },
+      {
+        "url": "https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/",
+        "title": "German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism",
+        "description": "See how Germany&#039;s military intelligence uses advanced AI to check Bundeswehr applicants for extremist tendencies. Discover the future of national security screening.",
+        "image": "https://news.osna.fm/wp-content/uploads/2026/10/osnafm_0DxI6ac3fef2b3f24e5dN-3655.jpg",
+        "source": "news.osna.fm",
+        "stats": "23 points · 34 comments"
+      },
+      {
+        "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+        "title": "The AI boom is making the cheapest smartphones disappear",
+        "description": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.",
+        "image": "https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2-1600x900.jpg",
+        "source": "restofworld.org",
+        "stats": "20 points · 5 comments"
+      },
+      {
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "description": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
+        "image": "https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png",
+        "source": "newsletter.semianalysis.com",
+        "stats": "8 points · 4 comments"
+      },
+      {
+        "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+        "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
+        "description": "More instances of unexpected AI bot behavior.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "17 points · 1 comments"
+      }
+    ],
     "2026-10-05": [
       {
         "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
@@ -8,57 +50,49 @@
         "description": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff&#039;s office. She later said that...",
         "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-04-image-9.jpg",
         "source": "techspot.com",
-        "stats": "66 points · 58 comments"
+        "stats": "719 points · 557 comments"
       },
       {
-        "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
-        "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
-        "description": "15 points · 6 comments",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "description": "418 points · 302 comments",
         "image": "",
-        "source": "ft.com",
+        "source": "niemanlab.org",
         "stats": ""
       },
       {
-        "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-        "title": "The AI industry is booming. Women are getting left behind",
-        "description": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption",
-        "image": "https://i.guim.co.uk/img/media/887a4a342690f7c675f7ae9e721933650383125d/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=060263602fa1d9f43531fdab27dd7730",
-        "source": "theguardian.com",
-        "stats": "5 points · 8 comments"
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "description": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We",
+        "image": "https://www.vals.ai/blogs/2026-10-04-room-temperature-magnetic-semiconductors/hero.png",
+        "source": "vals.ai",
+        "stats": "344 points · 223 comments"
       },
       {
-        "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-        "title": "Altman: `World should accept some bad things happening' for the benefits of AI",
-        "description": "4 points · 8 comments",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "description": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…",
+        "image": "https://diff.wikimedia.org/wp-content/uploads/2026/10/Robot-army.png?fit=473%2C473",
+        "source": "diff.wikimedia.org",
+        "stats": "278 points · 182 comments"
+      },
+      {
+        "url": "https://qlabs.sh/research/dust",
+        "title": "Dust: Pretraining Transformers Without Backpropagation",
+        "description": "177 points · 43 comments",
         "image": "",
-        "source": "politico.com",
+        "source": "qlabs.sh",
         "stats": ""
-      },
-      {
-        "url": "https://www.forbes.com/councils/forbesagencycouncil/2026/04/13/the-hottest-debate-in-tech-ads-in-ai/",
-        "title": "The Hottest Debate in Tech: Ads in AI",
-        "description": "For brands, this is simultaneously the most exciting and most fragile moment in the history of digital marketing.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6750aeefbc948ab4f8f5ce14/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
-        "source": "forbes.com",
-        "stats": "3 points · 1 comments"
       }
     ],
     "2026-10-04": [
       {
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "title": "Religious scholars met with Anthropic",
-        "description": "159 points · 412 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
-      },
-      {
         "url": "https://github.com/allenv0/SCM",
         "title": "Show HN: AI search for every photo and every frame of video on macOS",
         "description": "Deep AI search for every photo and every frame of video in any folder on macOS - allenv0/SCM",
-        "image": "https://opengraph.githubassets.com/4a91acfcb6ac0b08a950c2e9c28ef58f54136cbc2372564b44b4132d03fc8a40/allenv0/SCM",
+        "image": "https://opengraph.githubassets.com/a1b01d2a11f2b7686deac817fe10ebf873ee2be9f822371ab3a2adbe20c8d8ba/allenv0/SCM",
         "source": "github.com",
-        "stats": "151 points · 67 comments"
+        "stats": "166 points · 73 comments"
       },
       {
         "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
@@ -66,7 +100,7 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "71 points · 37 comments"
+        "stats": "80 points · 50 comments"
       },
       {
         "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
@@ -74,7 +108,7 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "82 points · 29 comments"
+        "stats": "99 points · 47 comments"
       },
       {
         "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
@@ -82,91 +116,51 @@
         "description": "Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.",
         "image": "https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png",
         "source": "writings.stephenwolfram.com",
-        "stats": "61 points · 47 comments"
+        "stats": "67 points · 52 comments"
+      },
+      {
+        "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+        "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "description": "The &quot;AI Torture Chamber&quot; has opened an upsetting and absurd window into the effective altruist obsession with &quot;model welfare.&quot;",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-30-at-2.15.47-PM@2x.png",
+        "source": "404media.co",
+        "stats": "46 points · 103 comments"
       }
     ],
     "2026-10-03": [
-      {
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-        "title": "I quit OpenAI because its culture is broken",
-        "description": "473 points · 790 comments",
-        "image": "",
-        "source": "theatlantic.com",
-        "stats": ""
-      },
       {
         "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
         "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
         "description": "The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.",
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2197497048-e1790790386809.jpg?resize=1200,600",
         "source": "fortune.com",
-        "stats": "399 points · 754 comments"
+        "stats": "411 points · 832 comments"
       },
       {
         "url": "https://liao.gg/blog/agents-dont-need-memory",
         "title": "Agents don't need memory, they need documentation",
-        "description": "363 points · 257 comments",
+        "description": "373 points · 292 comments",
         "image": "",
         "source": "liao.gg",
         "stats": ""
-      },
-      {
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-        "description": "Kolibri is Aleph Alpha",
-        "image": "https://tej.as/img/og/blog/aleph-alpha-kolibri.png",
-        "source": "tej.as",
-        "stats": "419 points · 12 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "description": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology",
-        "image": "https://i.guim.co.uk/img/media/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/master/6261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e64134a41050264f5ceac249a333fc99",
-        "source": "theguardian.com",
-        "stats": "267 points · 3 comments"
       }
     ],
     "2026-10-02": [
       {
-        "url": "https://www.deepseek.com/en/harness/",
-        "title": "DeepSeek Harness Desktop for macOS and Windows",
-        "description": "Use DeepSeek Harness to work with documents, analyze spreadsheets, write code, and schedule tasks. Extend its capabilities with composable plugins.",
-        "image": "https://www.deepseek.com/harness/images/deepseek-harness-social.jpg",
-        "source": "deepseek.com",
-        "stats": "413 points · 222 comments"
-      },
-      {
-        "url": "https://dwarfstar.sh/",
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "description": "Docs, benchmarks and setup notes for ds4, antirez",
-        "image": "https://dwarfstar.sh/og-preview-v2.png",
-        "source": "dwarfstar.sh",
-        "stats": "359 points · 102 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+        "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+        "description": "158 points · 70 comments",
         "image": "",
-        "source": "youtube.com",
-        "stats": "336 points · 128 comments"
+        "source": "developers.redhat.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/anteloc/ldraw-nova",
-        "title": "Show HN: Made an open-source Lego AI generator",
-        "description": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev - anteloc/ldraw-nova",
-        "image": "https://opengraph.githubassets.com/ec2b91f5a745eb19f68cccecd41e29055fd0be041b5f0a8142509c8904f8aebe/anteloc/ldraw-nova",
-        "source": "github.com",
-        "stats": "154 points · 50 comments"
-      },
-      {
-        "url": "https://pipod.dev/",
-        "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-        "description": "pi pod runs your pi session in a cloud pod. pipod.dev",
-        "image": "",
-        "source": "pipod.dev",
-        "stats": "115 points · 47 comments"
+        "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+        "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+        "description": "The Philadelphia Inquirer&#039;s AI tool, Scrape, combs through hyperlocal news leads, enabling editors to report on a broader geographic area.",
+        "image": "https://www.lenfestinstitute.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.37.19-AM-1.png",
+        "source": "lenfestinstitute.org",
+        "stats": "84 points · 30 comments"
       }
     ],
     "2026-10-01": [
@@ -227,16 +221,6 @@
         "image": "https://opengraph.githubassets.com/7f712c6e68800168b7dcd9f709a743327f0ca1ab2f07424c43a79ad3a2e07ac4/maanHimself/OpenDLSS-NR",
         "source": "github.com",
         "stats": "275 points · 125 comments"
-      }
-    ],
-    "2026-09-29": [
-      {
-        "url": "https://openai.com/index/introducing-dots/",
-        "title": "Dots: Always-on agents",
-        "description": "763 points · 639 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
       }
     ]
   }
