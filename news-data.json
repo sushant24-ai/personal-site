@@ -1,61 +1,103 @@
 {
-  "lastUpdated": "2026-10-06T08:45:23.863Z",
+  "lastUpdated": "2026-10-07T08:20:32.122Z",
   "days": {
+    "2026-10-07": [
+      {
+        "url": "https://github.com/nano-muse/nanoMuse",
+        "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+        "description": "nanoMuse: an open-source personal agent for every device you own — one agent with a name and a face that does things, keeps working while the app is closed, remembers you, and asks before anything ...",
+        "image": "https://opengraph.githubassets.com/7b1b70fdcdc65360a7258347fc73e74639c0b7a7d67bf8da4589f291a9bb3484/nano-muse/nanoMuse",
+        "source": "github.com",
+        "stats": "18 points · 2 comments"
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+        "title": "OpenAI unleashes hundreds more math results upon a field in shock",
+        "description": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
+        "image": "https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&w=1200",
+        "source": "scientificamerican.com",
+        "stats": "6 points · 1 comments"
+      },
+      {
+        "url": "https://vercel.com/i/triage-github-pull-requests-openai-decisions-api",
+        "title": "Triage GitHub Pull Requests with OpenAI's Decisions API",
+        "description": "Use OpenAI&#x27;s Decisions API to triage GitHub pull requests by review needs, with a Node.js example that evaluates diffs and returns typed answers.",
+        "image": "https://images.ctfassets.net/e5382hct74si/53qdC0GUH9mYSkZ4cb8MiC/0f8aecb896ef7cc59b24fb65cad1a921/image.png",
+        "source": "vercel.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+        "title": "LGTM: A parody of modern AI adoption in the tech industry [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/ymcrcat/rgpu",
+        "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+        "description": "Keep Python on your laptop. Run PyTorch operations and hold tensors on a remote GPU, including from a Mac with no CUDA installation. - ymcrcat/rgpu",
+        "image": "https://opengraph.githubassets.com/9d79bdff2b221cef63b531d423fe41ce6f07c16f764470230ea87a538c6ba06f/ymcrcat/rgpu",
+        "source": "github.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-10-06": [
       {
-        "url": "https://edworkingpapers.com/ai26-1551",
-        "title": "AI tutoring with Khanmigo in a two-year school experiment",
-        "description": "Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with its AI tutor, Khanmigo, configured to coach rather than give answers, during existing daily remedial mathematics sessions.",
-        "image": "https://edworkingpapers.com/sites/default/files/edworkingpaper-cover-25-1551.jpg",
-        "source": "edworkingpapers.com",
-        "stats": "62 points · 55 comments"
+        "url": "https://mistral.ai/news/mistral-large-4/\\",
+        "title": "Mistral Large 4",
+        "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+        "source": "mistral.ai",
+        "stats": "1767 points · 1043 comments"
       },
       {
-        "url": "https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/",
-        "title": "German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism",
-        "description": "See how Germany&#039;s military intelligence uses advanced AI to check Bundeswehr applicants for extremist tendencies. Discover the future of national security screening.",
-        "image": "https://news.osna.fm/wp-content/uploads/2026/10/osnafm_0DxI6ac3fef2b3f24e5dN-3655.jpg",
-        "source": "news.osna.fm",
-        "stats": "23 points · 34 comments"
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "title": "Sharing AI progress in mathematics",
+        "description": "844 points · 766 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       },
       {
-        "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
-        "title": "The AI boom is making the cheapest smartphones disappear",
-        "description": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.",
-        "image": "https://restofworld.org/wp-content/uploads/2026/10/smartphone-price-ai-2-1600x900.jpg",
-        "source": "restofworld.org",
-        "stats": "20 points · 5 comments"
+        "url": "https://mistral.ai/news/mistral-large-4/",
+        "title": "Mistral Large 4: \"Le Chonk\"",
+        "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+        "source": "mistral.ai",
+        "stats": "519 points · 5 comments"
       },
       {
-        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-        "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-        "description": "Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
-        "image": "https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png",
-        "source": "newsletter.semianalysis.com",
-        "stats": "8 points · 4 comments"
+        "url": "https://github.com/FeSens/openTPU",
+        "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+        "description": "An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU",
+        "image": "https://opengraph.githubassets.com/f0f8f64475dfc3e7b6fc6068c7cbd23b0d5fe7fcfea736f49f4096b90baba765/FeSens/openTPU",
+        "source": "github.com",
+        "stats": "283 points · 335 comments"
       },
       {
-        "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-        "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-        "description": "More instances of unexpected AI bot behavior.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-        "source": "theverge.com",
-        "stats": "17 points · 1 comments"
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+        "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+        "description": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
+        "source": "blog.google",
+        "stats": "304 points · 31 comments"
       }
     ],
     "2026-10-05": [
       {
         "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
         "title": "Anthropic reported diary entry to police, woman faces felony charge",
-        "description": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff&#039;s office. She later said that...",
-        "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-04-image-9.jpg",
+        "description": "815 points · 657 comments",
+        "image": "",
         "source": "techspot.com",
-        "stats": "719 points · 557 comments"
+        "stats": ""
       },
       {
         "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
         "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-        "description": "418 points · 302 comments",
+        "description": "547 points · 409 comments",
         "image": "",
         "source": "niemanlab.org",
         "stats": ""
@@ -66,7 +108,7 @@
         "description": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We",
         "image": "https://www.vals.ai/blogs/2026-10-04-room-temperature-magnetic-semiconductors/hero.png",
         "source": "vals.ai",
-        "stats": "344 points · 223 comments"
+        "stats": "482 points · 328 comments"
       },
       {
         "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
@@ -74,12 +116,12 @@
         "description": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…",
         "image": "https://diff.wikimedia.org/wp-content/uploads/2026/10/Robot-army.png?fit=473%2C473",
         "source": "diff.wikimedia.org",
-        "stats": "278 points · 182 comments"
+        "stats": "299 points · 194 comments"
       },
       {
         "url": "https://qlabs.sh/research/dust",
         "title": "Dust: Pretraining Transformers Without Backpropagation",
-        "description": "177 points · 43 comments",
+        "description": "276 points · 80 comments",
         "image": "",
         "source": "qlabs.sh",
         "stats": ""
@@ -90,17 +132,9 @@
         "url": "https://github.com/allenv0/SCM",
         "title": "Show HN: AI search for every photo and every frame of video on macOS",
         "description": "Deep AI search for every photo and every frame of video in any folder on macOS - allenv0/SCM",
-        "image": "https://opengraph.githubassets.com/a1b01d2a11f2b7686deac817fe10ebf873ee2be9f822371ab3a2adbe20c8d8ba/allenv0/SCM",
+        "image": "https://opengraph.githubassets.com/4eb38cc71a28b5274674bc0eec27e37cbfc86697c38f537f103e06094835c5b1/allenv0/SCM",
         "source": "github.com",
-        "stats": "166 points · 73 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-        "title": "Homa: The end of TCP for AI clusters [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "80 points · 50 comments"
+        "stats": "177 points · 74 comments"
       },
       {
         "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
@@ -108,23 +142,7 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "99 points · 47 comments"
-      },
-      {
-        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-        "title": "What's the future for pure math research in the age of AI?",
-        "description": "Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.",
-        "image": "https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png",
-        "source": "writings.stephenwolfram.com",
-        "stats": "67 points · 52 comments"
-      },
-      {
-        "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-        "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-        "description": "The &quot;AI Torture Chamber&quot; has opened an upsetting and absurd window into the effective altruist obsession with &quot;model welfare.&quot;",
-        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/CleanShot-2026-09-30-at-2.15.47-PM@2x.png",
-        "source": "404media.co",
-        "stats": "46 points · 103 comments"
+        "stats": "102 points · 49 comments"
       }
     ],
     "2026-10-03": [
@@ -147,20 +165,12 @@
     ],
     "2026-10-02": [
       {
-        "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-        "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-        "description": "158 points · 70 comments",
-        "image": "",
-        "source": "developers.redhat.com",
-        "stats": ""
-      },
-      {
         "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
         "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
         "description": "The Philadelphia Inquirer&#039;s AI tool, Scrape, combs through hyperlocal news leads, enabling editors to report on a broader geographic area.",
         "image": "https://www.lenfestinstitute.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.37.19-AM-1.png",
         "source": "lenfestinstitute.org",
-        "stats": "84 points · 30 comments"
+        "stats": "86 points · 30 comments"
       }
     ],
     "2026-10-01": [
@@ -203,24 +213,6 @@
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
         "stats": "176 points · 51 comments"
-      }
-    ],
-    "2026-09-30": [
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "title": "Gemini 4 Argon",
-        "description": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
-        "source": "blog.google",
-        "stats": "1698 points · 1186 comments"
-      },
-      {
-        "url": "https://github.com/maanHimself/OpenDLSS-NR",
-        "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-        "description": "A Vulkan reimplementation of NVIDIA&#39;s DLSS 5 Neural Rendering network, bit-exact against the original. - maanHimself/OpenDLSS-NR",
-        "image": "https://opengraph.githubassets.com/7f712c6e68800168b7dcd9f709a743327f0ca1ab2f07424c43a79ad3a2e07ac4/maanHimself/OpenDLSS-NR",
-        "source": "github.com",
-        "stats": "275 points · 125 comments"
       }
     ]
   }
