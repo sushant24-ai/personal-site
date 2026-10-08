@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-07T08:20:32.122Z",
+  "lastUpdated": "2026-10-08T08:36:29.562Z",
   "days": {
+    "2026-10-08": [
+      {
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "description": "27 points · 10 comments",
+        "image": "",
+        "source": "reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc) - pingdotgg/ts-rust",
+        "image": "https://opengraph.githubassets.com/7f05cbf2cdc751c10f8c686c4bd30168e77ee1057b98b070ac2f32ba177867bd/pingdotgg/ts-rust",
+        "source": "github.com",
+        "stats": "51 points · 83 comments"
+      },
+      {
+        "url": "https://twitter.com/danintheory/status/2108065033070789090",
+        "title": "OpenAI withdraws three mathematical results",
+        "description": "We&#x27;ve updated our GitHub math repo with 6 new Lean formalizations, 19 modifications, and 3 withdrawals. The repo now has ~42% top-line results formalized. We will continue to update the repo with new formalizations and with any errata we notice.\n\nhttps://t.co/HI6otY2NTO",
+        "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&amp;name=medium",
+        "source": "twitter.com",
+        "stats": "19 points · 3 comments"
+      },
+      {
+        "url": "https://blog.mozilla.org/en/mozilla/over-the-edge-2-100-days-later/",
+        "title": "100 days later: Microsoft still steers Windows and Copilot users to Edge",
+        "description": "One hundred days ago, Mozilla released Over The Edge 2.0, the second independent report from leading experts on deceptive design Dr. Harry Brignull and Cen",
+        "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/10/Firefox_Distilled_Nova_PinnedShortcut_01a-1080x720.png",
+        "source": "blog.mozilla.org",
+        "stats": "26 points · 4 comments"
+      },
+      {
+        "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
+        "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+        "description": "[This is a guest post by the Association for Human Mathematics, reposted from their statements page. This blog post was initially written in a different file format and converted using AI. &#8212; …",
+        "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1791447844",
+        "source": "terrytao.wordpress.com",
+        "stats": "13 points · 6 comments"
+      }
+    ],
     "2026-10-07": [
       {
-        "url": "https://github.com/nano-muse/nanoMuse",
-        "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-        "description": "nanoMuse: an open-source personal agent for every device you own — one agent with a name and a face that does things, keeps working while the app is closed, remembers you, and asks before anything ...",
-        "image": "https://opengraph.githubassets.com/7b1b70fdcdc65360a7258347fc73e74639c0b7a7d67bf8da4589f291a9bb3484/nano-muse/nanoMuse",
-        "source": "github.com",
-        "stats": "18 points · 2 comments"
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "title": "Claude Haiku 5.5",
+        "description": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "855 points · 413 comments"
       },
       {
-        "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
-        "title": "OpenAI unleashes hundreds more math results upon a field in shock",
-        "description": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
-        "image": "https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&w=1200",
-        "source": "scientificamerican.com",
-        "stats": "6 points · 1 comments"
-      },
-      {
-        "url": "https://vercel.com/i/triage-github-pull-requests-openai-decisions-api",
-        "title": "Triage GitHub Pull Requests with OpenAI's Decisions API",
-        "description": "Use OpenAI&#x27;s Decisions API to triage GitHub pull requests by review needs, with a Node.js example that evaluates diffs and returns typed answers.",
-        "image": "https://images.ctfassets.net/e5382hct74si/53qdC0GUH9mYSkZ4cb8MiC/0f8aecb896ef7cc59b24fb65cad1a921/image.png",
-        "source": "vercel.com",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
-        "title": "LGTM: A parody of modern AI adoption in the tech industry [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://openai.com/index/gpt-6-for-everyone/",
+        "title": "GPT‑6 and Intelligent UI for everyone",
+        "description": "610 points · 328 comments",
         "image": "",
-        "source": "youtube.com",
-        "stats": "4 points · 1 comments"
+        "source": "openai.com",
+        "stats": ""
       },
       {
-        "url": "https://github.com/ymcrcat/rgpu",
-        "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
-        "description": "Keep Python on your laptop. Run PyTorch operations and hold tensors on a remote GPU, including from a Mac with no CUDA installation. - ymcrcat/rgpu",
-        "image": "https://opengraph.githubassets.com/9d79bdff2b221cef63b531d423fe41ce6f07c16f764470230ea87a538c6ba06f/ymcrcat/rgpu",
+        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+        "description": "Meta and Microsoft are implementing new measures to limit employee use of Claude AI—discover what this means for the future of AI in the workplace.",
+        "image": "https://cdn.rswebsols.com/wp-content/uploads/2025/10/otr1by4mkru.jpg",
+        "source": "rswebsols.com",
+        "stats": "339 points · 332 comments"
+      },
+      {
+        "url": "https://github.com/docker/docker-agent",
+        "title": "Docker Agent",
+        "description": "AI Agent Builder and Runtime by Docker Engineering - docker/docker-agent",
+        "image": "https://opengraph.githubassets.com/eab3646006da52efb363e0b46f73a05e485422c3bbf550161ce868e7b60e0026/docker/docker-agent",
         "source": "github.com",
-        "stats": "4 points · 1 comments"
+        "stats": "227 points · 106 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+        "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+        "description": "96 points · 35 comments",
+        "image": "",
+        "source": "bloomberg.com",
+        "stats": ""
       }
     ],
     "2026-10-06": [
@@ -50,12 +92,12 @@
         "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
         "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
         "source": "mistral.ai",
-        "stats": "1767 points · 1043 comments"
+        "stats": "2012 points · 1195 comments"
       },
       {
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "title": "Sharing AI progress in mathematics",
-        "description": "844 points · 766 comments",
+        "description": "1277 points · 1450 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -66,15 +108,7 @@
         "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
         "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
         "source": "mistral.ai",
-        "stats": "519 points · 5 comments"
-      },
-      {
-        "url": "https://github.com/FeSens/openTPU",
-        "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-        "description": "An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU",
-        "image": "https://opengraph.githubassets.com/f0f8f64475dfc3e7b6fc6068c7cbd23b0d5fe7fcfea736f49f4096b90baba765/FeSens/openTPU",
-        "source": "github.com",
-        "stats": "283 points · 335 comments"
+        "stats": "522 points · 5 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
@@ -82,24 +116,24 @@
         "description": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
         "source": "blog.google",
-        "stats": "304 points · 31 comments"
+        "stats": "422 points · 46 comments"
+      },
+      {
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "description": "Zohaib Ansari is a software engineer building full-stack systems, Android apps, and AI products.",
+        "image": "",
+        "source": "zohaib.cc",
+        "stats": "265 points · 152 comments"
       }
     ],
     "2026-10-05": [
       {
         "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
         "title": "Anthropic reported diary entry to police, woman faces felony charge",
-        "description": "815 points · 657 comments",
+        "description": "829 points · 674 comments",
         "image": "",
         "source": "techspot.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-        "description": "547 points · 409 comments",
-        "image": "",
-        "source": "niemanlab.org",
         "stats": ""
       },
       {
@@ -108,23 +142,7 @@
         "description": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We",
         "image": "https://www.vals.ai/blogs/2026-10-04-room-temperature-magnetic-semiconductors/hero.png",
         "source": "vals.ai",
-        "stats": "482 points · 328 comments"
-      },
-      {
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "description": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…",
-        "image": "https://diff.wikimedia.org/wp-content/uploads/2026/10/Robot-army.png?fit=473%2C473",
-        "source": "diff.wikimedia.org",
-        "stats": "299 points · 194 comments"
-      },
-      {
-        "url": "https://qlabs.sh/research/dust",
-        "title": "Dust: Pretraining Transformers Without Backpropagation",
-        "description": "276 points · 80 comments",
-        "image": "",
-        "source": "qlabs.sh",
-        "stats": ""
+        "stats": "489 points · 339 comments"
       }
     ],
     "2026-10-04": [
@@ -171,48 +189,6 @@
         "image": "https://www.lenfestinstitute.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.37.19-AM-1.png",
         "source": "lenfestinstitute.org",
         "stats": "86 points · 30 comments"
-      }
-    ],
-    "2026-10-01": [
-      {
-        "url": "https://blog.cloudflare.com/clef-decision-models/",
-        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-        "description": "We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers to fine-tune decision models using their own data.",
-        "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
-        "source": "blog.cloudflare.com",
-        "stats": "636 points · 217 comments"
-      },
-      {
-        "url": "https://turbopuffer.com/blog/rip-vector-database",
-        "title": "RIP, vector database",
-        "description": "turbopuffer is pushing the frontier of search. To do that, we have to fundamentally redesign our storage architecture so the vector index is no longer primary.",
-        "image": "https://turbopuffer.com/og/turbopuffer.png",
-        "source": "turbopuffer.com",
-        "stats": "394 points · 116 comments"
-      },
-      {
-        "url": "https://stoppels.ch/goalposts/",
-        "title": "Vote on which of Hacker News' challenges for AI have been met",
-        "description": "202 points · 271 comments",
-        "image": "",
-        "source": "stoppels.ch",
-        "stats": ""
-      },
-      {
-        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-        "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-        "description": "Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Companies sign multi-year agreement to collaborate as preferred partners to...",
-        "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&amp;p=facebook",
-        "source": "news.synopsys.com",
-        "stats": "189 points · 111 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2609.37725",
-        "title": "Context Language Models",
-        "description": "We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted updates to this file. This allows the model to learn what is most important to maintain in context, and naturally extends to multi-agent systems where multiple agent contexts coexist as files. Building CLMs zero-shot with existing models outperforms SOTA context management strategies across a variety of tasks: 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus, 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench, and 65% greater improvement with the same compute on a 24-hour multi-repository agent-swarm task. Moreover, by shifting context management from external harness control to intrinsic model behavior, CLMs naturally enable both in-context and parametric learning of context-management strategies. We show that CLMs can be steered with natural-language instructions evolved through a standard skill-optimization loop, improving held-out accuracy by up to 35.9 points on a context-management task while reducing compute. We also introduce an online reinforcement learning method for CLMs, improving Qwen3.5-9B performance on BrowseComp-Plus by 47.6% while using 12% fewer FLOPs. Finally, we co-design Suffix Cache Reuse for CLM serving, further reducing server-side compute by 35% relative to standard SGLang at matched performance.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "176 points · 51 comments"
       }
     ]
   }
