@@ -1,22 +1,64 @@
 {
-  "lastUpdated": "2026-10-08T08:36:29.562Z",
+  "lastUpdated": "2026-10-09T08:41:49.893Z",
   "days": {
-    "2026-10-08": [
+    "2026-10-09": [
       {
-        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-        "description": "27 points · 10 comments",
+        "url": "https://github.com/edrisranjbar/lifeos",
+        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+        "description": "Self-hosted life OS: habits, goals, Kanban, finance and focus, with an MCP server for AI. - edrisranjbar/lifeos",
+        "image": "https://opengraph.githubassets.com/f76a3b3e57a01f612a6a55aef349762609efc080d0d1a8391a162d9fd85a01ca/edrisranjbar/lifeos",
+        "source": "github.com",
+        "stats": "35 points · 12 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
+        "title": "Anthropic bans users from abusive or cruel behavior towards Claude",
+        "description": "A spokesperson behind the tech company’s AI chatbot has not yet specified what counts as abusive or cruel content",
+        "image": "https://i.guim.co.uk/img/media/6e190063ccfe8ce226fbe77ca8498af1a2fd082b/9_0_2975_2380/master/2975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7b59ff43aa0ed50367e33e89ae9afbc",
+        "source": "theguardian.com",
+        "stats": "5 points · 2 comments"
+      },
+      {
+        "url": "https://twitter.com/claudeai/status/2108404561413349695",
+        "title": "Anthropic pulls Startup program revoking pending offers",
+        "description": "We’ve loved seeing so many founders join the Claude Startups program. Unfortunately, we underestimated demand for the program, and we need to pause the Claude Team and $1,000 API credit offers.\n\nWith hundreds of thousands of applicants, we&#x27;re re-reviewing applications so the program can serve as ma…",
+        "image": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "6 points · 1 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50016644",
+        "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
+        "description": "6 points · 6 comments",
         "image": "",
-        "source": "reddit.com",
+        "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/pingdotgg/ts-rust",
-        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-        "description": "An experimental Rust port of the TypeScript 7 compiler (tsc) - pingdotgg/ts-rust",
-        "image": "https://opengraph.githubassets.com/7f05cbf2cdc751c10f8c686c4bd30168e77ee1057b98b070ac2f32ba177867bd/pingdotgg/ts-rust",
-        "source": "github.com",
-        "stats": "51 points · 83 comments"
+        "url": "https://johnomeara.com/blog/where-is-the-ai",
+        "title": "Where Is the AI?",
+        "description": "If intelligent alien civilizations and recursively self-improving AI exist, why hasn",
+        "image": "https://johnomeara.com/media/1280.webp?src=%2Fapi%2Fimages%2F5d999528-8318-4b1a-8edd-0208bf0755ad.webp",
+        "source": "johnomeara.com",
+        "stats": "5 points · 1 comments"
+      }
+    ],
+    "2026-10-08": [
+      {
+        "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+        "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+        "description": "thoughts, talks, docs and unpopular opinions",
+        "image": "",
+        "source": "dgt.is",
+        "stats": "701 points · 577 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+        "title": "OpenAI annualised revenues $20B less than previously signalled",
+        "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "389 points · 255 comments"
       },
       {
         "url": "https://twitter.com/danintheory/status/2108065033070789090",
@@ -24,23 +66,23 @@
         "description": "We&#x27;ve updated our GitHub math repo with 6 new Lean formalizations, 19 modifications, and 3 withdrawals. The repo now has ~42% top-line results formalized. We will continue to update the repo with new formalizations and with any errata we notice.\n\nhttps://t.co/HI6otY2NTO",
         "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&amp;name=medium",
         "source": "twitter.com",
-        "stats": "19 points · 3 comments"
+        "stats": "303 points · 572 comments"
       },
       {
-        "url": "https://blog.mozilla.org/en/mozilla/over-the-edge-2-100-days-later/",
-        "title": "100 days later: Microsoft still steers Windows and Copilot users to Edge",
-        "description": "One hundred days ago, Mozilla released Over The Edge 2.0, the second independent report from leading experts on deceptive design Dr. Harry Brignull and Cen",
-        "image": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/10/Firefox_Distilled_Nova_PinnedShortcut_01a-1080x720.png",
-        "source": "blog.mozilla.org",
-        "stats": "26 points · 4 comments"
+        "url": "https://github.com/openai/math/blob/main/history.md",
+        "title": "OpenAI Withdraws 3 Math Papers",
+        "description": "Contribute to openai/math development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/52bebf1bb9692a83e92c7a2624fd7ef08e6225ff7eeb539678097811c50e4b90/openai/math",
+        "source": "github.com",
+        "stats": "340 points · 3 comments"
       },
       {
-        "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
-        "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
-        "description": "[This is a guest post by the Association for Human Mathematics, reposted from their statements page. This blog post was initially written in a different file format and converted using AI. &#8212; …",
-        "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1791447844",
-        "source": "terrytao.wordpress.com",
-        "stats": "13 points · 6 comments"
+        "url": "https://karagila.org/2026/openai-pp/",
+        "title": "OpenAI, the Partition Principle, and Mathematics",
+        "description": "By the time I got out of bed yesterday, I had three people ask me if I&#039;d seen the OpenAI announcement that the Partition Principle does not (...)",
+        "image": "https://karagila.org/og-image.jpg",
+        "source": "karagila.org",
+        "stats": "112 points · 156 comments"
       }
     ],
     "2026-10-07": [
@@ -50,12 +92,12 @@
         "description": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "855 points · 413 comments"
+        "stats": "1039 points · 483 comments"
       },
       {
         "url": "https://openai.com/index/gpt-6-for-everyone/",
         "title": "GPT‑6 and Intelligent UI for everyone",
-        "description": "610 points · 328 comments",
+        "description": "748 points · 453 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -66,20 +108,20 @@
         "description": "Meta and Microsoft are implementing new measures to limit employee use of Claude AI—discover what this means for the future of AI in the workplace.",
         "image": "https://cdn.rswebsols.com/wp-content/uploads/2025/10/otr1by4mkru.jpg",
         "source": "rswebsols.com",
-        "stats": "339 points · 332 comments"
+        "stats": "369 points · 381 comments"
       },
       {
         "url": "https://github.com/docker/docker-agent",
         "title": "Docker Agent",
         "description": "AI Agent Builder and Runtime by Docker Engineering - docker/docker-agent",
-        "image": "https://opengraph.githubassets.com/eab3646006da52efb363e0b46f73a05e485422c3bbf550161ce868e7b60e0026/docker/docker-agent",
+        "image": "https://opengraph.githubassets.com/c90387a10368a86843c50b679e92a5aef50c9e581e7e9bd5412e70cef90b2602/docker/docker-agent",
         "source": "github.com",
-        "stats": "227 points · 106 comments"
+        "stats": "300 points · 139 comments"
       },
       {
         "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
         "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-        "description": "96 points · 35 comments",
+        "description": "97 points · 39 comments",
         "image": "",
         "source": "bloomberg.com",
         "stats": ""
@@ -92,39 +134,15 @@
         "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
         "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
         "source": "mistral.ai",
-        "stats": "2012 points · 1195 comments"
+        "stats": "2032 points · 1210 comments"
       },
       {
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "title": "Sharing AI progress in mathematics",
-        "description": "1277 points · 1450 comments",
+        "description": "1326 points · 1509 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://mistral.ai/news/mistral-large-4/",
-        "title": "Mistral Large 4: \"Le Chonk\"",
-        "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
-        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
-        "source": "mistral.ai",
-        "stats": "522 points · 5 comments"
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-        "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-        "description": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
-        "source": "blog.google",
-        "stats": "422 points · 46 comments"
-      },
-      {
-        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-        "description": "Zohaib Ansari is a software engineer building full-stack systems, Android apps, and AI products.",
-        "image": "",
-        "source": "zohaib.cc",
-        "stats": "265 points · 152 comments"
       }
     ],
     "2026-10-05": [
@@ -179,16 +197,6 @@
         "image": "",
         "source": "liao.gg",
         "stats": ""
-      }
-    ],
-    "2026-10-02": [
-      {
-        "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-        "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-        "description": "The Philadelphia Inquirer&#039;s AI tool, Scrape, combs through hyperlocal news leads, enabling editors to report on a broader geographic area.",
-        "image": "https://www.lenfestinstitute.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.37.19-AM-1.png",
-        "source": "lenfestinstitute.org",
-        "stats": "86 points · 30 comments"
       }
     ]
   }
