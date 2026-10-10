@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-09T08:41:49.893Z",
+  "lastUpdated": "2026-10-10T08:15:37.876Z",
   "days": {
-    "2026-10-09": [
+    "2026-10-10": [
       {
-        "url": "https://github.com/edrisranjbar/lifeos",
-        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-        "description": "Self-hosted life OS: habits, goals, Kanban, finance and focus, with an MCP server for AI. - edrisranjbar/lifeos",
-        "image": "https://opengraph.githubassets.com/f76a3b3e57a01f612a6a55aef349762609efc080d0d1a8391a162d9fd85a01ca/edrisranjbar/lifeos",
-        "source": "github.com",
-        "stats": "35 points · 12 comments"
+        "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+        "title": "If AI is conscient, then we are making slaves",
+        "description": "When the conversation turned to making Claude happy, Mois Navon warned that, if Anthropic’s AI were conscious, the company would be creating ‘happy slaves.’",
+        "image": "https://substackcdn.com/image/fetch/$s_!7Q1I!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F842f44fb-b361-4f3a-b663-c30ea972d9c6_1672x940.png",
+        "source": "groundlevel-ai.com",
+        "stats": "24 points · 61 comments"
       },
       {
-        "url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
-        "title": "Anthropic bans users from abusive or cruel behavior towards Claude",
-        "description": "A spokesperson behind the tech company’s AI chatbot has not yet specified what counts as abusive or cruel content",
-        "image": "https://i.guim.co.uk/img/media/6e190063ccfe8ce226fbe77ca8498af1a2fd082b/9_0_2975_2380/master/2975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7b59ff43aa0ed50367e33e89ae9afbc",
-        "source": "theguardian.com",
-        "stats": "5 points · 2 comments"
-      },
-      {
-        "url": "https://twitter.com/claudeai/status/2108404561413349695",
-        "title": "Anthropic pulls Startup program revoking pending offers",
-        "description": "We’ve loved seeing so many founders join the Claude Startups program. Unfortunately, we underestimated demand for the program, and we need to pause the Claude Team and $1,000 API credit offers.\n\nWith hundreds of thousands of applicants, we&#x27;re re-reviewing applications so the program can serve as ma…",
-        "image": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "6 points · 1 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50016644",
-        "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
-        "description": "6 points · 6 comments",
+        "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+        "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+        "description": "22 points · 7 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "nytimes.com",
         "stats": ""
       },
       {
-        "url": "https://johnomeara.com/blog/where-is-the-ai",
-        "title": "Where Is the AI?",
-        "description": "If intelligent alien civilizations and recursively self-improving AI exist, why hasn",
-        "image": "https://johnomeara.com/media/1280.webp?src=%2Fapi%2Fimages%2F5d999528-8318-4b1a-8edd-0208bf0755ad.webp",
-        "source": "johnomeara.com",
-        "stats": "5 points · 1 comments"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "description": "Anthropic discovered the fake tip two months after it was submitted.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "16 points · 1 comments"
+      },
+      {
+        "url": "https://ilia.page/writing/introducing-nagare",
+        "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+        "description": "11 points · 8 comments",
+        "image": "",
+        "source": "ilia.page",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50029896",
+        "title": "If AI keeps evolving,would you worry about your next generation's survival",
+        "description": "9 points · 5 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
+    "2026-10-09": [
+      {
+        "url": "https://typesafe.ai/blog/series-ai",
+        "title": "Typesafe AI raises $870M at $7.5B",
+        "description": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
+        "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
+        "source": "typesafe.ai",
+        "stats": "356 points · 260 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+        "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "329 points · 208 comments"
+      },
+      {
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen",
+        "image": "https://opengraph.githubassets.com/1ff4df0d20762266b458898d186f653f452e64464be4cb144d3a4978fa550a00/franzenzenhofer/big-arrow-on-the-screen",
+        "source": "github.com",
+        "stats": "396 points · 175 comments"
+      },
+      {
+        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+        "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+        "description": "An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.",
+        "image": "https://media.nbcphiladelphia.com/2022/01/CrimeTape-1.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+        "source": "nbcphiladelphia.com",
+        "stats": "155 points · 117 comments"
+      },
+      {
+        "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+        "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+        "description": "185 points · 165 comments",
+        "image": "",
+        "source": "washingtonpost.com",
+        "stats": ""
       }
     ],
     "2026-10-08": [
@@ -50,7 +92,7 @@
         "description": "thoughts, talks, docs and unpopular opinions",
         "image": "",
         "source": "dgt.is",
-        "stats": "701 points · 577 comments"
+        "stats": "1093 points · 962 comments"
       },
       {
         "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
@@ -58,7 +100,7 @@
         "description": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
         "image": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "389 points · 255 comments"
+        "stats": "424 points · 300 comments"
       },
       {
         "url": "https://twitter.com/danintheory/status/2108065033070789090",
@@ -66,15 +108,7 @@
         "description": "We&#x27;ve updated our GitHub math repo with 6 new Lean formalizations, 19 modifications, and 3 withdrawals. The repo now has ~42% top-line results formalized. We will continue to update the repo with new formalizations and with any errata we notice.\n\nhttps://t.co/HI6otY2NTO",
         "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&amp;name=medium",
         "source": "twitter.com",
-        "stats": "303 points · 572 comments"
-      },
-      {
-        "url": "https://github.com/openai/math/blob/main/history.md",
-        "title": "OpenAI Withdraws 3 Math Papers",
-        "description": "Contribute to openai/math development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/52bebf1bb9692a83e92c7a2624fd7ef08e6225ff7eeb539678097811c50e4b90/openai/math",
-        "source": "github.com",
-        "stats": "340 points · 3 comments"
+        "stats": "375 points · 606 comments"
       },
       {
         "url": "https://karagila.org/2026/openai-pp/",
@@ -82,49 +116,33 @@
         "description": "By the time I got out of bed yesterday, I had three people ask me if I&#039;d seen the OpenAI announcement that the Partition Principle does not (...)",
         "image": "https://karagila.org/og-image.jpg",
         "source": "karagila.org",
-        "stats": "112 points · 156 comments"
+        "stats": "201 points · 303 comments"
+      },
+      {
+        "url": "https://github.com/openai/math/blob/main/history.md",
+        "title": "OpenAI Withdraws 3 Math Papers",
+        "description": "Contribute to openai/math development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/01392d54f7a734601a3c5f171a9f43c4d8b53a237b6e327d7aa48d0f919bd52a/openai/math",
+        "source": "github.com",
+        "stats": "342 points · 3 comments"
       }
     ],
     "2026-10-07": [
       {
-        "url": "https://www.anthropic.com/claude-haiku-5-5",
-        "title": "Claude Haiku 5.5",
-        "description": "Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "1039 points · 483 comments"
-      },
-      {
         "url": "https://openai.com/index/gpt-6-for-everyone/",
         "title": "GPT‑6 and Intelligent UI for everyone",
-        "description": "748 points · 453 comments",
+        "description": "755 points · 458 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "description": "Meta and Microsoft are implementing new measures to limit employee use of Claude AI—discover what this means for the future of AI in the workplace.",
-        "image": "https://cdn.rswebsols.com/wp-content/uploads/2025/10/otr1by4mkru.jpg",
-        "source": "rswebsols.com",
-        "stats": "369 points · 381 comments"
-      },
-      {
-        "url": "https://github.com/docker/docker-agent",
-        "title": "Docker Agent",
-        "description": "AI Agent Builder and Runtime by Docker Engineering - docker/docker-agent",
-        "image": "https://opengraph.githubassets.com/c90387a10368a86843c50b679e92a5aef50c9e581e7e9bd5412e70cef90b2602/docker/docker-agent",
+        "url": "https://github.com/ymcrcat/rgpu",
+        "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+        "description": "Keep Python on your laptop. Run PyTorch operations and hold tensors on a remote GPU, including from a Mac with no CUDA installation. - ymcrcat/rgpu",
+        "image": "https://opengraph.githubassets.com/cb6a9afc9286b1e77d08a1bacc1aa1dffd19d48dfb76ac15c68ca3fc68fded48/ymcrcat/rgpu",
         "source": "github.com",
-        "stats": "300 points · 139 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-        "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-        "description": "97 points · 39 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
+        "stats": "55 points · 4 comments"
       }
     ],
     "2026-10-06": [
@@ -134,15 +152,23 @@
         "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
         "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
         "source": "mistral.ai",
-        "stats": "2032 points · 1210 comments"
+        "stats": "2036 points · 1211 comments"
       },
       {
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "title": "Sharing AI progress in mathematics",
-        "description": "1326 points · 1509 comments",
+        "description": "1343 points · 1524 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.linum.ai/field-notes/pyramid-jit",
+        "title": "Training Text-to-Image Models Without a VAE",
+        "description": "Accelerating convergence in text-to-image with multiresolution prediction",
+        "image": "https://linum.ai/field-notes/pyramid-jit/opengraph-image/card?67ee6b6af80a4a6f",
+        "source": "linum.ai",
+        "stats": "49 points · 19 comments"
       }
     ],
     "2026-10-05": [
@@ -179,24 +205,6 @@
         "image": "",
         "source": "youtube.com",
         "stats": "102 points · 49 comments"
-      }
-    ],
-    "2026-10-03": [
-      {
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-        "description": "The former Meta chief AI scientist shares his take on recent rogue AI incidents and effective altruism, as well as plans for his new company, AMI Labs.",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2197497048-e1790790386809.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "411 points · 832 comments"
-      },
-      {
-        "url": "https://liao.gg/blog/agents-dont-need-memory",
-        "title": "Agents don't need memory, they need documentation",
-        "description": "373 points · 292 comments",
-        "image": "",
-        "source": "liao.gg",
-        "stats": ""
       }
     ]
   }
