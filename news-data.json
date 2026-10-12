@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-11T08:31:20.680Z",
+  "lastUpdated": "2026-10-12T08:51:56.776Z",
   "days": {
+    "2026-10-12": [
+      {
+        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "description": "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "40 points · 8 comments"
+      },
+      {
+        "url": "https://github.com/SaarthurR/atticus-mac",
+        "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+        "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Remembers you and learns your shortcuts. Hold ⌃⌥Space and talk. - SaarthurR/atticus-mac",
+        "image": "https://opengraph.githubassets.com/b4486662ec7d56f47d0174cccad02276eac800b20d9729b820335ed81fd7ec7a/SaarthurR/atticus-mac",
+        "source": "github.com",
+        "stats": "22 points · 1 comments"
+      },
+      {
+        "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+        "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
+        "description": "In recent years, AI has made it much easier to create new websites and tools. That also applies to pirate sites, including TorrentClaw, a torrent search engine that’s largely built with AI. The site&#039;s TrueSpec feature, for example, checks what’s inside torrents. The results reveal a recurring malware trick, where a genuine VLC player is used as a decoy to load a malicious file.",
+        "image": "https://torrentfreak.com/images/clawfea.png",
+        "source": "torrentfreak.com",
+        "stats": "8 points · 2 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+        "title": "AI coding agents generate more code, but not more software",
+        "description": "Study finds coding efficiency gains get &quot;absorbed&quot; by human review &quot;bottleneck.&quot;",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "10 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50051894",
+        "title": "Ask HN: As a Democrat in USA, how can you support AI datacenters?",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-10-11": [
+      {
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "description": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It&#x27;s now less &quot;two groups of people speaking past each other&quot; and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs…",
+        "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "445 points · 636 comments"
+      },
+      {
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+        "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.\nThe avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.",
+        "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
+        "source": "momo5502.com",
+        "stats": "197 points · 139 comments"
+      },
+      {
+        "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+        "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+        "description": "A UC Berkeley researcher raises profound questions about how we interact with artificial intelligence in daily life.",
+        "image": "",
+        "source": "vcresearch.berkeley.edu",
+        "stats": "104 points · 107 comments"
+      },
       {
         "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
         "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
         "description": "The rule takes effect Nov. 12; enforcement is the same conversation-ending tool Claude got in August 2025",
         "image": "https://rews.cc/img/f5d7a0779965d73ee18379e393bed735ea63f932.webp",
         "source": "rews.cc",
-        "stats": "61 points · 121 comments"
+        "stats": "68 points · 145 comments"
       },
       {
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.\nThe avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.",
-        "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
-        "source": "momo5502.com",
-        "stats": "84 points · 64 comments"
-      },
-      {
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-        "title": "Anthropic asks users to stop being mean to Claude",
-        "description": "New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference",
-        "image": "https://image.theregister.com/5297782.jpg?imageId=5297782&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "47 points · 50 comments"
-      },
-      {
-        "url": "https://github.com/vahmoh25/Veda",
-        "title": "Veda: The First Agentic Hobby Operating System",
-        "description": "The Agentic-Native Operating System. Contribute to vahmoh25/Veda development by creating an account on GitHub.",
-        "image": "https://repository-images.githubusercontent.com/1402635154/b887beba-a5d6-4c83-95f6-5a4d402f9948",
-        "source": "github.com",
-        "stats": "44 points · 11 comments"
-      },
-      {
-        "url": "https://atoll92.github.io/agent-standup/",
-        "title": "AI agents in a stand-up call",
-        "description": "Your AI agents, in a stand-up call. See who is working, waiting or blocked. Free and open source: VS Code, Cursor, terminal or desktop app.",
-        "image": "https://atoll92.github.io/agent-standup/media/social.jpg",
-        "source": "atoll92.github.io",
-        "stats": "39 points · 41 comments"
+        "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+        "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+        "description": "Nicolas Cage, who recently starred in &quot;Spider-Noir,&quot; said he won&#x27;t work with Amazon again after a disagreement over an AI waiver.",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/1997cfd/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2F94%2F7672f0ba49cbbe410a932a4025e2%2F1553730-nicolas-cage-and-lamorne-morris-2157.jpg",
+        "source": "latimes.com",
+        "stats": "89 points · 31 comments"
       }
     ],
     "2026-10-10": [
@@ -48,14 +90,14 @@
         "url": "https://github.com/rociiu/talorys",
         "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
         "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...",
-        "image": "https://opengraph.githubassets.com/d20c8530e9dabc4baebc65dc5a07f3e39d26b3e0b316ae5fe89c5c725e2bee67/rociiu/talorys",
+        "image": "https://opengraph.githubassets.com/97036e46ee4f1eccb8a6d3a72d47dbe761734f093f37c54cea303d40374965a1/rociiu/talorys",
         "source": "github.com",
-        "stats": "287 points · 132 comments"
+        "stats": "323 points · 152 comments"
       },
       {
         "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
         "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-        "description": "162 points · 102 comments",
+        "description": "176 points · 114 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
@@ -66,65 +108,33 @@
         "description": "Shane Mac, the CEO of XMTP Labs, got a rude shock when one of his AI agents posted his monthly bank audit in a company Slack channel.",
         "image": "https://i.insider.com/6ac8a4967bf24b4467e699a7?width=724&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "61 points · 66 comments"
+        "stats": "63 points · 68 comments"
       },
       {
         "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
         "title": "AI Is Throwing a Roadside Picnic",
-        "description": "47 points · 48 comments",
+        "description": "47 points · 51 comments",
         "image": "",
         "source": "metedata.substack.com",
         "stats": ""
       },
       {
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-        "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "description": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks.",
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
-        "source": "bleepingcomputer.com",
-        "stats": "31 points · 8 comments"
+        "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+        "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+        "description": "AI Data Center Companies Reveal to Warren, Blumenthal, Van Hollen They Are Not Paying Their Full Costs, Will Continue Using NDAs and Seeking Tax Breaks - Senator Elizabeth Warren",
+        "image": "https://www.warren.senate.gov/wp-content/uploads/2026/06/Warren_Logo_Social.jpg",
+        "source": "warren.senate.gov",
+        "stats": "57 points · 9 comments"
       }
     ],
     "2026-10-09": [
       {
-        "url": "https://typesafe.ai/blog/series-ai",
-        "title": "Typesafe AI raises $870M at $7.5B",
-        "description": "TypeSafe AI is an AI lab building machine-native intelligence infrastructure for automation, designed to make decisions within software. Try our first System One Model, Jev, in early access.",
-        "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
-        "source": "typesafe.ai",
-        "stats": "437 points · 347 comments"
-      },
-      {
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-        "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "360 points · 220 comments"
-      },
-      {
-        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-        "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. - franzenzenhofer/big-arrow-on-the-screen",
-        "image": "https://opengraph.githubassets.com/1b3580665122ec3bec160709dbfa0f30b9bec045e0a26164b5efda8f80cbbfdb/franzenzenhofer/big-arrow-on-the-screen",
-        "source": "github.com",
-        "stats": "413 points · 188 comments"
-      },
-      {
-        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-        "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-        "description": "An investigation is underway after an AI model from the company Anthropic submitted a false tip for an unsolved Philadelphia murder, police said.",
-        "image": "https://media.nbcphiladelphia.com/2022/01/CrimeTape-1.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
-        "source": "nbcphiladelphia.com",
-        "stats": "208 points · 154 comments"
-      },
-      {
-        "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-        "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-        "description": "193 points · 170 comments",
-        "image": "",
-        "source": "washingtonpost.com",
-        "stats": ""
+        "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+        "title": "Five months treating bugs like patients and coding agents like a medical team",
+        "description": "How Cockroach Labs built MOLT Sinai, an AI coding “teaching hospital” that shipped IBM Db2 migration support in under two days.",
+        "image": "https://images.ctfassets.net/00voh0j35590/2yOYv8dss0M8hI24SPoDQt/03144320f103f1ab7692be074951b729/Group_1__2_.jpg",
+        "source": "cockroachlabs.com",
+        "stats": "214 points · 107 comments"
       }
     ],
     "2026-10-08": [
@@ -134,39 +144,23 @@
         "description": "thoughts, talks, docs and unpopular opinions",
         "image": "",
         "source": "dgt.is",
-        "stats": "1114 points · 977 comments"
-      },
-      {
-        "url": "https://twitter.com/danintheory/status/2108065033070789090",
-        "title": "OpenAI withdraws three mathematical results",
-        "description": "We&#x27;ve updated our GitHub math repo with 6 new Lean formalizations, 19 modifications, and 3 withdrawals. The repo now has ~42% top-line results formalized. We will continue to update the repo with new formalizations and with any errata we notice.\n\nhttps://t.co/HI6otY2NTO",
-        "image": "https://pbs.twimg.com/card_img/2108065027521724416/U43cU3Cf?format=webp&amp;name=medium",
-        "source": "twitter.com",
-        "stats": "377 points · 608 comments"
+        "stats": "1123 points · 985 comments"
       },
       {
         "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
         "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-        "description": "294 points · 130 comments",
+        "description": "299 points · 132 comments",
         "image": "",
         "source": "reddit.com",
         "stats": ""
       },
       {
-        "url": "https://karagila.org/2026/openai-pp/",
-        "title": "OpenAI, the Partition Principle, and Mathematics",
-        "description": "By the time I got out of bed yesterday, I had three people ask me if I&#039;d seen the OpenAI announcement that the Partition Principle does not (...)",
-        "image": "https://karagila.org/og-image.jpg",
-        "source": "karagila.org",
-        "stats": "208 points · 310 comments"
-      },
-      {
-        "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-        "title": "AI-ready biological data: $1.8B global commitment",
-        "description": "Biohub, DOE, NIH, and partners will generate open, standardized data to train AI models that predict how cells respond to interventions.",
-        "image": "https://biohub.org/wp-content/uploads/sites/32/2026/10/VBI-wordmark-Jade-on-dark_Social-Share_1200x630@1x.png",
-        "source": "biohub.org",
-        "stats": "148 points · 20 comments"
+        "url": "https://www.nature.com/articles/s41586-026-11111-4",
+        "title": "Retrofitting language models to operate over bytes",
+        "description": "Byteification is a general method for retrofitting large language models to operate over bytes such that they approach the capabilities of subword-based systems and may be better for scientific data.",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11111-4/MediaObjects/41586_2026_11111_Fig1_HTML.png",
+        "source": "nature.com",
+        "stats": "105 points · 23 comments"
       }
     ],
     "2026-10-07": [
@@ -189,46 +183,12 @@
     ],
     "2026-10-06": [
       {
-        "url": "https://mistral.ai/news/mistral-large-4/\\",
-        "title": "Mistral Large 4",
-        "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
-        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
-        "source": "mistral.ai",
-        "stats": "2037 points · 1211 comments"
-      },
-      {
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "title": "Sharing AI progress in mathematics",
-        "description": "1348 points · 1527 comments",
+        "description": "1354 points · 1532 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.linum.ai/field-notes/pyramid-jit",
-        "title": "Training Text-to-Image Models Without a VAE",
-        "description": "Accelerating convergence in text-to-image with multiresolution prediction",
-        "image": "https://linum.ai/field-notes/pyramid-jit/opengraph-image/card?67ee6b6af80a4a6f",
-        "source": "linum.ai",
-        "stats": "54 points · 19 comments"
-      }
-    ],
-    "2026-10-05": [
-      {
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "title": "Anthropic reported diary entry to police, woman faces felony charge",
-        "description": "829 points · 674 comments",
-        "image": "",
-        "source": "techspot.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "description": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We",
-        "image": "https://www.vals.ai/blogs/2026-10-04-room-temperature-magnetic-semiconductors/hero.png",
-        "source": "vals.ai",
-        "stats": "489 points · 339 comments"
       }
     ]
   }
