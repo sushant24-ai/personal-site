@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-13T09:08:03.681Z",
+  "lastUpdated": "2026-10-14T07:17:42.960Z",
   "days": {
+    "2026-10-14": [
+      {
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+        "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+        "description": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
+        "image": "https://image.theregister.com/241238.jpg?imageId=241238&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "61 points · 52 comments"
+      },
+      {
+        "url": "https://blumify.io/people",
+        "title": "I built a tool to track what AI leaders say and how their views change on video",
+        "description": "Paste a YouTube, Spotify or Apple Podcasts link and get the transcript, a summary, chapters and notes on a page you can share. Free.",
+        "image": "https://blumify.io/opengraph-image?5887fe79cbe072ac",
+        "source": "blumify.io",
+        "stats": "79 points · 49 comments"
+      },
+      {
+        "url": "https://jackantico.io/garmin-mcp",
+        "title": "Creating a Garmin \"MCP\"",
+        "description": "Web site created using create-react-app",
+        "image": "",
+        "source": "jackantico.io",
+        "stats": "11 points · 4 comments"
+      },
+      {
+        "url": "https://ai-security-letter.org/",
+        "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
+        "description": "10 points · 3 comments",
+        "image": "",
+        "source": "ai-security-letter.org",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
+        "title": "NetBSD may have found a new role: The AI-free FOSS OS",
+        "description": "Increasing awareness and adoption, followed by increasing donations",
+        "image": "https://image.theregister.com/5300807.jpg?imageId=5300807&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "6 points · 2 comments"
+      }
+    ],
     "2026-10-13": [
       {
-        "url": "https://arxiv.org/abs/2610.13928",
-        "title": "AI models can provably hide arbitrary capabilities",
-        "description": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "202 points · 104 comments"
-      },
-      {
-        "url": "https://www.argmin.net/p/faster-fourier-transforms",
-        "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-        "description": "The OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit.",
-        "image": "https://substackcdn.com/image/fetch/$s_!1mN7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0c6088-ce61-4802-ac3f-c8bc4060a05a_840x599.jpeg",
-        "source": "argmin.net",
-        "stats": "125 points · 89 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-        "description": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks",
-        "image": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09d088172c992bc6ae7b21be63e1e523",
-        "source": "theguardian.com",
-        "stats": "85 points · 85 comments"
-      },
-      {
-        "url": "https://github.com/bherbruck/solidcraft",
-        "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-        "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. - bherbruck/solidcraft",
-        "image": "https://repository-images.githubusercontent.com/1409246014/48c23d08-a7c1-44f9-a353-58f8ddcf3fee",
-        "source": "github.com",
-        "stats": "55 points · 8 comments"
-      },
-      {
-        "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
-        "title": "Software engineers don't get to be Luddites about AI",
-        "description": "Many software engineers are righteously angry about AI. It’s understandable to be upset that the skills you built your professional identity around are getting…",
+        "url": "https://deepmind.google/models/gemini/",
+        "title": "Gemini 4 Argon",
+        "description": "1215 points · 857 comments",
         "image": "",
-        "source": "seangoedecke.com",
-        "stats": "23 points · 20 comments"
+        "source": "deepmind.google",
+        "stats": ""
+      },
+      {
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "title": "Redesigning source control at Anthropic",
+        "description": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png",
+        "source": "anthropic.com",
+        "stats": "715 points · 695 comments"
+      },
+      {
+        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "description": "Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.",
+        "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
+        "source": "sfstandard.com",
+        "stats": "537 points · 447 comments"
+      },
+      {
+        "url": "https://eg2.haku.sh/",
+        "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+        "description": "An embedding model, turned into a speech-to-text model. An hour of audio in about 13 seconds on a base MacBook Air, on device.",
+        "image": "https://eg2.haku.sh/speed-table.png",
+        "source": "eg2.haku.sh",
+        "stats": "411 points · 89 comments"
+      },
+      {
+        "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+        "description": "317 points · 170 comments",
+        "image": "",
+        "source": "sammystraus.com",
+        "stats": ""
       }
     ],
     "2026-10-12": [
@@ -50,7 +92,7 @@
         "description": "A response to Rich Hickey&#39;s &#34;&#39;AI&#39; is Not a Tool&#34;: automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.",
         "image": "",
         "source": "yyhh.org",
-        "stats": "399 points · 319 comments"
+        "stats": "662 points · 529 comments"
       },
       {
         "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
@@ -58,7 +100,7 @@
         "description": "Study finds coding efficiency gains get &quot;absorbed&quot; by human review &quot;bottleneck.&quot;",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
         "source": "arstechnica.com",
-        "stats": "334 points · 281 comments"
+        "stats": "361 points · 301 comments"
       },
       {
         "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
@@ -66,23 +108,23 @@
         "description": "Followup discussion at https://lists.osgeo.org/pipermail/qgis-developer/2026-September/068576.html.\nThis formally changes the AI policy to a strict &quot;NOT ALLOWED&quot; policy.",
         "image": "https://opengraph.githubassets.com/ecd8d0f901eee0f806d831e96afb55ccec8a03b57832f9afe745d5fb8238f56c/qgis/QGIS-Enhancement-Proposals/pull/387",
         "source": "github.com",
-        "stats": "374 points · 402 comments"
+        "stats": "388 points · 407 comments"
+      },
+      {
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "description": "303 points · 176 comments",
+        "image": "",
+        "source": "intel.com",
+        "stats": ""
       },
       {
         "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
         "title": "Why aren't AI companies being charged for hacking?",
-        "description": "321 points · 348 comments",
+        "description": "331 points · 367 comments",
         "image": "",
         "source": "mortoray.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-        "title": "'AI' Is Not a Tool by Rich Hickey",
-        "description": "(I keep delivering this as a quip, here",
-        "image": "https://static.licdn.com/scds/common/u/images/email/artdeco/logos/96/linkedin-bug-color.png",
-        "source": "linkedin.com",
-        "stats": "270 points · 137 comments"
       }
     ],
     "2026-10-11": [
@@ -92,39 +134,7 @@
         "description": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It&#x27;s now less &quot;two groups of people speaking past each other&quot; and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs…",
         "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
         "source": "twitter.com",
-        "stats": "694 points · 1017 comments"
-      },
-      {
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-        "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.\nThe avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wondering which game I am talking about. To both of you I can only say that corporate America was here to ruin our fun.",
-        "image": "https://momo5502.com/posts/2026-10-09-game-decompilation/images/game.png",
-        "source": "momo5502.com",
-        "stats": "210 points · 152 comments"
-      },
-      {
-        "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-        "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-        "description": "A UC Berkeley researcher raises profound questions about how we interact with artificial intelligence in daily life.",
-        "image": "",
-        "source": "vcresearch.berkeley.edu",
-        "stats": "177 points · 142 comments"
-      },
-      {
-        "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-        "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-        "description": "Nicolas Cage, who recently starred in &quot;Spider-Noir,&quot; said he won&#x27;t work with Amazon again after a disagreement over an AI waiver.",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/1997cfd/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2F94%2F7672f0ba49cbbe410a932a4025e2%2F1553730-nicolas-cage-and-lamorne-morris-2157.jpg",
-        "source": "latimes.com",
-        "stats": "98 points · 36 comments"
-      },
-      {
-        "url": "https://jobs.ashbyhq.com/weave-os",
-        "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-        "description": "Weave Jobs",
-        "image": "https://app.ashbyhq.com/api/images/org-theme-logo/8c055073-ed97-4980-a925-eecf79fbde90/89560b07-0c51-4946-9d59-1e98694a0a99/f444bc50-13b7-4a53-97ed-89e1897a760b.png",
-        "source": "jobs.ashbyhq.com",
-        "stats": "1 points · 0 comments"
+        "stats": "716 points · 1046 comments"
       }
     ],
     "2026-10-10": [
@@ -203,24 +213,6 @@
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11111-4/MediaObjects/41586_2026_11111_Fig1_HTML.png",
         "source": "nature.com",
         "stats": "105 points · 23 comments"
-      }
-    ],
-    "2026-10-07": [
-      {
-        "url": "https://openai.com/index/gpt-6-for-everyone/",
-        "title": "GPT‑6 and Intelligent UI for everyone",
-        "description": "755 points · 458 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/ymcrcat/rgpu",
-        "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
-        "description": "Keep Python on your laptop. Run PyTorch operations and hold tensors on a remote GPU, including from a Mac with no CUDA installation. - ymcrcat/rgpu",
-        "image": "https://opengraph.githubassets.com/cb6a9afc9286b1e77d08a1bacc1aa1dffd19d48dfb76ac15c68ca3fc68fded48/ymcrcat/rgpu",
-        "source": "github.com",
-        "stats": "55 points · 4 comments"
       }
     ]
   }
