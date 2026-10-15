@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-10-14T07:17:42.960Z",
+  "lastUpdated": "2026-10-15T07:09:29.854Z",
   "days": {
+    "2026-10-15": [
+      {
+        "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+        "title": "Asia chip stocks fall, AI funding worries",
+        "description": "A sell-off in global technology hardware stocks deepened Thursday.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "15 points · 0 comments"
+      },
+      {
+        "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
+        "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
+        "description": "OTHER SIDE: Company says it complies with election rules and has taken additional measures so that prompts using only candidates ",
+        "image": "https://f.i.uol.com.br/fotografia/2026/09/08/17889051246aa086a4a9227_1788905124_3x2_rt.jpg",
+        "source": "www1.folha.uol.com.br",
+        "stats": "10 points · 2 comments"
+      },
+      {
+        "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+        "title": "Palantir CTO: some AI researchers are smoking because AI will cure cancer",
+        "description": "Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said.",
+        "image": "https://i.insider.com/6acca64d301bb0551f494b51?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "6 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/canaanmckenzie/sidelong",
+        "title": "Show HN: How to Use LLMs",
+        "description": "A chat interface laid out sideways: each Q&amp;amp;A is a page, old pages collapse into topic-colored tabs. Runs on your Claude subscription through the Claude Code CLI, embeddings local via Ollama. Ze...",
+        "image": "https://opengraph.githubassets.com/d43cc79edd325add2359320e89350aaba9316881fd5da897afa84174cdc2a0a5/canaanmckenzie/sidelong",
+        "source": "github.com",
+        "stats": "6 points · 2 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
+        "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
+        "description": "The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct. 12, according to a court filing.",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIoCuZHGtxL8/v1/1200x800.jpg",
+        "source": "bloomberg.com",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-10-14": [
       {
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-        "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-        "description": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
-        "image": "https://image.theregister.com/241238.jpg?imageId=241238&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "61 points · 52 comments"
+        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+        "description": "Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.",
+        "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&amp;strip=all&amp;w=1024",
+        "source": "csoonline.com",
+        "stats": "876 points · 513 comments"
       },
       {
-        "url": "https://blumify.io/people",
-        "title": "I built a tool to track what AI leaders say and how their views change on video",
-        "description": "Paste a YouTube, Spotify or Apple Podcasts link and get the transcript, a summary, chapters and notes on a page you can share. Free.",
-        "image": "https://blumify.io/opengraph-image?5887fe79cbe072ac",
-        "source": "blumify.io",
-        "stats": "79 points · 49 comments"
+        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "description": "It is important to provide credit.",
+        "image": "https://sunshowers.io/images/og-image.png",
+        "source": "sunshowers.io",
+        "stats": "350 points · 129 comments"
       },
       {
-        "url": "https://jackantico.io/garmin-mcp",
-        "title": "Creating a Garmin \"MCP\"",
-        "description": "Web site created using create-react-app",
+        "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+        "description": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
+        "image": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-jpmorgan-man-group.jpg",
+        "source": "startupfortune.com",
+        "stats": "359 points · 250 comments"
+      },
+      {
+        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+        "description": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
+        "image": "https://aypchzzf9pftwuto.public.blob.vercel-storage.com/image%20(3)-oOdUn61bDRSykk4H951SoDOHzqoOe1.png",
+        "source": "liquid.ai",
+        "stats": "167 points · 39 comments"
+      },
+      {
+        "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+        "description": "169 points · 171 comments",
         "image": "",
-        "source": "jackantico.io",
-        "stats": "11 points · 4 comments"
-      },
-      {
-        "url": "https://ai-security-letter.org/",
-        "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
-        "description": "10 points · 3 comments",
-        "image": "",
-        "source": "ai-security-letter.org",
+        "source": "reuters.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
-        "title": "NetBSD may have found a new role: The AI-free FOSS OS",
-        "description": "Increasing awareness and adoption, followed by increasing donations",
-        "image": "https://image.theregister.com/5300807.jpg?imageId=5300807&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "6 points · 2 comments"
       }
     ],
     "2026-10-13": [
       {
         "url": "https://deepmind.google/models/gemini/",
         "title": "Gemini 4 Argon",
-        "description": "1215 points · 857 comments",
+        "description": "1446 points · 1027 comments",
         "image": "",
         "source": "deepmind.google",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png",
         "source": "anthropic.com",
-        "stats": "715 points · 695 comments"
+        "stats": "877 points · 980 comments"
       },
       {
         "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
@@ -66,7 +108,7 @@
         "description": "Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.",
         "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
         "source": "sfstandard.com",
-        "stats": "537 points · 447 comments"
+        "stats": "646 points · 533 comments"
       },
       {
         "url": "https://eg2.haku.sh/",
@@ -74,12 +116,12 @@
         "description": "An embedding model, turned into a speech-to-text model. An hour of audio in about 13 seconds on a base MacBook Air, on device.",
         "image": "https://eg2.haku.sh/speed-table.png",
         "source": "eg2.haku.sh",
-        "stats": "411 points · 89 comments"
+        "stats": "428 points · 94 comments"
       },
       {
         "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
         "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-        "description": "317 points · 170 comments",
+        "description": "345 points · 184 comments",
         "image": "",
         "source": "sammystraus.com",
         "stats": ""
@@ -92,49 +134,25 @@
         "description": "A response to Rich Hickey&#39;s &#34;&#39;AI&#39; is Not a Tool&#34;: automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.",
         "image": "",
         "source": "yyhh.org",
-        "stats": "662 points · 529 comments"
+        "stats": "770 points · 593 comments"
       },
       {
-        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-        "title": "AI coding agents generate more code, but not more software",
-        "description": "Study finds coding efficiency gains get &quot;absorbed&quot; by human review &quot;bottleneck.&quot;",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "361 points · 301 comments"
-      },
-      {
-        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-        "title": "QGIS enacts moratorium on AI contributions",
-        "description": "Followup discussion at https://lists.osgeo.org/pipermail/qgis-developer/2026-September/068576.html.\nThis formally changes the AI policy to a strict &quot;NOT ALLOWED&quot; policy.",
-        "image": "https://opengraph.githubassets.com/ecd8d0f901eee0f806d831e96afb55ccec8a03b57832f9afe745d5fb8238f56c/qgis/QGIS-Enhancement-Proposals/pull/387",
-        "source": "github.com",
-        "stats": "388 points · 407 comments"
-      },
-      {
-        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "description": "303 points · 176 comments",
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "description": "160 points · 120 comments",
         "image": "",
-        "source": "intel.com",
-        "stats": ""
-      },
-      {
-        "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-        "title": "Why aren't AI companies being charged for hacking?",
-        "description": "331 points · 367 comments",
-        "image": "",
-        "source": "mortoray.com",
+        "source": "news.ycombinator.com",
         "stats": ""
       }
     ],
     "2026-10-11": [
       {
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "description": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It&#x27;s now less &quot;two groups of people speaking past each other&quot; and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs…",
-        "image": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "716 points · 1046 comments"
+        "url": "https://github.com/enes-alatas/spool",
+        "title": "How I manage persistent Claude Code loops: Spool",
+        "description": " fleet of persistent Claude Code coworkers you talk to in Telegram and Slack. Each in its own container, on your own plan without API costs. - enes-alatas/spool",
+        "image": "https://opengraph.githubassets.com/f22156325d4c3300a70b7d43f266f5765567b4c2b2fe47e25d1ba8dfc8cbc1e3/enes-alatas/spool",
+        "source": "github.com",
+        "stats": "18 points · 5 comments"
       }
     ],
     "2026-10-10": [
@@ -187,32 +205,6 @@
         "image": "https://images.ctfassets.net/00voh0j35590/2yOYv8dss0M8hI24SPoDQt/03144320f103f1ab7692be074951b729/Group_1__2_.jpg",
         "source": "cockroachlabs.com",
         "stats": "214 points · 107 comments"
-      }
-    ],
-    "2026-10-08": [
-      {
-        "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-        "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-        "description": "thoughts, talks, docs and unpopular opinions",
-        "image": "",
-        "source": "dgt.is",
-        "stats": "1123 points · 985 comments"
-      },
-      {
-        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-        "description": "299 points · 132 comments",
-        "image": "",
-        "source": "reddit.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.nature.com/articles/s41586-026-11111-4",
-        "title": "Retrofitting language models to operate over bytes",
-        "description": "Byteification is a general method for retrofitting large language models to operate over bytes such that they approach the capabilities of subword-based systems and may be better for scientific data.",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11111-4/MediaObjects/41586_2026_11111_Fig1_HTML.png",
-        "source": "nature.com",
-        "stats": "105 points · 23 comments"
       }
     ]
   }
