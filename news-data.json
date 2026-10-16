@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-15T07:09:29.854Z",
+  "lastUpdated": "2026-10-16T06:52:41.413Z",
   "days": {
+    "2026-10-16": [
+      {
+        "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+        "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+        "description": "The Google cofounder said Gemini models were increasingly helping to build their successors as the industry races toward RSI.",
+        "image": "https://i.insider.com/6ad0a7612428f6b455812971?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "11 points · 15 comments"
+      },
+      {
+        "url": "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
+        "title": "Anthropic thinks its AI might be conscious",
+        "description": "Some of tech&#x27;s most powerful leaders are treating AI like it&#x27;s alive. It could have profound consequences for our world and your own personal safety.",
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0pgqdtv.jpg",
+        "source": "bbc.com",
+        "stats": "7 points · 5 comments"
+      },
+      {
+        "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "title": "Linus Torvalds on \"don't use AI for X\"",
+        "description": "Browse git repositories hosted by the Linux Foundation.",
+        "image": "",
+        "source": "lore.kernel.org",
+        "stats": "7 points · 4 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc",
+        "title": "Investors dump data centre bonds as AI borrowers face 'Darwin moment'",
+        "description": "5 points · 1 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+        "title": "Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+        "description": "&quot;Historically, decompilation has been a brutally difficult, time consuming task.&quot; Now, AI is trivially doing it.",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-15-at-10.14.37-AM@2x.png",
+        "source": "404media.co",
+        "stats": "6 points · 2 comments"
+      }
+    ],
     "2026-10-15": [
       {
-        "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-        "title": "Asia chip stocks fall, AI funding worries",
-        "description": "A sell-off in global technology hardware stocks deepened Thursday.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "15 points · 0 comments"
+        "url": "https://already-clean.goodfire.com/",
+        "title": "Neural networks are clean",
+        "description": "A working hypothesis about neurons, generalization, and the ecology of circuits.",
+        "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
+        "source": "already-clean.goodfire.com",
+        "stats": "626 points · 229 comments"
       },
       {
-        "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
-        "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content",
-        "description": "OTHER SIDE: Company says it complies with election rules and has taken additional measures so that prompts using only candidates ",
-        "image": "https://f.i.uol.com.br/fotografia/2026/09/08/17889051246aa086a4a9227_1788905124_3x2_rt.jpg",
-        "source": "www1.folha.uol.com.br",
-        "stats": "10 points · 2 comments"
+        "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+        "title": "More on Anthropic's Scion ripping off Mononoke",
+        "description": "Answering questions and concerns.",
+        "image": "https://sunshowers.io/images/og-image.png",
+        "source": "sunshowers.io",
+        "stats": "238 points · 77 comments"
       },
       {
-        "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
-        "title": "Palantir CTO: some AI researchers are smoking because AI will cure cancer",
-        "description": "Some AI believers expect the technology to make smoking-related health risks like cancer a thing of the past, Palantir CTO Shyam Sankar said.",
-        "image": "https://i.insider.com/6acca64d301bb0551f494b51?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "6 points · 1 comments"
+        "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+        "title": "Why We're Banning AI",
+        "description": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.",
+        "image": "https://www.currentaffairs.org/hubfs/smash1.png",
+        "source": "currentaffairs.org",
+        "stats": "234 points · 181 comments"
       },
       {
-        "url": "https://github.com/canaanmckenzie/sidelong",
-        "title": "Show HN: How to Use LLMs",
-        "description": "A chat interface laid out sideways: each Q&amp;amp;A is a page, old pages collapse into topic-colored tabs. Runs on your Claude subscription through the Claude Code CLI, embeddings local via Ollama. Ze...",
-        "image": "https://opengraph.githubassets.com/d43cc79edd325add2359320e89350aaba9316881fd5da897afa84174cdc2a0a5/canaanmckenzie/sidelong",
-        "source": "github.com",
-        "stats": "6 points · 2 comments"
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+        "description": "The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership…",
+        "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation-1.jpg",
+        "source": "simonsfoundation.org",
+        "stats": "237 points · 192 comments"
       },
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
-        "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
-        "description": "The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct. 12, according to a court filing.",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIoCuZHGtxL8/v1/1200x800.jpg",
-        "source": "bloomberg.com",
-        "stats": "4 points · 0 comments"
+        "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+        "title": "Using AI to reverse engineer hardware",
+        "description": "After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...",
+        "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
+        "source": "blogs.gnome.org",
+        "stats": "167 points · 146 comments"
       }
     ],
     "2026-10-14": [
@@ -50,7 +92,7 @@
         "description": "Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.",
         "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&amp;strip=all&amp;w=1024",
         "source": "csoonline.com",
-        "stats": "876 points · 513 comments"
+        "stats": "940 points · 614 comments"
       },
       {
         "url": "https://sunshowers.io/posts/anthropic-mononoke/",
@@ -58,7 +100,7 @@
         "description": "It is important to provide credit.",
         "image": "https://sunshowers.io/images/og-image.png",
         "source": "sunshowers.io",
-        "stats": "350 points · 129 comments"
+        "stats": "420 points · 157 comments"
       },
       {
         "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
@@ -66,7 +108,7 @@
         "description": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
         "image": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-jpmorgan-man-group.jpg",
         "source": "startupfortune.com",
-        "stats": "359 points · 250 comments"
+        "stats": "378 points · 274 comments"
       },
       {
         "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -74,12 +116,12 @@
         "description": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
         "image": "https://aypchzzf9pftwuto.public.blob.vercel-storage.com/image%20(3)-oOdUn61bDRSykk4H951SoDOHzqoOe1.png",
         "source": "liquid.ai",
-        "stats": "167 points · 39 comments"
+        "stats": "284 points · 78 comments"
       },
       {
         "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
         "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-        "description": "169 points · 171 comments",
+        "description": "173 points · 173 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -89,7 +131,7 @@
       {
         "url": "https://deepmind.google/models/gemini/",
         "title": "Gemini 4 Argon",
-        "description": "1446 points · 1027 comments",
+        "description": "1457 points · 1036 comments",
         "image": "",
         "source": "deepmind.google",
         "stats": ""
@@ -100,31 +142,23 @@
         "description": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png",
         "source": "anthropic.com",
-        "stats": "877 points · 980 comments"
+        "stats": "885 points · 1006 comments"
       },
       {
-        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-        "title": "OpenAI engineer arrested in bugging of executive conference room",
-        "description": "Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.",
-        "image": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG",
-        "source": "sfstandard.com",
-        "stats": "646 points · 533 comments"
-      },
-      {
-        "url": "https://eg2.haku.sh/",
-        "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-        "description": "An embedding model, turned into a speech-to-text model. An hour of audio in about 13 seconds on a base MacBook Air, on device.",
-        "image": "https://eg2.haku.sh/speed-table.png",
-        "source": "eg2.haku.sh",
-        "stats": "428 points · 94 comments"
-      },
-      {
-        "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-        "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-        "description": "345 points · 184 comments",
+        "url": "https://news.ycombinator.com/item?id=50067325",
+        "title": "Ask HN: CAD for wood working with LLM support?",
+        "description": "119 points · 123 comments",
         "image": "",
-        "source": "sammystraus.com",
+        "source": "news.ycombinator.com",
         "stats": ""
+      },
+      {
+        "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+        "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+        "description": "Role Overview In this role, you will develop the agentic research vertical at PostEra, using agentic systems to automate the development of mechanistic models for biochemical and physiological processes, and analyse biological data for target validation. You will interact closely with chemists and biologists to use these models to drive drug discovery decisions. You will also develop machine learning methods that can rapidly adapt to new drug discovery problems from limited labeled data. A particular focus is molecular and tabular in-context learning and building foundation models from PostEra’s proprietary multimodal data. You will build models that use the context of drug discovery effectively, determine which prior examples and tasks are relevant, quantify when transfer is helpful or harmful, and provide reliable predictions under distribution shift. You will help drive the full research loop: defining tasks, constructing datasets and evaluation episodes, developing strong baselin",
+        "image": "https://lever-client-logos.s3.us-west-2.amazonaws.com/70eac176-d8ca-4582-9706-dfe89c2fe3ca-1689005387384.png",
+        "source": "jobs.lever.co",
+        "stats": "1 points · 0 comments"
       }
     ],
     "2026-10-12": [
@@ -134,15 +168,7 @@
         "description": "A response to Rich Hickey&#39;s &#34;&#39;AI&#39; is Not a Tool&#34;: automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.",
         "image": "",
         "source": "yyhh.org",
-        "stats": "770 points · 593 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50059096",
-        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-        "description": "160 points · 120 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "787 points · 602 comments"
       }
     ],
     "2026-10-11": [
@@ -195,16 +221,6 @@
         "image": "https://www.warren.senate.gov/wp-content/uploads/2026/06/Warren_Logo_Social.jpg",
         "source": "warren.senate.gov",
         "stats": "57 points · 9 comments"
-      }
-    ],
-    "2026-10-09": [
-      {
-        "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-        "title": "Five months treating bugs like patients and coding agents like a medical team",
-        "description": "How Cockroach Labs built MOLT Sinai, an AI coding “teaching hospital” that shipped IBM Db2 migration support in under two days.",
-        "image": "https://images.ctfassets.net/00voh0j35590/2yOYv8dss0M8hI24SPoDQt/03144320f103f1ab7692be074951b729/Group_1__2_.jpg",
-        "source": "cockroachlabs.com",
-        "stats": "214 points · 107 comments"
       }
     ]
   }
