@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-16T06:52:41.413Z",
+  "lastUpdated": "2026-10-17T06:44:50.263Z",
   "days": {
+    "2026-10-17": [
+      {
+        "url": "https://llmspeed.dev/",
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "description": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
+        "image": "https://llmspeed.dev/og.png",
+        "source": "llmspeed.dev",
+        "stats": "14 points · 3 comments"
+      },
+      {
+        "url": "https://github.com/aditauqir/shev",
+        "title": "DeepSeek v4.1 flash on OpenCode pretty good",
+        "description": "Contribute to aditauqir/shev development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/dbbc8c10841c461d04cfa807c926a6391588011bfcf3182d716d3c9848474b14/aditauqir/shev",
+        "source": "github.com",
+        "stats": "7 points · 0 comments"
+      },
+      {
+        "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+        "title": "AI is driving a boom in modestly successful software projects",
+        "description": "If AI is so great, why aren’t we seeing an explosion of new, amazing software products? If anyone can turn their idea into working software with coding agents…",
+        "image": "",
+        "source": "seangoedecke.com",
+        "stats": "8 points · 1 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/research/employment-at-anthropic",
+        "title": "How employment is changing at Anthropic",
+        "description": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "anthropic.com",
+        "stats": "6 points · 3 comments"
+      },
+      {
+        "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+        "title": "Android gets AI defenses against messaging scams, fake calls",
+        "description": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/android.jpg",
+        "source": "bleepingcomputer.com",
+        "stats": "7 points · 0 comments"
+      }
+    ],
     "2026-10-16": [
       {
-        "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
-        "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
-        "description": "The Google cofounder said Gemini models were increasingly helping to build their successors as the industry races toward RSI.",
-        "image": "https://i.insider.com/6ad0a7612428f6b455812971?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "11 points · 15 comments"
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "title": "Claude reveals ECDSA curve origins",
+        "description": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "812 points · 308 comments"
       },
       {
-        "url": "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
-        "title": "Anthropic thinks its AI might be conscious",
-        "description": "Some of tech&#x27;s most powerful leaders are treating AI like it&#x27;s alive. It could have profound consequences for our world and your own personal safety.",
-        "image": "https://ychef.files.bbci.co.uk/624x351/p0pgqdtv.jpg",
-        "source": "bbc.com",
-        "stats": "7 points · 5 comments"
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "description": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.",
+        "image": "https://www.mercor.com/mercor-logo-white.png",
+        "source": "mercor.com",
+        "stats": "467 points · 401 comments"
       },
       {
-        "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-        "title": "Linus Torvalds on \"don't use AI for X\"",
-        "description": "Browse git repositories hosted by the Linux Foundation.",
-        "image": "",
-        "source": "lore.kernel.org",
-        "stats": "7 points · 4 comments"
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "title": "How the Claude Code team does code review",
+        "description": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&#x27;t raise reverts or incidents.",
+        "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
+        "source": "claude.dev",
+        "stats": "311 points · 284 comments"
       },
       {
-        "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc",
-        "title": "Investors dump data centre bonds as AI borrowers face 'Darwin moment'",
-        "description": "5 points · 1 comments",
+        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+        "title": "Anthropic assigned highest junk credit rating in June",
+        "description": "243 points · 75 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
       },
       {
-        "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-        "title": "Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
-        "description": "&quot;Historically, decompilation has been a brutally difficult, time consuming task.&quot; Now, AI is trivially doing it.",
-        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-15-at-10.14.37-AM@2x.png",
-        "source": "404media.co",
-        "stats": "6 points · 2 comments"
+        "url": "https://github.com/cobanov/PS5LM",
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
+        "image": "https://opengraph.githubassets.com/ec2419f66a96e31b65a03d07572c9998868427b837b11420a9c43c42341e3f6e/cobanov/PS5LM",
+        "source": "github.com",
+        "stats": "261 points · 64 comments"
       }
     ],
     "2026-10-15": [
@@ -50,7 +92,7 @@
         "description": "A working hypothesis about neurons, generalization, and the ecology of circuits.",
         "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
         "source": "already-clean.goodfire.com",
-        "stats": "626 points · 229 comments"
+        "stats": "803 points · 326 comments"
       },
       {
         "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
@@ -58,7 +100,7 @@
         "description": "Answering questions and concerns.",
         "image": "https://sunshowers.io/images/og-image.png",
         "source": "sunshowers.io",
-        "stats": "238 points · 77 comments"
+        "stats": "253 points · 89 comments"
       },
       {
         "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
@@ -66,7 +108,7 @@
         "description": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.",
         "image": "https://www.currentaffairs.org/hubfs/smash1.png",
         "source": "currentaffairs.org",
-        "stats": "234 points · 181 comments"
+        "stats": "255 points · 201 comments"
       },
       {
         "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
@@ -74,7 +116,7 @@
         "description": "The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership…",
         "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation-1.jpg",
         "source": "simonsfoundation.org",
-        "stats": "237 points · 192 comments"
+        "stats": "247 points · 198 comments"
       },
       {
         "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
@@ -82,7 +124,7 @@
         "description": "After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...",
         "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
         "source": "blogs.gnome.org",
-        "stats": "167 points · 146 comments"
+        "stats": "246 points · 237 comments"
       }
     ],
     "2026-10-14": [
@@ -92,38 +134,22 @@
         "description": "Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.",
         "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&amp;strip=all&amp;w=1024",
         "source": "csoonline.com",
-        "stats": "940 points · 614 comments"
+        "stats": "946 points · 619 comments"
       },
       {
-        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "description": "It is important to provide credit.",
-        "image": "https://sunshowers.io/images/og-image.png",
-        "source": "sunshowers.io",
-        "stats": "420 points · 157 comments"
+        "url": "https://github.com/mixelpixx/Konnect",
+        "title": "AI-assisted PCB design for KiCad 10",
+        "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of y...",
+        "image": "https://opengraph.githubassets.com/dd2929c7ae344e21fe735e70ccf999f3142116873078156218c0bff41cbb461c/mixelpixx/Konnect",
+        "source": "github.com",
+        "stats": "129 points · 48 comments"
       },
       {
-        "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-        "description": "Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.",
-        "image": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-jpmorgan-man-group.jpg",
-        "source": "startupfortune.com",
-        "stats": "378 points · 274 comments"
-      },
-      {
-        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-        "description": "LFM2.5-24B-A2B: an open-weight 24B reasoning model with 2B active parameters, built for fast, private on-device agents. Beats Qwen3.6-35B-A3B on LiveClaw.",
-        "image": "https://aypchzzf9pftwuto.public.blob.vercel-storage.com/image%20(3)-oOdUn61bDRSykk4H951SoDOHzqoOe1.png",
-        "source": "liquid.ai",
-        "stats": "284 points · 78 comments"
-      },
-      {
-        "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-        "description": "173 points · 173 comments",
+        "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+        "title": "0/1 Knapsack Problem in PyTorch",
+        "description": "7 points · 0 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "jedrzej.maczan.pl",
         "stats": ""
       }
     ],
@@ -131,34 +157,10 @@
       {
         "url": "https://deepmind.google/models/gemini/",
         "title": "Gemini 4 Argon",
-        "description": "1457 points · 1036 comments",
+        "description": "1461 points · 1042 comments",
         "image": "",
         "source": "deepmind.google",
         "stats": ""
-      },
-      {
-        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "title": "Redesigning source control at Anthropic",
-        "description": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png",
-        "source": "anthropic.com",
-        "stats": "885 points · 1006 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50067325",
-        "title": "Ask HN: CAD for wood working with LLM support?",
-        "description": "119 points · 123 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-        "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-        "description": "Role Overview In this role, you will develop the agentic research vertical at PostEra, using agentic systems to automate the development of mechanistic models for biochemical and physiological processes, and analyse biological data for target validation. You will interact closely with chemists and biologists to use these models to drive drug discovery decisions. You will also develop machine learning methods that can rapidly adapt to new drug discovery problems from limited labeled data. A particular focus is molecular and tabular in-context learning and building foundation models from PostEra’s proprietary multimodal data. You will build models that use the context of drug discovery effectively, determine which prior examples and tasks are relevant, quantify when transfer is helpful or harmful, and provide reliable predictions under distribution shift. You will help drive the full research loop: defining tasks, constructing datasets and evaluation episodes, developing strong baselin",
-        "image": "https://lever-client-logos.s3.us-west-2.amazonaws.com/70eac176-d8ca-4582-9706-dfe89c2fe3ca-1689005387384.png",
-        "source": "jobs.lever.co",
-        "stats": "1 points · 0 comments"
       }
     ],
     "2026-10-12": [
@@ -179,48 +181,6 @@
         "image": "https://opengraph.githubassets.com/f22156325d4c3300a70b7d43f266f5765567b4c2b2fe47e25d1ba8dfc8cbc1e3/enes-alatas/spool",
         "source": "github.com",
         "stats": "18 points · 5 comments"
-      }
-    ],
-    "2026-10-10": [
-      {
-        "url": "https://github.com/rociiu/talorys",
-        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no ...",
-        "image": "https://opengraph.githubassets.com/97036e46ee4f1eccb8a6d3a72d47dbe761734f093f37c54cea303d40374965a1/rociiu/talorys",
-        "source": "github.com",
-        "stats": "323 points · 152 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-        "description": "176 points · 114 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-        "title": "My personal AI agent posted my bank details on company Slack",
-        "description": "Shane Mac, the CEO of XMTP Labs, got a rude shock when one of his AI agents posted his monthly bank audit in a company Slack channel.",
-        "image": "https://i.insider.com/6ac8a4967bf24b4467e699a7?width=724&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "63 points · 68 comments"
-      },
-      {
-        "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-        "title": "AI Is Throwing a Roadside Picnic",
-        "description": "47 points · 51 comments",
-        "image": "",
-        "source": "metedata.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
-        "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-        "description": "AI Data Center Companies Reveal to Warren, Blumenthal, Van Hollen They Are Not Paying Their Full Costs, Will Continue Using NDAs and Seeking Tax Breaks - Senator Elizabeth Warren",
-        "image": "https://www.warren.senate.gov/wp-content/uploads/2026/06/Warren_Logo_Social.jpg",
-        "source": "warren.senate.gov",
-        "stats": "57 points · 9 comments"
       }
     ]
   }
