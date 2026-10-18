@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-17T06:44:50.263Z",
+  "lastUpdated": "2026-10-18T07:05:12.634Z",
   "days": {
+    "2026-10-18": [
+      {
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "description": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.",
+        "image": "",
+        "source": "sphinx-six-theta.vercel.app",
+        "stats": "74 points · 19 comments"
+      },
+      {
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "description": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
+        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+        "source": "api-docs.deepseek.com",
+        "stats": "2 points · 0 comments"
+      },
+      {
+        "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+        "title": "Phishing emails are baiting your AI assistant",
+        "description": "If you use an AI assistant to summarize your inbox, hidden instructions could turn a phishing email you wisely ignored into your next to-do item.",
+        "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/10/ai-assistant-email.jpg",
+        "source": "malwarebytes.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://www.fenwick.com/insights/publications/nothing-remove-ninth-circuit-holds-copilot-creates-new-code-not-stripped",
+        "title": "Ninth Circuit Holds Copilot Creates New Code, Not Stripped Copies",
+        "description": "3 points · 1 comments",
+        "image": "",
+        "source": "fenwick.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.waferpilot.xyz/resources/fab-llm-yield-reliability/",
+        "title": "LLMs are inside fabs, so why aren't they solving core problems?",
+        "description": "头部 Fab 早已有成熟的内部云、全量机台数据与本地部署大模型，工程师每天用它生成早晚会 Slides。但面对车规级芯片推动的高标准良率与可靠性调查，通用 LLM 会撞上“两个半”核心痛点：缺乏实证科学计算机制、历史经验未融入跨工步数据准备，以及纯文本对话框违背工程师视觉核查习惯。",
+        "image": "",
+        "source": "waferpilot.xyz",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-10-17": [
+      {
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
+        "source": "huggingface.co",
+        "stats": "811 points · 633 comments"
+      },
+      {
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name.",
+        "image": "https://openrouter.ai/en-US/deepseek/deepseek-v4.1-flash-1017/opengraph-image-vc0va0?1e77ea1e963ce414",
+        "source": "openrouter.ai",
+        "stats": "514 points · 5 comments"
+      },
       {
         "url": "https://llmspeed.dev/",
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "description": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
         "image": "https://llmspeed.dev/og.png",
         "source": "llmspeed.dev",
-        "stats": "14 points · 3 comments"
+        "stats": "274 points · 80 comments"
       },
       {
-        "url": "https://github.com/aditauqir/shev",
-        "title": "DeepSeek v4.1 flash on OpenCode pretty good",
-        "description": "Contribute to aditauqir/shev development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/dbbc8c10841c461d04cfa807c926a6391588011bfcf3182d716d3c9848474b14/aditauqir/shev",
-        "source": "github.com",
-        "stats": "7 points · 0 comments"
+        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+        "title": "OpenAI discloses four more rogue incidents",
+        "description": "The company flagged two new incidents as “critical,” yet did not discover or disclose them until months later.",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785644_b97df1-e1792164755578.jpg?resize=1200,600",
+        "source": "fortune.com",
+        "stats": "124 points · 149 comments"
       },
       {
-        "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-        "title": "AI is driving a boom in modestly successful software projects",
-        "description": "If AI is so great, why aren’t we seeing an explosion of new, amazing software products? If anyone can turn their idea into working software with coding agents…",
-        "image": "",
-        "source": "seangoedecke.com",
-        "stats": "8 points · 1 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/employment-at-anthropic",
-        "title": "How employment is changing at Anthropic",
-        "description": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "anthropic.com",
-        "stats": "6 points · 3 comments"
-      },
-      {
-        "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-        "title": "Android gets AI defenses against messaging scams, fake calls",
-        "description": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices.",
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/android.jpg",
-        "source": "bleepingcomputer.com",
-        "stats": "7 points · 0 comments"
+        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+        "title": "Amazon uses AI to monitor union risk in UK warehouses",
+        "description": "Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model",
+        "image": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/10/Amazon-AI-question-openDemocracy-edit.jpg",
+        "source": "opendemocracy.net",
+        "stats": "161 points · 58 comments"
       }
     ],
     "2026-10-16": [
@@ -50,15 +92,7 @@
         "description": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "812 points · 308 comments"
-      },
-      {
-        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-        "description": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.",
-        "image": "https://www.mercor.com/mercor-logo-white.png",
-        "source": "mercor.com",
-        "stats": "467 points · 401 comments"
+        "stats": "1034 points · 380 comments"
       },
       {
         "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
@@ -66,23 +100,31 @@
         "description": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&#x27;t raise reverts or incidents.",
         "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
         "source": "claude.dev",
-        "stats": "311 points · 284 comments"
+        "stats": "457 points · 463 comments"
       },
       {
-        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-        "title": "Anthropic assigned highest junk credit rating in June",
-        "description": "243 points · 75 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "description": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.",
+        "image": "https://www.mercor.com/mercor-logo-white.png",
+        "source": "mercor.com",
+        "stats": "603 points · 551 comments"
+      },
+      {
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "title": "You could have invented transformers from memory",
+        "description": "Every layer is a memory store",
+        "image": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg",
+        "source": "alexwang.ai",
+        "stats": "542 points · 126 comments"
       },
       {
         "url": "https://github.com/cobanov/PS5LM",
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
-        "image": "https://opengraph.githubassets.com/ec2419f66a96e31b65a03d07572c9998868427b837b11420a9c43c42341e3f6e/cobanov/PS5LM",
+        "image": "https://opengraph.githubassets.com/2962912307184a8dbe26615b702aea2c486e253e207812942cba707a69d75ecd/cobanov/PS5LM",
         "source": "github.com",
-        "stats": "261 points · 64 comments"
+        "stats": "367 points · 84 comments"
       }
     ],
     "2026-10-15": [
@@ -92,62 +134,22 @@
         "description": "A working hypothesis about neurons, generalization, and the ecology of circuits.",
         "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
         "source": "already-clean.goodfire.com",
-        "stats": "803 points · 326 comments"
-      },
-      {
-        "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-        "title": "More on Anthropic's Scion ripping off Mononoke",
-        "description": "Answering questions and concerns.",
-        "image": "https://sunshowers.io/images/og-image.png",
-        "source": "sunshowers.io",
-        "stats": "253 points · 89 comments"
-      },
-      {
-        "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-        "title": "Why We're Banning AI",
-        "description": "We urgently need to protect human thought and creativity. Our magazine is committing itself to remaining handmade. Ensure every publication you support does the same.",
-        "image": "https://www.currentaffairs.org/hubfs/smash1.png",
-        "source": "currentaffairs.org",
-        "stats": "255 points · 201 comments"
-      },
-      {
-        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-        "description": "The Simons Foundation today announced a new set of initiatives that will help the mathematics community navigate the rapid rise of artificial intelligence in the field. Under a partnership…",
-        "image": "https://www.simonsfoundation.org/wp-content/uploads/2026/10/SEO_SF-OpenAi_c.Lucy-Reading-Ikkanda-Simons-Foundation-1.jpg",
-        "source": "simonsfoundation.org",
-        "stats": "247 points · 198 comments"
-      },
-      {
-        "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-        "title": "Using AI to reverse engineer hardware",
-        "description": "After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i was supported under Linux so I bought that. Only to discover that the chipset in...",
-        "image": "https://blogs.gnome.org/uraeus/files/2026/10/drivercompare.png",
-        "source": "blogs.gnome.org",
-        "stats": "246 points · 237 comments"
+        "stats": "812 points · 332 comments"
       }
     ],
     "2026-10-14": [
       {
-        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-        "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-        "description": "Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards.",
-        "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&amp;strip=all&amp;w=1024",
-        "source": "csoonline.com",
-        "stats": "946 points · 619 comments"
-      },
-      {
         "url": "https://github.com/mixelpixx/Konnect",
         "title": "AI-assisted PCB design for KiCad 10",
         "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of y...",
-        "image": "https://opengraph.githubassets.com/dd2929c7ae344e21fe735e70ccf999f3142116873078156218c0bff41cbb461c/mixelpixx/Konnect",
+        "image": "https://opengraph.githubassets.com/effa4d8c7722b1c4628e732418fd289d7f7ba88e3a5b5b2f1c41e23fe7dfaba7/mixelpixx/Konnect",
         "source": "github.com",
-        "stats": "129 points · 48 comments"
+        "stats": "143 points · 52 comments"
       },
       {
         "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
         "title": "0/1 Knapsack Problem in PyTorch",
-        "description": "7 points · 0 comments",
+        "description": "49 points · 6 comments",
         "image": "",
         "source": "jedrzej.maczan.pl",
         "stats": ""
@@ -171,16 +173,6 @@
         "image": "",
         "source": "yyhh.org",
         "stats": "787 points · 602 comments"
-      }
-    ],
-    "2026-10-11": [
-      {
-        "url": "https://github.com/enes-alatas/spool",
-        "title": "How I manage persistent Claude Code loops: Spool",
-        "description": " fleet of persistent Claude Code coworkers you talk to in Telegram and Slack. Each in its own container, on your own plan without API costs. - enes-alatas/spool",
-        "image": "https://opengraph.githubassets.com/f22156325d4c3300a70b7d43f266f5765567b4c2b2fe47e25d1ba8dfc8cbc1e3/enes-alatas/spool",
-        "source": "github.com",
-        "stats": "18 points · 5 comments"
       }
     ]
   }
