@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-18T07:05:12.634Z",
+  "lastUpdated": "2026-10-19T07:30:09.657Z",
   "days": {
-    "2026-10-18": [
+    "2026-10-19": [
       {
-        "url": "https://sphinx-six-theta.vercel.app/",
-        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-        "description": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.",
-        "image": "",
-        "source": "sphinx-six-theta.vercel.app",
-        "stats": "74 points · 19 comments"
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+        "title": "DeepSeek V4.1 Flash 1017 (Max)",
+        "description": "Analysis of DeepSeek&#x27;s DeepSeek V4.1 Flash 1017 (Max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
+        "image": "https://artificialanalysis.ai/en/models/deepseek-v4-1-flash-1017/opengraph-image?3850766eb2d567bc",
+        "source": "artificialanalysis.ai",
+        "stats": "107 points · 36 comments"
       },
+      {
+        "url": "https://github.com/strot-ai/Project-STROT",
+        "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+        "description": "STROT (arXiv:2505.01636): compile-time LLM code synthesis with deterministic, self-routing NLU runtimes. PyPI: strot-ai - strot-ai/Project-STROT",
+        "image": "https://opengraph.githubassets.com/d44ce8dd5150d18013c81841d6c4e28b9b26fea7cb87644343f3e93677d3fd0c/strot-ai/Project-STROT",
+        "source": "github.com",
+        "stats": "23 points · 10 comments"
+      },
+      {
+        "url": "https://agent-skills.market/",
+        "title": "Agent-Skills.market",
+        "description": "Curated agent skills for marketers, founders, designers, PMs, writers, and operators. Each skill is one click from your AI tool.",
+        "image": "",
+        "source": "agent-skills.market",
+        "stats": "15 points · 9 comments"
+      },
+      {
+        "url": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html",
+        "title": "Man arrested after discussing plans for childcare mass shooting with [Claude]",
+        "description": "David Lan Thackray, 29, allegedly referenced the Bondi Beach terror attack as he discussed shooting several children at a childcare centre near his home, a court has heard.",
+        "image": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/923e0061bba672713614494873a28d337a6bb95d",
+        "source": "smh.com.au",
+        "stats": "8 points · 9 comments"
+      },
+      {
+        "url": "https://twitter.com/AskPerplexity/status/2111120664543596957",
+        "title": "Perplexity offers free reverse engineering credits",
+        "description": "REA (Reverse Engineer Anything) by @morluto is now a skill in Computer.\n\nAsk Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version.\n\nTasks that use /reverse-engineer are free through October 31, up to 10,000 credits per user.\n\nH…",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2111120616019644416/img/nvrzSaG_c-w8nsbc?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "5 points · 1 comments"
+      }
+    ],
+    "2026-10-18": [
       {
         "url": "https://api-docs.deepseek.com/guides/search/",
         "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
         "description": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
         "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
         "source": "api-docs.deepseek.com",
-        "stats": "2 points · 0 comments"
+        "stats": "568 points · 267 comments"
       },
       {
-        "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
-        "title": "Phishing emails are baiting your AI assistant",
-        "description": "If you use an AI assistant to summarize your inbox, hidden instructions could turn a phishing email you wisely ignored into your next to-do item.",
-        "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/10/ai-assistant-email.jpg",
-        "source": "malwarebytes.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://arxiv.org/abs/2610.18861",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "description": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge these two directions with Hybrid Reasoning Agents (HybridAgents), which dynamically navigate between latent reasoning and text-based interaction throughout a unified generation process. Architecturally, a lightweight HybridLink enables seamless transitions between text and latent modes, while the agent&#39;s continuous working memory preserves lossless hybrid context across multiple turns. These designs preserve tool-integrated agentic capabilities while making latent thoughts directly inspectable. Building on this architecture, we further develop dedicated post-training algorithms for hybrid reasoning: HybridSFT stabilizes tool-integrated hybrid generation by teaching the backbone to coordinate with HybridLink, then HybridRL scales reasoning by learning when to think in latent space and when to act through text. We evaluate HybridAgent at 3 model scales across 11 benchmarks covering mathematics, science, medicine, search, and agentic reasoning. Compared with frontier LLM Agents and agentic frameworks spanning both text-based and latent methods, HybridAgent consistently improves performance by 10.4%, while delivering 35.5%-54.7% token reduction, 1.8x-2.6x faster inference, and 2.7x-3.7x cost savings. Code and data are available at https://github.com/togethercomputer/HybridAgent.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "352 points · 168 comments"
       },
       {
-        "url": "https://www.fenwick.com/insights/publications/nothing-remove-ninth-circuit-holds-copilot-creates-new-code-not-stripped",
-        "title": "Ninth Circuit Holds Copilot Creates New Code, Not Stripped Copies",
-        "description": "3 points · 1 comments",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "description": "Would this be enough to keep an AI model from going out of control?",
+        "image": "https://cdn.mos.cms.futurecdn.net/SVPa8KkaDwkeyAtLnMhyKW-1920-80.png",
+        "source": "tomshardware.com",
+        "stats": "162 points · 164 comments"
+      },
+      {
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "description": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.",
         "image": "",
-        "source": "fenwick.com",
+        "source": "sphinx-six-theta.vercel.app",
+        "stats": "245 points · 86 comments"
+      },
+      {
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "description": "127 points · 82 comments",
+        "image": "",
+        "source": "jrdsgl.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.waferpilot.xyz/resources/fab-llm-yield-reliability/",
-        "title": "LLMs are inside fabs, so why aren't they solving core problems?",
-        "description": "头部 Fab 早已有成熟的内部云、全量机台数据与本地部署大模型，工程师每天用它生成早晚会 Slides。但面对车规级芯片推动的高标准良率与可靠性调查，通用 LLM 会撞上“两个半”核心痛点：缺乏实证科学计算机制、历史经验未融入跨工步数据准备，以及纯文本对话框违背工程师视觉核查习惯。",
-        "image": "",
-        "source": "waferpilot.xyz",
-        "stats": "2 points · 0 comments"
       }
     ],
     "2026-10-17": [
@@ -50,7 +92,7 @@
         "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
         "source": "huggingface.co",
-        "stats": "811 points · 633 comments"
+        "stats": "942 points · 706 comments"
       },
       {
         "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
@@ -58,7 +100,7 @@
         "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name.",
         "image": "https://openrouter.ai/en-US/deepseek/deepseek-v4.1-flash-1017/opengraph-image-vc0va0?1e77ea1e963ce414",
         "source": "openrouter.ai",
-        "stats": "514 points · 5 comments"
+        "stats": "518 points · 5 comments"
       },
       {
         "url": "https://llmspeed.dev/",
@@ -66,7 +108,15 @@
         "description": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
         "image": "https://llmspeed.dev/og.png",
         "source": "llmspeed.dev",
-        "stats": "274 points · 80 comments"
+        "stats": "323 points · 86 comments"
+      },
+      {
+        "url": "https://blog.picheta.me/post/killswitch-lang/",
+        "title": "I built a programming language that LLMs can't use",
+        "description": "I built KillSwitch, an esoteric language designed to confound LLMs and coding agents, and benchmarked the major models against it.",
+        "image": "https://blog.picheta.me/_astro/killswitch-banner.0YTJ74BT.png",
+        "source": "blog.picheta.me",
+        "stats": "162 points · 111 comments"
       },
       {
         "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
@@ -74,15 +124,7 @@
         "description": "The company flagged two new incidents as “critical,” yet did not discover or disclose them until months later.",
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785644_b97df1-e1792164755578.jpg?resize=1200,600",
         "source": "fortune.com",
-        "stats": "124 points · 149 comments"
-      },
-      {
-        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-        "title": "Amazon uses AI to monitor union risk in UK warehouses",
-        "description": "Internal documents suggest tech giant collects ‘hundreds of data points’ for ‘union-busting’ AI model",
-        "image": "https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/size/w1200/2026/10/Amazon-AI-question-openDemocracy-edit.jpg",
-        "source": "opendemocracy.net",
-        "stats": "161 points · 58 comments"
+        "stats": "130 points · 158 comments"
       }
     ],
     "2026-10-16": [
@@ -92,7 +134,7 @@
         "description": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "1034 points · 380 comments"
+        "stats": "1051 points · 388 comments"
       },
       {
         "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
@@ -100,7 +142,7 @@
         "description": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&#x27;t raise reverts or incidents.",
         "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
         "source": "claude.dev",
-        "stats": "457 points · 463 comments"
+        "stats": "475 points · 469 comments"
       },
       {
         "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
@@ -108,7 +150,7 @@
         "description": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.",
         "image": "https://www.mercor.com/mercor-logo-white.png",
         "source": "mercor.com",
-        "stats": "603 points · 551 comments"
+        "stats": "620 points · 570 comments"
       },
       {
         "url": "https://alexwang.ai/posts/associative-memory/",
@@ -116,15 +158,15 @@
         "description": "Every layer is a memory store",
         "image": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg",
         "source": "alexwang.ai",
-        "stats": "542 points · 126 comments"
+        "stats": "630 points · 142 comments"
       },
       {
         "url": "https://github.com/cobanov/PS5LM",
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
-        "image": "https://opengraph.githubassets.com/2962912307184a8dbe26615b702aea2c486e253e207812942cba707a69d75ecd/cobanov/PS5LM",
+        "image": "https://opengraph.githubassets.com/d453588073f982f10dfd5920d615cf644776c64531527b36414a9c4268069a26/cobanov/PS5LM",
         "source": "github.com",
-        "stats": "367 points · 84 comments"
+        "stats": "373 points · 85 comments"
       }
     ],
     "2026-10-15": [
@@ -139,17 +181,9 @@
     ],
     "2026-10-14": [
       {
-        "url": "https://github.com/mixelpixx/Konnect",
-        "title": "AI-assisted PCB design for KiCad 10",
-        "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of y...",
-        "image": "https://opengraph.githubassets.com/effa4d8c7722b1c4628e732418fd289d7f7ba88e3a5b5b2f1c41e23fe7dfaba7/mixelpixx/Konnect",
-        "source": "github.com",
-        "stats": "143 points · 52 comments"
-      },
-      {
         "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
         "title": "0/1 Knapsack Problem in PyTorch",
-        "description": "49 points · 6 comments",
+        "description": "51 points · 6 comments",
         "image": "",
         "source": "jedrzej.maczan.pl",
         "stats": ""
@@ -163,16 +197,6 @@
         "image": "",
         "source": "deepmind.google",
         "stats": ""
-      }
-    ],
-    "2026-10-12": [
-      {
-        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-        "title": "AI is a tool and using it well takes skill",
-        "description": "A response to Rich Hickey&#39;s &#34;&#39;AI&#39; is Not a Tool&#34;: automation and tool use can coexist, and wielding an LLM well requires skill, feedback, and judgment.",
-        "image": "",
-        "source": "yyhh.org",
-        "stats": "787 points · 602 comments"
       }
     ]
   }
