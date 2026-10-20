@@ -1,64 +1,114 @@
 {
-  "lastUpdated": "2026-10-19T07:30:09.657Z",
+  "lastUpdated": "2026-10-20T07:19:09.711Z",
   "days": {
+    "2026-10-20": [
+      {
+        "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+        "title": "Vite+ an excellent toolchain for AI agent development",
+        "description": "Three weeks, four projects, and one shared workflow for AI agents. Where Vite+ helped, what I measured, and what to watch out for.",
+        "image": "https://janmichalek.com/_next/static/immutable/media/banner.1ff5qxfs8gm1e.webp",
+        "source": "janmichalek.com",
+        "stats": "15 points · 4 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "title": "People are using AI to make smart TVs, dumb TVs",
+        "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
+        "source": "techcrunch.com",
+        "stats": "26 points · 1 comments"
+      },
+      {
+        "url": "https://github.com/gojko/lights-on-software-factory",
+        "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
+        "description": "Lights-on software factory boilerplate for Claude Code. Based on the setup developed for Votito. - gojko/lights-on-software-factory",
+        "image": "https://opengraph.githubassets.com/38b116a16c3e65e2cdd6ac8a6c0ed384573e3d5f15e0fbaad31e8bf4cce79e5a/gojko/lights-on-software-factory",
+        "source": "github.com",
+        "stats": "11 points · 1 comments"
+      },
+      {
+        "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
+        "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
+        "description": "“Bad actors” are abusing open source decomps in “increasingly troublesome ways”…",
+        "image": "https://www.videogameschronicle.com/files/2026/01/Screenshot-2026-01-26-133923.jpg",
+        "source": "videogameschronicle.com",
+        "stats": "15 points · 0 comments"
+      },
+      {
+        "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+        "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+        "description": "Amazon&#x27;s $220 billion AI buildout is draining cash as power shortages, costly Nvidia servers, and construction challenges pile up.",
+        "image": "https://i.insider.com/6ad6b86be50b02f612be50f0?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "7 points · 1 comments"
+      }
+    ],
     "2026-10-19": [
       {
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "title": "DeepSeek V4.1 Flash 1017 (Max)",
-        "description": "Analysis of DeepSeek&#x27;s DeepSeek V4.1 Flash 1017 (Max) and comparison to other AI models across key metrics including quality, price, performance (tokens per second &amp; time to first token), context window &amp; more.",
-        "image": "https://artificialanalysis.ai/en/models/deepseek-v4-1-flash-1017/opengraph-image?3850766eb2d567bc",
-        "source": "artificialanalysis.ai",
-        "stats": "107 points · 36 comments"
+        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+        "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+        "description": "Newly-obtained documents say a Savannah police officer shared her Flock credentials with her ICE-agent husband, who used them to conduct hundreds of searches across multiple states.",
+        "image": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&amp;resize=1200%3A*",
+        "source": "wjcl.com",
+        "stats": "638 points · 362 comments"
       },
       {
-        "url": "https://github.com/strot-ai/Project-STROT",
-        "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
-        "description": "STROT (arXiv:2505.01636): compile-time LLM code synthesis with deterministic, self-routing NLU runtimes. PyPI: strot-ai - strot-ai/Project-STROT",
-        "image": "https://opengraph.githubassets.com/d44ce8dd5150d18013c81841d6c4e28b9b26fea7cb87644343f3e93677d3fd0c/strot-ai/Project-STROT",
-        "source": "github.com",
-        "stats": "23 points · 10 comments"
+        "url": "https://mistral.ai/news/timestral/",
+        "title": "Timestral: Mistral's time-series foundation models",
+        "description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+        "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
+        "source": "mistral.ai",
+        "stats": "578 points · 107 comments"
       },
       {
-        "url": "https://agent-skills.market/",
-        "title": "Agent-Skills.market",
-        "description": "Curated agent skills for marketers, founders, designers, PMs, writers, and operators. Each skill is one click from your AI tool.",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "description": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
+        "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
+        "source": "redact.dev",
+        "stats": "307 points · 74 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50151036",
+        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+        "description": "387 points · 534 comments",
         "image": "",
-        "source": "agent-skills.market",
-        "stats": "15 points · 9 comments"
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
-        "url": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html",
-        "title": "Man arrested after discussing plans for childcare mass shooting with [Claude]",
-        "description": "David Lan Thackray, 29, allegedly referenced the Bondi Beach terror attack as he discussed shooting several children at a childcare centre near his home, a court has heard.",
-        "image": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/923e0061bba672713614494873a28d337a6bb95d",
-        "source": "smh.com.au",
-        "stats": "8 points · 9 comments"
-      },
-      {
-        "url": "https://twitter.com/AskPerplexity/status/2111120664543596957",
-        "title": "Perplexity offers free reverse engineering credits",
-        "description": "REA (Reverse Engineer Anything) by @morluto is now a skill in Computer.\n\nAsk Computer to reverse-engineer an app and it inspects how the app works without its source code, then builds a working version.\n\nTasks that use /reverse-engineer are free through October 31, up to 10,000 credits per user.\n\nH…",
-        "image": "https://pbs.twimg.com/amplify_video_thumb/2111120616019644416/img/nvrzSaG_c-w8nsbc?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "5 points · 1 comments"
+        "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+        "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+        "description": "333 points · 57 comments",
+        "image": "",
+        "source": "home.cern",
+        "stats": ""
       }
     ],
     "2026-10-18": [
-      {
-        "url": "https://api-docs.deepseek.com/guides/search/",
-        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-        "description": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
-        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
-        "source": "api-docs.deepseek.com",
-        "stats": "568 points · 267 comments"
-      },
       {
         "url": "https://arxiv.org/abs/2610.18861",
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "description": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge these two directions with Hybrid Reasoning Agents (HybridAgents), which dynamically navigate between latent reasoning and text-based interaction throughout a unified generation process. Architecturally, a lightweight HybridLink enables seamless transitions between text and latent modes, while the agent&#39;s continuous working memory preserves lossless hybrid context across multiple turns. These designs preserve tool-integrated agentic capabilities while making latent thoughts directly inspectable. Building on this architecture, we further develop dedicated post-training algorithms for hybrid reasoning: HybridSFT stabilizes tool-integrated hybrid generation by teaching the backbone to coordinate with HybridLink, then HybridRL scales reasoning by learning when to think in latent space and when to act through text. We evaluate HybridAgent at 3 model scales across 11 benchmarks covering mathematics, science, medicine, search, and agentic reasoning. Compared with frontier LLM Agents and agentic frameworks spanning both text-based and latent methods, HybridAgent consistently improves performance by 10.4%, while delivering 35.5%-54.7% token reduction, 1.8x-2.6x faster inference, and 2.7x-3.7x cost savings. Code and data are available at https://github.com/togethercomputer/HybridAgent.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "352 points · 168 comments"
+        "stats": "504 points · 236 comments"
+      },
+      {
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "description": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
+        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+        "source": "api-docs.deepseek.com",
+        "stats": "599 points · 280 comments"
+      },
+      {
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "description": "296 points · 210 comments",
+        "image": "",
+        "source": "jrdsgl.com",
+        "stats": ""
       },
       {
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
@@ -66,23 +116,15 @@
         "description": "Would this be enough to keep an AI model from going out of control?",
         "image": "https://cdn.mos.cms.futurecdn.net/SVPa8KkaDwkeyAtLnMhyKW-1920-80.png",
         "source": "tomshardware.com",
-        "stats": "162 points · 164 comments"
+        "stats": "170 points · 167 comments"
       },
       {
-        "url": "https://sphinx-six-theta.vercel.app/",
-        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-        "description": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.",
-        "image": "",
-        "source": "sphinx-six-theta.vercel.app",
-        "stats": "245 points · 86 comments"
-      },
-      {
-        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-        "description": "127 points · 82 comments",
-        "image": "",
-        "source": "jrdsgl.com",
-        "stats": ""
+        "url": "https://www.anthropic.com/research/employment-at-anthropic",
+        "title": "How employment is changing at Anthropic",
+        "description": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "anthropic.com",
+        "stats": "154 points · 251 comments"
       }
     ],
     "2026-10-17": [
@@ -92,23 +134,7 @@
         "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
         "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
         "source": "huggingface.co",
-        "stats": "942 points · 706 comments"
-      },
-      {
-        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-        "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name.",
-        "image": "https://openrouter.ai/en-US/deepseek/deepseek-v4.1-flash-1017/opengraph-image-vc0va0?1e77ea1e963ce414",
-        "source": "openrouter.ai",
-        "stats": "518 points · 5 comments"
-      },
-      {
-        "url": "https://llmspeed.dev/",
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "description": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
-        "image": "https://llmspeed.dev/og.png",
-        "source": "llmspeed.dev",
-        "stats": "323 points · 86 comments"
+        "stats": "954 points · 717 comments"
       },
       {
         "url": "https://blog.picheta.me/post/killswitch-lang/",
@@ -116,57 +142,25 @@
         "description": "I built KillSwitch, an esoteric language designed to confound LLMs and coding agents, and benchmarked the major models against it.",
         "image": "https://blog.picheta.me/_astro/killswitch-banner.0YTJ74BT.png",
         "source": "blog.picheta.me",
-        "stats": "162 points · 111 comments"
+        "stats": "272 points · 211 comments"
       },
       {
-        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-        "title": "OpenAI discloses four more rogue incidents",
-        "description": "The company flagged two new incidents as “critical,” yet did not discover or disclose them until months later.",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297785644_b97df1-e1792164755578.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "130 points · 158 comments"
+        "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+        "title": "RuneScape Bench: MMOs for Agents [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "187 points · 67 comments"
       }
     ],
     "2026-10-16": [
-      {
-        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "title": "Claude reveals ECDSA curve origins",
-        "description": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "1051 points · 388 comments"
-      },
-      {
-        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "title": "How the Claude Code team does code review",
-        "description": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&#x27;t raise reverts or incidents.",
-        "image": "https://claude.dev/blog/solving-code-review-at-anthropic/og.png",
-        "source": "claude.dev",
-        "stats": "475 points · 469 comments"
-      },
-      {
-        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-        "description": "The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.",
-        "image": "https://www.mercor.com/mercor-logo-white.png",
-        "source": "mercor.com",
-        "stats": "620 points · 570 comments"
-      },
       {
         "url": "https://alexwang.ai/posts/associative-memory/",
         "title": "You could have invented transformers from memory",
         "description": "Every layer is a memory store",
         "image": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg",
         "source": "alexwang.ai",
-        "stats": "630 points · 142 comments"
-      },
-      {
-        "url": "https://github.com/cobanov/PS5LM",
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "description": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
-        "image": "https://opengraph.githubassets.com/d453588073f982f10dfd5920d615cf644776c64531527b36414a9c4268069a26/cobanov/PS5LM",
-        "source": "github.com",
-        "stats": "373 points · 85 comments"
+        "stats": "650 points · 147 comments"
       }
     ],
     "2026-10-15": [
@@ -186,16 +180,6 @@
         "description": "51 points · 6 comments",
         "image": "",
         "source": "jedrzej.maczan.pl",
-        "stats": ""
-      }
-    ],
-    "2026-10-13": [
-      {
-        "url": "https://deepmind.google/models/gemini/",
-        "title": "Gemini 4 Argon",
-        "description": "1461 points · 1042 comments",
-        "image": "",
-        "source": "deepmind.google",
         "stats": ""
       }
     ]
