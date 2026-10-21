@@ -1,56 +1,122 @@
 {
-  "lastUpdated": "2026-10-20T07:19:09.711Z",
+  "lastUpdated": "2026-10-21T07:18:06.707Z",
   "days": {
-    "2026-10-20": [
+    "2026-10-21": [
       {
-        "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
-        "title": "Vite+ an excellent toolchain for AI agent development",
-        "description": "Three weeks, four projects, and one shared workflow for AI agents. Where Vite+ helped, what I measured, and what to watch out for.",
-        "image": "https://janmichalek.com/_next/static/immutable/media/banner.1ff5qxfs8gm1e.webp",
-        "source": "janmichalek.com",
+        "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
+        "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+        "description": "Our exclusive tracker caught 17 unannounced model price hikes overnight.",
+        "image": "https://expert-egret-407.convex.cloud/api/storage/e24390a8-4524-4829-8244-30a446faf82c",
+        "source": "stork.ai",
+        "stats": "23 points · 21 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/research/attack-surface-reduction",
+        "title": "Using Claude to reduce the attack surface of code",
+        "description": "Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "anthropic.com",
         "stats": "15 points · 4 comments"
       },
       {
-        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-        "title": "People are using AI to make smart TVs, dumb TVs",
-        "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
-        "source": "techcrunch.com",
-        "stats": "26 points · 1 comments"
-      },
-      {
-        "url": "https://github.com/gojko/lights-on-software-factory",
-        "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
-        "description": "Lights-on software factory boilerplate for Claude Code. Based on the setup developed for Votito. - gojko/lights-on-software-factory",
-        "image": "https://opengraph.githubassets.com/38b116a16c3e65e2cdd6ac8a6c0ed384573e3d5f15e0fbaad31e8bf4cce79e5a/gojko/lights-on-software-factory",
+        "url": "https://github.com/xamrayev/nexus-cli",
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "description": "Contribute to xamrayev/nexus-cli development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/0172e35f5ac4f9313a8fb164835f5b9e17c6036ce47225ff3bed038353549300/xamrayev/nexus-cli",
         "source": "github.com",
-        "stats": "11 points · 1 comments"
+        "stats": "9 points · 2 comments"
       },
       {
-        "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
-        "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
-        "description": "“Bad actors” are abusing open source decomps in “increasingly troublesome ways”…",
-        "image": "https://www.videogameschronicle.com/files/2026/01/Screenshot-2026-01-26-133923.jpg",
-        "source": "videogameschronicle.com",
-        "stats": "15 points · 0 comments"
+        "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+        "title": "SpaceX revenue soars 161% as AI business grows",
+        "description": "Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday.",
+        "image": "https://i.abcnewsfe.com/a/ef18058d-5373-43e4-9275-02d917ff3c92/spacex-gty-jef-261020_1792509002319_hpMain_16x9.jpg?w=1600",
+        "source": "abcnews.com",
+        "stats": "22 points · 4 comments"
       },
       {
-        "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
-        "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
-        "description": "Amazon&#x27;s $220 billion AI buildout is draining cash as power shortages, costly Nvidia servers, and construction challenges pile up.",
-        "image": "https://i.insider.com/6ad6b86be50b02f612be50f0?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "7 points · 1 comments"
+        "url": "https://alterauth.com/",
+        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+        "description": "PAM for AI agents, enforced at runtime: vaulted credentials, per-action policy, approval before risky calls complete, and an audit trail for every call through Alter.",
+        "image": "https://alterauth.com/og-image.png",
+        "source": "alterauth.com",
+        "stats": "6 points · 2 comments"
+      }
+    ],
+    "2026-10-20": [
+      {
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+        "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
+        "image": "https://opengraph.githubassets.com/76001495e0dd21df1f741afa91afd72f0e2c198a05d59f07b03af93be5b12ac3/deepseek-ai/DeepInfer",
+        "source": "github.com",
+        "stats": "2216 points · 852 comments"
+      },
+      {
+        "url": "https://github.com/google-pytorch/torch_tpu",
+        "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+        "description": "Contribute to google-pytorch/torch_tpu development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/51b4b8fe072fdfd6c4e45499aab5a4e013afa869df423b2f95a7840a80ef877a/google-pytorch/torch_tpu",
+        "source": "github.com",
+        "stats": "323 points · 74 comments"
+      },
+      {
+        "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+        "title": "Publish fake stats, get cited in LLMs",
+        "description": "How 50,000 fake stats kept getting cited by ChatGPT Read more on the Peec AI blog.",
+        "image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&amp;height=1126",
+        "source": "peec.ai",
+        "stats": "337 points · 194 comments"
+      },
+      {
+        "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+        "title": "Anthropic logged net loss of over $80B in first half of 2026",
+        "description": "140 points · 61 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+        "description": "Steam Next Fest, Valve&#x27;s festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around. ",
+        "image": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+        "source": "ign.com",
+        "stats": "176 points · 204 comments"
       }
     ],
     "2026-10-19": [
+      {
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "description": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
+        "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
+        "source": "redact.dev",
+        "stats": "724 points · 208 comments"
+      },
+      {
+        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+        "description": "564 points · 513 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
+      },
       {
         "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
         "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
         "description": "Newly-obtained documents say a Savannah police officer shared her Flock credentials with her ICE-agent husband, who used them to conduct hundreds of searches across multiple states.",
         "image": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&amp;resize=1200%3A*",
         "source": "wjcl.com",
-        "stats": "638 points · 362 comments"
+        "stats": "647 points · 373 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50151036",
+        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+        "description": "591 points · 704 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
         "url": "https://mistral.ai/news/timestral/",
@@ -58,31 +124,7 @@
         "description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
         "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
         "source": "mistral.ai",
-        "stats": "578 points · 107 comments"
-      },
-      {
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "description": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
-        "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
-        "source": "redact.dev",
-        "stats": "307 points · 74 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50151036",
-        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-        "description": "387 points · 534 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-        "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-        "description": "333 points · 57 comments",
-        "image": "",
-        "source": "home.cern",
-        "stats": ""
+        "stats": "614 points · 120 comments"
       }
     ],
     "2026-10-18": [
@@ -92,65 +134,17 @@
         "description": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge these two directions with Hybrid Reasoning Agents (HybridAgents), which dynamically navigate between latent reasoning and text-based interaction throughout a unified generation process. Architecturally, a lightweight HybridLink enables seamless transitions between text and latent modes, while the agent&#39;s continuous working memory preserves lossless hybrid context across multiple turns. These designs preserve tool-integrated agentic capabilities while making latent thoughts directly inspectable. Building on this architecture, we further develop dedicated post-training algorithms for hybrid reasoning: HybridSFT stabilizes tool-integrated hybrid generation by teaching the backbone to coordinate with HybridLink, then HybridRL scales reasoning by learning when to think in latent space and when to act through text. We evaluate HybridAgent at 3 model scales across 11 benchmarks covering mathematics, science, medicine, search, and agentic reasoning. Compared with frontier LLM Agents and agentic frameworks spanning both text-based and latent methods, HybridAgent consistently improves performance by 10.4%, while delivering 35.5%-54.7% token reduction, 1.8x-2.6x faster inference, and 2.7x-3.7x cost savings. Code and data are available at https://github.com/togethercomputer/HybridAgent.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "504 points · 236 comments"
-      },
-      {
-        "url": "https://api-docs.deepseek.com/guides/search/",
-        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-        "description": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
-        "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
-        "source": "api-docs.deepseek.com",
-        "stats": "599 points · 280 comments"
-      },
-      {
-        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-        "description": "296 points · 210 comments",
-        "image": "",
-        "source": "jrdsgl.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "description": "Would this be enough to keep an AI model from going out of control?",
-        "image": "https://cdn.mos.cms.futurecdn.net/SVPa8KkaDwkeyAtLnMhyKW-1920-80.png",
-        "source": "tomshardware.com",
-        "stats": "170 points · 167 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/employment-at-anthropic",
-        "title": "How employment is changing at Anthropic",
-        "description": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "anthropic.com",
-        "stats": "154 points · 251 comments"
+        "stats": "516 points · 238 comments"
       }
     ],
     "2026-10-17": [
-      {
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
-        "source": "huggingface.co",
-        "stats": "954 points · 717 comments"
-      },
-      {
-        "url": "https://blog.picheta.me/post/killswitch-lang/",
-        "title": "I built a programming language that LLMs can't use",
-        "description": "I built KillSwitch, an esoteric language designed to confound LLMs and coding agents, and benchmarked the major models against it.",
-        "image": "https://blog.picheta.me/_astro/killswitch-banner.0YTJ74BT.png",
-        "source": "blog.picheta.me",
-        "stats": "272 points · 211 comments"
-      },
       {
         "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
         "title": "RuneScape Bench: MMOs for Agents [video]",
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "187 points · 67 comments"
+        "stats": "243 points · 80 comments"
       }
     ],
     "2026-10-16": [
@@ -160,7 +154,7 @@
         "description": "Every layer is a memory store",
         "image": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg",
         "source": "alexwang.ai",
-        "stats": "650 points · 147 comments"
+        "stats": "662 points · 149 comments"
       }
     ],
     "2026-10-15": [
@@ -171,16 +165,6 @@
         "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
         "source": "already-clean.goodfire.com",
         "stats": "812 points · 332 comments"
-      }
-    ],
-    "2026-10-14": [
-      {
-        "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
-        "title": "0/1 Knapsack Problem in PyTorch",
-        "description": "51 points · 6 comments",
-        "image": "",
-        "source": "jedrzej.maczan.pl",
-        "stats": ""
       }
     ]
   }
