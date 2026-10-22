@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-21T07:18:06.707Z",
+  "lastUpdated": "2026-10-22T07:19:03.275Z",
   "days": {
+    "2026-10-22": [
+      {
+        "url": "https://github.com/openai/openai-cli",
+        "title": "OpenAI CLI",
+        "description": "Official CLI for the OpenAI API. Contribute to openai/openai-cli development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/97c0a3f7a49f2efd368a0dcb42b0ba1eb82df15dc79e7c783c763d17ddecd516/openai/openai-cli",
+        "source": "github.com",
+        "stats": "38 points · 17 comments"
+      },
+      {
+        "url": "https://olivergrabner.com/research/pokemon/",
+        "title": "LLM agents play Pokemon showdown",
+        "description": "Two LLM agents share a side in 4-player Pokémon Showdown battles and can talk before every turn. Does talking win more battles, and what does it cost?",
+        "image": "https://olivergrabner.com/research/pokemon/banner-og.jpg",
+        "source": "olivergrabner.com",
+        "stats": "26 points · 15 comments"
+      },
+      {
+        "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+        "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+        "description": "With our new Claude for Google Workspace add-on and connectors (in beta), bring Claude into your Google files or work on your files directly from Claude. ",
+        "image": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides/opengraph-image/og",
+        "source": "claude.com",
+        "stats": "18 points · 1 comments"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/cr93z9zq5l9jo",
+        "title": "AI revealed 400 years of seafaring history",
+        "description": "A project using data from the Elizabethan Era to the Industrial Revolution analyses trade routes.",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3b30/live/46f01410-cba4-11f1-9ee2-f74dfb8e54e5.jpg",
+        "source": "bbc.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://ricuicui.com/en/articles/a-sovereign-local-ai-browser-for-professionals-who-want-to-save-time",
+        "title": "A sovereign, local AI browser for professionals who want to save time",
+        "description": "Your repetitive web tasks done by AI and agents, all centralised on your computer: time saved, and your data stays with you.",
+        "image": "https://ricuicui.com/captures/ecran-agent.webp",
+        "source": "ricuicui.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-10-21": [
       {
-        "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
-        "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
-        "description": "Our exclusive tracker caught 17 unannounced model price hikes overnight.",
-        "image": "https://expert-egret-407.convex.cloud/api/storage/e24390a8-4524-4829-8244-30a446faf82c",
-        "source": "stork.ai",
-        "stats": "23 points · 21 comments"
+        "url": "https://claude.com/product/claude-duet",
+        "title": "Claude Duet",
+        "description": "Claude Duet is a personal AI agent you message. It handles your inbox, calendar and follow-ups and messages you when something needs you. Join the waitlist.",
+        "image": "https://claude.com/static/claude-duet/og.jpg",
+        "source": "claude.com",
+        "stats": "348 points · 317 comments"
       },
       {
-        "url": "https://www.anthropic.com/research/attack-surface-reduction",
-        "title": "Using Claude to reduce the attack surface of code",
-        "description": "Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "anthropic.com",
-        "stats": "15 points · 4 comments"
+        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "description": "LiteLLM 1.107.0 on PyPI ships a .pth credential stealer and a sitecustomize.py backdoor that run on every Python start. How the implant got in, what it steals, and indicators of compromise.",
+        "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
+        "source": "safedep.io",
+        "stats": "485 points · 166 comments"
       },
       {
-        "url": "https://github.com/xamrayev/nexus-cli",
-        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-        "description": "Contribute to xamrayev/nexus-cli development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/0172e35f5ac4f9313a8fb164835f5b9e17c6036ce47225ff3bed038353549300/xamrayev/nexus-cli",
-        "source": "github.com",
-        "stats": "9 points · 2 comments"
+        "url": "https://www.wiz.io/blog/php2shell-php-rce",
+        "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+        "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
+        "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
+        "source": "wiz.io",
+        "stats": "441 points · 174 comments"
       },
       {
-        "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
-        "title": "SpaceX revenue soars 161% as AI business grows",
-        "description": "Elon Musk-led SpaceX issued its second-ever quarterly earnings report on Tuesday.",
-        "image": "https://i.abcnewsfe.com/a/ef18058d-5373-43e4-9275-02d917ff3c92/spacex-gty-jef-261020_1792509002319_hpMain_16x9.jpg?w=1600",
-        "source": "abcnews.com",
-        "stats": "22 points · 4 comments"
+        "url": "https://mistral.ai/news/mistral-large-4/",
+        "title": "Mistral Large 4",
+        "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+        "source": "mistral.ai",
+        "stats": "319 points · 95 comments"
       },
       {
-        "url": "https://alterauth.com/",
-        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-        "description": "PAM for AI agents, enforced at runtime: vaulted credentials, per-action policy, approval before risky calls complete, and an audit trail for every call through Alter.",
-        "image": "https://alterauth.com/og-image.png",
-        "source": "alterauth.com",
-        "stats": "6 points · 2 comments"
+        "url": "https://openai.com/index/openai-models-google-cloud/",
+        "title": "OpenAI models are coming to Google Cloud",
+        "description": "281 points · 116 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       }
     ],
     "2026-10-20": [
@@ -48,17 +90,17 @@
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "title": "DeepInfer: High-performance inference framework for DeepSeek models",
         "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
-        "image": "https://opengraph.githubassets.com/76001495e0dd21df1f741afa91afd72f0e2c198a05d59f07b03af93be5b12ac3/deepseek-ai/DeepInfer",
+        "image": "https://opengraph.githubassets.com/62715c28152f4635ce35e8f09387eb749ee5f7818be4ada4b3ba446752de866f/deepseek-ai/DeepInfer",
         "source": "github.com",
-        "stats": "2216 points · 852 comments"
+        "stats": "2313 points · 885 comments"
       },
       {
         "url": "https://github.com/google-pytorch/torch_tpu",
         "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
         "description": "Contribute to google-pytorch/torch_tpu development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/51b4b8fe072fdfd6c4e45499aab5a4e013afa869df423b2f95a7840a80ef877a/google-pytorch/torch_tpu",
+        "image": "https://opengraph.githubassets.com/d6ccce4359240a736f0f26b58c76545d77616c0fee5df2ca750a74fb9af3f16f/google-pytorch/torch_tpu",
         "source": "github.com",
-        "stats": "323 points · 74 comments"
+        "stats": "378 points · 89 comments"
       },
       {
         "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
@@ -66,12 +108,12 @@
         "description": "How 50,000 fake stats kept getting cited by ChatGPT Read more on the Peec AI blog.",
         "image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&amp;height=1126",
         "source": "peec.ai",
-        "stats": "337 points · 194 comments"
+        "stats": "363 points · 202 comments"
       },
       {
         "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
         "title": "Anthropic logged net loss of over $80B in first half of 2026",
-        "description": "140 points · 61 comments",
+        "description": "187 points · 95 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -82,7 +124,7 @@
         "description": "Steam Next Fest, Valve&#x27;s festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around. ",
         "image": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
         "source": "ign.com",
-        "stats": "176 points · 204 comments"
+        "stats": "183 points · 229 comments"
       }
     ],
     "2026-10-19": [
@@ -92,39 +134,15 @@
         "description": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
         "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
         "source": "redact.dev",
-        "stats": "724 points · 208 comments"
+        "stats": "738 points · 217 comments"
       },
       {
         "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
         "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-        "description": "564 points · 513 comments",
+        "description": "578 points · 541 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-        "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
-        "description": "Newly-obtained documents say a Savannah police officer shared her Flock credentials with her ICE-agent husband, who used them to conduct hundreds of searches across multiple states.",
-        "image": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&amp;resize=1200%3A*",
-        "source": "wjcl.com",
-        "stats": "647 points · 373 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50151036",
-        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-        "description": "591 points · 704 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://mistral.ai/news/timestral/",
-        "title": "Timestral: Mistral's time-series foundation models",
-        "description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
-        "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
-        "source": "mistral.ai",
-        "stats": "614 points · 120 comments"
       }
     ],
     "2026-10-18": [
@@ -144,7 +162,7 @@
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "243 points · 80 comments"
+        "stats": "247 points · 82 comments"
       }
     ],
     "2026-10-16": [
@@ -155,16 +173,6 @@
         "image": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg",
         "source": "alexwang.ai",
         "stats": "662 points · 149 comments"
-      }
-    ],
-    "2026-10-15": [
-      {
-        "url": "https://already-clean.goodfire.com/",
-        "title": "Neural networks are clean",
-        "description": "A working hypothesis about neurons, generalization, and the ecology of circuits.",
-        "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
-        "source": "already-clean.goodfire.com",
-        "stats": "812 points · 332 comments"
       }
     ]
   }
