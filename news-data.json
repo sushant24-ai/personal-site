@@ -1,56 +1,106 @@
 {
-  "lastUpdated": "2026-10-23T07:12:27.828Z",
+  "lastUpdated": "2026-10-24T07:01:26.265Z",
   "days": {
+    "2026-10-24": [
+      {
+        "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+        "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+        "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners.",
+        "image": "https://www.cio.com/wp-content/uploads/2026/10/4237395-0-17333600-1792501416-shutterstock_editorial_2303237423.jpg?quality=50&amp;strip=all&amp;w=1024",
+        "source": "cio.com",
+        "stats": "13 points · 5 comments"
+      },
+      {
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+        "description": "7 points · 0 comments",
+        "image": "",
+        "source": "reddit.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+        "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+        "description": "AI saves UX practitioners time on nearly every task, yet most feel lukewarm about it: mandates, unreliable output, and inflated expectations eat the gains.",
+        "image": "https://media.nngroup.com/media/articles/opengraph_images/AI_in_UX__Work_Is_Faster_But_Practitioners_Have_Mixed_Feelings.png",
+        "source": "nngroup.com",
+        "stats": "14 points · 0 comments"
+      },
+      {
+        "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+        "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups",
+        "description": "Under Meta’s new terms coming into play Oct 30, advertisers are “solely responsible” for whatever its AI creates",
+        "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1",
+        "source": "adweek.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://twitter.com/cheaf25master/status/2113261574194659368",
+        "title": "Anthropic employee tells students their careers may not exist by graduation",
+        "description": "Anthropic employee tells students at university that their career won&#x27;t exist when they graduate.\n\nImagine the levels of psychopathy it takes to give a speech to students trying to make their future better, then telling them don&#x27;t bother, don&#x27;t plan for the future, your degree is worthless and you…",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/2113261372561924097/img/A2aQsRqWZRfkYCxq?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "6 points · 1 comments"
+      }
+    ],
     "2026-10-23": [
+      {
+        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+        "title": "Swedish government offices to ban ChatGPT and Claude",
+        "description": "316 points · 118 comments",
+        "image": "",
+        "source": "sverigesradio.se",
+        "stats": ""
+      },
       {
         "url": "https://berget.ai/en/blog/per-request-co2-press-release",
         "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-        "description": "17 points · 1 comments",
-        "image": "",
+        "description": "Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen — and customers can now follow their emissions per request in the console.",
+        "image": "https://berget.ai/api/og?title=New+open-source+method+shows+the+same+AI+request+emits+8.5+times+more+CO%E2%82%82+in+Texas+than+in+Sweden&amp;image=https%3A%2F%2Fberget.ai%2Fimages%2Fblog%2Fper-request-co2-press-release%2Fcover.png",
         "source": "berget.ai",
+        "stats": "140 points · 155 comments"
+      },
+      {
+        "url": "https://corgi.computer/",
+        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "description": "Friendly helper for your agents.",
+        "image": "",
+        "source": "corgi.computer",
+        "stats": "71 points · 18 comments"
+      },
+      {
+        "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+        "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+        "description": "52 points · 41 comments",
+        "image": "",
+        "source": "gizmodo.com",
         "stats": ""
       },
       {
-        "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
-        "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks",
-        "description": "If you’re an instructor for the O’Reilly live training platform, you’ve got to be prepared for the unexpected. As a developer I think we all can understand the",
-        "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/The-latest-Anthropic-Claude-models-contain-AI-text-watermarks-1600x1244.jpg",
-        "source": "oreilly.com",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601",
-        "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-        "description": "6 points · 1 comments",
+        "url": "https://www.thisandthat.chat/enron/",
+        "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+        "description": "60 points · 53 comments",
         "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
-        "title": "Debunking \"Faster Than Rust\": Malicious Benchmarks in Tov",
-        "description": "Tov is a programming language that claims to perform significantly better than Rust. This blog post debunks tricks used in their unfair benchmarks.",
-        "image": "https://blog.fyralabs.com/content/images/size/w1200/2023/01/lisheng-chang-M2524ncJQ40-unsplash-2.jpg",
-        "source": "blog.fyralabs.com",
-        "stats": "4 points · 1 comments"
-      },
-      {
-        "url": "https://app.simplystream.com/",
-        "title": "Agent Tools for Unreal Engine",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "app.simplystream.com",
+        "source": "thisandthat.chat",
         "stats": ""
       }
     ],
     "2026-10-22": [
       {
-        "url": "https://github.com/NVIDIA/OpenShell",
-        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
-        "image": "https://opengraph.githubassets.com/50e1a0db3f5a662c063ed11b2d5e42762270cbdc6b58cbf00e8fb34aade7d77f/NVIDIA/OpenShell",
-        "source": "github.com",
-        "stats": "371 points · 187 comments"
+        "url": "https://news.ycombinator.com/item?id=50200997",
+        "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+        "description": "609 points · 678 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+        "title": "Every AI model has the same \"controversial\" take on humans",
+        "description": "We asked 13 AI models for their most controversial opinion of humans, three times each. 32 of 38 answers were the same one: we care more about belonging than about the truth.",
+        "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&amp;v=r702ht",
+        "source": "modelcompare.ai",
+        "stats": "625 points · 600 comments"
       },
       {
         "url": "https://www.anthropic.com/research/formal-verification",
@@ -58,31 +108,23 @@
         "description": "Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "292 points · 160 comments"
+        "stats": "446 points · 288 comments"
       },
       {
-        "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-        "title": "Every AI model has the same \"controversial\" take on humans",
-        "description": "We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.",
-        "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&amp;v=31jhw0",
-        "source": "modelcompare.ai",
-        "stats": "356 points · 386 comments"
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
+        "image": "https://opengraph.githubassets.com/0f3529fcc6a603e88a5210547d6bd0f34a9fd72610d15e5e4d988784b7159157/NVIDIA/OpenShell",
+        "source": "github.com",
+        "stats": "491 points · 213 comments"
       },
       {
         "url": "https://github.com/openai/openai-cli",
         "title": "OpenAI CLI",
         "description": "Official CLI for the OpenAI API. Contribute to openai/openai-cli development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/e0c309b4bd718f8e45ac6bad0df855e590b9dcd070d2ceb7292898f7b0a0b6bc/openai/openai-cli",
+        "image": "https://opengraph.githubassets.com/e31574c376f925f64f199e188ed95bfe628acebeb3cc6b180af81d410887d9d1/openai/openai-cli",
         "source": "github.com",
-        "stats": "234 points · 110 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2610.27251",
-        "title": "AI and the Enclosure of the Scientific Commons",
-        "description": "The scientific literature can be viewed as an &#34;information commons:&#34; an intangible resource that &#34;no one owns and is shared by everyone.&#34; There are well-established economic and political frameworks for understanding such commons, emerging from the history of agricultural common lands found in places like preindustrial England. This article provides a primer on the history and these frameworks, and considers a key difference between the information commons and the fields of yore: while information commons are robust and immensely valuable --- some can be said to rank among humanity&#39;s greatest achievements --- the English agricultural commons no longer meaningfully exist. The latter are gone not because of the well-known &#34;tragedy of the commons,&#34; but rather a phenomenon known as the enclosure movement (~1600--1800) that transformed the common lands into private property. Many observers, then and now, judge enclosure to have been theft at a societal scale. This article argues that artificial intelligence (AI) provides precisely the tools needed to enable a previously-infeasible enclosure of the information commons. Although AI-enabled enclosure does not operate identically to physical enclosure, it shares the key features of turning the commons into private wealth and undermining the social systems that support them (via &#34;slop spam&#34;). The concepts presented in this article can provide a scholarly basis for interrogating the foreboding feeling that AI may represent not just a smash-and-grab, but an attack upon a whole way of life.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "131 points · 77 comments"
+        "stats": "243 points · 111 comments"
       }
     ],
     "2026-10-21": [
@@ -92,7 +134,7 @@
         "description": "Claude Duet is a personal AI agent you message. It handles your inbox, calendar and follow-ups and messages you when something needs you. Join the waitlist.",
         "image": "https://claude.com/static/claude-duet/og.jpg",
         "source": "claude.com",
-        "stats": "550 points · 517 comments"
+        "stats": "563 points · 531 comments"
       },
       {
         "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
@@ -100,31 +142,31 @@
         "description": "LiteLLM 1.107.0 on PyPI ships a .pth credential stealer and a sitecustomize.py backdoor that run on every Python start. How the implant got in, what it steals, and indicators of compromise.",
         "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
         "source": "safedep.io",
-        "stats": "589 points · 191 comments"
+        "stats": "594 points · 196 comments"
       },
       {
-        "url": "https://www.wiz.io/blog/php2shell-php-rce",
-        "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-        "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
-        "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
-        "source": "wiz.io",
-        "stats": "450 points · 184 comments"
+        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+        "title": "Using LLM for confidence scoring is a bad idea",
+        "description": "LLM-based agents can do a lot of tasks. Or, at least, they can appear to do them. For example, they write code, summarize papers, plan trips, and fill in forms. If you ask one for a probability or a confidence score, it will give you one of those too. I have seen many agent designers use LLMs to generate confidence scores in this way. The problem is that there is no good reason to trust that number. This post is about why we cannot rely on an LLM to generate a confidence score.",
+        "image": "",
+        "source": "rumple.github.io",
+        "stats": "224 points · 102 comments"
       },
       {
-        "url": "https://openai.com/index/openai-models-google-cloud/",
-        "title": "OpenAI models are coming to Google Cloud",
-        "description": "323 points · 145 comments",
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "description": "159 points · 105 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://mistral.ai/news/mistral-large-4/",
-        "title": "Mistral Large 4",
-        "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
-        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
-        "source": "mistral.ai",
-        "stats": "325 points · 104 comments"
+        "url": "https://github.com/omnara-ai/omnara",
+        "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+        "description": "The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI&#39;s Agents API. - omnara-ai/omnara",
+        "image": "https://repository-images.githubusercontent.com/1016411413/ed725ee5-25c6-40a2-b2a5-1ffd4749afbe",
+        "source": "github.com",
+        "stats": "112 points · 34 comments"
       }
     ],
     "2026-10-20": [
@@ -132,9 +174,17 @@
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "title": "DeepInfer: High-performance inference framework for DeepSeek models",
         "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
-        "image": "https://opengraph.githubassets.com/94dc511f2fec4532bff4c5e39e59eec702753d1a119bc6c1058eb88033777412/deepseek-ai/DeepInfer",
+        "image": "https://opengraph.githubassets.com/30e16a6c346890bc19fa57992d86f15a1ca3f05e964f83546dfb01b1287661d4/deepseek-ai/DeepInfer",
         "source": "github.com",
-        "stats": "2333 points · 889 comments"
+        "stats": "2344 points · 891 comments"
+      },
+      {
+        "url": "https://danielball.com/notes/ai_image_generation.html",
+        "title": "A practical guide to AI image generation, from diffusion to agents",
+        "description": "Welcome to the digital home of Daniel Ball. Explore my portfolio to see the projects I’ve worked on and learn more about my professional journey.",
+        "image": "",
+        "source": "danielball.com",
+        "stats": "38 points · 6 comments"
       }
     ],
     "2026-10-19": [
@@ -163,16 +213,6 @@
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
         "stats": "516 points · 238 comments"
-      }
-    ],
-    "2026-10-17": [
-      {
-        "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-        "title": "RuneScape Bench: MMOs for Agents [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "247 points · 82 comments"
       }
     ]
   }
