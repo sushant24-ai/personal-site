@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-25T07:25:52.394Z",
+  "lastUpdated": "2026-10-26T07:34:49.516Z",
   "days": {
+    "2026-10-26": [
+      {
+        "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+        "description": "Your local AI copilot for documents. Contribute to KrushnaVardhanReddy/PaperPilot development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/6185088c8a206bf1181904395e55c252c86ce38610ac4355d38865ebd8789020/KrushnaVardhanReddy/PaperPilot",
+        "source": "github.com",
+        "stats": "85 points · 20 comments"
+      },
+      {
+        "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+        "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+        "description": "AI panic weirdly resembles the anxiety that accompanied early capitalism",
+        "image": "https://substackcdn.com/image/fetch/$s_!0-U5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcafd3438-ef0d-41c0-83cf-bcc7e1c995be_1536x1024.png",
+        "source": "contraptions.venkateshrao.com",
+        "stats": "55 points · 44 comments"
+      },
+      {
+        "url": "https://proc-cli.com/",
+        "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+        "description": "Semantic CLI tool for process management. Target by port, PID, name or path.",
+        "image": "",
+        "source": "proc-cli.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://uipalooza.ai/",
+        "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
+        "description": "A test of taste. Compare AI-generated interfaces across models, design skills, and shared briefs. Explore real designs, runtime, tokens, and methodology.",
+        "image": "https://uipalooza.ai/social-card.png",
+        "source": "uipalooza.ai",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://www.sazabi.com/blog/introducing-cve-now",
+        "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
+        "description": "cve.now is a free feed of CVEs and security advisories for agents and the teams that use them. No login, signup, or API key required.",
+        "image": "https://www.sazabi.com/api/og/blog?slug=introducing-cve-now",
+        "source": "sazabi.com",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-10-25": [
+      {
+        "url": "https://lynchlab.net/llm-skin-cancer",
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "description": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior.",
+        "image": "",
+        "source": "lynchlab.net",
+        "stats": "527 points · 231 comments"
+      },
+      {
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "description": "What is “the true cost of a token”?",
+        "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
+        "source": "minimaxir.com",
+        "stats": "264 points · 278 comments"
+      },
       {
         "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
         "title": "Cerebras Deploys Trillion-Parameter AI Models",
         "description": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.",
         "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
         "source": "cerebras.ai",
-        "stats": "109 points · 38 comments"
+        "stats": "355 points · 132 comments"
       },
       {
-        "url": "https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c",
-        "title": "New Open-Source Cybersecurity Platform Uses AI Agents to Hunt Threats",
-        "description": "9 points · 1 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
+        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+        "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+        "description": "Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students&rsquo; homework. After seeing how many of his students used AI to consistently receive top scores, he",
+        "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/9/44/944d84f9-b521-443c-ae42-3811a39ea788/6adac8999d0f1.image.jpg?crop=1793%2C941%2C0%2C106&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "source": "dailycal.org",
+        "stats": "214 points · 312 comments"
       },
       {
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
-        "description": "A new study found Grok&#039;s AI overwhelmingly recommends Republican candidates while OpenAI&#039;s GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-        "source": "techcrunch.com",
-        "stats": "6 points · 1 comments"
-      },
-      {
-        "url": "https://dadgptcostume.vercel.app/",
-        "title": "Show HN: Dadgpt Open Source Halloween Costume",
-        "description": "A Halloween costume you can talk to. Tap the mic, ask Dad anything, and he answers out loud with a dad joke. Or tap the camera and get roasted.",
-        "image": "https://dadgpt-ai.vercel.app/opengraph-image?2e4d56ae609eeb32",
-        "source": "dadgptcostume.vercel.app",
-        "stats": "3 points · 0 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-        "title": "Claude Mythos 5's GitHub adventure: The postmortem",
-        "description": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/97d61b79f99af31d2596eced7533e6d5e3ef7731-2000x1125.jpg",
-        "source": "anthropic.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+        "description": "Ok, I just checked this, and its literally running a freaking TensorFlow Lite model on 960×540 images with INT8 quantization every couple of seconds in an attempt to figure out what game you are playing.\nIt&#x27;s literally called &quot;alex.tflite&quot; and its literally AlexNet and seems to follow torchvision.m…",
+        "image": "https://pbs.twimg.com/media/HVb1282bgAAg6jY?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "288 points · 1 comments"
       }
     ],
     "2026-10-24": [
@@ -50,7 +92,7 @@
         "description": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.",
         "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
         "source": "apollo.com",
-        "stats": "538 points · 553 comments"
+        "stats": "620 points · 654 comments"
       },
       {
         "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
@@ -58,7 +100,15 @@
         "description": "America is Losing Hundreds of Thousands of Jobs in Media, Film &amp; the Arts. How Much is AI to Blame?",
         "image": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png",
         "source": "apricitas.io",
-        "stats": "312 points · 309 comments"
+        "stats": "516 points · 555 comments"
+      },
+      {
+        "url": "https://github.com/Zagitta/gpu-unlock",
+        "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+        "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000&#39;s cards to their professional equivalents - Zagitta/gpu-unlock",
+        "image": "https://opengraph.githubassets.com/0c51b4396863b0681387be6c4a3a2f2415c7da4fac4f6766d0acbab9f39e53dc/Zagitta/gpu-unlock",
+        "source": "github.com",
+        "stats": "339 points · 80 comments"
       },
       {
         "url": "https://arxiv.org/abs/2610.29162",
@@ -66,15 +116,7 @@
         "description": "There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \\textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "185 points · 162 comments"
-      },
-      {
-        "url": "https://github.com/Zagitta/gpu-unlock",
-        "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-        "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000&#39;s cards to their professional equivalents - Zagitta/gpu-unlock",
-        "image": "https://opengraph.githubassets.com/956860f11c3d4fb915ca9ad12913694e91098d2300c7a333b06a61797a2e4b49/Zagitta/gpu-unlock",
-        "source": "github.com",
-        "stats": "226 points · 70 comments"
+        "stats": "246 points · 198 comments"
       },
       {
         "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
@@ -82,133 +124,45 @@
         "description": "A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t exist, and several other sources in the paper are also unfindable. The authors disclose that they used AI tools, which may explain what is going on. The use of AI in an academic paper on shadow libraries is also somewhat ironic, as rightsholders are suing AI companies for using these sites to train AI models.",
         "image": "https://torrentfreak.com/images/keyboardfeat.jpg",
         "source": "torrentfreak.com",
-        "stats": "96 points · 50 comments"
+        "stats": "97 points · 61 comments"
       }
     ],
     "2026-10-23": [
-      {
-        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-        "title": "Swedish government offices to ban ChatGPT and Claude",
-        "description": "322 points · 122 comments",
-        "image": "",
-        "source": "sverigesradio.se",
-        "stats": ""
-      },
       {
         "url": "https://corgi.computer/",
         "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
         "description": "Friendly helper for your agents.",
         "image": "",
         "source": "corgi.computer",
-        "stats": "130 points · 43 comments"
+        "stats": "138 points · 46 comments"
       },
       {
-        "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-        "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-        "description": "Swedish AI provider Berget AI releases an open-source method for calculating the carbon emissions of every individual AI request, developed with researchers from SEI, WattTime and Klimatkollen — and customers can now follow their emissions per request in the console.",
-        "image": "https://berget.ai/api/og?title=New+open-source+method+shows+the+same+AI+request+emits+8.5+times+more+CO%E2%82%82+in+Texas+than+in+Sweden&amp;image=https%3A%2F%2Fberget.ai%2Fimages%2Fblog%2Fper-request-co2-press-release%2Fcover.png",
-        "source": "berget.ai",
-        "stats": "142 points · 157 comments"
-      },
-      {
-        "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-        "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-        "description": "66 points · 58 comments",
+        "url": "https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write",
+        "title": "Who Cares Whether Academics Use AI to Write?",
+        "description": "15 points · 33 comments",
         "image": "",
-        "source": "gizmodo.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.thisandthat.chat/enron/",
-        "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-        "description": "66 points · 56 comments",
-        "image": "",
-        "source": "thisandthat.chat",
+        "source": "chronicle.com",
         "stats": ""
       }
     ],
     "2026-10-22": [
       {
-        "url": "https://news.ycombinator.com/item?id=50200997",
-        "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-        "description": "649 points · 734 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-        "title": "Every AI model has the same \"controversial\" take on humans",
-        "description": "We asked 13 AI models for their most controversial opinion of humans, three times each. 32 of 38 answers were the same one: we care more about belonging than about the truth.",
-        "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&amp;v=r702ht",
-        "source": "modelcompare.ai",
-        "stats": "648 points · 623 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/formal-verification",
-        "title": "LLMs are making formal software verification feasible at a much larger scale",
-        "description": "Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "457 points · 307 comments"
-      },
-      {
-        "url": "https://github.com/NVIDIA/OpenShell",
-        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents. - NVIDIA/OpenShell",
-        "image": "https://opengraph.githubassets.com/4f2e1aeb55607e853b1bf4275ba67ddc14dbb8c17096ebb091d0835bae232e8f/NVIDIA/OpenShell",
-        "source": "github.com",
-        "stats": "499 points · 217 comments"
-      },
-      {
         "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
         "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
         "description": "TornadoVM, an open-source heterogeneous programming framework for Java, has reached version 7.0. It automatically accelerates Java programs on multi-core CPUs and GPUs and provides a rich GPU programming ecosystem in Java that can be used with any mainstream JDK distribution e.g. Temurin, Red Hat OpenJDK, Coretto, Oracle, GraalVM or Zulu.",
-        "image": "https://cdn.infoq.com/statics_s1_20261020104353/styles/static/images/logo/logo-big.jpg",
+        "image": "https://cdn.infoq.com/statics_s2_20261020104415/styles/static/images/logo/logo-big.jpg",
         "source": "infoq.com",
-        "stats": "88 points · 19 comments"
+        "stats": "94 points · 23 comments"
       }
     ],
     "2026-10-21": [
-      {
-        "url": "https://claude.com/product/claude-duet",
-        "title": "Claude Duet",
-        "description": "Claude Duet is a personal AI agent you message. It handles your inbox, calendar and follow-ups and messages you when something needs you. Join the waitlist.",
-        "image": "https://claude.com/static/claude-duet/og.jpg",
-        "source": "claude.com",
-        "stats": "565 points · 533 comments"
-      },
-      {
-        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "description": "LiteLLM 1.107.0 on PyPI ships a .pth credential stealer and a sitecustomize.py backdoor that run on every Python start. How the implant got in, what it steals, and indicators of compromise.",
-        "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
-        "source": "safedep.io",
-        "stats": "595 points · 197 comments"
-      },
-      {
-        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-        "title": "Using LLM for confidence scoring is a bad idea",
-        "description": "LLM-based agents can do a lot of tasks. Or, at least, they can appear to do them. For example, they write code, summarize papers, plan trips, and fill in forms. If you ask one for a probability or a confidence score, it will give you one of those too. I have seen many agent designers use LLMs to generate confidence scores in this way. The problem is that there is no good reason to trust that number. This post is about why we cannot rely on an LLM to generate a confidence score.",
-        "image": "",
-        "source": "rumple.github.io",
-        "stats": "226 points · 103 comments"
-      },
       {
         "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
         "title": "Tiling Noise – Procedural GPU Patterns",
         "description": "A written Godot tutorial about tiling noise to make it wrap without seams.",
         "image": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/banner.png",
         "source": "catlikecoding.com",
-        "stats": "60 points · 2 comments"
-      },
-      {
-        "url": "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/",
-        "title": "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
-        "description": "12 points · 1 comments",
-        "image": "",
-        "source": "ediblegeography.com",
-        "stats": ""
+        "stats": "63 points · 2 comments"
       }
     ],
     "2026-10-20": [
@@ -218,25 +172,7 @@
         "description": "Welcome to the digital home of Daniel Ball. Explore my portfolio to see the projects I’ve worked on and learn more about my professional journey.",
         "image": "",
         "source": "danielball.com",
-        "stats": "255 points · 83 comments"
-      }
-    ],
-    "2026-10-19": [
-      {
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "description": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
-        "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
-        "source": "redact.dev",
-        "stats": "738 points · 217 comments"
-      },
-      {
-        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-        "description": "578 points · 541 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
+        "stats": "283 points · 94 comments"
       }
     ]
   }
