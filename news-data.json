@@ -1,64 +1,106 @@
 {
-  "lastUpdated": "2026-10-26T07:34:49.516Z",
+  "lastUpdated": "2026-10-27T07:32:07.147Z",
   "days": {
+    "2026-10-27": [
+      {
+        "url": "https://allmodels.io/llm/abliterated",
+        "title": "There are now 5 inference providers for abliterated DeepSeek",
+        "description": "Route abliterated language models across providers with automatic fallbacks, modality-aware selection, and one place to compare availability and token prices.",
+        "image": "https://allmodels.io/assets/og/llm-abliterated-pixels-v1.png",
+        "source": "allmodels.io",
+        "stats": "63 points · 69 comments"
+      },
+      {
+        "url": "https://hexagonmath.org/2610.00577v1",
+        "title": "Anthropic's Disproof of the ETH",
+        "description": "We refute the Exponential Time Hypothesis (ETH) by presenting a deterministic algorithm for 3-SAT on n variables that runs in $2^{o(n)}$ time. Our algorithm in fact solves the harder problem #3-SAT, providing a count of the number of satisfying assignments.\n\nThe result was discovered by an internal research Claude model and has been formalized in Lean 4.",
+        "image": "https://hexagonmath.org/social-card/2610.00577v1",
+        "source": "hexagonmath.org",
+        "stats": "9 points · 1 comments"
+      },
+      {
+        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "title": "The Mythical Man-Month in the Age of AI",
+        "description": "An update to Brooks&#039;s Law in the age of AI.",
+        "image": "https://j11g.com/content/images/cern-resized.jpg",
+        "source": "j11g.com",
+        "stats": "10 points · 5 comments"
+      },
+      {
+        "url": "https://trustboundarystudio.com/posts/chatgpt-redis-leak-2023/",
+        "title": "ChatGPT leaked users' data, and nobody hacked it",
+        "description": "On 20 March 2023 a cancelled request made ChatGPT show some users other people",
+        "image": "https://trustboundarystudio.com/og/chatgpt-redis-leak-2023.png",
+        "source": "trustboundarystudio.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://jasonpolak.substack.com/p/ai-and-the-collapse-of-capitalism",
+        "title": "AI and the Collapse of Capitalism",
+        "description": "6 points · 2 comments",
+        "image": "",
+        "source": "jasonpolak.substack.com",
+        "stats": ""
+      }
+    ],
     "2026-10-26": [
       {
-        "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-        "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-        "description": "Your local AI copilot for documents. Contribute to KrushnaVardhanReddy/PaperPilot development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/6185088c8a206bf1181904395e55c252c86ce38610ac4355d38865ebd8789020/KrushnaVardhanReddy/PaperPilot",
-        "source": "github.com",
-        "stats": "85 points · 20 comments"
-      },
-      {
-        "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-        "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-        "description": "AI panic weirdly resembles the anxiety that accompanied early capitalism",
-        "image": "https://substackcdn.com/image/fetch/$s_!0-U5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcafd3438-ef0d-41c0-83cf-bcc7e1c995be_1536x1024.png",
-        "source": "contraptions.venkateshrao.com",
-        "stats": "55 points · 44 comments"
-      },
-      {
-        "url": "https://proc-cli.com/",
-        "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-        "description": "Semantic CLI tool for process management. Target by port, PID, name or path.",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "title": "Anthropic S-1",
+        "description": "1582 points · 1512 comments",
         "image": "",
-        "source": "proc-cli.com",
-        "stats": "6 points · 0 comments"
+        "source": "sec.gov",
+        "stats": ""
       },
       {
-        "url": "https://uipalooza.ai/",
-        "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
-        "description": "A test of taste. Compare AI-generated interfaces across models, design skills, and shared briefs. Explore real designs, runtime, tokens, and methodology.",
-        "image": "https://uipalooza.ai/social-card.png",
-        "source": "uipalooza.ai",
-        "stats": "6 points · 0 comments"
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+        "title": "GPT-6.1 Terra",
+        "description": "575 points · 359 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       },
       {
-        "url": "https://www.sazabi.com/blog/introducing-cve-now",
-        "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
-        "description": "cve.now is a free feed of CVEs and security advisories for agents and the teams that use them. No login, signup, or API key required.",
-        "image": "https://www.sazabi.com/api/og/blog?slug=introducing-cve-now",
-        "source": "sazabi.com",
-        "stats": "4 points · 1 comments"
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "description": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+        "image": "https://substackcdn.com/image/fetch/$s_!1SoS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F519db120-1320-411b-adec-a88865345f2c_4083x2916.jpeg",
+        "source": "magazine.sebastianraschka.com",
+        "stats": "671 points · 94 comments"
+      },
+      {
+        "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+        "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+        "description": "Because big tech doesn&#x27;t do customer service, we are being inundated with AI-generated emails begging us for help.",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Untitled-1.png",
+        "source": "404media.co",
+        "stats": "245 points · 88 comments"
+      },
+      {
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "title": "Concerning behavior from a popular open-weight AI model",
+        "description": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.",
+        "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/658e160a6519a049e260213d409551e67399113a-1352x754.png?rect=0,22,1352,710&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+        "source": "cohere.com",
+        "stats": "290 points · 116 comments"
       }
     ],
     "2026-10-25": [
-      {
-        "url": "https://lynchlab.net/llm-skin-cancer",
-        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-        "description": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior.",
-        "image": "",
-        "source": "lynchlab.net",
-        "stats": "527 points · 231 comments"
-      },
       {
         "url": "https://minimaxir.com/2026/10/cheap-llms/",
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "description": "What is “the true cost of a token”?",
         "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
         "source": "minimaxir.com",
-        "stats": "264 points · 278 comments"
+        "stats": "423 points · 430 comments"
+      },
+      {
+        "url": "https://lynchlab.net/llm-skin-cancer",
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "description": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior.",
+        "image": "",
+        "source": "lynchlab.net",
+        "stats": "657 points · 270 comments"
       },
       {
         "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
@@ -66,7 +108,7 @@
         "description": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.",
         "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
         "source": "cerebras.ai",
-        "stats": "355 points · 132 comments"
+        "stats": "365 points · 142 comments"
       },
       {
         "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
@@ -74,15 +116,15 @@
         "description": "Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students&rsquo; homework. After seeing how many of his students used AI to consistently receive top scores, he",
         "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/9/44/944d84f9-b521-443c-ae42-3811a39ea788/6adac8999d0f1.image.jpg?crop=1793%2C941%2C0%2C106&amp;resize=1200%2C630&amp;order=crop%2Cresize",
         "source": "dailycal.org",
-        "stats": "214 points · 312 comments"
+        "stats": "237 points · 328 comments"
       },
       {
-        "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-        "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-        "description": "Ok, I just checked this, and its literally running a freaking TensorFlow Lite model on 960×540 images with INT8 quantization every couple of seconds in an attempt to figure out what game you are playing.\nIt&#x27;s literally called &quot;alex.tflite&quot; and its literally AlexNet and seems to follow torchvision.m…",
-        "image": "https://pbs.twimg.com/media/HVb1282bgAAg6jY?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "288 points · 1 comments"
+        "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+        "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+        "description": "An accelerated FAST feature detector for the ESP32-S3 leveraging 128-bit SIMD instructions, achieving ~2x the performance of the reference implementation.",
+        "image": "",
+        "source": "shraiwi.com",
+        "stats": "198 points · 58 comments"
       }
     ],
     "2026-10-24": [
@@ -163,16 +205,6 @@
         "image": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/banner.png",
         "source": "catlikecoding.com",
         "stats": "63 points · 2 comments"
-      }
-    ],
-    "2026-10-20": [
-      {
-        "url": "https://danielball.com/notes/ai_image_generation.html",
-        "title": "A practical guide to AI image generation, from diffusion to agents",
-        "description": "Welcome to the digital home of Daniel Ball. Explore my portfolio to see the projects I’ve worked on and learn more about my professional journey.",
-        "image": "",
-        "source": "danielball.com",
-        "stats": "283 points · 94 comments"
       }
     ]
   }
