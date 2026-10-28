@@ -1,63 +1,97 @@
 {
-  "lastUpdated": "2026-10-27T07:32:07.147Z",
+  "lastUpdated": "2026-10-28T08:04:17.063Z",
   "days": {
+    "2026-10-28": [
+      {
+        "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+        "title": "Discovering and exploiting vulnerabilities in critical software with Claude",
+        "description": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other critical impacts with little to no user interaction.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "anthropic.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://www.aivideosugc.com/ai-video-generation",
+        "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+        "description": "AI video generator for brands, agencies, and creators. Publish ads faster, spend less on production, and download a file for Meta or TikTok with no watermark.",
+        "image": "https://www.aivideosugc.com/ai-image-generation/im01-video-hub-og-r1.webp",
+        "source": "aivideosugc.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://getfintab.com/blog/ai-predictive-stock-algorithm",
+        "title": "Building an AI Predictive Stock Algorithm",
+        "description": "3 points · 1 comments",
+        "image": "https://getfintab.com/getfintab_banner.png",
+        "source": "getfintab.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.danaco.se/ai-is-the-real-soylent-green/",
+        "title": "AI is the real Soylent Green",
+        "description": "If you are old enough to remember the sci-fi movie from the 70s called Soylent Green, you might have started to connect the dots. In the movie, all humans were completely reliant on a nutritional juice called soylent green, but it just happened to be made out of discarded humans. Their skin and bones ground [&hellip;]",
+        "image": "",
+        "source": "danaco.se",
+        "stats": "2 points · 1 comments"
+      },
+      {
+        "url": "https://tiny-desk-ai.app/",
+        "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+        "description": "Upload 1 to 3 photos and become the lead singer, sax player or keyboardist in the viral “Outstanding” desk concert. About 15 s, 720p, song included. No login.",
+        "image": "https://tiny-desk-ai.app/og.png",
+        "source": "tiny-desk-ai.app",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-10-27": [
       {
-        "url": "https://allmodels.io/llm/abliterated",
-        "title": "There are now 5 inference providers for abliterated DeepSeek",
-        "description": "Route abliterated language models across providers with automatic fallbacks, modality-aware selection, and one place to compare availability and token prices.",
-        "image": "https://allmodels.io/assets/og/llm-abliterated-pixels-v1.png",
-        "source": "allmodels.io",
-        "stats": "63 points · 69 comments"
+        "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+        "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "description": "The AI company pirated at least 10 Stanford academics’ work in a $1.5 billion copyright settlement.",
+        "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+        "source": "stanforddaily.com",
+        "stats": "514 points · 273 comments"
       },
       {
-        "url": "https://hexagonmath.org/2610.00577v1",
-        "title": "Anthropic's Disproof of the ETH",
-        "description": "We refute the Exponential Time Hypothesis (ETH) by presenting a deterministic algorithm for 3-SAT on n variables that runs in $2^{o(n)}$ time. Our algorithm in fact solves the harder problem #3-SAT, providing a count of the number of satisfying assignments.\n\nThe result was discovered by an internal research Claude model and has been formalized in Lean 4.",
-        "image": "https://hexagonmath.org/social-card/2610.00577v1",
-        "source": "hexagonmath.org",
-        "stats": "9 points · 1 comments"
+        "url": "https://oioannou.com/blog/ai-promised-less-work/",
+        "title": "AI promised less work. I've never worked more",
+        "description": "Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bursts, burnout and a low season that is no longer low.",
+        "image": "https://oioannou.com/img/blog-by-orestis.jpg",
+        "source": "oioannou.com",
+        "stats": "633 points · 628 comments"
       },
       {
-        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-        "title": "The Mythical Man-Month in the Age of AI",
-        "description": "An update to Brooks&#039;s Law in the age of AI.",
-        "image": "https://j11g.com/content/images/cern-resized.jpg",
-        "source": "j11g.com",
-        "stats": "10 points · 5 comments"
+        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "description": "AI-generated text is harder to spot, but that hasn’t deterred them",
+        "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
+        "source": "spectrum.ieee.org",
+        "stats": "475 points · 216 comments"
       },
       {
-        "url": "https://trustboundarystudio.com/posts/chatgpt-redis-leak-2023/",
-        "title": "ChatGPT leaked users' data, and nobody hacked it",
-        "description": "On 20 March 2023 a cancelled request made ChatGPT show some users other people",
-        "image": "https://trustboundarystudio.com/og/chatgpt-redis-leak-2023.png",
-        "source": "trustboundarystudio.com",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://jasonpolak.substack.com/p/ai-and-the-collapse-of-capitalism",
-        "title": "AI and the Collapse of Capitalism",
-        "description": "6 points · 2 comments",
+        "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+        "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+        "description": "370 points · 283 comments",
         "image": "",
-        "source": "jasonpolak.substack.com",
+        "source": "gizmodo.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.brangus.io/survival-llm",
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "description": "A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.",
+        "image": "https://www.brangus.io/survival-llm/social-card.png",
+        "source": "brangus.io",
+        "stats": "319 points · 130 comments"
       }
     ],
     "2026-10-26": [
       {
         "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
         "title": "Anthropic S-1",
-        "description": "1582 points · 1512 comments",
+        "description": "1695 points · 1659 comments",
         "image": "",
         "source": "sec.gov",
-        "stats": ""
-      },
-      {
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-        "title": "GPT-6.1 Terra",
-        "description": "575 points · 359 comments",
-        "image": "",
-        "source": "openai.com",
         "stats": ""
       },
       {
@@ -66,15 +100,15 @@
         "description": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
         "image": "https://substackcdn.com/image/fetch/$s_!1SoS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F519db120-1320-411b-adec-a88865345f2c_4083x2916.jpeg",
         "source": "magazine.sebastianraschka.com",
-        "stats": "671 points · 94 comments"
+        "stats": "832 points · 111 comments"
       },
       {
-        "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-        "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-        "description": "Because big tech doesn&#x27;t do customer service, we are being inundated with AI-generated emails begging us for help.",
-        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Untitled-1.png",
-        "source": "404media.co",
-        "stats": "245 points · 88 comments"
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+        "title": "GPT-6.1 Terra",
+        "description": "628 points · 422 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       },
       {
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
@@ -82,49 +116,49 @@
         "description": "Discover how untrusted open-weight AI models can potentially leak data, even when self-hosted. Learn the security risks and how to protect your enterprise.",
         "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/658e160a6519a049e260213d409551e67399113a-1352x754.png?rect=0,22,1352,710&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
         "source": "cohere.com",
-        "stats": "290 points · 116 comments"
+        "stats": "327 points · 128 comments"
+      },
+      {
+        "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+        "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+        "description": "Because big tech doesn&#x27;t do customer service, we are being inundated with AI-generated emails begging us for help.",
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Untitled-1.png",
+        "source": "404media.co",
+        "stats": "262 points · 95 comments"
       }
     ],
     "2026-10-25": [
-      {
-        "url": "https://minimaxir.com/2026/10/cheap-llms/",
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "description": "What is “the true cost of a token”?",
-        "image": "https://minimaxir.com/2026/10/cheap-llms/vercel.png",
-        "source": "minimaxir.com",
-        "stats": "423 points · 430 comments"
-      },
-      {
-        "url": "https://lynchlab.net/llm-skin-cancer",
-        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-        "description": "I am a dermatologist. I tested the ability of GPT-6 Astra and Claude Fable 5.1 to diagnosis skin cancer and found that they were less accurate than I expected. I compared to a 10-year old CNN and to my surprise found that this was superior.",
-        "image": "",
-        "source": "lynchlab.net",
-        "stats": "657 points · 270 comments"
-      },
-      {
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "description": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.",
-        "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
-        "source": "cerebras.ai",
-        "stats": "365 points · 142 comments"
-      },
-      {
-        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-        "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-        "description": "Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students&rsquo; homework. After seeing how many of his students used AI to consistently receive top scores, he",
-        "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/9/44/944d84f9-b521-443c-ae42-3811a39ea788/6adac8999d0f1.image.jpg?crop=1793%2C941%2C0%2C106&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-        "source": "dailycal.org",
-        "stats": "237 points · 328 comments"
-      },
       {
         "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
         "title": "SIMD-accelerated computer vision on a $2 microcontroller",
         "description": "An accelerated FAST feature detector for the ESP32-S3 leveraging 128-bit SIMD instructions, achieving ~2x the performance of the reference implementation.",
         "image": "",
         "source": "shraiwi.com",
-        "stats": "198 points · 58 comments"
+        "stats": "226 points · 65 comments"
+      },
+      {
+        "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+        "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+        "description": "143 points · 35 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+        "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+        "description": "Seven years of US, European, Indian and Chinese data: interest rates started the tech jobs decline, AI stopped the recovery, and young workers are paying.",
+        "image": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs/opengraph-image?8f9b65c70bd16689",
+        "source": "vithushansylvester.com",
+        "stats": "96 points · 62 comments"
+      },
+      {
+        "url": "https://github.com/google-research/kauldron",
+        "title": "Kauldron: Modular, scalable library to train ML models",
+        "description": "Modular, scalable library to train ML models. Contribute to google-research/kauldron development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/036a7dd1874a4895bd9226828532a9c989777073a72267a0d392d691bbd752bd/google-research/kauldron",
+        "source": "github.com",
+        "stats": "25 points · 2 comments"
       }
     ],
     "2026-10-24": [
@@ -195,16 +229,6 @@
         "image": "https://cdn.infoq.com/statics_s2_20261020104415/styles/static/images/logo/logo-big.jpg",
         "source": "infoq.com",
         "stats": "94 points · 23 comments"
-      }
-    ],
-    "2026-10-21": [
-      {
-        "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
-        "title": "Tiling Noise – Procedural GPU Patterns",
-        "description": "A written Godot tutorial about tiling noise to make it wrap without seams.",
-        "image": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/banner.png",
-        "source": "catlikecoding.com",
-        "stats": "63 points · 2 comments"
       }
     ]
   }
