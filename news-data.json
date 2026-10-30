@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-29T08:13:32.929Z",
+  "lastUpdated": "2026-10-30T08:20:18.340Z",
   "days": {
+    "2026-10-30": [
+      {
+        "url": "https://www.arsaze.com",
+        "title": "Show HN: Arsaze – Cursor for video editing (Tab-complete and agent edits)",
+        "description": "Arsaze is Cursor for video editing: the AI-native video editor for agents and humans. Your AI edits a real multi-track timeline over MCP while you watch, every edit is versioned, and clients review on the exact frame.",
+        "image": "https://www.arsaze.com/og-image.png",
+        "source": "arsaze.com",
+        "stats": "39 points · 0 comments"
+      },
+      {
+        "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor",
+        "title": "Trojanized Claude Code Extension Plants an SSH Backdoor",
+        "description": "v 2.1.313 of the Cursor Marketplace Claude Code extension contains malware",
+        "image": "https://a.storyblok.com/f/293151920578295/2882x1870/5f70050a37/cursor-marketplace-compromised.png",
+        "source": "opensourcemalware.com",
+        "stats": "13 points · 1 comments"
+      },
+      {
+        "url": "https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/",
+        "title": "A Claude Code agent's test escaped into my Mac. I only noticed because it talked",
+        "description": "An incident report. Setup: Claude Code 2.1.286 in auto mode, seven background subagents running in parallel, macOS, no sandbox. Incident date: 2026-10-28. All times are local (PDT) and come from the agents’ transcripts and the macOS unified log.",
+        "image": "",
+        "source": "marutpandya.com",
+        "stats": "8 points · 4 comments"
+      },
+      {
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
+        "title": "Anthropic now lets Claude users jump out of plane without parachute",
+        "description": "Meet CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS",
+        "image": "https://image.theregister.com/240909.jpg?imageId=240909&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "title": "Official Claude Code extension compromise",
+        "description": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on Open VSX that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up focuses …",
+        "image": "https://phorion.io/images/default-social-card.png",
+        "source": "phorion.io",
+        "stats": "4 points · 1 comments"
+      }
+    ],
     "2026-10-29": [
+      {
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "title": "We're releasing the weights of Mistral Large 4",
+        "description": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+        "source": "mistral.ai",
+        "stats": "1406 points · 381 comments"
+      },
       {
         "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
         "title": "Claude Code regularly sends each background agent’s transcript to its model",
         "description": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT - README.md",
         "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
         "source": "gist.github.com",
-        "stats": "313 points · 98 comments"
+        "stats": "566 points · 229 comments"
       },
       {
-        "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-        "description": "51 points · 96 comments",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "title": "LLM Voice",
+        "description": "454 points · 244 comments",
         "image": "",
-        "source": "niemanlab.org",
+        "source": "martinfowler.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-        "description": "MicroZig is a toolbox for building embedded applications in Zig. - ZigEmbeddedGroup/microzig",
-        "image": "https://repository-images.githubusercontent.com/349134426/ad5d8e71-d4a8-496c-a54b-c4c0042eb88b",
-        "source": "github.com",
-        "stats": "51 points · 69 comments"
+        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+        "description": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index",
+        "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&amp;auto=format",
+        "source": "artificialanalysis.ai",
+        "stats": "333 points · 242 comments"
       },
       {
-        "url": "https://bernstein.run",
-        "title": "Bernstein – open-source governance layer for AI agents",
-        "description": "The open-source governance layer for AI agents. Policy as code for approvals and records, enforced around Claude Code, Codex, Gemini CLI and 40+ more.",
-        "image": "https://bernstein.run/api/og",
-        "source": "bernstein.run",
-        "stats": "17 points · 2 comments"
-      },
-      {
-        "url": "https://github.com/uji-labs/uji",
-        "title": "Show HN: Uji – Gentoo of Coding Agents",
-        "description": "God&#39;s chosen Coding Harness. Contribute to uji-labs/uji development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/eb39968c762465fe862702c9ab367e1be0eac8ea0a1340519d52e5a3d0be807b/uji-labs/uji",
-        "source": "github.com",
-        "stats": "10 points · 0 comments"
+        "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+        "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+        "description": "An alleged Chinese spy developed a “close relationship” with Nvidia CEO Jensen Huang, setting off alarms among US intelligence officials who were secretly monitoring her communications,…",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/please-use-id-confirmed-146859021.jpg?quality=75&#038;strip=all&#038;w=1200",
+        "source": "nypost.com",
+        "stats": "320 points · 224 comments"
       }
     ],
     "2026-10-28": [
@@ -50,12 +92,12 @@
         "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
         "source": "blog.google",
-        "stats": "904 points · 737 comments"
+        "stats": "1007 points · 798 comments"
       },
       {
         "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
         "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-        "description": "456 points · 501 comments",
+        "description": "486 points · 523 comments",
         "image": "",
         "source": "religionnews.com",
         "stats": ""
@@ -66,7 +108,7 @@
         "description": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
         "image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
         "source": "wired.com",
-        "stats": "315 points · 174 comments"
+        "stats": "427 points · 262 comments"
       },
       {
         "url": "https://surgehq.ai/blog/dayjob-tax",
@@ -74,7 +116,7 @@
         "description": "DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.",
         "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
         "source": "surgehq.ai",
-        "stats": "226 points · 147 comments"
+        "stats": "255 points · 173 comments"
       },
       {
         "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
@@ -82,49 +124,17 @@
         "description": "But the AI responses get more forthright when asked outside the US.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
         "source": "arstechnica.com",
-        "stats": "149 points · 69 comments"
+        "stats": "167 points · 76 comments"
       }
     ],
     "2026-10-27": [
-      {
-        "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-        "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-        "description": "The AI company pirated at least 10 Stanford academics’ work in a $1.5 billion copyright settlement.",
-        "image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
-        "source": "stanforddaily.com",
-        "stats": "580 points · 294 comments"
-      },
-      {
-        "url": "https://oioannou.com/blog/ai-promised-less-work/",
-        "title": "AI promised less work. I've never worked more",
-        "description": "Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bursts, burnout and a low season that is no longer low.",
-        "image": "https://oioannou.com/img/blog-by-orestis.jpg",
-        "source": "oioannou.com",
-        "stats": "670 points · 655 comments"
-      },
       {
         "url": "https://www.brangus.io/survival-llm",
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "description": "A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.",
         "image": "https://www.brangus.io/survival-llm/social-card.png",
         "source": "brangus.io",
-        "stats": "526 points · 195 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/research/early-progress-drug-development",
-        "title": "Early progress on accelerating drug development with Claude",
-        "description": "Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including programs for rare childhood forms of muscular dystrophy. In this post, we provide an update on our progress.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "323 points · 337 comments"
-      },
-      {
-        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-        "title": "Wikipedia's Cleanup of AI-Generated Content",
-        "description": "AI-generated text is harder to spot, but that hasn’t deterred them",
-        "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
-        "source": "spectrum.ieee.org",
-        "stats": "503 points · 237 comments"
+        "stats": "538 points · 202 comments"
       }
     ],
     "2026-10-26": [
@@ -219,24 +229,6 @@
         "image": "https://torrentfreak.com/images/keyboardfeat.jpg",
         "source": "torrentfreak.com",
         "stats": "97 points · 61 comments"
-      }
-    ],
-    "2026-10-23": [
-      {
-        "url": "https://corgi.computer/",
-        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-        "description": "Friendly helper for your agents.",
-        "image": "",
-        "source": "corgi.computer",
-        "stats": "138 points · 46 comments"
-      },
-      {
-        "url": "https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write",
-        "title": "Who Cares Whether Academics Use AI to Write?",
-        "description": "15 points · 33 comments",
-        "image": "",
-        "source": "chronicle.com",
-        "stats": ""
       }
     ]
   }
