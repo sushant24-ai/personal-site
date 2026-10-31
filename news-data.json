@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-30T08:20:18.340Z",
+  "lastUpdated": "2026-10-31T08:10:00.609Z",
   "days": {
+    "2026-10-31": [
+      {
+        "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+        "title": "OpenAI raises less than half of $30B target",
+        "description": "146 points · 128 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50313539",
+        "title": "Tell HN: Claude is using my limits even though it's infra is failing",
+        "description": "4 points · 5 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/Kuldeep-045/agent-arcade",
+        "title": "Show HN: Agent-arcade – Terminal games that pause when Claude Code/Codex is done",
+        "description": "Terminal games to play while your AI coding agent works - Kuldeep-045/agent-arcade",
+        "image": "https://opengraph.githubassets.com/8e17881368a21e2875c6b1f199630eb389f418d4f9632c9da126c6c55cb6c5f1/Kuldeep-045/agent-arcade",
+        "source": "github.com",
+        "stats": "3 points · 0 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2606.03979",
+        "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+        "description": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LLMs). Despite showing promising results in tasks that require instant prediction or in-context learning, existing models lack the ability to continually learn and effectively transfer their temporal in-context knowledge to their long-term parameters. Inspired by human learning process, we introduce a &#39;&#39;Sleep&#39;&#39; paradigm that allows the models to continually learn, distill their short-term fragile memories into stable long-term knowledge with replay, and recursively improve themselves with &#39;&#39;Dreaming&#39;&#39; process. In more detail, sleep consists of two stages: (1) Memory Consolidation: an upward distillation process, called Knowledge Seeding, where the memories of a smaller-self are distilled into a larger network to provide more capacity while preserving the knowledge. As a proof of concept, we present a new Generalized Distillation process for {Knowledge Seeding} (i.e., the combination of on-policy distillation with Reinforcement Learning (RL)-based imitation learning); (2) Dreaming: a self-improvement phase, where the model uses RL to generate a curriculum of synthetic data to rehearse new knowledge and refine existing capabilities without human supervision. Our experiments on long-horizon, continual learning, knowledge incorporation, and few-shot generalization tasks support the importance of the sleep stage.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://www.forbes.com/sites/anderson-lafontant/2026/10/29/anthropics-ipo-date-could-cost-its-employees-a-year-of-tax-life/",
+        "title": "Anthropic's IPO Date Could Cost Its Employees a Year of Tax Life",
+        "description": "3 points · 0 comments",
+        "image": "",
+        "source": "forbes.com",
+        "stats": ""
+      }
+    ],
     "2026-10-30": [
       {
-        "url": "https://www.arsaze.com",
-        "title": "Show HN: Arsaze – Cursor for video editing (Tab-complete and agent edits)",
-        "description": "Arsaze is Cursor for video editing: the AI-native video editor for agents and humans. Your AI edits a real multi-track timeline over MCP while you watch, every edit is versioned, and clients review on the exact frame.",
-        "image": "https://www.arsaze.com/og-image.png",
-        "source": "arsaze.com",
-        "stats": "39 points · 0 comments"
-      },
-      {
-        "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor",
-        "title": "Trojanized Claude Code Extension Plants an SSH Backdoor",
-        "description": "v 2.1.313 of the Cursor Marketplace Claude Code extension contains malware",
-        "image": "https://a.storyblok.com/f/293151920578295/2882x1870/5f70050a37/cursor-marketplace-compromised.png",
-        "source": "opensourcemalware.com",
-        "stats": "13 points · 1 comments"
-      },
-      {
-        "url": "https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/",
-        "title": "A Claude Code agent's test escaped into my Mac. I only noticed because it talked",
-        "description": "An incident report. Setup: Claude Code 2.1.286 in auto mode, seven background subagents running in parallel, macOS, no sandbox. Incident date: 2026-10-28. All times are local (PDT) and come from the agents’ transcripts and the macOS unified log.",
-        "image": "",
-        "source": "marutpandya.com",
-        "stats": "8 points · 4 comments"
-      },
-      {
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
-        "title": "Anthropic now lets Claude users jump out of plane without parachute",
-        "description": "Meet CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS",
-        "image": "https://image.theregister.com/240909.jpg?imageId=240909&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "5 points · 0 comments"
-      },
-      {
         "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "title": "Official Claude Code extension compromise",
-        "description": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on Open VSX that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up focuses …",
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "description": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up …",
         "image": "https://phorion.io/images/default-social-card.png",
         "source": "phorion.io",
-        "stats": "4 points · 1 comments"
+        "stats": "876 points · 516 comments"
+      },
+      {
+        "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+        "title": "Backdoors in official Claude Code extensions",
+        "description": "Anthropic Visual Studio Claude Code extension on Cursor has malware in it, which creates a remote access Trojan to desktops.  \n\nhttps://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "image": "",
+        "source": "cyberplace.social",
+        "stats": "655 points · 17 comments"
+      },
+      {
+        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
+        "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
+        "source": "newsletter.signoz.io",
+        "stats": "576 points · 422 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+        "description": "305 points · 252 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+        "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+        "description": "399 points · 1 comments",
+        "image": "",
+        "source": "doublepulsar.com",
+        "stats": ""
       }
     ],
     "2026-10-29": [
@@ -50,22 +92,22 @@
         "description": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
         "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
         "source": "mistral.ai",
-        "stats": "1406 points · 381 comments"
-      },
-      {
-        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-        "title": "Claude Code regularly sends each background agent’s transcript to its model",
-        "description": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT - README.md",
-        "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
-        "source": "gist.github.com",
-        "stats": "566 points · 229 comments"
+        "stats": "1692 points · 436 comments"
       },
       {
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
         "title": "LLM Voice",
-        "description": "454 points · 244 comments",
+        "description": "594 points · 328 comments",
         "image": "",
         "source": "martinfowler.com",
+        "stats": ""
+      },
+      {
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "description": "402 points · 165 comments",
+        "image": "",
+        "source": "labs.ycombinator.com",
         "stats": ""
       },
       {
@@ -74,7 +116,7 @@
         "description": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index",
         "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&amp;auto=format",
         "source": "artificialanalysis.ai",
-        "stats": "333 points · 242 comments"
+        "stats": "336 points · 245 comments"
       },
       {
         "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
@@ -82,7 +124,7 @@
         "description": "An alleged Chinese spy developed a “close relationship” with Nvidia CEO Jensen Huang, setting off alarms among US intelligence officials who were secretly monitoring her communications,…",
         "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/please-use-id-confirmed-146859021.jpg?quality=75&#038;strip=all&#038;w=1200",
         "source": "nypost.com",
-        "stats": "320 points · 224 comments"
+        "stats": "355 points · 235 comments"
       }
     ],
     "2026-10-28": [
@@ -92,15 +134,7 @@
         "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
         "source": "blog.google",
-        "stats": "1007 points · 798 comments"
-      },
-      {
-        "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-        "description": "486 points · 523 comments",
-        "image": "",
-        "source": "religionnews.com",
-        "stats": ""
+        "stats": "1011 points · 801 comments"
       },
       {
         "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
@@ -108,7 +142,7 @@
         "description": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
         "image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
         "source": "wired.com",
-        "stats": "427 points · 262 comments"
+        "stats": "449 points · 289 comments"
       },
       {
         "url": "https://surgehq.ai/blog/dayjob-tax",
@@ -116,15 +150,23 @@
         "description": "DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.",
         "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
         "source": "surgehq.ai",
-        "stats": "255 points · 173 comments"
+        "stats": "263 points · 174 comments"
       },
       {
-        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-        "title": "Google AI gets cagey when asked who won the 2020 elections",
-        "description": "But the AI responses get more forthright when asked outside the US.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "167 points · 76 comments"
+        "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+        "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+        "description": "219 points · 24 comments",
+        "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+        "source": "research.google",
+        "stats": ""
+      },
+      {
+        "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+        "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+        "description": "A sort of review of the benchmarking industry and what&#x27;s missing.",
+        "image": "https://substackcdn.com/image/fetch/$s_!6u4S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png",
+        "source": "interconnects.ai",
+        "stats": "69 points · 44 comments"
       }
     ],
     "2026-10-27": [
@@ -187,48 +229,6 @@
         "image": "",
         "source": "wsj.com",
         "stats": ""
-      }
-    ],
-    "2026-10-24": [
-      {
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "title": "No signs of AI payoff outside the tech sector",
-        "description": "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.",
-        "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
-        "source": "apollo.com",
-        "stats": "620 points · 654 comments"
-      },
-      {
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "description": "America is Losing Hundreds of Thousands of Jobs in Media, Film &amp; the Arts. How Much is AI to Blame?",
-        "image": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png",
-        "source": "apricitas.io",
-        "stats": "516 points · 555 comments"
-      },
-      {
-        "url": "https://github.com/Zagitta/gpu-unlock",
-        "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-        "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000&#39;s cards to their professional equivalents - Zagitta/gpu-unlock",
-        "image": "https://opengraph.githubassets.com/0c51b4396863b0681387be6c4a3a2f2415c7da4fac4f6766d0acbab9f39e53dc/Zagitta/gpu-unlock",
-        "source": "github.com",
-        "stats": "339 points · 80 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2610.29162",
-        "title": "Why is AI generated language so hard to understand?",
-        "description": "There is a widespread sense that AI-generated text has recently become harder to understand. In this study, we investigate a set of psycholinguistic features that are known to correlate with human processing difficulty (e.g., object relative clauses, long syntactic dependencies, low-frequency n-grams). Using a novel corpus of AI-generated text across diverse domains, we find that AI models use these difficult features more often than paraphrases generated by round-trip translation. Compared with human writing, all nine frontier and near-frontier models use more inanimate subjects with animate verbs and more low-frequency n-grams, and most also use longer dependencies, more stacked nouns, and more reduced object relatives in conversation; we also demonstrate substantial variation across model families. We propose and test a hypothesis as to why: while human language is optimized for successful communication, AI-generated text is increasingly optimized for other goals like math, code, and reasoning, in which there is a pressure for \\textit{information density} rather than successful communication. We provide a proof-of-concept for this hypothesis by fine-tuning a language model under a length penalty, which leads to a divergence from human-like linguistic behavior. Our findings highlight the axes of misalignment between linguistic processing demands in humans and LLMs, and point toward possible remedies.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "246 points · 198 comments"
-      },
-      {
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "description": "A fresh academic paper on Z-Library cites a TorrentFreak article that doesn’t exist, and several other sources in the paper are also unfindable. The authors disclose that they used AI tools, which may explain what is going on. The use of AI in an academic paper on shadow libraries is also somewhat ironic, as rightsholders are suing AI companies for using these sites to train AI models.",
-        "image": "https://torrentfreak.com/images/keyboardfeat.jpg",
-        "source": "torrentfreak.com",
-        "stats": "97 points · 61 comments"
       }
     ]
   }
