@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-10-31T08:10:00.609Z",
+  "lastUpdated": "2026-11-01T08:55:26.577Z",
   "days": {
+    "2026-11-01": [
+      {
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "title": "The AI cost of JavaScript frameworks",
+        "description": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
+        "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
+        "source": "nolanlawson.com",
+        "stats": "39 points · 13 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+        "title": "How AI may drive union-resistant tech workers to the bargaining table",
+        "description": "Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence",
+        "image": "https://i.guim.co.uk/img/media/56bb5b877c5752e1b71707cbefc7103e54ed3fbc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97f430c7487171341d3074196104e5a1",
+        "source": "theguardian.com",
+        "stats": "21 points · 1 comments"
+      },
+      {
+        "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+        "title": "AI Made Me Homeless",
+        "description": "13 points · 11 comments",
+        "image": "",
+        "source": "medium.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+        "description": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom",
+        "image": "https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820",
+        "source": "theguardian.com",
+        "stats": "10 points · 5 comments"
+      },
+      {
+        "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA",
+        "title": "FineDNA: Open data to train LLMs on DNA",
+        "description": "Dataset with 373M rows (Text). Explore, preview and download it on Hugging Face.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/datasets/HuggingFaceBio/FineDNA.png",
+        "source": "huggingface.co",
+        "stats": "4 points · 0 comments"
+      }
+    ],
     "2026-10-31": [
       {
-        "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-        "title": "OpenAI raises less than half of $30B target",
-        "description": "146 points · 128 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "title": "Anthropic blocks users for anything touching training larger models",
+        "description": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for &quot;training a competitor,&quot; and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
+        "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "334 points · 190 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=50313539",
-        "title": "Tell HN: Claude is using my limits even though it's infra is failing",
-        "description": "4 points · 5 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "title": "Do the math: How we took over ChatGPT accounts",
+        "description": "By bypassing ChatGPT&#x27;s sandbox and content security policy, our research team was able to take over anyone&#x27;s account simply by sending them a link.",
+        "image": "https://www.parameter.ai/opengraph-image.png",
+        "source": "parameter.ai",
+        "stats": "325 points · 162 comments"
       },
       {
-        "url": "https://github.com/Kuldeep-045/agent-arcade",
-        "title": "Show HN: Agent-arcade – Terminal games that pause when Claude Code/Codex is done",
-        "description": "Terminal games to play while your AI coding agent works - Kuldeep-045/agent-arcade",
-        "image": "https://opengraph.githubassets.com/8e17881368a21e2875c6b1f199630eb389f418d4f9632c9da126c6c55cb6c5f1/Kuldeep-045/agent-arcade",
-        "source": "github.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+        "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+        "description": "The restrictions are so broad that they&#039;re even hurting legitimate game developers and preventing basic troubleshooting tasks.",
+        "image": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
+        "source": "mashable.com",
+        "stats": "140 points · 88 comments"
       },
       {
-        "url": "https://arxiv.org/abs/2606.03979",
-        "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
-        "description": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LLMs). Despite showing promising results in tasks that require instant prediction or in-context learning, existing models lack the ability to continually learn and effectively transfer their temporal in-context knowledge to their long-term parameters. Inspired by human learning process, we introduce a &#39;&#39;Sleep&#39;&#39; paradigm that allows the models to continually learn, distill their short-term fragile memories into stable long-term knowledge with replay, and recursively improve themselves with &#39;&#39;Dreaming&#39;&#39; process. In more detail, sleep consists of two stages: (1) Memory Consolidation: an upward distillation process, called Knowledge Seeding, where the memories of a smaller-self are distilled into a larger network to provide more capacity while preserving the knowledge. As a proof of concept, we present a new Generalized Distillation process for {Knowledge Seeding} (i.e., the combination of on-policy distillation with Reinforcement Learning (RL)-based imitation learning); (2) Dreaming: a self-improvement phase, where the model uses RL to generate a curriculum of synthetic data to rehearse new knowledge and refine existing capabilities without human supervision. Our experiments on long-horizon, continual learning, knowledge incorporation, and few-shot generalization tasks support the importance of the sleep stage.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "4 points · 0 comments"
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "description": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
+        "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
+        "source": "blog.talosintelligence.com",
+        "stats": "246 points · 131 comments"
       },
       {
-        "url": "https://www.forbes.com/sites/anderson-lafontant/2026/10/29/anthropics-ipo-date-could-cost-its-employees-a-year-of-tax-life/",
-        "title": "Anthropic's IPO Date Could Cost Its Employees a Year of Tax Life",
-        "description": "3 points · 0 comments",
-        "image": "",
-        "source": "forbes.com",
-        "stats": ""
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+        "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "description": "Edit: Woah, this took off! If you want more details you can subscribe at the bottom of the post or on YouTube. I’m working on a more detailed highlights/commentary post and video.\nPreviously: We got Claude Code playing Factorio, Towards beating Factorio autonomously, and Faketorio: an agent testbed\nI got GPT-5.6 Sol, running in Codex with low thinking level, to complete a peaceful (i.e. no biters) Factorio run in 13.5 hours of game time:",
+        "image": "https://ryanmadden.net/img/factorio_rocket_launch_social.jpg",
+        "source": "ryanmadden.net",
+        "stats": "170 points · 181 comments"
       }
     ],
     "2026-10-30": [
@@ -50,7 +92,7 @@
         "description": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up …",
         "image": "https://phorion.io/images/default-social-card.png",
         "source": "phorion.io",
-        "stats": "876 points · 516 comments"
+        "stats": "976 points · 547 comments"
       },
       {
         "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
@@ -58,7 +100,7 @@
         "description": "Anthropic Visual Studio Claude Code extension on Cursor has malware in it, which creates a remote access Trojan to desktops.  \n\nhttps://phorion.io/blog/offical-claude-code-vsx-compromise/",
         "image": "",
         "source": "cyberplace.social",
-        "stats": "655 points · 17 comments"
+        "stats": "658 points · 17 comments"
       },
       {
         "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
@@ -66,12 +108,12 @@
         "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
         "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
         "source": "newsletter.signoz.io",
-        "stats": "576 points · 422 comments"
+        "stats": "652 points · 475 comments"
       },
       {
         "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
         "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "description": "305 points · 252 comments",
+        "description": "323 points · 289 comments",
         "image": "",
         "source": "ft.com",
         "stats": ""
@@ -92,39 +134,39 @@
         "description": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
         "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
         "source": "mistral.ai",
-        "stats": "1692 points · 436 comments"
-      },
-      {
-        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-        "title": "LLM Voice",
-        "description": "594 points · 328 comments",
-        "image": "",
-        "source": "martinfowler.com",
-        "stats": ""
+        "stats": "1708 points · 438 comments"
       },
       {
         "url": "https://labs.ycombinator.com/projects/games/index.html",
         "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "description": "402 points · 165 comments",
+        "description": "412 points · 169 comments",
         "image": "",
         "source": "labs.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-        "description": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index",
-        "image": "https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&amp;auto=format",
-        "source": "artificialanalysis.ai",
-        "stats": "336 points · 245 comments"
+        "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+        "title": "Building an AI-native engineering org",
+        "description": "Building an AI-native engineering org",
+        "image": "https://pbs.twimg.com/media/HVw2CyXa8AEa29n?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "185 points · 196 comments"
       },
       {
-        "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-        "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-        "description": "An alleged Chinese spy developed a “close relationship” with Nvidia CEO Jensen Huang, setting off alarms among US intelligence officials who were secretly monitoring her communications,…",
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/please-use-id-confirmed-146859021.jpg?quality=75&#038;strip=all&#038;w=1200",
-        "source": "nypost.com",
-        "stats": "355 points · 235 comments"
+        "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+        "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+        "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • &hellip; More",
+        "image": "https://i0.wp.com/thedataexchange.media/wp-content/uploads/2026/10/Leo-de-Moura-art.001.jpeg?fit=1920%2C1080&ssl=1",
+        "source": "thedataexchange.media",
+        "stats": "203 points · 50 comments"
+      },
+      {
+        "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+        "title": "Zombie stats: Where the numbers AI quotes come from",
+        "description": "We asked five AI assistants 200 questions that call for a number and followed 1,285 of the statistics they cited back to the source.",
+        "image": "https://trakkr.ai/images/research/og/zombie-stats.png",
+        "source": "trakkr.ai",
+        "stats": "180 points · 73 comments"
       }
     ],
     "2026-10-28": [
@@ -134,7 +176,7 @@
         "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
         "source": "blog.google",
-        "stats": "1011 points · 801 comments"
+        "stats": "1013 points · 801 comments"
       },
       {
         "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
@@ -142,31 +184,15 @@
         "description": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
         "image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
         "source": "wired.com",
-        "stats": "449 points · 289 comments"
-      },
-      {
-        "url": "https://surgehq.ai/blog/dayjob-tax",
-        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-        "description": "DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.",
-        "image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
-        "source": "surgehq.ai",
-        "stats": "263 points · 174 comments"
+        "stats": "461 points · 304 comments"
       },
       {
         "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
         "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-        "description": "219 points · 24 comments",
+        "description": "258 points · 45 comments",
         "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
         "source": "research.google",
         "stats": ""
-      },
-      {
-        "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-        "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-        "description": "A sort of review of the benchmarking industry and what&#x27;s missing.",
-        "image": "https://substackcdn.com/image/fetch/$s_!6u4S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png",
-        "source": "interconnects.ai",
-        "stats": "69 points · 44 comments"
       }
     ],
     "2026-10-27": [
@@ -219,16 +245,6 @@
         "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
         "source": "the-decoder.com",
         "stats": "90 points · 33 comments"
-      }
-    ],
-    "2026-10-25": [
-      {
-        "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-        "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
-        "description": "171 points · 44 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
       }
     ]
   }
