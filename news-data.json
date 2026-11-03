@@ -1,64 +1,106 @@
 {
-  "lastUpdated": "2026-11-02T09:04:52.565Z",
+  "lastUpdated": "2026-11-03T09:12:20.045Z",
   "days": {
+    "2026-11-03": [
+      {
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "title": "Nvidia – open-source auto-ontology",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for L...",
+        "image": "https://opengraph.githubassets.com/c062770b11de5d63082cf75a447ae9b7307e62baa8de643f484af144f2eb49ba/NVIDIA/auto-ontology",
+        "source": "github.com",
+        "stats": "41 points · 4 comments"
+      },
+      {
+        "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+        "title": "How AI is creating a lopsided US economy",
+        "description": "Experts say AI&#x27;s dominance of the US market brings risks all of its own. ",
+        "image": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_watermark_news&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485&amp;imformat=generic",
+        "source": "abc.net.au",
+        "stats": "12 points · 0 comments"
+      },
+      {
+        "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+        "title": "Open models can do 90 percent of agentic work at a twentieth of the cost",
+        "description": "Models are commodities, harnesses are the valuable part",
+        "image": "https://image.theregister.com/5307139.jpg?imageId=5307139&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "6 points · 0 comments"
+      },
+      {
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+        "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
+        "description": "Mandiant reveals how LLMJacking attacks cost victims hundreds of thousands in fraudulent cloud bills, with underground markets targeting LLM credentials.",
+        "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+        "source": "cloud.google.com",
+        "stats": "10 points · 2 comments"
+      },
+      {
+        "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+        "title": "Claude's new rules against game cloning won't stop the AI copying boom",
+        "description": "The tsunami of imitators is way bigger than any one model maker can stem.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "5 points · 2 comments"
+      }
+    ],
     "2026-11-02": [
       {
-        "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-        "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-        "description": "LLM-powered wikis, often full of inaccurate or irrelevant information, are starting to take over, leaving fans sidelined and publishers playing whack-a-mole.",
-        "image": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-        "source": "eurogamer.net",
-        "stats": "82 points · 71 comments"
+        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+        "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+        "description": "If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer.",
+        "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
+        "source": "techpolicy.press",
+        "stats": "337 points · 249 comments"
       },
       {
-        "url": "https://picon.dev/en/publications/ai-assisted-engineering/",
-        "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
-        "description": "Durable decisions, relevant context and verifiable increments: a pragmatic perspective on keeping engineering judgment in AI-assisted development.",
-        "image": "https://picon.dev/images/publications/ai-assisted-engineering-social.jpg",
-        "source": "picon.dev",
-        "stats": "46 points · 24 comments"
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+        "description": "Anthropic&#x27;s IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
+        "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
+        "source": "businessinsider.com",
+        "stats": "321 points · 248 comments"
       },
       {
-        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-        "description": "China&#8217;s First Frontier AI Export Controls: MOFCOM Announcement No. 48 Key Takeaways On October 16, 2026, China&#8217;s Ministry of Commerce (MOFCOM) and Ministry of Science and Technology (MO…",
-        "image": "https://i0.wp.com/labs.cloudsecurityalliance.org/wp-content/uploads/2025/12/cropped-logo.png?fit=512%2C512&#038;ssl=1",
-        "source": "labs.cloudsecurityalliance.org",
-        "stats": "16 points · 11 comments"
+        "url": "https://openai.com/index/scaling-git-at-openai/",
+        "title": "Scaling Git at OpenAI",
+        "description": "213 points · 121 comments",
+        "image": "",
+        "source": "openai.com",
+        "stats": ""
       },
       {
-        "url": "https://twitter.com/huskirl/status/2116941001335947635",
-        "title": "Asking my AI teacher how to spell seventeen",
-        "description": "Asking my AI teacher how to spell seventeen",
-        "image": "https://pbs.twimg.com/amplify_video_thumb/2116939489704648704/img/QB-8uWNGHMdp12W3?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "12 points · 4 comments"
+        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+        "title": "Anthropic's growth just flattened",
+        "description": "Look at the monthly numbers...",
+        "image": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
+        "source": "regenerator1.com",
+        "stats": "206 points · 240 comments"
       },
       {
-        "url": "https://proton.me/blog/ai-manifesto",
-        "title": "Proton's AI manifesto for software engineering",
-        "description": "How will Proton navigate the AI transition? Read the internal memo by Proton CTO Bart Butler.",
-        "image": "https://pmecdn.protonweb.com/image-transformation/?s=c&amp;image=images/w_1024,h_512,c_scale/f_auto,q_auto/v1793566773/wp-pme/ai-manifesto/ai-manifesto.png?_i=AA",
-        "source": "proton.me",
-        "stats": "8 points · 0 comments"
+        "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+        "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+        "description": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company&#x27;s financials through the first half of the year.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "231 points · 274 comments"
       }
     ],
     "2026-11-01": [
-      {
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-        "description": "&quot;Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.&quot;",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "224 points · 221 comments"
-      },
       {
         "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
         "title": "The AI cost of JavaScript frameworks",
         "description": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
         "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
         "source": "nolanlawson.com",
-        "stats": "364 points · 281 comments"
+        "stats": "470 points · 389 comments"
+      },
+      {
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+        "description": "&quot;Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.&quot;",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+        "source": "techcrunch.com",
+        "stats": "243 points · 253 comments"
       },
       {
         "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
@@ -66,7 +108,7 @@
         "description": "Proton",
         "image": "https://blog.raed.dev/It%20wasn",
         "source": "blog.raed.dev",
-        "stats": "155 points · 88 comments"
+        "stats": "168 points · 99 comments"
       },
       {
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
@@ -74,15 +116,15 @@
         "description": "It is hoped game testing can provide insight into recent AI agent headlines, good and bad.",
         "image": "https://cdn.mos.cms.futurecdn.net/SCYhnjqyKUaWNuCxFpW8m9-1920-80.jpg",
         "source": "tomshardware.com",
-        "stats": "167 points · 80 comments"
+        "stats": "177 points · 90 comments"
       },
       {
-        "url": "https://eva.ac/blog/llms/",
-        "title": "So I guess everyone uses LLMs to think now",
-        "description": "so i guess everyone uses llms to think now",
+        "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+        "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+        "description": "How I built custom MCP integrations and used multiple ChatGPT conversations for software development.",
         "image": "",
-        "source": "eva.ac",
-        "stats": "70 points · 111 comments"
+        "source": "chaosmanage.github.io",
+        "stats": "91 points · 54 comments"
       }
     ],
     "2026-10-31": [
@@ -92,39 +134,7 @@
         "description": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for &quot;training a competitor,&quot; and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
         "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
         "source": "twitter.com",
-        "stats": "468 points · 259 comments"
-      },
-      {
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "title": "Do the math: How we took over ChatGPT accounts",
-        "description": "By bypassing ChatGPT&#x27;s sandbox and content security policy, our research team was able to take over anyone&#x27;s account simply by sending them a link.",
-        "image": "https://www.parameter.ai/opengraph-image.png",
-        "source": "parameter.ai",
-        "stats": "359 points · 176 comments"
-      },
-      {
-        "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-        "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-        "description": "The restrictions are so broad that they&#039;re even hurting legitimate game developers and preventing basic troubleshooting tasks.",
-        "image": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
-        "source": "mashable.com",
-        "stats": "186 points · 114 comments"
-      },
-      {
-        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "title": "ChatGPT and Codex usage limits merging",
-        "description": "225 points · 166 comments",
-        "image": "",
-        "source": "help.openai.com",
-        "stats": ""
-      },
-      {
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-        "title": "Malware uses LLMs to rank victims by how much they're worth",
-        "description": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
-        "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
-        "source": "blog.talosintelligence.com",
-        "stats": "259 points · 137 comments"
+        "stats": "490 points · 269 comments"
       }
     ],
     "2026-10-30": [
@@ -134,23 +144,7 @@
         "description": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up …",
         "image": "https://phorion.io/images/default-social-card.png",
         "source": "phorion.io",
-        "stats": "998 points · 553 comments"
-      },
-      {
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "title": "AI isn't replacing SREs, it's deskilling them",
-        "description": "When AI handles 95% of your incident response, do you get worse at handling the 5% that actually matters?",
-        "image": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
-        "source": "newsletter.signoz.io",
-        "stats": "668 points · 485 comments"
-      },
-      {
-        "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-        "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-        "description": "Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
-        "source": "fortune.com",
-        "stats": "313 points · 385 comments"
+        "stats": "1008 points · 553 comments"
       }
     ],
     "2026-10-29": [
@@ -160,23 +154,15 @@
         "description": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
         "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
         "source": "mistral.ai",
-        "stats": "1718 points · 439 comments"
+        "stats": "1726 points · 440 comments"
       },
       {
         "url": "https://labs.ycombinator.com/projects/games/index.html",
         "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "description": "419 points · 170 comments",
+        "description": "421 points · 174 comments",
         "image": "",
         "source": "labs.ycombinator.com",
         "stats": ""
-      },
-      {
-        "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-        "title": "Building an AI-native engineering org",
-        "description": "Building an AI-native engineering org",
-        "image": "https://pbs.twimg.com/media/HVw2CyXa8AEa29n?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "191 points · 200 comments"
       },
       {
         "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
@@ -184,15 +170,7 @@
         "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • &hellip; More",
         "image": "https://thedataexchange.media/wp-content/uploads/2026/10/Leo-de-Moura-art.001.jpeg",
         "source": "thedataexchange.media",
-        "stats": "214 points · 57 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-        "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "147 points · 112 comments"
+        "stats": "217 points · 59 comments"
       }
     ],
     "2026-10-28": [
@@ -211,16 +189,6 @@
         "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
         "source": "research.google",
         "stats": ""
-      }
-    ],
-    "2026-10-27": [
-      {
-        "url": "https://www.brangus.io/survival-llm",
-        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-        "description": "A free AI assistant and survival library (1.5 million offline articles) that runs on your own computer, with no internet. Shows the source of every answer. Mac and Windows.",
-        "image": "https://www.brangus.io/survival-llm/social-card.png",
-        "source": "brangus.io",
-        "stats": "538 points · 202 comments"
       }
     ]
   }
