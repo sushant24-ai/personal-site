@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-11-03T09:12:20.045Z",
+  "lastUpdated": "2026-11-04T08:48:36.074Z",
   "days": {
+    "2026-11-04": [
+      {
+        "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+        "title": "AI stocks slide as Texas governor result raises data center risks",
+        "description": "Tech stocks were down in overnight trading, and grew more severe as the night wore on, as the likelihood of a blue wave grew.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108511091-1793714895762-gettyimages-2302880756-US_MIDTERMS.jpeg?v=1793714928&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "15 points · 5 comments"
+      },
+      {
+        "url": "https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393",
+        "title": "Did Claude Help an Amateur Astronomer Discover a New Planet?",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "gizmodo.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/",
+        "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
+        "description": "In 2021, IKEA had a customer service problem that it couldn’t automate away. While some callers were asking about delivery times or return policies,",
+        "image": "https://www.pymnts.com/wp-content/uploads/2022/05/Ikea.jpg",
+        "source": "pymnts.com",
+        "stats": "11 points · 0 comments"
+      },
+      {
+        "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+        "title": "You'll need nerves of steel to work with AI agents",
+        "description": "This post will focus mainly on Composer 2.5 in Cursor. These problems may not be present in opus-5.5 or gpt-6.1-sol-pro-max-ultra-thinking-fast. But gpt-6.1-luna, for example, has all the problems listed here. I’ve also encountered many of these problems before in gpt-5.5 and opus-4.6. I",
+        "image": "https://orchidfiles.com/content/images/2026/03/avatar-1.png",
+        "source": "orchidfiles.com",
+        "stats": "5 points · 0 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "title": "Anthropic: Progress on provable inference for large language models",
+        "description": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
+        "source": "anthropic.com",
+        "stats": "3 points · 2 comments"
+      }
+    ],
     "2026-11-03": [
       {
-        "url": "https://github.com/NVIDIA/auto-ontology",
-        "title": "Nvidia – open-source auto-ontology",
-        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for L...",
-        "image": "https://opengraph.githubassets.com/c062770b11de5d63082cf75a447ae9b7307e62baa8de643f484af144f2eb49ba/NVIDIA/auto-ontology",
+        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "description": "Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...",
+        "image": "https://opengraph.githubassets.com/eee0ed5be837502e91b6f5a4c49b5840d7418a5f39e3c513f56b242374cf4ce6/postmanlabs/postman-app-support/issues/14370",
         "source": "github.com",
-        "stats": "41 points · 4 comments"
+        "stats": "1246 points · 410 comments"
       },
       {
-        "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
-        "title": "How AI is creating a lopsided US economy",
-        "description": "Experts say AI&#x27;s dominance of the US market brings risks all of its own. ",
-        "image": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_watermark_news&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485&amp;imformat=generic",
-        "source": "abc.net.au",
-        "stats": "12 points · 0 comments"
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+        "title": "Google will turn off search for schools that reject AI",
+        "description": "609 points · 429 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
       },
       {
-        "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
-        "title": "Open models can do 90 percent of agentic work at a twentieth of the cost",
-        "description": "Models are commodities, harnesses are the valuable part",
-        "image": "https://image.theregister.com/5307139.jpg?imageId=5307139&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "source": "theregister.com",
-        "stats": "6 points · 0 comments"
+        "url": "https://news.ycombinator.com/item?id=50352757",
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+        "description": "474 points · 144 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
-        "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-        "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
-        "description": "Mandiant reveals how LLMJacking attacks cost victims hundreds of thousands in fraudulent cloud bills, with underground markets targeting LLM credentials.",
-        "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
-        "source": "cloud.google.com",
-        "stats": "10 points · 2 comments"
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+        "description": "Google, Meta, others&#x27; commitments and obligations reach 80% of assets",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F4%2F13394319-2-eng-GB%2Faad3b104a912-photo_SXM2026103100004660.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
+        "source": "asia.nikkei.com",
+        "stats": "345 points · 143 comments"
       },
       {
-        "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-        "title": "Claude's new rules against game cloning won't stop the AI copying boom",
-        "description": "The tsunami of imitators is way bigger than any one model maker can stem.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "5 points · 2 comments"
+        "url": "https://arxiv.org/abs/2605.29713",
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "description": "This book provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. Rather than surveying every recent architecture or implementation detail, it develops a coherent route through the ideas connecting major families of generative models, from PCA, probabilistic PCA, variational autoencoders, and diffusion models to normalising flows, autoregressive factorisations, GANs, Wasserstein GANs, and energy-based models. The aim is to make the structure of generative modelling more accessible without removing the mathematical substance needed to understand how these models are derived and related. The book is intended as a foundation-building primer for mathematically curious researchers, practitioners, and students.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "331 points · 51 comments"
       }
     ],
     "2026-11-02": [
@@ -50,7 +92,7 @@
         "description": "If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer.",
         "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
         "source": "techpolicy.press",
-        "stats": "337 points · 249 comments"
+        "stats": "398 points · 316 comments"
       },
       {
         "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
@@ -58,12 +100,20 @@
         "description": "Anthropic&#x27;s IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
         "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
         "source": "businessinsider.com",
-        "stats": "321 points · 248 comments"
+        "stats": "351 points · 269 comments"
+      },
+      {
+        "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+        "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+        "description": "Low costs and offline security mean magnetic tape still has a job.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-2560x1440.jpg",
+        "source": "arstechnica.com",
+        "stats": "463 points · 192 comments"
       },
       {
         "url": "https://openai.com/index/scaling-git-at-openai/",
         "title": "Scaling Git at OpenAI",
-        "description": "213 points · 121 comments",
+        "description": "266 points · 179 comments",
         "image": "",
         "source": "openai.com",
         "stats": ""
@@ -74,57 +124,17 @@
         "description": "Look at the monthly numbers...",
         "image": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
         "source": "regenerator1.com",
-        "stats": "206 points · 240 comments"
-      },
-      {
-        "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-        "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-        "description": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company&#x27;s financials through the first half of the year.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "231 points · 274 comments"
+        "stats": "227 points · 272 comments"
       }
     ],
     "2026-11-01": [
       {
-        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "title": "The AI cost of JavaScript frameworks",
-        "description": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…",
-        "image": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
-        "source": "nolanlawson.com",
-        "stats": "470 points · 389 comments"
-      },
-      {
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-        "description": "&quot;Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.&quot;",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
-        "source": "techcrunch.com",
-        "stats": "243 points · 253 comments"
-      },
-      {
-        "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-        "title": "It wasn't AI that flipped Proton's charge",
-        "description": "Proton",
-        "image": "https://blog.raed.dev/It%20wasn",
-        "source": "blog.raed.dev",
-        "stats": "168 points · 99 comments"
-      },
-      {
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-        "description": "It is hoped game testing can provide insight into recent AI agent headlines, good and bad.",
-        "image": "https://cdn.mos.cms.futurecdn.net/SCYhnjqyKUaWNuCxFpW8m9-1920-80.jpg",
-        "source": "tomshardware.com",
-        "stats": "177 points · 90 comments"
-      },
-      {
-        "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
-        "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
-        "description": "How I built custom MCP integrations and used multiple ChatGPT conversations for software development.",
+        "url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network",
+        "title": "Embedding boolean circuits in a neural network",
+        "description": "Construct AND, OR, and NOT gates with fixed neural weights, then combine them into circuits that read model activations.",
         "image": "",
-        "source": "chaosmanage.github.io",
-        "stats": "91 points · 54 comments"
+        "source": "edwardbenson.com",
+        "stats": "28 points · 7 comments"
       }
     ],
     "2026-10-31": [
@@ -144,7 +154,7 @@
         "description": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up …",
         "image": "https://phorion.io/images/default-social-card.png",
         "source": "phorion.io",
-        "stats": "1008 points · 553 comments"
+        "stats": "1010 points · 553 comments"
       }
     ],
     "2026-10-29": [
@@ -171,24 +181,6 @@
         "image": "https://thedataexchange.media/wp-content/uploads/2026/10/Leo-de-Moura-art.001.jpeg",
         "source": "thedataexchange.media",
         "stats": "217 points · 59 comments"
-      }
-    ],
-    "2026-10-28": [
-      {
-        "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-        "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-        "description": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
-        "image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
-        "source": "wired.com",
-        "stats": "465 points · 303 comments"
-      },
-      {
-        "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-        "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-        "description": "269 points · 54 comments",
-        "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-        "source": "research.google",
-        "stats": ""
       }
     ]
   }
