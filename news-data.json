@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-11-04T08:48:36.074Z",
+  "lastUpdated": "2026-11-05T09:12:15.616Z",
   "days": {
-    "2026-11-04": [
-      {
-        "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-        "title": "AI stocks slide as Texas governor result raises data center risks",
-        "description": "Tech stocks were down in overnight trading, and grew more severe as the night wore on, as the likelihood of a blue wave grew.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108511091-1793714895762-gettyimages-2302880756-US_MIDTERMS.jpeg?v=1793714928&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "15 points · 5 comments"
-      },
-      {
-        "url": "https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393",
-        "title": "Did Claude Help an Amateur Astronomer Discover a New Planet?",
-        "description": "4 points · 1 comments",
-        "image": "",
-        "source": "gizmodo.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/",
-        "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
-        "description": "In 2021, IKEA had a customer service problem that it couldn’t automate away. While some callers were asking about delivery times or return policies,",
-        "image": "https://www.pymnts.com/wp-content/uploads/2022/05/Ikea.jpg",
-        "source": "pymnts.com",
-        "stats": "11 points · 0 comments"
-      },
+    "2026-11-05": [
       {
         "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
         "title": "You'll need nerves of steel to work with AI agents",
         "description": "This post will focus mainly on Composer 2.5 in Cursor. These problems may not be present in opus-5.5 or gpt-6.1-sol-pro-max-ultra-thinking-fast. But gpt-6.1-luna, for example, has all the problems listed here. I’ve also encountered many of these problems before in gpt-5.5 and opus-4.6. I",
         "image": "https://orchidfiles.com/content/images/2026/03/avatar-1.png",
         "source": "orchidfiles.com",
-        "stats": "5 points · 0 comments"
+        "stats": "48 points · 67 comments"
       },
       {
-        "url": "https://www.anthropic.com/research/provable-inference",
-        "title": "Anthropic: Progress on provable inference for large language models",
-        "description": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
-        "source": "anthropic.com",
-        "stats": "3 points · 2 comments"
+        "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+        "title": "American Voters Overwhelmingly Reject AI Data Centers",
+        "description": "Data centers were on the ballot in dozens of races last night. They lost most of them.",
+        "image": "https://images.unsplash.com/photo-1715026323215-a2dbb71272f6?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDV8fGRhdGElMjBjZW50ZXJ8ZW58MHx8fHwxNzkzODE1MDQwfDA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+        "source": "404media.co",
+        "stats": "47 points · 2 comments"
+      },
+      {
+        "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+        "title": "GPT-6 Astra covertly underperforms on safety research",
+        "description": "Research on aligning AI with human values and intent, and reports documenting model failures.",
+        "image": "",
+        "source": "alignment.openai.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50376478",
+        "title": "Ask HN: What are the fundamentals of agentic coding?",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+        "title": "Big Tech claims voters' AI backlash is \"anti-Trump\" not \"anti-tech\"",
+        "description": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "5 points · 4 comments"
+      }
+    ],
+    "2026-11-04": [
+      {
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "description": "AI is forcing us to pay off 40 years of technical debt",
+        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+        "source": "spectrum.ieee.org",
+        "stats": "1176 points · 684 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50363461",
+        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+        "description": "666 points · 171 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+        "description": "A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins.",
+        "image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/0d8c9668-cbfe-4ecf-bb31-1a7fff7102be.png?fm=auto&amp;w=1200&amp;h=630&amp;fit=crop",
+        "source": "mindstudio.ai",
+        "stats": "600 points · 278 comments"
+      },
+      {
+        "url": "https://www.ricursive.com/ripple",
+        "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "description": "We develop frontier AI methods to reinvent chip development, collapsing traditional design timelines, closing the loop between AI and the hardware that fuels it, and enabling a Cambrian explosion of custom silicon.",
+        "image": "https://framerusercontent.com/images/u4OXzV0utwAtaPgcVxQtTXmkg.png",
+        "source": "ricursive.com",
+        "stats": "288 points · 103 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50366117",
+        "title": "Ask HN: What's your current AI agentic setup?",
+        "description": "314 points · 332 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-11-03": [
@@ -48,14 +90,14 @@
         "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
         "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
         "description": "Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...",
-        "image": "https://opengraph.githubassets.com/eee0ed5be837502e91b6f5a4c49b5840d7418a5f39e3c513f56b242374cf4ce6/postmanlabs/postman-app-support/issues/14370",
+        "image": "https://opengraph.githubassets.com/7659317116c41c24a47e2f65ebdaa8c001e3adbb6eec3efd262dc6941b42ba70/postmanlabs/postman-app-support/issues/14370",
         "source": "github.com",
-        "stats": "1246 points · 410 comments"
+        "stats": "1495 points · 485 comments"
       },
       {
         "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
         "title": "Google will turn off search for schools that reject AI",
-        "description": "609 points · 429 comments",
+        "description": "666 points · 460 comments",
         "image": "",
         "source": "nytimes.com",
         "stats": ""
@@ -63,7 +105,7 @@
       {
         "url": "https://news.ycombinator.com/item?id=50352757",
         "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-        "description": "474 points · 144 comments",
+        "description": "519 points · 155 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -74,7 +116,7 @@
         "description": "Google, Meta, others&#x27; commitments and obligations reach 80% of assets",
         "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F4%2F13394319-2-eng-GB%2Faad3b104a912-photo_SXM2026103100004660.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
         "source": "asia.nikkei.com",
-        "stats": "345 points · 143 comments"
+        "stats": "412 points · 167 comments"
       },
       {
         "url": "https://arxiv.org/abs/2605.29713",
@@ -82,49 +124,33 @@
         "description": "This book provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. Rather than surveying every recent architecture or implementation detail, it develops a coherent route through the ideas connecting major families of generative models, from PCA, probabilistic PCA, variational autoencoders, and diffusion models to normalising flows, autoregressive factorisations, GANs, Wasserstein GANs, and energy-based models. The aim is to make the structure of generative modelling more accessible without removing the mathematical substance needed to understand how these models are derived and related. The book is intended as a foundation-building primer for mathematically curious researchers, practitioners, and students.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "331 points · 51 comments"
+        "stats": "384 points · 60 comments"
       }
     ],
     "2026-11-02": [
-      {
-        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-        "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-        "description": "If Anthropic goes public, workers, retail investors, and retirees will be left holding the bag when its bills come due, writes Matt Scherer.",
-        "image": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
-        "source": "techpolicy.press",
-        "stats": "398 points · 316 comments"
-      },
-      {
-        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-        "description": "Anthropic&#x27;s IPO filing reveals a striking milestone: Its internal AI usage is now valued above employee compensation.",
-        "image": "https://i.insider.com/6ae5023ed8cc18cf7950fbe3?width=1200&format=jpeg",
-        "source": "businessinsider.com",
-        "stats": "351 points · 269 comments"
-      },
       {
         "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
         "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
         "description": "Low costs and offline security mean magnetic tape still has a job.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-2560x1440.jpg",
         "source": "arstechnica.com",
-        "stats": "463 points · 192 comments"
+        "stats": "530 points · 228 comments"
       },
       {
-        "url": "https://openai.com/index/scaling-git-at-openai/",
-        "title": "Scaling Git at OpenAI",
-        "description": "266 points · 179 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "url": "https://momentic.ai/",
+        "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+        "description": "Mo is Momentic",
+        "image": "https://momentic.ai/images/og/home.png",
+        "source": "momentic.ai",
+        "stats": "165 points · 130 comments"
       },
       {
-        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-        "title": "Anthropic's growth just flattened",
-        "description": "Look at the monthly numbers...",
-        "image": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
-        "source": "regenerator1.com",
-        "stats": "227 points · 272 comments"
+        "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+        "title": "Basically no one is using AI agents for their DoorDash orders",
+        "description": "But it&#039;s still early days for the relatively new e-commerce use case.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
+        "source": "arstechnica.com",
+        "stats": "133 points · 244 comments"
       }
     ],
     "2026-11-01": [
@@ -155,32 +181,6 @@
         "image": "https://phorion.io/images/default-social-card.png",
         "source": "phorion.io",
         "stats": "1010 points · 553 comments"
-      }
-    ],
-    "2026-10-29": [
-      {
-        "url": "https://mistral.ai/news/mistral-large-4-oss/",
-        "title": "We're releasing the weights of Mistral Large 4",
-        "description": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
-        "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
-        "source": "mistral.ai",
-        "stats": "1726 points · 440 comments"
-      },
-      {
-        "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "description": "421 points · 174 comments",
-        "image": "",
-        "source": "labs.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-        "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-        "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • &hellip; More",
-        "image": "https://thedataexchange.media/wp-content/uploads/2026/10/Leo-de-Moura-art.001.jpeg",
-        "source": "thedataexchange.media",
-        "stats": "217 points · 59 comments"
       }
     ]
   }
