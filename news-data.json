@@ -1,22 +1,64 @@
 {
-  "lastUpdated": "2026-11-05T09:12:15.616Z",
+  "lastUpdated": "2026-11-06T09:03:31.329Z",
   "days": {
-    "2026-11-05": [
+    "2026-11-06": [
       {
-        "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-        "title": "You'll need nerves of steel to work with AI agents",
-        "description": "This post will focus mainly on Composer 2.5 in Cursor. These problems may not be present in opus-5.5 or gpt-6.1-sol-pro-max-ultra-thinking-fast. But gpt-6.1-luna, for example, has all the problems listed here. I’ve also encountered many of these problems before in gpt-5.5 and opus-4.6. I",
-        "image": "https://orchidfiles.com/content/images/2026/03/avatar-1.png",
-        "source": "orchidfiles.com",
-        "stats": "48 points · 67 comments"
+        "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+        "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+        "description": "82 points · 94 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
       },
       {
-        "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
-        "title": "American Voters Overwhelmingly Reject AI Data Centers",
-        "description": "Data centers were on the ballot in dozens of races last night. They lost most of them.",
-        "image": "https://images.unsplash.com/photo-1715026323215-a2dbb71272f6?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDV8fGRhdGElMjBjZW50ZXJ8ZW58MHx8fHwxNzkzODE1MDQwfDA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
-        "source": "404media.co",
-        "stats": "47 points · 2 comments"
+        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "title": "I struggle to believe that AI R&D is ingenious",
+        "description": "Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&amp;D is so ingenious. I have been monitoring a few side projects:\n\n 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn&#x27;t beat the strongest human player)\n 2. Building a bot to play Ultimate Tic-Tac-Toe\n 3. Researching philosophy and formalizing some proofs for the AI Philosophy contest\n\nIn all of these cases, the model&#x27;s judgment is just very poor in a basic way. For example:\n\n 1. When reviewing literature, it fails to identify the specific papers or blog posts that are obviously the most important and useful.\n 2. It will conduct experiments that have no information value because the amount of training data used was obviously too small to distinguish the architectures to be compared.\n 3. In the philosophy project, where it built a wiki over many tokens and investigations, it kept going down directions which were extremely trivial and had little value.\n 4. For Ultimate Tic-Tac-Toe, I saw a very clever idea in a blog post that I doubt Astra would ever have come up with; it actually located the blog post but didn&#x27;t realize its importance or relevance (which could be discerned easily from his strong performance in an online arena and the recency of the post) over papers from previous years that are obviously less relevant.\n\nI judged an Apart hackathon last weekend and reviewed eight papers, all of which scored between 60% and 95% on Pangram. Predictably, the papers were often very similar to each other, and kind of methodologically incomplete in a vague but similar way, where they seem to overlook the most straightforward analysis.\n\n----------------------------------------\n\nMaybe the important exception is certain hill-climbing tasks with fast feedback loops. For example, I improved the SOTA on &quot;listing all legal Scrabble moves&quot; by 10x just by prompting Astra over and over to try harder, to aim for &lt;specific performance level&gt;, to &quot;systematically try every me",
+        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+        "source": "lesswrong.com",
+        "stats": "69 points · 51 comments"
+      },
+      {
+        "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+        "title": "Closed AI models dominate the price-performance frontier",
+        "description": "At almost every budget, the best AI model you can buy is closed. An open-weight model wins at just 3% of price points, down from 41% in June.",
+        "image": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/og-d86847dd67737c6e.png",
+        "source": "village.dev",
+        "stats": "72 points · 57 comments"
+      },
+      {
+        "url": "https://github.com/dsx-ai-factory/nvke",
+        "title": "Nvidia Kubernetes Engine (NVKE)",
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. - dsx-ai-factory/nvke",
+        "image": "https://opengraph.githubassets.com/eab610af008353cd42571f4b2d99f551b515ebd370ddd672e3caad69110b5fdc/dsx-ai-factory/nvke",
+        "source": "github.com",
+        "stats": "73 points · 19 comments"
+      },
+      {
+        "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+        "title": "Hugging Face's CEO Says His P(Doom) Is 'Close to Zero'",
+        "description": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+        "image": "https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg",
+        "source": "wired.com",
+        "stats": "23 points · 3 comments"
+      }
+    ],
+    "2026-11-05": [
+      {
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "title": "Claude Code sends your email address to websites",
+        "description": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm...",
+        "image": "https://opengraph.githubassets.com/51fdfe242547fb6528d6dde3696dc4770f0de6994cbe19466c693e568a47664f/anthropics/claude-code/issues/107757",
+        "source": "github.com",
+        "stats": "1073 points · 334 comments"
+      },
+      {
+        "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+        "description": "309 points · 143 comments",
+        "image": "",
+        "source": "finance.yahoo.com",
+        "stats": ""
       },
       {
         "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
@@ -24,23 +66,23 @@
         "description": "Research on aligning AI with human values and intent, and reports documenting model failures.",
         "image": "",
         "source": "alignment.openai.com",
-        "stats": "5 points · 1 comments"
+        "stats": "323 points · 178 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=50376478",
-        "title": "Ask HN: What are the fundamentals of agentic coding?",
-        "description": "4 points · 0 comments",
+        "url": "https://mcp-explained.com/",
+        "title": "MCP Explained",
+        "description": "Every MCP message on the wire, step by step. Transports, auth, tools, sampling, tasks, tool search and codemode. By Runlayer.",
+        "image": "https://mcp-explained.com/og.png",
+        "source": "mcp-explained.com",
+        "stats": "294 points · 123 comments"
+      },
+      {
+        "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+        "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+        "description": "205 points · 60 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "euronews.com",
         "stats": ""
-      },
-      {
-        "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-        "title": "Big Tech claims voters' AI backlash is \"anti-Trump\" not \"anti-tech\"",
-        "description": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "5 points · 4 comments"
       }
     ],
     "2026-11-04": [
@@ -50,12 +92,20 @@
         "description": "AI is forcing us to pay off 40 years of technical debt",
         "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
         "source": "spectrum.ieee.org",
-        "stats": "1176 points · 684 comments"
+        "stats": "1274 points · 743 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=50363461",
         "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "description": "666 points · 171 comments",
+        "description": "715 points · 190 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50366117",
+        "title": "Ask HN: What's your current AI agentic setup?",
+        "description": "520 points · 645 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -66,7 +116,7 @@
         "description": "A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins.",
         "image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/0d8c9668-cbfe-4ecf-bb31-1a7fff7102be.png?fm=auto&amp;w=1200&amp;h=630&amp;fit=crop",
         "source": "mindstudio.ai",
-        "stats": "600 points · 278 comments"
+        "stats": "612 points · 287 comments"
       },
       {
         "url": "https://www.ricursive.com/ripple",
@@ -74,15 +124,7 @@
         "description": "We develop frontier AI methods to reinvent chip development, collapsing traditional design timelines, closing the loop between AI and the hardware that fuels it, and enabling a Cambrian explosion of custom silicon.",
         "image": "https://framerusercontent.com/images/u4OXzV0utwAtaPgcVxQtTXmkg.png",
         "source": "ricursive.com",
-        "stats": "288 points · 103 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50366117",
-        "title": "Ask HN: What's your current AI agentic setup?",
-        "description": "314 points · 332 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "334 points · 125 comments"
       }
     ],
     "2026-11-03": [
@@ -134,15 +176,7 @@
         "description": "Low costs and offline security mean magnetic tape still has a job.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-2560x1440.jpg",
         "source": "arstechnica.com",
-        "stats": "530 points · 228 comments"
-      },
-      {
-        "url": "https://momentic.ai/",
-        "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-        "description": "Mo is Momentic",
-        "image": "https://momentic.ai/images/og/home.png",
-        "source": "momentic.ai",
-        "stats": "165 points · 130 comments"
+        "stats": "536 points · 232 comments"
       },
       {
         "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
@@ -150,7 +184,7 @@
         "description": "But it&#039;s still early days for the relatively new e-commerce use case.",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
         "source": "arstechnica.com",
-        "stats": "133 points · 244 comments"
+        "stats": "174 points · 327 comments"
       }
     ],
     "2026-11-01": [
@@ -171,16 +205,6 @@
         "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
         "source": "twitter.com",
         "stats": "490 points · 269 comments"
-      }
-    ],
-    "2026-10-30": [
-      {
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "description": "Phorion has detected a backdoor in the official Claude Code for VS Code extension bundle on the Cursor Marketplace that drops a persistent SSH backdoor across macOS, Linux, and Windows. This write-up …",
-        "image": "https://phorion.io/images/default-social-card.png",
-        "source": "phorion.io",
-        "stats": "1010 points · 553 comments"
       }
     ]
   }
