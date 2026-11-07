@@ -1,14 +1,80 @@
 {
-  "lastUpdated": "2026-11-06T09:03:31.329Z",
+  "lastUpdated": "2026-11-07T08:31:11.565Z",
   "days": {
+    "2026-11-07": [
+      {
+        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+        "title": "The AI sell-off compared to well-known stock market crashes",
+        "description": "The S&amp;P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.",
+        "image": "https://www.kadoa.com/companies/og/insights/ai-selloff-perspective.png",
+        "source": "kadoa.com",
+        "stats": "60 points · 56 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/research/components-of-agent-memory",
+        "title": "The Components of Agent Memory",
+        "description": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6ab2663a2c0bd6a41409d90136a59a5d72995ea5-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "15 points · 4 comments"
+      },
+      {
+        "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
+        "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
+        "description": "The New York Times says Brave copied 30 billion pages and sold them to AI companies. Your website is probably in that index.",
+        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/brave-search-123.png",
+        "source": "searchenginejournal.com",
+        "stats": "13 points · 2 comments"
+      },
+      {
+        "url": "https://shubhampatil.dev/blog/gpt2-css",
+        "title": "Implementing GPT-2 in CSS",
+        "description": "How I got GPT-2 small to run in a stylesheet (and a whole lot of fonts), with zero JavaScript.",
+        "image": "https://shubhampatil.dev/blog/gpt2-css/og-sky.jpg",
+        "source": "shubhampatil.dev",
+        "stats": "10 points · 2 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790",
+        "title": "US believes Nvidia's Huang had romantic relationship with alleged Chinese spy",
+        "description": "8 points · 0 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      }
+    ],
     "2026-11-06": [
       {
-        "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
-        "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
-        "description": "82 points · 94 comments",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "title": "Gemini Omni 1.2 Flash",
+        "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+        "source": "blog.google",
+        "stats": "325 points · 227 comments"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+        "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+        "description": "274 points · 544 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "bloomberg.com",
         "stats": ""
+      },
+      {
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "title": "AI is dramatically accelerating AI research",
+        "description": "If acceleration compounds, the naive extrapolation implies superintelligence within a year",
+        "image": "https://substackcdn.com/image/fetch/$s_!u_X_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd74ff70-df26-4e1a-be31-4fc3543bada8_2048x1072.png",
+        "source": "planned-obsolescence.org",
+        "stats": "285 points · 222 comments"
+      },
+      {
+        "url": "https://github.com/anomalyco/rune",
+        "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+        "description": "Rune: Native UI framework. Contribute to anomalyco/rune development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/c8d94035629632004b3f8057cfd42366147cdb78d560ceddc4e5e73e22345e83/anomalyco/rune",
+        "source": "github.com",
+        "stats": "165 points · 118 comments"
       },
       {
         "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
@@ -16,31 +82,7 @@
         "description": "Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&amp;D is so ingenious. I have been monitoring a few side projects:\n\n 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn&#x27;t beat the strongest human player)\n 2. Building a bot to play Ultimate Tic-Tac-Toe\n 3. Researching philosophy and formalizing some proofs for the AI Philosophy contest\n\nIn all of these cases, the model&#x27;s judgment is just very poor in a basic way. For example:\n\n 1. When reviewing literature, it fails to identify the specific papers or blog posts that are obviously the most important and useful.\n 2. It will conduct experiments that have no information value because the amount of training data used was obviously too small to distinguish the architectures to be compared.\n 3. In the philosophy project, where it built a wiki over many tokens and investigations, it kept going down directions which were extremely trivial and had little value.\n 4. For Ultimate Tic-Tac-Toe, I saw a very clever idea in a blog post that I doubt Astra would ever have come up with; it actually located the blog post but didn&#x27;t realize its importance or relevance (which could be discerned easily from his strong performance in an online arena and the recency of the post) over papers from previous years that are obviously less relevant.\n\nI judged an Apart hackathon last weekend and reviewed eight papers, all of which scored between 60% and 95% on Pangram. Predictably, the papers were often very similar to each other, and kind of methodologically incomplete in a vague but similar way, where they seem to overlook the most straightforward analysis.\n\n----------------------------------------\n\nMaybe the important exception is certain hill-climbing tasks with fast feedback loops. For example, I improved the SOTA on &quot;listing all legal Scrabble moves&quot; by 10x just by prompting Astra over and over to try harder, to aim for &lt;specific performance level&gt;, to &quot;systematically try every me",
         "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
         "source": "lesswrong.com",
-        "stats": "69 points · 51 comments"
-      },
-      {
-        "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-        "title": "Closed AI models dominate the price-performance frontier",
-        "description": "At almost every budget, the best AI model you can buy is closed. An open-weight model wins at just 3% of price points, down from 41% in June.",
-        "image": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/og-d86847dd67737c6e.png",
-        "source": "village.dev",
-        "stats": "72 points · 57 comments"
-      },
-      {
-        "url": "https://github.com/dsx-ai-factory/nvke",
-        "title": "Nvidia Kubernetes Engine (NVKE)",
-        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. - dsx-ai-factory/nvke",
-        "image": "https://opengraph.githubassets.com/eab610af008353cd42571f4b2d99f551b515ebd370ddd672e3caad69110b5fdc/dsx-ai-factory/nvke",
-        "source": "github.com",
-        "stats": "73 points · 19 comments"
-      },
-      {
-        "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-        "title": "Hugging Face's CEO Says His P(Doom) Is 'Close to Zero'",
-        "description": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-        "image": "https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg",
-        "source": "wired.com",
-        "stats": "23 points · 3 comments"
+        "stats": "196 points · 198 comments"
       }
     ],
     "2026-11-05": [
@@ -48,14 +90,14 @@
         "url": "https://github.com/anthropics/claude-code/issues/107757",
         "title": "Claude Code sends your email address to websites",
         "description": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm...",
-        "image": "https://opengraph.githubassets.com/51fdfe242547fb6528d6dde3696dc4770f0de6994cbe19466c693e568a47664f/anthropics/claude-code/issues/107757",
+        "image": "https://opengraph.githubassets.com/a1e1cf6dc1373eafedfa385a39115fdbd27a2c4549702085c01f2a277b26a415/anthropics/claude-code/issues/107757",
         "source": "github.com",
-        "stats": "1073 points · 334 comments"
+        "stats": "1569 points · 502 comments"
       },
       {
         "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
         "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-        "description": "309 points · 143 comments",
+        "description": "506 points · 224 comments",
         "image": "",
         "source": "finance.yahoo.com",
         "stats": ""
@@ -66,7 +108,7 @@
         "description": "Research on aligning AI with human values and intent, and reports documenting model failures.",
         "image": "",
         "source": "alignment.openai.com",
-        "stats": "323 points · 178 comments"
+        "stats": "341 points · 189 comments"
       },
       {
         "url": "https://mcp-explained.com/",
@@ -74,12 +116,12 @@
         "description": "Every MCP message on the wire, step by step. Transports, auth, tools, sampling, tasks, tool search and codemode. By Runlayer.",
         "image": "https://mcp-explained.com/og.png",
         "source": "mcp-explained.com",
-        "stats": "294 points · 123 comments"
+        "stats": "337 points · 133 comments"
       },
       {
         "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
         "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-        "description": "205 points · 60 comments",
+        "description": "236 points · 67 comments",
         "image": "",
         "source": "euronews.com",
         "stats": ""
@@ -92,20 +134,12 @@
         "description": "AI is forcing us to pay off 40 years of technical debt",
         "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
         "source": "spectrum.ieee.org",
-        "stats": "1274 points · 743 comments"
+        "stats": "1292 points · 748 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=50363461",
         "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "description": "715 points · 190 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50366117",
-        "title": "Ask HN: What's your current AI agentic setup?",
-        "description": "520 points · 645 comments",
+        "description": "725 points · 198 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -116,57 +150,33 @@
         "description": "A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins.",
         "image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/0d8c9668-cbfe-4ecf-bb31-1a7fff7102be.png?fm=auto&amp;w=1200&amp;h=630&amp;fit=crop",
         "source": "mindstudio.ai",
-        "stats": "612 points · 287 comments"
+        "stats": "614 points · 289 comments"
       },
       {
-        "url": "https://www.ricursive.com/ripple",
-        "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-        "description": "We develop frontier AI methods to reinvent chip development, collapsing traditional design timelines, closing the loop between AI and the hardware that fuels it, and enabling a Cambrian explosion of custom silicon.",
-        "image": "https://framerusercontent.com/images/u4OXzV0utwAtaPgcVxQtTXmkg.png",
-        "source": "ricursive.com",
-        "stats": "334 points · 125 comments"
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "description": "2B-Parameter P-JiT (Apache 2.0)",
+        "image": "https://linum.ai/field-notes/pjit-21k/opengraph-image/card?26d65478f85b1e16",
+        "source": "linum.ai",
+        "stats": "274 points · 29 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50368804",
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "description": "111 points · 36 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-11-03": [
       {
-        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-        "description": "Is there an existing issue for this? I have searched the tracker for existing similar issues and I know that duplicates will be closed Describe the Issue Opening Postman on my Mac was followed by u...",
-        "image": "https://opengraph.githubassets.com/7659317116c41c24a47e2f65ebdaa8c001e3adbb6eec3efd262dc6941b42ba70/postmanlabs/postman-app-support/issues/14370",
+        "url": "https://github.com/andrewboldi/tmux-restore",
+        "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+        "description": "Reboot-proof tmux: every session, layout and scrollback comes back, and Claude Code, Codex, Gemini CLI, opencode and pi reopen the conversations they were in. - andrewboldi/tmux-restore",
+        "image": "https://opengraph.githubassets.com/db221078c279ac98f5fda876266a64bed87b3822df7ca21701e16ace287641a3/andrewboldi/tmux-restore",
         "source": "github.com",
-        "stats": "1495 points · 485 comments"
-      },
-      {
-        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-        "title": "Google will turn off search for schools that reject AI",
-        "description": "666 points · 460 comments",
-        "image": "",
-        "source": "nytimes.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50352757",
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-        "description": "519 points · 155 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-        "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-        "description": "Google, Meta, others&#x27; commitments and obligations reach 80% of assets",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F4%2F13394319-2-eng-GB%2Faad3b104a912-photo_SXM2026103100004660.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
-        "source": "asia.nikkei.com",
-        "stats": "412 points · 167 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2605.29713",
-        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-        "description": "This book provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. Rather than surveying every recent architecture or implementation detail, it develops a coherent route through the ideas connecting major families of generative models, from PCA, probabilistic PCA, variational autoencoders, and diffusion models to normalising flows, autoregressive factorisations, GANs, Wasserstein GANs, and energy-based models. The aim is to make the structure of generative modelling more accessible without removing the mathematical substance needed to understand how these models are derived and related. The book is intended as a foundation-building primer for mathematically curious researchers, practitioners, and students.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "384 points · 60 comments"
+        "stats": "30 points · 13 comments"
       }
     ],
     "2026-11-02": [
@@ -195,16 +205,6 @@
         "image": "",
         "source": "edwardbenson.com",
         "stats": "28 points · 7 comments"
-      }
-    ],
-    "2026-10-31": [
-      {
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "title": "Anthropic blocks users for anything touching training larger models",
-        "description": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for &quot;training a competitor,&quot; and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
-        "image": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "490 points · 269 comments"
       }
     ]
   }
