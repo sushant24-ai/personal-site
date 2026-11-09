@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-11-08T08:46:50.996Z",
+  "lastUpdated": "2026-11-09T09:24:43.726Z",
   "days": {
+    "2026-11-09": [
+      {
+        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+        "title": "Apple capped engineers at a $200 daily AI budget",
+        "description": "The world&#x27;s richest company is suddenly rationing compute for its own builders.",
+        "image": "https://expert-egret-407.convex.cloud/api/storage/302186b8-d1df-4ba5-b340-4c55f62f94dc",
+        "source": "stork.ai",
+        "stats": "86 points · 89 comments"
+      },
+      {
+        "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+        "title": "Being a meat proxy for AI should be grounds for getting people fired",
+        "description": "Devs intentionally using AI as a way to escape responsibility for the code they push is destroying software engineering and should be punished.",
+        "image": "https://swiftrocks.com/images/thumbs/thumb_dark.jpg",
+        "source": "swiftrocks.com",
+        "stats": "39 points · 28 comments"
+      },
+      {
+        "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+        "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+        "description": "Every Asahi Linux repository is moving to GPL v2 or later, after bad actors lifted unreleased code and ran it through LLMs to hide where it came from.",
+        "image": "https://itsfoss.com/content/images/2026/11/asahi-linux-gpl.png",
+        "source": "itsfoss.com",
+        "stats": "32 points · 16 comments"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+        "title": "Anthropic IPO meets AI backlash",
+        "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&amp;w=1920&amp;h=1080",
+        "source": "cnbc.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50422628",
+        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+        "description": "4 points · 1 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
     "2026-11-08": [
       {
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "description": "In July, Goldman",
+        "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
+        "source": "thestateofai.com",
+        "stats": "763 points · 408 comments"
+      },
+      {
+        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "description": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my ...",
+        "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
+        "source": "nvidianews.nvidia.com",
+        "stats": "649 points · 686 comments"
+      },
+      {
         "url": "https://caleb.software/posts/claude-to-pi.html",
-        "title": "Goodbye Claude, Hello Pi",
-        "description": "239 points · 140 comments",
+        "title": "Goodbye Claude, hello Pi",
+        "description": "758 points · 467 comments",
         "image": "",
         "source": "caleb.software",
         "stats": ""
       },
       {
-        "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
-        "title": "6th-grade Peano arithmetic broke OpenAI's $100B Yang-Mills mass gap proof",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "github.com",
-        "stats": ""
+        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+        "title": "Statement from Nvidia board of directors",
+        "description": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of ...",
+        "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
+        "source": "nvidianews.nvidia.com",
+        "stats": "466 points · 349 comments"
       },
       {
-        "url": "https://github.com/AmSach/maple",
-        "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-        "description": "7 points · 4 comments",
-        "image": "",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "description": "🐋 Run 284B DeepSeek-V4-Flash (&amp;lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) &amp;amp; 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 &amp;amp; 13ms Claude Code...",
+        "image": "https://opengraph.githubassets.com/612716d4e4676e969b54f4ce376667bf85d42eced0157cf02c6acf78972cf411/synchopate/llama-modchip",
         "source": "github.com",
-        "stats": ""
-      },
-      {
-        "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
-        "title": "Modern LLMs have tiny GPTs hidden inside them",
-        "description": "4 points · 1 comments",
-        "image": "",
-        "source": "invertedpassion.substack.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-        "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-        "description": "6 points · 0 comments",
-        "image": "",
-        "source": "github.com",
-        "stats": ""
+        "stats": "418 points · 188 comments"
       }
     ],
     "2026-11-07": [
       {
         "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
         "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "description": "369 points · 253 comments",
+        "description": "602 points · 408 comments",
         "image": "",
         "source": "apiiro.com",
         "stats": ""
@@ -55,7 +97,7 @@
       {
         "url": "https://hunch.net/?p=13764006",
         "title": "The end of Microsoft Research's AI Frontiers group",
-        "description": "450 points · 270 comments",
+        "description": "502 points · 309 comments",
         "image": "",
         "source": "hunch.net",
         "stats": ""
@@ -66,7 +108,15 @@
         "description": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
         "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6ab2663a2c0bd6a41409d90136a59a5d72995ea5-1200x630.jpg",
         "source": "anthropic.com",
-        "stats": "159 points · 87 comments"
+        "stats": "181 points · 99 comments"
+      },
+      {
+        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+        "title": "The AI sell-off compared to well-known stock market crashes",
+        "description": "The S&amp;P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.",
+        "image": "https://www.kadoa.com/companies/og/insights/ai-selloff-perspective.png",
+        "source": "kadoa.com",
+        "stats": "99 points · 84 comments"
       },
       {
         "url": "https://hunch.net/?p=13764006",
@@ -75,14 +125,6 @@
         "image": "",
         "source": "hunch.net",
         "stats": ""
-      },
-      {
-        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-        "title": "The AI sell-off compared to well-known stock market crashes",
-        "description": "The S&amp;P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.",
-        "image": "https://www.kadoa.com/companies/og/insights/ai-selloff-perspective.png",
-        "source": "kadoa.com",
-        "stats": "91 points · 75 comments"
       }
     ],
     "2026-11-06": [
@@ -92,23 +134,7 @@
         "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
         "source": "blog.google",
-        "stats": "362 points · 250 comments"
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-        "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-        "description": "317 points · 617 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-        "title": "AI is dramatically accelerating AI research",
-        "description": "If acceleration compounds, the naive extrapolation implies superintelligence within a year",
-        "image": "https://substackcdn.com/image/fetch/$s_!u_X_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd74ff70-df26-4e1a-be31-4fc3543bada8_2048x1072.png",
-        "source": "planned-obsolescence.org",
-        "stats": "365 points · 348 comments"
+        "stats": "368 points · 253 comments"
       },
       {
         "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
@@ -116,15 +142,15 @@
         "description": "Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&amp;D is so ingenious. I have been monitoring a few side projects:\n\n 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn&#x27;t beat the strongest human player)\n 2. Building a bot to play Ultimate Tic-Tac-Toe\n 3. Researching philosophy and formalizing some proofs for the AI Philosophy contest\n\nIn all of these cases, the model&#x27;s judgment is just very poor in a basic way. For example:\n\n 1. When reviewing literature, it fails to identify the specific papers or blog posts that are obviously the most important and useful.\n 2. It will conduct experiments that have no information value because the amount of training data used was obviously too small to distinguish the architectures to be compared.\n 3. In the philosophy project, where it built a wiki over many tokens and investigations, it kept going down directions which were extremely trivial and had little value.\n 4. For Ultimate Tic-Tac-Toe, I saw a very clever idea in a blog post that I doubt Astra would ever have come up with; it actually located the blog post but didn&#x27;t realize its importance or relevance (which could be discerned easily from his strong performance in an online arena and the recency of the post) over papers from previous years that are obviously less relevant.\n\nI judged an Apart hackathon last weekend and reviewed eight papers, all of which scored between 60% and 95% on Pangram. Predictably, the papers were often very similar to each other, and kind of methodologically incomplete in a vague but similar way, where they seem to overlook the most straightforward analysis.\n\n----------------------------------------\n\nMaybe the important exception is certain hill-climbing tasks with fast feedback loops. For example, I improved the SOTA on &quot;listing all legal Scrabble moves&quot; by 10x just by prompting Astra over and over to try harder, to aim for &lt;specific performance level&gt;, to &quot;systematically try every me",
         "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
         "source": "lesswrong.com",
-        "stats": "219 points · 217 comments"
+        "stats": "220 points · 220 comments"
       },
       {
-        "url": "https://github.com/anomalyco/rune",
-        "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-        "description": "177 points · 130 comments",
-        "image": "",
-        "source": "github.com",
-        "stats": ""
+        "url": "https://up.codes/careers?utm_source=HN",
+        "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+        "description": "We’re looking for talented and motivated people who can help us build easy-to-use compliance and product research tools. Learn about our culture and explore open positions.",
+        "image": "https://up.codes/img/upcodes-og-twitter-image.png",
+        "source": "up.codes",
+        "stats": "1 points · 0 comments"
       }
     ],
     "2026-11-05": [
@@ -132,33 +158,17 @@
         "url": "https://github.com/anthropics/claude-code/issues/107757",
         "title": "Claude Code sends your email address to websites",
         "description": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm...",
-        "image": "https://opengraph.githubassets.com/8bc18a3ad30c4512405894405cae9885b7ef3dfcf18ffb4d619cef8f7b0480d6/anthropics/claude-code/issues/107757",
+        "image": "https://opengraph.githubassets.com/478a1ffe51ae6d0629b8f56642ca0818f30e45ae2ff38411433a8e487c1064a4/anthropics/claude-code/issues/107757",
         "source": "github.com",
-        "stats": "1596 points · 521 comments"
-      },
-      {
-        "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-        "description": "515 points · 229 comments",
-        "image": "",
-        "source": "finance.yahoo.com",
-        "stats": ""
-      },
-      {
-        "url": "https://mcp-explained.com/",
-        "title": "MCP Explained",
-        "description": "Every MCP message on the wire, step by step. Transports, auth, tools, sampling, tasks, tool search and codemode. By Runlayer.",
-        "image": "https://mcp-explained.com/og.png",
-        "source": "mcp-explained.com",
-        "stats": "343 points · 135 comments"
+        "stats": "1606 points · 533 comments"
       },
       {
         "url": "https://github.com/rivet-dev/rivet",
         "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-        "description": "120 points · 59 comments",
-        "image": "",
+        "description": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. - rivet-dev/rivet",
+        "image": "https://repository-images.githubusercontent.com/654560183/d4b2fdae-1a15-4420-a2a3-17256a51ae24",
         "source": "github.com",
-        "stats": ""
+        "stats": "120 points · 59 comments"
       }
     ],
     "2026-11-04": [
@@ -168,15 +178,7 @@
         "description": "AI is forcing us to pay off 40 years of technical debt",
         "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
         "source": "spectrum.ieee.org",
-        "stats": "1298 points · 749 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50368804",
-        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-        "description": "111 points · 36 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "1305 points · 749 comments"
       }
     ],
     "2026-11-03": [
@@ -187,24 +189,6 @@
         "image": "",
         "source": "github.com",
         "stats": ""
-      }
-    ],
-    "2026-11-02": [
-      {
-        "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-        "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-        "description": "Low costs and offline security mean magnetic tape still has a job.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-2560x1440.jpg",
-        "source": "arstechnica.com",
-        "stats": "536 points · 232 comments"
-      },
-      {
-        "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-        "title": "Basically no one is using AI agents for their DoorDash orders",
-        "description": "But it&#039;s still early days for the relatively new e-commerce use case.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
-        "source": "arstechnica.com",
-        "stats": "174 points · 327 comments"
       }
     ]
   }
