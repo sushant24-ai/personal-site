@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-11-09T09:24:43.726Z",
+  "lastUpdated": "2026-11-10T09:29:05.268Z",
   "days": {
-    "2026-11-09": [
+    "2026-11-10": [
       {
-        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
-        "title": "Apple capped engineers at a $200 daily AI budget",
-        "description": "The world&#x27;s richest company is suddenly rationing compute for its own builders.",
-        "image": "https://expert-egret-407.convex.cloud/api/storage/302186b8-d1df-4ba5-b340-4c55f62f94dc",
-        "source": "stork.ai",
-        "stats": "86 points · 89 comments"
-      },
-      {
-        "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
-        "title": "Being a meat proxy for AI should be grounds for getting people fired",
-        "description": "Devs intentionally using AI as a way to escape responsibility for the code they push is destroying software engineering and should be punished.",
-        "image": "https://swiftrocks.com/images/thumbs/thumb_dark.jpg",
-        "source": "swiftrocks.com",
-        "stats": "39 points · 28 comments"
-      },
-      {
-        "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
-        "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-        "description": "Every Asahi Linux repository is moving to GPL v2 or later, after bad actors lifted unreleased code and ran it through LLMs to hide where it came from.",
-        "image": "https://itsfoss.com/content/images/2026/11/asahi-linux-gpl.png",
-        "source": "itsfoss.com",
-        "stats": "32 points · 16 comments"
-      },
-      {
-        "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-        "title": "Anthropic IPO meets AI backlash",
-        "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&amp;w=1920&amp;h=1080",
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "description": "Coreweave&#x27;s steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "4 points · 0 comments"
+        "stats": "142 points · 102 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=50422628",
-        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-        "description": "4 points · 1 comments",
+        "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+        "title": "Fireworks AI security breach impacts Notion and their customers",
+        "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+        "image": "https://www.notion.com/front-static/meta/help-center.png",
+        "source": "notion.com",
+        "stats": "21 points · 4 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50436636",
+        "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+        "description": "11 points · 1 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50437119",
+        "title": "Question: How to control unit tests in Agentic Pipelines",
+        "description": "4 points · 0 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://twitter.com/ZhihuFrontier/status/2117541464158921136",
+        "title": "GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, with no backpropagation",
+        "description": "GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, with no backpropagation.\nMATH-500 accuracy went from 7.9% to 48.1%. Zhihu contributor 白露未晞me reconstructs how, from the logs and repo.\nThe jump is real but narrower than the headline: 576 of the 579 repaired answers had been cut off at the token l…",
+        "image": "https://pbs.twimg.com/media/HWMERHwb0AAGuic?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "3 points · 0 comments"
+      }
+    ],
+    "2026-11-09": [
+      {
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "976 points · 6 comments"
+      },
+      {
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
+        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+        "source": "anthropic.com",
+        "stats": "567 points · 785 comments"
+      },
+      {
+        "url": "https://github.com/thisisme6598/gemini_files/",
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "description": "Documentation of Gemini File Leaking Behavior. Contribute to thisisme6598/gemini_files development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/de43380e8c5d7f28064572f59e87c9cf4a75a0da33f0cd367ea953d68e63c4b4/thisisme6598/gemini_files",
+        "source": "github.com",
+        "stats": "591 points · 128 comments"
+      },
+      {
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+        "description": "Analysis of Anthropic&#x27;s Claude Fable 5.2 (Max, Default Fallback) and comparison to other AI models across key metrics including quality, price, performance (time per Intelligence Index task &amp; time to first answer token), context window &amp; more.",
+        "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
+        "source": "artificialanalysis.ai",
+        "stats": "344 points · 245 comments"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "title": "TPU 8tx and TPU 8i Max",
+        "description": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.width-1300.png",
+        "source": "blog.google",
+        "stats": "249 points · 75 comments"
       }
     ],
     "2026-11-08": [
@@ -50,7 +92,7 @@
         "description": "In July, Goldman",
         "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
         "source": "thestateofai.com",
-        "stats": "763 points · 408 comments"
+        "stats": "889 points · 482 comments"
       },
       {
         "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
@@ -58,99 +100,75 @@
         "description": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my ...",
         "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
         "source": "nvidianews.nvidia.com",
-        "stats": "649 points · 686 comments"
+        "stats": "958 points · 1238 comments"
       },
       {
         "url": "https://caleb.software/posts/claude-to-pi.html",
         "title": "Goodbye Claude, hello Pi",
-        "description": "758 points · 467 comments",
+        "description": "807 points · 487 comments",
         "image": "",
         "source": "caleb.software",
         "stats": ""
       },
       {
-        "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-        "title": "Statement from Nvidia board of directors",
-        "description": "The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of ...",
-        "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
-        "source": "nvidianews.nvidia.com",
-        "stats": "466 points · 349 comments"
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "title": "I'm not convinced the AI bubble exists",
+        "description": "The AI bubble is a speculative concept that the AI industry is extremely over-valued. If true, the value of most companies involved in AI (several of whom are worth well over a trillion dollars) will collapse, devastating the entire economy. If you check any online discussion about the financial situation …",
+        "image": "https://matteoraso.github.io/images/profile.jpg",
+        "source": "matteoraso.github.io",
+        "stats": "551 points · 946 comments"
       },
       {
         "url": "https://github.com/synchopate/llama-modchip",
         "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
         "description": "🐋 Run 284B DeepSeek-V4-Flash (&amp;lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) &amp;amp; 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 &amp;amp; 13ms Claude Code...",
-        "image": "https://opengraph.githubassets.com/612716d4e4676e969b54f4ce376667bf85d42eced0157cf02c6acf78972cf411/synchopate/llama-modchip",
+        "image": "https://opengraph.githubassets.com/0c5a6a963a1e3cf8829eb02daf947e821fcdcf0ef638fb2b26fcee1a9457c347/synchopate/llama-modchip",
         "source": "github.com",
-        "stats": "418 points · 188 comments"
+        "stats": "480 points · 205 comments"
       }
     ],
     "2026-11-07": [
       {
         "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
         "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "description": "602 points · 408 comments",
+        "description": "623 points · 423 comments",
         "image": "",
         "source": "apiiro.com",
         "stats": ""
       },
       {
-        "url": "https://hunch.net/?p=13764006",
-        "title": "The end of Microsoft Research's AI Frontiers group",
-        "description": "502 points · 309 comments",
+        "url": "https://news.ycombinator.com/item?id=50403153",
+        "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+        "description": "93 points · 51 comments",
         "image": "",
-        "source": "hunch.net",
+        "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://www.anthropic.com/research/components-of-agent-memory",
-        "title": "The Components of Agent Memory",
-        "description": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6ab2663a2c0bd6a41409d90136a59a5d72995ea5-1200x630.jpg",
-        "source": "anthropic.com",
-        "stats": "181 points · 99 comments"
-      },
-      {
-        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-        "title": "The AI sell-off compared to well-known stock market crashes",
-        "description": "The S&amp;P 500 fell 4.4% on 5 Nov 2026, its worst day since April 2025, and is 6% below its 6 Oct record. Charted day by day against 1987, 2008, Covid and other falls since 1950.",
-        "image": "https://www.kadoa.com/companies/og/insights/ai-selloff-perspective.png",
-        "source": "kadoa.com",
-        "stats": "99 points · 84 comments"
-      },
-      {
-        "url": "https://hunch.net/?p=13764006",
-        "title": "The End of AI Frontiers",
-        "description": "81 points · 4 comments",
-        "image": "",
-        "source": "hunch.net",
-        "stats": ""
+        "url": "https://github.com/rkaehn/uniform",
+        "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+        "description": "UI tools for JavaScript and C. Contribute to rkaehn/uniform development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/07818cecc7f94c3f7961293b70623f8bf608df08ace8ca7a1896216a9185d1b0/rkaehn/uniform",
+        "source": "github.com",
+        "stats": "46 points · 22 comments"
       }
     ],
     "2026-11-06": [
       {
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-        "title": "Gemini Omni 1.2 Flash",
-        "description": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-        "source": "blog.google",
-        "stats": "368 points · 253 comments"
+        "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
+        "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
+        "description": "NVIDIA and NVentures were named in 79 of 903 venture rounds of $100M or more from October 2025 to September 2026. Sequoia was in 75 and Andreessen Horowitz in 73. 38% had a corporate investor.",
+        "image": "https://datahyena.com/og/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds.png",
+        "source": "datahyena.com",
+        "stats": "79 points · 68 comments"
       },
       {
-        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-        "title": "I struggle to believe that AI R&D is ingenious",
-        "description": "Comment by Arjun Panickssery - I struggle to believe at an intuitive level that autonomous R&amp;D is so ingenious. I have been monitoring a few side projects:\n\n 1. Building a new SOTA engine for Scrabble (current SOTA is not really a neural-network method and doesn&#x27;t beat the strongest human player)\n 2. Building a bot to play Ultimate Tic-Tac-Toe\n 3. Researching philosophy and formalizing some proofs for the AI Philosophy contest\n\nIn all of these cases, the model&#x27;s judgment is just very poor in a basic way. For example:\n\n 1. When reviewing literature, it fails to identify the specific papers or blog posts that are obviously the most important and useful.\n 2. It will conduct experiments that have no information value because the amount of training data used was obviously too small to distinguish the architectures to be compared.\n 3. In the philosophy project, where it built a wiki over many tokens and investigations, it kept going down directions which were extremely trivial and had little value.\n 4. For Ultimate Tic-Tac-Toe, I saw a very clever idea in a blog post that I doubt Astra would ever have come up with; it actually located the blog post but didn&#x27;t realize its importance or relevance (which could be discerned easily from his strong performance in an online arena and the recency of the post) over papers from previous years that are obviously less relevant.\n\nI judged an Apart hackathon last weekend and reviewed eight papers, all of which scored between 60% and 95% on Pangram. Predictably, the papers were often very similar to each other, and kind of methodologically incomplete in a vague but similar way, where they seem to overlook the most straightforward analysis.\n\n----------------------------------------\n\nMaybe the important exception is certain hill-climbing tasks with fast feedback loops. For example, I improved the SOTA on &quot;listing all legal Scrabble moves&quot; by 10x just by prompting Astra over and over to try harder, to aim for &lt;specific performance level&gt;, to &quot;systematically try every me",
-        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-        "source": "lesswrong.com",
-        "stats": "220 points · 220 comments"
-      },
-      {
-        "url": "https://up.codes/careers?utm_source=HN",
-        "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-        "description": "We’re looking for talented and motivated people who can help us build easy-to-use compliance and product research tools. Learn about our culture and explore open positions.",
-        "image": "https://up.codes/img/upcodes-og-twitter-image.png",
-        "source": "up.codes",
-        "stats": "1 points · 0 comments"
+        "url": "https://www.brendangregg.com/activebenchmarking.html",
+        "title": "Active Benchmarking",
+        "description": "41 points · 2 comments",
+        "image": "",
+        "source": "brendangregg.com",
+        "stats": ""
       }
     ],
     "2026-11-05": [
@@ -179,16 +197,6 @@
         "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
         "source": "spectrum.ieee.org",
         "stats": "1305 points · 749 comments"
-      }
-    ],
-    "2026-11-03": [
-      {
-        "url": "https://github.com/andrewboldi/tmux-restore",
-        "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-        "description": "58 points · 36 comments",
-        "image": "",
-        "source": "github.com",
-        "stats": ""
       }
     ]
   }
