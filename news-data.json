@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-11-10T09:29:05.268Z",
+  "lastUpdated": "2026-11-11T09:00:55.503Z",
   "days": {
+    "2026-11-11": [
+      {
+        "url": "https://tis-100.wincon.dev/",
+        "title": "LLMs Play Zachtronics' TIS-100",
+        "description": "16 LLMs took on TIS-100&#x27;s community leaderboard and found 133 new frontier points on 18 of 55 puzzles, including 3 outright cycle records.",
+        "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
+        "source": "tis-100.wincon.dev",
+        "stats": "60 points · 11 comments"
+      },
+      {
+        "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+        "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+        "description": "54 points · 55 comments",
+        "image": "",
+        "source": "niemanlab.org",
+        "stats": ""
+      },
+      {
+        "url": "https://ai-frontiers.org/articles/the-ai-arms-race-is-not-inevitable-its-just-profitable",
+        "title": "The AI Arms Race Is Not Inevitable. It's Just Profitable",
+        "description": "Garrison Lovely, Oct 01, 2026 — In an excerpt from his new book, Garrison Lovely argues that stopping the AGI race is entirely possible, but business interests stand in the way.",
+        "image": "https://cdn.prod.website-files.com/66e38815e6bc34b7f5e1768b/6abe7b7cca14448ed9f28069_shutterstock_chip_on_money_under_3mb.jpg",
+        "source": "ai-frontiers.org",
+        "stats": "8 points · 0 comments"
+      },
+      {
+        "url": "https://taipeiledger.com/gpu/",
+        "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+        "description": "What one GPU-hour costs to rent, by GPU model and provider, updated daily: B300, B200, H200, H100, A100, L40S and more.",
+        "image": "https://taipeiledger.com/og.png",
+        "source": "taipeiledger.com",
+        "stats": "8 points · 2 comments"
+      },
+      {
+        "url": "https://www.politico.com/news/2026/11/10/nvidia-ceos-spy-scandal-tilts-capitol-hills-chip-fight-01160548",
+        "title": "Nvidia loses ground in Washington chip fight after CEO spy scandal",
+        "description": "4 points · 2 comments",
+        "image": "",
+        "source": "politico.com",
+        "stats": ""
+      }
+    ],
     "2026-11-10": [
       {
-        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-        "description": "Coreweave&#x27;s steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
-        "image": "https://image.cnbcfm.com/api/v1/image/108410034-1792003128025-gettyimages-2245498775-raa-coreweav251110_npfn0.jpeg?v=1792003201&amp;w=1920&amp;h=1080",
-        "source": "cnbc.com",
-        "stats": "142 points · 102 comments"
+        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "title": "Tracking Anthropic-discovered vulnerabilities",
+        "description": "Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed.",
+        "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
+        "source": "vulncheck.com",
+        "stats": "394 points · 187 comments"
       },
       {
-        "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-        "title": "Fireworks AI security breach impacts Notion and their customers",
-        "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
-        "image": "https://www.notion.com/front-static/meta/help-center.png",
-        "source": "notion.com",
-        "stats": "21 points · 4 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50436636",
-        "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
-        "description": "11 points · 1 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+        "title": "AI usage generates a fragile codebase",
+        "description": "527 points · 507 comments",
+        "image": "https://www.evanxmerz.com/images/ai-codebases-are-a-house-of-cards.jpg",
+        "source": "evanxmerz.com",
         "stats": ""
       },
       {
-        "url": "https://news.ycombinator.com/item?id=50437119",
-        "title": "Question: How to control unit tests in Agentic Pipelines",
-        "description": "4 points · 0 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "url": "https://github.com/GoogleChrome/modern-web-guidance",
+        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+        "description": "Keep your coding agent up to date with the latest web best practices - GoogleChrome/modern-web-guidance",
+        "image": "https://opengraph.githubassets.com/fcda953f4fc3c7084b2b1514d20bb5da04108a2519dbfb3a6f54accc775ece64/GoogleChrome/modern-web-guidance",
+        "source": "github.com",
+        "stats": "359 points · 106 comments"
       },
       {
-        "url": "https://twitter.com/ZhihuFrontier/status/2117541464158921136",
-        "title": "GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, with no backpropagation",
-        "description": "GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, with no backpropagation.\nMATH-500 accuracy went from 7.9% to 48.1%. Zhihu contributor 白露未晞me reconstructs how, from the logs and repo.\nThe jump is real but narrower than the headline: 576 of the 579 repaired answers had been cut off at the token l…",
-        "image": "https://pbs.twimg.com/media/HWMERHwb0AAGuic?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "3 points · 0 comments"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+        "title": "Gemini 4 Carbon is now available",
+        "description": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+        "source": "blog.google",
+        "stats": "284 points · 155 comments"
+      },
+      {
+        "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+        "description": "Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans.",
+        "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
+        "source": "claude.com",
+        "stats": "212 points · 150 comments"
       }
     ],
     "2026-11-09": [
@@ -48,25 +90,25 @@
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
         "title": "Claude Fable 5.2 and Mythos 5.2",
         "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+        "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
         "source": "anthropic.com",
-        "stats": "976 points · 6 comments"
+        "stats": "891 points · 1015 comments"
       },
       {
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
         "title": "Claude Fable 5.2 and Mythos 5.2",
         "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-        "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+        "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
         "source": "anthropic.com",
-        "stats": "567 points · 785 comments"
+        "stats": "992 points · 8 comments"
       },
       {
         "url": "https://github.com/thisisme6598/gemini_files/",
         "title": "Google Gemini routes personal Drive files and emails to human annotators",
         "description": "Documentation of Gemini File Leaking Behavior. Contribute to thisisme6598/gemini_files development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/de43380e8c5d7f28064572f59e87c9cf4a75a0da33f0cd367ea953d68e63c4b4/thisisme6598/gemini_files",
+        "image": "https://opengraph.githubassets.com/5cc42967c7a60a3ba3a547e872c0b16b2c6a7e8ad84cadb56e266cd34c9f7a2e/thisisme6598/gemini_files",
         "source": "github.com",
-        "stats": "591 points · 128 comments"
+        "stats": "718 points · 147 comments"
       },
       {
         "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
@@ -74,7 +116,7 @@
         "description": "Analysis of Anthropic&#x27;s Claude Fable 5.2 (Max, Default Fallback) and comparison to other AI models across key metrics including quality, price, performance (time per Intelligence Index task &amp; time to first answer token), context window &amp; more.",
         "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
         "source": "artificialanalysis.ai",
-        "stats": "344 points · 245 comments"
+        "stats": "375 points · 271 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
@@ -82,49 +124,17 @@
         "description": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.width-1300.png",
         "source": "blog.google",
-        "stats": "249 points · 75 comments"
+        "stats": "257 points · 76 comments"
       }
     ],
     "2026-11-08": [
-      {
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "description": "In July, Goldman",
-        "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
-        "source": "thestateofai.com",
-        "stats": "889 points · 482 comments"
-      },
       {
         "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
         "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
         "description": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my ...",
         "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
         "source": "nvidianews.nvidia.com",
-        "stats": "958 points · 1238 comments"
-      },
-      {
-        "url": "https://caleb.software/posts/claude-to-pi.html",
-        "title": "Goodbye Claude, hello Pi",
-        "description": "807 points · 487 comments",
-        "image": "",
-        "source": "caleb.software",
-        "stats": ""
-      },
-      {
-        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-        "title": "I'm not convinced the AI bubble exists",
-        "description": "The AI bubble is a speculative concept that the AI industry is extremely over-valued. If true, the value of most companies involved in AI (several of whom are worth well over a trillion dollars) will collapse, devastating the entire economy. If you check any online discussion about the financial situation …",
-        "image": "https://matteoraso.github.io/images/profile.jpg",
-        "source": "matteoraso.github.io",
-        "stats": "551 points · 946 comments"
-      },
-      {
-        "url": "https://github.com/synchopate/llama-modchip",
-        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "description": "🐋 Run 284B DeepSeek-V4-Flash (&amp;lt;59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) &amp;amp; 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 &amp;amp; 13ms Claude Code...",
-        "image": "https://opengraph.githubassets.com/0c5a6a963a1e3cf8829eb02daf947e821fcdcf0ef638fb2b26fcee1a9457c347/synchopate/llama-modchip",
-        "source": "github.com",
-        "stats": "480 points · 205 comments"
+        "stats": "980 points · 1280 comments"
       }
     ],
     "2026-11-07": [
@@ -187,16 +197,6 @@
         "image": "https://repository-images.githubusercontent.com/654560183/d4b2fdae-1a15-4420-a2a3-17256a51ae24",
         "source": "github.com",
         "stats": "120 points · 59 comments"
-      }
-    ],
-    "2026-11-04": [
-      {
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "title": "AI is forcing us to pay off 40 years of technical debt",
-        "description": "AI is forcing us to pay off 40 years of technical debt",
-        "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-        "source": "spectrum.ieee.org",
-        "stats": "1305 points · 749 comments"
       }
     ]
   }
