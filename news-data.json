@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-11-11T09:00:55.503Z",
+  "lastUpdated": "2026-11-12T09:30:26.661Z",
   "days": {
+    "2026-11-12": [
+      {
+        "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+        "title": "Why Every AI Model Will Ship as a Torrent",
+        "description": "Why torrents are perfect for model distribution.",
+        "image": "https://pirateface.co/og/article?slug=every-ai-model-should-be-a-torrent&amp;rev=20261027-refresh",
+        "source": "pirateface.co",
+        "stats": "20 points · 5 comments"
+      },
+      {
+        "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180",
+        "title": "Nvidia's Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+        "description": "13 points · 1 comments",
+        "image": "",
+        "source": "wsj.com",
+        "stats": ""
+      },
+      {
+        "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+        "title": "LLM-Anthropic 0.31",
+        "description": "LLM access to models by Anthropic, including the Claude series",
+        "image": "https://static.simonwillison.net/static/2026/fable-5.2-xhigh.avif",
+        "source": "simonwillison.net",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "4 points · 0 comments"
+      },
+      {
+        "url": "https://pi-gpui.dev",
+        "title": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
+        "description": "A native GUI for your installed pi coding agent, built with Rust and GPUI for macOS and Linux.",
+        "image": "https://pi-gpui.dev/img/og.jpg?v=2",
+        "source": "pi-gpui.dev",
+        "stats": "3 points · 0 comments"
+      }
+    ],
     "2026-11-11": [
       {
-        "url": "https://tis-100.wincon.dev/",
-        "title": "LLMs Play Zachtronics' TIS-100",
-        "description": "16 LLMs took on TIS-100&#x27;s community leaderboard and found 133 new frontier points on 18 of 55 puzzles, including 3 outright cycle records.",
-        "image": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
-        "source": "tis-100.wincon.dev",
-        "stats": "60 points · 11 comments"
-      },
-      {
-        "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-        "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-        "description": "54 points · 55 comments",
+        "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "description": "995 points · 1343 comments",
         "image": "",
-        "source": "niemanlab.org",
+        "source": "wsj.com",
         "stats": ""
       },
       {
-        "url": "https://ai-frontiers.org/articles/the-ai-arms-race-is-not-inevitable-its-just-profitable",
-        "title": "The AI Arms Race Is Not Inevitable. It's Just Profitable",
-        "description": "Garrison Lovely, Oct 01, 2026 — In an excerpt from his new book, Garrison Lovely argues that stopping the AGI race is entirely possible, but business interests stand in the way.",
-        "image": "https://cdn.prod.website-files.com/66e38815e6bc34b7f5e1768b/6abe7b7cca14448ed9f28069_shutterstock_chip_on_money_under_3mb.jpg",
-        "source": "ai-frontiers.org",
-        "stats": "8 points · 0 comments"
+        "url": "https://pietromiotti.com/latest/maya-site",
+        "title": "My AI agents found an unmapped Maya site?",
+        "description": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn&#39;t in Mexico&#39;s official register yet.",
+        "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
+        "source": "pietromiotti.com",
+        "stats": "988 points · 358 comments"
       },
       {
-        "url": "https://taipeiledger.com/gpu/",
-        "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
-        "description": "What one GPU-hour costs to rent, by GPU model and provider, updated daily: B300, B200, H200, H100, A100, L40S and more.",
-        "image": "https://taipeiledger.com/og.png",
-        "source": "taipeiledger.com",
-        "stats": "8 points · 2 comments"
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+        "source": "cbsnews.com",
+        "stats": "548 points · 541 comments"
       },
       {
-        "url": "https://www.politico.com/news/2026/11/10/nvidia-ceos-spy-scandal-tilts-capitol-hills-chip-fight-01160548",
-        "title": "Nvidia loses ground in Washington chip fight after CEO spy scandal",
-        "description": "4 points · 2 comments",
-        "image": "",
-        "source": "politico.com",
-        "stats": ""
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "title": "Gemini Decisions API",
+        "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+        "source": "blog.google",
+        "stats": "426 points · 128 comments"
+      },
+      {
+        "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+        "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+        "description": "JUST IN: Nvidia $NVDA prepares to fire CEO Jensen Huang, WSJ reports.",
+        "image": "https://pbs.twimg.com/media/HW4L8PTXsAAd2Xh?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "225 points · 4 comments"
       }
     ],
     "2026-11-10": [
@@ -50,12 +92,20 @@
         "description": "Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed.",
         "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
         "source": "vulncheck.com",
-        "stats": "394 points · 187 comments"
+        "stats": "453 points · 219 comments"
+      },
+      {
+        "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+        "title": "Apple has new Mac app coming to make running local AI models easy",
+        "description": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models.",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
+        "source": "9to5mac.com",
+        "stats": "530 points · 536 comments"
       },
       {
         "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
         "title": "AI usage generates a fragile codebase",
-        "description": "527 points · 507 comments",
+        "description": "635 points · 614 comments",
         "image": "https://www.evanxmerz.com/images/ai-codebases-are-a-house-of-cards.jpg",
         "source": "evanxmerz.com",
         "stats": ""
@@ -64,17 +114,9 @@
         "url": "https://github.com/GoogleChrome/modern-web-guidance",
         "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
         "description": "Keep your coding agent up to date with the latest web best practices - GoogleChrome/modern-web-guidance",
-        "image": "https://opengraph.githubassets.com/fcda953f4fc3c7084b2b1514d20bb5da04108a2519dbfb3a6f54accc775ece64/GoogleChrome/modern-web-guidance",
+        "image": "https://opengraph.githubassets.com/e2afb5175c4f514a28b57b3edc5c150a22d29da851303d1577398224f18aa400/GoogleChrome/modern-web-guidance",
         "source": "github.com",
-        "stats": "359 points · 106 comments"
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-        "title": "Gemini 4 Carbon is now available",
-        "description": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-        "source": "blog.google",
-        "stats": "284 points · 155 comments"
+        "stats": "429 points · 142 comments"
       },
       {
         "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
@@ -82,7 +124,7 @@
         "description": "Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans.",
         "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
         "source": "claude.com",
-        "stats": "212 points · 150 comments"
+        "stats": "285 points · 216 comments"
       }
     ],
     "2026-11-09": [
@@ -92,49 +134,17 @@
         "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
         "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
         "source": "anthropic.com",
-        "stats": "891 points · 1015 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "title": "Claude Fable 5.2 and Mythos 5.2",
-        "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-        "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
-        "source": "anthropic.com",
-        "stats": "992 points · 8 comments"
-      },
-      {
-        "url": "https://github.com/thisisme6598/gemini_files/",
-        "title": "Google Gemini routes personal Drive files and emails to human annotators",
-        "description": "Documentation of Gemini File Leaking Behavior. Contribute to thisisme6598/gemini_files development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/5cc42967c7a60a3ba3a547e872c0b16b2c6a7e8ad84cadb56e266cd34c9f7a2e/thisisme6598/gemini_files",
-        "source": "github.com",
-        "stats": "718 points · 147 comments"
-      },
-      {
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-        "description": "Analysis of Anthropic&#x27;s Claude Fable 5.2 (Max, Default Fallback) and comparison to other AI models across key metrics including quality, price, performance (time per Intelligence Index task &amp; time to first answer token), context window &amp; more.",
-        "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
-        "source": "artificialanalysis.ai",
-        "stats": "375 points · 271 comments"
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-        "title": "TPU 8tx and TPU 8i Max",
-        "description": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.width-1300.png",
-        "source": "blog.google",
-        "stats": "257 points · 76 comments"
+        "stats": "913 points · 1042 comments"
       }
     ],
     "2026-11-08": [
       {
-        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-        "description": "I owe my family and all of you an apology. I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry. Throughout my life, my ...",
-        "image": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b",
-        "source": "nvidianews.nvidia.com",
-        "stats": "980 points · 1280 comments"
+        "url": "https://jatorre.github.io/garden/",
+        "title": "I gave an agent a lakehouse and control of my garden",
+        "description": "Or how to produce a €60 lettuce. Eleven sensors, a camera, an old phone and an agent that waters my vegetables.",
+        "image": "https://jatorre.github.io/garden/img/og.jpg",
+        "source": "jatorre.github.io",
+        "stats": "64 points · 29 comments"
       }
     ],
     "2026-11-07": [
@@ -179,24 +189,6 @@
         "image": "",
         "source": "brendangregg.com",
         "stats": ""
-      }
-    ],
-    "2026-11-05": [
-      {
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "title": "Claude Code sends your email address to websites",
-        "description": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm...",
-        "image": "https://opengraph.githubassets.com/478a1ffe51ae6d0629b8f56642ca0818f30e45ae2ff38411433a8e487c1064a4/anthropics/claude-code/issues/107757",
-        "source": "github.com",
-        "stats": "1606 points · 533 comments"
-      },
-      {
-        "url": "https://github.com/rivet-dev/rivet",
-        "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-        "description": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. - rivet-dev/rivet",
-        "image": "https://repository-images.githubusercontent.com/654560183/d4b2fdae-1a15-4420-a2a3-17256a51ae24",
-        "source": "github.com",
-        "stats": "120 points · 59 comments"
       }
     ]
   }
