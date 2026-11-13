@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-11-12T09:30:26.661Z",
+  "lastUpdated": "2026-11-13T09:16:15.541Z",
   "days": {
-    "2026-11-12": [
+    "2026-11-13": [
       {
-        "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
-        "title": "Why Every AI Model Will Ship as a Torrent",
-        "description": "Why torrents are perfect for model distribution.",
-        "image": "https://pirateface.co/og/article?slug=every-ai-model-should-be-a-torrent&amp;rev=20261027-refresh",
-        "source": "pirateface.co",
-        "stats": "20 points · 5 comments"
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "description": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
+        "image": "https://media.wired.com/photos/6af6533dc5d481da1362b330/191:100/w_1280,c_limit/Petition-Bring-Back-Jensen-Business-2299493060.jpg",
+        "source": "wired.com",
+        "stats": "560 points · 394 comments"
       },
       {
-        "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180",
-        "title": "Nvidia's Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
-        "description": "13 points · 1 comments",
+        "url": "https://brave.com/blog/search-api-agentic-payments/",
+        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+        "description": "Developers and AI agents can now pay for the Brave Search API on demand with USDC via the open x402 protocol, settling each query in real time without an account or API key.",
+        "image": "https://brave.com/blog/search-api-agentic-payments/images/featured.jpg",
+        "source": "brave.com",
+        "stats": "90 points · 54 comments"
+      },
+      {
+        "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+        "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+        "description": "79 points · 24 comments",
         "image": "",
-        "source": "wsj.com",
+        "source": "techspot.com",
         "stats": ""
       },
       {
-        "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-        "title": "LLM-Anthropic 0.31",
-        "description": "LLM access to models by Anthropic, including the Claude series",
-        "image": "https://static.simonwillison.net/static/2026/fable-5.2-xhigh.avif",
-        "source": "simonwillison.net",
-        "stats": "5 points · 1 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
+        "title": "Jensen Huang's Last Hours as Nvidia CEO",
+        "description": "19 points · 2 comments",
         "image": "",
-        "source": "youtube.com",
-        "stats": "4 points · 0 comments"
+        "source": "bloomberg.com",
+        "stats": ""
       },
       {
-        "url": "https://pi-gpui.dev",
-        "title": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
-        "description": "A native GUI for your installed pi coding agent, built with Rust and GPUI for macOS and Linux.",
-        "image": "https://pi-gpui.dev/img/og.jpg?v=2",
-        "source": "pi-gpui.dev",
-        "stats": "3 points · 0 comments"
+        "url": "https://news.ycombinator.com/item?id=50478730",
+        "title": "Google search hides Nvidia stock graph",
+        "description": "10 points · 3 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
+      }
+    ],
+    "2026-11-12": [
+      {
+        "url": "https://ipo.anthropic.com/us/",
+        "title": "Anthropic IPO",
+        "description": "Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information.",
+        "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
+        "source": "ipo.anthropic.com",
+        "stats": "921 points · 861 comments"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "title": "Gemini 4 Hydrogen",
+        "description": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+        "source": "blog.google",
+        "stats": "525 points · 330 comments"
+      },
+      {
+        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "title": "Gemini 4 Hydrogen and Orchestrator",
+        "description": "Today, we",
+        "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
+        "source": "antigravity.google",
+        "stats": "409 points · 110 comments"
+      },
+      {
+        "url": "https://unemploymentlabs.com/checkpoint-forensics",
+        "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+        "description": "Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.",
+        "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
+        "source": "unemploymentlabs.com",
+        "stats": "290 points · 87 comments"
+      },
+      {
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "title": "I'm making LLMs work on small and old devices",
+        "description": "maxxing the ability to run different LLMs on the smallest devices possible - hyperionaidev/smolmaxxing",
+        "image": "https://opengraph.githubassets.com/e9eeaddef54b6729fd96b3c39426d3a0317b850fb07f9f8c969b52dc05bc1345/hyperionaidev/smolmaxxing",
+        "source": "github.com",
+        "stats": "361 points · 127 comments"
       }
     ],
     "2026-11-11": [
       {
         "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
         "title": "Nvidia is preparing to oust Jensen Huang",
-        "description": "995 points · 1343 comments",
+        "description": "1217 points · 1640 comments",
         "image": "",
         "source": "wsj.com",
         "stats": ""
@@ -58,7 +100,7 @@
         "description": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn&#39;t in Mexico&#39;s official register yet.",
         "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
         "source": "pietromiotti.com",
-        "stats": "988 points · 358 comments"
+        "stats": "1032 points · 391 comments"
       },
       {
         "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
@@ -66,7 +108,7 @@
         "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.",
         "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
         "source": "cbsnews.com",
-        "stats": "548 points · 541 comments"
+        "stats": "670 points · 696 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -74,49 +116,25 @@
         "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
         "source": "blog.google",
-        "stats": "426 points · 128 comments"
+        "stats": "561 points · 159 comments"
       },
       {
-        "url": "https://twitter.com/watcherguru/status/2120645607866188008",
-        "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-        "description": "JUST IN: Nvidia $NVDA prepares to fire CEO Jensen Huang, WSJ reports.",
-        "image": "https://pbs.twimg.com/media/HW4L8PTXsAAd2Xh?format=webp&amp;name=large",
-        "source": "twitter.com",
-        "stats": "225 points · 4 comments"
+        "url": "https://machinelearning.apple.com/research/faster-retrieval",
+        "title": "Faster Retrieval for Better, More Efficient RAG",
+        "description": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a…",
+        "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+        "source": "machinelearning.apple.com",
+        "stats": "233 points · 38 comments"
       }
     ],
     "2026-11-10": [
-      {
-        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-        "title": "Tracking Anthropic-discovered vulnerabilities",
-        "description": "Seven months into Project Glasswing, VulnCheck has tracked 442 CVEs attributable to Anthropic, roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed.",
-        "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
-        "source": "vulncheck.com",
-        "stats": "453 points · 219 comments"
-      },
       {
         "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
         "title": "Apple has new Mac app coming to make running local AI models easy",
         "description": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models.",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
         "source": "9to5mac.com",
-        "stats": "530 points · 536 comments"
-      },
-      {
-        "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-        "title": "AI usage generates a fragile codebase",
-        "description": "635 points · 614 comments",
-        "image": "https://www.evanxmerz.com/images/ai-codebases-are-a-house-of-cards.jpg",
-        "source": "evanxmerz.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/GoogleChrome/modern-web-guidance",
-        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-        "description": "Keep your coding agent up to date with the latest web best practices - GoogleChrome/modern-web-guidance",
-        "image": "https://opengraph.githubassets.com/e2afb5175c4f514a28b57b3edc5c150a22d29da851303d1577398224f18aa400/GoogleChrome/modern-web-guidance",
-        "source": "github.com",
-        "stats": "429 points · 142 comments"
+        "stats": "557 points · 552 comments"
       },
       {
         "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
@@ -124,7 +142,7 @@
         "description": "Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans.",
         "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
         "source": "claude.com",
-        "stats": "285 points · 216 comments"
+        "stats": "294 points · 217 comments"
       }
     ],
     "2026-11-09": [
@@ -134,7 +152,7 @@
         "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
         "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
         "source": "anthropic.com",
-        "stats": "913 points · 1042 comments"
+        "stats": "919 points · 1053 comments"
       }
     ],
     "2026-11-08": [
@@ -144,7 +162,7 @@
         "description": "Or how to produce a €60 lettuce. Eleven sensors, a camera, an old phone and an agent that waters my vegetables.",
         "image": "https://jatorre.github.io/garden/img/og.jpg",
         "source": "jatorre.github.io",
-        "stats": "64 points · 29 comments"
+        "stats": "140 points · 72 comments"
       }
     ],
     "2026-11-07": [
@@ -171,24 +189,6 @@
         "image": "https://opengraph.githubassets.com/07818cecc7f94c3f7961293b70623f8bf608df08ace8ca7a1896216a9185d1b0/rkaehn/uniform",
         "source": "github.com",
         "stats": "46 points · 22 comments"
-      }
-    ],
-    "2026-11-06": [
-      {
-        "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
-        "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
-        "description": "NVIDIA and NVentures were named in 79 of 903 venture rounds of $100M or more from October 2025 to September 2026. Sequoia was in 75 and Andreessen Horowitz in 73. 38% had a corporate investor.",
-        "image": "https://datahyena.com/og/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds.png",
-        "source": "datahyena.com",
-        "stats": "79 points · 68 comments"
-      },
-      {
-        "url": "https://www.brendangregg.com/activebenchmarking.html",
-        "title": "Active Benchmarking",
-        "description": "41 points · 2 comments",
-        "image": "",
-        "source": "brendangregg.com",
-        "stats": ""
       }
     ]
   }
