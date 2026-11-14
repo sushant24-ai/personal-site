@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-11-13T09:16:15.541Z",
+  "lastUpdated": "2026-11-14T08:45:52.586Z",
   "days": {
+    "2026-11-14": [
+      {
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "description": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers....",
+        "image": "https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg",
+        "source": "techpowerup.com",
+        "stats": "490 points · 281 comments"
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+        "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+        "description": "201 points · 45 comments",
+        "image": "",
+        "source": "finance.yahoo.com",
+        "stats": ""
+      },
+      {
+        "url": "https://claude.com/resources/articles/projects-redesigned",
+        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+        "description": "A new experience for Claude projects, now available in beta in Claude Code",
+        "image": "https://claude.com/resources/articles/projects-redesigned/opengraph-image/og",
+        "source": "claude.com",
+        "stats": "84 points · 81 comments"
+      },
+      {
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "title": "DeepSeek V4 Pro 0813",
+        "description": "Text Generation model with 1.7T parameters. Download, explore files and run it on Hugging Face.",
+        "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4-Pro-0813.png",
+        "source": "huggingface.co",
+        "stats": "22 points · 0 comments"
+      },
+      {
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "title": "Llama.cpp hits v1.0 with a native app for macOS",
+        "description": "A Blog post by ggml-org on Hugging Face",
+        "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+        "source": "huggingface.co",
+        "stats": "19 points · 3 comments"
+      }
+    ],
     "2026-11-13": [
       {
         "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
@@ -8,38 +50,38 @@
         "description": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
         "image": "https://media.wired.com/photos/6af6533dc5d481da1362b330/191:100/w_1280,c_limit/Petition-Bring-Back-Jensen-Business-2299493060.jpg",
         "source": "wired.com",
-        "stats": "560 points · 394 comments"
+        "stats": "799 points · 665 comments"
       },
       {
-        "url": "https://brave.com/blog/search-api-agentic-payments/",
-        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-        "description": "Developers and AI agents can now pay for the Brave Search API on demand with USDC via the open x402 protocol, settling each query in real time without an account or API key.",
-        "image": "https://brave.com/blog/search-api-agentic-payments/images/featured.jpg",
-        "source": "brave.com",
-        "stats": "90 points · 54 comments"
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "description": "Claude&#39;s Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.",
+        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+        "source": "status.claude.com",
+        "stats": "488 points · 384 comments"
       },
       {
-        "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-        "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-        "description": "79 points · 24 comments",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+        "description": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems",
+        "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+        "source": "theguardian.com",
+        "stats": "384 points · 96 comments"
+      },
+      {
+        "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+        "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+        "description": "Oakland police confirmed a grand theft investigation involving a shipment reportedly worth $11.4 million. The carrier&#039;s identity and circumstances surrounding the disappearance remain unclear.",
+        "image": "https://www.freightwaves.com/wp-content/uploads/2026/11/09/NVIDIA-Endeavor-1200x628-1.jpg",
+        "source": "freightwaves.com",
+        "stats": "345 points · 189 comments"
+      },
+      {
+        "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+        "title": "AI is destroying the trust between writers and readers",
+        "description": "339 points · 205 comments",
         "image": "",
-        "source": "techspot.com",
-        "stats": ""
-      },
-      {
-        "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
-        "title": "Jensen Huang's Last Hours as Nvidia CEO",
-        "description": "19 points · 2 comments",
-        "image": "",
-        "source": "bloomberg.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50478730",
-        "title": "Google search hides Nvidia stock graph",
-        "description": "10 points · 3 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
+        "source": "theatlantic.com",
         "stats": ""
       }
     ],
@@ -50,7 +92,7 @@
         "description": "Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information.",
         "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
         "source": "ipo.anthropic.com",
-        "stats": "921 points · 861 comments"
+        "stats": "996 points · 908 comments"
       },
       {
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
@@ -58,7 +100,7 @@
         "description": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
         "source": "blog.google",
-        "stats": "525 points · 330 comments"
+        "stats": "565 points · 349 comments"
       },
       {
         "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
@@ -66,65 +108,57 @@
         "description": "Today, we",
         "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
         "source": "antigravity.google",
-        "stats": "409 points · 110 comments"
+        "stats": "499 points · 161 comments"
       },
       {
-        "url": "https://unemploymentlabs.com/checkpoint-forensics",
-        "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-        "description": "Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.",
-        "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
-        "source": "unemploymentlabs.com",
-        "stats": "290 points · 87 comments"
+        "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+        "description": "453 points · 482 comments",
+        "image": "",
+        "source": "reuters.com",
+        "stats": ""
       },
       {
         "url": "https://github.com/hyperionaidev/smolmaxxing/",
         "title": "I'm making LLMs work on small and old devices",
         "description": "maxxing the ability to run different LLMs on the smallest devices possible - hyperionaidev/smolmaxxing",
-        "image": "https://opengraph.githubassets.com/e9eeaddef54b6729fd96b3c39426d3a0317b850fb07f9f8c969b52dc05bc1345/hyperionaidev/smolmaxxing",
+        "image": "https://opengraph.githubassets.com/0b3924a65e704420601dbb197d0234cf54d6932d441167f546e354ba210406a4/hyperionaidev/smolmaxxing",
         "source": "github.com",
-        "stats": "361 points · 127 comments"
+        "stats": "472 points · 180 comments"
       }
     ],
     "2026-11-11": [
-      {
-        "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-        "title": "Nvidia is preparing to oust Jensen Huang",
-        "description": "1217 points · 1640 comments",
-        "image": "",
-        "source": "wsj.com",
-        "stats": ""
-      },
-      {
-        "url": "https://pietromiotti.com/latest/maya-site",
-        "title": "My AI agents found an unmapped Maya site?",
-        "description": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn&#39;t in Mexico&#39;s official register yet.",
-        "image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
-        "source": "pietromiotti.com",
-        "stats": "1032 points · 391 comments"
-      },
-      {
-        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-        "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.",
-        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
-        "source": "cbsnews.com",
-        "stats": "670 points · 696 comments"
-      },
-      {
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-        "title": "Gemini Decisions API",
-        "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
-        "source": "blog.google",
-        "stats": "561 points · 159 comments"
-      },
       {
         "url": "https://machinelearning.apple.com/research/faster-retrieval",
         "title": "Faster Retrieval for Better, More Efficient RAG",
         "description": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a…",
         "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
         "source": "machinelearning.apple.com",
-        "stats": "233 points · 38 comments"
+        "stats": "239 points · 39 comments"
+      },
+      {
+        "url": "https://blog.atuin.sh/threads-agent-sessions/",
+        "title": "Atuin Threads: All your agent sessions on every machine",
+        "description": "Atuin Threads: one searchable, synced history for every agent session, on every machine\n\nStart a task in Claude Code, then resume it in Codex",
+        "image": "",
+        "source": "blog.atuin.sh",
+        "stats": "237 points · 84 comments"
+      },
+      {
+        "url": "https://github.com/huawei-csl/MACaQ",
+        "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+        "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch. - huawei-csl/MACaQ",
+        "image": "https://repository-images.githubusercontent.com/1452417816/74bc9106-306c-4e93-96da-77dcff2e0d77",
+        "source": "github.com",
+        "stats": "134 points · 32 comments"
+      },
+      {
+        "url": "https://github.com/garritfra/llmtee",
+        "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
+        "description": "Self-hosted LLM proxy. Contribute to garritfra/llmtee development by creating an account on GitHub.",
+        "image": "https://opengraph.githubassets.com/9b528a9407f9dcf56935ab88f0a4abcde53ff31d07df92212527725897266b62/garritfra/llmtee",
+        "source": "github.com",
+        "stats": "10 points · 2 comments"
       }
     ],
     "2026-11-10": [
@@ -134,15 +168,7 @@
         "description": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models.",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
         "source": "9to5mac.com",
-        "stats": "557 points · 552 comments"
-      },
-      {
-        "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-        "description": "Brainstorm on a shared whiteboard, build a spreadsheet, and share dashboards with your team, all with Claude. Available today on all paid plans.",
-        "image": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
-        "source": "claude.com",
-        "stats": "294 points · 217 comments"
+        "stats": "566 points · 557 comments"
       }
     ],
     "2026-11-09": [
@@ -162,33 +188,7 @@
         "description": "Or how to produce a €60 lettuce. Eleven sensors, a camera, an old phone and an agent that waters my vegetables.",
         "image": "https://jatorre.github.io/garden/img/og.jpg",
         "source": "jatorre.github.io",
-        "stats": "140 points · 72 comments"
-      }
-    ],
-    "2026-11-07": [
-      {
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "description": "623 points · 423 comments",
-        "image": "",
-        "source": "apiiro.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50403153",
-        "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-        "description": "93 points · 51 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/rkaehn/uniform",
-        "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
-        "description": "UI tools for JavaScript and C. Contribute to rkaehn/uniform development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/07818cecc7f94c3f7961293b70623f8bf608df08ace8ca7a1896216a9185d1b0/rkaehn/uniform",
-        "source": "github.com",
-        "stats": "46 points · 22 comments"
+        "stats": "147 points · 77 comments"
       }
     ]
   }
