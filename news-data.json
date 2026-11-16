@@ -1,61 +1,95 @@
 {
-  "lastUpdated": "2026-11-15T08:58:17.934Z",
+  "lastUpdated": "2026-11-16T09:13:37.841Z",
   "days": {
-    "2026-11-15": [
+    "2026-11-16": [
       {
-        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-        "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-        "description": "High-speed Playwright MCP server with multi-tab batching, compact delta DOM snapshots, React/Shadow DOM/iframe form filling, disk file uploads, and submit guards - Tthanh2k6/turbo-browser-mcp",
-        "image": "https://opengraph.githubassets.com/8df84bd205a2bf1868c6b3d964aadbe80ce198718e6550a9cb1182fc9a1083ee/Tthanh2k6/turbo-browser-mcp",
-        "source": "github.com",
-        "stats": "30 points · 5 comments"
+        "url": "https://www.hntrends.com/2026/november.html",
+        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+        "description": "Hacker News &quot;Who is Hiring?&quot; job postings sit near 12-year lows while AI appears in more than half of all postings. Most popular programming languages and technologies for November 2026.",
+        "image": "https://www.hntrends.com/images/202611-ask-hn-who-is-hiring-tot.png?v=2",
+        "source": "hntrends.com",
+        "stats": "82 points · 69 comments"
       },
       {
-        "url": "https://www.indiatoday.in/world/story/jensen-huang-nvidia-workplace-allegations-executive-outbursts-resignation-3039203-2026-11-15",
-        "title": "I hope you die: Inside Jensen Huang's reported tirades at Nvidia board meetings",
-        "description": "Former NVIDIA CEO Jensen Huang&#x27;s reported workplace outbursts included verbally humiliating senior executives, making threatening remarks and throwing a water bottle at a top executive. The accounts contrast with his humble public image and come amid his resignation following an affair controversy.",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/jensen-huang-151344249-16x9_0.jpg?VersionId=wyf7yM9AAucCFDy7TUAzUtaXZjTcY6Hq",
-        "source": "indiatoday.in",
-        "stats": "12 points · 9 comments"
-      },
-      {
-        "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
-        "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
-        "description": "6 points · 1 comments",
+        "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+        "description": "19 points · 4 comments",
         "image": "",
         "source": "wsj.com",
         "stats": ""
       },
       {
-        "url": "https://notthebee.com/article/mystery-trader-bags-nearly-200-million-shorting-nvidia-right-before-jensen-huangs-scandalous-exit",
-        "title": "Mystery Trader Bags Nearly $200M Shorting Nvidia Right Before Huang Exit",
-        "description": "Wow, I never would have guessed that, in this day and age, somebody would have made a cool $200 million shorting Nvidia because they might have known CEO Jensen Huang was about to be outed for some extramarital honeypot relationship (that many people don&#039;t even believe is the real story), and then the stock would tank.",
-        "image": "https://media.notthebee.com/articles/6af765eef19166af765eef1917.jpg",
-        "source": "notthebee.com",
-        "stats": "7 points · 0 comments"
+        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+        "title": "Agentic AI Designs an Analog Synthesizer",
+        "description": "An analog monophonic synthesizer built from ~200 components, with a transistor ladder filter and touch keys. Circuit, simulation, PCB, firmware and most of the bring-up were done by Claude Opus 5.5.",
+        "image": "https://cpldcpu.github.io/2026/11/14/touchsynth/featured.png",
+        "source": "cpldcpu.github.io",
+        "stats": "14 points · 2 comments"
       },
       {
-        "url": "https://news.ycombinator.com/item?id=50504061",
-        "title": "Anthropic, can you please make up your mind with your models?",
-        "description": "4 points · 6 comments",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+        "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+        "description": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency",
+        "image": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2409218b017c527425255b8d0940d9d",
+        "source": "theguardian.com",
+        "stats": "13 points · 10 comments"
+      },
+      {
+        "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+        "title": "OpenTelemetry and AI Agents' Observability",
+        "description": "AI agent observability tracks model calls, tools, and conversation context to help debug failures, monitor latency, and understand token usage.",
+        "image": "https://d3nu8xzr1i9u95.cloudfront.net/web/img/blog/common/ai-observability-trace-detail.webp",
+        "source": "signoz.io",
+        "stats": "8 points · 0 comments"
+      }
+    ],
+    "2026-11-15": [
+      {
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "title": "All AI-generated code should be Open Source",
+        "description": "All code generated with help from AI should be Open Source or on Creative Commons Zero (CC0) license.",
+        "image": "https://jakub.jankiewicz.org/img/en/ai-code-open-source.png",
+        "source": "jakub.jankiewicz.org",
+        "stats": "1165 points · 615 comments"
+      },
+      {
+        "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "title": "What's Next for Nvidia?",
+        "description": "Nvidia’s board announced that Jensen Huang had resigned 33 years after he co-founded the company. What happens to a company when a visionary CEO is gone? Most often innovation dies and the company …",
+        "image": "https://steveblank.com/wp-content/uploads/2026/11/nvidia-reinventions-1024x677.jpg",
+        "source": "steveblank.com",
+        "stats": "246 points · 311 comments"
+      },
+      {
+        "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+        "title": "Jensen Huang might return to Nvidia as CEO",
+        "description": "165 points · 159 comments",
         "image": "",
-        "source": "news.ycombinator.com",
+        "source": "reuters.com",
+        "stats": ""
+      },
+      {
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "description": "The Methods Behind How LLMs Represent Token Positions",
+        "image": "https://substackcdn.com/image/fetch/$s_!UHlM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a036907-4c1e-473b-8d82-20f2c777df5f_2912x1632.png",
+        "source": "magazine.sebastianraschka.com",
+        "stats": "227 points · 27 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+        "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+        "description": "122 points · 115 comments",
+        "image": "",
+        "source": "ft.com",
         "stats": ""
       }
     ],
     "2026-11-14": [
       {
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "description": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory shortage by investing in AI startups that would go on to buy NVIDIA GPUs and build data centers....",
-        "image": "https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg",
-        "source": "techpowerup.com",
-        "stats": "1069 points · 635 comments"
-      },
-      {
         "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
         "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-        "description": "420 points · 214 comments",
+        "description": "445 points · 236 comments",
         "image": "",
         "source": "techspot.com",
         "stats": ""
@@ -64,9 +98,9 @@
         "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
         "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
         "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax - Vaibhaav-Tiwari/deepseek-v3-jax",
-        "image": "https://opengraph.githubassets.com/04c70d1236c97d1bdbe6c2e5e4df59d26bb5c5ec17f26456cd08118302ff3371/Vaibhaav-Tiwari/deepseek-v3-jax",
+        "image": "https://opengraph.githubassets.com/e4347aa8790a3effe44033587bc6d547cdc0114735242f2c43a205c05f14b8c2/Vaibhaav-Tiwari/deepseek-v3-jax",
         "source": "github.com",
-        "stats": "228 points · 21 comments"
+        "stats": "272 points · 28 comments"
       },
       {
         "url": "https://www.netmeister.org/blog/claude-delusion.html",
@@ -74,99 +108,75 @@
         "description": "I",
         "image": "https://www.netmeister.org/blog/images/claude-delusion.jpg",
         "source": "netmeister.org",
-        "stats": "146 points · 192 comments"
+        "stats": "152 points · 200 comments"
       },
       {
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-        "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-        "description": "217 points · 54 comments",
-        "image": "",
-        "source": "finance.yahoo.com",
-        "stats": ""
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+        "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "description": "Running a frontier&#x2d;scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations connected over ConnectX&#x2d;8 RDMA serve one&#8230;",
+        "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
+        "source": "developer.nvidia.com",
+        "stats": "146 points · 70 comments"
+      },
+      {
+        "url": "https://github.com/paul-nameless/agweb",
+        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "description": " A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view. - paul-nameless/agweb",
+        "image": "https://opengraph.githubassets.com/79e37e28d9942472c08488a1d2890d6bfa08210932435abb2602104e1e794090/paul-nameless/agweb",
+        "source": "github.com",
+        "stats": "108 points · 37 comments"
       }
     ],
     "2026-11-13": [
-      {
-        "url": "https://status.claude.com/incidents/nn11wk485zfn",
-        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-        "description": "Claude&#39;s Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.",
-        "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-        "source": "status.claude.com",
-        "stats": "493 points · 389 comments"
-      },
       {
         "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
         "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
         "image": "",
         "source": "youtube.com",
-        "stats": "469 points · 696 comments"
+        "stats": "486 points · 727 comments"
       },
       {
-        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-        "description": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems",
-        "image": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
-        "source": "theguardian.com",
-        "stats": "428 points · 108 comments"
+        "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+        "title": "What thousands of conversations look like inside a language model",
+        "description": "I mapped thousands of conversations inside Qwen to see how language takes shape.",
+        "image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
+        "source": "operator0x.com",
+        "stats": "123 points · 29 comments"
       },
       {
-        "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-        "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-        "description": "Oakland police confirmed a grand theft investigation involving a shipment reportedly worth $11.4 million. The carrier&#039;s identity and circumstances surrounding the disappearance remain unclear.",
-        "image": "https://www.freightwaves.com/wp-content/uploads/2026/11/09/NVIDIA-Endeavor-1200x628-1.jpg",
-        "source": "freightwaves.com",
-        "stats": "383 points · 214 comments"
-      },
-      {
-        "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-        "title": "AI is destroying the trust between writers and readers",
-        "description": "366 points · 229 comments",
+        "url": "https://www.dfsantos.com/en/libro-ia-z80",
+        "title": "Artificial Intelligence for the Z80",
+        "description": "Understand artificial intelligence by programming it from scratch in BASIC. A practical journey through algorithms, data and neural networks on 8-bit computers.",
         "image": "",
-        "source": "theatlantic.com",
-        "stats": ""
+        "source": "dfsantos.com",
+        "stats": "37 points · 4 comments"
+      },
+      {
+        "url": "https://atg.science/careers",
+        "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+        "description": "Advanced AI research lab developing autonomous systems for complex decision-making in uncertain environments.",
+        "image": "https://atg.science/social-card.png",
+        "source": "atg.science",
+        "stats": "1 points · 0 comments"
       }
     ],
     "2026-11-12": [
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-        "title": "Gemini 4 Hydrogen",
-        "description": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-        "source": "blog.google",
-        "stats": "569 points · 352 comments"
-      },
-      {
-        "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-        "title": "Gemini 4 Hydrogen and Orchestrator",
-        "description": "Today, we",
-        "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
-        "source": "antigravity.google",
-        "stats": "503 points · 163 comments"
-      },
-      {
-        "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-        "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-        "description": "457 points · 499 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/hyperionaidev/smolmaxxing/",
-        "title": "I'm making LLMs work on small and old devices",
-        "description": "maxxing the ability to run different LLMs on the smallest devices possible - hyperionaidev/smolmaxxing",
-        "image": "https://opengraph.githubassets.com/7158148359e8c99954de23c1423a6ebe48be72ce0aeb6c28f54f10a93cd83354/hyperionaidev/smolmaxxing",
-        "source": "github.com",
-        "stats": "478 points · 180 comments"
-      },
       {
         "url": "https://unemploymentlabs.com/checkpoint-forensics",
         "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
         "description": "Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.",
         "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
         "source": "unemploymentlabs.com",
-        "stats": "399 points · 171 comments"
+        "stats": "442 points · 187 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "425 points · 207 comments"
       }
     ],
     "2026-11-11": [
@@ -210,25 +220,15 @@
         "description": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models.",
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
         "source": "9to5mac.com",
-        "stats": "570 points · 564 comments"
+        "stats": "575 points · 564 comments"
       },
       {
         "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
         "title": "Generative AI uses more energy on non-English text",
-        "description": "206 points · 106 comments",
+        "description": "231 points · 126 comments",
         "image": "",
         "source": "news.umich.edu",
         "stats": ""
-      }
-    ],
-    "2026-11-09": [
-      {
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "title": "Claude Fable 5.2 and Mythos 5.2",
-        "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-        "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
-        "source": "anthropic.com",
-        "stats": "919 points · 1053 comments"
       }
     ]
   }
