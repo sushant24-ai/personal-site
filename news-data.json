@@ -1,56 +1,98 @@
 {
-  "lastUpdated": "2026-11-17T10:23:52.092Z",
+  "lastUpdated": "2026-11-18T09:54:18.554Z",
   "days": {
+    "2026-11-18": [
+      {
+        "url": "https://nicolasbouliane.com/blog/death-by-ai",
+        "title": "AI is killing All About Berlin",
+        "description": "They used my work to train their AI, and now they&#39;re using their AI to put me out of work.",
+        "image": "",
+        "source": "nicolasbouliane.com",
+        "stats": "320 points · 281 comments"
+      },
+      {
+        "url": "https://revscope.co/blog/search-seo-geo-2026/",
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "description": "Google",
+        "image": "",
+        "source": "revscope.co",
+        "stats": "382 points · 291 comments"
+      },
+      {
+        "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+        "title": "Why is Gemini 4 Carbon taking so long?",
+        "description": "Gemini 4 Carbon spent close to an hour on tasks that Opus and Astra finished in minutes. We traced every step of its runs to find out why.",
+        "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
+        "source": "kernel.dev",
+        "stats": "93 points · 45 comments"
+      },
+      {
+        "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+        "title": "Claude was trained on protein sequences at scale",
+        "description": "A next-amino-acid test on little-studied proteins finds that the latest Claude models were trained on protein sequences at scale. Other frontier models show no sign of it.",
+        "image": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
+        "source": "xinmingtu.cn",
+        "stats": "52 points · 25 comments"
+      },
+      {
+        "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+        "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+        "description": "Artificial intelligence is not causing the disruptions but identifying gaps that are difficult to fix.",
+        "image": "https://static.washingtonsun.com/dims4/default/ee03c91/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F1c%2Fe92cb7384504a4cb82d3dea569ac%2Fap25064000941559.jpg",
+        "source": "washingtonsun.com",
+        "stats": "75 points · 36 comments"
+      }
+    ],
     "2026-11-17": [
       {
-        "url": "https://blog.antonio.cx/running-agents-with-lend",
-        "title": "Running coding agents without handing them my credentials",
-        "description": "115 points · 81 comments",
-        "image": "https://prose.sh/card.png",
-        "source": "blog.antonio.cx",
-        "stats": ""
-      },
-      {
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-        "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-        "description": "Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.",
-        "image": "https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg",
-        "source": "tomshardware.com",
-        "stats": "46 points · 14 comments"
-      },
-      {
-        "url": "https://github.com/localixai/tokendoctor",
-        "title": "Tokendoctor – See what your Claude Code use overpays",
-        "description": "tokendoctor: the same Claude Code for up to 38% less. A Claude Code plugin that replays your own past sessions to show what each change would have saved, then changes only what you pick. - localixa...",
-        "image": "https://opengraph.githubassets.com/ea076b25896fc8f8932da58653e437006574cfe17721667ff1eaccef391bb8f9/localixai/tokendoctor",
-        "source": "github.com",
-        "stats": "26 points · 13 comments"
-      },
-      {
-        "url": "https://www.reuters.com/legal/transactional/silicon-valley-leaders-back-call-jensen-huangs-return-nvidia-2026-11-16/",
-        "title": "Nvidia rules out Jensen Huang comeback as campaign for his return grows",
-        "description": "20 points · 1 comments",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "title": "GPT‑6.2 Astra and Sol",
+        "description": "1273 points · 792 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "openai.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/yocontra/pulsar",
-        "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
-        "description": "MCP server that lets AI coding agents in any harness find and message each other: one list, tags, multicast, * bus. - yocontra/pulsar",
-        "image": "https://opengraph.githubassets.com/c9dd09e6e3e0f7b56f5e0f49139c4b01cb99d314e2feef45608eef3a507ec44b/yocontra/pulsar",
-        "source": "github.com",
-        "stats": "17 points · 0 comments"
+        "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+        "description": "542 points · 243 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+        "title": "MAI Code 2 and Code 2 Flash",
+        "description": "358 points · 155 comments",
+        "image": "https://microsoft.ai/wp-content/uploads/2026/11/MAI-Code-2-Ignite-WithHeader-16x9-1.jpg",
+        "source": "microsoft.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "title": "How the Claude Code team thinks about verification",
+        "description": "How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest.",
+        "image": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
+        "source": "claude.dev",
+        "stats": "282 points · 227 comments"
+      },
+      {
+        "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+        "description": "Harvard study: AI coding agents raised code output 30 percent; finished work did not measurably rise, and getting code through review took 49 percent longer.",
+        "image": "https://complexdiscovery.com/wp-content/uploads/2026/10/AI-Report-One.jpg",
+        "source": "complexdiscovery.com",
+        "stats": "180 points · 253 comments"
       }
     ],
     "2026-11-16": [
       {
         "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
         "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-        "description": "Reverse engineering Windows 11&#39;s MissionControlAggregator reveals coding-agent and developer-tool usage bits in a diagnostic ETW report.",
+        "description": "Reverse engineering Windows 11",
         "image": "https://xusheng.dev/posts/windows-coding-agent-telemetry/agent-names.jpeg",
         "source": "xusheng.dev",
-        "stats": "610 points · 457 comments"
+        "stats": "722 points · 602 comments"
       },
       {
         "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
@@ -58,30 +100,22 @@
         "description": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
         "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/191:100/w_1280,c_limit/111226-Nvidia%20In%20Trouble.jpg",
         "source": "wired.com",
-        "stats": "274 points · 246 comments"
-      },
-      {
-        "url": "https://www.hntrends.com/2026/november.html",
-        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-        "description": "Hacker News &quot;Who is Hiring?&quot; job postings sit near 12-year lows while AI appears in more than half of all postings. Most popular programming languages and technologies for November 2026.",
-        "image": "https://www.hntrends.com/images/202611-ask-hn-who-is-hiring-tot.png?v=2",
-        "source": "hntrends.com",
-        "stats": "94 points · 86 comments"
-      },
-      {
-        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
-        "title": "First phase of embedded assessments at OpenAI",
-        "description": "53 points · 18 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
+        "stats": "287 points · 262 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=50520076",
         "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-        "description": "59 points · 77 comments",
+        "description": "94 points · 110 comments",
         "image": "",
         "source": "news.ycombinator.com",
+        "stats": ""
+      },
+      {
+        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+        "title": "First phase of embedded assessments at OpenAI",
+        "description": "58 points · 19 comments",
+        "image": "",
+        "source": "openai.com",
         "stats": ""
       }
     ],
@@ -197,54 +231,12 @@
     ],
     "2026-11-12": [
       {
-        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "452 points · 239 comments"
-      },
-      {
         "url": "https://unemploymentlabs.com/checkpoint-forensics",
         "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
         "description": "Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.",
         "image": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
         "source": "unemploymentlabs.com",
-        "stats": "451 points · 194 comments"
-      }
-    ],
-    "2026-11-11": [
-      {
-        "url": "https://machinelearning.apple.com/research/faster-retrieval",
-        "title": "Faster Retrieval for Better, More Efficient RAG",
-        "description": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a…",
-        "image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
-        "source": "machinelearning.apple.com",
-        "stats": "239 points · 39 comments"
-      },
-      {
-        "url": "https://blog.atuin.sh/threads-agent-sessions/",
-        "title": "Atuin Threads: All your agent sessions on every machine",
-        "description": "Atuin Threads: one searchable, synced history for every agent session, on every machine\n\nStart a task in Claude Code, then resume it in Codex",
-        "image": "",
-        "source": "blog.atuin.sh",
-        "stats": "237 points · 84 comments"
-      },
-      {
-        "url": "https://github.com/huawei-csl/MACaQ",
-        "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-        "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch. - huawei-csl/MACaQ",
-        "image": "https://repository-images.githubusercontent.com/1452417816/74bc9106-306c-4e93-96da-77dcff2e0d77",
-        "source": "github.com",
-        "stats": "134 points · 32 comments"
-      },
-      {
-        "url": "https://github.com/garritfra/llmtee",
-        "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
-        "description": "Self-hosted LLM proxy. Contribute to garritfra/llmtee development by creating an account on GitHub.",
-        "image": "https://opengraph.githubassets.com/9b528a9407f9dcf56935ab88f0a4abcde53ff31d07df92212527725897266b62/garritfra/llmtee",
-        "source": "github.com",
-        "stats": "10 points · 2 comments"
+        "stats": "452 points · 197 comments"
       }
     ]
   }
