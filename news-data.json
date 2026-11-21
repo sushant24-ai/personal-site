@@ -1,53 +1,95 @@
 {
-  "lastUpdated": "2026-11-20T09:50:17.619Z",
+  "lastUpdated": "2026-11-21T09:25:01.704Z",
   "days": {
+    "2026-11-21": [
+      {
+        "url": "http://ricapar.net/ClawDOS/",
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "description": "An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)",
+        "image": "",
+        "source": "ricapar.net",
+        "stats": "56 points · 15 comments"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
+        "title": "Don't Play Anthropic's Game",
+        "description": "10 points · 3 comments",
+        "image": "",
+        "source": "nytimes.com",
+        "stats": ""
+      },
+      {
+        "url": "https://github.com/Musset-App/musset",
+        "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+        "description": "Open-source Mac app for writing novels and books: plain Markdown files, versions, typeset PDF and EPUB. A native Scrivener and Ulysses alternative, with an AI editor that never writes for you. - Mu...",
+        "image": "https://repository-images.githubusercontent.com/1452030676/c1e289c8-740c-43ff-a1c0-49be8340608c",
+        "source": "github.com",
+        "stats": "5 points · 1 comments"
+      },
+      {
+        "url": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+        "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
+        "description": "2 points · 1 comments",
+        "image": "",
+        "source": "apnews.com",
+        "stats": ""
+      },
+      {
+        "url": "https://safedep.io/blog/malicious-npm-leadstack-crm-connect-hermes-agent-backdoor",
+        "title": "NPM package installed Hermes Agent as root and tasked it over Telegram",
+        "description": "Malicious npm package @leadstack/crm-connect installed Hermes Agent as a systemd service run from the attacker&#x27;s Telegram bot. Code, timeline and IoCs.",
+        "image": "https://safedep.io/_next/static/immutable/media/malicious-npm-leadstack-crm-connect-hermes-agent-backdoor-banner.3jikt6v9tl7_g.jpg",
+        "source": "safedep.io",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-11-20": [
       {
-        "url": "https://www.bxfoundry.com/chatgpt_snes/",
-        "title": "ChatGPT for SNES",
-        "description": "An unofficial experiment: a small language model running on the Super FX chip of a Super NES cartridge. Not made or endorsed by OpenAI.",
-        "image": "https://www.bxfoundry.com/chatgpt_snes/img/og.png",
-        "source": "bxfoundry.com",
-        "stats": "84 points · 22 comments"
+        "url": "https://architectlabs.com/blog/frostbite",
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "description": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core.",
+        "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
+        "source": "architectlabs.com",
+        "stats": "645 points · 333 comments"
       },
       {
-        "url": "https://www.reuters.com/world/asia-pacific/anthropics-australian-data-centre-overwhelmingly-opposed-by-residents-2026-11-20/",
-        "title": "Anthropic's Australian data centre overwhelmingly opposed by residents",
-        "description": "15 points · 14 comments",
+        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+        "description": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data.",
+        "image": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
+        "source": "signal.org",
+        "stats": "549 points · 321 comments"
+      },
+      {
+        "url": "https://arxiv.org/abs/2611.21885",
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "description": "A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model edited a much smaller one; here an open 27B model, given its weights, its graded answers and the ability to run itself, diagnoses its own failure and rewrites the weights behind it. It surpasses itself: its own edit makes it 6.6 points more accurate on problems it never saw. It keeps getting better: it tests its edits on practice problems and submits only what works, each edit improving on the last, and over eight consecutive sessions its accuracy only rises. It repairs a damaged copy of itself, like a broken robot that fixes itself without being rebuilt: the copy solves almost nothing, yet with no retraining and without ever reading the original weights, the model brings it back to over 80% of the original accuracy on image tasks it never saw. And the ability emerges with scale: in one model family, the smaller models make no edit or break themselves, and only the largest improves and repairs itself. Unlike test-time scaling, self-rewriting writes its gain into the weights, at no cost per answer; unlike training, it runs only forward passes, as serving does. The wall between training and inference is a limit of our tools, not a property of intelligence. We believe self-rewriting is a necessary step toward recursive self-improvement: a model that, like a human, does not separate training from inference could keep upgrading itself for life, with no larger model, no harness or prompt engineering, and no pre- or post-training.",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+        "source": "arxiv.org",
+        "stats": "405 points · 118 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+        "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout",
+        "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
+        "source": "theguardian.com",
+        "stats": "301 points · 568 comments"
+      },
+      {
+        "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+        "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+        "description": "282 points · 150 comments",
         "image": "",
-        "source": "reuters.com",
+        "source": "marketscreener.com",
         "stats": ""
-      },
-      {
-        "url": "https://www.gregpalast.com/the-so-called-affair-between-the-nvidia-chief-and-the-chinese-spy/",
-        "title": "No spy. No temptress. The Nvidia love affair is called RICO",
-        "description": "11 points · 3 comments",
-        "image": "",
-        "source": "gregpalast.com",
-        "stats": ""
-      },
-      {
-        "url": "https://medium.com/alan/hopper-we-built-an-internal-coding-agent-now-80-of-alan-uses-it-9c11e5b62ca5",
-        "title": "We built an internal coding agent. Now 80% of the company uses it",
-        "description": "5 points · 0 comments",
-        "image": "",
-        "source": "medium.com",
-        "stats": ""
-      },
-      {
-        "url": "https://bsky.app/profile/steverattner.bsky.social/post/3n2oxywvqy22v",
-        "title": "Anthropic's founders and employees are now worth more than 45M families",
-        "description": "Anthropic&#39;s 5,300 founders and employees are now worth more than the bottom third of U.S. households (45 million families).",
-        "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2siuzncztvvgr47k7e7esvim/bafkreifs3qqd2rfcjcqpkugk6rpbi3c6yfpqtghzz4nmebagiences4dyy",
-        "source": "bsky.app",
-        "stats": "3 points · 1 comments"
       }
     ],
     "2026-11-19": [
       {
         "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "title": "Anthropic’s Nasdaq debut",
-        "description": "1079 points · 2133 comments",
+        "description": "1133 points · 2299 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
@@ -58,15 +100,7 @@
         "description": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
         "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
         "source": "anthropic.com",
-        "stats": "498 points · 231 comments"
-      },
-      {
-        "url": "https://git-aarvin.github.io/mei/",
-        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-        "description": "Mei calculates language models",
-        "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
-        "source": "git-aarvin.github.io",
-        "stats": "345 points · 219 comments"
+        "stats": "556 points · 270 comments"
       },
       {
         "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
@@ -74,7 +108,15 @@
         "description": "You can",
         "image": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/media/cover_hu_5a6285e4518135fc.jpg",
         "source": "ounapuu.ee",
-        "stats": "552 points · 221 comments"
+        "stats": "607 points · 248 comments"
+      },
+      {
+        "url": "https://git-aarvin.github.io/mei/",
+        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+        "description": "Mei calculates language models",
+        "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
+        "source": "git-aarvin.github.io",
+        "stats": "370 points · 243 comments"
       },
       {
         "url": "https://thedataexchange.media/pete-warden-moonshine/",
@@ -82,7 +124,7 @@
         "description": "Pete Warden on Local AI, Open Models, Voice Interfaces, and the Future of Hardware. Subscribe: Apple • Spotify • Overcast &hellip; More",
         "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
         "source": "thedataexchange.media",
-        "stats": "245 points · 218 comments"
+        "stats": "270 points · 247 comments"
       }
     ],
     "2026-11-18": [
@@ -92,23 +134,7 @@
         "description": "Today, we’re introducing Gemini 4 Neon",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
         "source": "blog.google",
-        "stats": "1033 points · 768 comments"
-      },
-      {
-        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-        "title": "Anthropic prices initial public offering",
-        "description": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
-        "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-        "source": "anthropic.com",
-        "stats": "416 points · 782 comments"
-      },
-      {
-        "url": "https://revscope.co/blog/search-seo-geo-2026/",
-        "title": "Google's AI answers reducing search traffic by 40%",
-        "description": "Google",
-        "image": "",
-        "source": "revscope.co",
-        "stats": "709 points · 563 comments"
+        "stats": "1054 points · 775 comments"
       },
       {
         "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
@@ -116,41 +142,25 @@
         "description": "LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI",
         "image": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/06/ai5555-1024x678.jpg",
         "source": "europeanbusinessmagazine.com",
-        "stats": "490 points · 259 comments"
+        "stats": "497 points · 262 comments"
       },
       {
-        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-        "title": "LLM assisted reverse engineering",
-        "description": "I have been hacking both hardware and software for 2 decades. Previously manually. But in 2026 with the help of AIs the proccess is greatly sped up. Below I wil",
-        "image": "https://www.slowchronicle.com/og-default.png",
-        "source": "slowchronicle.com",
-        "stats": "303 points · 78 comments"
+        "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+        "title": "Why is Gemini 4 Carbon taking so long?",
+        "description": "Gemini 4 Carbon spent close to an hour on tasks that Opus and Astra finished in minutes. We traced every step of its runs to find out why.",
+        "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
+        "source": "kernel.dev",
+        "stats": "284 points · 140 comments"
       }
     ],
     "2026-11-17": [
-      {
-        "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-        "description": "665 points · 297 comments",
-        "image": "",
-        "source": "ft.com",
-        "stats": ""
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50536468",
-        "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-        "description": "87 points · 52 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
       {
         "url": "https://notesbylex.com/weight-space-programming-1990s",
         "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
         "description": "The writing aspect of WSP turns out to be quite a history lesson.",
         "image": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
         "source": "notesbylex.com",
-        "stats": "87 points · 5 comments"
+        "stats": "122 points · 13 comments"
       }
     ],
     "2026-11-16": [
@@ -195,48 +205,6 @@
         "image": "",
         "source": "medium.com",
         "stats": ""
-      }
-    ],
-    "2026-11-14": [
-      {
-        "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-        "description": "445 points · 236 comments",
-        "image": "",
-        "source": "techspot.com",
-        "stats": ""
-      },
-      {
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-        "description": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax - Vaibhaav-Tiwari/deepseek-v3-jax",
-        "image": "https://opengraph.githubassets.com/e4347aa8790a3effe44033587bc6d547cdc0114735242f2c43a205c05f14b8c2/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "source": "github.com",
-        "stats": "272 points · 28 comments"
-      },
-      {
-        "url": "https://www.netmeister.org/blog/claude-delusion.html",
-        "title": "The Claude Delusion",
-        "description": "I",
-        "image": "https://www.netmeister.org/blog/images/claude-delusion.jpg",
-        "source": "netmeister.org",
-        "stats": "152 points · 200 comments"
-      },
-      {
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-        "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-        "description": "Running a frontier&#x2d;scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations connected over ConnectX&#x2d;8 RDMA serve one&#8230;",
-        "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
-        "source": "developer.nvidia.com",
-        "stats": "146 points · 70 comments"
-      },
-      {
-        "url": "https://github.com/paul-nameless/agweb",
-        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "description": " A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view. - paul-nameless/agweb",
-        "image": "https://opengraph.githubassets.com/79e37e28d9942472c08488a1d2890d6bfa08210932435abb2602104e1e794090/paul-nameless/agweb",
-        "source": "github.com",
-        "stats": "108 points · 37 comments"
       }
     ]
   }
