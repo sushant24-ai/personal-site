@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-11-21T09:25:01.704Z",
+  "lastUpdated": "2026-11-22T09:30:52.995Z",
   "days": {
+    "2026-11-22": [
+      {
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "title": "Data Processing Incidents on Inference Providers",
+        "description": "OpenRouter off-boarded three providers, removed 125 endpoints from Zero Data Retention eligibility, and notified potentially affected customers after canary token research on inference providers.",
+        "image": "https://openrouter.ai/og.png",
+        "source": "openrouter.ai",
+        "stats": "138 points · 53 comments"
+      },
+      {
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
+        "description": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
+        "image": "https://dragos.brightspotcdn.com/dims4/default/41c5c4a/2147483647/strip/true/crop/1307x735+309+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fdragos-production-dragos.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fd4%2Fb6%2Fb4dbcbe348a8b3506fb99c5419e7%2Fxot-hero.webp",
+        "source": "dragos.com",
+        "stats": "81 points · 17 comments"
+      },
+      {
+        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+        "title": "The Mythology of Conscious AI",
+        "description": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.",
+        "image": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+        "source": "noemamag.com",
+        "stats": "58 points · 112 comments"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "37 points · 11 comments"
+      },
+      {
+        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "title": "Together.ai: Prompt Leakage for Requests",
+        "description": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026.",
+        "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b022ac06b3b148585570c47_OG-image_20261121-security-event-prompt-leakage2.png",
+        "source": "together.ai",
+        "stats": "29 points · 8 comments"
+      }
+    ],
     "2026-11-21": [
       {
         "url": "http://ricapar.net/ClawDOS/",
@@ -8,49 +50,57 @@
         "description": "An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)",
         "image": "",
         "source": "ricapar.net",
-        "stats": "56 points · 15 comments"
+        "stats": "164 points · 51 comments"
       },
       {
-        "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
-        "title": "Don't Play Anthropic's Game",
-        "description": "10 points · 3 comments",
+        "url": "https://www.pandex.io",
+        "title": "Pandex – Official European Law for AI Agents, over MCP",
+        "description": "Legislation and highest-court decisions of the EU, seven European countries and the European Court of Human Rights, from the institutions that publish them, in one API and MCP server built for search and AI.",
+        "image": "https://www.pandex.io/opengraph-image?6367cd8c0b666bc6",
+        "source": "pandex.io",
+        "stats": "89 points · 20 comments"
+      },
+      {
+        "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
+        "title": "Anthropic's IPO bank closed position meant to stabilize stock",
+        "description": "33 points · 1 comments",
         "image": "",
-        "source": "nytimes.com",
+        "source": "reuters.com",
         "stats": ""
       },
       {
-        "url": "https://github.com/Musset-App/musset",
-        "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-        "description": "Open-source Mac app for writing novels and books: plain Markdown files, versions, typeset PDF and EPUB. A native Scrivener and Ulysses alternative, with an AI editor that never writes for you. - Mu...",
-        "image": "https://repository-images.githubusercontent.com/1452030676/c1e289c8-740c-43ff-a1c0-49be8340608c",
+        "url": "https://github.com/natsu0529/agent-mcts",
+        "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+        "description": "agent-mcts: a test-time search harness that runs Monte Carlo Tree Search over coding agents such as Claude Code and Codex CLI. - natsu0529/agent-mcts",
+        "image": "https://opengraph.githubassets.com/074ad9d4d355273397cf8fde7b20b0ed2760c67f9354506083f95d57dbb05fb0/natsu0529/agent-mcts",
         "source": "github.com",
-        "stats": "5 points · 1 comments"
+        "stats": "15 points · 0 comments"
       },
       {
-        "url": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
-        "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
-        "description": "2 points · 1 comments",
-        "image": "",
-        "source": "apnews.com",
-        "stats": ""
-      },
-      {
-        "url": "https://safedep.io/blog/malicious-npm-leadstack-crm-connect-hermes-agent-backdoor",
-        "title": "NPM package installed Hermes Agent as root and tasked it over Telegram",
-        "description": "Malicious npm package @leadstack/crm-connect installed Hermes Agent as a systemd service run from the attacker&#x27;s Telegram bot. Code, timeline and IoCs.",
-        "image": "https://safedep.io/_next/static/immutable/media/malicious-npm-leadstack-crm-connect-hermes-agent-backdoor-banner.3jikt6v9tl7_g.jpg",
-        "source": "safedep.io",
-        "stats": "5 points · 0 comments"
+        "url": "https://tasklet.ai/careers",
+        "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+        "description": "Join Tasklet in San Francisco. Help build AI employees that businesses can trust with real responsibilities.",
+        "image": "https://tasklet.ai/og-image.png",
+        "source": "tasklet.ai",
+        "stats": "1 points · 0 comments"
       }
     ],
     "2026-11-20": [
+      {
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+        "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout",
+        "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
+        "source": "theguardian.com",
+        "stats": "511 points · 894 comments"
+      },
       {
         "url": "https://architectlabs.com/blog/frostbite",
         "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
         "description": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core.",
         "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
         "source": "architectlabs.com",
-        "stats": "645 points · 333 comments"
+        "stats": "671 points · 359 comments"
       },
       {
         "url": "https://signal.org/blog/protecting-your-privacy/",
@@ -58,7 +108,7 @@
         "description": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data.",
         "image": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
         "source": "signal.org",
-        "stats": "549 points · 321 comments"
+        "stats": "574 points · 339 comments"
       },
       {
         "url": "https://arxiv.org/abs/2611.21885",
@@ -66,20 +116,12 @@
         "description": "A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model edited a much smaller one; here an open 27B model, given its weights, its graded answers and the ability to run itself, diagnoses its own failure and rewrites the weights behind it. It surpasses itself: its own edit makes it 6.6 points more accurate on problems it never saw. It keeps getting better: it tests its edits on practice problems and submits only what works, each edit improving on the last, and over eight consecutive sessions its accuracy only rises. It repairs a damaged copy of itself, like a broken robot that fixes itself without being rebuilt: the copy solves almost nothing, yet with no retraining and without ever reading the original weights, the model brings it back to over 80% of the original accuracy on image tasks it never saw. And the ability emerges with scale: in one model family, the smaller models make no edit or break themselves, and only the largest improves and repairs itself. Unlike test-time scaling, self-rewriting writes its gain into the weights, at no cost per answer; unlike training, it runs only forward passes, as serving does. The wall between training and inference is a limit of our tools, not a property of intelligence. We believe self-rewriting is a necessary step toward recursive self-improvement: a model that, like a human, does not separate training from inference could keep upgrading itself for life, with no larger model, no harness or prompt engineering, and no pre- or post-training.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "405 points · 118 comments"
-      },
-      {
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-        "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout",
-        "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
-        "source": "theguardian.com",
-        "stats": "301 points · 568 comments"
+        "stats": "485 points · 143 comments"
       },
       {
         "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
         "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
-        "description": "282 points · 150 comments",
+        "description": "303 points · 166 comments",
         "image": "",
         "source": "marketscreener.com",
         "stats": ""
@@ -87,44 +129,20 @@
     ],
     "2026-11-19": [
       {
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-        "title": "Anthropic’s Nasdaq debut",
-        "description": "1133 points · 2299 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
-      },
-      {
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "title": "Claude solves two open problems in the physics of black holes",
         "description": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
         "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
         "source": "anthropic.com",
-        "stats": "556 points · 270 comments"
+        "stats": "572 points · 273 comments"
       },
       {
-        "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-        "title": "Fuck Your AI Safeguards",
-        "description": "You can",
-        "image": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/media/cover_hu_5a6285e4518135fc.jpg",
-        "source": "ounapuu.ee",
-        "stats": "607 points · 248 comments"
-      },
-      {
-        "url": "https://git-aarvin.github.io/mei/",
-        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-        "description": "Mei calculates language models",
-        "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
-        "source": "git-aarvin.github.io",
-        "stats": "370 points · 243 comments"
-      },
-      {
-        "url": "https://thedataexchange.media/pete-warden-moonshine/",
-        "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-        "description": "Pete Warden on Local AI, Open Models, Voice Interfaces, and the Future of Hardware. Subscribe: Apple • Spotify • Overcast &hellip; More",
-        "image": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
-        "source": "thedataexchange.media",
-        "stats": "270 points · 247 comments"
+        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+        "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "image": "",
+        "source": "youtube.com",
+        "stats": "115 points · 258 comments"
       }
     ],
     "2026-11-18": [
@@ -134,23 +152,15 @@
         "description": "Today, we’re introducing Gemini 4 Neon",
         "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
         "source": "blog.google",
-        "stats": "1054 points · 775 comments"
+        "stats": "1059 points · 775 comments"
       },
       {
-        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-        "title": "AI agents ask better questions than KPMG accountants in audit trial",
-        "description": "LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI",
-        "image": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/06/ai5555-1024x678.jpg",
-        "source": "europeanbusinessmagazine.com",
-        "stats": "497 points · 262 comments"
-      },
-      {
-        "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-        "title": "Why is Gemini 4 Carbon taking so long?",
-        "description": "Gemini 4 Carbon spent close to an hour on tasks that Opus and Astra finished in minutes. We traced every step of its runs to find out why.",
-        "image": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
-        "source": "kernel.dev",
-        "stats": "284 points · 140 comments"
+        "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+        "title": "LLMs can read and write executables byte by byte from a hex dump",
+        "description": "With only a hex dump, no tools and one reply, a frontier LLM explains compiled programs, adds features by editing their bytes, and writes working executables from scratch.",
+        "image": "",
+        "source": "sgiannopoulos.github.io",
+        "stats": "240 points · 154 comments"
       }
     ],
     "2026-11-17": [
@@ -160,7 +170,7 @@
         "description": "The writing aspect of WSP turns out to be quite a history lesson.",
         "image": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
         "source": "notesbylex.com",
-        "stats": "122 points · 13 comments"
+        "stats": "126 points · 13 comments"
       }
     ],
     "2026-11-16": [
@@ -194,16 +204,6 @@
         "description": "58 points · 19 comments",
         "image": "",
         "source": "openai.com",
-        "stats": ""
-      }
-    ],
-    "2026-11-15": [
-      {
-        "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
-        "title": "When AI Knows More Than It Can Offer",
-        "description": "92 points · 57 comments",
-        "image": "",
-        "source": "medium.com",
         "stats": ""
       }
     ]
