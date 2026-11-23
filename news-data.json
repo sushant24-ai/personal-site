@@ -1,88 +1,114 @@
 {
-  "lastUpdated": "2026-11-22T09:30:52.995Z",
+  "lastUpdated": "2026-11-23T10:29:34.525Z",
   "days": {
+    "2026-11-23": [
+      {
+        "url": "https://z.ai/blog/glm-5.4",
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "description": "5 points · 0 comments",
+        "image": "https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&amp;h=720&amp;fit=fill",
+        "source": "z.ai",
+        "stats": ""
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+        "title": "Anthropic mathematician proves Riemann Hypothesis, most famous math problem",
+        "description": "The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion",
+        "image": "https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&w=1200",
+        "source": "scientificamerican.com",
+        "stats": "4 points · 1 comments"
+      },
+      {
+        "url": "https://www.gartner.com/en/articles/ai-agent-reality-check",
+        "title": "Gartner: 40% of agentic AI projects will be canceled by the end of 2027",
+        "description": "4 points · 2 comments",
+        "image": "",
+        "source": "gartner.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.phoronix.com/news/LiberNT",
+        "title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
+        "description": "8 points · 1 comments",
+        "image": "",
+        "source": "phoronix.com",
+        "stats": ""
+      },
+      {
+        "url": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+        "title": "$1 of GPT-5.1 tokens finds new ways around China's Great Firewall",
+        "description": "PLUS: Lenovo",
+        "image": "https://image.theregister.com/246780.jpg?imageId=246780&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "source": "theregister.com",
+        "stats": "2 points · 0 comments"
+      }
+    ],
     "2026-11-22": [
+      {
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "description": "A case study of Anthropic&#8217;s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028.",
+        "image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&#038;ssl=1",
+        "source": "betterdatacenterproject.com",
+        "stats": "972 points · 953 comments"
+      },
+      {
+        "url": "https://openai.com/index/perplexity-and-intelligence/",
+        "title": "Perplexity and Intelligence",
+        "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill",
+        "source": "openai.com",
+        "stats": "590 points · 400 comments"
+      },
+      {
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "description": "We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It&#x27;s private, and the whole house can use it.",
+        "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
+        "source": "gpupartner.com",
+        "stats": "516 points · 218 comments"
+      },
+      {
+        "url": "https://github.com/gulivan/worker755",
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "description": "A browser game where an AI manager thinks you are its subagent. Play at worker755.com - gulivan/worker755",
+        "image": "https://opengraph.githubassets.com/332b6671bf0feca5cc40852d6a30d1d350503878766684a12427f68ebff6595b/gulivan/worker755",
+        "source": "github.com",
+        "stats": "318 points · 78 comments"
+      },
       {
         "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
         "title": "Data Processing Incidents on Inference Providers",
         "description": "OpenRouter off-boarded three providers, removed 125 endpoints from Zero Data Retention eligibility, and notified potentially affected customers after canary token research on inference providers.",
         "image": "https://openrouter.ai/og.png",
         "source": "openrouter.ai",
-        "stats": "138 points · 53 comments"
-      },
-      {
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "title": "AI Supply Chain Security: What Canary Tokens Found",
-        "description": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
-        "image": "https://dragos.brightspotcdn.com/dims4/default/41c5c4a/2147483647/strip/true/crop/1307x735+309+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fdragos-production-dragos.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fd4%2Fb6%2Fb4dbcbe348a8b3506fb99c5419e7%2Fxot-hero.webp",
-        "source": "dragos.com",
-        "stats": "81 points · 17 comments"
-      },
-      {
-        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-        "title": "The Mythology of Conscious AI",
-        "description": "Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea.",
-        "image": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
-        "source": "noemamag.com",
-        "stats": "58 points · 112 comments"
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "37 points · 11 comments"
-      },
-      {
-        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-        "title": "Together.ai: Prompt Leakage for Requests",
-        "description": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026.",
-        "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b022ac06b3b148585570c47_OG-image_20261121-security-event-prompt-leakage2.png",
-        "source": "together.ai",
-        "stats": "29 points · 8 comments"
+        "stats": "287 points · 99 comments"
       }
     ],
     "2026-11-21": [
-      {
-        "url": "http://ricapar.net/ClawDOS/",
-        "title": "ClawDOS – An AI coding agent for DOS",
-        "description": "An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)",
-        "image": "",
-        "source": "ricapar.net",
-        "stats": "164 points · 51 comments"
-      },
       {
         "url": "https://www.pandex.io",
         "title": "Pandex – Official European Law for AI Agents, over MCP",
         "description": "Legislation and highest-court decisions of the EU, seven European countries and the European Court of Human Rights, from the institutions that publish them, in one API and MCP server built for search and AI.",
         "image": "https://www.pandex.io/opengraph-image?6367cd8c0b666bc6",
         "source": "pandex.io",
-        "stats": "89 points · 20 comments"
+        "stats": "140 points · 33 comments"
+      },
+      {
+        "url": "http://ricapar.net/ClawDOS/",
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "description": "An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)",
+        "image": "",
+        "source": "ricapar.net",
+        "stats": "175 points · 52 comments"
       },
       {
         "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
         "title": "Anthropic's IPO bank closed position meant to stabilize stock",
-        "description": "33 points · 1 comments",
+        "description": "35 points · 1 comments",
         "image": "",
         "source": "reuters.com",
         "stats": ""
-      },
-      {
-        "url": "https://github.com/natsu0529/agent-mcts",
-        "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
-        "description": "agent-mcts: a test-time search harness that runs Monte Carlo Tree Search over coding agents such as Claude Code and Codex CLI. - natsu0529/agent-mcts",
-        "image": "https://opengraph.githubassets.com/074ad9d4d355273397cf8fde7b20b0ed2760c67f9354506083f95d57dbb05fb0/natsu0529/agent-mcts",
-        "source": "github.com",
-        "stats": "15 points · 0 comments"
-      },
-      {
-        "url": "https://tasklet.ai/careers",
-        "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-        "description": "Join Tasklet in San Francisco. Help build AI employees that businesses can trust with real responsibilities.",
-        "image": "https://tasklet.ai/og-image.png",
-        "source": "tasklet.ai",
-        "stats": "1 points · 0 comments"
       }
     ],
     "2026-11-20": [
@@ -92,7 +118,7 @@
         "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout",
         "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
         "source": "theguardian.com",
-        "stats": "511 points · 894 comments"
+        "stats": "530 points · 924 comments"
       },
       {
         "url": "https://architectlabs.com/blog/frostbite",
@@ -100,7 +126,7 @@
         "description": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core.",
         "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
         "source": "architectlabs.com",
-        "stats": "671 points · 359 comments"
+        "stats": "682 points · 364 comments"
       },
       {
         "url": "https://signal.org/blog/protecting-your-privacy/",
@@ -108,7 +134,7 @@
         "description": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data.",
         "image": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
         "source": "signal.org",
-        "stats": "574 points · 339 comments"
+        "stats": "581 points · 348 comments"
       },
       {
         "url": "https://arxiv.org/abs/2611.21885",
@@ -116,15 +142,15 @@
         "description": "A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model edited a much smaller one; here an open 27B model, given its weights, its graded answers and the ability to run itself, diagnoses its own failure and rewrites the weights behind it. It surpasses itself: its own edit makes it 6.6 points more accurate on problems it never saw. It keeps getting better: it tests its edits on practice problems and submits only what works, each edit improving on the last, and over eight consecutive sessions its accuracy only rises. It repairs a damaged copy of itself, like a broken robot that fixes itself without being rebuilt: the copy solves almost nothing, yet with no retraining and without ever reading the original weights, the model brings it back to over 80% of the original accuracy on image tasks it never saw. And the ability emerges with scale: in one model family, the smaller models make no edit or break themselves, and only the largest improves and repairs itself. Unlike test-time scaling, self-rewriting writes its gain into the weights, at no cost per answer; unlike training, it runs only forward passes, as serving does. The wall between training and inference is a limit of our tools, not a property of intelligence. We believe self-rewriting is a necessary step toward recursive self-improvement: a model that, like a human, does not separate training from inference could keep upgrading itself for life, with no larger model, no harness or prompt engineering, and no pre- or post-training.",
         "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
         "source": "arxiv.org",
-        "stats": "485 points · 143 comments"
+        "stats": "492 points · 145 comments"
       },
       {
-        "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
-        "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
-        "description": "303 points · 166 comments",
-        "image": "",
-        "source": "marketscreener.com",
-        "stats": ""
+        "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+        "title": "Vibecoding an inference chip",
+        "description": "how coding agents wrote 3M lines of code to implement and optimize LLM inference on an FPGA",
+        "image": "https://ankitg.me/assets/fpga-board.png",
+        "source": "ankitg.me",
+        "stats": "177 points · 78 comments"
       }
     ],
     "2026-11-19": [
@@ -134,33 +160,25 @@
         "description": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
         "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
         "source": "anthropic.com",
-        "stats": "572 points · 273 comments"
+        "stats": "577 points · 274 comments"
       },
       {
-        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-        "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "image": "",
-        "source": "youtube.com",
-        "stats": "115 points · 258 comments"
+        "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
+        "title": "Agentics: Mushy Software",
+        "description": "Internal tools are more useful half finished",
+        "image": "https://substackcdn.com/image/fetch/$s_!gjz1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01d1e727-cb72-4092-8826-7c111f98ed89_512x448.gif",
+        "source": "12gramsofcarbon.com",
+        "stats": "46 points · 6 comments"
       }
     ],
     "2026-11-18": [
-      {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-        "title": "Gemini 4 Neon",
-        "description": "Today, we’re introducing Gemini 4 Neon",
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-        "source": "blog.google",
-        "stats": "1059 points · 775 comments"
-      },
       {
         "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
         "title": "LLMs can read and write executables byte by byte from a hex dump",
         "description": "With only a hex dump, no tools and one reply, a frontier LLM explains compiled programs, adds features by editing their bytes, and writes working executables from scratch.",
         "image": "",
         "source": "sgiannopoulos.github.io",
-        "stats": "240 points · 154 comments"
+        "stats": "313 points · 183 comments"
       }
     ],
     "2026-11-17": [
@@ -171,40 +189,6 @@
         "image": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
         "source": "notesbylex.com",
         "stats": "126 points · 13 comments"
-      }
-    ],
-    "2026-11-16": [
-      {
-        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-        "description": "Reverse engineering Windows 11",
-        "image": "https://xusheng.dev/posts/windows-coding-agent-telemetry/agent-names.jpeg",
-        "source": "xusheng.dev",
-        "stats": "722 points · 602 comments"
-      },
-      {
-        "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-        "title": "Nvidia was in trouble before the Jensen Huang mess",
-        "description": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-        "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/191:100/w_1280,c_limit/111226-Nvidia%20In%20Trouble.jpg",
-        "source": "wired.com",
-        "stats": "287 points · 262 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50520076",
-        "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-        "description": "94 points · 110 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
-      },
-      {
-        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
-        "title": "First phase of embedded assessments at OpenAI",
-        "description": "58 points · 19 comments",
-        "image": "",
-        "source": "openai.com",
-        "stats": ""
       }
     ]
   }
