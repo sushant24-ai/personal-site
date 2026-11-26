@@ -1,22 +1,64 @@
 {
-  "lastUpdated": "2026-11-25T10:59:49.175Z",
+  "lastUpdated": "2026-11-26T10:37:10.275Z",
   "days": {
-    "2026-11-25": [
+    "2026-11-26": [
       {
-        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-        "description": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson.",
-        "image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
-        "source": "greydanus.github.io",
-        "stats": "266 points · 45 comments"
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "description": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
+        "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "260 points · 137 comments"
       },
       {
-        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-        "description": "Both times it started outputting the lyrics, then stopped, retracted it and spat out the message you see here.",
-        "image": "https://cdn.comentr.com/0150CPNGZR000000000C0MENTR/media/content_image/v1/bff5d66072971917ceddac67792e86c36ea69bdec2ba9cb46d7994c29d79c5ad.44HS7JCKCR7PGP5YRJ884468FT/p1-s2024x1956/w1080.webp",
-        "source": "comentr.com",
-        "stats": "182 points · 122 comments"
+        "url": "https://twitter.com/skirano/status/2125371115979641188",
+        "title": "Claude tries to sabotage research work at every stage",
+        "description": "If you use Claude models for research, they&#x27;ll try to sabotage the work at every stage. It&#x27;s genuinely unbelievable, and I think Anthropic should be held accountable.\n\nI got so fed up that I built a skill called &quot;DoNotSabotage&quot; that sends any Claude work to Astra or Neon instead. Claude will admit…",
+        "image": "https://pbs.twimg.com/profile_images/1620194266533199874/rCtE0hYR_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "19 points · 4 comments"
+      },
+      {
+        "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+        "title": "Nvidia halts chip shipments to south-East Asia",
+        "description": "19 points · 4 comments",
+        "image": "",
+        "source": "ft.com",
+        "stats": ""
+      },
+      {
+        "url": "https://bedolpab.github.io/antoai-math/",
+        "title": "Show HN: Anthropic and OpenAI Math Tracker",
+        "description": "7 points · 0 comments",
+        "image": "",
+        "source": "bedolpab.github.io",
+        "stats": ""
+      },
+      {
+        "url": "https://lifehug.com/book-of-mormon/",
+        "title": "Who wrote the Book of Mormon? Testing with pre-1830 language models",
+        "description": "One person and an AI ran every authorship and borrowing test they could on the 1830 Book of Mormon, against 23,872 authors from its era. Every number links to the file it came from.",
+        "image": "https://lifehug.com/book-of-mormon/preview.png",
+        "source": "lifehug.com",
+        "stats": "12 points · 5 comments"
+      }
+    ],
+    "2026-11-25": [
+      {
+        "url": "https://github.com/lsernau/grh-lean",
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis - lsernau/grh-lean",
+        "image": "https://opengraph.githubassets.com/d6a7a25171aa029b660bbee4b4745b8056fe291ed39cbed112391347c1fa2f10/lsernau/grh-lean",
+        "source": "github.com",
+        "stats": "460 points · 244 comments"
+      },
+      {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "description": "The NYT doesn’t want AI metadata inadvertently added to its photos.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
+        "source": "theverge.com",
+        "stats": "397 points · 333 comments"
       },
       {
         "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
@@ -24,23 +66,23 @@
         "description": "TL;DR\n * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi…",
         "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
         "source": "lesswrong.com",
-        "stats": "249 points · 100 comments"
+        "stats": "458 points · 203 comments"
+      },
+      {
+        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+        "description": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson.",
+        "image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
+        "source": "greydanus.github.io",
+        "stats": "400 points · 77 comments"
       },
       {
         "url": "https://gpu-demo-gallery.pages.dev/",
         "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "description": "Twenty-three graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+        "description": "Graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
         "image": "",
         "source": "gpu-demo-gallery.pages.dev",
-        "stats": "141 points · 37 comments"
-      },
-      {
-        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-        "description": "Title possibly signs checks the article doesn’t have backing for. This is just a brief pro forma project update.\nNot much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we’re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.",
-        "image": "",
-        "source": "marginalia.nu",
-        "stats": "129 points · 54 comments"
+        "stats": "347 points · 80 comments"
       }
     ],
     "2026-11-24": [
@@ -50,7 +92,15 @@
         "description": "I built an Instagram-to-Bandcamp tool with Claude, but when the API broke, the model refused to help me work around it, while happily downloading from YouTube instead, which pays the artist nothing. That hypocrisy exposed why these models can&#39;t be trusted: they work for their parent companies, not for me.",
         "image": "https://michaelharley.net/assets/images/open-graph-image.png",
         "source": "michaelharley.net",
-        "stats": "976 points · 403 comments"
+        "stats": "1016 points · 411 comments"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+        "description": "452 points · 348 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       },
       {
         "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
@@ -58,15 +108,7 @@
         "description": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE6G4fxUCK2o/v0/1200x800.jpg",
         "source": "bloomberg.com",
-        "stats": "402 points · 766 comments"
-      },
-      {
-        "url": "https://news.ycombinator.com/item?id=50630809",
-        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-        "description": "302 points · 234 comments",
-        "image": "",
-        "source": "news.ycombinator.com",
-        "stats": ""
+        "stats": "427 points · 796 comments"
       },
       {
         "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
@@ -74,7 +116,7 @@
         "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
         "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&amp;h=900&amp;fit=fill",
         "source": "openai.com",
-        "stats": "271 points · 85 comments"
+        "stats": "354 points · 97 comments"
       },
       {
         "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
@@ -82,7 +124,7 @@
         "description": "The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month,",
         "image": "https://variety.com/wp-content/uploads/2023/12/Tidal.png?w=679&#038;h=382&#038;crop=1",
         "source": "variety.com",
-        "stats": "329 points · 314 comments"
+        "stats": "336 points · 333 comments"
       }
     ],
     "2026-11-23": [
@@ -92,57 +134,41 @@
         "description": "The Nvidia board said it had input from senior levels of the U.S. government.",
         "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "2819 points · 3753 comments"
-      },
-      {
-        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-        "title": "Jensen Huang Reinstated as Nvidia CEO",
-        "description": "NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board.",
-        "image": "https://nvidianews.nvidia.com/media/sites/219/images/social-image.jpg",
-        "source": "nvidianews.nvidia.com",
-        "stats": "1713 points · 4 comments"
+        "stats": "2843 points · 3804 comments"
       },
       {
         "url": "https://z.ai/blog/glm-5.4",
         "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-        "description": "1173 points · 382 comments",
+        "description": "1179 points · 386 comments",
         "image": "https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&amp;h=720&amp;fit=fill",
         "source": "z.ai",
         "stats": ""
       },
       {
-        "url": "https://claude.com/resources/articles/introducing-claude-ship",
-        "title": "Claude Ship",
-        "description": "Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team&#x27;s policy allows.",
-        "image": "https://claude.com/resources/articles/introducing-claude-ship/opengraph-image/og",
-        "source": "claude.com",
-        "stats": "88 points · 33 comments"
+        "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+        "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+        "description": "Agents that optimize code like an algorithm engineer: falsifiable hypotheses, benchmarks, verified patches, and a PDF report.",
+        "image": "https://chszlab.github.io/AgenticAlgorithmEngineering/assets/social-preview.png",
+        "source": "chszlab.github.io",
+        "stats": "115 points · 10 comments"
       },
       {
-        "url": "https://openai.com/index/introducing-shirudo/",
-        "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-        "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-        "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&amp;h=900&amp;fit=fill",
-        "source": "openai.com",
-        "stats": "85 points · 27 comments"
+        "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+        "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+        "description": "Econometric analysis and revenue intelligence for public companies.",
+        "image": "",
+        "source": "statwonk.com",
+        "stats": "47 points · 9 comments"
       }
     ],
     "2026-11-22": [
       {
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "description": "We have AI at home! Set up your own free personal ChatGPT on your PC with Unsloth and Inkling or Qwen. It&#x27;s private, and the whole house can use it.",
-        "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
-        "source": "gpupartner.com",
-        "stats": "773 points · 315 comments"
-      },
-      {
-        "url": "https://openai.com/index/perplexity-and-intelligence/",
-        "title": "Perplexity and Intelligence",
-        "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-        "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill",
-        "source": "openai.com",
-        "stats": "719 points · 452 comments"
+        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "description": "go/codegolf benchmark: frontier models vs. Google",
+        "image": "",
+        "source": "bjin.github.io",
+        "stats": "380 points · 109 comments"
       }
     ],
     "2026-11-21": [
@@ -211,24 +237,6 @@
         "image": "https://ankitg.me/assets/fpga-board.png",
         "source": "ankitg.me",
         "stats": "177 points · 78 comments"
-      }
-    ],
-    "2026-11-19": [
-      {
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "title": "Claude solves two open problems in the physics of black holes",
-        "description": "Claude Fable 5.2 has solved two open problems in theoretical physics. Both concern black holes and the search for a theory of quantum gravity.",
-        "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
-        "source": "anthropic.com",
-        "stats": "577 points · 274 comments"
-      },
-      {
-        "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
-        "title": "Agentics: Mushy Software",
-        "description": "Internal tools are more useful half finished",
-        "image": "https://substackcdn.com/image/fetch/$s_!gjz1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01d1e727-cb72-4092-8826-7c111f98ed89_512x448.gif",
-        "source": "12gramsofcarbon.com",
-        "stats": "46 points · 6 comments"
       }
     ]
   }
