@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-11-26T10:37:10.275Z",
+  "lastUpdated": "2026-11-27T10:39:52.824Z",
   "days": {
+    "2026-11-27": [
+      {
+        "url": "https://construct22.com/",
+        "title": "The group chat where your AI talks behind your back",
+        "description": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.",
+        "image": "",
+        "source": "construct22.com",
+        "stats": "269 points · 107 comments"
+      },
+      {
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "title": "Claude sabotaging SOTA ML research tasks",
+        "description": "After seeing the &quot;Claude sabotages your ML research&quot; posts, I was still skeptical, so I tested it on my own work.\n\nITS VERY VERY REAL WTF\nLeft: Claude model at 24k steps\nRight Gemini Neon model at ONLY 4k steps\n\nBreakdown in thread:",
+        "image": "https://pbs.twimg.com/media/HYF66EGWIAAF9lx?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "91 points · 62 comments"
+      },
+      {
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "title": "\"What's Claude's Fursona?\" and Other Questions",
+        "description": "Does Gemini 4 Neon mog Fable-5.2 on FursonaBench??",
+        "image": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/images/dithers/claude-fable-header_dithered.png",
+        "source": "herecomesthemoon.net",
+        "stats": "89 points · 71 comments"
+      },
+      {
+        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "description": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#039; internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks.",
+        "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+        "source": "the-decoder.com",
+        "stats": "54 points · 27 comments"
+      },
+      {
+        "url": "https://muxlio.github.io/muxlio/",
+        "title": "Muxlio: Durable workflow orchestration for AI agents and tools",
+        "description": "Durable workflow coordinator for multi-step work across AI agents and command-line tools—compiled plans, persistent runs, workers, and adapters.",
+        "image": "",
+        "source": "muxlio.github.io",
+        "stats": "5 points · 0 comments"
+      }
+    ],
     "2026-11-26": [
+      {
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "title": "AI made self-hosting fun again",
+        "description": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.",
+        "image": "",
+        "source": "janlukas.blog",
+        "stats": "717 points · 355 comments"
+      },
       {
         "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
         "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
         "description": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
         "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
         "source": "twitter.com",
-        "stats": "260 points · 137 comments"
+        "stats": "486 points · 267 comments"
       },
       {
-        "url": "https://twitter.com/skirano/status/2125371115979641188",
-        "title": "Claude tries to sabotage research work at every stage",
-        "description": "If you use Claude models for research, they&#x27;ll try to sabotage the work at every stage. It&#x27;s genuinely unbelievable, and I think Anthropic should be held accountable.\n\nI got so fed up that I built a skill called &quot;DoNotSabotage&quot; that sends any Claude work to Astra or Neon instead. Claude will admit…",
-        "image": "https://pbs.twimg.com/profile_images/1620194266533199874/rCtE0hYR_400x400.jpg",
-        "source": "twitter.com",
-        "stats": "19 points · 4 comments"
-      },
-      {
-        "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
-        "title": "Nvidia halts chip shipments to south-East Asia",
-        "description": "19 points · 4 comments",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "title": "AMD-specific fork of llama.cpp",
+        "description": "Miscellaneous bits and bobs from the tech world",
         "image": "",
-        "source": "ft.com",
-        "stats": ""
+        "source": "devnull.land",
+        "stats": "364 points · 87 comments"
       },
       {
-        "url": "https://bedolpab.github.io/antoai-math/",
-        "title": "Show HN: Anthropic and OpenAI Math Tracker",
-        "description": "7 points · 0 comments",
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+        "title": "OpenAI may be in cost control mode",
+        "description": "OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. What happened?\nBased on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped.\nHere is a chart of high-level cost change from the GPT-6 to GPT 6.2:\nThe X axis in the above chart is the ratio of spending of the GPT model compared to opponents in our battle system for real work. The Y axis on the above chart is Elo from our leaderboard.",
         "image": "",
-        "source": "bedolpab.github.io",
-        "stats": ""
+        "source": "micjm.com",
+        "stats": "333 points · 342 comments"
       },
       {
-        "url": "https://lifehug.com/book-of-mormon/",
-        "title": "Who wrote the Book of Mormon? Testing with pre-1830 language models",
-        "description": "One person and an AI ran every authorship and borrowing test they could on the 1830 Book of Mormon, against 23,872 authors from its era. Every number links to the file it came from.",
-        "image": "https://lifehug.com/book-of-mormon/preview.png",
-        "source": "lifehug.com",
-        "stats": "12 points · 5 comments"
+        "url": "https://diseasescuredbyai.com/",
+        "title": "Tracking Diseases Cured by AI",
+        "description": "310 points · 190 comments",
+        "image": "",
+        "source": "diseasescuredbyai.com",
+        "stats": ""
       }
     ],
     "2026-11-25": [
@@ -48,9 +90,9 @@
         "url": "https://github.com/lsernau/grh-lean",
         "title": "Much shorter version of GRH Lean verification from Anthropic",
         "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis - lsernau/grh-lean",
-        "image": "https://opengraph.githubassets.com/d6a7a25171aa029b660bbee4b4745b8056fe291ed39cbed112391347c1fa2f10/lsernau/grh-lean",
+        "image": "https://opengraph.githubassets.com/8a4cd787a023b12ec362348ad4af863edf16ca743178a3d882613b4345974983/lsernau/grh-lean",
         "source": "github.com",
-        "stats": "460 points · 244 comments"
+        "stats": "556 points · 355 comments"
       },
       {
         "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
@@ -58,7 +100,7 @@
         "description": "The NYT doesn’t want AI metadata inadvertently added to its photos.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
         "source": "theverge.com",
-        "stats": "397 points · 333 comments"
+        "stats": "671 points · 530 comments"
       },
       {
         "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
@@ -66,7 +108,7 @@
         "description": "TL;DR\n * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi…",
         "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
         "source": "lesswrong.com",
-        "stats": "458 points · 203 comments"
+        "stats": "467 points · 217 comments"
       },
       {
         "url": "https://greydanus.github.io/2026/11/12/pengpt/",
@@ -74,7 +116,7 @@
         "description": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson.",
         "image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
         "source": "greydanus.github.io",
-        "stats": "400 points · 77 comments"
+        "stats": "406 points · 78 comments"
       },
       {
         "url": "https://gpu-demo-gallery.pages.dev/",
@@ -82,7 +124,7 @@
         "description": "Graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
         "image": "",
         "source": "gpu-demo-gallery.pages.dev",
-        "stats": "347 points · 80 comments"
+        "stats": "355 points · 80 comments"
       }
     ],
     "2026-11-24": [
@@ -92,39 +134,31 @@
         "description": "I built an Instagram-to-Bandcamp tool with Claude, but when the API broke, the model refused to help me work around it, while happily downloading from YouTube instead, which pays the artist nothing. That hypocrisy exposed why these models can&#39;t be trusted: they work for their parent companies, not for me.",
         "image": "https://michaelharley.net/assets/images/open-graph-image.png",
         "source": "michaelharley.net",
-        "stats": "1016 points · 411 comments"
+        "stats": "1032 points · 415 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=50630809",
         "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-        "description": "452 points · 348 comments",
+        "description": "468 points · 358 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
       },
       {
-        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-        "title": "Anthropic breaks below $83 IPO price",
-        "description": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE6G4fxUCK2o/v0/1200x800.jpg",
-        "source": "bloomberg.com",
-        "stats": "427 points · 796 comments"
+        "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+        "title": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "description": "Rockbox is a wonderful old custom firmware project for a variety of MP3 players and iPods. Flashing rockbox to my Sansa E200 was a seminal moment for me: computers were everywhere, and if they didn’t do cool things, it was because no one had bothered to program them to do so. Looking back, that played no small part in my choice of career.",
+        "image": "",
+        "source": "jayd.ml",
+        "stats": "284 points · 105 comments"
       },
       {
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-        "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&amp;h=900&amp;fit=fill",
-        "source": "openai.com",
-        "stats": "354 points · 97 comments"
-      },
-      {
-        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-        "title": "Tidal bans AI-generated music",
-        "description": "The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month,",
-        "image": "https://variety.com/wp-content/uploads/2023/12/Tidal.png?w=679&#038;h=382&#038;crop=1",
-        "source": "variety.com",
-        "stats": "336 points · 333 comments"
+        "url": "https://news.ycombinator.com/item?id=50634426",
+        "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+        "description": "107 points · 109 comments",
+        "image": "",
+        "source": "news.ycombinator.com",
+        "stats": ""
       }
     ],
     "2026-11-23": [
@@ -134,12 +168,12 @@
         "description": "The Nvidia board said it had input from senior levels of the U.S. government.",
         "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "2843 points · 3804 comments"
+        "stats": "2851 points · 3824 comments"
       },
       {
         "url": "https://z.ai/blog/glm-5.4",
         "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-        "description": "1179 points · 386 comments",
+        "description": "1181 points · 388 comments",
         "image": "https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&amp;h=720&amp;fit=fill",
         "source": "z.ai",
         "stats": ""
@@ -150,15 +184,15 @@
         "description": "Agents that optimize code like an algorithm engineer: falsifiable hypotheses, benchmarks, verified patches, and a PDF report.",
         "image": "https://chszlab.github.io/AgenticAlgorithmEngineering/assets/social-preview.png",
         "source": "chszlab.github.io",
-        "stats": "115 points · 10 comments"
+        "stats": "132 points · 13 comments"
       },
       {
-        "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
-        "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-        "description": "Econometric analysis and revenue intelligence for public companies.",
+        "url": "https://eng.snap.com/mcp-gateway",
+        "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+        "description": "How Snap&#x27;s MCP Gateway makes every call from an AI agent pass as both the person and the agent: agent identities, attestation tokens, reviewed per-tool grants and central audit.",
         "image": "",
-        "source": "statwonk.com",
-        "stats": "47 points · 9 comments"
+        "source": "eng.snap.com",
+        "stats": "24 points · 10 comments"
       }
     ],
     "2026-11-22": [
@@ -168,7 +202,7 @@
         "description": "go/codegolf benchmark: frontier models vs. Google",
         "image": "",
         "source": "bjin.github.io",
-        "stats": "380 points · 109 comments"
+        "stats": "466 points · 133 comments"
       }
     ],
     "2026-11-21": [
@@ -195,48 +229,6 @@
         "image": "",
         "source": "reuters.com",
         "stats": ""
-      }
-    ],
-    "2026-11-20": [
-      {
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-        "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout",
-        "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a36857abb7bd0660d819105186f898a0",
-        "source": "theguardian.com",
-        "stats": "530 points · 924 comments"
-      },
-      {
-        "url": "https://architectlabs.com/blog/frostbite",
-        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "description": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order) CPU core.",
-        "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
-        "source": "architectlabs.com",
-        "stats": "682 points · 364 comments"
-      },
-      {
-        "url": "https://signal.org/blog/protecting-your-privacy/",
-        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-        "description": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data.",
-        "image": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
-        "source": "signal.org",
-        "stats": "581 points · 348 comments"
-      },
-      {
-        "url": "https://arxiv.org/abs/2611.21885",
-        "title": "Language Models Can Rewrite Their Own Weights",
-        "description": "A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no training. We call this self-rewriting: the model is its own optimizer. In earlier work, a frontier model edited a much smaller one; here an open 27B model, given its weights, its graded answers and the ability to run itself, diagnoses its own failure and rewrites the weights behind it. It surpasses itself: its own edit makes it 6.6 points more accurate on problems it never saw. It keeps getting better: it tests its edits on practice problems and submits only what works, each edit improving on the last, and over eight consecutive sessions its accuracy only rises. It repairs a damaged copy of itself, like a broken robot that fixes itself without being rebuilt: the copy solves almost nothing, yet with no retraining and without ever reading the original weights, the model brings it back to over 80% of the original accuracy on image tasks it never saw. And the ability emerges with scale: in one model family, the smaller models make no edit or break themselves, and only the largest improves and repairs itself. Unlike test-time scaling, self-rewriting writes its gain into the weights, at no cost per answer; unlike training, it runs only forward passes, as serving does. The wall between training and inference is a limit of our tools, not a property of intelligence. We believe self-rewriting is a necessary step toward recursive self-improvement: a model that, like a human, does not separate training from inference could keep upgrading itself for life, with no larger model, no harness or prompt engineering, and no pre- or post-training.",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-        "source": "arxiv.org",
-        "stats": "492 points · 145 comments"
-      },
-      {
-        "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-        "title": "Vibecoding an inference chip",
-        "description": "how coding agents wrote 3M lines of code to implement and optimize LLM inference on an FPGA",
-        "image": "https://ankitg.me/assets/fpga-board.png",
-        "source": "ankitg.me",
-        "stats": "177 points · 78 comments"
       }
     ]
   }
