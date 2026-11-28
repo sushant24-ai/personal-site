@@ -1,46 +1,88 @@
 {
-  "lastUpdated": "2026-11-27T10:39:52.824Z",
+  "lastUpdated": "2026-11-28T09:58:24.914Z",
   "days": {
-    "2026-11-27": [
+    "2026-11-28": [
       {
-        "url": "https://construct22.com/",
-        "title": "The group chat where your AI talks behind your back",
-        "description": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.",
-        "image": "",
-        "source": "construct22.com",
-        "stats": "269 points · 107 comments"
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+        "description": "The Home Doctor — Practical Medicine for Every Household is a 304-page, doctor-written guide showing you how to safely manage most health situations at home when help isn’t on the way.",
+        "image": "https://substackcdn.com/image/fetch/$s_!opth!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdrmahfouz.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-356292795%26version%3D9",
+        "source": "drmahfouz.substack.com",
+        "stats": "171 points · 124 comments"
       },
       {
+        "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+        "title": "Claude silently added rules to ignore users skintone preferences in our app",
+        "description": "I just had Neon audit our codebase for subtle sabotage by Anthropic models.\n\nIt found Claude silently added rules to ignore users&#x27; explicit skin-tone preferences in our attraction model and it intentionally sabotaged our IQ estimation model.\n\nSilently imposing your ideology on paying customers&#x27; pro…",
+        "image": "https://pbs.twimg.com/profile_images/2105266666829410304/Rtr4_Efn_400x400.jpg",
+        "source": "twitter.com",
+        "stats": "36 points · 17 comments"
+      },
+      {
+        "url": "https://github.com/earendil-works/pi/pull/12614",
+        "title": "Google adding official Google AI plan support to Pi coding agent",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI - Google AI plan by davidbrai · Pull Request #12614 · earendil-works/pi",
+        "image": "https://opengraph.githubassets.com/307a394503e5385d0e0930579bfebc8ccb55ad9a7eb51fac8fcf1939ed210705/earendil-works/pi/pull/12614",
+        "source": "github.com",
+        "stats": "17 points · 3 comments"
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+        "title": "AI labs sitting on 'bombshell' revelations, experts warn",
+        "description": "14 points · 0 comments",
+        "image": "",
+        "source": "theguardian.com",
+        "stats": ""
+      },
+      {
+        "url": "https://twitter.com/superalesha/status/2125682626056839259",
+        "title": "54% faster LLM token generation by removing the Linux OS and llama.cpp",
+        "description": "I deleted Linux completely, baked Qwen3-0.6B into a 24 KB pure x86-64 assembly OS, and it runs up to 54% faster than native Linux llama.cpp.\n\nThe entire Multiboot OS binary (asm-llm-os.elf) is 24,252 bytes, written from scratch without Linux, Windows, C, Rust, or libc. It boots in 74 to 94 ms strai…",
+        "image": "https://pbs.twimg.com/ext_tw_video_thumb/2125681516449550336/pu/img/HrWdYggoykJJTNeE?format=webp&amp;name=large",
+        "source": "twitter.com",
+        "stats": "10 points · 2 comments"
+      }
+    ],
+    "2026-11-27": [
+      {
         "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "title": "Claude sabotaging SOTA ML research tasks",
+        "title": "Claude sabotaging ML research tasks?",
         "description": "After seeing the &quot;Claude sabotages your ML research&quot; posts, I was still skeptical, so I tested it on my own work.\n\nITS VERY VERY REAL WTF\nLeft: Claude model at 24k steps\nRight Gemini Neon model at ONLY 4k steps\n\nBreakdown in thread:",
         "image": "https://pbs.twimg.com/media/HYF66EGWIAAF9lx?format=webp&amp;name=large",
         "source": "twitter.com",
-        "stats": "91 points · 62 comments"
+        "stats": "704 points · 312 comments"
+      },
+      {
+        "url": "https://construct22.com/",
+        "title": "Group chat where your AI talks behind your back",
+        "description": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.",
+        "image": "",
+        "source": "construct22.com",
+        "stats": "706 points · 290 comments"
+      },
+      {
+        "url": "https://thesoapbox.email/archive/3",
+        "title": "I'm Scared of AI",
+        "description": "A stranger writes to the whole list every morning. Nobody picks them for being interesting. Tomorrow it could be you.",
+        "image": "https://thesoapbox.email/og.png",
+        "source": "thesoapbox.email",
+        "stats": "213 points · 247 comments"
       },
       {
         "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-        "title": "\"What's Claude's Fursona?\" and Other Questions",
+        "title": "\"What's Claude's fursona?\" and other questions",
         "description": "Does Gemini 4 Neon mog Fable-5.2 on FursonaBench??",
         "image": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/images/dithers/claude-fable-header_dithered.png",
         "source": "herecomesthemoon.net",
-        "stats": "89 points · 71 comments"
+        "stats": "201 points · 192 comments"
       },
       {
-        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-        "description": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents&#039; internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks.",
-        "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
-        "source": "the-decoder.com",
-        "stats": "54 points · 27 comments"
-      },
-      {
-        "url": "https://muxlio.github.io/muxlio/",
-        "title": "Muxlio: Durable workflow orchestration for AI agents and tools",
-        "description": "Durable workflow coordinator for multi-step work across AI agents and command-line tools—compiled plans, persistent runs, workers, and adapters.",
-        "image": "",
-        "source": "muxlio.github.io",
-        "stats": "5 points · 0 comments"
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "title": "GPT 6.2 Astra solves a historical mystery",
+        "description": "OpenAI’s newest model can autonomously research open historical problems from end to end, forming hypotheses to make new discoveries.",
+        "image": "https://substackcdn.com/image/fetch/$s_!mr1c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85c196c7-1cc6-440f-b086-de25bf788ac1_1672x941.png",
+        "source": "generativehistory.substack.com",
+        "stats": "167 points · 1 comments"
       }
     ],
     "2026-11-26": [
@@ -50,7 +92,7 @@
         "description": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.",
         "image": "",
         "source": "janlukas.blog",
-        "stats": "717 points · 355 comments"
+        "stats": "1119 points · 522 comments"
       },
       {
         "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
@@ -58,7 +100,7 @@
         "description": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster…",
         "image": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg",
         "source": "twitter.com",
-        "stats": "486 points · 267 comments"
+        "stats": "511 points · 275 comments"
       },
       {
         "url": "https://devnull.land/amd-specific-llama-cpp",
@@ -66,7 +108,7 @@
         "description": "Miscellaneous bits and bobs from the tech world",
         "image": "",
         "source": "devnull.land",
-        "stats": "364 points · 87 comments"
+        "stats": "443 points · 108 comments"
       },
       {
         "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
@@ -74,15 +116,15 @@
         "description": "OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. What happened?\nBased on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped.\nHere is a chart of high-level cost change from the GPT-6 to GPT 6.2:\nThe X axis in the above chart is the ratio of spending of the GPT model compared to opponents in our battle system for real work. The Y axis on the above chart is Elo from our leaderboard.",
         "image": "",
         "source": "micjm.com",
-        "stats": "333 points · 342 comments"
+        "stats": "356 points · 358 comments"
       },
       {
-        "url": "https://diseasescuredbyai.com/",
-        "title": "Tracking Diseases Cured by AI",
-        "description": "310 points · 190 comments",
-        "image": "",
-        "source": "diseasescuredbyai.com",
-        "stats": ""
+        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+        "description": "From February 2027, Google&#x27;s terms require AI agents to reach Gmail, Drive and the rest of Workspace through Google&#x27;s own MCP servers. What the rule says, what the servers can and can&#x27;t do, and what to change before the deadline.",
+        "image": "https://techstackups.com/img/articles/google-workspace-agent-api/cover.jpg",
+        "source": "techstackups.com",
+        "stats": "421 points · 333 comments"
       }
     ],
     "2026-11-25": [
@@ -90,9 +132,9 @@
         "url": "https://github.com/lsernau/grh-lean",
         "title": "Much shorter version of GRH Lean verification from Anthropic",
         "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis - lsernau/grh-lean",
-        "image": "https://opengraph.githubassets.com/8a4cd787a023b12ec362348ad4af863edf16ca743178a3d882613b4345974983/lsernau/grh-lean",
+        "image": "https://opengraph.githubassets.com/5433084d318f192b0c03773d5bc6a83130c2cffb2bbd483310270de4026117f0/lsernau/grh-lean",
         "source": "github.com",
-        "stats": "556 points · 355 comments"
+        "stats": "565 points · 366 comments"
       },
       {
         "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
@@ -100,7 +142,15 @@
         "description": "The NYT doesn’t want AI metadata inadvertently added to its photos.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
         "source": "theverge.com",
-        "stats": "671 points · 530 comments"
+        "stats": "685 points · 546 comments"
+      },
+      {
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "description": "OpenAI’s newest model can autonomously research open historical problems from end to end, forming hypotheses to make new discoveries.",
+        "image": "https://substackcdn.com/image/fetch/$s_!mr1c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85c196c7-1cc6-440f-b086-de25bf788ac1_1672x941.png",
+        "source": "generativehistory.substack.com",
+        "stats": "446 points · 282 comments"
       },
       {
         "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
@@ -109,37 +159,13 @@
         "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
         "source": "lesswrong.com",
         "stats": "467 points · 217 comments"
-      },
-      {
-        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-        "description": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson.",
-        "image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
-        "source": "greydanus.github.io",
-        "stats": "406 points · 78 comments"
-      },
-      {
-        "url": "https://gpu-demo-gallery.pages.dev/",
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "description": "Graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
-        "image": "",
-        "source": "gpu-demo-gallery.pages.dev",
-        "stats": "355 points · 80 comments"
       }
     ],
     "2026-11-24": [
       {
-        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-        "title": "LLM agents work for their parent companies, not for you",
-        "description": "I built an Instagram-to-Bandcamp tool with Claude, but when the API broke, the model refused to help me work around it, while happily downloading from YouTube instead, which pays the artist nothing. That hypocrisy exposed why these models can&#39;t be trusted: they work for their parent companies, not for me.",
-        "image": "https://michaelharley.net/assets/images/open-graph-image.png",
-        "source": "michaelharley.net",
-        "stats": "1032 points · 415 comments"
-      },
-      {
         "url": "https://news.ycombinator.com/item?id=50630809",
         "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-        "description": "468 points · 358 comments",
+        "description": "477 points · 362 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -150,12 +176,12 @@
         "description": "Rockbox is a wonderful old custom firmware project for a variety of MP3 players and iPods. Flashing rockbox to my Sansa E200 was a seminal moment for me: computers were everywhere, and if they didn’t do cool things, it was because no one had bothered to program them to do so. Looking back, that played no small part in my choice of career.",
         "image": "",
         "source": "jayd.ml",
-        "stats": "284 points · 105 comments"
+        "stats": "298 points · 112 comments"
       },
       {
         "url": "https://news.ycombinator.com/item?id=50634426",
         "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-        "description": "107 points · 109 comments",
+        "description": "112 points · 112 comments",
         "image": "",
         "source": "news.ycombinator.com",
         "stats": ""
@@ -168,31 +194,7 @@
         "description": "The Nvidia board said it had input from senior levels of the U.S. government.",
         "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080",
         "source": "cnbc.com",
-        "stats": "2851 points · 3824 comments"
-      },
-      {
-        "url": "https://z.ai/blog/glm-5.4",
-        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-        "description": "1181 points · 388 comments",
-        "image": "https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&amp;h=720&amp;fit=fill",
-        "source": "z.ai",
-        "stats": ""
-      },
-      {
-        "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-        "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-        "description": "Agents that optimize code like an algorithm engineer: falsifiable hypotheses, benchmarks, verified patches, and a PDF report.",
-        "image": "https://chszlab.github.io/AgenticAlgorithmEngineering/assets/social-preview.png",
-        "source": "chszlab.github.io",
-        "stats": "132 points · 13 comments"
-      },
-      {
-        "url": "https://eng.snap.com/mcp-gateway",
-        "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
-        "description": "How Snap&#x27;s MCP Gateway makes every call from an AI agent pass as both the person and the agent: agent identities, attestation tokens, reviewed per-tool grants and central audit.",
-        "image": "",
-        "source": "eng.snap.com",
-        "stats": "24 points · 10 comments"
+        "stats": "2860 points · 3831 comments"
       }
     ],
     "2026-11-22": [
@@ -203,32 +205,6 @@
         "image": "",
         "source": "bjin.github.io",
         "stats": "466 points · 133 comments"
-      }
-    ],
-    "2026-11-21": [
-      {
-        "url": "https://www.pandex.io",
-        "title": "Pandex – Official European Law for AI Agents, over MCP",
-        "description": "Legislation and highest-court decisions of the EU, seven European countries and the European Court of Human Rights, from the institutions that publish them, in one API and MCP server built for search and AI.",
-        "image": "https://www.pandex.io/opengraph-image?6367cd8c0b666bc6",
-        "source": "pandex.io",
-        "stats": "140 points · 33 comments"
-      },
-      {
-        "url": "http://ricapar.net/ClawDOS/",
-        "title": "ClawDOS – An AI coding agent for DOS",
-        "description": "An AI chat and coding harness for DOS, on a real IBM PC 5160 (8088 at 4.77 MHz)",
-        "image": "",
-        "source": "ricapar.net",
-        "stats": "175 points · 52 comments"
-      },
-      {
-        "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
-        "title": "Anthropic's IPO bank closed position meant to stabilize stock",
-        "description": "35 points · 1 comments",
-        "image": "",
-        "source": "reuters.com",
-        "stats": ""
       }
     ]
   }
